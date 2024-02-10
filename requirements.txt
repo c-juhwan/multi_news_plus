@@ -26,3 +26,4 @@ sacremoses==0.0.53
 git+https://github.com/Maluuba/nlg-eval.git@master
 sentence-transformers==2.2.2
 bert-score==0.3.13
+rouge-score==0.1.2

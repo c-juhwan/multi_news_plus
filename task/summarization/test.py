@@ -11,6 +11,7 @@ from tqdm.auto import tqdm
 from nlgeval import NLGEval
 from bert_score import BERTScorer
 from BARTScore.bart_score import BARTScorer
+from rouge_score import rouge_scorer
 # Pytorch Modules
 import torch
 torch.set_num_threads(2)
@@ -52,6 +53,7 @@ def testing(args: argparse.Namespace) -> None:
     write_log(logger, "Building model")
     model_name = get_huggingface_model_name(args.model_type)
     model = AutoModelForSeq2SeqLM.from_pretrained(model_name).to(device)
+    # tokenizer = AutoTokenizer.from_pretrained(model_name, model_max_length=args.max_seq_len)
     tokenizer = AutoTokenizer.from_pretrained(model_name, additional_special_tokens=[args.doc_sep_token], model_max_length=args.max_seq_len) # Add special token for input
     # avoid 'sep_token' to be added multiple times - T5 already has '<sep>' token
     model.resize_token_embeddings(len(tokenizer)) # Resize model embedding to fit new tokenizer
@@ -90,13 +92,15 @@ def testing(args: argparse.Namespace) -> None:
         # Test - Get data from batch
         source_text = data_dicts['source_text']
         target_text = data_dicts['target_text']
+        # model_inputs = tokenizer(source_text, text_target=None, # Test data does not have target text
+        #                             padding='max_length', truncation=True,
+        #                             max_length=args.max_seq_len, return_tensors='pt')
         model_inputs = tokenizer(source_text, text_target=None, # Test data does not have target text
-                                    padding='max_length', truncation=True,
-                                    max_length=args.max_seq_len, return_tensors='pt')
+                                 padding='longest', truncation=True, return_tensors='pt')
         model_inputs = {k: v.to(device) for k, v in model_inputs.items()}
 
         with torch.no_grad():
-            generated_tokens = model.generate(**model_inputs, max_length=args.max_seq_len, early_stopping=True)
+            generated_tokens = model.generate(**model_inputs, max_length=args.max_seq_len)
         generated_target = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
 
         for idx, (source, target, generated) in enumerate(zip(source_text, target_text, generated_target)):
@@ -118,13 +122,29 @@ def testing(args: argparse.Namespace) -> None:
     Eval = NLGEval(metrics_to_omit=['SPICE', 'CIDEr', 'SkipThoughtCS', 'EmbeddingAverageCosineSimilairty', 'VectorExtremaCosineSimilarity', 'GreedyMatchingScore'])
     BERT_Eval = BERTScorer(device=args.device, model_type='bert-base-uncased')
     BART_Eval = BARTScorer(device=args.device, checkpoint='facebook/bart-large-cnn')
+    ROUGE_Eval = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL', 'rougeLsum'], use_stemmer=True)
 
     # I don't know why but we need this
     _strip = lambda x: x.strip()
     ref_list2 = [list(map(_strip, refs)) for refs in zip(*ref_list)]
     metrics_dict = Eval.compute_metrics(ref_list2, hyp_list)
-    bert_score_P, bert_score_R, bert_score_F1, bart_score_total = 0, 0, 0, 0
 
+    # Test - ROUGE
+    rouge_1, rouge_2, rouge_L, rouge_Lsum = 0, 0, 0, 0
+    write_log(logger, "TEST - Calculating ROUGE metrics...")
+    for idx, (ref, hyp) in enumerate(zip(ref_list, hyp_list)):
+        scores = ROUGE_Eval.score(ref, hyp)
+        rouge_1 += scores['rouge1'].fmeasure
+        rouge_2 += scores['rouge2'].fmeasure
+        rouge_L += scores['rougeL'].fmeasure
+        rouge_Lsum += scores['rougeLsum'].fmeasure
+    rouge_1 /= len(ref_list)
+    rouge_2 /= len(ref_list)
+    rouge_L /= len(ref_list)
+    rouge_Lsum /= len(ref_list)
+
+    # Test - BERTScore and BARTScore
+    bert_score_P, bert_score_R, bert_score_F1, bart_score_total = 0, 0, 0, 0
     write_log(logger, "TEST - Calculating BERTScore metrics...")
     bert_score_P, bert_score_R, bert_score_F1 = BERT_Eval.score(ref_list, hyp_list, batch_size=args.test_batch_size)
 
@@ -142,7 +162,11 @@ def testing(args: argparse.Namespace) -> None:
     write_log(logger, f"TEST - Bleu_3: {metrics_dict['Bleu_3']:.4f}")
     write_log(logger, f"TEST - Bleu_4: {metrics_dict['Bleu_4']:.4f}")
     write_log(logger, f"TEST - Bleu_avg: {(metrics_dict['Bleu_1'] + metrics_dict['Bleu_2'] + metrics_dict['Bleu_3'] + metrics_dict['Bleu_4']) / 4:.4f}")
-    write_log(logger, f"TEST - Rouge_L: {metrics_dict['ROUGE_L']:.4f}")
+    write_log(logger, f"TEST - Rouge_1: {rouge_1:.4f}")
+    write_log(logger, f"TEST - Rouge_2: {rouge_2:.4f}")
+    write_log(logger, f"TEST - Rouge_L: {rouge_L:.4f}")
+    write_log(logger, f"TEST - Rouge_Lsum: {rouge_Lsum:.4f}")
+    write_log(logger, f"TEST - Rouge_L_NLGEVAL: {metrics_dict['ROUGE_L']:.4f}")
     write_log(logger, f"TEST - Meteor: {metrics_dict['METEOR']:.4f}")
     write_log(logger, f"TEST - BERTScore_Precision: {bert_score_P:.4f}")
     write_log(logger, f"TEST - BERTScore_Recall: {bert_score_R:.4f}")
@@ -160,7 +184,11 @@ def testing(args: argparse.Namespace) -> None:
         'Bleu_3': metrics_dict['Bleu_3'],
         'Bleu_4': metrics_dict['Bleu_4'],
         'Bleu_avg': (metrics_dict['Bleu_1'] + metrics_dict['Bleu_2'] + metrics_dict['Bleu_3'] + metrics_dict['Bleu_4']) / 4,
-        'Rouge_L': metrics_dict['ROUGE_L'],
+        'Rouge_1': rouge_1,
+        'Rouge_2': rouge_2,
+        'Rouge_L': rouge_L,
+        'Rouge_Lsum': rouge_Lsum,
+        'Rouge_L_NLG': metrics_dict['ROUGE_L'],
         'Meteor': metrics_dict['METEOR'],
         'BERTScore_Precision': bert_score_P,
         'BERTScore_Recall': bert_score_R,
@@ -178,7 +206,11 @@ def testing(args: argparse.Namespace) -> None:
         writer.add_scalar('TEST/Bleu_3', metrics_dict['Bleu_3'], global_step=0)
         writer.add_scalar('TEST/Bleu_4', metrics_dict['Bleu_4'], global_step=0)
         writer.add_scalar('TEST/Bleu_avg', (metrics_dict['Bleu_1'] + metrics_dict['Bleu_2'] + metrics_dict['Bleu_3'] + metrics_dict['Bleu_4']) / 4, global_step=0)
-        writer.add_scalar('TEST/Rouge_L', metrics_dict['ROUGE_L'], global_step=0)
+        writer.add_scalar('TEST/Rouge_1', rouge_1, global_step=0)
+        writer.add_scalar('TEST/Rouge_2', rouge_2, global_step=0)
+        writer.add_scalar('TEST/Rouge_L', rouge_L, global_step=0)
+        writer.add_scalar('TEST/Rouge_Lsum', rouge_Lsum, global_step=0)
+        writer.add_scalar('TEST/Rouge_L_NLG', metrics_dict['ROUGE_L'], global_step=0)
         writer.add_scalar('TEST/Meteor', metrics_dict['METEOR'], global_step=0)
         writer.add_scalar('TEST/BERTScore_Precision', bert_score_P, global_step=0)
         writer.add_scalar('TEST/BERTScore_Recall', bert_score_R, global_step=0)
@@ -195,7 +227,11 @@ def testing(args: argparse.Namespace) -> None:
             'Bleu_3': [metrics_dict['Bleu_3']],
             'Bleu_4': [metrics_dict['Bleu_4']],
             'Bleu_avg': [(metrics_dict['Bleu_1'] + metrics_dict['Bleu_2'] + metrics_dict['Bleu_3'] + metrics_dict['Bleu_4']) / 4],
-            'Rouge_L': [metrics_dict['ROUGE_L']],
+            'Rouge_1': [rouge_1],
+            'Rouge_2': [rouge_2],
+            'Rouge_L': [rouge_L],
+            'Rouge_Lsum': [rouge_Lsum],
+            'Rouge_L_NLG': [metrics_dict['ROUGE_L']],
             'Meteor': [metrics_dict['METEOR']],
             'BERTScore_Precision': [bert_score_P],
             'BERTScore_Recall': [bert_score_R],

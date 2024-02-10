@@ -54,6 +54,7 @@ def training(args: argparse.Namespace) -> None:
     write_log(logger, "Building model")
     model_name = get_huggingface_model_name(args.model_type)
     model = AutoModelForSeq2SeqLM.from_pretrained(model_name).to(device)
+    # tokenizer = AutoTokenizer.from_pretrained(model_name, model_max_length=args.max_seq_len)
     tokenizer = AutoTokenizer.from_pretrained(model_name, additional_special_tokens=[args.doc_sep_token], model_max_length=args.max_seq_len) # Add special token for input
     # avoid 'sep_token' to be added multiple times - T5 already has '<sep>' token
     model.resize_token_embeddings(len(tokenizer)) # Resize model embedding to fit new tokenizer
@@ -123,11 +124,6 @@ def training(args: argparse.Namespace) -> None:
     best_valid_objective_value = None
     early_stopping_counter = 0
 
-    # Train/Valid - Start training
-    best_epoch_idx = 0
-    best_valid_objective_value = None
-    early_stopping_counter = 0
-
     write_log(logger, f"Start training from epoch {start_epoch}")
     for epoch_idx in range(start_epoch, args.num_epochs):
         # Train - Set model to train mode
@@ -139,9 +135,11 @@ def training(args: argparse.Namespace) -> None:
             # Train - Get data from batch
             source_text = data_dicts['source_text']
             target_text = data_dicts['target_text']
+            # model_inputs = tokenizer(source_text, text_target=target_text,
+            #                          padding='max_length', truncation=True,
+            #                          max_length=args.max_seq_len, return_tensors='pt')
             model_inputs = tokenizer(source_text, text_target=target_text,
-                                     padding='max_length', truncation=True,
-                                     max_length=args.max_seq_len, return_tensors='pt')
+                                     padding='longest', truncation=True, return_tensors='pt')
             model_inputs = {k: v.to(device) for k, v in model_inputs.items()}
 
             # Train - Forward pass
@@ -155,10 +153,10 @@ def training(args: argparse.Namespace) -> None:
             batch_loss_seq.backward()
 
             if iter_idx % args.grad_accum_steps == 0 or iter_idx == len(dataloader_dict['train']) - 1:
-                optimizer.zero_grad()
+                optimizer.step()
                 if args.clip_grad_norm > 0:
                     nn.utils.clip_grad_norm_(model.parameters(), args.clip_grad_norm)
-                optimizer.step()
+                optimizer.zero_grad()
             if args.scheduler in ['StepLR', 'CosineAnnealingLR', 'CosineAnnealingWarmRestarts']:
                 scheduler.step() # These schedulers require step() after every training iteration
 
@@ -181,14 +179,22 @@ def training(args: argparse.Namespace) -> None:
             # Valid - Get data from batch
             source_text = data_dicts['source_text']
             target_text = data_dicts['target_text']
+            # model_inputs = tokenizer(source_text, text_target=target_text,
+            #                          padding='max_length', truncation=True,
+            #                          max_length=args.max_seq_len, return_tensors='pt')
             model_inputs = tokenizer(source_text, text_target=target_text,
-                                     padding='max_length', truncation=True,
-                                     max_length=args.max_seq_len, return_tensors='pt')
+                                     padding='longest', truncation=True, return_tensors='pt')
             model_inputs = {k: v.to(device) for k, v in model_inputs.items()}
 
             # Valid - Forward pass
             with torch.no_grad():
                 outputs = model(**model_inputs, return_dict=True)
+
+            if iter_idx == 0:
+                decoded_output = tokenizer.decode(outputs.logits.argmax(dim=-1)[0], skip_special_tokens=True)
+                tqdm.write(f"[Source Text]: {source_text[0]}\n")
+                tqdm.write(f"[Target Text]: {target_text[0]}\n")
+                tqdm.write(f"[Decoded Output]: {decoded_output}\n")
 
             # Valid - Calculate loss
             batch_loss_seq = outputs.loss / args.grad_accum_steps
@@ -213,27 +219,17 @@ def training(args: argparse.Namespace) -> None:
         else:
             raise NotImplementedError
 
-        if best_valid_objective_value is None or valid_objective_value > best_valid_objective_value:
-            best_valid_objective_value = valid_objective_value
-            best_epoch_idx = epoch_idx
-            write_log(logger, f"VALID - Saving checkpoint for best valid {args.optimize_objective}...")
-            early_stopping_counter = 0 # Reset early stopping counter
+        # Save checkpoint - every epoch
+        checkpoint_save_path = os.path.join(args.checkpoint_path, args.task, args.task_dataset)
+        check_path(checkpoint_save_path)
 
-            checkpoint_save_path = os.path.join(args.checkpoint_path, args.task, args.task_dataset)
-            check_path(checkpoint_save_path)
-
-            torch.save({
-                'epoch': epoch_idx,
-                'model': model.state_dict(),
-                'optimizer': optimizer.state_dict(),
-                'scheduler': scheduler.state_dict() if scheduler is not None else None,
-                'wandb_id': wandb.run.id if args.use_wandb else ''
-            }, os.path.join(checkpoint_save_path, f'checkpoint_{args.model_type}.pt'))
-            write_log(logger, f"VALID - Best valid at epoch {best_epoch_idx} - {args.optimize_objective}: {abs(best_valid_objective_value):.4f}")
-            write_log(logger, f"VALID - Saved checkpoint to {checkpoint_save_path}")
-        else:
-            early_stopping_counter += 1
-            write_log(logger, f"VALID - Early stopping counter: {early_stopping_counter}/{args.early_stopping_patience}")
+        torch.save({
+            'epoch': epoch_idx,
+            'model': model.state_dict(),
+            'optimizer': optimizer.state_dict(),
+            'scheduler': scheduler.state_dict() if scheduler is not None else None,
+            'wandb_id': wandb.run.id if args.use_wandb else ''
+        }, os.path.join(checkpoint_save_path, f'checkpoint_{args.model_type}.pt'))
 
         # Valid - End of epoch logging
         if args.use_tensorboard:
@@ -249,15 +245,9 @@ def training(args: argparse.Namespace) -> None:
                 wait_duration=300
             )
 
-        # Valid - Early stopping
-        if early_stopping_counter >= args.early_stopping_patience:
-            write_log(logger, f"VALID - Early stopping at epoch {epoch_idx}...")
-            break
-
     # Final - End of training
-    write_log(logger, f"Done! Best valid at epoch {best_epoch_idx} - {args.optimize_objective}: {abs(best_valid_objective_value):.4f}")
+    write_log(logger, f"Done!")
     if args.use_tensorboard:
-        writer.add_text('VALID/Best', f"Best valid at epoch {best_epoch_idx} - {args.optimize_objective}: {abs(best_valid_objective_value):.4f}")
         writer.close()
 
     # Final - Save best checkpoint as result model

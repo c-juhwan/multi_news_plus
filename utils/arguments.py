@@ -56,15 +56,15 @@ class ArgParser():
         # Model - Optimizer & Scheduler arguments
         optim_list = ['SGD', 'AdaDelta', 'Adam', 'AdamW']
         scheduler_list = ['None', 'StepLR', 'LambdaLR', 'CosineAnnealingLR', 'CosineAnnealingWarmRestarts', 'ReduceLROnPlateau']
-        self.parser.add_argument('--optimizer', type=str, choices=optim_list, default='AdamW',
-                                 help="Optimizer to use; Default is AdamW")
-        self.parser.add_argument('--scheduler', type=str, choices=scheduler_list, default='CosineAnnealingLR',
-                                 help="Scheduler to use for classification; If None, no scheduler is used; Default is CosineAnnealingLR")
+        self.parser.add_argument('--optimizer', type=str, choices=optim_list, default='Adam',
+                                 help="Optimizer to use; Default is Adam")
+        self.parser.add_argument('--scheduler', type=str, choices=scheduler_list, default='None',
+                                 help="Scheduler to use for classification; If None, no scheduler is used; Default is None")
 
         # Training arguments 1
         self.parser.add_argument('--num_epochs', type=int, default=3,
                                  help='Training epochs; Default is 3')
-        self.parser.add_argument('--learning_rate', type=float, default=1e-5,
+        self.parser.add_argument('--learning_rate', type=float, default=2e-5,
                                  help='Learning rate of optimizer; Default is 2e-5')
         # Training arguments 2
         self.parser.add_argument('--num_workers', type=int, default=2,
@@ -73,10 +73,10 @@ class ArgParser():
                                  help='Batch size; Default is 4')
         self.parser.add_argument('--grad_accum_steps', type=int, default=4,
                                  help='Gradient accumulation steps; Default is 4')
-        self.parser.add_argument('--weight_decay', type=float, default=1e-5,
+        self.parser.add_argument('--weight_decay', type=float, default=0,
                                  help='Weight decay; Default is 0; If 0, no weight decay')
-        self.parser.add_argument('--clip_grad_norm', type=int, default=3,
-                                 help='Gradient clipping norm; Default is 3')
+        self.parser.add_argument('--clip_grad_norm', type=int, default=0,
+                                 help='Gradient clipping norm; Default is 0')
         self.parser.add_argument('--early_stopping_patience', type=int, default=10,
                                  help='Early stopping patience; No early stopping if None; Default is None')
         self.parser.add_argument('--train_valid_split', type=float, default=0.1,

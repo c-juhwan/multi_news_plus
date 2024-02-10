@@ -226,3 +226,6 @@ model_final/
 tensorboard_log/
 dataset/
 scripts/
+results/
+results/MultiNewsPlus/summarization/multi_news/test_result_bart.json
+results/MultiNewsPlus/summarization/multi_news/test_result_t5.json

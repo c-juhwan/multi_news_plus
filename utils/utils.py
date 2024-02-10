@@ -120,6 +120,11 @@ def get_wandb_exp_name(args: argparse.Namespace):
     exp_name += "%s / " % args.task_dataset.upper()
     exp_name += "%s" % args.model_type.upper()
 
+    if args.job in ['training', 'resume_training']:
+        exp_name += " - TRAIN"
+    elif args.job == 'testing':
+        exp_name += " - TEST"
+
     return exp_name
 
 def get_huggingface_model_name(model_type: str) -> str:
@@ -130,7 +135,7 @@ def get_huggingface_model_name(model_type: str) -> str:
     if name in 'distilbert':
         return 'distilbert-base-uncased'
     elif name == 'bart':
-        return 'facebook/bart-large'
+        return 'facebook/bart-large-cnn'
     elif name == 't5':
         return 't5-base'
     elif name == 'roberta':

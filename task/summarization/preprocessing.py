@@ -54,6 +54,8 @@ def preprocessing(args: argparse.Namespace) -> pd.DataFrame:
 
         # Concatenate source documents into one string - use <multidoc_sep> as separator token. Give space before and after the separator token
         source_text = f" {args.doc_sep_token} ".join(source_documents)
+        # source_text = " ".join(source_documents) # Just concatenate the source documents without separator token
+        # source_text = "\n".join(source_documents) # Concatenate the source documents with newline character
 
         # Append data to the dictionary
         data_dict[split]['source_text'].append(source_text)
