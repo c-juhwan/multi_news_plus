@@ -58,7 +58,7 @@ def get_multiple_agent_result(args: argparse.Namespace, raw_doc: dict) -> dict:
 
     for i in range(0, args.num_agents):
         for each_value in each_agents_result[i][0]:
-            if each_value != -1 and each_value < raw_doc["document_num"]:
+            if each_value != -1 and each_value <= raw_doc["document_num"]:
                 result_count[each_value-1] += 1 # -1 because the document number starts from 1
             else:
                 continue
