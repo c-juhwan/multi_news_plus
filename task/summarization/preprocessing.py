@@ -43,6 +43,9 @@ def preprocessing(args: argparse.Namespace) -> pd.DataFrame:
     check_path(preprocessed_path)
 
     for idx in tqdm(range(len(data_df)), desc='Preprocessing data'):
+        if data_df['document_num'] == 0:
+            continue # Exclude the data with no document
+
         # Extract data
         target_text = data_df['summary'][idx]
         split = data_df['split'][idx]
