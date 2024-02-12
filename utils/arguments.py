@@ -88,8 +88,6 @@ class ArgParser():
         # Testing/Inference arguments
         self.parser.add_argument('--test_batch_size', default=4, type=int,
                                  help='Batch size for test; Default is 4')
-        self.parser.add_argument('--num_beams', default=3, type=int,
-                                 help='Number of beams for beam search; Default is 3')
 
         # Other arguments - Device, Seed, Logging, etc.
         self.parser.add_argument('--device', type=str, default='cuda',
