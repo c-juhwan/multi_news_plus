@@ -43,7 +43,7 @@ def preprocessing(args: argparse.Namespace) -> pd.DataFrame:
     check_path(preprocessed_path)
 
     for idx in tqdm(range(len(data_df)), desc='Preprocessing data'):
-        if data_df['document_num'] == 0:
+        if data_df['document_num'][idx] == 0:
             continue # Exclude the data with no document
 
         # Extract data
