@@ -97,7 +97,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -257,7 +257,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -473,7 +473,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -527,13 +527,12 @@
     },
     {
         "idx": 30120,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The utility that delivered disgusting, toxic water to the people of flint charged them ridiculous amounts of money for the privilege, according to a report from food and water watch. The public interest group surveyed the 500 largest water systems in the country and found that flint's was the most expensive, with an annual water bill of $ 864 for a typical household, reports the detroit free press. That was nearly twice the national average and more than three times what people in nearby detroit paid. The washington post notes flint's lead-contaminated water cost more than 10 times as much as water in phoenix, \" which is literally in the middle of a desert. \" despite charging such high prices, the utility switched to corrosive flint river water in 2014 as a cost-cutting move. Flint is one of the poorest cities in the us, with a median income of $ 24,834, reports reuters. Water and sewer charges in the city worked out to around 7 % of household income, more than double united nations guidelines for affordable water, and they remained high even after a judge ordered the rollback of a 35 % price rise introduced in 2011. A lawyer who sued to reduce rates tells the free press that flint had been \" using that money improperly for years to fund the general operations of the city. \" mary grant, a lead author on the food and water watch report, tells the post that the situation in flint is \" an indictment of running water systems like a business instead of a public service \" for the common good. ( the flint investigation could lead to manslaughter charges. )",
         "split": "train",
         "cleansed_document": [
             "The flint river flows through downtown in flint, mich., in december. For a time, this was the most expensive drinking water in the country. ( reuters/rebecca cook/files ) by january of last year it was starting to become clear that something was wrong with the water in flint, mich. After nine months of drawing water from the flint river, residents were complaining about odors and bad tastes. General motors had stopped using the river water at its flint plant over concerns about corrosion. State officials had quietly started shipping bottled water to state workers in the city. The rest is history -- poisoned water, shocking levels of lead, a spike in legionnaire's cases and other untold health effects that may not be fully understood for years. And during it all, flint residents were paying more for their water than just about anyone else in the country. That last finding comes from a report issued tuesday by food &amp; water watch, a nonprofit working to improve food",
-            "( reuters ) - residents of flint, michigan, one of the poorest cities in the united states, paid some of the nation's highest water bills even as the city failed to treat drinking water properly, leading to lead contamination, according to a report released on tuesday. The flint river is seen flowing thru downtown in flint, michigan, in this december 16, 2015 file photo. Reuters/rebecca cook/files the annual water bill in flint as of january 2015 was $ 864.32 for a household using 60,000 gallons a year, said washington-based advocacy group food &amp; water watch. The rate remained high compared with many other cities even after a judge ordered flint to reduce its rates by 35 percent and to stop charging a service fee. The study - which looked at the 500 largest community water systems in 48 states - showed that private, for-profit water systems generally charged more than the public water systems that prevail around the country. Flint's water system is public.",
-            "The university archives preserves the institutional memory of columbia university from its founding in 1754 to the present-day. The archives aims to identify, appraise, collect, describe, preserve and, where appropriate, make available to administrators, researchers, and the general public university records which document the evolution of the university in all its variety including its contributions to teaching and research; the development of schools, academic departments and programs, institutes, and administrative units; campus life; public service; and the university's role in the history of the metropolitan, national, and international communities. As part of our mission, this archive-it collection preserves a record of columbia's web presence since 2010."
+            "( reuters ) - residents of flint, michigan, one of the poorest cities in the united states, paid some of the nation's highest water bills even as the city failed to treat drinking water properly, leading to lead contamination, according to a report released on tuesday. The flint river is seen flowing thru downtown in flint, michigan, in this december 16, 2015 file photo. Reuters/rebecca cook/files the annual water bill in flint as of january 2015 was $ 864.32 for a household using 60,000 gallons a year, said washington-based advocacy group food &amp; water watch. The rate remained high compared with many other cities even after a judge ordered flint to reduce its rates by 35 percent and to stop charging a service fee. The study - which looked at the 500 largest community water systems in 48 states - showed that private, for-profit water systems generally charged more than the public water systems that prevail around the country. Flint's water system is public."
         ],
         "raw_document": [
             "The flint river flows through downtown in flint, mich., in december. For a time, this was the most expensive drinking water in the country. ( reuters/rebecca cook/files ) by january of last year it was starting to become clear that something was wrong with the water in flint, mich. After nine months of drawing water from the flint river, residents were complaining about odors and bad tastes. General motors had stopped using the river water at its flint plant over concerns about corrosion. State officials had quietly started shipping bottled water to state workers in the city. The rest is history -- poisoned water, shocking levels of lead, a spike in legionnaire's cases and other untold health effects that may not be fully understood for years. And during it all, flint residents were paying more for their water than just about anyone else in the country. That last finding comes from a report issued tuesday by food &amp; water watch, a nonprofit working to improve food",
@@ -550,7 +549,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -657,7 +656,7 @@
             "0": 0,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -712,12 +711,11 @@
     },
     {
         "idx": 30127,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The scene is shaping up to be a gruesome one: as reported earlier, osama bin laden was shot above his left eye, but a us official adds that the bullet blew away part of his skull, and that a second bullet hit him in the chest, reports cbs news. The white house has also been backtracking on two previously reported details, adding to the confusion: a senior official now tells journalists that bin laden was not armed when he was killed, contrary to earlier reports that he fired a weapon in self-defense. And as for the wife-as-human-shield story, a second official says that \" a different guy's wife was killed, \" and that a bin laden wife was \" injured but not killed. \" another official seems to support that statement, reports politico, saying that one woman was killed, one was injured, and neither was used as a shield. And one new detail that wasn't given anonymously: white house counterterrorism chief john brennan today said that bin laden lived in the abbottabad compound for the past five or six years, reports reuters. \" he had virtually no interaction with others outside that compound. \" and that raises questions, he says. \" how did bin laden stay at that compound for the past six years or so and be undetected? what type of support did he have outside of that compound — in the abbottabad area or more broadly within pakistan? \" ( pakistan's president tries to clear up his country's role. )",
         "split": "train",
         "cleansed_document": [
-            "White house press secretary jay carney on tuesday publicly revised the administration's account of the raid that killed osama bin laden, telling reporters that the al qaeda leader wasn't armed during the assault and didn't use one of his wives as a shield. On monday evening, the white house had backed away from key details in its narrative about the raid, including claims by senior u.s. Officials that bin laden had a weapon and may have fired it during a gun battle with u.s. Forces. Text size - + reset carney offers more on bin laden carney: even i ' m confused brennan's monday briefing politico 44 officials also retreated from claims that one of bin laden's wives was killed in the raid. Carney read a statement to reporters tuesday seeking to clarify discrepancies. He said bin laden \"was not armed. \" when a u.s. \"assaulter \" approached bin laden, the al qaeda leader's \"wife \" rushed the assaulter. That woman was shot but not killed, carney said. \"what is true, \" carney said, is that \"we provided a great deal of information with great haste. \" \"obviously, some of the information was — came in piece by piece and is being reviewed and updated and elaborated upon, \" he said. Carney told reporters that \"resistance does not require a firearm",
-            "1 of 5. A boy collects debris, remains of a firefight, as journalists surround the compound where al qaeda leader osama bin laden was killed in abbottabad, may 3, 2011. Washington ( reuters ) - there is no evidence pakistani officials knew osama bin laden was living at a compound deep inside the country, but the united states is not ruling out the possibility, president barack obama's counterterrorism adviser said on tuesday. The death of the al qaeda leader in monday's u.s. Raid on his compound in abbottabad, a military garrison town 38 miles from the capital islamabad, has led some u.s. Lawmakers to demand a review of u.s. Aid to nuclear-armed pakistan. \" they ( pakistani officials ) are expressing as great a surprise as we had when we first learned about this compound, so there is no indication at this point that the people we have talked to were aware of this, but we need to dig deeper into this, \" white house counterterrorism chief john brennan said in an interview with national public radio. In an opinion piece in the washington post, pakistan's president asif ali zardari said bin laden \" was not anywhere we had anticipated he would be \" but he did not answer accusations his security services should have known of the hide-out. When asked whether officials in pakistan's military"
+            "White house press secretary jay carney on tuesday publicly revised the administration's account of the raid that killed osama bin laden, telling reporters that the al qaeda leader wasn't armed during the assault and didn't use one of his wives as a shield. On monday evening, the white house had backed away from key details in its narrative about the raid, including claims by senior u.s. Officials that bin laden had a weapon and may have fired it during a gun battle with u.s. Forces. Text size - + reset carney offers more on bin laden carney: even i ' m confused brennan's monday briefing politico 44 officials also retreated from claims that one of bin laden's wives was killed in the raid. Carney read a statement to reporters tuesday seeking to clarify discrepancies. He said bin laden \"was not armed. \" when a u.s. \"assaulter \" approached bin laden, the al qaeda leader's \"wife \" rushed the assaulter. That woman was shot but not killed, carney said. \"what is true, \" carney said, is that \"we provided a great deal of information with great haste. \" \"obviously, some of the information was — came in piece by piece and is being reviewed and updated and elaborated upon, \" he said. Carney told reporters that \"resistance does not require a firearm"
         ],
         "raw_document": [
             "White house press secretary jay carney on tuesday publicly revised the administration's account of the raid that killed osama bin laden, telling reporters that the al qaeda leader wasn't armed during the assault and didn't use one of his wives as a shield. On monday evening, the white house had backed away from key details in its narrative about the raid, including claims by senior u.s. Officials that bin laden had a weapon and may have fired it during a gun battle with u.s. Forces. Text size - + reset carney offers more on bin laden carney: even i ' m confused brennan's monday briefing politico 44 officials also retreated from claims that one of bin laden's wives was killed in the raid. Carney read a statement to reporters tuesday seeking to clarify discrepancies. He said bin laden \"was not armed. \" when a u.s. \"assaulter \" approached bin laden, the al qaeda leader's \"wife \" rushed the assaulter. That woman was shot but not killed, carney said. \"what is true, \" carney said, is that \"we provided a great deal of information with great haste. \" \"obviously, some of the information was — came in piece by piece and is being reviewed and updated and elaborated upon, \" he said. Carney told reporters that \"resistance does not require a firearm",
@@ -732,7 +730,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -786,12 +784,10 @@
     },
     {
         "idx": 30130,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "If you're as obsessed with location-based services as most people seem to be, you probably love checking in at restaurants, coffee shops, bars … and std clinics? maybe not, but that's what mtv is hoping you ' ll do as it launches its \"get yourself tested \" foursquare campaign. The network is encouraging teens to get tested, then check in on foursquare to tell everyone that's what they're doing. They ' ll get a special \"gyt \" badge for doing it! tracy clark-flory remembers getting tested as a teenager, \"and the prospect of announcing it to the entire world would have sent me running for the hills, \" she writes on salon. Even so, this campaign is a step in the right direction when it comes to removing \"the stigma around std testing. \" even the prize — those who score the badge can win a trip to new york city — is a good move: \"it's much easier to explain a clinic visit as an attempt to win a silly contest than it is to tell your parents that you're having sex. \"",
         "split": "train",
-        "cleansed_document": [
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "I was prepared to write about reproductive choices in light of the roe v. Wade anniversary on jan. 22. I even had some funny stuff lined up about the groups that come to my town every year to hold a march in opposition to the 1973 supreme court decision. But i can't write that kind of post because there was a news story about an abortion provider that was so horrific that even i cannot find a positive to his decades-long practice. In summary, a doctor who was not an ob/gyn ran a clinic in philadelphia that apparently is the last refuge for poor women who wish to end their pregnancies. The news reports indicate that it is unsanitary, staffed by untrained people -- including a teenager administering anesthesia -- used procedures that violate medical best practices, committed malpractice by lying about stage of pregnancy of patients, that viable babies were born alive and killed, and women died of complications. This is a nightmare. Nothing redeems this. Nothing. Warning: if you oppose legal abortion, please be aware that i do not share your position on this matter. However, please also be aware that i am using this post to illuminate common ground between the two poles of the abortion debate, and i am attempting to be respectful of all points of view in the process. Thoughtful debate is welcomed. I can't stop thinking about how desperate and scared women must have been to be willing to go to such a place. I can't stop thinking about how badly they were injured because they were so desperate that they had to seek the option of last resort. I can't stop thinking about all the crossroads in the months and years that led up to these moments of crisis where these women could have been better served by their communities, by the medical system, by society at large. This didn't have to happen. There are those who oppose legal abortion who will likely hold this up as an example of the horrors of a society that",
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
@@ -805,7 +801,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -830,7 +826,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -892,7 +888,7 @@
             "1": 1,
             "2": 1,
             "3": 1,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -977,7 +973,7 @@
             "1": 0,
             "2": 0,
             "3": 5,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1002,18 +998,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 30138,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "No nfl player who has used the national anthem to protest against racism and police brutality has faced punishment from the league. That could be about to change. The wall street journal reports nfl owners are scheduled to meet next week, and league spokesperson joe lockhart expects player protests \" to be front and center on the agenda. \" owners are reportedly considering changing the section of the nfl manual that states players \" should \" stand for the national anthem in order to make it a requirement. \" we believe that everyone should stand for the national anthem, \" espn quotes nfl commissioner roger goodell as saying in a letter to teams tuesday. \" it is an important moment in our game. We want to honor our flag and our country, and our fans expect that of us. \" owners are said to be privately concerned about an ongoing fight with the president affecting their bottom lines. Weeks into his attack on kneeling players, president trump shows no sign of stopping. \" why is the nfl getting massive tax breaks while at the same time disrespecting our anthem, flag and country? change tax law! \" the president tweeted tuesday. ( the nfl gave up its tax exempt status in 2015. ) and sarah huckabee sanders said during a white house press conference tuesday the administration is \" glad to see the nfl taking positive steps \" toward ending protests during the anthem, the washington post reports. While a source says \" there is no fixed proposal \" yet for requiring players to stand for the anthem, lockhart says the owners believe they can make the change without the consent of the players union.",
         "split": "train",
         "cleansed_document": [
             "Dolphins players before a game this month in london ( henry browne/getty images ) nfl commissioner roger goodell said tuesday that team owners will discuss a plan when they meet next week for dealing with the raging national controversy over players ' protests during the national anthem, adding that while the league respects the right of its players to express their opinions, it believes they should stand during the playing of the anthem. While stopping short of saying the nfl would require its players to stand, goodell strongly suggested in a letter to nfl teams that at next week's meeting the league would propose to owners that players be required to do so, while also providing a platform to recognize their community activism. \"like many of our fans, we believe that everyone should stand for the national anthem, \" goodell wrote to nfl club presidents and chief executives. \"it is an important moment in our game. We want to honor our flag and our country, and our fans expect that of us. We also care deeply about our players and respect their opinions and concerns about critical social issues.",
-            "Adam schefter reports the latest on the nfl's plan to \" move past \" its ongoing debate about player protests during the national anthem. ( 0: 36 ) the nfl has developed a plan to \" move past \" its ongoing debate about player protests during the national anthem and could enact it next week, commissioner roger goodell wrote tuesday in a letter to all 32 teams. Goodell made it clear in the letter, obtained by espn's adam schefter, that he wants players to stand during the anthem. He did not provide specifics on how he intends to ensure it, but he wrote that it would \" include such elements as an in-season platform to promote the work of our players on these core issues. \" the issue will be discussed, and likely acted upon, during the nfl's regularly-scheduled fall meetings on oct. 17-18. In the letter, goodell said he wanted to end the controversy by agreeing on a uniform approach for all teams. \" like many of our fans, \" goodell wrote, \" we believe that everyone should stand for the national",
-            "The national football league said it would consider requiring all of its personnel to stand for the national anthem, a move that could defuse a dispute with president donald trump but create a showdown with players over their right to protest. The decision to consider the change came after weeks of persistent criticism from the gop president about players protesting during the anthem, including his call for fans to boycott games if the demonstrations continue. On sunday, vice president mike pence left an indianapolis colts..."
+            "Adam schefter reports the latest on the nfl's plan to \" move past \" its ongoing debate about player protests during the national anthem. ( 0: 36 ) the nfl has developed a plan to \" move past \" its ongoing debate about player protests during the national anthem and could enact it next week, commissioner roger goodell wrote tuesday in a letter to all 32 teams. Goodell made it clear in the letter, obtained by espn's adam schefter, that he wants players to stand during the anthem. He did not provide specifics on how he intends to ensure it, but he wrote that it would \" include such elements as an in-season platform to promote the work of our players on these core issues. \" the issue will be discussed, and likely acted upon, during the nfl's regularly-scheduled fall meetings on oct. 17-18. In the letter, goodell said he wanted to end the controversy by agreeing on a uniform approach for all teams. \" like many of our fans, \" goodell wrote, \" we believe that everyone should stand for the national"
         ],
         "raw_document": [
             "Dolphins players before a game this month in london ( henry browne/getty images ) nfl commissioner roger goodell said tuesday that team owners will discuss a plan when they meet next week for dealing with the raging national controversy over players ' protests during the national anthem, adding that while the league respects the right of its players to express their opinions, it believes they should stand during the playing of the anthem. While stopping short of saying the nfl would require its players to stand, goodell strongly suggested in a letter to nfl teams that at next week's meeting the league would propose to owners that players be required to do so, while also providing a platform to recognize their community activism. \"like many of our fans, we believe that everyone should stand for the national anthem, \" goodell wrote to nfl club presidents and chief executives. \"it is an important moment in our game. We want to honor our flag and our country, and our fans expect that of us. We also care deeply about our players and respect their opinions and concerns about critical social issues.",
@@ -1030,7 +1025,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1115,7 +1110,7 @@
             "1": 0,
             "2": 1,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1234,7 +1229,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1472,7 +1467,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1572,7 +1567,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1689,12 +1684,11 @@
     },
     {
         "idx": 30163,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's not looking good for former nba star lamar odom, who was hospitalized on tuesday afternoon after being found unconscious at the love ranch brothel near las vegas. Sources tell tmz that odom is fighting for his life in a las vegas hospital and that ex-wife khloe kardashian is at his side. The 35-year-old, who spent most of his playing career with the la lakers and clippers, had been at the brothel since saturday, and owner dennis hof says he had been taking a lot of herbal viagra, but employees didn't see him with any other drugs and he didn't finish a bottle of cognac he ordered over the weekend, the los angeles times reports. \" he just wanted to get away, have a good time, and relax, \" hof tells the ap. He says that when two women went to check on odom on tuesday afternoon, they found him facedown and unconscious and he started \" throwing up all kinds of stuff \" when the women turned him on his side. Police say they were called to the ranch at 3: 15pm tuesday and odom was stabilized at a nearby hospital before being taken by ambulance to las vegas, which is 70 miles away. Authorities say they tried to airlift odom to the hospital, but the 6-foot-10-inch man was too tall for the helicopter, the times reports.",
         "split": "train",
         "cleansed_document": [
-            "Las vegas ( ap ) — former nba and reality tv star lamar odom was hospitalized after he was found unconscious tuesday at a nevada brothel, authorities said. File - this jan. 2, 2013 file photo shows los angeles clippers ' lamar odom ( 7 ) in action against the golden state warriors during an nba basketball game in oakland, calif. Authorities say former nba and... ( associated press ) the 35-year-old former los angeles laker and member-by-marriage of the kardashian family was in a las vegas hospital tuesday night and there was no immediate word on his condition, officials said. The nye county sheriff's department was called at about 3: 15 p.m. To love ranch in crystal, nevada about 70 miles outside of las vegas for a report of an unresponsive man needing an ambulance, sheriff sharon a. Wehrly said in a statement. The 35-year-old was stabilized and taken to desert view hospital in nearby pahrump, the statement said. Officials then tried to have him airlifted to las vegas, but the 6-foot-10-inch odom was too tall for the helicopter that was available and he was driven by ambulance to sunrise hospital and medical center. Hof, who owns the love ranch and other legal brothels in nevada, said his staff had picked up odom from a home in las vegas on saturday. \" he just wanted to get away, have a good time and relax, \" hof told the associated press in a phone interview. Hof said odom was \" happy, he was sleeping every night, \" while visiting, but two women went to check on odom tuesday afternoon after not hearing from him since early morning, and found him face down and unconscious. When they turned him on his side at the direction of a 911 operator, odom started \" throwing up all kinds of stuff. \" hof said odom had been taking herbal viagra and had drunk part of a bottle of cognac since arriving, but had no knowledge of his use of any other drugs. \" it's incredibly sad, \" said hof, who turns 69 on wednesday. Hof is known for his own onetime reality show, \" cathouse, \" on hbo. Odom's hospitalization was first reported by tmz. Odom, who won two nba championships with the lakers in 2009 and 2010, last played in the nba",
-            "Odom started his career with the clippers and played for the lakers for seven seasons, where he was a franchise favorite. He was traded to the dallas mavericks in 2011 after the nba commissioner blocked a deal that would have sent him to new orleans, and went back to the clippers in 2012, where his career effectively ended the next year."
+            "Las vegas ( ap ) — former nba and reality tv star lamar odom was hospitalized after he was found unconscious tuesday at a nevada brothel, authorities said. File - this jan. 2, 2013 file photo shows los angeles clippers ' lamar odom ( 7 ) in action against the golden state warriors during an nba basketball game in oakland, calif. Authorities say former nba and... ( associated press ) the 35-year-old former los angeles laker and member-by-marriage of the kardashian family was in a las vegas hospital tuesday night and there was no immediate word on his condition, officials said. The nye county sheriff's department was called at about 3: 15 p.m. To love ranch in crystal, nevada about 70 miles outside of las vegas for a report of an unresponsive man needing an ambulance, sheriff sharon a. Wehrly said in a statement. The 35-year-old was stabilized and taken to desert view hospital in nearby pahrump, the statement said. Officials then tried to have him airlifted to las vegas, but the 6-foot-10-inch odom was too tall for the helicopter that was available and he was driven by ambulance to sunrise hospital and medical center. Hof, who owns the love ranch and other legal brothels in nevada, said his staff had picked up odom from a home in las vegas on saturday. \" he just wanted to get away, have a good time and relax, \" hof told the associated press in a phone interview. Hof said odom was \" happy, he was sleeping every night, \" while visiting, but two women went to check on odom tuesday afternoon after not hearing from him since early morning, and found him face down and unconscious. When they turned him on his side at the direction of a 911 operator, odom started \" throwing up all kinds of stuff. \" hof said odom had been taking herbal viagra and had drunk part of a bottle of cognac since arriving, but had no knowledge of his use of any other drugs. \" it's incredibly sad, \" said hof, who turns 69 on wednesday. Hof is known for his own onetime reality show, \" cathouse, \" on hbo. Odom's hospitalization was first reported by tmz. Odom, who won two nba championships with the lakers in 2009 and 2010, last played in the nba"
         ],
         "raw_document": [
             "Las vegas ( ap ) — former nba and reality tv star lamar odom was hospitalized after he was found unconscious tuesday at a nevada brothel, authorities said. File - this jan. 2, 2013 file photo shows los angeles clippers ' lamar odom ( 7 ) in action against the golden state warriors during an nba basketball game in oakland, calif. Authorities say former nba and... ( associated press ) the 35-year-old former los angeles laker and member-by-marriage of the kardashian family was in a las vegas hospital tuesday night and there was no immediate word on his condition, officials said. The nye county sheriff's department was called at about 3: 15 p.m. To love ranch in crystal, nevada about 70 miles outside of las vegas for a report of an unresponsive man needing an ambulance, sheriff sharon a. Wehrly said in a statement. The 35-year-old was stabilized and taken to desert view hospital in nearby pahrump, the statement said. Officials then tried to have him airlifted to las vegas, but the 6-foot-10-inch odom was too tall for the helicopter that was available and he was driven by ambulance to sunrise hospital and medical center. Hof, who owns the love ranch and other legal brothels in nevada, said his staff had picked up odom from a home in las vegas on saturday. \" he just wanted to get away, have a good time and relax, \" hof told the associated press in a phone interview. Hof said odom was \" happy, he was sleeping every night, \" while visiting, but two women went to check on odom tuesday afternoon after not hearing from him since early morning, and found him face down and unconscious. When they turned him on his side at the direction of a 911 operator, odom started \" throwing up all kinds of stuff. \" hof said odom had been taking herbal viagra and had drunk part of a bottle of cognac since arriving, but had no knowledge of his use of any other drugs. \" it's incredibly sad, \" said hof, who turns 69 on wednesday. Hof is known for his own onetime reality show, \" cathouse, \" on hbo. Odom's hospitalization was first reported by tmz. Odom, who won two nba championships with the lakers in 2009 and 2010, last played in the nba",
@@ -1709,20 +1703,19 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 30164,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Alan turing hated the united states. That's one nugget revealed in a trove of old letters recently unearthed in a storeroom filing cabinet at the university of manchester. The guardian reports the collection of 148 notes, which apparently hadn't seen the light of day in at least three decades, spanned from 1949 until the british mathematician's death in 1954. The letters penned by turing — who helped helm the university's computing laboratory from 1948 on, after breaking the nazi enigma code during world war ii — were discovered by one of the college's computer science professors, who said he located them in a nondescript-looking file with the words \" alan turing \" written across it. \" i initially thought:'that can't be what i think it is, ' \" jim miles says, with engadget adding he at first thought someone had simply reused turing's folder. The letters don't get much into turing's personal life: he was convicted in 1952 of \" gross indecency \" for a homosexual relationship and chemically castrated, and he died of cyanide poisoning in june 1954 in what's widely believed to have been a suicide. Instead, the notes mainly touch on his academic work in math, computing, and artificial intelligence — in other words, \" mostly ' work stuff ' you would expect a busy academic to have piling up on his desk, \" per sciencealert. As for that slam against the united states: turing had been asked to speak at a conference there in 1953 and replied, \" i would not like the journey, and i detest america, \" without elaborating on his displeasure. Check out the descriptions of each letter here. ( a number of mathematicians have met with awful fates. )",
         "split": "train",
         "cleansed_document": [
             "A file of correspondence and papers accumulated by alan turing in relation to his work in the university's computing machine laboratory. The material dates from march 1949 until just before turing's death in june 1954. It is assumed to comprise an important segment of his ' official ' correspondence during this period, although it is unlikely to constitute the entirety of his cml correspondence. The letters sent to turing include comments on his published articles, and in some cases, unpublished research, as well as requests to lecture, attend conferences",
             "After not seeing the light of day for at least 30 years, a unique collection of letters by famous mathematician alan turing has been found in a storage space at his old university. Wrapped in a plain paper folder and tucked at the back of an old filing cabinet, the 148 never-before seen documents include a letter from the uk's intelligence services, and another letter in which turing remarks \" i detest america. \" alan turing was one of the pioneers of modern computer science, and a machine he built during the",
             "Turing worked at the university of manchester from 1948, first as a reader in the mathematics department and later as the deputy director of the computing laboratory. These jobs followed his pivotal work with the government code and cypher school during the second world war. At bletchley park, he spearheaded a team of cryptographers that helped the allies to unravel various nazi messages, including those protected by the enigma code. The newly discovered documents date from early 1949 until his death in june 1954. At this time, turing's work on enigma",
-            "An english mathematician, logician and cryptographer, alan turing was responsible for breaking the nazi enigma code during world war ii. His work gave the allies the edge they needed to win the war in europe, and led to the creation of the computer. On the pbs newshour tonight, jeffrey brown interviews benedict cumberbatch about his role as turing in \"the imitation game. \" turing took his own life in 1954, two years after being outed as gay. Homosexuality was still a crime in great britain at the time, and turing was",
-            "Famed mathematician alan turing proved in his 1936 paper, \" on computable numbers, \" that a universal algorithmic method of determining truth in math cannot exist. Synopsis alan turing was born on june 23, 1912, in london. In his seminal 1936 paper, he proved that there cannot exist any universal algorithmic method of determining truth in mathematics, and that mathematics will always contain undecidable propositions. That paper also introduced the \" turing machine. His papers on the subject are widely acknowledged as the foundation of research in artificial intelligence."
+            "An english mathematician, logician and cryptographer, alan turing was responsible for breaking the nazi enigma code during world war ii. His work gave the allies the edge they needed to win the war in europe, and led to the creation of the computer. On the pbs newshour tonight, jeffrey brown interviews benedict cumberbatch about his role as turing in \"the imitation game. \" turing took his own life in 1954, two years after being outed as gay. Homosexuality was still a crime in great britain at the time, and turing was"
         ],
         "raw_document": [
             "A file of correspondence and papers accumulated by alan turing in relation to his work in the university's computing machine laboratory. The material dates from march 1949 until just before turing's death in june 1954. It is assumed to comprise an important segment of his ' official ' correspondence during this period, although it is unlikely to constitute the entirety of his cml correspondence. The letters sent to turing include comments on his published articles, and in some cases, unpublished research, as well as requests to lecture, attend conferences",
@@ -1743,7 +1736,7 @@
             "1": 0,
             "2": 0,
             "3": 1,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -1881,7 +1874,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1906,7 +1899,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2047,17 +2040,16 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 30176,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two democrats in congress are planning to strike back at bank of america with a direct hit to the wallet, the huffington post reports. With bofa instituting a $ 5 monthly debit card fee to many consumers, senate majority whip dick durbin and rep. Brad miller are mounting legislation that would help consumers easily switch banks by making it easier to swap electronic bills, direct deposit, and other automated features. Durbin is also urging people to simply stop using bofa's debit cards. But banking coalition says it's \" astounding that senator durbin, who created today's chaos, is now trying to point the finger at everyone but himself. \" the banks blame durbin's \" swipe fee reform \" for limiting fees that banks can charge merchants on debit card transactions; naturally, they say, bofa is now putting the charge on consumers. But miller, inspired by huffpo's move your money campaign, says he sees his bill as pro-free market: \"if we can find a way to introduce real competition into banking, that'd do more than any regulation. \"",
         "split": "train",
         "cleansed_document": [
-            "Washington -- while demonstrators in new york are calling for an occupation of wall street, a new push by democrats in congress proposes a different tactic: just walk away. Senate majority whip dick durbin and rep. Brad miller are going on the offensive against bank of america after the financial behemoth cited wall street reform in announcing a new five dollar monthly debit charge last week. Miller, a democrat from bofa's home state of north carolina, plans to introduce legislation that would make it easy for consumers to switch banks and simultaneously swap their direct deposit, electronic bill paying and other automatic features that make moving money from one bank to another more hassle than it's often worth. Illinois democrat dick durbin, meanwhile, is encouraging consumers to abandon the bank's debit card. \" my word to consumers across america is talk with your feet, look for a debit card that doesn't charge the bank of america fee, \" durbin told huffpost, adding that the revenue from the new fee likely far outstrips what they ' ll lose to swipe fee reform. \" it would be no surprise if we found out that bank of america is overcharging consumers again. They've been found guilty of that in the past, but i really encourage consumers across america to look for competition that doesn't",
-            "Limited time offer click here now for a limited time – order online and save $ 99.99 on setup fee!! verizon fios is offering free setup when you order online. In addition, they will credit you up to $ 500 for switching your contract to verizon fios! verizon fios promo codes: 1. Click here for verizon fios with a super fast gigabit connection + tv + phone now: $ 79.99 month + 1 year of netflix. 2. Click here for verizon fios + custom tv + waived setup for $ 74.99 3. Click here for speeds of up to 880 mbps for $ 79.99 per month + up to $ 500 credit. 4. Click here for 100 / 100 fios for $ 39.99 per month verizon fios triple play promotions the fios triple play local deal offers select hdtv channels, 25/25 mbps internet, and landline phone. The cost is $ 79.99 per month ( plus taxes, equipment, and other charges ) and requires a 2-year contract. Also, you have the option of adding premium channels at 50 percent off for two years. Also, this deal gives you a $ 300 visa prepaid gift card. If verizon fios is unavailable where you live, there is a fios triple play option that gives you 25/25 mbps high-speed internet, directv, and phone for $ 89.99 per month plus other fees."
+            "Washington -- while demonstrators in new york are calling for an occupation of wall street, a new push by democrats in congress proposes a different tactic: just walk away. Senate majority whip dick durbin and rep. Brad miller are going on the offensive against bank of america after the financial behemoth cited wall street reform in announcing a new five dollar monthly debit charge last week. Miller, a democrat from bofa's home state of north carolina, plans to introduce legislation that would make it easy for consumers to switch banks and simultaneously swap their direct deposit, electronic bill paying and other automatic features that make moving money from one bank to another more hassle than it's often worth. Illinois democrat dick durbin, meanwhile, is encouraging consumers to abandon the bank's debit card. \" my word to consumers across america is talk with your feet, look for a debit card that doesn't charge the bank of america fee, \" durbin told huffpost, adding that the revenue from the new fee likely far outstrips what they ' ll lose to swipe fee reform. \" it would be no surprise if we found out that bank of america is overcharging consumers again. They've been found guilty of that in the past, but i really encourage consumers across america to look for competition that doesn't"
         ],
         "raw_document": [
             "Washington -- while demonstrators in new york are calling for an occupation of wall street, a new push by democrats in congress proposes a different tactic: just walk away. Senate majority whip dick durbin and rep. Brad miller are going on the offensive against bank of america after the financial behemoth cited wall street reform in announcing a new five dollar monthly debit charge last week. Miller, a democrat from bofa's home state of north carolina, plans to introduce legislation that would make it easy for consumers to switch banks and simultaneously swap their direct deposit, electronic bill paying and other automatic features that make moving money from one bank to another more hassle than it's often worth. Illinois democrat dick durbin, meanwhile, is encouraging consumers to abandon the bank's debit card. \" my word to consumers across america is talk with your feet, look for a debit card that doesn't charge the bank of america fee, \" durbin told huffpost, adding that the revenue from the new fee likely far outstrips what they ' ll lose to swipe fee reform. \" it would be no surprise if we found out that bank of america is overcharging consumers again. They've been found guilty of that in the past, but i really encourage consumers across america to look for competition that doesn't",
@@ -2072,7 +2064,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2115,7 +2107,7 @@
             "5": 4,
             "6": 3,
             "7": 2,
-            "8": 0
+            "8": 1
         }
     },
     {
@@ -2168,7 +2160,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2251,7 +2243,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2283,12 +2275,11 @@
     },
     {
         "idx": 30184,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Wacked-out actor charlie sheen has not only lost custody of his twin toddler sons, but he's under a restraining order demanding he stay at least 100 feet away from them. New details of the rapidly unraveling personal life of the off-the-rails actor emerged in a court action filed by his estranged wife, who characterized sheen as \" insane, \" and said he threatened to cut off her head and mail it to her mother. \" i am in great fear that he will find me and attack me, and i am in great fear for the children's safety while in his care, \" brooke mueller said in the court documents. Sheen's twin boys, 23-month-old bob and max, were removed from his los angeles apartment this week amid a series of bizarre tv and radio rants by the actor, and his revelation that he's now sharing his bed with a porn star and second lover ( who sometimes babysit ). Mueller said sheen took the twins from her home last week and refused to return them, reports abc news. The actor is determined to get them back, discussing his intention on his new twitter site, which has already attracted 1 million followers mesmerized by his public implosion. The next court hearing on the custody dispute will be held later this month.",
         "split": "train",
         "cleansed_document": [
-            "Charlie sheen must stay at least 100 feet away from soon-to-be ex-wife brooke mueller and their 2-year-old twin sons, pending a march 22 hearing on a restraining order against the embattled actor, according to court documents. Mueller has been granted temporary custody of the children. The twin boys were removed from sheen's home after mueller obtained the restraining order tuesday, the documents show. She called the actor \" insane \" and said she fears for her safety, according to the records. Click here to see radaronline's video of sheen's children being removed from his home. Mueller alleged that sheen threatened her sunday, saying, \" i will cut your head off, put it in a box and send it to your mom, \" according to the records. Mueller also alleged that sheen violated their custody agreement when he took the twins max and bob saturday. \" i am in great fear that he [ sheen ] will find me and attack me and i am in great fear for the children's safety while in his care, \" mueller said in the court documents. Sheen and mueller were previously involved in a violent altercation in december of 2009 when mueller accused sheen of threatening her with a knife. Watch andrea canning's full interview with charlie sheen. Radaronline claims to have caught sheen on",
-            "Charlie sheen accumulates one million followers on twitter, vows loss of sons won't slow him down via twitter charlie sheen posts twitter picture of his big-screen tv as he boasts of'still winning..! pong!'take our poll sheen's shenanigans do you think charlie sheen is entitled to his hard-partying ways and random rants? sure, he's just keepin ' it real. No, he's putting people out of jobs with his flap trap. To an extent, but the guy's taking it too far. I don't know. Related news articles brooke mueller accuses ex charlie sheen of abuse, anti-semitic text, making death threats self-proclaimed \" winner \" charlie sheen isn't letting the loss of his toddler sons slow him down on twitter. The sitcom star started his day wednesday vowing to win back custody of 23-month-old twins bob and max and then busied himself with a flurry of off-the-wall updates that included a photo of two hot dogs. \" yeah man... This works! \" he wrote under a pic of one dog smothered in chili and another topped with peppers. \" still winning! pong! \" he captioned a nonsensical photo of himself making peace signs in front of a glowing blue directtv flat screen. He even retweeted a dig that comedienne sarah silverman made on"
+            "Charlie sheen must stay at least 100 feet away from soon-to-be ex-wife brooke mueller and their 2-year-old twin sons, pending a march 22 hearing on a restraining order against the embattled actor, according to court documents. Mueller has been granted temporary custody of the children. The twin boys were removed from sheen's home after mueller obtained the restraining order tuesday, the documents show. She called the actor \" insane \" and said she fears for her safety, according to the records. Click here to see radaronline's video of sheen's children being removed from his home. Mueller alleged that sheen threatened her sunday, saying, \" i will cut your head off, put it in a box and send it to your mom, \" according to the records. Mueller also alleged that sheen violated their custody agreement when he took the twins max and bob saturday. \" i am in great fear that he [ sheen ] will find me and attack me and i am in great fear for the children's safety while in his care, \" mueller said in the court documents. Sheen and mueller were previously involved in a violent altercation in december of 2009 when mueller accused sheen of threatening her with a knife. Watch andrea canning's full interview with charlie sheen. Radaronline claims to have caught sheen on"
         ],
         "raw_document": [
             "Charlie sheen must stay at least 100 feet away from soon-to-be ex-wife brooke mueller and their 2-year-old twin sons, pending a march 22 hearing on a restraining order against the embattled actor, according to court documents. Mueller has been granted temporary custody of the children. The twin boys were removed from sheen's home after mueller obtained the restraining order tuesday, the documents show. She called the actor \" insane \" and said she fears for her safety, according to the records. Click here to see radaronline's video of sheen's children being removed from his home. Mueller alleged that sheen threatened her sunday, saying, \" i will cut your head off, put it in a box and send it to your mom, \" according to the records. Mueller also alleged that sheen violated their custody agreement when he took the twins max and bob saturday. \" i am in great fear that he [ sheen ] will find me and attack me and i am in great fear for the children's safety while in his care, \" mueller said in the court documents. Sheen and mueller were previously involved in a violent altercation in december of 2009 when mueller accused sheen of threatening her with a knife. Watch andrea canning's full interview with charlie sheen. Radaronline claims to have caught sheen on",
@@ -2303,7 +2294,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2328,18 +2319,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 30186,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A sample of the tributes to where the wild things are author maurice sendak, who died today at 83: andrew leonard, salon: parents who loved sendak's books as kids ( like leonard ) read them to their own kids with even greater zeal. Thus, \" sendak planted an immortal virus in the culture, a self-fulfilling prophecy of rumpus, an affirmation that the child's-eye view of the world made total sense. I thank him dearly for it. \" peter dobrin, philadelphia inquirer: \" in both his portrayal of the terrors of being a child and the deep flaws of adults, mr. Sendak was a throwback to an earlier era in children's literature, when 19th century books like like heinrich hoffmann's der struwwelpeter lacked the sweetness and justice of a well-ordered world. \" margalit fox, new york times: he \" wrenched the picture book out of the safe, sanitized world of the nursery and plunged it into the dark, terrifying and hauntingly beautiful recesses of the human psyche... \" daniel handler, lemony snickets author, to ap: \" it's almost impossible to overstate his importance. He's a north star in the firmament of anyone who makes children's books, in particular for his dark and clear-eyed view of the world that was kindred to me when i was in kindergarten and kindred to me now. He gives neither the comfort nor the horror of sentimentality. \"",
         "split": "train",
         "cleansed_document": [
             "A posthumous picture book, \"my brother's book \" — a poem written and illustrated by mr. Sendak and inspired by his love for his late brother, jack — is scheduled to be published next february. Mr. Sendak's work was the subject of critical studies and major exhibitions; in the second half of his career, he was also renowned as a designer of theatrical sets. His art graced the writing of other eminent authors for children and adults, including hans christian andersen, leo tolstoy, herman melville, william blake and isaac bashevis singer. In book after book, mr. Sendak upended the staid, centuries-old tradition of american children's literature, in which young heroes and heroines were typically well scrubbed and even better behaved; nothing really bad ever happened for very long; and everything was tied up at the end in a neat, moralistic bow. Headstrong",
-            "Eighty-three is not a bad age at which to pass away, and while i feel regret at how the world is made less by his absence, my real sense of sadness after hearing the news of sendak's death came from the memories welling up of reading his works to my children. My kids are too big now to fit alongside their father in the easy chair in which we conducted our pre-bedtime reading rituals. The easy chair itself has departed. Now we crack jokes while watching \" community \" from the living room couch, their long arms and legs spread akimbo in every direction. Sure, we made a point of seeing the movie together, and agreed it was faithful to the original spirit, but it only served to evoke the spirit of those readings; it did not duplicate the experience. In mere months, one child will be off to college,",
-            "Maurice sendak's closest friends gathered in his hospital room _ playwright tony kushner, authors brian selznick and gregory maguire. Kushner brought jellybeans, while maguire placed a picture of lewis carroll on the table beside sendak's bed. In this book cover image released by harpercollins, children's book \" outside over there, \" by maurice sendak, is shown. Sendak, author and illustrator of popular children's books died, tuesday, may 8,... ( associated press ) file - in this jan. 20, 2005 photo released by syracuse university in florence, central italy, thursday jan. 20, 2005, shows a moment of the fantasy opera in one act and nine scenes, \" where the wild things... ( associated press ) file - in this sept. 6 2011 file photo, children's book author maurice sendak is photographed doing an interview at his"
+            "Eighty-three is not a bad age at which to pass away, and while i feel regret at how the world is made less by his absence, my real sense of sadness after hearing the news of sendak's death came from the memories welling up of reading his works to my children. My kids are too big now to fit alongside their father in the easy chair in which we conducted our pre-bedtime reading rituals. The easy chair itself has departed. Now we crack jokes while watching \" community \" from the living room couch, their long arms and legs spread akimbo in every direction. Sure, we made a point of seeing the movie together, and agreed it was faithful to the original spirit, but it only served to evoke the spirit of those readings; it did not duplicate the experience. In mere months, one child will be off to college,"
         ],
         "raw_document": [
             "A posthumous picture book, \"my brother's book \" — a poem written and illustrated by mr. Sendak and inspired by his love for his late brother, jack — is scheduled to be published next february. Mr. Sendak's work was the subject of critical studies and major exhibitions; in the second half of his career, he was also renowned as a designer of theatrical sets. His art graced the writing of other eminent authors for children and adults, including hans christian andersen, leo tolstoy, herman melville, william blake and isaac bashevis singer. In book after book, mr. Sendak upended the staid, centuries-old tradition of american children's literature, in which young heroes and heroines were typically well scrubbed and even better behaved; nothing really bad ever happened for very long; and everything was tied up at the end in a neat, moralistic bow. Headstrong",
@@ -2356,7 +2346,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2384,17 +2374,15 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 30188,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "As one university faces a lawsuit over its refusal to host white nationalist richard spencer, another is reluctantly conceding to the idea. The university of florida says it will allow spencer to speak on its campus on oct. 19 in what will be the alt-right leader's first college event since an august rally at the university of virginia that culminated in a deadly demonstration a day later, reports the washington post. Uf initially denied a request from spencer's national policy institute for a september event citing security concerns. Spencer then hired an attorney who threatened the school with a lawsuit, and uf announced thursday that npi would pay a standard fee of $ 10,500 to rent a space and provide security on campus on oct. 19, reports the gainesville sun. \" no one at the university of florida invited richard spencer. The racist ideas espoused by this organization and this individual conflict with the values of this institution, \" uf says in an email to students, per the independent florida alligator. But uf \" must allow the free expression of all viewpoints, \" a university rep adds, noting the school will pay some $ 500,000 for additional security on campus and in gainesville for which it is unable to bill spencer's npi. Spencer, who is concerned about violence at the event, says \" the fact that so much money is going to have to be spent on security results directly from people who want to shut down free speech \" and \" we need to fight this. \" he adds it will be an \" exciting \" event. \" i expect good intellectual push-back from the students, \" he says. \" that's part of the fun of it all. \"",
         "split": "train",
-        "cleansed_document": [
-            "Choose the plan that's right for you. Digital access or digital and print delivery."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Close get email notifications on katelyn newberg daily! your notification has been saved. There was a problem saving your notification. Whenever katelyn newberg posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items.",
             "Choose the plan that's right for you. Digital access or digital and print delivery."
@@ -2408,7 +2396,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2433,7 +2421,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2660,12 +2648,11 @@
     },
     {
         "idx": 30198,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Despite sexual-harassment scandals that prompted marquee-name resignations, fox news is still on top. Rupert murdoch's network clinched the most prime-time viewers among cable news networks, reports the wall street journal, and even increased its hold among the much-desired demographic of 25- to 45-year-olds in the latest nielsen ratings ending in june. The score surprised some media observers who expected fox to take a hit after losing star host bill o'reilly, who was replaced by tucker carlson. While his audience is smaller, carlson is beating o'reilly in the coveted 25-to-54 group, and the network gained 21 % overall in that age group over last year. The five round-table show saw a rise after replacing the kelly file, following host megyn kelly's jump to nbc. ( adweek has a scorecard by time slot. ) but it wasn't all bad news for the runners up: all three networks are clocking far more viewers than before the presidential election, though fox has watched its lead slip since november. Left-leaning msnbc is closing in with the biggest ratings growth — 72 % among 25- to 54-year-olds over the past year — thanks to rachel maddow's show, which is tops among that demographic. Last word with lawrence o'donnell saw a 97 % boost among that same group, though it still lags behind sean hannity's show on fox news, which gained 31 %. Overall, fox news racked up 472,000 prime-time viewers, with 389,000 for msnbc, and 370,000 for cnn. Fox news co-president jack abernethy tells the journal that 2017 has been \" a great year by virtually all measures. \" ( president trump, for his part, is no fan of cnn. )",
         "split": "train",
         "cleansed_document": [
-            "When tucker carlson was getting ready to take over as bill o'reilly's replacement at fox news this spring, he said network boss and 21st century fox executive chairman rupert murdoch told him, \"relax and enjoy yourself. \" relaxation and enjoyment may have been in short supply inside the halls of fox news over the past year. Turbulence from sexual-harassment scandals led to the exits of the network's two top executives, roger ailes and bill shine, and its biggest star, mr. O'reilly....",
-            "Get tvnewser delivered straight to your inbox receive the morning media newsfeed receive information and updates on adweek events, awards, and promotions receive news and offers from our friends and sponsors thank you for subscribing. Please check your email to confirm an error has occurred, please try again later please enter a valid email address please confirm with the recaptcha recaptcha response was incorrect this email address is already subscribed to the selected list( s )."
+            "When tucker carlson was getting ready to take over as bill o'reilly's replacement at fox news this spring, he said network boss and 21st century fox executive chairman rupert murdoch told him, \"relax and enjoy yourself. \" relaxation and enjoyment may have been in short supply inside the halls of fox news over the past year. Turbulence from sexual-harassment scandals led to the exits of the network's two top executives, roger ailes and bill shine, and its biggest star, mr. O'reilly...."
         ],
         "raw_document": [
             "When tucker carlson was getting ready to take over as bill o'reilly's replacement at fox news this spring, he said network boss and 21st century fox executive chairman rupert murdoch told him, \"relax and enjoy yourself. \" relaxation and enjoyment may have been in short supply inside the halls of fox news over the past year. Turbulence from sexual-harassment scandals led to the exits of the network's two top executives, roger ailes and bill shine, and its biggest star, mr. O'reilly....",
@@ -2680,17 +2667,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 30199,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "James comey's firing was a shock — but not entirely unprecedented. Since its founding in 1908, the fbi has been led by 11 men ( interspersed with a handful of acting directors ), and comey was the second of them to be fired. William sessions got the boot in july 1993 compliments of bill clinton, though in that case, sessions had been asked to step down and only saw his position terminated once he refused. The los angeles times reports the justice department's office of professional responsibility began looking into the ronald reagan appointee at the end of george h.w. Bush's tenure and uncovered a rash of ethical transgressions that were detailed in a report released in january 1993. Among them, per the times and new york times: having a $ 10,000 security fence constructed around his home that didn't actually provide security, flying free on fbi aircraft in order to meet relatives, and sidestepping taxes owed on his use of an fbi limo. Attorney general janet reno determined \" in no uncertain terms that [ sessions ] can no longer effectively lead the bureau \" and recommended clinton fire him. The washington post reports two presidents — truman and kennedy — considered firing j. Edgar hoover, who held the post for nearly 48 years and whose political clout allowed him to escape such a dismissal. Ten-year term limits were established after hoover's death. Sessions was six years into his term; comey was only three. ( when comey first heard the news he thought it was a joke. )",
         "split": "train",
         "cleansed_document": [
-            "The fbi director has answered directly to the attorney general since the 1920s.‬ ‪under the omnibus crime control act and safe streets act of 1968, public law 90-3351, the director is appointed by the u.s. President and confirmed by the senate. On october 15, 1976, in reaction to the extraordinary 48-year term of j. Edgar hoover, congress passed public law 94-503, limiting the fbi director to a single term of no longer than 10 years. ‪",
-            "The special counsel investigating possible links between russia and the trump presidential campaign has cleared former fbi director james comey to testify before a congressional committee about his contacts with president trump, according to an associate close to comey. Comey met with robert s. Mueller iii, whom the justice department appointed on may 17 to investigate any russian ties to the trump campaign, and mueller said he had no problems with comey's testifying, the associate said. Trump abruptly fired comey as head of the fbi on may 9. The president later said in an interview on nbc news that he was concerned about the fbi investigation into what he called the \" russia thing. \""
+            "The fbi director has answered directly to the attorney general since the 1920s.‬ ‪under the omnibus crime control act and safe streets act of 1968, public law 90-3351, the director is appointed by the u.s. President and confirmed by the senate. On october 15, 1976, in reaction to the extraordinary 48-year term of j. Edgar hoover, congress passed public law 94-503, limiting the fbi director to a single term of no longer than 10 years. ‪"
         ],
         "raw_document": [
             "The fbi director has answered directly to the attorney general since the 1920s.‬ ‪under the omnibus crime control act and safe streets act of 1968, public law 90-3351, the director is appointed by the u.s. President and confirmed by the senate. On october 15, 1976, in reaction to the extraordinary 48-year term of j. Edgar hoover, congress passed public law 94-503, limiting the fbi director to a single term of no longer than 10 years. ‪",
@@ -2705,7 +2691,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 4
         }
     }
 ]

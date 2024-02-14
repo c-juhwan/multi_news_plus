@@ -50,13 +50,12 @@
     },
     {
         "idx": 34502,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Demi moore suffered an epileptic seizure monday night before being rushed to the hospital, radar reports. She is now being treated for substance abuse, \" anorexia, as well as other issues that caused her seizure, \" a source says. \" she has not taken care of her health at all lately and has lost a ton of weight. \" meanwhile, moore has backed out of a movie project, her reps tell tmz. She had planned to appear as feminist icon gloria steinem in lovelace, but has now canceled. Her spokespeople continue to insist moore is being treated for exhaustion. As for ex ashton kutcher, where was he during all this? surfing and drinking in brazil, the mirror reports.",
         "split": "train",
         "cleansed_document": [
             "Demi moore pulls out of ' lovelace ' has dropped out of her upcoming movie, \", \" tmz has learned.demi's reps tell us... They just got word she will no longer do a cameo for the flick.tmz broke the story... Demi was rushed to the hospital monday night for a substance abuse problem. She is currently receiving professional help at a treatment facility.",
-            "By alexis tereszcuk – radar senior reporter demi moore had a seizure monday night before she was rushed to the hospital and is being treated for anorexia, among other substance abuse issues, radaronline.com has exclusively learned. The 49-year-old ghost star has become frighteningly thin since her split with husband ashton kutcher, and a source close to the actress described what happened to her. Photos: demi moore scary skinny \"she collapsed after having an epileptic seizure, \" the source said about the frightening medical emergency. Her dramatic weight loss has caused much speculation about her health and the source confirmed that this is one of the issues she is seeking treatment for. \"demi is in getting treated for anorexia, as well as other issues that caused her seizure, \" the source said. Photos: demi moore looks stick thin and somber at nail salon \"she has not taken care of her health at all lately and has lost a ton of weight. \" the actress is reportedly seeking help for substance abuse as well. Photos: demi moore looks frightening thin on red carpet demi and ashton's six year marriage ended in 2011 after star magazine's bombshell report that ashton",
-            "While ex-wife demi moore was being rushed to hospital in prefix = st1 ns = \" urn: schemas-microsoft-com: office: smarttags \" / los angeles, estranged husband ashton kutcher was bragging on twitter about his carefree life. Bad timing, ashton, bad timing. On monday night, the emergency services dashed to demi's home following concerns about her health. The actress was assessed by paramedics for more than half-an-hour at her prefix = st1 ns = \" urn: schemas-microsoft-com: office: smarttags \" / los angeles home before being taken to a local hospital. Although it's not known exactly why demi, 49, was admitted to hospital, it's safe to say former toyboy ashton was entirely none the wiser as he larked about in prefix = st1 ns = \" urn: schemas-microsoft-com: office: smarttags \" / brazil. Bad timing on holiday with a few friends, the 33 year old posted a picture of himself mucking around in the rain. He wrote: \"surfing the streets of prefix = st1 ns = \" urn: schemas-microsoft-com: office: smarttags \" / sao paulo. \" and just to hammer in"
+            "By alexis tereszcuk – radar senior reporter demi moore had a seizure monday night before she was rushed to the hospital and is being treated for anorexia, among other substance abuse issues, radaronline.com has exclusively learned. The 49-year-old ghost star has become frighteningly thin since her split with husband ashton kutcher, and a source close to the actress described what happened to her. Photos: demi moore scary skinny \"she collapsed after having an epileptic seizure, \" the source said about the frightening medical emergency. Her dramatic weight loss has caused much speculation about her health and the source confirmed that this is one of the issues she is seeking treatment for. \"demi is in getting treated for anorexia, as well as other issues that caused her seizure, \" the source said. Photos: demi moore looks stick thin and somber at nail salon \"she has not taken care of her health at all lately and has lost a ton of weight. \" the actress is reportedly seeking help for substance abuse as well. Photos: demi moore looks frightening thin on red carpet demi and ashton's six year marriage ended in 2011 after star magazine's bombshell report that ashton"
         ],
         "raw_document": [
             "Demi moore pulls out of ' lovelace ' has dropped out of her upcoming movie, \", \" tmz has learned.demi's reps tell us... They just got word she will no longer do a cameo for the flick.tmz broke the story... Demi was rushed to the hospital monday night for a substance abuse problem. She is currently receiving professional help at a treatment facility.",
@@ -73,7 +72,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -98,7 +97,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -123,19 +122,18 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 34505,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A bathroom at a kroger in athens, ga., is the unlikely subject of much attention since a customer posted a photo of its unisex bathroom notice to facebook over the weekend. The sign reads, in part, that the store is opting for a unisex bathroom because \" we have a lot of our friends coming to see us, \" and goes on to list those who can benefit from a more inclusive policy, including dads with daughters, moms with sons, and those in the lgbtq community. Business insider reports that kroger is getting \" widespread praise \" for the sign, while the facebook post had been shared almost 90,000 times as of tuesday morning. Mashable notes that many businesses are taking sides in the ongoing debate in georgia over banning or upholding anti-discrimination laws, and while time notes that kroger has not yet responded with a comment, the huffington post points out that the sign actually uses language from a similar bathroom notice posted at pure pizza restaurant in charlotte, nc, earlier this year. ( georgia's governor vetoed its \" religious liberty \" bill on monday. )",
         "split": "train",
         "cleansed_document": [
             "Some businesses know how to treat their customers. North carolina's ban on anti-discrimination laws that allowed transgender people to use the restroom aligned with their gender identity has been widely criticized. And it seems like businesses are taking a stand in their own way. A kroger in athens, georgia posted a sign on the door for its unisex bathroom stating its policy on inclusivity for its customers. Image: facebook, tonya owens \" we have a unisex bathroom because sometimes gender specific toilets put others into uncomfortable situations, \" it says on the sign. Not only does kroger's sign offer a bathroom for its lgbtq customers, it also says its policy is to cater to mothers with sons, fathers with daughters and the mentally or physically",
             "We have a unisex bathroom because sometimes gender specific toilets put others into uncomfortable situations. And since we have a lot of friends coming to see us, we want provide a place for our friends who are: dads with daughters moms with sons parents with disabled children those in the lgbtq community adults with aging parents who may be mentally or physically disabled thank you for helping us to provide a safe environment for everyone!",
-            "Ap kroger is getting widespread praise for a store sign defending unisex bathrooms. The sign is posted to the bathroom door of a store in athens, georgia. It reads: \" we have a unisex bathroom because sometimes gender specific toilets put others into uncomfortable situations. \" it goes on to list different people who benefit from a unisex bathroom, including parents with opposite-sex children, those in teh lgbtq community, and adults with aging parents. A customer snapped a photo of the sign and posted it to facebook on saturday. The post had been shared more than 38,000 times as of monday morning and liked more than 24,000 times. Customer reactions to the sign are mixed, but mostly positive. \" this is perfect! top notch, tasteful",
-            "Georgia gov. Nathan deal walks into a press conference to announce he has vetoed legislation allowing clergy to refuse performing gay marriage and protecting people who refuse to attend the ceremonies... ( associated press ) georgia gov. Nathan deal walks into a press conference to announce he has vetoed legislation allowing clergy to refuse performing gay marriage and protecting people who refuse to attend the ceremonies monday, march 28, 2016, in atlanta. The republican rejected the bill on monday, saying \" i have examined... ( associated press ) atlanta ( ap ) — georgia's term-limited gov. Nathan deal took a stand against his own party and averted threatened boycotts by major corporations on monday by announcing his veto of a \" religious freedom \" bill. \" i"
+            "Ap kroger is getting widespread praise for a store sign defending unisex bathrooms. The sign is posted to the bathroom door of a store in athens, georgia. It reads: \" we have a unisex bathroom because sometimes gender specific toilets put others into uncomfortable situations. \" it goes on to list different people who benefit from a unisex bathroom, including parents with opposite-sex children, those in teh lgbtq community, and adults with aging parents. A customer snapped a photo of the sign and posted it to facebook on saturday. The post had been shared more than 38,000 times as of monday morning and liked more than 24,000 times. Customer reactions to the sign are mixed, but mostly positive. \" this is perfect! top notch, tasteful"
         ],
         "raw_document": [
             "Some businesses know how to treat their customers. North carolina's ban on anti-discrimination laws that allowed transgender people to use the restroom aligned with their gender identity has been widely criticized. And it seems like businesses are taking a stand in their own way. A kroger in athens, georgia posted a sign on the door for its unisex bathroom stating its policy on inclusivity for its customers. Image: facebook, tonya owens \" we have a unisex bathroom because sometimes gender specific toilets put others into uncomfortable situations, \" it says on the sign. Not only does kroger's sign offer a bathroom for its lgbtq customers, it also says its policy is to cater to mothers with sons, fathers with daughters and the mentally or physically",
@@ -154,7 +152,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -237,7 +235,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -265,17 +263,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 34510,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Don't confuse the principles of conservatism with the principles — or lack thereof — of the current republican party, writes andrew sullivan in the daily beast. In a scathing blog post, he calls the gop's use of the debt ceiling as a negotiating tool \" legislative terrorism \" by a \" single fanatical faction. \" they're willing to destroy the nation's credit rating to get their way? it's similar in spirit to the gop's use of the modern \" non-filibuster filibuster, \" which makes a mockery of the legislative process, not to mention the constitution. \" when you see a political party that openly flaunts these attacks on the american constitutional balance and the country's credit for purely partisan reasons, you begin to see how deep the rot has gone, \" writes sullivan. \" this anti-conservative radicalism is anti-american, \" and it proves that the modern gop \" is not a party worthy of any role in government. \" read his full post here. For an opposing view ( a no-surrender plea that helped set sullivan off ), see marc thiessen's column in the washington post.",
         "split": "train",
         "cleansed_document": [
-            "Ezra klein details where the president draws the line: the obama administration is utterly steadfast on this point: they will not suffer a repeat of 2011, when they conducted negotiations over whether the united states should default. If republicans go over the cliff and try to open up talks for raising the debt ceiling, the white house will not hold a meeting, they will not return a phone call, they will not look at the e-mails. They will move to an entirely public strategy, rallying voters and the business community against the gop's repeated brinksmanship. There are two procedural issues on which, it seems to me, true conservatives should be outraged at republicans. The first is the massive, unprecedented, destructive and radical use of a non-filibuster filibuster to make the senate unable to pass anything significant without 60 votes, rather than 51 ( or 50 with the veep ). This is not conservative. It's a blatant attack on tradition in defense of pure partisanship. I think the president should at some point personally take this on. Most americans aren't fully aware that a filibuster today doesn't need even a few minutes of what we always thought of as filibustering. The filibusterers barely have to speak at all. They just have to signal their intent to, and the entire legislative",
-            "When the 1st marine regiment was encircled by communist forces at the battle of chosin reservoir, marine col. Lewis \"chesty \" puller was said to have declared: \"we're surrounded. Good! now we can fire in any direction. \" it's time for congressional republicans to adopt some of puller's courage — and strategy — when it comes to their fiscal stand-off with barack obama. Like puller's marines, the gop is surrounded. That means republican leaders have only two options: 1 ) surrender. 2 ) stand and fight. Right now, it seems as if they are seeking the least painful way to surrender. It's time to stand and fight instead. Republicans can still shoot their way out of their current predicament. It won't be pretty and they will have to fight ugly — but they can still win. Here is a three-step battle plan for doing so: step one: stand your ground on taxes. You've already conceded hundreds of billions in new revenue through limiting deductions. If obama refuses to compromise, pass legislation extending current tax rates for all americans. Let obama reject it and take us over the \"fiscal cliff \" — and then be prepared to live under the clinton tax rates while negotiations on tax reform continue. In the short term, americans"
+            "Ezra klein details where the president draws the line: the obama administration is utterly steadfast on this point: they will not suffer a repeat of 2011, when they conducted negotiations over whether the united states should default. If republicans go over the cliff and try to open up talks for raising the debt ceiling, the white house will not hold a meeting, they will not return a phone call, they will not look at the e-mails. They will move to an entirely public strategy, rallying voters and the business community against the gop's repeated brinksmanship. There are two procedural issues on which, it seems to me, true conservatives should be outraged at republicans. The first is the massive, unprecedented, destructive and radical use of a non-filibuster filibuster to make the senate unable to pass anything significant without 60 votes, rather than 51 ( or 50 with the veep ). This is not conservative. It's a blatant attack on tradition in defense of pure partisanship. I think the president should at some point personally take this on. Most americans aren't fully aware that a filibuster today doesn't need even a few minutes of what we always thought of as filibustering. The filibusterers barely have to speak at all. They just have to signal their intent to, and the entire legislative"
         ],
         "raw_document": [
             "Ezra klein details where the president draws the line: the obama administration is utterly steadfast on this point: they will not suffer a repeat of 2011, when they conducted negotiations over whether the united states should default. If republicans go over the cliff and try to open up talks for raising the debt ceiling, the white house will not hold a meeting, they will not return a phone call, they will not look at the e-mails. They will move to an entirely public strategy, rallying voters and the business community against the gop's repeated brinksmanship. There are two procedural issues on which, it seems to me, true conservatives should be outraged at republicans. The first is the massive, unprecedented, destructive and radical use of a non-filibuster filibuster to make the senate unable to pass anything significant without 60 votes, rather than 51 ( or 50 with the veep ). This is not conservative. It's a blatant attack on tradition in defense of pure partisanship. I think the president should at some point personally take this on. Most americans aren't fully aware that a filibuster today doesn't need even a few minutes of what we always thought of as filibustering. The filibusterers barely have to speak at all. They just have to signal their intent to, and the entire legislative",
@@ -290,7 +287,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -452,12 +449,11 @@
     },
     {
         "idx": 34517,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "On jared kushner's growing to-do list: bringing peace to the middle east, streamlining government processes, and now, talking to the senate intelligence committee about russia. Per the ap, the white house has confirmed president trump's son-in-law, husband of ivanka trump, has said he ' ll speak to the committee to assist its investigation into possible ties between russian officials and those linked to trump. Specifically, government officials tell the new york times that kushner is expected to be grilled about meetings he arranged between the election and the inauguration with russian ambassador sergey kislyak, whose interaction with ex-national security adviser michael flynn led to the latter's resignation after flynn wasn't immediately forthcoming about their contact. Interview details haven't yet been finalized, a source familiar with the investigation tells the ap. White house spokeswoman hope hicks tell the times kushner met at trump tower with kislyak in early december ( with flynn also present ) to start a conversation on us-russian relations, as well as the middle east. But a second meeting later in december also took place, with hicks noting kushner sent an associate in his place. At that meet, kislyak asked kushner to meet with sergey gorkov, head of russia's vnesheconombank, which has been sanctioned by the us. Kushner met with gorkov, but hicks says it \" wasn't much \" of a talk. Kushner is now the fourth trump official agreeing to congressional questions, joining ex-campaign chief paul manafort, ex-adviser carter page, and associate roger stone. Hicks says kushner didn't initially mention the meetings because nothing of note occurred. The house intelligence committee is still mulling talking to kushner, per the washington post.",
         "split": "train",
         "cleansed_document": [
-            "File - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in... ( associated press ) file - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in washington. ( ap photo/pablo martinez monsivais, file ) ( associated press ) file - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in washington. ( ap photo/pablo martinez monsivais, file ) ( associated press ) file - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in... ( associated press ) washington ( ap ) — president donald trump's son-in-law has volunteered to answer questions before the senate intelligence committee about arranging meetings with the russian ambassador and other officials, the white house confirmed monday. Jared kushner has agreed to speak to the committee, which is conducting an investigation into russia's interference in the 2016 election, including",
-            "Mr. Kushner had not yet stepped aside as chief executive of kushner companies, which was trying to attract investment for the company's crown jewel, an overleveraged manhattan office tower on fifth avenue. The company was in the midst of negotiations to redevelop the building with anbang insurance group, a chinese company with ties to the beijing government. Senate investigators plan to ask mr. Kushner if he discussed ways to secure additional financing for the building during his meeting with the russian banker, a government official said. Ms. Hicks said that no such business was discussed at the half-hour session, during which mr. Gorkov expressed a desire for an open dialogue. Nor did the issue of the american sanctions against russian entities like vnesheconombank arise, she added. \"it really wasn't much of a conversation, \" she said. Mr. Gorkov, in the statement, went further. He said that bank managers, as part of a new strategy for the institution, met with international financial institutions in europe, asia and america to talk about promising trends and sectors. He also met with representatives of \"business circles of the u.s., including with the head of kushner companies, jared kushner. \" and in an interview on the state-owned rossiya 24 tv channel on dec. 29, the same month that he met with mr. Kushner, mr. Gorkov said he"
+            "File - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in... ( associated press ) file - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in washington. ( ap photo/pablo martinez monsivais, file ) ( associated press ) file - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in washington. ( ap photo/pablo martinez monsivais, file ) ( associated press ) file - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in... ( associated press ) washington ( ap ) — president donald trump's son-in-law has volunteered to answer questions before the senate intelligence committee about arranging meetings with the russian ambassador and other officials, the white house confirmed monday. Jared kushner has agreed to speak to the committee, which is conducting an investigation into russia's interference in the 2016 election, including"
         ],
         "raw_document": [
             "File - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in... ( associated press ) file - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in washington. ( ap photo/pablo martinez monsivais, file ) ( associated press ) file - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in washington. ( ap photo/pablo martinez monsivais, file ) ( associated press ) file - in this jan. 24, 2017 file photo, white house senior adviser jared kushner arrives for a meeting between president donald trump and automobile leaders in the roosevelt room of the white house in... ( associated press ) washington ( ap ) — president donald trump's son-in-law has volunteered to answer questions before the senate intelligence committee about arranging meetings with the russian ambassador and other officials, the white house confirmed monday. Jared kushner has agreed to speak to the committee, which is conducting an investigation into russia's interference in the 2016 election, including",
@@ -472,17 +468,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 34518,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Funny how the hours between 9am and 5pm just fly by when facebook is involved. Unfortunately, our bosses are on to us. A study by opendns reports which websites were most blocked by companies in 2010. The huffington post has the top 10, noting the proportion of business networks that have blacklisted the site: ebay, 1.6 %: no bidding on that unworn pair of uggs. Hotmail.com, 2.1 %: business email only, please. Twitter, 4.2 %: 140-character distractions are too massive for some employers. Youtube, 11.9 %: no videos for you! of course, there's always funny or die... Click for the rest of the no-no sites.",
         "split": "train",
         "cleansed_document": [
-            "Cyberslacking can be a real drag on companies. The solution for many firms seems to be to simply block the websites on which they believe their employees will waste the most time. Studies have shown social media to be a major time sink, as well online games and personal email. A study from dns-resolution service opendns, \" 2010 report on web content filtering and phishing \" details just what sites companies were most likely to block last year, be it social networking websites or sites that have a reputation for fostering procrastination.",
-            "Cyberslacking can be a real drag on companies. The solution for many firms seems to be to simply block the websites on which they believe their employees will waste the most time. Studies have shown social media to be a major time sink, as well online games and personal email. A study from dns-resolution service opendns, \" 2010 report on web content filtering and phishing \" details just what sites companies were most likely to block last year, be it social networking websites or sites that have a reputation for fostering procrastination. Take a look at the slideshow below to see if your favorite sites are among the most blocked by companies. Which sites do you see that you think shouldn't have made this list?"
+            "Cyberslacking can be a real drag on companies. The solution for many firms seems to be to simply block the websites on which they believe their employees will waste the most time. Studies have shown social media to be a major time sink, as well online games and personal email. A study from dns-resolution service opendns, \" 2010 report on web content filtering and phishing \" details just what sites companies were most likely to block last year, be it social networking websites or sites that have a reputation for fostering procrastination."
         ],
         "raw_document": [
             "Cyberslacking can be a real drag on companies. The solution for many firms seems to be to simply block the websites on which they believe their employees will waste the most time. Studies have shown social media to be a major time sink, as well online games and personal email. A study from dns-resolution service opendns, \" 2010 report on web content filtering and phishing \" details just what sites companies were most likely to block last year, be it social networking websites or sites that have a reputation for fostering procrastination.",
@@ -497,18 +492,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
         "idx": 34519,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "When he's not selling padlocks at home depot in hoover, ala., 60-year-old gustavo diaz is heading what venezuelan president nicolas maduro calls an \" economic war \" against his country, laid out in full by the wall street journal. Diaz's instrument: his dolartoday.com website, which venezuela insists posts fake black-market exchange rates to manipulate the country's currency. The site has already courted two failed lawsuits by venezuela's central bank, and the government has also unleashed hackers on it. \" dolartoday is the empire's strategy to push down the currency and overthrow maduro. Dolartoday is the enemy of the people, \" vp aristobulo isturiz said in early 2016 ( the journal notes \" empire \" refers to the us ). Not that diaz is simply a bored alabama guy with a penchant for numbers: he's actually a retired venezuelan army colonel who assisted in a two-day 2002 coup against then president hugo chavez. Diaz is also now a us citizen after seeking asylum in 2005 in alabama, where his siblings lived. He runs his site — which mixes daily exchange rates with unflattering news about the government, with rates calculated by scanning social media for transaction requests, then comparing that average rate with that seen in underground venezuelan exchange institutions — with two other venezuelan expats. \" it's ironic that with dolartoday in alabama, i do more damage to the government than i did as a military man in venezuela, \" he notes. ( a reporter's struggle to find food in venezuela. )",
         "split": "train",
         "cleansed_document": [
             "Venezuela's central bank sued to block a popular u.s.-based website from publishing allegedly misleading black-market exchange rates for dollars, claiming the move is part of a conspiracy to manipulate the south american country's currency. Banco central de venezuela accused a former venezuelan army officer of using the dolartoday.com website to destabilize president nicolas maduro's government and reap millions of dollars by falsifying exchange rates. The site promotes itself as the \"authoritative source \" of the daily exchange rate for the bolivar, the country's currency, according to the lawsuit. Likening the site to cyber-terrorism, the central bank said \"publication of phony black market rates sabotages venezuela's tiered currency exchange rates\" and exacerbates existing inflationary pressures, according to the complaint filed friday in federal court in delaware. Venezuela has battled spiraling inflation for years and last month saw the value of its currency drop below 800 bolivars per dollar on the black market. That meant the country's biggest currency note of 100 bolivars was worth about 12 u.s. Cents. The government maintained official rates of 6.3, 13.5 and about 200 bolivars per dollar for authorized purchases of",
-            "Hoover, ala. — public enemy no. 1 of venezuela's revolutionary government is gustavo díaz, a home depot inc. Employee in central alabama. On his lunch breaks from the hardware section, mr. Díaz, 60 years old, does more than anyone else to set the price of everything from rice to aspirin to cars in his native venezuela, influencing the inflation rate and swaying millions of dollars of daily currency transactions. How?...",
-            "\" we were not discouraging people, \" the official said. \" we were sending informal, subtle signals that we don't like this guy. We didn't say, ' no, don't you dare, ' and we weren't advocates saying, ' here's some arms; we ' ll help you overthrow this guy. ' we were not doing that. \" the disclosures come as rights advocates, latin american diplomats and others accuse the administration of having turned a blind eye to coup plotting activities, or even encouraged the people who temporarily removed mr. Chávez. Such actions would place the united states at odds with its fellow members of the organization of american states, whose charter condemns the overthrow of democratically elected governments. In the immediate aftermath of the ouster, the white house spokesman, ari fleischer, suggested that the administration was pleased that mr. Chávez was gone. \" the government suppressed what was a peaceful demonstration of the people, \" mr. Fleischer said, which \" led very quickly to a combustible situation in which chávez resigned."
+            "Hoover, ala. — public enemy no. 1 of venezuela's revolutionary government is gustavo díaz, a home depot inc. Employee in central alabama. On his lunch breaks from the hardware section, mr. Díaz, 60 years old, does more than anyone else to set the price of everything from rice to aspirin to cars in his native venezuela, influencing the inflation rate and swaying millions of dollars of daily currency transactions. How?..."
         ],
         "raw_document": [
             "Venezuela's central bank sued to block a popular u.s.-based website from publishing allegedly misleading black-market exchange rates for dollars, claiming the move is part of a conspiracy to manipulate the south american country's currency. Banco central de venezuela accused a former venezuelan army officer of using the dolartoday.com website to destabilize president nicolas maduro's government and reap millions of dollars by falsifying exchange rates. The site promotes itself as the \"authoritative source \" of the daily exchange rate for the bolivar, the country's currency, according to the lawsuit. Likening the site to cyber-terrorism, the central bank said \"publication of phony black market rates sabotages venezuela's tiered currency exchange rates\" and exacerbates existing inflationary pressures, according to the complaint filed friday in federal court in delaware. Venezuela has battled spiraling inflation for years and last month saw the value of its currency drop below 800 bolivars per dollar on the black market. That meant the country's biggest currency note of 100 bolivars was worth about 12 u.s. Cents. The government maintained official rates of 6.3, 13.5 and about 200 bolivars per dollar for authorized purchases of",
@@ -525,7 +519,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -582,13 +576,12 @@
     },
     {
         "idx": 34522,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Just when you thought there were no more blows left to be dealt to paula deen comes this pretty painful one: nbc news reports that company no. 11 is severing ties. Random house imprint ballantine books won't go ahead with a planned printing of her new cookbook. Adding to the ouch: the cookbook in question is paula deen's new testament: 250 favorite recipes, all lightened up — that's right, the one that shot to no. 1 on amazon thanks to an avalanche of pre-orders in the wake of her n-word scandal. It was set to come out in october as the first book in a five-book deal, and deen's agent says the whole deal is kaput. Publishers weekly reports that random house said in a short statement that the decision came \" after careful consideration. \" deen's agent expressed confidence in the book's eventual prospects and wagged a finger at the publisher: \" we have gotten reachouts from other major customers in the book industry today offering support.... I am sorely disappointed in the behavior of random house for obvious reasons, and other reasons that will become apparent. \" the ap notes that since all purchases had been pre-orders, no refunds are necessary.",
         "split": "train",
         "cleansed_document": [
             "The queen of southern comfort food has officially been thrown off her throne, after 11 companies have ended partnerships with or taken a break from paula deen amid the controversy surrounding her. The latest, and perhaps most shocking, is ballantine books, publisher of her upcoming cookbook, \" paula deen's new testament: 250 favorite recipes, all lightened up. \" in a brief statement friday afternoon, ballantine announced it was canceling its multibook deal with deen, including publication of her upcoming cookbook, which was scheduled for release in october 2013. The news comes as a surprise, as the book was pushed to no. 1 on amazon after a surge of pre-orders from fans. Walgreens said it was phasing out deen's products and j.c. Penney, which gave no formal statement, confirmed to nbc news friday that it would no longer carry deen-branded merchandise. Sears holdings announced friday morning",
-            "Paula deen has lost her publisher. The celebrity chef, who's been suffering from a raft of bad press, has had her contract with random house canceled. On friday, random house issued a brief statement about dropping paula deen's new testament: 250 favorite recipes, all lightened up, which was to be be published by ballantine books in october. By the end of the weekend the multi-book deal deen signed with the house, in january 2012, was off. On friday random house said the decision to cancel new testament came \" after careful consideration. \" as of june 25, the publisher was going ahead with the book, and said it was monitoring the situation. While target and wal-mart had not mentioned the book specifically, both chains announced earlier in the week that they were cutting ties with deen. Before the rh announcement friday, both barnes",
-            "When beloved author, tv star, and chef paula deen was diagnosed with diabetes, she thought it might be a curse, but it turned out to be a blessing. While food had always played a major part in her life — from offering comfort during the tough early days to making mealtimes special for her family to inspiring her business and professional life — it would now play an even bigger role: as the key to managing her health. By taking charge of her life and making small changes — a little less sugar here, a slight substitution there — she reaped big results. Paula soon found herself forty pounds slimmer and feeling great, all the while eating the southern favorites we all love: ( oven ) fried chicken, lower-fat biscuits, and red velvet cake — lightened up! now she's back with a brand-new cookbook featuring fresh twists on her treasured"
+            "Paula deen has lost her publisher. The celebrity chef, who's been suffering from a raft of bad press, has had her contract with random house canceled. On friday, random house issued a brief statement about dropping paula deen's new testament: 250 favorite recipes, all lightened up, which was to be be published by ballantine books in october. By the end of the weekend the multi-book deal deen signed with the house, in january 2012, was off. On friday random house said the decision to cancel new testament came \" after careful consideration. \" as of june 25, the publisher was going ahead with the book, and said it was monitoring the situation. While target and wal-mart had not mentioned the book specifically, both chains announced earlier in the week that they were cutting ties with deen. Before the rh announcement friday, both barnes"
         ],
         "raw_document": [
             "The queen of southern comfort food has officially been thrown off her throne, after 11 companies have ended partnerships with or taken a break from paula deen amid the controversy surrounding her. The latest, and perhaps most shocking, is ballantine books, publisher of her upcoming cookbook, \" paula deen's new testament: 250 favorite recipes, all lightened up. \" in a brief statement friday afternoon, ballantine announced it was canceling its multibook deal with deen, including publication of her upcoming cookbook, which was scheduled for release in october 2013. The news comes as a surprise, as the book was pushed to no. 1 on amazon after a surge of pre-orders from fans. Walgreens said it was phasing out deen's products and j.c. Penney, which gave no formal statement, confirmed to nbc news friday that it would no longer carry deen-branded merchandise. Sears holdings announced friday morning",
@@ -605,7 +598,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -662,12 +655,11 @@
     },
     {
         "idx": 34525,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's been a half-century since john f kennedy admonished his fellow citizens to ask not what their country could do for them, and his presidential archive is going online today, just ahead of the anniversary, reports the boston globe. The $ 10 million project took four years to complete, but camelot has gone digital — from key foreign policy speeches to intimate family photos and podcasts describing how jackie kennedy entertained at the white house. In all, the archive contains 200,000 pages, 1,500 photos, 1,250 audio and video files, and 17 1/2 hours of phone conversations. Among the gems: a rough draft, in kennedy's handwriting, of his aforementioned inaugural address. Click for the jfk library and museum.",
         "split": "train",
         "cleansed_document": [
-            "Among the documents likely to draw intense interest is a draft, in jfk's handwriting, of his inaugural address ( \"ask not what your country can do for you... \" ). There are also notes, tapes, and maps made during the 1962 cuban missile crisis, and oval office phone conversations between kennedy and other important historical figures, from foreign heads of state and former us presidents to key political allies and aides. Users will be able to print and copy material directly off the website, so they could download a personal note to jfk and make a copy for themselves. The 50th anniversary celebration includes a number of roll-outs and events. On friday, comcast will offer its customers \"jfk 50 years, \" a video on demand channel of archival footage of speeches, debates, commercials, and other pieces. And beginning saturday, visitors to the museum can step up to a podium set amid the january 20, 1961 inaugural scene and deliver some of kennedy's most stirring passages from his address. Bonus points if you can nail his accent perfectly.",
-            "Use the above search box to perform a keyword search of our holdings, including finding aids, collection-level records, and fully or partially digitized collections. Alternatively, perform an advanced search. For assistance, please contact kennedy.library@nara.gov. The following links offer other ways to browse our holdings. Note: you may further refine your search by using the search facets in the left-hand navigation bar of each search-results page. Browse collections an alphabetical listing of all collections ( personal papers and institutional records ), with links to finding aids where available. Browse oral history interviews an alphabetical listing of oral history interviews, with links to online transcripts where available. Browse hemingway collections an alphabetical listing of collections related to ernest hemingway, including the ernest hemingway personal papers. Browse subject headings an alphabetical listing of subject headings associated with our collections and holdings. Heading definitions and links to related materials are also included. Browse digital collections access collections ( both manuscript and audiovisual ) that contain digitized materials. Browse museum artifacts a selection of museum artifacts ( chronological by date of creation ), with images and associated descriptions. In addition, the library provides online research and reference services. For more information about how to search our holdings, visit our search help page. To learn more about our large scale digitization initiative, visit access to a legacy."
+            "Among the documents likely to draw intense interest is a draft, in jfk's handwriting, of his inaugural address ( \"ask not what your country can do for you... \" ). There are also notes, tapes, and maps made during the 1962 cuban missile crisis, and oval office phone conversations between kennedy and other important historical figures, from foreign heads of state and former us presidents to key political allies and aides. Users will be able to print and copy material directly off the website, so they could download a personal note to jfk and make a copy for themselves. The 50th anniversary celebration includes a number of roll-outs and events. On friday, comcast will offer its customers \"jfk 50 years, \" a video on demand channel of archival footage of speeches, debates, commercials, and other pieces. And beginning saturday, visitors to the museum can step up to a podium set amid the january 20, 1961 inaugural scene and deliver some of kennedy's most stirring passages from his address. Bonus points if you can nail his accent perfectly."
         ],
         "raw_document": [
             "Among the documents likely to draw intense interest is a draft, in jfk's handwriting, of his inaugural address ( \"ask not what your country can do for you... \" ). There are also notes, tapes, and maps made during the 1962 cuban missile crisis, and oval office phone conversations between kennedy and other important historical figures, from foreign heads of state and former us presidents to key political allies and aides. Users will be able to print and copy material directly off the website, so they could download a personal note to jfk and make a copy for themselves. The 50th anniversary celebration includes a number of roll-outs and events. On friday, comcast will offer its customers \"jfk 50 years, \" a video on demand channel of archival footage of speeches, debates, commercials, and other pieces. And beginning saturday, visitors to the museum can step up to a podium set amid the january 20, 1961 inaugural scene and deliver some of kennedy's most stirring passages from his address. Bonus points if you can nail his accent perfectly.",
@@ -682,7 +674,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -740,12 +732,11 @@
     },
     {
         "idx": 34528,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "After completing his final performance with rem, a teary-eyed michael stipe quietly mouthed, \" hooray, we're done. \" working on their last album, the band had chosen berlin's legendary hansa tonstudio for the final recording session. Since there was to be no tour for the album, a camera crew was brought in for the last week to get some footage; family and friends were invited to hansa to watch rem perform most of the new album. At the time, just a few people knew it would be the group's last gig. The anecdote comes from rem: perfect circle by tony fletcher, out next month and excerpted yesterday in salon. Fletcher takes readers through the making of collapse into now, the band's fifteenth and final album. Rem first started discussing splitting up in 2008, during the band's last tour, but the members always knew they would make one last record. Much of the recording took place in new orleans. \" that whole record was a whole big goodbye, \" says stipe. \" all the best, \" in particular, \" is about the end of the band. \" click for the full excerpt.",
         "split": "train",
         "cleansed_document": [
-            "Tony fletcher's biography of the enigmatic quartet from athens, georgia, benefits not only from his long association with the band but also from the co-operation of the band itself. However, r.e.m. – being r.e.m. – were disinclined to reveal this at the time the book was first published in 1989 and tony was thus obliged to keep this under his hat. All such restrictions have since been lifted for newer editions, of which there have been several, and this latest incarnation of the book – now retitled perfect circle – brings the story to its natural conclusion with r.e.m.'s decision to disband in september, 2011. Discussing fame, fortune and sexuality with the same keen eye he casts on the group's astonishing musical catalogue, perfect circle is neither blind fan worship nor jaundiced critical cynicism, but a balanced and thorough telling of one of the most compelling rock stories of our time. Drawing on dozens of interviews with friends, associates and the band members themselves, this is not just the story of one group's rise through cult status, but the story of american alternative rock. { \" currencycode \": \" usd \", \" itemdata \": [ { \" pricebreaksmap \": null, \" buyingprice \": 21.1, \" asin \": \" 1780386982 \", \" ispreorder \": 0",
-            "\"hooray, we're done \": the inside story behind r.e.m.'s disbandment the never-before-told story behind the band's decision to walk away — and one emotional and private final concert r.e.m.'s stature in modern music was celebrated on march 11, 2009, with a tribute concert in new york. There had been similar such events over the years, of course, including the one in 2006 in athens where the trio had reunited with bill berry, but nothing on the level of this, at carnegie hall. With calexico taking the reins as house band, the benefit concert ( for children's music education charities ) featured a veritable who's who of r.e.m.'s 1980s independent peers ( the db's, feelies, throwing muses ), a healthy smattering of acclaimed newer acts ( kimya dawson, keren ann, guster ), a couple of their athens compatriots ( apples in stereo, vic chestnut ); it was closed out by their leading light, patti smith. Each act got to perform just the one song, and they ran the range of r.e.m.'s catalog, from 'sitting still ' ( bob mould ) to 'supernatural superserious ' ( marshall crenshaw ). After patti smith sang 'new test leper, ' peter buck, mike mills and michael stipe came out to join"
+            "Tony fletcher's biography of the enigmatic quartet from athens, georgia, benefits not only from his long association with the band but also from the co-operation of the band itself. However, r.e.m. – being r.e.m. – were disinclined to reveal this at the time the book was first published in 1989 and tony was thus obliged to keep this under his hat. All such restrictions have since been lifted for newer editions, of which there have been several, and this latest incarnation of the book – now retitled perfect circle – brings the story to its natural conclusion with r.e.m.'s decision to disband in september, 2011. Discussing fame, fortune and sexuality with the same keen eye he casts on the group's astonishing musical catalogue, perfect circle is neither blind fan worship nor jaundiced critical cynicism, but a balanced and thorough telling of one of the most compelling rock stories of our time. Drawing on dozens of interviews with friends, associates and the band members themselves, this is not just the story of one group's rise through cult status, but the story of american alternative rock. { \" currencycode \": \" usd \", \" itemdata \": [ { \" pricebreaksmap \": null, \" buyingprice \": 21.1, \" asin \": \" 1780386982 \", \" ispreorder \": 0"
         ],
         "raw_document": [
             "Tony fletcher's biography of the enigmatic quartet from athens, georgia, benefits not only from his long association with the band but also from the co-operation of the band itself. However, r.e.m. – being r.e.m. – were disinclined to reveal this at the time the book was first published in 1989 and tony was thus obliged to keep this under his hat. All such restrictions have since been lifted for newer editions, of which there have been several, and this latest incarnation of the book – now retitled perfect circle – brings the story to its natural conclusion with r.e.m.'s decision to disband in september, 2011. Discussing fame, fortune and sexuality with the same keen eye he casts on the group's astonishing musical catalogue, perfect circle is neither blind fan worship nor jaundiced critical cynicism, but a balanced and thorough telling of one of the most compelling rock stories of our time. Drawing on dozens of interviews with friends, associates and the band members themselves, this is not just the story of one group's rise through cult status, but the story of american alternative rock. { \" currencycode \": \" usd \", \" itemdata \": [ { \" pricebreaksmap \": null, \" buyingprice \": 21.1, \" asin \": \" 1780386982 \", \" ispreorder \": 0",
@@ -760,7 +751,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -793,7 +784,7 @@
             "1": 0,
             "2": 3,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1165,13 +1156,12 @@
     },
     {
         "idx": 34543,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A new study delivers a somewhat depressing message: positive thinking may not be all it's cracked up to be. \" i kept hearing about how optimistic mindset was so great, but then you think about all the times that striving for accuracy might be better for the individual, \" researcher elizabeth tenney says in a press release and podcast from the university of utah. She offers the example of a person standing at a crevasse: \" do you really want that person to be optimistic about their chances of making it over this crevasse, or do you want them to be accurate about their chances? \" to reach her conclusions, she conducted multiple experiments in which \" predictor \" subjects were charged with guessing how well \" task completer \" subjects would do on a given project. The predictors were convinced that the more optimistic task completers would do better than others, but the results didn't bear that out, bps research digest reports. In one case, task completers were asked to do some where's waldo? searches, tenney says in the podcast. Predictors figured optimistic task completers would do 33 % better at the work, bps notes. In fact, the optimistic participants did spend longer trying to find the character — but they only performed 5 % better than others, and that wasn't statistically significant. \" what we concluded from that was that optimism seems to help persistence, but not necessarily performance as much as people would expect, \" tenney says in the podcast, as humanresourcesonline.net notes. ( if optimism doesn't get you ahead, at least it may be good for your heart. )",
         "split": "train",
         "cleansed_document": [
             "Human resources magazine and the hr bulletin daily email newsletter: asia's only regional hr print and digital media brand. Register for your free subscription now » it is often assumed that optimism is likely to have a positive impact on performance – but have you ever wondered how much does it really help? according to a study by elizabeth tenney, assistant professor of management at the david eccles school of business, \"optimism seems to help persistence but not necessarily performance as much as people would expect, \" she said. In the study, tenney put a group of participants through two different tests – a math test and to hunt for waldo in \"where's waldo \". She found that in the math test, making participants optimistic by telling them that they would do great did not help much with their performance. In fact, optimistic participants did equally well as those who weren't optimistic. \"so it seems like optimism wasn't super helpful for performance on a math test, at least when we tried to give it to people as opposed to it occurring naturally, \" tenney concluded.",
-            "We've all been told to whistle while we work because a cheerful, hopeful worker is better at a job than one who isn't. But is that really true? elizabeth tenney, assistant professor of management at the university of utah david eccles school of business, explored the subject in the paper she co-authored, \"( too ) optimistic about optimism: the belief that optimism improves performance \" in the journal of personality and social psychology. \"i am interested in the question of when do people value optimism and think it is a really useful or good mindset for people to have, and when do they think that other mindsets might be better, \" tenney said. \"i kept hearing about how optimistic mindset was so great, but then you think about all the times that striving for accuracy might be better for the individual. \" in the end, her study found that optimism didn't help a person's performance as much as people thought it would. However, tenney speculates that there are two places where others would value optimism. The first would be in a situation where business executives",
-            "The seed for wide00014 was: - slash pages from every domain on the web: -- a ranking of all urls that have more than one incoming inter-domain link ( rank was determined by number of incoming links using wide00012 inter domain links ) -- up to a maximum of 100 most highly ranked urls per domain - top ranked pages ( up to a max of 100 ) from every linked-to domain using the wide00012 inter-domain navigational link graph"
+            "We've all been told to whistle while we work because a cheerful, hopeful worker is better at a job than one who isn't. But is that really true? elizabeth tenney, assistant professor of management at the university of utah david eccles school of business, explored the subject in the paper she co-authored, \"( too ) optimistic about optimism: the belief that optimism improves performance \" in the journal of personality and social psychology. \"i am interested in the question of when do people value optimism and think it is a really useful or good mindset for people to have, and when do they think that other mindsets might be better, \" tenney said. \"i kept hearing about how optimistic mindset was so great, but then you think about all the times that striving for accuracy might be better for the individual. \" in the end, her study found that optimism didn't help a person's performance as much as people thought it would. However, tenney speculates that there are two places where others would value optimism. The first would be in a situation where business executives"
         ],
         "raw_document": [
             "Human resources magazine and the hr bulletin daily email newsletter: asia's only regional hr print and digital media brand. Register for your free subscription now » it is often assumed that optimism is likely to have a positive impact on performance – but have you ever wondered how much does it really help? according to a study by elizabeth tenney, assistant professor of management at the david eccles school of business, \"optimism seems to help persistence but not necessarily performance as much as people would expect, \" she said. In the study, tenney put a group of participants through two different tests – a math test and to hunt for waldo in \"where's waldo \". She found that in the math test, making participants optimistic by telling them that they would do great did not help much with their performance. In fact, optimistic participants did equally well as those who weren't optimistic. \"so it seems like optimism wasn't super helpful for performance on a math test, at least when we tried to give it to people as opposed to it occurring naturally, \" tenney concluded.",
@@ -1188,17 +1178,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 34544,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When it comes to eating meat, spiders do their share — and then some. Zoologists at the university of basel in switzerland and lund university in sweden report in the journal the science of nature that, according to their calculations, spiders kill between 400 million and 800 million tons of prey every year. The planet's 7.5 billion humans, by comparison, consume 400 million tons of meat and fish a year, per the un's food and agriculture organization, while the prey kill of whales is 500 million tons at most, reports new scientist. Seabirds pick off a relatively paltry 70 million tons. Spiders may be small and light, but there are 45,000 different species of them that can reach population densities of 1,000 per square meter, per phys.org, and taken together, they weigh roughly 25 million tons. ( that's right, they far out-eat their own weight. Humans ' animal consumption is closer to that of our own weight, which per a 2012 study cited by live science is 316 million tons. ) and while spiders do eat some vertebrates, including small mammals, frogs, and birds, their primary role is as insect predator; 90 % of their prey are either insects or springtails, which are insect-like arthropods. Per the study, the researchers hope to \" raise public awareness and increase the level of appreciation for the important global role of spiders in terrestrial food webs. \" ( yes, this spider is carrying a mouse up a fridge. )",
         "split": "train",
         "cleansed_document": [
-            "Jumping spider phidippus mystaceus feeding on a nematoceran prey. Credit: david e. Hill, peckham society, simpsonville, south carolina it has long been suspected that spiders are one of the most important groups of predators of insects. Zoologists at the university of basel and lund university in sweden have now shown just how true this is - spiders kill astronomical numbers of insects on a global scale. The scientific journal the science of nature has published the results. With more than 45,000 species and a population density of up to 1,000 individuals per square meter, spiders are one of the world's most species-rich and widespread groups of predators. Due to their secretive lifestyle - many spiders are nocturnal or live well camouflaged in vegetation - it was previously difficult to demonstrate their ecological role, but zoologists at the university of basel and lund university ( sweden ) have now used calculations to conclude that spiders indeed have an enormous ecological impact as natural enemies of insects. Spiders kill vast numbers of insects the researchers used two calculation methods based on different models, which consistently showed that the global spider population ( with a weight of around 25 million tons ) wipes out an estimated 400-800 million tons of prey every year. More than 90 % of that prey is insects and springtails ( collembola ). Furthermore, large tropical spiders occasionally prey on small",
-            "Humanity could stand to lose a few pounds. If the entire human population stepped on a scale, the weight would be 316 million tons, or 632 billion pounds, a new study finds. The overweight people in the world carry a total of 16 million tons of extra weight — that's the equivalent of 242 million normal-weight people. Obese people carry 3.8 million tons of extra weight, the equivalent of 56 million normal-weight people. \" everyone accepts that population growth threatens global environmental sustainability — our study shows that population fatness is also a major threat, \" said study researcher ian roberts, of the london school of hygiene and tropical medicine. The energy requirement of any species depends not only on the number of individuals in its population, but also on its total mass: the more mass people in the world have, the higher their energy needs will be, the researchers said. Roberts and colleagues used 2005 estimates of the world's population in their analysis. They also obtained information about the average body mass index ( bmi ) of people in each country, and calculated the percentage of the population that is overweight and obese. The average body mass, globally, was 136 pounds ( 62 kilograms. ) in north america, which has the highest average body mass of any continent, the number was 178"
+            "Jumping spider phidippus mystaceus feeding on a nematoceran prey. Credit: david e. Hill, peckham society, simpsonville, south carolina it has long been suspected that spiders are one of the most important groups of predators of insects. Zoologists at the university of basel and lund university in sweden have now shown just how true this is - spiders kill astronomical numbers of insects on a global scale. The scientific journal the science of nature has published the results. With more than 45,000 species and a population density of up to 1,000 individuals per square meter, spiders are one of the world's most species-rich and widespread groups of predators. Due to their secretive lifestyle - many spiders are nocturnal or live well camouflaged in vegetation - it was previously difficult to demonstrate their ecological role, but zoologists at the university of basel and lund university ( sweden ) have now used calculations to conclude that spiders indeed have an enormous ecological impact as natural enemies of insects. Spiders kill vast numbers of insects the researchers used two calculation methods based on different models, which consistently showed that the global spider population ( with a weight of around 25 million tons ) wipes out an estimated 400-800 million tons of prey every year. More than 90 % of that prey is insects and springtails ( collembola ). Furthermore, large tropical spiders occasionally prey on small"
         ],
         "raw_document": [
             "Jumping spider phidippus mystaceus feeding on a nematoceran prey. Credit: david e. Hill, peckham society, simpsonville, south carolina it has long been suspected that spiders are one of the most important groups of predators of insects. Zoologists at the university of basel and lund university in sweden have now shown just how true this is - spiders kill astronomical numbers of insects on a global scale. The scientific journal the science of nature has published the results. With more than 45,000 species and a population density of up to 1,000 individuals per square meter, spiders are one of the world's most species-rich and widespread groups of predators. Due to their secretive lifestyle - many spiders are nocturnal or live well camouflaged in vegetation - it was previously difficult to demonstrate their ecological role, but zoologists at the university of basel and lund university ( sweden ) have now used calculations to conclude that spiders indeed have an enormous ecological impact as natural enemies of insects. Spiders kill vast numbers of insects the researchers used two calculation methods based on different models, which consistently showed that the global spider population ( with a weight of around 25 million tons ) wipes out an estimated 400-800 million tons of prey every year. More than 90 % of that prey is insects and springtails ( collembola ). Furthermore, large tropical spiders occasionally prey on small",
@@ -1213,7 +1202,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1271,7 +1260,7 @@
     },
     {
         "idx": 34547,
-        "document_num": 6,
+        "document_num": 5,
         "summary": "After noticing black spots in her iris, ashley mccrary was diagnosed with ocular melanoma. \" i was like, ' well, i know two people who've had this cancer, ' \" mccrary tells cbs news. To say that's unlikely is an understatement: between five and six out of every one million people are diagnosed with the rare eye cancer, yet two of mccrary's friends also had it; the three attended auburn university in alabama together. Another auburn alum was also diagnosed; the women started a facebook page to look for other alums dealing with the same cancer — and 36 people have gotten in touch so far, mccrary tells cbs. According to the page, most of those affected attended auburn between 1983 and 2001. Last month, wltz reported that at least 31 people who attended or worked at the university from 1980 to the early 1990s have been diagnosed with ocular melanoma. Earlier this month, healthline put the number diagnosed in the area at 33. Similarly, a number of people in the huntersville, north carolina, area have also been diagnosed with ocular melanoma, also known as uveal melanoma. Cbs puts the number at 18, while wfae reports that 23 people who lived, worked, or spent significant time in mecklenburg county since 2000 have been diagnosed with the disease. Many of the patients in both areas are young women, newsweek reports, despite the fact that the disease is typically more common in older people and men. Officials have so far been unable to determine what might be causing the apparent clusters of cases ( though the alabama department of health's official stance is that \" it would be premature to determine that a cancer cluster exists in the area \" ), but doctors in philadelphia are studying the patients, some of whom travel there for treatment in a clinical trial. Doctors at columbia university are also studying the tumors of diagnosed patients, and auburn university has put together a committee to investigate.",
         "split": "train",
         "cleansed_document": [
@@ -1279,8 +1268,7 @@
             "Researchers still don't know what is causing cases of a rare eye cancer in huntersville. This comes after a year-long study tracking where 23 patients in northern mecklenburg county lived, worked and went to school. Uveal melanoma patients aren't just students at hopewell high school or residents of huntersville. A geospatial study of the eyes of cancer patients in a northern part of mecklenburg county found that a group of patients lived close to the",
             "Ocular melanoma, an extremely rare form of eye cancer, is being disproportionately diagnosed among young women in two southern towns. Doctors do not know why these cases are confined to these cities, and efforts to raise funding to better study the mystery have so far been unsuccessful. In auburn, alabama, with about 60,000 residents, the only common trend between the 33 known cases of ocular melanoma is that every individual either lived or worked in",
             "Ocular melanoma, also known as uveal melanoma, is a very rare type of cancer. Each year, only 2,500 people — or about 5 in 1 million — receive a diagnosis with this type of eye cancer. That statistic is exactly why two small towns — huntersville, north carolina, and auburn, alabama — are such anomalies. Both towns are associated with a high number of ocular melanoma ( om ) cases. Researchers want to",
-            "Efforts underway to find research funding for auburn university ocular melanoma cases share this story: twitter facebook linkedin more 1/1 courtesy: auburn ocular melanoma fb page we shared the story of ashley mccrary. An auburn university graduate who was diagnosed with a rare eye cancer, ocular melanoma. Doctors from philadelphia and north carolina came to auburn in february to see if there's a connection. Since then, 31 people have come forward, who attended",
-            "Jasmine h. Francis, md, facs* alexander n. Shoushtari, md** christopher a. Barker, md*** david h. Abramson, md, facs* *ophthalmic oncology service **melanoma and immunotherapeutics service ***radiation oncology memorial sloan kettering cancer center new york, ny uveal melanoma, the most common primary intraocular malignancy in adults, represents approximately 5 percent of all melanomas recorded in the united states. The incidence of uveal melanoma has remained relatively constant, between five and six cases per"
+            "Efforts underway to find research funding for auburn university ocular melanoma cases share this story: twitter facebook linkedin more 1/1 courtesy: auburn ocular melanoma fb page we shared the story of ashley mccrary. An auburn university graduate who was diagnosed with a rare eye cancer, ocular melanoma. Doctors from philadelphia and north carolina came to auburn in february to see if there's a connection. Since then, 31 people have come forward, who attended"
         ],
         "raw_document": [
             "Researchers want to know what may be causing a rare eye cancer in two states. Ocular melanoma is an extremely rare form of cancer, usually found in just six of every one million people. But it has been identified in a group of 18 patients in huntersville, north carolina, and in a second group in auburn, alabama, some of whom were friends who'd attended auburn university together. Juleigh green was diagnosed first:",
@@ -1303,7 +1291,7 @@
             "2": 0,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 5
         }
     },
     {
@@ -1386,14 +1374,13 @@
     },
     {
         "idx": 34551,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A mother in washington state is searching for answers after her 4-year-old son died friday following a routine dental procedure, katu reports. Mykel peterson didn't like the dentist. Thmeka curry tells kgw her son was on the autism spectrum and had a hard time keeping his mouth open. That's why she says the dentist had an anesthesiologist put mykel under friday, giving him a dose of ketamine. After the procedure, mykel was breathing but wasn't waking up. Then he wasn't breathing. Dental staff started cpr and called 911, but mykel was pronounced dead after being rushed to the hospital, the columbian reports. The medical examiner has yet to determine a cause of death, and the washington state department of health is reviewing the incident to determine if it will investigate. \" i just need to know what happened so i can have that closure for my son, \" curry tells katu. \" i've never heard of a child losing their life at a dentist. \" in a statement released monday, the dentist office says it's \" heartbroken and devastated. \" it says it's used sedation and anesthesia \" more than 1,900 times without incident \" over the past 3.5 years. Mykel was remembered as \" happy, loving, energetic, and smart \" on a gofundme page set up for his family. At least three children died while under dental anesthesia last year in the us.",
         "split": "train",
         "cleansed_document": [
             "4-year-old mykel peterson of vancouver, wash., died after dental surgery. Photos provided by family or by kgw of must love kids dentistry office. March 2017 vancouver, wash. -- a 4-year-old vancouver boy died after what seemed like a routine dentist visit last week, and the washington department of health is investigating the death. Mykel peterson was put under with anesthesia to fill a cavity, but never woke up. The dental office where it happened, must love kids, was closed monday, march 13. An employee who came to the door, told kgw it was out of support for employees and the boy's family after what happened friday, march 10. The",
             "A washington mom says her 4-year-old son passed away following a routine dental procedure on friday. Days later, she still doesn't know what happened. \" that's what i ' m struggling with. Like, i've never heard of a child losing their life at a dentist. That's something that i've never heard of, \" thmeka curry said. Curry says her son, mykel peterson, was undergoing a routine dental procedure at must love kids pediatric dentistry in vancouver last friday when something went wrong. Curry says her son was a bit squirmy during the last dental visit, so the dentist opted to sedate him this",
-            "A a a 4-year-old vancouver boy died friday after complications from a dental procedure. Mykel wayne peterson went to a routine dental visit at must love kids pediatric dentistry, 601 s.e. 117th ave., and his dentist suggested a repair to previous treatment. But there were complications with the procedure, according to an online donation page set up for mykel's family. The boy was put to sleep by an anesthesiologist and later brought out to the waiting room, mykel's mother told katu news, a news partner of the columbian. Mykel was breathing at the time, but his mother was worried that he'd been unconscious for too long. When",
-            "On behalf of thmeka curry portland, or trayia gottaloveme mykel wayne peterson was born on april 29th, 2012 in portland, oregon to parents michael peterson and thmeka curry. Mykel was a happy loving energetic and smart youth boy who was 4 years old soon to be 5. He had a fervent and sincere love for his family. He will be forever loved for the way that he selflessly loved them and for the memories he left. He loved holidays and family get togethers; just expect him to always be on his playstation. He was loved by all and will be truly missed. On march 10th, 2017, mykel went to a routine dental visit;"
+            "A a a 4-year-old vancouver boy died friday after complications from a dental procedure. Mykel wayne peterson went to a routine dental visit at must love kids pediatric dentistry, 601 s.e. 117th ave., and his dentist suggested a repair to previous treatment. But there were complications with the procedure, according to an online donation page set up for mykel's family. The boy was put to sleep by an anesthesiologist and later brought out to the waiting room, mykel's mother told katu news, a news partner of the columbian. Mykel was breathing at the time, but his mother was worried that he'd been unconscious for too long. When"
         ],
         "raw_document": [
             "4-year-old mykel peterson of vancouver, wash., died after dental surgery. Photos provided by family or by kgw of must love kids dentistry office. March 2017 vancouver, wash. -- a 4-year-old vancouver boy died after what seemed like a routine dentist visit last week, and the washington department of health is investigating the death. Mykel peterson was put under with anesthesia to fill a cavity, but never woke up. The dental office where it happened, must love kids, was closed monday, march 13. An employee who came to the door, told kgw it was out of support for employees and the boy's family after what happened friday, march 10. The",
@@ -1412,7 +1399,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -1442,12 +1429,11 @@
     },
     {
         "idx": 34553,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Ukraine protesters had been told they had to abandon their kiev camps by tomorrow — but cops began taking them apart today, the bbc reports. Wearing full riot gear, police surrounded some camps in front of government buildings, the ap notes. They began driving away protesters at a pair of sites, saying that the camps were barring access to the buildings. Officials aren't, however, moving police into camps at independence square, and there have been no reported clashes between the sides. Police also stormed the headquarters of the opposition fatherland party, says a party spokesman, though a police rep denies the charge. Its website and that of the opposition freedom party are down.",
         "split": "train",
         "cleansed_document": [
-            "Media playback is unsupported on your device media caption steve rosenberg reports from the protest camps ukrainian police have begun moving against protesters in central kiev, with some protest camps in front of government buildings dismantled. An opposition party said security forces had raided its headquarters. Officials gave protesters until tuesday to leave. No clashes were reported. Opposition leaders urged supporters to defend independence square, the main protest site. The stand-off follows weeks of unrest after a u-turn on a free-trade deal with the eu. The bbc's steve rosenberg in kiev says there are far more police in the city centre than on sunday, when hundreds of thousands of people came out onto the streets. Us vice president joe biden spoke over the phone to ukrainian president viktor yanukovych earlier, expressing \" deep concern \" about the situation in kiev and urged dialogue with the opposition. \" [ mr biden ] noted that violence has no place in a democratic society and is incompatible with our strategic relationship, \" the white house said in a statement. Warning to protesters police were seen forcing protesters out of two streets where, according to the interior ministry, they were blocking access to administrative buildings. Some barricades and tents were also removed at at least two sites. Prosecutor-general viktor pshonka warned protesters to stop causing \" anarchy and lawlessness \" by blocking the buildings",
-            "A pro-european union activist tries to give food to riot police officers preparing to block the independence square in kiev, ukraine, monday, dec. 9, 2013. The policemen, wearing helmets and holding shields,... ( associated press ) pro-european union activists get ready to defend their tent camp on the independence square in kiev, ukraine, monday, dec. 9, 2013. The policemen, wearing helmets and holding shields, formed a chain across... ( associated press ) pro europe opposition activists armed with improvised weapons prepare for a police assault inside city hall in kiev, ukraine, monday, dec. 9, 2013. Hundreds of police in full riot gear on monday flooded... ( associated press ) a volunteer distributes hot tea for pro-european union activists gathered on the independence square in kiev, ukraine, monday, dec. 9, 2013. The protesters rose up against president viktor yanukovych... ( associated press ) ukrainian riot police block the road next to pro-european union activists gathered on the independence square in kiev, ukraine, monday, dec. 9, 2013. The policemen, wearing helmets and holding shields,... ( associated press ) pro-european union activists cook meals next to their tent camp on the independence square in kiev, ukraine, monday, dec. 9, 2013. The protesters rose up against president viktor yanukovych after he spiked... ( associated press ) a eu"
+            "Media playback is unsupported on your device media caption steve rosenberg reports from the protest camps ukrainian police have begun moving against protesters in central kiev, with some protest camps in front of government buildings dismantled. An opposition party said security forces had raided its headquarters. Officials gave protesters until tuesday to leave. No clashes were reported. Opposition leaders urged supporters to defend independence square, the main protest site. The stand-off follows weeks of unrest after a u-turn on a free-trade deal with the eu. The bbc's steve rosenberg in kiev says there are far more police in the city centre than on sunday, when hundreds of thousands of people came out onto the streets. Us vice president joe biden spoke over the phone to ukrainian president viktor yanukovych earlier, expressing \" deep concern \" about the situation in kiev and urged dialogue with the opposition. \" [ mr biden ] noted that violence has no place in a democratic society and is incompatible with our strategic relationship, \" the white house said in a statement. Warning to protesters police were seen forcing protesters out of two streets where, according to the interior ministry, they were blocking access to administrative buildings. Some barricades and tents were also removed at at least two sites. Prosecutor-general viktor pshonka warned protesters to stop causing \" anarchy and lawlessness \" by blocking the buildings"
         ],
         "raw_document": [
             "Media playback is unsupported on your device media caption steve rosenberg reports from the protest camps ukrainian police have begun moving against protesters in central kiev, with some protest camps in front of government buildings dismantled. An opposition party said security forces had raided its headquarters. Officials gave protesters until tuesday to leave. No clashes were reported. Opposition leaders urged supporters to defend independence square, the main protest site. The stand-off follows weeks of unrest after a u-turn on a free-trade deal with the eu. The bbc's steve rosenberg in kiev says there are far more police in the city centre than on sunday, when hundreds of thousands of people came out onto the streets. Us vice president joe biden spoke over the phone to ukrainian president viktor yanukovych earlier, expressing \" deep concern \" about the situation in kiev and urged dialogue with the opposition. \" [ mr biden ] noted that violence has no place in a democratic society and is incompatible with our strategic relationship, \" the white house said in a statement. Warning to protesters police were seen forcing protesters out of two streets where, according to the interior ministry, they were blocking access to administrative buildings. Some barricades and tents were also removed at at least two sites. Prosecutor-general viktor pshonka warned protesters to stop causing \" anarchy and lawlessness \" by blocking the buildings",
@@ -1462,7 +1448,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1571,7 +1557,7 @@
             "0": 3,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1625,7 +1611,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1692,12 +1678,11 @@
     },
     {
         "idx": 34562,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Eleven people were shot outside the empire state building this morning and two, including the gunman, are reportedly dead. The male gunman may have been a disgruntled employee who may have been fired from his job in or near the empire state building, msnbc reports; the new york post says the shooting started as \" a dispute between coworkers \" and reports that the two were fighting on the sidewalk before one started shooting. He reportedly followed and killed his coworker before returning to the empire state building to shoot random bystanders. The fire department got a call about the shooting at the corner of 34th street and fifth avenue around 9am, the ap reports. The gunman was shot and killed by an nypd officer. ( note: see an updated story with the shooter's identity here. )",
         "split": "train",
         "cleansed_document": [
-            "New york city officials say several people have been shot outside the empire state building and that the gunman is dead. City police say three or four civilians have been wounded in the friday morning shooting and that the shooter is dead. A fire department spokesman says it received a call about the shooting just after at 9 a.m. Friday and that emergency units were on the scene within minutes. The spokesman had no information about how many people were wounded or their conditions. The shooting occurred at 34th street and fifth avenue.",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "New york city officials say several people have been shot outside the empire state building and that the gunman is dead. City police say three or four civilians have been wounded in the friday morning shooting and that the shooter is dead. A fire department spokesman says it received a call about the shooting just after at 9 a.m. Friday and that emergency units were on the scene within minutes. The spokesman had no information about how many people were wounded or their conditions. The shooting occurred at 34th street and fifth avenue."
         ],
         "raw_document": [
             "New york city officials say several people have been shot outside the empire state building and that the gunman is dead. City police say three or four civilians have been wounded in the friday morning shooting and that the shooter is dead. A fire department spokesman says it received a call about the shooting just after at 9 a.m. Friday and that emergency units were on the scene within minutes. The spokesman had no information about how many people were wounded or their conditions. The shooting occurred at 34th street and fifth avenue.",
@@ -1712,7 +1697,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1852,7 +1837,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1882,12 +1867,11 @@
     },
     {
         "idx": 34569,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "More than 400 years after pocahontas is said to have saved british settler john smith from being killed by her father, chief powhatan, her tribe is being officially recognized by the us government. The pamunkey tribe, which has lived on or near some 1,200 acres in rural virginia for several hundred years, has dwindled to 208 members, only a quarter of whom still live on the reservation thanks to job scarcity, reports the los angeles times. \" we were a tribe here before the us government existed, \" says one tribal council member. The designation makes the pamunkey tribe the 567th to be recognized federally in the country but the very first in the state of virginia, reports nonprofit quarterly. Over the past 10 years, the department of interior has approved 18 tribal applications and rejected 35, and it took 35 years for the pamunkey tribe to gain its own, a long road that was not without its bumps. The congressional black caucus, for one, opposed the designation as recently as january because of the tribe's murky history banning interracial marriage, though tribe members claim this was deeply entwined with virginia's own 1924 racial integrity act and is no longer upheld. Also in opposition: those who stand to lose money if the tribe opens a casino or retail stores — mgm grand and the association of american convenience stores among them. ( archaeologists are working to resurrect the site where pocahontas and john rolfe married. )",
         "split": "train",
         "cleansed_document": [
-            "July 7, 2015; indian country today until this month, there was no federally recognized indian tribe in the state of virginia, an oddity since virginia's native americans have long been visible in american history going back to pocahontas who supposedly saved british settler john smith from execution by her father, chief powhatan, and married another, john rolfe, accompanying him back to england in 1616. As of this month, pocahontas's people, the pamunkey tribe, received federal government recognition, becoming the 567th federally designated indian tribe in the nation and the first in virginia. What makes the pamunkey designation an item for commentary in the npq newswire? consider the pamunkey tribe during its long history as a constituent part of american civil society. Over that time, it provided community and political identity to the members of the tribe and operated pursuant to documents outlining governance procedures and membership criteria. The designation and federal status will open up access to various federal government housing and social services and, according to pamunkey tribe member ashley atkins spivey, even funding to improve the tribe's pamunkey museum and cultural center. The 35-year journey for the pamunkey tribe through the federal bureaucracy was by no means automatic. During the past decade, the department of interior has approved 18 tribes but rejected 35 others. As the doi issued its approval of the pamunkey tribe's petition, it rejected the application of the duwamish tribal organization in washington state, even though that is the tribe of the legendary chief seattle, from whom that city gets its name. The approval process wasn't simply between the pamunkey tribe and the interior department, either. Other entities weighed in with their opinions, sometimes in opposition to the designation. For example, the pamunkey application was opposed by mgm grand, which is building a casino at national harbor across the potomac river in maryland and feared the possibility that the tribe, once federally designated, would develop its own casino. In addition, the designation was opposed by members of the black congressional caucus as recently as this past january because the tribe had in the past banned interracial marriages, though that ban no longer exists. ( the ban, related to a unfathomably racist virginia state law, the 1924 racial integrity act, was formally repealed in 2012, but had really not been",
-            "Joyce krigsvold is like many whose lives and families have straddled both worlds. She grew up here in the 1940s and 1950s. She now works in the museum, and can point behind the glass to the early 20th century headdress worn by her grandfather, a chief, and the long leather dress worn by her grandmother during ceremonies."
+            "July 7, 2015; indian country today until this month, there was no federally recognized indian tribe in the state of virginia, an oddity since virginia's native americans have long been visible in american history going back to pocahontas who supposedly saved british settler john smith from execution by her father, chief powhatan, and married another, john rolfe, accompanying him back to england in 1616. As of this month, pocahontas's people, the pamunkey tribe, received federal government recognition, becoming the 567th federally designated indian tribe in the nation and the first in virginia. What makes the pamunkey designation an item for commentary in the npq newswire? consider the pamunkey tribe during its long history as a constituent part of american civil society. Over that time, it provided community and political identity to the members of the tribe and operated pursuant to documents outlining governance procedures and membership criteria. The designation and federal status will open up access to various federal government housing and social services and, according to pamunkey tribe member ashley atkins spivey, even funding to improve the tribe's pamunkey museum and cultural center. The 35-year journey for the pamunkey tribe through the federal bureaucracy was by no means automatic. During the past decade, the department of interior has approved 18 tribes but rejected 35 others. As the doi issued its approval of the pamunkey tribe's petition, it rejected the application of the duwamish tribal organization in washington state, even though that is the tribe of the legendary chief seattle, from whom that city gets its name. The approval process wasn't simply between the pamunkey tribe and the interior department, either. Other entities weighed in with their opinions, sometimes in opposition to the designation. For example, the pamunkey application was opposed by mgm grand, which is building a casino at national harbor across the potomac river in maryland and feared the possibility that the tribe, once federally designated, would develop its own casino. In addition, the designation was opposed by members of the black congressional caucus as recently as this past january because the tribe had in the past banned interracial marriages, though that ban no longer exists. ( the ban, related to a unfathomably racist virginia state law, the 1924 racial integrity act, was formally repealed in 2012, but had really not been"
         ],
         "raw_document": [
             "July 7, 2015; indian country today until this month, there was no federally recognized indian tribe in the state of virginia, an oddity since virginia's native americans have long been visible in american history going back to pocahontas who supposedly saved british settler john smith from execution by her father, chief powhatan, and married another, john rolfe, accompanying him back to england in 1616. As of this month, pocahontas's people, the pamunkey tribe, received federal government recognition, becoming the 567th federally designated indian tribe in the nation and the first in virginia. What makes the pamunkey designation an item for commentary in the npq newswire? consider the pamunkey tribe during its long history as a constituent part of american civil society. Over that time, it provided community and political identity to the members of the tribe and operated pursuant to documents outlining governance procedures and membership criteria. The designation and federal status will open up access to various federal government housing and social services and, according to pamunkey tribe member ashley atkins spivey, even funding to improve the tribe's pamunkey museum and cultural center. The 35-year journey for the pamunkey tribe through the federal bureaucracy was by no means automatic. During the past decade, the department of interior has approved 18 tribes but rejected 35 others. As the doi issued its approval of the pamunkey tribe's petition, it rejected the application of the duwamish tribal organization in washington state, even though that is the tribe of the legendary chief seattle, from whom that city gets its name. The approval process wasn't simply between the pamunkey tribe and the interior department, either. Other entities weighed in with their opinions, sometimes in opposition to the designation. For example, the pamunkey application was opposed by mgm grand, which is building a casino at national harbor across the potomac river in maryland and feared the possibility that the tribe, once federally designated, would develop its own casino. In addition, the designation was opposed by members of the black congressional caucus as recently as this past january because the tribe had in the past banned interracial marriages, though that ban no longer exists. ( the ban, related to a unfathomably racist virginia state law, the 1924 racial integrity act, was formally repealed in 2012, but had really not been",
@@ -1902,7 +1886,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2015,7 +1999,7 @@
             "1": 2,
             "2": 5,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -2040,7 +2024,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2070,12 +2054,11 @@
     },
     {
         "idx": 34576,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Brett kavanaugh doubled down monday on his denial of a sexual misconduct allegation going back to his high school days. \" this is a completely false allegation, \" kavanaugh said in a statement cited by cnn. \" i have never done anything like what the accuser describes — to her or to anyone. \" the supreme court nominee also offered to talk to the senate judiciary panel \" in any way the committee deems appropriate to refute this false allegation, from 36 years ago, and defend my integrity. \" kavanaugh released the statement after his accuser, 51-year-old christine blasey ford, came forward to say that a teenage kavanaugh forced her onto a bed at a party, covered her mouth, and groped her before a classmate of his disrupted the alleged assault. What happens next is unclear. The senate panel's chairman, charles grassley, said he planned to talk to both kavanaugh and ford by phone before asking anyone to appear before the panel, but democrats want the fbi to take control and handle any investigation from here, reports the washington post. In the meantime, they want the confirmation process postponed. Meanwhile, the white house is sticking by kavanaugh, though trump adviser kellyanne conway said on fox monday morning that ford \" should be heard, \" adding that \" this woman should not be ignored and should not be insulted. \" conway also called kavanaugh \" a man of character and integrity. \"",
         "split": "train",
         "cleansed_document": [
-            "Senate judiciary committee chairman chuck grassley said if there is no agreement tonight on testimony by christine blasey ford, the committee would vote on the brett kavanaugh nomination on monday. The deadline has been extended to 10pm. The statement: \"despite the fact that the july 30th letter remains hidden, my committee has been investigating the allegations and has heard from multiple witnesses since sunday. Ms. Katz has discussed dr. Ford's allegations in numerous media interviews and said on tv monday morning that dr. Ford wants to share her account with the senate judiciary committee. It's friday night and nothing's been agreed to despite our extensive efforts to make testimony possible, \" grassley said. \"i ' m extending the deadline for response yet again to 10 o ' clock this evening. I ' m providing a notice of a vote to occur monday in the event that dr. Ford's attorneys don't respond or dr. Ford decides not to testify. In the event that we can come to a reasonable resolution as i've been seeking all week, then i will postpone the committee vote to accommodate her testimony. We cannot continue to delay. \"",
-            "Published on sep 17, 2018 supreme court nominee brett kavanaugh's sexual assault accuser christine ford should not be ignored or insulted, counselor to president trump kellyanne conway tells ' fox &amp; friends. ' fox news channel ( fnc ) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. The number one network in cable, fnc has been the most watched television news channel for more than 16 years and according to a suffolk university/usa today poll, is the most trusted television news source in the country. Owned by 21st century fox, fnc is available in more than 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. Subscribe to fox news! https://bit.ly/2vbuvas watch more fox news video: http://video.foxnews.com watch fox news channel live: http://www.foxnewsgo.com/ watch full episodes of your favorite shows the five: http://video.foxnews.com/playlist/lon... Special report with bret baier: http://video.foxnews.com/playlist/lon... The story with martha maccallum: http://video.foxnews.com/playlist/lon... Tucker carlson tonight http://video.foxnews.com/playlist/lon... Hannity http://video.foxnews.com/playlist/lon... The ingraham angle: http://video.foxnews.com/playlist/lon... Fox news @ night: http://video.foxnews.com/playlist/lon... Follow fox news on facebook: https://www.facebook.com/foxnews/ follow fox news on twitter: https://twitter.com/foxnews/ follow fox news on instagram: https://www.instagram.com/foxnews/"
+            "Senate judiciary committee chairman chuck grassley said if there is no agreement tonight on testimony by christine blasey ford, the committee would vote on the brett kavanaugh nomination on monday. The deadline has been extended to 10pm. The statement: \"despite the fact that the july 30th letter remains hidden, my committee has been investigating the allegations and has heard from multiple witnesses since sunday. Ms. Katz has discussed dr. Ford's allegations in numerous media interviews and said on tv monday morning that dr. Ford wants to share her account with the senate judiciary committee. It's friday night and nothing's been agreed to despite our extensive efforts to make testimony possible, \" grassley said. \"i ' m extending the deadline for response yet again to 10 o ' clock this evening. I ' m providing a notice of a vote to occur monday in the event that dr. Ford's attorneys don't respond or dr. Ford decides not to testify. In the event that we can come to a reasonable resolution as i've been seeking all week, then i will postpone the committee vote to accommodate her testimony. We cannot continue to delay. \""
         ],
         "raw_document": [
             "Senate judiciary committee chairman chuck grassley said if there is no agreement tonight on testimony by christine blasey ford, the committee would vote on the brett kavanaugh nomination on monday. The deadline has been extended to 10pm. The statement: \"despite the fact that the july 30th letter remains hidden, my committee has been investigating the allegations and has heard from multiple witnesses since sunday. Ms. Katz has discussed dr. Ford's allegations in numerous media interviews and said on tv monday morning that dr. Ford wants to share her account with the senate judiciary committee. It's friday night and nothing's been agreed to despite our extensive efforts to make testimony possible, \" grassley said. \"i ' m extending the deadline for response yet again to 10 o ' clock this evening. I ' m providing a notice of a vote to occur monday in the event that dr. Ford's attorneys don't respond or dr. Ford decides not to testify. In the event that we can come to a reasonable resolution as i've been seeking all week, then i will postpone the committee vote to accommodate her testimony. We cannot continue to delay. \"",
@@ -2090,7 +2073,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2115,7 +2098,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2140,7 +2123,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2193,7 +2176,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2271,7 +2254,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2324,7 +2307,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2349,17 +2332,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 34587,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It may not have the cache of century-old time capsules in boston or new york, but the hunt is on for one buried somewhere beneath the vacant astrodome in houston. As the houston chronicle explains, workers buried it when they broke ground on what came to be known as the eighth wonder of the world on march 27, 1963. Nobody remembers where, however, which is why the bomb squad from the harris county sheriff's department was at the stadium thursday, poring over its concrete with ground-penetrating radar. \" it's definitely a good mystery, \" the historian for the houston astros tells the newspaper. It \" has a raiders of the lost ark type of feel to it. \" with the future of the dilapidated landmark in question, a local judge pitched the idea of getting the bomb squad involved last month before it's too late. As for what's in store for the dome, backers are floating alternatives to demolition such as an indoor park. In the meantime, people can buy its old seats for $ 200 a pair at an online sale next week, notes the houston business journal. ( click to read about the mystery \" red book \" found in boston. )",
         "split": "train",
         "cleansed_document": [
-            "Search is on for the dome's mysterious time capsule crew hunts for cryptic time capsule said to be buried somewhere in dome's foundation amid stacks of bright orange stadium seats on the floor of the vacant astrodome thursday morning, a cadre of harris county sheriff's deputies using high-tech ground penetrating radar began the search for a lost and nearly forgotten relic. No outsiders were allowed behind the chained and padlocked gates. A reporter and photographer were escorted off the premises. Nothing to see here. Move along. For hours they scoured the floor of the former \" eighth wonder of the world, \" hands on their hips, watching intently for a sign of what was buried in the thick slab of concrete. They weren't searching for clues to some heinous crime - they were looking for a metal canister containing souvenirs from the past. The astrodome at 50:",
-            "If you missed your chance to buy astrodome seats last year, you're in luck. Another online seat sale will be held april 20 via the nrg park website. The sale begins at 10 a.m. While supplies last, though the website does not indicate how many will be sold. The cost is $ 200 per pair of seats, and buyers are limited to two pairs per person. The seats are available in silver, red, orange or bleacher-style. Seats must be picked up at nrg arena between june 11 and 13, and buyers are responsible for loading the 50-pound pairs of seats into vehicles. Start your day with houston business journal news in your inbox. Sign up for morning edition here. The last time astrodome seats were sold online, they sold out within hours. Demand for a piece of the dome — or a chance to look inside it —"
+            "Search is on for the dome's mysterious time capsule crew hunts for cryptic time capsule said to be buried somewhere in dome's foundation amid stacks of bright orange stadium seats on the floor of the vacant astrodome thursday morning, a cadre of harris county sheriff's deputies using high-tech ground penetrating radar began the search for a lost and nearly forgotten relic. No outsiders were allowed behind the chained and padlocked gates. A reporter and photographer were escorted off the premises. Nothing to see here. Move along. For hours they scoured the floor of the former \" eighth wonder of the world, \" hands on their hips, watching intently for a sign of what was buried in the thick slab of concrete. They weren't searching for clues to some heinous crime - they were looking for a metal canister containing souvenirs from the past. The astrodome at 50:"
         ],
         "raw_document": [
             "Important information please read all information before clicking below to continue with the purchase process. Sale will begin at 10: 00 a.m. On monday, april 20, while supply lasts or until may 25, 2015. Purchases only available online, purchases will not be accepted at nrg park. There is a 2 pair limit per person. June 11-13, 2015 from 7 a.m. - 7 p.m. Will be the days to pick seats up at nrg arena. Bring your ticketmaster ticket( s ) to nrg arena on june 11-13. Dimensions of seats: 44 \" x 32 \" x 17 \" and weigh approximately 50 pounds per pair. Purchaser is responsible for loading the seats into vehicles. Please enter through gate 8 off of kirby. Click here to proceed to the \"disclaimer and terms and conditions \"; once you have agreed to this document you will be directed to ticketmaster to complete your purchase.",
@@ -2376,7 +2358,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2458,13 +2440,12 @@
     },
     {
         "idx": 34591,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A team of climbers trekked some 17,000 feet up mexico's pico de orizaba in search of one set of frozen, mummified remains only to stumble upon a second set some 400 feet away, reports the telegraph. \" it was impossible to conduct the rescue this time, \" says a local official; rescuers were to try again to pull the bodies off the dormant volcano, which the yucatan times notes is the third-tallest peak in north america at 18,491 feet above sea level. Officials aren't exactly sure who the corpses might be, notes upi, but they're speculating that they may belong to two of three people killed in an avalanche more than 50 years ago, and that a third corpse may be nearby. Officials hope to identify the bodies through still-intact clothing on them and dna. ( a mummified monk was recently found inside a buddha statue. )",
         "split": "train",
         "cleansed_document": [
             "Pico de orizaba, mexico, march 7 ( upi ) -- two frozen, mummified bodies were recently discovered by climbers on mexico's pico de orizaba. The climbers were on their way to the top of pico de orizaba, the country's tallest mountain, when they saw a head and hand sticking out of the snow. They then noticed another corpse a few hundred feet away. Experts are speculating the bodies may belong to people who were lost in an avalanche on the mountain over 50 years ago. An attempt was made to recover the bodies on friday. Two families have come forward to claim the bodies, assuming they belong to the people they are thought to belong to. Forensic experts plan to identify the bodies using pieces of clothing that remain intact. Related upi stories",
-            "Two mummified bodies found of climbers who disappeared on mexico's highest peak 55 years ago a team of mexican climbers searching for a frozen body on the country's highest mountain stumbled onto a second mummified cadaver during their expedition on thursday. The 12 local civil protection mountaineers had embarked on their mission after climbers reported seeing a frozen skull 1,000ft from the peak of the 18,000ft pico de orizaba on monday. The second body was found 400ft away, and it was also frozen and mummified, said juan navarro, mayor of the town of chalchicomula de sesma, near the mountain in central puebla state. \" it was impossible to conduct the rescue this time. Fog prevented the work, \" navarro told afp, adding that only two of the climbers were able to reach the location of the bodies. After the first body was spotted, mexican authorities received phone calls from people in spain and germany who believe it could be",
-            "Share this the remains of a mummified mountaineer were found at the pico de orizaba volcano in the state of puebla, in central mexico. The pico de orizaba, is a stratovolcano, the highest mountain in mexico and the third highest in north america, after mount mckinley of the united states, and mount logan of canada. It rises 5,636 metres ( 18,491 ft ) above sea level in the eastern end of the trans-mexican volcanic belt, on the border between the states of veracruz and puebla. The volcano is currently dormant but not extinct with the last eruption taking place during the 19th century. It is the second most prominent volcanic peak in the world after africa's mount kilimanjaro. The human remains may be older than 50 years, according to government sources and were found at 4,300 meters ( 2.6 miles ) above sea level. Juan navarro, mayor of chalchicomula, said that the remains will be retrieved from the"
+            "Two mummified bodies found of climbers who disappeared on mexico's highest peak 55 years ago a team of mexican climbers searching for a frozen body on the country's highest mountain stumbled onto a second mummified cadaver during their expedition on thursday. The 12 local civil protection mountaineers had embarked on their mission after climbers reported seeing a frozen skull 1,000ft from the peak of the 18,000ft pico de orizaba on monday. The second body was found 400ft away, and it was also frozen and mummified, said juan navarro, mayor of the town of chalchicomula de sesma, near the mountain in central puebla state. \" it was impossible to conduct the rescue this time. Fog prevented the work, \" navarro told afp, adding that only two of the climbers were able to reach the location of the bodies. After the first body was spotted, mexican authorities received phone calls from people in spain and germany who believe it could be"
         ],
         "raw_document": [
             "Pico de orizaba, mexico, march 7 ( upi ) -- two frozen, mummified bodies were recently discovered by climbers on mexico's pico de orizaba. The climbers were on their way to the top of pico de orizaba, the country's tallest mountain, when they saw a head and hand sticking out of the snow. They then noticed another corpse a few hundred feet away. Experts are speculating the bodies may belong to people who were lost in an avalanche on the mountain over 50 years ago. An attempt was made to recover the bodies on friday. Two families have come forward to claim the bodies, assuming they belong to the people they are thought to belong to. Forensic experts plan to identify the bodies using pieces of clothing that remain intact. Related upi stories",
@@ -2481,7 +2462,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2556,7 +2537,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2664,12 +2645,11 @@
     },
     {
         "idx": 34599,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Clyde stubblefield, a james brown drummer who created one of the most widely sampled drum breaks ever, has died. He was 73. Stubblefield's wife, jody hannon, tells the ap he died of kidney failure at a madison, wisconsin, hospital saturday. She says he had been suffering from kidney disease for 10 years, and had been hospitalized for a few days. Stubblefield performed on several of brown's classics, but was best known for a short break on brown's 1970 single, \" funky drummer. \" rolling stone says it was sampled on more than 1,000 songs and served as the backbeat for countless hip-hop tracks, including public enemy's \" fight the power. \" hennon says the tennessee-born stubblefield never saw many royalties and never expected them.",
         "split": "train",
         "cleansed_document": [
-            "Madison, wis. ( ap ) — clyde stubblefield, a james brown drummer who created one of the most widely sampled drum breaks ever, has died. He was 73. His wife, jody hannon, says stubblefield died of kidney failure at a madison, wisconsin, hospital saturday. She says he had been suffering from kidney disease for 10 years, and had been hospitalized for a few days. Stubblefield performed on several of brown's classics, but was best known for a short break on brown's 1970 single, \" funky drummer. \" rolling stone says it was sampled on over 1,000 songs and served as the backbeat for countless hip-hop tracks, including public enemy's \" fight the power. \" hennon says stubblefield never saw many royalties and never expected them. Stubblefield was born in chattanooga, tennessee, but had lived in madison for 25 years.",
-            "Uploaded on classic joint from the late great james brown category music license standard youtube license buy \" funky drummer ( part 1 &amp; 2 ) \" on artist james brown show more show less loading... Loading... Loading... Loading... Ratings have been disabled for this video. Rating is available when the video has been rented."
+            "Madison, wis. ( ap ) — clyde stubblefield, a james brown drummer who created one of the most widely sampled drum breaks ever, has died. He was 73. His wife, jody hannon, says stubblefield died of kidney failure at a madison, wisconsin, hospital saturday. She says he had been suffering from kidney disease for 10 years, and had been hospitalized for a few days. Stubblefield performed on several of brown's classics, but was best known for a short break on brown's 1970 single, \" funky drummer. \" rolling stone says it was sampled on over 1,000 songs and served as the backbeat for countless hip-hop tracks, including public enemy's \" fight the power. \" hennon says stubblefield never saw many royalties and never expected them. Stubblefield was born in chattanooga, tennessee, but had lived in madison for 25 years."
         ],
         "raw_document": [
             "Madison, wis. ( ap ) — clyde stubblefield, a james brown drummer who created one of the most widely sampled drum breaks ever, has died. He was 73. His wife, jody hannon, says stubblefield died of kidney failure at a madison, wisconsin, hospital saturday. She says he had been suffering from kidney disease for 10 years, and had been hospitalized for a few days. Stubblefield performed on several of brown's classics, but was best known for a short break on brown's 1970 single, \" funky drummer. \" rolling stone says it was sampled on over 1,000 songs and served as the backbeat for countless hip-hop tracks, including public enemy's \" fight the power. \" hennon says stubblefield never saw many royalties and never expected them. Stubblefield was born in chattanooga, tennessee, but had lived in madison for 25 years.",
@@ -2688,7 +2668,7 @@
             "0": 0,
             "1": 5,
             "2": 4,
-            "3": 0
+            "3": 3
         }
     }
 ]

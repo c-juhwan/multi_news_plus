@@ -164,7 +164,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -224,13 +224,12 @@
     },
     {
         "idx": 5608,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The five ohio teens accused of dousing an autistic classmate with urine, spit, and tobacco in a disgusting version of the als ice bucket challenge have been charged. The bay village high school students, all between the ages of 14 and 16, were hit yesterday with the juvenile equivalent of disorderly conduct charges; three of them were also charged with misdemeanor assault, the cleveland plain dealer reports. Penalties could range from probation, home detention, or community service to serving time in a juvenile detention facility. The alleged perpetrators, who were not named by the plain dealer, are \" friends [ who ] regularly associate with one another and, at times, engage in distasteful and sophomoric pranks, \" a prosecutor says in a press release. \" however, this incident is clearly different. It crossed a moral and legal line, and even the five alleged perpetrators understand that and have expressed regret. \" the release says that the five teens were also friends with the victim, and that they \" regularly socialized together \"; the victim reportedly approves of the charges. An attorney for one of the accused teens tells the paper his client hopes to remain friends with the victim.",
         "split": "train",
         "cleansed_document": [
             "Cleveland, ohio -- an attorney who represents a 16-year-old bay village student facing juvenile court charges related to a fake als ice bucket challenge hopes the case will result in a learning experience for all the teens involved. Prosecutors charged five teens in the case today with the juvenile equivalent of disorderly conduct. Three of the teens, aged 14-16, also will face assault charges. Click here to see an earlier story on the charges. Parents of a 15-year-old teen diagnosed with autism reported to police in september that their son had agreed to participate in the popular charity challenge only to be doused with mixture that authorities say included urine, tobacco, spit and water. The teen was humiliated and a video of the prank went viral. Attorneys representing the 15-year-old victim and his family said today they were satisfied with the charges. Prosecutors said all of the teens were friends who also were involved in other sophomoric pranks against each other. Attorney john lawson said he thought the decision by the cuyahoga county prosecutor's office was",
-            "Cleveland, ohio -- cuyahoga county prosecutors filed complaints today against five bay village students accused of dumping a mixture of urine, tobacco, spit and water on a 15-year-old autistic classmate as part of a fake als ice bucket challenge. The teens, aged 14 to 16, all face the juvenile equivalent of disorderly conduct charges. In addition, three of the teens also face misdemeanor assault charges. All the teens involved were -- and are -- friends who regularly hang out and, at times, engage in \" distasteful \" and \" sophomoric \" pranks, assistant county prosecutor duane deskins, who heads the office's juvenile division, said in a release. \" however, this incident is clearly different. It crossed a moral and legal line, and even the five alleged perpetrators understand that and have expressed regret, \" he said. See the full release on the case here. Prosecutors said the family of the special needs victim, who was humiliated after the aug. 18 incident, was consulted and agrees with",
-            "Crawl of outlinks from wikipedia.org started march, 2016. These files are currently not publicly accessible. Properties of this collection. It has been several years since the last time we did this. For this collection, several things were done: 1. Turned off duplicate detection. This collection will be complete, as there is a good chance we will share the data, and sharing data with pointers to random other collections, is a complex problem. 2. For the first time, did all the different wikis. The original runs were just against the enwiki. This one, the seed list was built from all 865 collections."
+            "Cleveland, ohio -- cuyahoga county prosecutors filed complaints today against five bay village students accused of dumping a mixture of urine, tobacco, spit and water on a 15-year-old autistic classmate as part of a fake als ice bucket challenge. The teens, aged 14 to 16, all face the juvenile equivalent of disorderly conduct charges. In addition, three of the teens also face misdemeanor assault charges. All the teens involved were -- and are -- friends who regularly hang out and, at times, engage in \" distasteful \" and \" sophomoric \" pranks, assistant county prosecutor duane deskins, who heads the office's juvenile division, said in a release. \" however, this incident is clearly different. It crossed a moral and legal line, and even the five alleged perpetrators understand that and have expressed regret, \" he said. See the full release on the case here. Prosecutors said the family of the special needs victim, who was humiliated after the aug. 18 incident, was consulted and agrees with"
         ],
         "raw_document": [
             "Cleveland, ohio -- an attorney who represents a 16-year-old bay village student facing juvenile court charges related to a fake als ice bucket challenge hopes the case will result in a learning experience for all the teens involved. Prosecutors charged five teens in the case today with the juvenile equivalent of disorderly conduct. Three of the teens, aged 14-16, also will face assault charges. Click here to see an earlier story on the charges. Parents of a 15-year-old teen diagnosed with autism reported to police in september that their son had agreed to participate in the popular charity challenge only to be doused with mixture that authorities say included urine, tobacco, spit and water. The teen was humiliated and a video of the prank went viral. Attorneys representing the 15-year-old victim and his family said today they were satisfied with the charges. Prosecutors said all of the teens were friends who also were involved in other sophomoric pranks against each other. Attorney john lawson said he thought the decision by the cuyahoga county prosecutor's office was",
@@ -247,7 +246,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -280,12 +279,11 @@
     },
     {
         "idx": 5610,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "As a girl, megan hine's family, led by her geologist father, spent holidays climbing, hiking, and exploring the forests of their homeland in the uk. Hine spent a year before college as a raft guide in new zealand, got her degree in outdoor education, and has been working as a stunt tester for survival shows since, reports the guardian in a profile of the woman it says helps keep bear grylls safe. \" if we can't do it how the production team [ wants ] it, we have to find a way around it, and i love that creativity: trying never to say no, always trying to make it safe, but make it epic, \" she says. She's learned more than a few tricks along the way — not just rock climbing, abseiling, and rafting but how to catch fish with her bare hands, start a fire with a tampon, and, yes, go a whopping three months without a shower. Hine, who keeps fans apprised of her many adventures through her website and instagram, has quite the résumé when it comes to survival. She has been chased by opium farm guards with ak-47s ( \" i remember making sure my team [ was ] ok, and then having to wander away from them and having an emotional moment to myself \" ), encircled by three lions at her campfire in the namibian desert ( \" it was almost like an out-of-body experience... Their muscles rippling \" ), and eaten fertilized eggs with bear grylls, which she says are far worse than maggots, which have the benefit of being \" quite cheesy. \" as for breaking gender expectations, hines says: \" there isn't a place for macho style in survival because that sort of behavior gets you and other people killed or injured. \" ( grylls ' kid saved a girl when he was just 7. )",
         "split": "train",
         "cleansed_document": [
-            "She has survived killer snakes, not washing for three months, gun-toting opium farmers and managed to keep dozens of clueless celebrities alive for outdoor endurance reality shows. Megan hine is an expedition guide, one of bear grylls'survival consultants and the woman you want to stick close to, come the resources wars: she can climb, abseil, knows which bugs to eat, and can start a fire with a tampon. And she's warm and funny, too, so you wouldn't mind if you were stuck on a desert island with her. As a bonus, she can catch fish with her bare hands. We speak on the phone. She has just come back from a day of scouting locations in a romanian forest for a tv show and is doing her best to avoid the bears. \"it's the time of year when they're giving birth and you've got to be really careful about the caves. \" you don't need to be a survival expert to know you stay away from ferocious mothers and their cubs. She has seen some in the distance, but not up close, she says, adding \"thankfully \". Facebook twitter pinterest 'make it safe, but make it epic ' … megan hine. Photograph: megan hine/instagram hine knows what it feels like to be something's prey. There was one night, sleeping out in the namibian desert with a contestant for a swiss tv show, when she woke with a shock. She shook her companion awake and they watched a huge male lion, soon joined by two females, circling them in the firelight. \"it was the weirdest feeling, \" she says. \"i was just watching these creatures and my",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "She has survived killer snakes, not washing for three months, gun-toting opium farmers and managed to keep dozens of clueless celebrities alive for outdoor endurance reality shows. Megan hine is an expedition guide, one of bear grylls'survival consultants and the woman you want to stick close to, come the resources wars: she can climb, abseil, knows which bugs to eat, and can start a fire with a tampon. And she's warm and funny, too, so you wouldn't mind if you were stuck on a desert island with her. As a bonus, she can catch fish with her bare hands. We speak on the phone. She has just come back from a day of scouting locations in a romanian forest for a tv show and is doing her best to avoid the bears. \"it's the time of year when they're giving birth and you've got to be really careful about the caves. \" you don't need to be a survival expert to know you stay away from ferocious mothers and their cubs. She has seen some in the distance, but not up close, she says, adding \"thankfully \". Facebook twitter pinterest 'make it safe, but make it epic ' … megan hine. Photograph: megan hine/instagram hine knows what it feels like to be something's prey. There was one night, sleeping out in the namibian desert with a contestant for a swiss tv show, when she woke with a shock. She shook her companion awake and they watched a huge male lion, soon joined by two females, circling them in the firelight. \"it was the weirdest feeling, \" she says. \"i was just watching these creatures and my"
         ],
         "raw_document": [
             "Our bodies are the culmination of our life's experiences. Our bodies are incredible. However you believe we came about, whether created by a god or by science &amp; natural selection the design is complex &amp; brilliant. The fact we are made up of tiny cells which...",
@@ -302,7 +300,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -385,7 +383,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -419,13 +417,12 @@
     },
     {
         "idx": 5615,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The kentucky county clerk who made headlines two years ago for refusing to issue marriage licenses to gay couples is up for re-election next year — and one of the men she denied a license to has announced plans to run against her. Reuters reports that david ermold of morehead will run as a democrat against rowan county clerk kim davis, who said she was simply sticking to her apostolic christian beliefs in 2015 when she turned down ermold's request for a license to marry his partner, david moore. \" it's official. I ' m in! \" ermold, a university of pikeville professor, wrote wednesday in a facebook post announcing his candidacy, adding afterward in a phone call to reuters that \" we need to restore the integrity of that office \" and that \" i wasn't treated fairly myself. \" davis spent five days behind bars in september 2015 for not issuing the license to ermold and moore, as well as other same-sex couples after the supreme court legalized gay marriage nationwide that summer. After kentucky lawmakers took county clerks ' names off of the marriage licenses, ermold and moore received theirs and married on sept. 26, 2015. Davis, who originally won her clerkship as a democrat but switched to republican after she got out of jail, was photographed wednesday helping ermold with his candidacy papers; a tweet featuring the photo went viral. \" i shook his hand and told him, ' congratulations, and may the best candidate win, ' \" davis told reuters in an email. As for ermold, he tells abc news: \" the message i want to send out is one of bringing people back together. People are just hurt, people are angry, and we don't have to follow this path … we can change. \"",
         "split": "train",
         "cleansed_document": [
             "Two years after rowan county, kentucky, clerk kim davis denied a marriage license to david ermold and his partner of more than 15 years, ermold and davis are crossing paths once again: he is challenging davis for her seat. Interested in lgbt? add lgbt as an interest to stay up to date on the latest lgbt news, video, and analysis from abc news. Add interest ermold filed on wednesday to run for rowan county clerk, with his husband, david moore, by his side. Ermold is a professor at the university of pikeville and formerly a professor at the southern west virginia community and technical college, where he was named faculty member of the year. \" the message i want to send out is one of bringing people back together, \" ermold told abc news wednesday. \" people are just hurt, people are angry, and we don't have to follow this path... We can change. \" timothy d. Easley/ap photo in 2015, soon after the",
-            "( reuters ) - a gay man who was denied a marriage license in kentucky two years ago by a county clerk who refused to issue licenses for same-sex marriages will run to unseat her next year, he said on wednesday. David ermold, of morehead, kentucky, announced his candidacy as a democrat against rowan county clerk kim davis, who drew worldwide attention when she refused to grant the licenses to same-sex couples, citing apostolic christian beliefs. Ermold and his partner were one of the four couples who sued davis. \"we need to restore the integrity of that office, \" ermold said in a phone interview with reuters after his campaign announcement on facebook. \"i wasn't treated fairly myself. \" davis intends to seek re-election as a republican in 2018. She said in an email on wednesday that she helped ermold with his candidacy paperwork. \"i shook his hand and told him 'congratulations and may the best candidate win, ' \" davis said. Davis spent five days in jail in september 2015 after",
-            "... Orever home. He is a senior kitty at 9+ years and is having trouble eating due to broken teeth. He is fiv+ and his adoption fee is completely sponsored. Adoption will include shots and neuter. For more info on action, contact the shelter: tri county animal shelter 2450 ky highway 519 clearfield, ky 40313 606-784-4930 action has been at the shelter over a month and he is in need of a f"
+            "( reuters ) - a gay man who was denied a marriage license in kentucky two years ago by a county clerk who refused to issue licenses for same-sex marriages will run to unseat her next year, he said on wednesday. David ermold, of morehead, kentucky, announced his candidacy as a democrat against rowan county clerk kim davis, who drew worldwide attention when she refused to grant the licenses to same-sex couples, citing apostolic christian beliefs. Ermold and his partner were one of the four couples who sued davis. \"we need to restore the integrity of that office, \" ermold said in a phone interview with reuters after his campaign announcement on facebook. \"i wasn't treated fairly myself. \" davis intends to seek re-election as a republican in 2018. She said in an email on wednesday that she helped ermold with his candidacy paperwork. \"i shook his hand and told him 'congratulations and may the best candidate win, ' \" davis said. Davis spent five days in jail in september 2015 after"
         ],
         "raw_document": [
             "Two years after rowan county, kentucky, clerk kim davis denied a marriage license to david ermold and his partner of more than 15 years, ermold and davis are crossing paths once again: he is challenging davis for her seat. Interested in lgbt? add lgbt as an interest to stay up to date on the latest lgbt news, video, and analysis from abc news. Add interest ermold filed on wednesday to run for rowan county clerk, with his husband, david moore, by his side. Ermold is a professor at the university of pikeville and formerly a professor at the southern west virginia community and technical college, where he was named faculty member of the year. \" the message i want to send out is one of bringing people back together, \" ermold told abc news wednesday. \" people are just hurt, people are angry, and we don't have to follow this path... We can change. \" timothy d. Easley/ap photo in 2015, soon after the",
@@ -444,18 +441,17 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 4
         }
     },
     {
         "idx": 5616,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "If you have \" previous housekeeping experience \" — ideally involving \" a large private house \" and \" a family environment with dogs \" — and you can be discreet and loyal, have we got the job for you. Prince william and wife kate recently put out an ad in the lady ( \" an upmarket magazine for ' elegant women with elegant minds, ' \" people helpfully reports ) looking for a housekeeper for their country home. The ad notes that main duties include cleaning the entire home \" to a high standard, \" maintaining the owners ' clothing, grocery shopping, accepting deliveries, and sometimes helping with meal prep, child care, and dog care. \" discretion and loyalty is paramount and a current valid uk driving license is essential, \" it reads, noting that weekend hours may occasionally be required. \" self-contained accommodation will be provided ( suitable for a couple ). The partner may be offered ad hoc maintenance work, although there is no guaranteed work provided for them. \" to apply, you ' ll need to submit a \" full cv \" and \" covering letter with your salary expectations \" by april 5. ( kate reportedly wants william to get a hair transplant. )",
         "split": "train",
         "cleansed_document": [
             "Prince william and kate place ad looking for'discreet ' housekeeper in the week that princess kate visited the fictitious \" downstairs \" kitchens of downton abbey, it's emerged that she is looking for a housekeeper of her own.eight-months-pregnant kate, 33, and husband prince william, 32, have placed an ad looking for help at their grand country house in norfolk, people has confirmed.the couple has placed a small-ad in the pages of the the lady, an upmarket magazine for \" elegant women with elegant minds, \" as they look for someone who can work with children, and dogs. It is traditionally the go-to outlet for seeking staff. The ad asks for an experienced housekeeper who is discreet, loyal and good with family pets to work in their ten-bedroom country home, anmer hall. The ad, to help at a \" large family home in norfolk, \" lists the",
-            "Job description housekeeper sought for a large family home in norfolk. We are looking for someone with previous housekeeping experience, ideally within a large private house, and preferably within a family environment with dogs. Main duties will include: cleaning all areas of the house to a high standard; caring for and maintaining the home owners ' clothing; cleaning silverware and glassware; purchasing groceries and general provisions for the house; and dealing with deliveries. On occasions, the role will also involve the preparation of meals, assisting with childcare and caring for dogs. Discretion and loyalty is paramount and a current valid uk driving licence is essential. The housekeeper will be required monday to friday, but with the flexibility to work during the weekend on occasion, and to work additional hours if ever required. Self-contained accommodation will be provided ( suitable for a couple ). The partner may be offered",
-            "As a celebrated style icon, kate middleton's hairdos and wardrobe choices make headlines. It turns out that she expects her hubby to share her high standard when it comes to all the fashionable details! according to the national enquirer, the 33-year-old duchess of cambridge is so concerned by prince william's receding hairline that she has given him a royal ultimatum: get a hair transplant or shave your head! \"kate thinks he looks old before his time, \" explained a source. \"she says that william either needs to get a hair transplant or shave his head completely, so that he looks younger and more dynamic. \" photos: kate middleton's style another problem? style savvy middleton wants to give prince william, 32, a wardrobe reboot. \"she's told poor william that he needs a complete style makeover, \" the source told the enquirer. And while william is open to"
+            "Job description housekeeper sought for a large family home in norfolk. We are looking for someone with previous housekeeping experience, ideally within a large private house, and preferably within a family environment with dogs. Main duties will include: cleaning all areas of the house to a high standard; caring for and maintaining the home owners ' clothing; cleaning silverware and glassware; purchasing groceries and general provisions for the house; and dealing with deliveries. On occasions, the role will also involve the preparation of meals, assisting with childcare and caring for dogs. Discretion and loyalty is paramount and a current valid uk driving licence is essential. The housekeeper will be required monday to friday, but with the flexibility to work during the weekend on occasion, and to work additional hours if ever required. Self-contained accommodation will be provided ( suitable for a couple ). The partner may be offered"
         ],
         "raw_document": [
             "Prince william and kate place ad looking for'discreet ' housekeeper in the week that princess kate visited the fictitious \" downstairs \" kitchens of downton abbey, it's emerged that she is looking for a housekeeper of her own.eight-months-pregnant kate, 33, and husband prince william, 32, have placed an ad looking for help at their grand country house in norfolk, people has confirmed.the couple has placed a small-ad in the pages of the the lady, an upmarket magazine for \" elegant women with elegant minds, \" as they look for someone who can work with children, and dogs. It is traditionally the go-to outlet for seeking staff. The ad asks for an experienced housekeeper who is discreet, loyal and good with family pets to work in their ten-bedroom country home, anmer hall. The ad, to help at a \" large family home in norfolk, \" lists the",
@@ -472,7 +468,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -665,7 +661,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -717,7 +713,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -742,7 +738,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1016,7 +1012,7 @@
             "3": 1,
             "4": 0,
             "5": 3,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -1055,7 +1051,7 @@
             "4": 0,
             "5": 3,
             "6": 3,
-            "7": 0
+            "7": 2
         }
     },
     {
@@ -1285,7 +1281,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1315,12 +1311,11 @@
     },
     {
         "idx": 5647,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Here comes what the ap calls \" the most damning evidence yet \" against aaron hernandez, see if you can follow along: an associate of the former nfl tight end told investigators that another associate told him hernandez shot odin lloyd. Here's how it went down, according to documents obtained by the ap: carlos ortiz says he, hernandez, lloyd, and ernest wallace drove together to the industrial park where lloyd was killed. En route, hernandez complained about lloyd \" chilling \" with people hernandez had problems with, but he and lloyd seemed to smooth things over. Soon after, the car stopped and hernandez, lloyd, and wallace got out to urinate while ortiz stayed in the car. Ortiz heard gunshots, hernandez and wallace got back in, and they sped away. Though ortiz couldn't see who fired the gun, wallace told him the next day that hernandez had shot lloyd. The night before, wallace had asked ortiz to retrieve a gun from under the driver's seat, which ortiz did; he handed it to hernandez when they reached his house. Police now want to search wallace's mother's house; the gun used to kill lloyd has yet to be found. More new info: a vehicle wanted in connection with the 2012 boston double murder hernandez may be linked to has been found in hernandez's hometown of bristol, conn. It had been rented in hernandez's name. And some more unpleasant news for hernandez: ea sports has removed the former new england patriot from its video games, madden nfl 25 and ncaa football 14, espn reports.",
         "split": "train",
         "cleansed_document": [
-            "Ernest wallace, of miramar, fla., center, mouths words to people sitting in attleboro district court, in attleboro, mass., while standing next to his attorney david meier, left, during his arraignment,... ( associated press ) an associate of former new england patriots tight end aaron hernandez said he was told hernandez fired the shots that resulted in the death of a semi-pro football player, according to documents filed in florida. The records, obtained by the associated press, also show a vehicle wanted in a double killing in boston a year before had been rented in hernandez's name. Together, the revelations provide the most damning evidence yet against the 23-year-old star athlete. Hernandez has been charged in the june killing of boston semi-pro athlete odin lloyd. The records say hernandez associate carlos ortiz told massachusetts investigators that another man, ernest wallace, said hernandez shot lloyd in an industrial park near hernandez's home in north attleborough. The gun used in the killing has not been found. The documents were filed in court by the miramar, fla., police department to justify a search of wallace's mother's home in that city. The records also show that police, while investigating lloyd's killing, searched in hernandez's hometown of bristol, conn., and found a vehicle wanted",
-            "Ea sports, the maker of the popular video games \" madden nfl 25 \" and \" ncaa football 14, \" has opted to remove former new england patriots tight end aaron hernandez from each game, a company spokesperson told cbssports.com. Hernandez is currently in jail in relation to six charges, including a charge for the murder of odin lloyd, and was released by the patriots shortly after his arrest. Nfl teams were notified that no contract for hernandez would be approved prior to the resolution of his charges, as the nfl would need to further investigate possible league punishment for his actions. An image of hernandez on a card appears in \" ncaa football 14 \" as a nike skills trainer reward for an achievement, but the company spokesperson added that the image will soon be removed. \" because ' ncaa football 14 ' was finalized prior to our decision, hernandez's image still appears in the nike skills trainer, \" he said. \" however, he is not in the game, and anyone who unlocks that particular nike skills trainer reward will receive an alex smith ultimate team player item instead. The image of hernandez will be removed via a title update in the near future. \" hernandez, who starred at the university of florida prior to being selected in the fourth round of the 2010 nfl draft, was"
+            "Ernest wallace, of miramar, fla., center, mouths words to people sitting in attleboro district court, in attleboro, mass., while standing next to his attorney david meier, left, during his arraignment,... ( associated press ) an associate of former new england patriots tight end aaron hernandez said he was told hernandez fired the shots that resulted in the death of a semi-pro football player, according to documents filed in florida. The records, obtained by the associated press, also show a vehicle wanted in a double killing in boston a year before had been rented in hernandez's name. Together, the revelations provide the most damning evidence yet against the 23-year-old star athlete. Hernandez has been charged in the june killing of boston semi-pro athlete odin lloyd. The records say hernandez associate carlos ortiz told massachusetts investigators that another man, ernest wallace, said hernandez shot lloyd in an industrial park near hernandez's home in north attleborough. The gun used in the killing has not been found. The documents were filed in court by the miramar, fla., police department to justify a search of wallace's mother's home in that city. The records also show that police, while investigating lloyd's killing, searched in hernandez's hometown of bristol, conn., and found a vehicle wanted"
         ],
         "raw_document": [
             "Ernest wallace, of miramar, fla., center, mouths words to people sitting in attleboro district court, in attleboro, mass., while standing next to his attorney david meier, left, during his arraignment,... ( associated press ) an associate of former new england patriots tight end aaron hernandez said he was told hernandez fired the shots that resulted in the death of a semi-pro football player, according to documents filed in florida. The records, obtained by the associated press, also show a vehicle wanted in a double killing in boston a year before had been rented in hernandez's name. Together, the revelations provide the most damning evidence yet against the 23-year-old star athlete. Hernandez has been charged in the june killing of boston semi-pro athlete odin lloyd. The records say hernandez associate carlos ortiz told massachusetts investigators that another man, ernest wallace, said hernandez shot lloyd in an industrial park near hernandez's home in north attleborough. The gun used in the killing has not been found. The documents were filed in court by the miramar, fla., police department to justify a search of wallace's mother's home in that city. The records also show that police, while investigating lloyd's killing, searched in hernandez's hometown of bristol, conn., and found a vehicle wanted",
@@ -1335,7 +1330,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1368,13 +1363,12 @@
     },
     {
         "idx": 5649,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A woman has accused a washington state lawmaker of raping her 11 years ago, saying she was inspired to speak out as she watched the televised allegations against supreme court nominee brett kavanaugh, the ap reports. The lawmaker denied the claim. In a tweet thursday afternoon, candace faber said republican state sen. Joe fain sexually assaulted her in 2007 the night she graduated from georgetown university in washington, dc. \" i ' m done being silent, \" she writes. Fain says he \" absolutely \" denies the allegation and called for an investigation. \" any allegation of this serious nature deserves to be heard and investigated for all parties involved, \" he tells the ap. \" i invite and will cooperate with any inquiry. \" fain, 37, was first elected to the washington state senate in 2010, three years after the alleged incident. He is a moderate republican from the seattle suburb of auburn and currently the state senate minority floor leader. A spokeswoman for gov. Jay inslee says he supports \" a full investigation by law enforcement officials. \" faber, 35, in june published an online essay accusing an unnamed washington state lawmaker of assaulting her in 2007. She wrote that they spent the night dancing and kissing, and that both \" drank too much, \" and when she went back with him to his hotel room, he raped her despite her protests. She asked him for a kiss afterward, and in her essay, she rejected that the kiss request was \" not how girls act when they've been raped. \"",
         "split": "train",
         "cleansed_document": [
             "My body tells no lies candace faber blocked unblock follow following jun 29, 2018 content warning: sexual assault/rape note: i've spent some time deciding whether to share this story — whether to keep talking about my own experience when there are so many others, whether to focus on sexual assault in a moment when there is so much else going on in the world. But i found it healing to write this story directly from the memories in my body, and i am sharing it in the hope that it can be a point of connection for other survivors of sexual assault who were trapped into believing that their experience \"didn't count, \" as well as for people who have committed sexual assault but do not yet recognize it as such. I think a lot of people are so used to overriding the information they receive from women's bodies that they've convinced themselves that they're innocent, when in fact, i would venture that many, if not most, men, who are used to owning narratives about women's bodies, have committed sexual assault, whether they have allowed themselves to realize it or not. For this reason, when writing from the truth",
-            "In this jan. 27, 2017 photo, senate republican floor leader joe fain, r-auburn, sits at his desk on the senate floor in olympia, wash. A woman has accused fain of raping her 11 years ago, saying she was... ( associated press ) in this jan. 27, 2017 photo, senate republican floor leader joe fain, r-auburn, sits at his desk on the senate floor in olympia, wash. A woman has accused fain of raping her 11 years ago, saying she was inspired to speak out following the televised allegations against supreme court nominee brett kavanaugh.... ( associated press ) in this jan. 27, 2017 photo, senate republican floor leader joe fain, r-auburn, sits at his desk on the senate floor in olympia, wash. A woman has accused fain of raping her 11 years ago, saying she was inspired to speak out following the televised allegations against supreme court nominee brett kavanaugh.... ( associated press ) in this jan. 27, 2017 photo, senate republican floor leader joe fain, r-auburn, sits at his desk on the senate floor in olympia, wash. A woman has accused fain of raping her 11 years ago, saying she was... ( associated press ) seattle ( ap )",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "In this jan. 27, 2017 photo, senate republican floor leader joe fain, r-auburn, sits at his desk on the senate floor in olympia, wash. A woman has accused fain of raping her 11 years ago, saying she was... ( associated press ) in this jan. 27, 2017 photo, senate republican floor leader joe fain, r-auburn, sits at his desk on the senate floor in olympia, wash. A woman has accused fain of raping her 11 years ago, saying she was inspired to speak out following the televised allegations against supreme court nominee brett kavanaugh.... ( associated press ) in this jan. 27, 2017 photo, senate republican floor leader joe fain, r-auburn, sits at his desk on the senate floor in olympia, wash. A woman has accused fain of raping her 11 years ago, saying she was inspired to speak out following the televised allegations against supreme court nominee brett kavanaugh.... ( associated press ) in this jan. 27, 2017 photo, senate republican floor leader joe fain, r-auburn, sits at his desk on the senate floor in olympia, wash. A woman has accused fain of raping her 11 years ago, saying she was... ( associated press ) seattle ( ap )"
         ],
         "raw_document": [
             "My body tells no lies candace faber blocked unblock follow following jun 29, 2018 content warning: sexual assault/rape note: i've spent some time deciding whether to share this story — whether to keep talking about my own experience when there are so many others, whether to focus on sexual assault in a moment when there is so much else going on in the world. But i found it healing to write this story directly from the memories in my body, and i am sharing it in the hope that it can be a point of connection for other survivors of sexual assault who were trapped into believing that their experience \"didn't count, \" as well as for people who have committed sexual assault but do not yet recognize it as such. I think a lot of people are so used to overriding the information they receive from women's bodies that they've convinced themselves that they're innocent, when in fact, i would venture that many, if not most, men, who are used to owning narratives about women's bodies, have committed sexual assault, whether they have allowed themselves to realize it or not. For this reason, when writing from the truth",
@@ -1391,7 +1385,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1508,12 +1502,10 @@
     },
     {
         "idx": 5654,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Sarah palin seems to be in firm agreement with president obama on at least one issue: effective campaign fonts. On her website, the former alaska governor has taken to using the gotham font that experts say helped propel obama to victory in 2008, the daily telegraph reports. \"i think you can make a strong argument to say it was a great help to obama, \" says a typographer. \"the whole campaign was such a fantastically clear, consistent one that the typeface did its job. \" \"the font did not change from when he announced his candidacy through his primaries, on television, online, and in all the print advertisements, \" he notes, and palin's use of it \"shows how influential the font has been. \" but obama wasn't the first to use gotham: it was created in 2000, commissioned by gq magazine. The editors were looking for something with a \"geometric structure \" that would appear \"masculine, new, and fresh. \"",
         "split": "train",
-        "cleansed_document": [
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Regarding donald trump honoring our u.s. Veterans instead of playing tonight's much ballyhooed media debate game: of course trump owns the issue. And he ' ll own tonight. Any \"journalist \" or media outlet perched upon a pedestal all spun up for ratings'sake, pretending to be king maker in a presidential election, obviously can't understand how passé [ … ]",
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
@@ -1527,7 +1519,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1557,7 +1549,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1582,7 +1574,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1693,12 +1685,11 @@
     },
     {
         "idx": 5661,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A uk bullying hotline has received \" three or four \" calls from an unexpected source — gordon brown's office. The head of the national bullying helpline stopped short of calling the famously short-tempered pm a bully, adding, \" what we are saying is staff in his office working directly with him have issues, and have concerns, and have contacted our helpline, \" reports the bbc. A forthcoming book about brown excerpted in today's observer describes the pm's outbursts and temper tantrums. \" immunity from brown's rages was not conferred on officials just because they had been long-time and loyal servants, \" writes andrew rawnsley. \" if anything, he seemed to think he could be more abusive to those who were closest to him. \"",
         "split": "train",
         "cleansed_document": [
-            "Please turn on javascript. Media requires javascript to play. Several people in gordon brown's office have contacted an anti-bullying charity, its boss has told the bbc. Christine pratt said \" three or four \" calls had been made to the national bullying helpline in recent years. Earlier lord mandelson denied claims mr brown had been warned about his temper, saying he \" doesn't bully people \". Downing street said it had not been contacted by the helpline, and had \" rigorous \", well established procedures in place for staff to address concerns. It follows a separate story in the observer alleging that the head of the civil service sir gus o'donnell was so concerned he had a word with gordon brown about his behaviour towards staff. ' without foundation ' a book by the newspaper's chief political commentator andrew rawnsley includes details of incidents where it is alleged mr brown grabbed staff by the lapels, shoved them aside and shouted at them. Downing street says the reports are \" malicious allegations \" that are \" without foundation \". The cabinet office said: \" it is categorically not the case that the cabinet secretary asked for an investigation of the prime minister's treatment of number 10 staff. \" please turn on javascript. Media requires javascript to play. But mr rawnsley said he had",
-            "Gordon brown entered number 10 downing street on 27 june 2007. He was immediately beset by a series of crises, including attempted terrorist attacks in london and glasgow, followed by flooding in large parts of britain and an outbreak of foot-and-mouth disease. His apparently assured response to these events generated a honeymoon with the media. As he basked in rising opinion poll ratings, speculation grew that he would call an early general election. The end of the party by andrew rawnsley buy it from the guardian bookshop search the guardian bookshop the idea of an autumn general election was first put into the prime minister's head at the end of july. The cabinet were summoned to chequers just before the summer break to be given what one minister recalls as \" a rather saccharine presentation \" by deborah mattinson, brown's personal pollster. Once the cabinet departed, the prime minister's closest advisers joined him in the downstairs sitting room overlooking the country house's handsome grounds. \" it looks strong, \" remarked spencer livermore, the director of political strategy at number 10. The private polling shown to the cabinet put labour eight points ahead of the tories and suggested that brown was seen as a superior leader to david cameron. Douglas alexander, the campaign co-ordinator, and sue nye, brown's political secretary, agreed the results"
+            "Please turn on javascript. Media requires javascript to play. Several people in gordon brown's office have contacted an anti-bullying charity, its boss has told the bbc. Christine pratt said \" three or four \" calls had been made to the national bullying helpline in recent years. Earlier lord mandelson denied claims mr brown had been warned about his temper, saying he \" doesn't bully people \". Downing street said it had not been contacted by the helpline, and had \" rigorous \", well established procedures in place for staff to address concerns. It follows a separate story in the observer alleging that the head of the civil service sir gus o'donnell was so concerned he had a word with gordon brown about his behaviour towards staff. ' without foundation ' a book by the newspaper's chief political commentator andrew rawnsley includes details of incidents where it is alleged mr brown grabbed staff by the lapels, shoved them aside and shouted at them. Downing street says the reports are \" malicious allegations \" that are \" without foundation \". The cabinet office said: \" it is categorically not the case that the cabinet secretary asked for an investigation of the prime minister's treatment of number 10 staff. \" please turn on javascript. Media requires javascript to play. But mr rawnsley said he had"
         ],
         "raw_document": [
             "Please turn on javascript. Media requires javascript to play. Several people in gordon brown's office have contacted an anti-bullying charity, its boss has told the bbc. Christine pratt said \" three or four \" calls had been made to the national bullying helpline in recent years. Earlier lord mandelson denied claims mr brown had been warned about his temper, saying he \" doesn't bully people \". Downing street said it had not been contacted by the helpline, and had \" rigorous \", well established procedures in place for staff to address concerns. It follows a separate story in the observer alleging that the head of the civil service sir gus o'donnell was so concerned he had a word with gordon brown about his behaviour towards staff. ' without foundation ' a book by the newspaper's chief political commentator andrew rawnsley includes details of incidents where it is alleged mr brown grabbed staff by the lapels, shoved them aside and shouted at them. Downing street says the reports are \" malicious allegations \" that are \" without foundation \". The cabinet office said: \" it is categorically not the case that the cabinet secretary asked for an investigation of the prime minister's treatment of number 10 staff. \" please turn on javascript. Media requires javascript to play. But mr rawnsley said he had",
@@ -1713,7 +1704,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1743,12 +1734,11 @@
     },
     {
         "idx": 5663,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Caroline giuliani is the latest in a long line of celebrities and semi-celebrities to be sentenced to community service ( in giuliani's case, a whopping one day for shoplifting ). But does community service do any good? yes, writes constance casey on slate, explaining that community service is a popular sentence for those \"unlikely to commit another crime. \" it helps local nonprofits or government facilities by guaranteeing workers who \"are very likely to turn up on time and put in the hours. \" and it's not a joke: \"it is still forced, menial, unpaid labor, \" and it's usually given alongside a fine and probation. How have past celebs carried out their sentences? naomi campbell mopped and swept a sanitation department facility, chris brown cleared weeds at police horse stables, snoop dogg worked with a youth football league, and lindsay lohan worked at a red cross blood center.",
         "split": "train",
         "cleansed_document": [
-            "Louis lanzano, ap ( aug. 31 ) -- the daughter of former new york city mayor rudy giuliani agreed in court today to one day of community service in return for having her shoplifting charges dismissed.judge jennifer schecter told 20-year-old caroline giuliani to \" stay out of trouble and avoid re-arrest, \" noting that the charges will be dismissed if she doesn't run afoul of the law again over the next six months, abc news reported giuliani was arrested aug. 4 after a security camera at a sephora cosmetics store in manhattan recorded her with items worth a little more than $ 100 in her coat pocket.the district attorney's office said the deal to wipe out the charges is a standard offer given to first-time shoplifters when a small amount of money is involved, and not any special treatment afforded the daughter of a former federal prosecutor, according to the associated press neither giuliani nor her lawyer said anything to the judge.giuliani, a student at harvard, is due in court again nov. 4 for a report on the status of her community service, the new york times reported. She appeared in court today with her mother, but not her father, who earned a reputation as a tough-on- crime mayor.",
-            "What's with all the celebrities serving community service? do they really help anyone? do you have a real-life do-gooding dilemma? please send it to. Dear my goodness, an acquaintance of mine was arrested recently and sentenced to community service. I've noticed an endless parade of celebrities lately getting the same punishment for some minor violation or another. I can't help but wonder, is court-ordered community service actually helpful? and what kinds of service does the court usually offer? — jon in nyc dear jon, an opportunity for court-ordered community service to be extraordinarily helpful was blown on the day a judge sentenced martha stewart to prison for five months for lying to investigators about a stock sale. Think of the homemaking skills she could have applied — the stenciled floors for public schools, the pretty table settings at soup kitchens, the hand-knitted afghans for homeless shelters. Seriously, stewart would have had more enthusiasm and greater cleaning expertise than another famous offender, model naomi campbell, who, after throwing a cell phone at an employee, spent five days serving the community by mopping and sweeping at a new york sanitation department facility. Advertisement the modern concept of community service as a punishment began in great britain in the late 1960s and has become increasingly popular with judges who find they can be more flexible and humane in punishing offenders unlikely to commit another crime. Those guilty of offenses like shoplifting, writing bad checks, possessing small amounts of"
+            "Louis lanzano, ap ( aug. 31 ) -- the daughter of former new york city mayor rudy giuliani agreed in court today to one day of community service in return for having her shoplifting charges dismissed.judge jennifer schecter told 20-year-old caroline giuliani to \" stay out of trouble and avoid re-arrest, \" noting that the charges will be dismissed if she doesn't run afoul of the law again over the next six months, abc news reported giuliani was arrested aug. 4 after a security camera at a sephora cosmetics store in manhattan recorded her with items worth a little more than $ 100 in her coat pocket.the district attorney's office said the deal to wipe out the charges is a standard offer given to first-time shoplifters when a small amount of money is involved, and not any special treatment afforded the daughter of a former federal prosecutor, according to the associated press neither giuliani nor her lawyer said anything to the judge.giuliani, a student at harvard, is due in court again nov. 4 for a report on the status of her community service, the new york times reported. She appeared in court today with her mother, but not her father, who earned a reputation as a tough-on- crime mayor."
         ],
         "raw_document": [
             "Louis lanzano, ap ( aug. 31 ) -- the daughter of former new york city mayor rudy giuliani agreed in court today to one day of community service in return for having her shoplifting charges dismissed.judge jennifer schecter told 20-year-old caroline giuliani to \" stay out of trouble and avoid re-arrest, \" noting that the charges will be dismissed if she doesn't run afoul of the law again over the next six months, abc news reported giuliani was arrested aug. 4 after a security camera at a sephora cosmetics store in manhattan recorded her with items worth a little more than $ 100 in her coat pocket.the district attorney's office said the deal to wipe out the charges is a standard offer given to first-time shoplifters when a small amount of money is involved, and not any special treatment afforded the daughter of a former federal prosecutor, according to the associated press neither giuliani nor her lawyer said anything to the judge.giuliani, a student at harvard, is due in court again nov. 4 for a report on the status of her community service, the new york times reported. She appeared in court today with her mother, but not her father, who earned a reputation as a tough-on- crime mayor.",
@@ -1763,7 +1753,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2045,7 +2035,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -2188,14 +2178,13 @@
     },
     {
         "idx": 5679,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Famous last words: \" i ' m like the world's most safe criminal. \" a los angeles man has been arrested after allegedly making prank calls to at least a dozen nfl, nba, and college football coaches offering them new jobs. Kenneth tarr, 32, allegedly called the likes of ex-tampa bay buccaneers and indianapolis colts coach tony dungy, offering him a head coach position at the university of southern california, nbc news reports. Others targets included minnesota vikings head coach leslie frazier, university of hawaii head coach norm chow, and cincinnati bengals offensive coordinator jay gruden. Tarr was arrested yesterday on suspicion of eavesdropping after he allegedly recorded the calls; recording without consent is illegal in california. He seems quite open about the pranks, having apparently written to deadspin boasting of them. \" i ' m amazed that they're returning any of these calls, \" he told deadspin's dom cosentino ( along with the \" most safe \" line above ). In an interview with abc news, tarr notes, \" andy kaufman, andy warhol, great, i ' m glad they existed, but they're nothing compared to me... People are not in on what i've accomplished. \" tarr previously made a name for himself by inventing fake personas that would get him on talk shows and other reality tv shows, as the village voice has reported; it called him \" one of the most prolific television hoaxers in us history. \" deadspin and the village voice have more on his backstory.",
         "split": "train",
         "cleansed_document": [
             "[ update, dec. 9: tarr has been arrested and charged with felony eavesdropping. ] ken tarr reached out to us first. Without any prompting, this was the email we received from him yesterday: from: kenny tarr sent: 4: 22 pm edt subject: hi i hoaxed tony dungy call me [ phone number redacted ] here is a video of me offering mark jackson the lakers job. It is a matter of time till i make headline news again with my sports hoaxes. Here are my other entertainment related hoaxes. Http://www.villagevoice.com/2013-06-05/new … there was no video attached. I called the phone number. Tarr and i had the first of two phone conversations",
             "Police have arrested a man in los angeles who they say pranked at least a dozen coaches from the nfl, nba and college football into believing he was offering them jobs with pro or college teams. Interested in? add as an interest to stay up to date on the latest news, video, and analysis from abc news. Add interest kenneth edward tarr, 32, was arrested monday morning at his hollywood home and charged with felony eavesdropping, for allegedly recording the prank calls, according to the los angeles police department. Under california law, it is illegal to record someone without their consent. He had not been arraigned as of monday evening, according",
-            "A 32-year-old los angeles man has been arrested for allegedly recording phone calls with high-profile sports figures without their consent and hoaxing them to believe other teams were interested in hiring them. Authorities have arrested a los angeles man who they say pranked big-name coaches from the nba, nfl and college football into believing he was offering them jobs with pro or college teams. Kenneth edward tarr, 32, was booked monday morning on suspicion of felony eavesdropping by lapd hollywood division detectives for recording phone calls with sports figures without their permission, according to los angeles county sheriff's booking records and lapd officials. Under california law, it is illegal to record someone without their consent",
-            "Ken tarr launches a hoax campaign on an industry immune to shame reality tv insurgent the packed midtown television studio of the bill cunningham show was pimped out in the fake wood paneling and industrial gray paint of a jersey office park. On its stage sat a geeky white guy, his hair moussed in a dated faux-hawk. He was furious. He called himself k.t., claiming to be a prince of the gypsies, which entitled him to certain extracurricular liberties when it came to romance. His essential theory: he could cheat on his girlfriend, cynthia, as much as he wished. Cynthia, on the other hand, should be strictly bound to victorian rules."
+            "A 32-year-old los angeles man has been arrested for allegedly recording phone calls with high-profile sports figures without their consent and hoaxing them to believe other teams were interested in hiring them. Authorities have arrested a los angeles man who they say pranked big-name coaches from the nba, nfl and college football into believing he was offering them jobs with pro or college teams. Kenneth edward tarr, 32, was booked monday morning on suspicion of felony eavesdropping by lapd hollywood division detectives for recording phone calls with sports figures without their permission, according to los angeles county sheriff's booking records and lapd officials. Under california law, it is illegal to record someone without their consent"
         ],
         "raw_document": [
             "[ update, dec. 9: tarr has been arrested and charged with felony eavesdropping. ] ken tarr reached out to us first. Without any prompting, this was the email we received from him yesterday: from: kenny tarr sent: 4: 22 pm edt subject: hi i hoaxed tony dungy call me [ phone number redacted ] here is a video of me offering mark jackson the lakers job. It is a matter of time till i make headline news again with my sports hoaxes. Here are my other entertainment related hoaxes. Http://www.villagevoice.com/2013-06-05/new … there was no video attached. I called the phone number. Tarr and i had the first of two phone conversations",
@@ -2214,7 +2203,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2245,7 +2234,7 @@
             "0": 2,
             "1": 1,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2270,18 +2259,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 5682,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Phoenix ayahuasca describes itself as \" offering a safe and supportive place to experience plant medicines \" near iquitos, in the peruvian amazon. On wednesday, things went wrong. Witnesses say a british man was killed during a bad trip after consuming a hallucinogenic brew at phoenix ayahuasca, which the independent calls \" an alternative health center. \" authorities say canadian joshua andrew freeman stevens, 29, killed brit unais gomes, 26, in self-defense after gomes allegedly grabbed a kitchen knife and attacked him as the two took part in an ayahuasca ceremony, per reuters. Ayahuasca — made from the ayahuasca vine and the shrub chacruna, per the bbc — contains the active ingredient dimethyltryptamine and is illegal in many countries, including the us and uk. But it isn't typically associated with violence, reports reuters. In fact, it's known to help manage depression, per time, and is considered a key spiritual and medicinal item for amazonian tribes in both peru and brazil. In peru, in fact, it's recognized by the government as \" one of the basic pillars of the identity of the amazon peoples. \" an officer says stevens resisted the attack, then stabbed gomes in the stomach and chest. He's now being held by authorities, though it isn't clear if he ' ll face any charges. ( this tourist also died this year in peru, and her family thinks tea is to blame. )",
         "split": "train",
         "cleansed_document": [
             "Authorities accuse a canadian man of killing a briton in the peruvian amazon in a brawl after they drank the hallucinogenic beverage ayahuasca at a spiritual retreat on wednesday night. The incident occurred close to the northern city of iquitos after u.k. Citizen unais gomes, 26, attacked 29-year-old canadian joshua andrew freeman stevens with a knife in a drug-fueled frenzy, regional police chief normando marques said, according to reuters. Stevens resisted, and allegedly killed gomes in self-defense after stabbing him in the stomach and chest with the same knife. He is now in police custody. The drink, known for its psychedelic properties, is made by combining two different plants — the ayahuasca vine ( banisteriopsis caapi ) and chacruna, a kind of shrub, the bbc reports. The active ingredient is called dimethyltryptamine ( dmt ). The substance has been known to help with",
-            "A british man has been stabbed to death during a drug-fuelled ceremony in the peruvian amazon. Unais gomes, 26, died while at a spiritual retreat after he consumed a hallucinogenic plant. According to local police, witnesses said a canadian man, 29-year old joshua andrew freeman stevens, stabbed gomes in self-defence after he attacked him with a knife at phoenix ayahuasca, an alternative health centre. A drink made from the ayahuasca plant found in the amazon ( file photo ) the pair were taking part in an ayahuasca ceremony near the jungle city of iquitos on wednesday night. Ayahuasca is a combination of an amazonian vine and dimethyltryptamine ( dmt ) and gives users psychedelic experiences when combined. It is not normally associated with violence. Gomes was killed the alternative health centre - which charges $ 1,200 for a 10 day retreat a police source, who",
-            "About offering a safe, personalized, authentic and powerful life changing experience through the plant medicines and shamanic practices of the peruvian amazon."
+            "A british man has been stabbed to death during a drug-fuelled ceremony in the peruvian amazon. Unais gomes, 26, died while at a spiritual retreat after he consumed a hallucinogenic plant. According to local police, witnesses said a canadian man, 29-year old joshua andrew freeman stevens, stabbed gomes in self-defence after he attacked him with a knife at phoenix ayahuasca, an alternative health centre. A drink made from the ayahuasca plant found in the amazon ( file photo ) the pair were taking part in an ayahuasca ceremony near the jungle city of iquitos on wednesday night. Ayahuasca is a combination of an amazonian vine and dimethyltryptamine ( dmt ) and gives users psychedelic experiences when combined. It is not normally associated with violence. Gomes was killed the alternative health centre - which charges $ 1,200 for a 10 day retreat a police source, who"
         ],
         "raw_document": [
             "Image copyright getty images british student henry miller, 19, died in colombia after apparently consuming the traditional hallucinogenic drink ayahuasca, or yage. Emma thelwell, who took the drug herself, explains why it has become a rite of passage for some backpackers. I had never swallowed a pill at a party. Yet there i was in the depths of a colombian bamboo forest, knocking back a liquid containing a psychoactive drug - under the supervision of a shaman who didn't speak a word of english. During my month in colombia i didn't join the thousands of backpackers indulging in the country's most famous product - cocaine. But i was sold on ayahuasca. I was intrigued by the fact that for centuries, south america's indigenous societies have used this \" teacher plant \" in regular rituals. Ayahuasca,",
@@ -2300,17 +2288,16 @@
             "0": 4,
             "1": 1,
             "2": 1,
-            "3": 0
+            "3": 3
         }
     },
     {
         "idx": 5683,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Now that delta air lines has ceased offering discounted fares to national rifle association members, some republican lawmakers in georgia say the airline should be punished. The group of republicans, led by lt. Gov. Casey cagle, the frontrunner in this year's gubernatorial election, have threatened to torpedo a measure that would have eliminated the state's tax on jet fuel, saving the atlanta-based airline tens of millions of dollars a year, cnn reports. The measure, which passed the georgia house last week and is supported by republican gov. Nathan deal, is being blocked in the state senate and cagle says he will kill it and any other tax legislation that benefits delta \" unless the company changes its position and fully reinstates its relationship with the nra. \" delta is one of georgia's largest employers, and deal described the tax break as part of a plan to \" keep georgia competitive as a major international hub of commerce. \" but as senate president, cagle — who has an a-plus rating from the nra — will probably have enough influence to have the jet fuel measure dropped, the new york times reports. \" corporations cannot attack conservatives and expect us not to fight back, \" he tweeted monday. Delta argues that its decision on nra discounts \" reflects the airline's neutral status in the current national debate over gun control. \" ( on sunday, the nra slammed the \" cowardice \" of companies cutting ties with it in the aftermath of the parkland school shooting. )",
         "split": "train",
         "cleansed_document": [
-            "Delta's decision to cut ties with the nra could cost it a generous tax break from the state of georgia. The state's republicans — including a major candidate for governor — are threatening to kill part of a bill that would eliminate a state tax on jet fuel. If it passes, the provision is expected to save the atlanta-based airline tens of millions of dollars. \" we felt that it was wrong for them to single out one company, \" said chuck hufstetler, chairman of the state's senate finance committee. Delta ( dal ) on saturday announced that it would end discounted rates for national rifle association members. Hufstetler told cnn on monday that if the airline does not reverse its stance on the nra soon, he and others will push for the tax break to be stripped from the bill. The bill still needs to pass the senate before it can be signed into law. If delta holds its ground, he added, \" i don't think [ the bill ] will pass as it is. \" related: fedex will keep its nra discount the bill was until recently on track to earn approval from lawmakers. Georgia's house of representatives voted in favor of the legislation last week. It also won over republican governor nathan deal, who called the measure an important part of the state's tax reform plan that would \" keep georgia competitive as a major international hub of commerce. \" deal said at the time that he was \" confident \" in the bill's speedy passage. Things changed over the weekend. Delta became one of several companies — others include united airlines ( ual ) and hertz ( htz ) — to abandon its relationship with the nra after a school shooting in florida two weeks ago left 17 dead. That shooting has sparked renewed public debate over gun laws and reform. Delta said in a statement saturday that the decision \" reflects the airline's neutral status in the current national debate over gun control. \" it did not immediately respond monday to cnn's request for comment. Georgia republicans quickly rebuked the airline's decision. Georgia lieutenant governor casey cagle, a frontrunner in the state's gubernatorial race this year, vowed to \" kill any tax legislation \" that helps delta unless it reverses course. \"",
-            "Add this tweet to your website by copying the code below. Gehiago jakin add this video to your website by copying the code below. Gehiago jakin hmm, arazo bat egon da zerbitzariarenera iristeko. Berriro saiatu? gehitu txio gurasoak media gehitu zure webgunean edo aplikazioan twitter-eko edukia kapsulatzean, garatzaile akordioa eta garatzaile politika onartzen dituzu. Aurreikusi"
+            "Delta's decision to cut ties with the nra could cost it a generous tax break from the state of georgia. The state's republicans — including a major candidate for governor — are threatening to kill part of a bill that would eliminate a state tax on jet fuel. If it passes, the provision is expected to save the atlanta-based airline tens of millions of dollars. \" we felt that it was wrong for them to single out one company, \" said chuck hufstetler, chairman of the state's senate finance committee. Delta ( dal ) on saturday announced that it would end discounted rates for national rifle association members. Hufstetler told cnn on monday that if the airline does not reverse its stance on the nra soon, he and others will push for the tax break to be stripped from the bill. The bill still needs to pass the senate before it can be signed into law. If delta holds its ground, he added, \" i don't think [ the bill ] will pass as it is. \" related: fedex will keep its nra discount the bill was until recently on track to earn approval from lawmakers. Georgia's house of representatives voted in favor of the legislation last week. It also won over republican governor nathan deal, who called the measure an important part of the state's tax reform plan that would \" keep georgia competitive as a major international hub of commerce. \" deal said at the time that he was \" confident \" in the bill's speedy passage. Things changed over the weekend. Delta became one of several companies — others include united airlines ( ual ) and hertz ( htz ) — to abandon its relationship with the nra after a school shooting in florida two weeks ago left 17 dead. That shooting has sparked renewed public debate over gun laws and reform. Delta said in a statement saturday that the decision \" reflects the airline's neutral status in the current national debate over gun control. \" it did not immediately respond monday to cnn's request for comment. Georgia republicans quickly rebuked the airline's decision. Georgia lieutenant governor casey cagle, a frontrunner in the state's gubernatorial race this year, vowed to \" kill any tax legislation \" that helps delta unless it reverses course. \""
         ],
         "raw_document": [
             "Delta's decision to cut ties with the nra could cost it a generous tax break from the state of georgia. The state's republicans — including a major candidate for governor — are threatening to kill part of a bill that would eliminate a state tax on jet fuel. If it passes, the provision is expected to save the atlanta-based airline tens of millions of dollars. \" we felt that it was wrong for them to single out one company, \" said chuck hufstetler, chairman of the state's senate finance committee. Delta ( dal ) on saturday announced that it would end discounted rates for national rifle association members. Hufstetler told cnn on monday that if the airline does not reverse its stance on the nra soon, he and others will push for the tax break to be stripped from the bill. The bill still needs to pass the senate before it can be signed into law. If delta holds its ground, he added, \" i don't think [ the bill ] will pass as it is. \" related: fedex will keep its nra discount the bill was until recently on track to earn approval from lawmakers. Georgia's house of representatives voted in favor of the legislation last week. It also won over republican governor nathan deal, who called the measure an important part of the state's tax reform plan that would \" keep georgia competitive as a major international hub of commerce. \" deal said at the time that he was \" confident \" in the bill's speedy passage. Things changed over the weekend. Delta became one of several companies — others include united airlines ( ual ) and hertz ( htz ) — to abandon its relationship with the nra after a school shooting in florida two weeks ago left 17 dead. That shooting has sparked renewed public debate over gun laws and reform. Delta said in a statement saturday that the decision \" reflects the airline's neutral status in the current national debate over gun control. \" it did not immediately respond monday to cnn's request for comment. Georgia republicans quickly rebuked the airline's decision. Georgia lieutenant governor casey cagle, a frontrunner in the state's gubernatorial race this year, vowed to \" kill any tax legislation \" that helps delta unless it reverses course. \"",
@@ -2325,7 +2312,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2589,7 +2576,7 @@
             "0": 5,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2647,12 +2634,11 @@
     },
     {
         "idx": 5696,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "On to the knockout round of 16. Team usa beat nigeria tonight in women's world cup soccer to clinch first place in group d and advance. The lone goal came from abby wambach, playing in her last world cup, just before the end of the first half. Finishing in first place matters because the us will get a more favorable opponent in next week's game. That is, they won't face brazil and the great marta, notes sports illustrated.",
         "split": "train",
         "cleansed_document": [
-            "Abby wambach's goal in the dying moments of the first half was enough to lift the u.s. Women's national team to a 1-0 win over nigeria, cementing a first-place finish in group d. Wambach, whose recent comments regarding playing on artificial turf have put her back in the spotlight, scored on a one-time volley off a megan rapinoe corner kick in the 45th minute. Wambach, whose goal was the 14th world cup goal in her career ( second-most all-time ) was restored to the starting lineup, and she began the game next to alex morgan, who earned the first world cup start of her career. Morgan made way for vancouver-area native sydney leroux in the 65th minute. The usa had a goal from center back julie johnston waved off early for an offside call, despite replays showing she was even with wambach on a squared header. Johnston then came up big for the usa defense, tracking back and making a potential goal-saving slide tackle by deflecting asisat oshoala's attempt from close range. With the shutout, johnston, hope solo &amp; co. Have not conceded a goal in 243 minutes. Nigeria goalkeeper precious dede kept the deficit at one through with a series of saves on her end, none bigger than her stopping morgan on the doorstep with a sliding stop just into the second half, after ali krieger had set morgan up with a cross from the right. Nigeria went down to 10 players in the 69th minute, when sarah nnodim was sent off for her second yellow card after sliding through leroux on a tackle. Late on, u.s. Veterans shannon boxx and christie rampone made their first appearances of the tournament, with rampone ( 39 ) becoming the oldest player to appear in a women's world cup match. With the win, the usa secured first place in its group, avoiding a round-of-16 matchup with brazil. Instead, the usa will play the third-place finisher from group b, e or f and is in line to play either china or cameroon in the quarterfinals, should it advance. Here's how the match unfolded: rosters goalkeepers: ashlyn harris ( washington spirit ), alyssa naeher ( boston breakers ), hope solo ( seattle reign fc ) defenders: lori chalupny ( chicago red stars ), whitney engen ( western ny flash ), julie johnston ( chicago red stars ), meghan klingenberg",
-            "Comments use a facebook account to add a comment, subject to facebook's terms of service and privacy policy. Your facebook name, photo &amp; other personal information you make public on facebook will appear with your comment, and may be used on espn's media platforms. Learn more."
+            "Abby wambach's goal in the dying moments of the first half was enough to lift the u.s. Women's national team to a 1-0 win over nigeria, cementing a first-place finish in group d. Wambach, whose recent comments regarding playing on artificial turf have put her back in the spotlight, scored on a one-time volley off a megan rapinoe corner kick in the 45th minute. Wambach, whose goal was the 14th world cup goal in her career ( second-most all-time ) was restored to the starting lineup, and she began the game next to alex morgan, who earned the first world cup start of her career. Morgan made way for vancouver-area native sydney leroux in the 65th minute. The usa had a goal from center back julie johnston waved off early for an offside call, despite replays showing she was even with wambach on a squared header. Johnston then came up big for the usa defense, tracking back and making a potential goal-saving slide tackle by deflecting asisat oshoala's attempt from close range. With the shutout, johnston, hope solo &amp; co. Have not conceded a goal in 243 minutes. Nigeria goalkeeper precious dede kept the deficit at one through with a series of saves on her end, none bigger than her stopping morgan on the doorstep with a sliding stop just into the second half, after ali krieger had set morgan up with a cross from the right. Nigeria went down to 10 players in the 69th minute, when sarah nnodim was sent off for her second yellow card after sliding through leroux on a tackle. Late on, u.s. Veterans shannon boxx and christie rampone made their first appearances of the tournament, with rampone ( 39 ) becoming the oldest player to appear in a women's world cup match. With the win, the usa secured first place in its group, avoiding a round-of-16 matchup with brazil. Instead, the usa will play the third-place finisher from group b, e or f and is in line to play either china or cameroon in the quarterfinals, should it advance. Here's how the match unfolded: rosters goalkeepers: ashlyn harris ( washington spirit ), alyssa naeher ( boston breakers ), hope solo ( seattle reign fc ) defenders: lori chalupny ( chicago red stars ), whitney engen ( western ny flash ), julie johnston ( chicago red stars ), meghan klingenberg"
         ],
         "raw_document": [
             "Abby wambach's goal in the dying moments of the first half was enough to lift the u.s. Women's national team to a 1-0 win over nigeria, cementing a first-place finish in group d. Wambach, whose recent comments regarding playing on artificial turf have put her back in the spotlight, scored on a one-time volley off a megan rapinoe corner kick in the 45th minute. Wambach, whose goal was the 14th world cup goal in her career ( second-most all-time ) was restored to the starting lineup, and she began the game next to alex morgan, who earned the first world cup start of her career. Morgan made way for vancouver-area native sydney leroux in the 65th minute. The usa had a goal from center back julie johnston waved off early for an offside call, despite replays showing she was even with wambach on a squared header. Johnston then came up big for the usa defense, tracking back and making a potential goal-saving slide tackle by deflecting asisat oshoala's attempt from close range. With the shutout, johnston, hope solo &amp; co. Have not conceded a goal in 243 minutes. Nigeria goalkeeper precious dede kept the deficit at one through with a series of saves on her end, none bigger than her stopping morgan on the doorstep with a sliding stop just into the second half, after ali krieger had set morgan up with a cross from the right. Nigeria went down to 10 players in the 69th minute, when sarah nnodim was sent off for her second yellow card after sliding through leroux on a tackle. Late on, u.s. Veterans shannon boxx and christie rampone made their first appearances of the tournament, with rampone ( 39 ) becoming the oldest player to appear in a women's world cup match. With the win, the usa secured first place in its group, avoiding a round-of-16 matchup with brazil. Instead, the usa will play the third-place finisher from group b, e or f and is in line to play either china or cameroon in the quarterfinals, should it advance. Here's how the match unfolded: rosters goalkeepers: ashlyn harris ( washington spirit ), alyssa naeher ( boston breakers ), hope solo ( seattle reign fc ) defenders: lori chalupny ( chicago red stars ), whitney engen ( western ny flash ), julie johnston ( chicago red stars ), meghan klingenberg",
@@ -2667,7 +2653,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2697,12 +2683,11 @@
     },
     {
         "idx": 5698,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Jeremiah wright may not be making an appearance in the 2012 election after all. A new york times story today created a buzz because it said billionaire conservative donor joe ricketts was considering an ad strategy to go after president obama's old ties to the volatile minister. Today, ricketts issued a statement via a spokesman rejecting the idea, reports the wall street journal. \" not only was this plan merely a proposal... It reflects an approach to politics that mr. Ricketts rejects, \" said the statement. Ricketts will try to help defeat obama, it adds, \" but his efforts are and will continue to be focused entirely on questions of fiscal policy, not attacks that seek to divide us socially or culturally. \" mitt romney, too, dismissed the idea, notes politico. \" i want to make it very clear, i repudiate that effort, \" he said. \" i think it's the wrong course for a pac or a campaign. I hope that our campaigns can respectively be about the future and about issues and about a vision for america. \"",
         "split": "train",
         "cleansed_document": [
-            "Via politico's juana summers, mitt romney's latest comments in the jeremiah wright back-and-forth: \" i want to make it very clear, i repudiate that effort. I think it's the wrong course for a pac or a campaign. I hope that our campaigns can respectively be about the futures and about issues and about a vision for america, \" romney told reporters thursday. \" i've been disappointed in the president's campaign to date, which has been focused on character assassination. I just think that we're wiser to talk about the issues of the day, what we do to get america working again, talk about our respective records. \" … romney was also questioned about a february appearance on sean hannity's radio show in which he brought up wright himself during the gop primary, but said he was unfamiliar with the specific quote. \" i ' m actually — i ' m not familiar with precisely, exactly what i said. But i stand by what i said, whatever it was. And with regards to — i ' ll go back and take a look at what was said there, \" he said.",
-            "The group suggested hiring as a spokesman an \"extremely literate conservative african-american \" who can argue that mr. Obama misled the nation by presenting himself as what the proposal calls a \"metrosexual, black abe lincoln. \" a copy of a detailed advertising plan was obtained by the new york times through a person not connected to the proposal who was alarmed by its tone. It is titled \"the defeat of barack hussein obama: the ricketts plan to end his spending for good. \" the proposal was presented last week in chicago to associates and family members of mr. Ricketts, who is also the patriarch of the family that owns the chicago cubs. Brian baker, president and general counsel of a super pac called the ending spending action fund, said mr. Ricketts had studied several advertising proposals in recent months and had not signed off on a specific approach to taking on mr. Obama. \"joe ricketts is prepared to spend significant resources in the 2012 election in both the presidential race and congressional races, \" mr. Baker said in an interview wednesday. \"he is very concerned about the future direction of the country and plans to take a stand. \" the document makes clear that the effort is only in the planning stages and awaiting full approval from mr. Ricketts. People involved in the planning said the publicity now certain to surround it could send the strategists back to the drawing board. But it serves as a rare, detailed look at the birth of the sort of political sneak attack that has traditionally"
+            "Via politico's juana summers, mitt romney's latest comments in the jeremiah wright back-and-forth: \" i want to make it very clear, i repudiate that effort. I think it's the wrong course for a pac or a campaign. I hope that our campaigns can respectively be about the futures and about issues and about a vision for america, \" romney told reporters thursday. \" i've been disappointed in the president's campaign to date, which has been focused on character assassination. I just think that we're wiser to talk about the issues of the day, what we do to get america working again, talk about our respective records. \" … romney was also questioned about a february appearance on sean hannity's radio show in which he brought up wright himself during the gop primary, but said he was unfamiliar with the specific quote. \" i ' m actually — i ' m not familiar with precisely, exactly what i said. But i stand by what i said, whatever it was. And with regards to — i ' ll go back and take a look at what was said there, \" he said."
         ],
         "raw_document": [
             "Via politico's juana summers, mitt romney's latest comments in the jeremiah wright back-and-forth: \" i want to make it very clear, i repudiate that effort. I think it's the wrong course for a pac or a campaign. I hope that our campaigns can respectively be about the futures and about issues and about a vision for america, \" romney told reporters thursday. \" i've been disappointed in the president's campaign to date, which has been focused on character assassination. I just think that we're wiser to talk about the issues of the day, what we do to get america working again, talk about our respective records. \" … romney was also questioned about a february appearance on sean hannity's radio show in which he brought up wright himself during the gop primary, but said he was unfamiliar with the specific quote. \" i ' m actually — i ' m not familiar with precisely, exactly what i said. But i stand by what i said, whatever it was. And with regards to — i ' ll go back and take a look at what was said there, \" he said.",
@@ -2717,7 +2702,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {

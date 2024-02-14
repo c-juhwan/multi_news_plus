@@ -90,7 +90,7 @@
     },
     {
         "idx": 36603,
-        "document_num": 6,
+        "document_num": 5,
         "summary": "With their surreal and sometimes bizarre lives, it's not surprising that celebrities are occasionally the subjects of college-level classes ( the sociology of miley cyrus, anyone? ), but some a-listers have also been inspired to get behind the lecture podium, too. Below are eight celebs who've moonlighted as college professors: amal clooney: george clooney recently admitted that \" my wife is the smart one, \" and it seems that new york's columbia law school agrees. The ivy league university invited the human-rights attorney to join the faculty as a guest lecturer this spring. Kanye west: when he's not interrupting speeches at award shows and getting papped with wife kim kardashian, the college-dropout-turned-rapper has imparted his own special brand of wisdom to students at oxford, harvard, and... An la community college. James franco: not content with a career as an oscar-nominated actor, franco's diverse work experience includes stints teaching filmmaking and screenwriting at nyu, usc, and ucla. In 2011, it was reported that he was also developing a college course on a subject he knows better than anyone: himself. Oprah winfrey: accompanied by multiple bodyguards, the former talk show host and self-made billionaire taught an undergraduate class on \" the dynamics of leadership \" for several semesters at northwestern university's business school. Kevin spacey: in 2008, the house of cards star was a visiting professor at oxford, where he taught theater. The actor revealed that, following the appointment, his friends began to refer to him as \" professor spacey. \" alec baldwin: the fiery former 30 rock actor and long island native taught a special summer acting workshop at southampton college of long island university from 2003 to 2008. Questlove: he's best known as the house drummer on the tonight show starring jimmy fallon, but some lucky nyu students also know him as \" teach. \" the roots musician taught courses on prince and other musical topics to tisch students in 2013 and 2014. Kal penn: having an acting performance critiqued in a magazine is something most actors learn to deal with, but the harold &amp; kumar actor might have been surprised to see a review of his teaching abilities from a student who took his \" contemporary american teen films \" class at the university of pennsylvania printed in new york magazine. Luckily, the review was positive. Wrote the student: \" he is awesome and funny as hell! \" click to find out which surprising celebrities were teachers before becoming famous.",
         "split": "train",
         "cleansed_document": [
@@ -98,8 +98,7 @@
             "See also: *more l.a. Weekly film coverage continue reading james franco: actor, director, screenwriter, poet, painter and now professor. In the fall, the man with many talents decided to take his gifts and share them with the students of ucla. Franco",
             "With baby mama kim kardashian proudly looking on, kanye west delivered a lecture at harvard's graduate school of design sunday, and we've got all the details for you right here on radaronline.com. The new workout plan singer, who performed in boston later than night",
             "The registrar's office at the university of southern california is about to get very busy. James franco, the actor-oscar-host-soap-star-artist-poet-novelist, is set to teach a film production class at usc next spring, according to an email sent to usc film students from the school of",
-            "To enroll in oprah winfrey's class, kellogg students have to use more than half of their allotted \"class points \" for the year. To actually enter the james l. Allen center classroom, they have to get past four security guards with wires hanging from their",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the"
+            "To enroll in oprah winfrey's class, kellogg students have to use more than half of their allotted \"class points \" for the year. To actually enter the james l. Allen center classroom, they have to get past four security guards with wires hanging from their"
         ],
         "raw_document": [
             "Kevin spacey is only joking. The oscar-winning hollywood actor and artistic director of the old vic takes his duties seriously and has already mapped out his plans to bring a hard-nosed, practical perspective to the emerging young talents of academia while at the same time giving them the",
@@ -130,7 +129,7 @@
             "6": 1,
             "7": 5,
             "8": 1,
-            "9": 0
+            "9": 4
         }
     },
     {
@@ -155,7 +154,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -257,17 +256,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 36609,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "We all know la has a traffic problem, but honolulu? it's no. 2 in the nation, finds the daily beast, which crunched the numbers to rank america's 75 worst commutes. Some of the highlights: no. 3, capital beltway, washington, dc: this slow moving route totals an average of 194 hours of congestion per week. \" it's a rough road, \" says a local transportation reporter. No. 6, cross bronx expressway, new york: the city that never sleeps misses the top 5, but the cross bronx still sounds pretty bad: \" there's no room to expand, there's no way to throw in an additional lane or an additional shoulder. \" skip it, or don't drive. No. 27, i-10, new orleans: to the list of the big easy's seemingly intractable problems, add gridlock. Click here to see how your commute stacks up.",
         "split": "train",
         "cleansed_document": [
-            "#2, lunalilo freeway ( h-1 ), honolulu weekly hours of bottleneck congestion: 347 worst bottleneck: eastbound, s vineyard blvd/ward ave length of worst bottleneck:.82 mi weekly hours of congestion on worst bottleneck: 36 speed of worst bottleneck when congested: 16.4 mph the expert opinion: \"there are only three lanes in either direction on lunalilo freeway through town, making it slow wherever there is a merge, \" says kssk traffic reporter jason yotsuda in an email. \"not much can be done there. \" #3, capital beltway, surrounds washington dc weekly hours of bottleneck congestion: 194 worst bottleneck: southbound, exit 2a-b length of worst bottleneck: 1.26 mi weekly hours of congestion on worst bottleneck: 31 speed of worst bottleneck when congested: 21.2 mph the expert opinion: \"it's a rough road, \" says adam tuss, transportation reporter for wtop 103.5. \"it has lots of twists and turns, people speed on it and it's got a lot of slow points too. It's certainly not a freeway without its challenges. \" #4, i-35, austin weekly hours of bottleneck congestion: 460 worst bottleneck: northbound, riverside dr length of worst bottleneck:.92 mi weekly hours of congestion on worst bottleneck: 47 speed of worst bottleneck when congested: 16.2 mph the expert opinion: \"it's",
-            "Richard vogel / ap photo they are the highways to hell in the country's most gridlocked cities. The daily beast crunches the numbers to determine your ultimate morning nightmares. How did your commute rank? bumper-to-bumper traffic is america's collective nightmare, and like the movie groundhog day it repeats on a daily basis. Congestion consumes billions of gallons of fuel, wastes hundreds of billions of dollars in productivity and causes billions of stress headaches. Yet over 100 million automobile commuters each day feel like they have little option. \"we put so much of our national wealth and our identity into the whole motoring thing, \" says james howard kunstler, author of geography of nowhere, \"that we can't imagine doing something different. \" anthony downs, author of stuck in traffic has identified four reasons for america's congestion problem, also applicable to most european and asian economies: first, most of us work during the same hours of the day; second, the country's economic success has allowed households to buy multiple cars; third, there are more people now than when most roadways were conceived; fourth, more cars means more accidents which means more delays. In other words, this problem isn't going anywhere. So the daily beast set out to figure out the worst of the worst. The"
+            "#2, lunalilo freeway ( h-1 ), honolulu weekly hours of bottleneck congestion: 347 worst bottleneck: eastbound, s vineyard blvd/ward ave length of worst bottleneck:.82 mi weekly hours of congestion on worst bottleneck: 36 speed of worst bottleneck when congested: 16.4 mph the expert opinion: \"there are only three lanes in either direction on lunalilo freeway through town, making it slow wherever there is a merge, \" says kssk traffic reporter jason yotsuda in an email. \"not much can be done there. \" #3, capital beltway, surrounds washington dc weekly hours of bottleneck congestion: 194 worst bottleneck: southbound, exit 2a-b length of worst bottleneck: 1.26 mi weekly hours of congestion on worst bottleneck: 31 speed of worst bottleneck when congested: 21.2 mph the expert opinion: \"it's a rough road, \" says adam tuss, transportation reporter for wtop 103.5. \"it has lots of twists and turns, people speed on it and it's got a lot of slow points too. It's certainly not a freeway without its challenges. \" #4, i-35, austin weekly hours of bottleneck congestion: 460 worst bottleneck: northbound, riverside dr length of worst bottleneck:.92 mi weekly hours of congestion on worst bottleneck: 47 speed of worst bottleneck when congested: 16.2 mph the expert opinion: \"it's"
         ],
         "raw_document": [
             "#2, lunalilo freeway ( h-1 ), honolulu weekly hours of bottleneck congestion: 347 worst bottleneck: eastbound, s vineyard blvd/ward ave length of worst bottleneck:.82 mi weekly hours of congestion on worst bottleneck: 36 speed of worst bottleneck when congested: 16.4 mph the expert opinion: \"there are only three lanes in either direction on lunalilo freeway through town, making it slow wherever there is a merge, \" says kssk traffic reporter jason yotsuda in an email. \"not much can be done there. \" #3, capital beltway, surrounds washington dc weekly hours of bottleneck congestion: 194 worst bottleneck: southbound, exit 2a-b length of worst bottleneck: 1.26 mi weekly hours of congestion on worst bottleneck: 31 speed of worst bottleneck when congested: 21.2 mph the expert opinion: \"it's a rough road, \" says adam tuss, transportation reporter for wtop 103.5. \"it has lots of twists and turns, people speed on it and it's got a lot of slow points too. It's certainly not a freeway without its challenges. \" #4, i-35, austin weekly hours of bottleneck congestion: 460 worst bottleneck: northbound, riverside dr length of worst bottleneck:.92 mi weekly hours of congestion on worst bottleneck: 47 speed of worst bottleneck when congested: 16.2 mph the expert opinion: \"it's",
@@ -282,7 +280,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -310,17 +308,16 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 36611,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "They're good at finding dead bears, live snakes, and even human skulls, but what tsa agents don't find enough of are the fake explosives and weapons that undercover homeland security agents tried to smuggle past them. The results were downright dismal: tsa agents failed 67 out of 70 tests — that's 95 % of them — conducted by red team operatives, agents posing as passengers who devised the most devious ways to sneak items past the screeners, abc news reports. The testing dates haven't been revealed, officials briefed on a \" recent \" homeland security ig report say, but abc notes that homeland security chief jeh johnson was said to be so \" frustrated \" by the findings that he demanded a meeting last week at tsa headquarters. According to the tsa blog, the agency had a \" busy year \" in 2014, checking out more than 653 million passengers and finding more than 2,200 firearms. But red team members — once described by a tsa administrator as \" super terrorists \" familiar with every weakness — got around security in astounding numbers. One undercover agent set off a magnetization alarm but still got through with a fake explosive taped to his back, even after a follow-up pat-down. Meanwhile, a dhs statement says some vulnerabilities have been addressed: \" upon learning the initial findings, secretary johnson immediately directed tsa to implement a series of actions, several of which are now in place. \" ( tsa agents did find a mother lode of weapons, ammo, and drugs one woman tried to smuggle in cat litter. )",
         "split": "train",
         "cleansed_document": [
-            "If you have ever stood in line at airport security, you will know that no matter how many signs they post, or how curtly they shout at you, there is always that one person who fails to follow the directions about what you can and cannot pack in your carry-on bag. Just last month a man was cited when officers discovered a loaded gun in his toiletry bag as he was passing through security at ronald reagan airport in washington, dc. It doesn't take a genius to know that as a regular passenger, you can't bring a deadly weapon on board. But flying in the face of common sense — and despite the fact that it could be against the law or potentially lead to criminal charges and huge fines — people attempt to take crazy things on planes all the time. Firearms and ammunition are just the tip of the iceberg. In fact, there are so many scary and strange items, the people at the transportation security administration ( tsa ) have decided to show the world, via instagram, the insane stuff people try to smuggle through the scanners, whether intentional or not. Here are our top 20 things discovered by the tsa. Hand grenade this scary-looking grenade was found in a carry-on bag at austin-bergstrom international airport. Thank goodness it was inert — which, by",
-            "Every day, transportation security officers interact with nearly two million travelers across the united states with a single goal in mind – ensuring the safety and security of the traveling public. We want to share with you examples of the continued vigilance of tsa officers in protecting our nation's transportation systems, including some of the most unusual items discovered at checkpoints. More than 653 million passengers in 2014 ( about 1.8 million per day ), which is 14.8 million more passengers than tsa had a busy year in 2014, screeningpassengers in 2014 ( aboutper day ), which ismore passengers than last year 2,212 firearms were discovered in carry-on bags at checkpoints across the country, averaging more than six firearms per day. Of those, 1,835 ( 83 percent ) were loaded. Firearms were intercepted at a total of 224 airports; 19 more airports than last year. There was a 22 percent increase in firearm discoveries from last year's total of 1,813. These are just some of the 2,212 firearms discovered in carry-on bags in 2014. Top 10 airports for gun catches in 2014 dallas/fort worth international airport ( dfw ): 120 hartsfield-jackson atlanta international airport ( atl ): 109 phoenix sky harbor international airport ( phx ): 78 george bush intercontinental airport ( iah ): 77 denver international airport ( den ): 70 william p. Hobby airport ( hou"
+            "If you have ever stood in line at airport security, you will know that no matter how many signs they post, or how curtly they shout at you, there is always that one person who fails to follow the directions about what you can and cannot pack in your carry-on bag. Just last month a man was cited when officers discovered a loaded gun in his toiletry bag as he was passing through security at ronald reagan airport in washington, dc. It doesn't take a genius to know that as a regular passenger, you can't bring a deadly weapon on board. But flying in the face of common sense — and despite the fact that it could be against the law or potentially lead to criminal charges and huge fines — people attempt to take crazy things on planes all the time. Firearms and ammunition are just the tip of the iceberg. In fact, there are so many scary and strange items, the people at the transportation security administration ( tsa ) have decided to show the world, via instagram, the insane stuff people try to smuggle through the scanners, whether intentional or not. Here are our top 20 things discovered by the tsa. Hand grenade this scary-looking grenade was found in a carry-on bag at austin-bergstrom international airport. Thank goodness it was inert — which, by"
         ],
         "raw_document": [
             "If you have ever stood in line at airport security, you will know that no matter how many signs they post, or how curtly they shout at you, there is always that one person who fails to follow the directions about what you can and cannot pack in your carry-on bag. Just last month a man was cited when officers discovered a loaded gun in his toiletry bag as he was passing through security at ronald reagan airport in washington, dc. It doesn't take a genius to know that as a regular passenger, you can't bring a deadly weapon on board. But flying in the face of common sense — and despite the fact that it could be against the law or potentially lead to criminal charges and huge fines — people attempt to take crazy things on planes all the time. Firearms and ammunition are just the tip of the iceberg. In fact, there are so many scary and strange items, the people at the transportation security administration ( tsa ) have decided to show the world, via instagram, the insane stuff people try to smuggle through the scanners, whether intentional or not. Here are our top 20 things discovered by the tsa. Hand grenade this scary-looking grenade was found in a carry-on bag at austin-bergstrom international airport. Thank goodness it was inert — which, by",
@@ -335,18 +332,17 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 36612,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Police staking out a squalid houston home have uncovered the city's largest stash house in recent years, and it's pretty grim: the building was covered in human waste, had no hot water, and just one partially-working toilet for the more than 100 people held hostage inside. After a tip that human smugglers were demanding more money of a woman they helped bring across the border from mexico, along with her two children, police entered the home yesterday to find a \" sea of people coming at the officers as they entered, \" a police rep tells the houston chronicle. Among the \" hungry, thirsty, and exhausted \" hostages — some had been held there for more than two weeks — were 94 men, 14 women, and two children, aged 5 and 7. \" the smell and conditions were just awful, \" the police rep continues, describing \" bodies upon bodies, people stacked on top of each other. Dirty, filthy, conditions, \" per kprc. Hostages were kept shoeless — to make it harder to run away — and males could only wear underwear. \" this case demonstrates the human tragedy that occurs as a result of our broken borders, \" says rep. Mike mccaul. \" last year over 100,000 people entered the united states illegally through texas alone and the department of homeland security has no plan to stop the flow. \" five smugglers have been arrested, khou reports, while most of the hostages — believed to be from central american countries — were sent to a detention facility to be examined; they are now likely to be deported, the chronicle notes.",
         "split": "train",
         "cleansed_document": [
             "More than 100 people found in suspected stash house acting on tip, officers enter harris county house and encounter imprisoned'sea of people'the phone call to police was a plea to help save a family held by smugglers. But when authorities raided the south harris county home which they believed held the woman and children wednesday, they found 110 people imprisoned in a packed, rancid \" stash house \" where smugglers had locked them away pending payment for their freedom. A tipster had told authorities the night before that he was being extorted by smugglers, and feared for the safety of relatives from central america. The tipster had said that a coyote drop of the mother, her 7-year-old daughter and 5-year-old son was supposed to have taken place tuesday on houston's north side, but it didn't happen and they were missing. Police have not explained what led them to",
-            "2 children among more than 100 people held hostage in houston stash house houston — more than 100 suspected illegal immigrants were found living in deplorable conditions in a south houston stash house wednesday, police said. The men, women and children were held against their will by smugglers or coyotes. One officer described the inside of the home in the 14700 block of almeda school road as \" awful. \" \" there is no hot water in the house. There is a toilet that partially works — one bathroom for in excess of 100 people, \" said hpd spokesman john cannon. Police said there was human waste all over the house. The victims included a 24-year-old pregnant woman and her two children, ages 5 and 7. \" the children were scared, \" said noland luke, a neighbor. \" they brought them out, they crying and carrying on. Feel sorry for them",
-            "Troubling and will continue to provide law enforcement with all available resources and assistance. Now the immigration bust. More than 100 immigrants were found stuffed in a south harris county home held against their will and forced to live in horrible conditions. \" local 2 \"'s andy cerota joins us live from this home with the very latest. Reporter: the stash house here behind me has been sealed shut. All of the doors, all of the windows as the investigation out here continues tonight. Houston police say that some of the captives told them that they've been held here against their will from two days up to two weeks. A team of spca workers and investigators worked well into the night collecting at least 250 roosters and hens from the south side property where police discovered scores of undocumented immigrants. 94 men, 45 women, one of them pregnant, and"
+            "2 children among more than 100 people held hostage in houston stash house houston — more than 100 suspected illegal immigrants were found living in deplorable conditions in a south houston stash house wednesday, police said. The men, women and children were held against their will by smugglers or coyotes. One officer described the inside of the home in the 14700 block of almeda school road as \" awful. \" \" there is no hot water in the house. There is a toilet that partially works — one bathroom for in excess of 100 people, \" said hpd spokesman john cannon. Police said there was human waste all over the house. The victims included a 24-year-old pregnant woman and her two children, ages 5 and 7. \" the children were scared, \" said noland luke, a neighbor. \" they brought them out, they crying and carrying on. Feel sorry for them"
         ],
         "raw_document": [
             "More than 100 people found in suspected stash house acting on tip, officers enter harris county house and encounter imprisoned'sea of people'the phone call to police was a plea to help save a family held by smugglers. But when authorities raided the south harris county home which they believed held the woman and children wednesday, they found 110 people imprisoned in a packed, rancid \" stash house \" where smugglers had locked them away pending payment for their freedom. A tipster had told authorities the night before that he was being extorted by smugglers, and feared for the safety of relatives from central america. The tipster had said that a coyote drop of the mother, her 7-year-old daughter and 5-year-old son was supposed to have taken place tuesday on houston's north side, but it didn't happen and they were missing. Police have not explained what led them to",
@@ -363,17 +359,16 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 36613,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The latest census bureau numbers mark a milestone for the hispanic population in the us — the figure exceeds 50 million for the first time. The total ( 50,477,594 to be exact ) is a 43 % increase from a decade ago, reports cnn. Related stats: hispanics, now the nation's second largest population group, make up 16 % of the population. Latinos accounted for more than half of the nation's overall growth of 27.3 million. ( the new total is 308.7 million. ) about 1 in 4 kids under 18 are hispanic. Whites grew by 2.2 million to 196.8 million, though their share of the overall population shrank from 69 % to 64 %. Asians grew 43 %, from 10.2 million to 14.7 million. That's 5 % of the population. African-americans grew by 4.3 million to 40 million, or about 12.6 % of the population. The hispanic population more than doubled in nine states, including alabama, kentucky, and maryland, notes abc. In new mexico, the hispanic population ( 46 % ) exceeds the white population ( 40 % ) for the first time. Click here for more on the hispanic surge or here to see the nation's new population center.",
         "split": "train",
         "cleansed_document": [
-            "M. Spencer green, ap sponsored links washington -- the hispanic population topped 50 million for the first time, new census data shows, as latinos became the second-largest population group in the united states.the census bureau today released its final numbers for the 2010 census, which show how rapid growth of the asian and hispanic population dramatically transformed the u.s. Into a more ethnically diverse country than it was 10 years ago.the swelling hispanic population made up more than half the 27.3 million increase in population in the u.s. Since 2000. While the nation's population grew by 9.7 percent in the past decade to 308.7 million people, the hispanic population grew by 43 percent to 50.5 million.in at least nine states, the hispanic population more than doubled. Large concentrations of latinos live along the atlantic seaboard, across the south, from texas to california, and along the pacific coast, said nicholas jones, a census bureau demographer.a fox news reporter asked what part of the soaring hispanic numbers can be attributed to hispanics in the country illegally, but jones declined to speculate. He said the census bureau is still analyzing the figures.the asian population grew faster than any other race group. About 14.7 million people, or 5 percent, identified themselves as asian alone.in contrast, the non-hispanic population grew by about 5 percent, and the white population all but stagnated, with an",
-            "The american landscape shifted dramatically during the past 10 years and the population center of the country moved about 40 miles west from edgar springs, mo., in 2000, to plato, mo., population 109. The census bureau announced the mean center of population as 2.7 miles northeast of plato -- an hour's drive south and west of the population center 10 years go. In 2000, the population center of the country rested in phelps county, mo., and in 1790, the year washington, d.c. Was named the nation's capital, the mean center of population sat in kent county, md. The mean center represents the middle of the nation's population distribution. Over the past decade, the country's population bent further west and became more hispanic, multi-racial and mobile, with people moving toward the sun belt and away from cities to suburbs. The final local data from the 2010 census released today reveals a significant change in the racial composition of the country. \" the minority population is going to make up an even larger share of the nation's growth than it did in the 1990s, \" said william frey, a demographer at the brookings institution. \" people are going to appreciate more why the minority growth is important in the u.s. \" the expansion in the hispanic or latino population"
+            "M. Spencer green, ap sponsored links washington -- the hispanic population topped 50 million for the first time, new census data shows, as latinos became the second-largest population group in the united states.the census bureau today released its final numbers for the 2010 census, which show how rapid growth of the asian and hispanic population dramatically transformed the u.s. Into a more ethnically diverse country than it was 10 years ago.the swelling hispanic population made up more than half the 27.3 million increase in population in the u.s. Since 2000. While the nation's population grew by 9.7 percent in the past decade to 308.7 million people, the hispanic population grew by 43 percent to 50.5 million.in at least nine states, the hispanic population more than doubled. Large concentrations of latinos live along the atlantic seaboard, across the south, from texas to california, and along the pacific coast, said nicholas jones, a census bureau demographer.a fox news reporter asked what part of the soaring hispanic numbers can be attributed to hispanics in the country illegally, but jones declined to speculate. He said the census bureau is still analyzing the figures.the asian population grew faster than any other race group. About 14.7 million people, or 5 percent, identified themselves as asian alone.in contrast, the non-hispanic population grew by about 5 percent, and the white population all but stagnated, with an"
         ],
         "raw_document": [
             "M. Spencer green, ap sponsored links washington -- the hispanic population topped 50 million for the first time, new census data shows, as latinos became the second-largest population group in the united states.the census bureau today released its final numbers for the 2010 census, which show how rapid growth of the asian and hispanic population dramatically transformed the u.s. Into a more ethnically diverse country than it was 10 years ago.the swelling hispanic population made up more than half the 27.3 million increase in population in the u.s. Since 2000. While the nation's population grew by 9.7 percent in the past decade to 308.7 million people, the hispanic population grew by 43 percent to 50.5 million.in at least nine states, the hispanic population more than doubled. Large concentrations of latinos live along the atlantic seaboard, across the south, from texas to california, and along the pacific coast, said nicholas jones, a census bureau demographer.a fox news reporter asked what part of the soaring hispanic numbers can be attributed to hispanics in the country illegally, but jones declined to speculate. He said the census bureau is still analyzing the figures.the asian population grew faster than any other race group. About 14.7 million people, or 5 percent, identified themselves as asian alone.in contrast, the non-hispanic population grew by about 5 percent, and the white population all but stagnated, with an",
@@ -388,7 +383,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -418,12 +413,11 @@
     },
     {
         "idx": 36615,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Don't call the wisconsin public employees greedy — despite generous benefits, they actually earn 4.8 % less than comparable private sector workers, reports the wisconsin state journal. Public sector workers have higher salaries than average because their jobs require more education than average, too: in fact, a typical wisconsin public employee with a bachelor's degree earns less than $ 62,000 a year, compared to more than $ 82,000 in the private sector. Many trade private sector cash for public sector benefits and stability — precisely what \" walker is trying to take away, \" grouses one public employee. Proposed cuts have turned out protesters, counter-protesters, tea partiers, and others to the statehouse for five consecutive days, with numbers reaching 70,000 yesterday. \" i just think these people are so entitled, \" one pro-cutback woman tells the wall street journal. \" who do they think is paying for all this? \"",
         "split": "train",
         "cleansed_document": [
-            "Gov. Scott walker argues that public employees can sacrifice more of their paychecks for health insurance and retirement because they pay so little for those benefits compared to workers at private companies. Walker is correct about the disparity, but a new report by the liberal economic policy institute suggests that looking at benefits alone is misleading. The study looks at total compensation — pay and benefits together — and found that public workers earn 4.8 percent less than private sector employees with the same qualifications and traits doing similar jobs. Average compensation for public workers is higher because the jobs they do — such as teaching — require a relatively high level of education, and a higher education is one of the main factors that drives wages up, said ethan pollack, a senior policy analyst at the institute. Yet the typical wisconsin public sector employee with a bachelor's degree makes less than $ 62,000, compared to more than $ 82,000 in the private sector, pollack said. Public employee groups such as teachers have made concessions on wages in order to keep solid benefits, said andrew reschovsky, uw-madison professor of public affairs and applied economics. Now politicians are focusing on those benefits as they look for spending cuts. Greg gelbach of lancaster said that today he's questioning his 1995 decision to trade money for security. Gelbach said he quit working",
-            "Associated press protesters gathered outside the state capitol in madison, wis. On saturday. Madison, wis. — as union supporters geared up for their for sixth day of protests at the wisconsin capitol, gov. Scott walker reiterated sunday that he wouldn't compromise on the issue that had mobilized them, a bill that would eliminate most of public employees ' collective bargaining rights. Democratic lawmakers have said they and union members would agree to financial concessions that the republican governor wants in exchange for workers keeping their collective-bargaining rights. But mr. Walker said he wasn't willing to budge, and he expected the bill to pass as is. \" we're willing to take this as long as it takes because in the end we're doing the right thing, \" he told fox news from madison. Tea party members show support for bill view slideshow reuters people show their support for gov. Scott walker at the wisconsin state capitol. On saturday, public employee union members protesting against the bill were met by several thousand counter demonstrators from the tea party waving \" don't tread on me \" flags and shouting \" pass the bill! \" officials estimated the total number of people in and around the statehouse near 70,000. The clash of ideologies and values between the groups made for a loud and rambunctious afternoon which saw red-faced"
+            "Gov. Scott walker argues that public employees can sacrifice more of their paychecks for health insurance and retirement because they pay so little for those benefits compared to workers at private companies. Walker is correct about the disparity, but a new report by the liberal economic policy institute suggests that looking at benefits alone is misleading. The study looks at total compensation — pay and benefits together — and found that public workers earn 4.8 percent less than private sector employees with the same qualifications and traits doing similar jobs. Average compensation for public workers is higher because the jobs they do — such as teaching — require a relatively high level of education, and a higher education is one of the main factors that drives wages up, said ethan pollack, a senior policy analyst at the institute. Yet the typical wisconsin public sector employee with a bachelor's degree makes less than $ 62,000, compared to more than $ 82,000 in the private sector, pollack said. Public employee groups such as teachers have made concessions on wages in order to keep solid benefits, said andrew reschovsky, uw-madison professor of public affairs and applied economics. Now politicians are focusing on those benefits as they look for spending cuts. Greg gelbach of lancaster said that today he's questioning his 1995 decision to trade money for security. Gelbach said he quit working"
         ],
         "raw_document": [
             "Gov. Scott walker argues that public employees can sacrifice more of their paychecks for health insurance and retirement because they pay so little for those benefits compared to workers at private companies. Walker is correct about the disparity, but a new report by the liberal economic policy institute suggests that looking at benefits alone is misleading. The study looks at total compensation — pay and benefits together — and found that public workers earn 4.8 percent less than private sector employees with the same qualifications and traits doing similar jobs. Average compensation for public workers is higher because the jobs they do — such as teaching — require a relatively high level of education, and a higher education is one of the main factors that drives wages up, said ethan pollack, a senior policy analyst at the institute. Yet the typical wisconsin public sector employee with a bachelor's degree makes less than $ 62,000, compared to more than $ 82,000 in the private sector, pollack said. Public employee groups such as teachers have made concessions on wages in order to keep solid benefits, said andrew reschovsky, uw-madison professor of public affairs and applied economics. Now politicians are focusing on those benefits as they look for spending cuts. Greg gelbach of lancaster said that today he's questioning his 1995 decision to trade money for security. Gelbach said he quit working",
@@ -438,7 +432,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -465,7 +459,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -551,14 +545,13 @@
     },
     {
         "idx": 36620,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Police released the 911 phone call made by jovan belcher's mother in the moments after the linebacker fatally shot his girlfriend, and it's as wrenching as you'd expect. \" oh my god. Oh my god. Cassie, \" cheryl shepherd sobs over the wails of belcher's infant daughter, reports cnn. She continues: \" she is still breathing but barely. Please hurry. I don't know how many times he shot her. They had been arguing... She's just barely. She is moving when i talk to her.... You hear me? kasandra! hey! stay with me! \" when a police officer joins the line and begins to ask for details about her son's whereabouts, shepherd falls silent, though the baby's cries can still be heard. More on the story: police also shared more details about their early-morning interaction with belcher on the day of the shooting, reports the kansas city star. Around 3am police found belcher sleeping in his car outside an apartment building 10 miles from the home he shared with perkins. When they asked what he was doing there, he said he was supposed to visit his \" girlfriend, \" but that she wasn't home. He made a phone call and was let into the building by a resident; the girl's roommate told police belcher slept on the couch until 6: 30am, about 1 hour and 20 minutes before police were notified of the shooting. Sports illustrated shares details of an eerie text message exchange between belcher and an old college teammate the day before the shooting. After texting that his daughter was \" a blessing, she makes me smile on the worst day, \" his friend joked that belcher would need a gun to keep the boys away. He responded, \" yea man i got about 8 guns now, from hand gunz to assault rifles for her little bf's. \" just how aware was belcher's team of his relationship problems? the star reports that the team had provided counseling to the couple.",
         "split": "train",
         "cleansed_document": [
             "Story highlights police: jovan belcher fatally shot his girlfriend, with their baby daughter in another room he then shot himself in front of coaches as officers pull up, police say authorities release 911 tapes of the day of the shooting inside the kansas city home that jovan belcher fled, his baby daughter wailed, his mother was in hysterics and his girlfriend was quiet. Barely breathing. This is what the nfl linebacker left behind on saturday in a rush of violence that left many wondering why. Few answers came from 911 tapes released this week by police. But the tapes provide a heartbreaking soundtrack of the fleeting moments the morning that police say belcher killed his girlfriend",
             "Kansas city chiefs linebacker jovan belcher is shown during an nfl game against the atlanta falcons. Seconds after fatally shooting his longtime girlfriend, kansas city chiefs linebacker jovan belcher leaned over her in their master bathroom, said he was sorry and kissed her on the forehead. His mother, who heard gunfire as she stood in the kitchen, rushed to her sons bedroom and watched his remorseful goodbye. Belcher apologized to his mother, kissed his 3-month-old daughter and fled his rented home in the 5400 block of crysler avenue in his bentley. The star learned those details and others from multiple police sources monday as officers continued their investigation into why belcher, 25, killed his",
-            "Chiefs linebacker jovan belcher spent part of the night at a woman's apartment and stayed until 6: 30 a.m. Saturday before going home, killing his longtime girlfriend and later himself, kansas city police said tuesday. • 8: 01 a.m.: police called to arrowhead stadium practice facility on a disturbance involving an armed person in the parking lot. • 2: 59 a.m.: two officers are sent to check out the car. • 1 a.m.: perkins, who has arrived home on crysler avenue, argues with belcher. She later phones a friend about the argument but doesn't say whether it happened in person or by phone. • midnight to",
-            "After hearing the details of how jovan belcher murdered his girlfriend, his friends and family are left to wonder who they really knew. Jamie squire/getty images this story appears in the dec. 10, 2012, issue of sports illustrated. Buy the digital version of the magazine here. For a thanksgiving video on the chiefs ' website, fourth-year linebacker jovan belcher smiled into the camera and shared what he was thankful for: \" first and foremost, god, family and friends just keeping me focused. \" to friends in private, his recent messages were more complex and unrecognizable as having come from the same person. Reggie paramoure, who played on defense with belcher at"
+            "Chiefs linebacker jovan belcher spent part of the night at a woman's apartment and stayed until 6: 30 a.m. Saturday before going home, killing his longtime girlfriend and later himself, kansas city police said tuesday. • 8: 01 a.m.: police called to arrowhead stadium practice facility on a disturbance involving an armed person in the parking lot. • 2: 59 a.m.: two officers are sent to check out the car. • 1 a.m.: perkins, who has arrived home on crysler avenue, argues with belcher. She later phones a friend about the argument but doesn't say whether it happened in person or by phone. • midnight to"
         ],
         "raw_document": [
             "Story highlights police: jovan belcher fatally shot his girlfriend, with their baby daughter in another room he then shot himself in front of coaches as officers pull up, police say authorities release 911 tapes of the day of the shooting inside the kansas city home that jovan belcher fled, his baby daughter wailed, his mother was in hysterics and his girlfriend was quiet. Barely breathing. This is what the nfl linebacker left behind on saturday in a rush of violence that left many wondering why. Few answers came from 911 tapes released this week by police. But the tapes provide a heartbreaking soundtrack of the fleeting moments the morning that police say belcher killed his girlfriend",
@@ -577,7 +570,7 @@
             "0": 0,
             "1": 1,
             "2": 1,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -663,12 +656,11 @@
     },
     {
         "idx": 36624,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "An arizona rancher's chance meeting with his brother saved the life of a seriously injured woman who had spent six days in the desert after her car went off the highway. David moralez says he stopped to chat with his brother zach after he spotted him working with a state department of transportation crew on us 60 on oct. 18. As they were about to part ways, they noticed a hole in the fence and spotted a car stuck in a mesquite tree 50 feet down a ravine, the ap reports. Joined by a trooper who responded to their 911 call, they followed footprints for around 500 yards until they found the severely dehydrated 53-year-old woman, who had a dislocated shoulder, broken ribs, and a head injury. \" i don't know if she could have made it there another night, \" david moralez tells nbc news. \" she was in pretty rough shape when we found her. \" police say the woman told them she lost control of her vehicle on the highway near the town of wicklenburg on oct. 12. She spent a few days in the car before climbing out to seek help. She tried to walk to railroad tracks but was too weak to go on. She was airlifted to a hospital. Department of public safety director col. Frank milstead says the woman's life was saved due to the group's \" outstanding efforts. \" david moralez says that growing up on a ranch, he and his brother were taught to always watch out for broken fence line. ( this teenager was rescued from his wrecked car after his father hired a helicopter. )",
         "split": "train",
         "cleansed_document": [
-            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. By david k. Li a motorist survived six harrowing days alone along a remote arizona riverbed after crashing through a fence and landing in a tree, officials said wednesday. The unidentified 53-year-old woman lost control of her car on rain-slicked u.s. Route 60 near milepost 117 on oct. 12 in wickenburg, arizona, about 65 miles north of phoenix, according to the arizona department of safety. She was wearing a t-shirt, shorts and flip-flops and survived on grass and water before she was found nearly a week later, said rescuer and local rancher david \" d.j. \" moralez. \" i don't know if she could have made it there another night, \" moralez, 30, told nbc news. \" she was in pretty rough shape when we found her. \" the woman's car fell about 50 feet down a ravine, \" landing in a mesquite tree where it remained suspended above the ground, \" the department said. She remained in the tree-top car for several days before finally climbing out to seek help, authorities said. Then finally on oct. 18, a state department of transportation ( adot ) crew was working along u.s. 60, corralling a cow, when moralez happened to be driving",
-            "In this oct. 18, 2018, photo provided by the arizona department of public safety is the scene where authorities say they rescued a seriously injured woman who spent six days in the desert after crashing... ( associated press ) in this oct. 18, 2018, photo provided by the arizona department of public safety is the scene where authorities say they rescued a seriously injured woman who spent six days in the desert after crashing her car near wickenburg, ariz. The department of public safety said wednesday, oct. 31, 2018, that... ( associated press ) in this oct. 18, 2018, photo provided by the arizona department of public safety is the scene where authorities say they rescued a seriously injured woman who spent six days in the desert after crashing her car near wickenburg, ariz. The department of public safety said wednesday, oct. 31, 2018, that... ( associated press ) in this oct. 18, 2018, photo provided by the arizona department of public safety is the scene where authorities say they rescued a seriously injured woman who spent six days in the desert after crashing... ( associated press ) phoenix ( ap ) — arizona transportation worker zach moralez knew something wasn't right when he saw a damaged fence along a highway. Tracks went off the edge of the road and through the fence on the edge of"
+            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. By david k. Li a motorist survived six harrowing days alone along a remote arizona riverbed after crashing through a fence and landing in a tree, officials said wednesday. The unidentified 53-year-old woman lost control of her car on rain-slicked u.s. Route 60 near milepost 117 on oct. 12 in wickenburg, arizona, about 65 miles north of phoenix, according to the arizona department of safety. She was wearing a t-shirt, shorts and flip-flops and survived on grass and water before she was found nearly a week later, said rescuer and local rancher david \" d.j. \" moralez. \" i don't know if she could have made it there another night, \" moralez, 30, told nbc news. \" she was in pretty rough shape when we found her. \" the woman's car fell about 50 feet down a ravine, \" landing in a mesquite tree where it remained suspended above the ground, \" the department said. She remained in the tree-top car for several days before finally climbing out to seek help, authorities said. Then finally on oct. 18, a state department of transportation ( adot ) crew was working along u.s. 60, corralling a cow, when moralez happened to be driving"
         ],
         "raw_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. By david k. Li a motorist survived six harrowing days alone along a remote arizona riverbed after crashing through a fence and landing in a tree, officials said wednesday. The unidentified 53-year-old woman lost control of her car on rain-slicked u.s. Route 60 near milepost 117 on oct. 12 in wickenburg, arizona, about 65 miles north of phoenix, according to the arizona department of safety. She was wearing a t-shirt, shorts and flip-flops and survived on grass and water before she was found nearly a week later, said rescuer and local rancher david \" d.j. \" moralez. \" i don't know if she could have made it there another night, \" moralez, 30, told nbc news. \" she was in pretty rough shape when we found her. \" the woman's car fell about 50 feet down a ravine, \" landing in a mesquite tree where it remained suspended above the ground, \" the department said. She remained in the tree-top car for several days before finally climbing out to seek help, authorities said. Then finally on oct. 18, a state department of transportation ( adot ) crew was working along u.s. 60, corralling a cow, when moralez happened to be driving",
@@ -683,7 +675,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -784,7 +776,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1070,7 +1062,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1391,12 +1383,11 @@
     },
     {
         "idx": 36651,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "According to data from singapore-based website wealth-x, jerry seinfeld is the world's richest actor with a fortune of around $ 820 million dollars. Bollywood actor shah rukh khan comes in second with $ 600 million, and tom cruise, at $ 480 million, rounds out the top three. It's not entirely clear how wealth-x arrived at their results, but the website does provide some insight as to how seinfeld came out ahead: the funnyman reportedly earned $ 400 million on his latest seinfeld syndication deal alone. Take a look at wealth-x's results below, along with their estimations of each actor's fortunes: no. 1: jerry seinfeld, $ 820 million no. 2: shah rukh khan, $ 600 million no. 3: tom cruise, $ 480 million no. 4 ( tie ): johnny depp, $ 450 million no. 4 ( tie ): tyler perry, $ 450 million see who else made the top 10 at fox news magazine. More from fox news magazine: 20 good actors without oscars 10 tv theme songs that always get stuck in your head 10 popular movies that nearly had completely different endings",
         "split": "train",
         "cleansed_document": [
-            "According to data from singapore-based website wealth-x, jerry seinfeld is the world's richest actor with a fortune of around $ 820 million dollars. Bollywood actor shah rukh khan comes in second with $ 600 million, and tom cruise, at $ 480 million, rounds out the top three. Read: who did forbes name as the highest grossing actor of 2013? \" so what's the deal with all these millionaires? \" you might ask in your best seinfeld voice. Well, that's hard to say. It's not entirely clear how wealth-x arrived at their results — nor is it clear as to the official title of the list, which has been referred to as both the 10 richest actors list and the hollywood and bollywood rich list — but they",
-            "Before you continue reading, a word of warning: at least one of the following tv theme songs is going to get thoroughly lodged in your brain, like that penny you accidentally lost up your nose when you were 8. And much like having a penny in your sinuses, having a theme song stuck in your head is bound to become even more aggravating with each passing moment — but not necessarily because it's unpleasant. It's because you ' ll eventually come to the frightening realization that you might never be able to expel it from your prefrontal cortex, no matter how hard you sneeze or blow your nose. Read: 10 things you didn't know about ' happy days ' on the plus side, having one of these melodies stuck in your head is"
+            "According to data from singapore-based website wealth-x, jerry seinfeld is the world's richest actor with a fortune of around $ 820 million dollars. Bollywood actor shah rukh khan comes in second with $ 600 million, and tom cruise, at $ 480 million, rounds out the top three. Read: who did forbes name as the highest grossing actor of 2013? \" so what's the deal with all these millionaires? \" you might ask in your best seinfeld voice. Well, that's hard to say. It's not entirely clear how wealth-x arrived at their results — nor is it clear as to the official title of the list, which has been referred to as both the 10 richest actors list and the hollywood and bollywood rich list — but they"
         ],
         "raw_document": [
             "Have you ever watched an entire movie, only to find that the ending completely ruins the film? so have directors and test audiences. A terrible ending has the potential to turn a classic picture into a joke. That's why some filmmakers completely overhaul their films ' final minutes, significantly changing the plot before theatergoers have a chance to see them. Sometimes these endings are rewritten before principal photography begins, but more often than not, the original endings are filmed as-is, and it's only when test audiences react poorly that filmmakers take action. Read: 10 actors originally cast in iconic roles ( before being replaced ) whether they were booed at early screenings, re-written to appease the producers or switched out to suit the casts'tastes, here are 10 examples of",
@@ -1415,7 +1406,7 @@
             "0": 5,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1523,7 +1514,7 @@
             "0": 2,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1548,7 +1539,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1576,7 +1567,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1706,7 +1697,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1820,7 +1811,7 @@
             "1": 0,
             "2": 0,
             "3": 4,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1928,7 +1919,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1983,12 +1974,11 @@
     },
     {
         "idx": 36673,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A florida man thought he found a cheap way to put a turkey on the table for thanksgiving: he admitted to police that he snuck onto his neighbors ' property with a friend and killed a bird with a bow and arrow, reports the pensacola news journal. The problem is that the caponi family thought of 30-pound \" tom \" as a family pet. \" it was like having a normal family dog, \" says mom christa. Now neighbor jacob provo, 18, and pal joshua anderson, 19, are facing a slew of serious charges: armed burglary, armed trespassing, theft of livestock, and animal cruelty. In other turkey news: obama/silver: president obama pardoned turkeys cobbler and gobbler today at the white house, and in so doing made a joke about the polling whiz at the new york times, reports salon.\"once again, nate silver completely nailed it, \" obama said. \"the guy's amazing. He predicted these guys would win. \" ( one writer hopes this will be the last year for the goofy white house tradition. )",
         "split": "train",
         "cleansed_document": [
-            "Tom the turkey had lived happily on brian and christa caponi's 6-acre spread in gulf breeze for the past year along with their menagerie of cats, goats, a dog, chickens and roosters. He was special among their 50 or so animals, christa said. \" he was a family pet, \" she said. \" it was like having a normal family dog. \"...",
-            "Topics: barack obama, thanksgiving, video, turkey, nate silver, election day, news upholding the presidential thanksgiving tradition, president obama has today pardoned cobbler and gobbler, two 40-pound turkeys from virginia. This year, however, americans voted on which turkeys would receive the pardon, giving the president the perfect opportunity to crack a joke about nate silver, the new york times polling wizard who accurately predicted the election day results. \"once again, nate silver completely nailed it, \" obama said. \"the guy's amazing. He predicted these guys would win. \""
+            "Tom the turkey had lived happily on brian and christa caponi's 6-acre spread in gulf breeze for the past year along with their menagerie of cats, goats, a dog, chickens and roosters. He was special among their 50 or so animals, christa said. \" he was a family pet, \" she said. \" it was like having a normal family dog. \"..."
         ],
         "raw_document": [
             "Tom the turkey had lived happily on brian and christa caponi's 6-acre spread in gulf breeze for the past year along with their menagerie of cats, goats, a dog, chickens and roosters. He was special among their 50 or so animals, christa said. \" he was a family pet, \" she said. \" it was like having a normal family dog. \"...",
@@ -2003,7 +1993,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2033,13 +2023,12 @@
     },
     {
         "idx": 36675,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The huffington post will soon be without its namesake. Arianna huffington is leaving the site she founded 11 years ago, reports the wall street journal. The 66-year-old says she will devote all her time to a new health venture, thrive global, that launches in november. ( huffington of late has become a champion of the benefits of a good night's sleep. ) her role at the huffington post had been uncertain after verizon bought parent aol last year for $ 4.4 billion. \"i really thought i could do both, but as we started building it up, i realized that it really needed my full attention, \" she tells the journal, referring to thrive global. \"it is important to know when one door closes and another opens and i felt that moment had arrived. \" making matters more complicated was verizon's recent purchase of yahoo, which does some of the same kind of work as huffpo, notes cnnmoney. It quotes a former editor as saying that the yahoo deal in particular made huffington's departure \" inevitable. \"",
         "split": "train",
         "cleansed_document": [
             "Arianna huffington, who co-founded the huffington post 11 years ago and built it into one of the largest digital media outlets in the u.s., says she will be leaving the company in the coming weeks to focus on a soon-to-launch startup dedicated to health and wellness. Ms. Huffington, who is 66 years old, had signed a new deal in june 2015 to remain at the huffington post as president and editor in chief through 2019. But she said the contract allowed her to launch the new company, thrive global, while continuing in her role at the site. When she secured series a funding for the new venture late last week, she said it had become clear she could no longer continue running huffington post. \"i really thought i could do both, but as we started building it up, i realized that it really needed my full attention, \" she said in an interview",
-            "Arianna huffington is stepping down from the website she co-founded a decade ago, the huffington post. Huffington said the new health and wellness company she is launching, thrive global, demands her full-time attention. Thrive will start in november. When her plans for thrive were first reported in june, huffington told staffers, \" my primary focus will remain on the huffington post, with no change to my current role. \" she told the wall street journal on thursday that \" i really thought i could do both, but as we started building it up, i realized that it really needed my full attention. \" she echoed that message in a goodbye note to huffington post staffers. \" building something from scratch doesn't become easier or less challenging just because you've done it before. There is only one way to do it: with your full attention and all",
-            "1. Our current sleep crisis sarvshreshth gupta was a first-year analyst at goldman sachs in san francisco in 2015. Overwhelmed by the hundred-hour workweeks, he decided to leave the bank in march. He soon returned, though whether this was a result of social or self-inflicted pressure is still unclear. A week later, he called his father at 2: 40 a.m. Saying he hadn't slept in two days. He said he had a presentation to complete and a morning meeting to prepare for, and was alone in the office. His father insisted he go home, and gupta replied that he would stay at work just a bit longer. A few hours later, he was found dead on the street outside his home. He had jumped from his high-rise building. Death from overwork has its own word in japanese ( karoshi ), in chinese ( guolaosi ), and in korean"
+            "Arianna huffington is stepping down from the website she co-founded a decade ago, the huffington post. Huffington said the new health and wellness company she is launching, thrive global, demands her full-time attention. Thrive will start in november. When her plans for thrive were first reported in june, huffington told staffers, \" my primary focus will remain on the huffington post, with no change to my current role. \" she told the wall street journal on thursday that \" i really thought i could do both, but as we started building it up, i realized that it really needed my full attention. \" she echoed that message in a goodbye note to huffington post staffers. \" building something from scratch doesn't become easier or less challenging just because you've done it before. There is only one way to do it: with your full attention and all"
         ],
         "raw_document": [
             "Arianna huffington, who co-founded the huffington post 11 years ago and built it into one of the largest digital media outlets in the u.s., says she will be leaving the company in the coming weeks to focus on a soon-to-launch startup dedicated to health and wellness. Ms. Huffington, who is 66 years old, had signed a new deal in june 2015 to remain at the huffington post as president and editor in chief through 2019. But she said the contract allowed her to launch the new company, thrive global, while continuing in her role at the site. When she secured series a funding for the new venture late last week, she said it had become clear she could no longer continue running huffington post. \"i really thought i could do both, but as we started building it up, i realized that it really needed my full attention, \" she said in an interview",
@@ -2056,7 +2045,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2267,7 +2256,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2356,12 +2345,10 @@
     },
     {
         "idx": 36687,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "The gop wants to limit federal funding for abortions to cases of \"forcible rape \" only, and, not surprisingly, jon stewart was there last night to heap his scorn on the idea. \"all rape is by definition forcible, \" he pointed out, but correspondent kristen schaal wasn't convinced. \"you'd be surprised how many drugged, underage, or mentally handicapped women have been gaming the system, \" she deadpans. \"sorry ladies, the free abortion ride is over. \" \"there's rape, and there's rape-rape, \" and only rape-rape should be covered, she insists. Questions like whether a woman is \"dressed slutty \" determine \"what is rape-rape and what is merely rape-ish, \" she explained. \"and i don't think hard-earned tax dollars should go to women who've only been rape-ished. \" the bottom line, as she explained it to stewart: \"congress is redefining rape to protect us from the worst kind of rape: money rape. That's forcible taking of taxpayer's money to pay for abortions. \" ( politico notes today that house republicans will remove the controversial \" forcible \" term from the bill. )",
         "split": "train",
-        "cleansed_document": [
-            "Gop pressures senate dems over wall -- kamala harris jumps into 2020 -- dems vow to look into disputed buzzfeed report -- nielsen under fire over child separations dem unity put to the test -- president donald trump and the gop have a new gambit to end the shutdown: back democrats into a corner. The senate will vote this week on trump's proposal to reopen the government, which includes $ 5.7 billion for the border wall and temporary protections for some undocumented immigrants. In a bid to make the package even more attractive, senate majority leader mitch mcconnell ( r-ky. ) has paired it with disaster aid, bipartisan funding levels for shuttered agencies and an extension of the violence against women act. A summary of the 1,300-page bill can be found here: http://bit.ly/2sfybs0. Democrats quickly rejected trump's immigration pitch over the weekend, calling it a non-starter and insisting they won't negotiate until the government reopens. And few on capitol hill think the current offer will get enough democrats on board, especially since it contains new asylum restrictions. But the floor vote could crank up pressure on centrist and red state democrats and potentially shift the shutdown blame across the aisle if democrats are seen as unwilling to negotiate. One to watch: democrat joe manchin of west virginia, who signaled that he is undecided on the proposal. Marianne has more: https://politi.co/2czjccd. Story continued below meanwhile, the house will continue voting on a package of government funding bills this week. But in a new twist, democrats have tacked on an extra $ 1 billion in border-related spending as a way to sweeten the pot for republicans, according to the new york times. That means the two chambers will be mounting competing pressure campaigns this week, with both sides still far apart on day 32 of the government shutdown. Chuck and nancy stick together -- trump has repeatedly tried to drive a wedge between senate minority leader chuck schumer ( d-n.y. ) and speaker nancy pelosi ( d-calif. ) throughout the shutdown fight. But so far, it hasn"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites.",
             "Gop pressures senate dems over wall -- kamala harris jumps into 2020 -- dems vow to look into disputed buzzfeed report -- nielsen under fire over child separations dem unity put to the test -- president donald trump and the gop have a new gambit to end the shutdown: back democrats into a corner. The senate will vote this week on trump's proposal to reopen the government, which includes $ 5.7 billion for the border wall and temporary protections for some undocumented immigrants. In a bid to make the package even more attractive, senate majority leader mitch mcconnell ( r-ky. ) has paired it with disaster aid, bipartisan funding levels for shuttered agencies and an extension of the violence against women act. A summary of the 1,300-page bill can be found here: http://bit.ly/2sfybs0. Democrats quickly rejected trump's immigration pitch over the weekend, calling it a non-starter and insisting they won't negotiate until the government reopens. And few on capitol hill think the current offer will get enough democrats on board, especially since it contains new asylum restrictions. But the floor vote could crank up pressure on centrist and red state democrats and potentially shift the shutdown blame across the aisle if democrats are seen as unwilling to negotiate. One to watch: democrat joe manchin of west virginia, who signaled that he is undecided on the proposal. Marianne has more: https://politi.co/2czjccd. Story continued below meanwhile, the house will continue voting on a package of government funding bills this week. But in a new twist, democrats have tacked on an extra $ 1 billion in border-related spending as a way to sweeten the pot for republicans, according to the new york times. That means the two chambers will be mounting competing pressure campaigns this week, with both sides still far apart on day 32 of the government shutdown. Chuck and nancy stick together -- trump has repeatedly tried to drive a wedge between senate minority leader chuck schumer ( d-n.y. ) and speaker nancy pelosi ( d-calif. ) throughout the shutdown fight. But so far, it hasn"
@@ -2375,17 +2362,16 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 36688,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It was either a candid admission or a novel way of getting out of jury duty. A woman in florida was ultimately rejected after she said she found the defendant in a murder trial so attractive that it might affect her judgment, reports lawnewz. Her admission came despite the grisly nature of the case: adam matos is accused of killing four people in hudson three years ago: his ex-girlfriend, her new boyfriend, and her parents, reports fox 13. During a discussion about the jury panel, the judge raised the issue about the potential juror. \" i ' m more concerned about what she said yesterday about the defendant being ' attractive ' and that causing her to be'distracted ' and that might cause bias, \" said judge mary handsel. \" those statements are more concerning to me. \" the woman didn't make the final cut. Jury selection was especially important because the prosecution plans to ask for the death penalty if matos is convicted, notes the tampa bay times, which has background on the case.",
         "split": "train",
         "cleansed_document": [
-            "A potential juror in a florida quadruple murder trial said the defendant, adam matos, was \"attractive \" and that she might be \"distracted \" by serving on his jury. It was enough for the judge to raise serious questions about the potential juror's ability to, um, focus at trial. Watch part of the discussion in this clip from the lawnewz network: the discussion about the juror's statements came as attorneys debated the various jurors ' abilities to serve on a panel that could ultimately decide whether to send matos to the execution chamber. Matos faces four first-degree murder charges. Regarding the juror's ability to adequately weigh any potential punishment, judge mary m. Handsel said: \"i ' m more concerned about what she said yesterday about the defendant being 'attractive ' and that causing her to be 'distracted ' and that might cause bias. Those — those statements are",
-            "New port richey — cops found the crime scene before they found the victims. It was a two-story house in a hudson neighborhood on the banks of a canal. A spent bullet lay in the driveway. Blood puddled in the garage. The bodies were stacked less than a mile away, one atop the other, at the summit of a small hill: a woman, her parents and her boyfriend. Missing was a 4-year-old boy. Sheriff's deputies said he had been taken by his father, adam matos, who would become the suspect. Within a day, police in tampa arrested matos at a downtown hotel. The boy was safe. In a jailhouse interview with the tampa bay times, matos said he was innocent of the four murders. Three years later, a jury will weigh in. The trial of matos, 32, is set to begin in"
+            "A potential juror in a florida quadruple murder trial said the defendant, adam matos, was \"attractive \" and that she might be \"distracted \" by serving on his jury. It was enough for the judge to raise serious questions about the potential juror's ability to, um, focus at trial. Watch part of the discussion in this clip from the lawnewz network: the discussion about the juror's statements came as attorneys debated the various jurors ' abilities to serve on a panel that could ultimately decide whether to send matos to the execution chamber. Matos faces four first-degree murder charges. Regarding the juror's ability to adequately weigh any potential punishment, judge mary m. Handsel said: \"i ' m more concerned about what she said yesterday about the defendant being 'attractive ' and that causing her to be 'distracted ' and that might cause bias. Those — those statements are"
         ],
         "raw_document": [
             "- a jury has been selected in the case of adam matos, who is accused of killing four people in hudson. The judge expected to start opening statements by 2 p.m. Thursday, but jury selection took longer than expected. This is a potential death penalty case so the pool of dozens of jurors was questioned heavily on their personal beliefs of what punishments are appropriate. The potential jurors were asked by the defense this hypothetical question: if someone kills four people in cold blood, is the death penalty the only reasonable punishment? in this case, the prosecution will argue this was a cold-blooded killing. They say matos killed his ex-girlfriend, megan brown, her parents, margaret and gregory, and her boyfriend, nick leonard. They also said he fled with his four-year-old son, who was later found to be ok. Judge mary handsel admonished the attorneys for taking so long during",
@@ -2402,7 +2388,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2458,12 +2444,11 @@
     },
     {
         "idx": 36691,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The first american combat death in syria happened on thanksgiving. Us officials say the service member was fatally injured in a blast from an improvised explosive device, the ap reports. The new york times reports that officials say the american died in ayn issa in northern syria, where americans are assisting arab and kurdish fighters seeking to drive isis out of raqqa, the capital of their \" caliphate. \" \" the entire counter-isil coalition sends our condolences to this hero's family, friends, and teammates, \" lt. Gen. Stephen j. Townsend, commander of combined joint task force — operation inherent resolve, said in a statement. \" on this thanksgiving, please be thankful that there are service members willing to take up the fight to protect our homeland from isil's hateful and brutal ideology. \" \" i am deeply saddened by the news on this thanksgiving day that one of our brave service members has been killed in syria while protecting us from the evil of isil, \" defense secretary ash carter said in a statement. \" it is a painful reminder of the dangers our men and women in uniform face around the world to keep us safe. \" in another first on thursday, the turkish government announced that three turkish troops moving toward the isis-held northern syrian city of al bab had been killed by syrian planes, marking the first time that the syrian military had killed turkish troops since the civil war began.",
         "split": "train",
         "cleansed_document": [
-            "Combined joint task force – operation inherent resolve casualty by &#124; combined joint task force - operation inherent resolve &#124; november 25, 2016",
-            "Beirut ( ap ) — the latest on the conflict in syria ( all times local ): 11: 25 p.m. U.s. Officials say an american service member in syria has died from wounds suffered in a blast from an improvised explosive device. A statement released thursday by the public affairs office of combined joint task force-operation inherent resolve says the explosion took place in the vicinity of ayn issa in northern syria. No other information about the explosion or the victim was released. U.s. Troops are part of a multination effort to fight the islamic state group in the region. ___ 4: 45 p.m. The russian military is lashing out at washington over its call on other nations to deny port access to russian oil tankers heading to syria. Russian defense ministry spokesman maj. Gen. Igor konashenkov said thursday that the u.s. Statement represented an attempt to hamper russia's effort to \" fight international terrorism in syria. \" u.s. State department spokesman mark toner said wednesday in response to inquiries that countries in the region should not support any russian tanker ships carrying fuel to be used in airstrikes on civilians. Konashenkov said the u.s. Call was intended to \" conceal the failures of the u.s. Policy \" in syria, saying russia has achieved much more with its air campaign in syria than the u.s.-led coalition fighting the islamic state group. Russia is a close ally of syrian president bashar assad, and has struck syrian rebels as well as extremist groups since launching its air campaign more than a year ago. ___ 3: 30 p.m. A senior u.n. Aid official says his team has received written approval from syrian rebels in the besieged opposition-held parts of the city of aleppo to allow aid in and evacuate the wounded. Jan egeland told reporters in geneva on thursday that the u.n. Also has \" verbal support \" from russia, a main backer of president bashar assad, for the four-point plan reached earlier this month on aleppo. Egeland says the team is still waiting for approval from the syrian government, adding that trucks carrying aid could start entering east aleppo within hours if such approval is received. East aleppo is home to some 275,000 people and has been besieged since july, with no food or medical supplies having entered the areas since then. ___ 11: 30 a.m. The turkish armed forces says three turkish soldiers were killed and 10 were wounded in syria by an airstrike allegedly fired by government forces. A statement from the armed forces on its website says the attack took place before dawn on thursday. The statement did not provide the location for the 3 a.m. Strike"
+            "Combined joint task force – operation inherent resolve casualty by &#124; combined joint task force - operation inherent resolve &#124; november 25, 2016"
         ],
         "raw_document": [
             "Combined joint task force – operation inherent resolve casualty by &#124; combined joint task force - operation inherent resolve &#124; november 25, 2016",
@@ -2478,17 +2463,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
         "idx": 36692,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "There's a reason kim kardashian tweeted an emoji of a storm cloud on tuesday. It's an homage to her new niece, explains us weekly. Turns out, the name of the newest member of the famous clan is, ta da, stormi. New mom kylie jenner revealed the name tuesday on instagram with a post of stormi holding her mom's thumb. The name stormi may be unusual, but kim and kanye west may have topped it in january with the name of their own new daughter: chicago.",
         "split": "train",
         "cleansed_document": [
-            "The kardashians officially have a new addition to their family: stormi. Kylie jenner revealed her daughter's name on instagram on tuesday, february 6, posting a photo of the gorgeous little girl. The photo shows her holding hands with her daughter, wearing a pink onesie. \"stormi, \" she captioned the picture, adding the angel emoji. As previously reported, jenner, 20, welcomed her daughter with travis scott on february 1. The reality star, who never confirmed her pregnancy, announced the birth on sunday, february 4 on instagram. Stormi 👼🏽 a post shared by kylie ( @kyliejenner ) on feb 6, 2018 at 1: 14pm pst \"i ' m sorry for keeping you in the dark through all the assumptions. I understand you're used to me bringing you along on all my journeys, \" she wrote in the lengthy post. \"my pregnancy was one i chose not to do in front of the world. I knew for myself i needed to prepare for this role of a lifetime in the most positive, stress free, and healthy way i knew how … pregnancy has been the most beautiful, empowering, and life changing experience i've had in my entire life and i ' m actually going to miss it. \" us weekly caught up with kris jenner, who recently also became a grandmother again when daughter kim kardashian welcomed her third child via surrogate. Jenner told us on monday, february 5, that she's given kylie one very important piece of advice as a new mother: \"enjoy every second … i think she's excited! \" sign up now for the us weekly newsletter to get breaking celebrity news, hot pics and more delivered straight to your inbox! want stories like these delivered straight to your phone? download the us weekly iphone app now!",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "The kardashians officially have a new addition to their family: stormi. Kylie jenner revealed her daughter's name on instagram on tuesday, february 6, posting a photo of the gorgeous little girl. The photo shows her holding hands with her daughter, wearing a pink onesie. \"stormi, \" she captioned the picture, adding the angel emoji. As previously reported, jenner, 20, welcomed her daughter with travis scott on february 1. The reality star, who never confirmed her pregnancy, announced the birth on sunday, february 4 on instagram. Stormi 👼🏽 a post shared by kylie ( @kyliejenner ) on feb 6, 2018 at 1: 14pm pst \"i ' m sorry for keeping you in the dark through all the assumptions. I understand you're used to me bringing you along on all my journeys, \" she wrote in the lengthy post. \"my pregnancy was one i chose not to do in front of the world. I knew for myself i needed to prepare for this role of a lifetime in the most positive, stress free, and healthy way i knew how … pregnancy has been the most beautiful, empowering, and life changing experience i've had in my entire life and i ' m actually going to miss it. \" us weekly caught up with kris jenner, who recently also became a grandmother again when daughter kim kardashian welcomed her third child via surrogate. Jenner told us on monday, february 5, that she's given kylie one very important piece of advice as a new mother: \"enjoy every second … i think she's excited! \" sign up now for the us weekly newsletter to get breaking celebrity news, hot pics and more delivered straight to your inbox! want stories like these delivered straight to your phone? download the us weekly iphone app now!"
         ],
         "raw_document": [
             "The kardashians officially have a new addition to their family: stormi. Kylie jenner revealed her daughter's name on instagram on tuesday, february 6, posting a photo of the gorgeous little girl. The photo shows her holding hands with her daughter, wearing a pink onesie. \"stormi, \" she captioned the picture, adding the angel emoji. As previously reported, jenner, 20, welcomed her daughter with travis scott on february 1. The reality star, who never confirmed her pregnancy, announced the birth on sunday, february 4 on instagram. Stormi 👼🏽 a post shared by kylie ( @kyliejenner ) on feb 6, 2018 at 1: 14pm pst \"i ' m sorry for keeping you in the dark through all the assumptions. I understand you're used to me bringing you along on all my journeys, \" she wrote in the lengthy post. \"my pregnancy was one i chose not to do in front of the world. I knew for myself i needed to prepare for this role of a lifetime in the most positive, stress free, and healthy way i knew how … pregnancy has been the most beautiful, empowering, and life changing experience i've had in my entire life and i ' m actually going to miss it. \" us weekly caught up with kris jenner, who recently also became a grandmother again when daughter kim kardashian welcomed her third child via surrogate. Jenner told us on monday, february 5, that she's given kylie one very important piece of advice as a new mother: \"enjoy every second … i think she's excited! \" sign up now for the us weekly newsletter to get breaking celebrity news, hot pics and more delivered straight to your inbox! want stories like these delivered straight to your phone? download the us weekly iphone app now!",
@@ -2503,7 +2487,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2535,12 +2519,11 @@
     },
     {
         "idx": 36694,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Even world-class freeskiers can have a bad day in the powder — and a heart-stopping video that's now circulating shows how that happened to angel collinson last spring during a movie shoot. The video, taken in alaska's neacola mountains, was footage to be used in teton gravity research's film paradise waits, but the mountain had other plans for the 26-year-old utah skier, reports the alaska dispatch news. The video shows collinson start her run, only to hit a patch of icy snow and tumble 1,000 vertical feet down the mountain, careening for 25 white-knuckle seconds. \" being the badass that she is, angel came out unscathed, but the footage will leave you wondering how she escaped without injury, \" reads the description posted by tgr under the youtube video, promoted during the company's safety week 2016 to inform other backcountry athletes of such dangers. It's doubtful collinson felt especially badass during her tumble. \" the fall was absolutely terrifying — without question, \" she says in a release. \" you have no idea what you are going to tumble over and there is basically nothing you can do but hang on. \" and that's what she did, telling good morning america earlier this week that she covered up her face, used her arms to protect her head as best she could, and \" kind of just held on until i stopped. \" what she had to show for her death-defying plunge: two injured fingers, a few bruises, and the loss of whatever was in her pack, which spilled open as she pitched and rolled in the snow. \" i ' m ok, i ' m ok, \" an out-of-breath, miked-up collinson says in the video when she finally comes to a full stop. \" i ' m fine. … i can go back up and get my s -- t, too. \" ( it's not the first crazy fall caught on video by teton gravity research. )",
         "split": "train",
         "cleansed_document": [
-            "Published on jan 21, 2016 angel collinson was skiing in a dark couloir in alaska last spring when the snow suddenly took a turn for the worse and flipped her onto her back and straight into a steep, massive tumble. Being the badass that she is, angel came out unscathed but the footage will leave you wondering how she escaped without injury. Despite having one of the most standout film performances of any female skier in history this past year, angel had her share of challenges. Watch angel as she breaks down this experience and talks about why things went wrong in her edition of ​defend my line, part of tgr's safety week: http://www.tetongravity.com/video/ski... Want more information on how to stay safe in the backcountry? check out tgr's backcountry travel guide, the comprehensive guide to planning your dream backcountry trip: rad.tetongravity.com/backcountry-travel-guide-ch1 subscribe to the teton gravity research youtube channel: https://www.youtube.com/channel/uczib... Like on facebook: https://www.facebook.com/tetongravity... Follow on instagram: https://www.instagram.com/tetongravity/: https://twitter.com/tetongravity shop the store: https://www.tetongravity.com/shop/ official site: https://www.tetongravity.com/",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Published on jan 21, 2016 angel collinson was skiing in a dark couloir in alaska last spring when the snow suddenly took a turn for the worse and flipped her onto her back and straight into a steep, massive tumble. Being the badass that she is, angel came out unscathed but the footage will leave you wondering how she escaped without injury. Despite having one of the most standout film performances of any female skier in history this past year, angel had her share of challenges. Watch angel as she breaks down this experience and talks about why things went wrong in her edition of ​defend my line, part of tgr's safety week: http://www.tetongravity.com/video/ski... Want more information on how to stay safe in the backcountry? check out tgr's backcountry travel guide, the comprehensive guide to planning your dream backcountry trip: rad.tetongravity.com/backcountry-travel-guide-ch1 subscribe to the teton gravity research youtube channel: https://www.youtube.com/channel/uczib... Like on facebook: https://www.facebook.com/tetongravity... Follow on instagram: https://www.instagram.com/tetongravity/: https://twitter.com/tetongravity shop the store: https://www.tetongravity.com/shop/ official site: https://www.tetongravity.com/"
         ],
         "raw_document": [
             "Published on jan 21, 2016 angel collinson was skiing in a dark couloir in alaska last spring when the snow suddenly took a turn for the worse and flipped her onto her back and straight into a steep, massive tumble. Being the badass that she is, angel came out unscathed but the footage will leave you wondering how she escaped without injury. Despite having one of the most standout film performances of any female skier in history this past year, angel had her share of challenges. Watch angel as she breaks down this experience and talks about why things went wrong in her edition of ​defend my line, part of tgr's safety week: http://www.tetongravity.com/video/ski... Want more information on how to stay safe in the backcountry? check out tgr's backcountry travel guide, the comprehensive guide to planning your dream backcountry trip: rad.tetongravity.com/backcountry-travel-guide-ch1 subscribe to the teton gravity research youtube channel: https://www.youtube.com/channel/uczib... Like on facebook: https://www.facebook.com/tetongravity... Follow on instagram: https://www.instagram.com/tetongravity/: https://twitter.com/tetongravity shop the store: https://www.tetongravity.com/shop/ official site: https://www.tetongravity.com/",
@@ -2555,7 +2538,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2583,7 +2566,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2635,7 +2618,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2660,7 +2643,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {

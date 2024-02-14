@@ -127,13 +127,12 @@
     },
     {
         "idx": 41605,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Canadians with cystic fibrosis live 10 years longer than their us counterparts, and health insurance is likely a big reason, new research suggests. The death rate in canada was 44 % lower than among americans on medicare and medicaid, and 77 % lower than americans with no insurance, the new york times reports. But among americans with private health insurance, there was no difference in death rates. Canada has universal health care coverage. \" it seems people with no insurance have the worst outcomes compared to canadians, lead researcher dr. Anne l. Stephenson tells the times. \" that was the largest difference seen, \" cystic fibrosis is a progressive genetic disorder that causes lung infections and eventual respiratory failure. Median life span of patients in canada is 50.9 years, versus 40.6 in the us, per the cbc. Writing in the annals of internal medicine, researchers examined the medical records of nearly 6,000 canadians and 45,500 americans suffering from cf between 1990 and 2013. They found the overall death rate in canada was 34 % lower than in the us. Lung transplants can extend life, and canadians were more likely to receive new lungs at a rate of 10.3 % compared with 6.5 % in the us. Diet also was credited with a spike in longevity, with canada recommending a high-fat diet rich in cheese, fish, and nuts for cystic fibrosis sufferers since the 1970s, a decade ahead of the us. The findings show the need to stengthen medicare and medicaid programs \" that provide thousands of people with cf with access to care and treatments, \" co-author dr. Bruce marshall tells cnn. ( docs saved this cystic fibrosis mom by removing her lungs. )",
         "split": "train",
         "cleansed_document": [
             "( cnn ) canadians with cystic fibrosis live, on average, 10 years longer than their counterparts in the united states, according to a study published monday in annals of internal medicine. Cystic fibrosis, a progressive genetic disease, causes persistent lung infections that compromise the ability to breathe over time. The researchers say differences in diet, lung transplantation and health care coverage may contribute to the survival gap between nations. Since the early 1970s, both nations have maintained cystic fibrosis patient data registries. Annually, the us cystic fibrosis foundation, which helped fund the new study, and cystic fibrosis canada have published separate reports based on registry data. \" we noticed that",
-            "Over the last two decades there's been a big improvement in survival rates for people with cystic fibrosis, with patients in canada living 10 years longer than those in the u.s. People with cystic fibrosis are living to a median age of 50.9 years in canada, compared with 40.6 years in the u.s., according to research published in the annals of internal medicine. And that's years longer than the life expectancy 25 years ago, when erick bauer was first diagnosed with the disease. \" i was diagnosed when i was five years old, \" bauer told cbc news, as he awaited treatment at st. Michael's hospital in toronto, which has",
-            "Cystic fibrosis is a progressive, genetic disease that causes persistent lung infections and limits the ability to breathe over time. In people with cf, mutations in the cystic fibrosis transmembrane conductance regulator ( cftr ) gene cause the cftr protein to become dysfunctional. When the protein is not working correctly, it's unable to help move chloride -- a component of salt -- to the cell surface. Without the chloride to attract water to the cell surface, the mucus in various organs becomes thick and sticky. In the lungs, the mucus clogs the airways and traps germs, like bacteria, leading to infections, inflammation, respiratory failure, and other complications. For"
+            "Over the last two decades there's been a big improvement in survival rates for people with cystic fibrosis, with patients in canada living 10 years longer than those in the u.s. People with cystic fibrosis are living to a median age of 50.9 years in canada, compared with 40.6 years in the u.s., according to research published in the annals of internal medicine. And that's years longer than the life expectancy 25 years ago, when erick bauer was first diagnosed with the disease. \" i was diagnosed when i was five years old, \" bauer told cbc news, as he awaited treatment at st. Michael's hospital in toronto, which has"
         ],
         "raw_document": [
             "From st. Michael's hospital, university of toronto, and the hospital for sick children, toronto, ontario, canada; university of british columbia, vancouver, british columbia, canada; cystic fibrosis foundation, bethesda, maryland; and university of washington medical center, seattle, washington. Note: dr. Stephenson had full access to all of the data in the study and takes responsibility for the integrity of the data, the accuracy of the data analysis, and the decision to submit the manuscript for publication. Acknowledgment: the authors acknowledge the support of the u.s. Cystic fibrosis foundation and cystic fibrosis canada, which made this study possible. They also acknowledge and",
@@ -152,7 +151,7 @@
             "0": 3,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -185,14 +184,13 @@
     },
     {
         "idx": 41607,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "President trump denounced the synagogue shooting in pittsburgh as \" pure evil \" and an \" assault on humanity. \" not good enough, say the leaders of a jewish group in the city: in an open letter, they demand that trump denounce white nationalism or skip his planned trip to pittsburgh, reports the hill. As of monday morning, the letter from the local affiliate of the progressive bend the arc group had been signed by more than 18,000 people. \" for the past three years your words and your policies have emboldened a growing white nationalist movement, \" the letter asserts. \" you yourself called the murderer evil, but yesterday's violence is the direct culmination of your influence. \" the letter tells trump he is not welcome in the city until he \" fully \" denounces white nationalism and stops \" targeting and endangering all minorities, \" as well as immigrants and refugees. Group leader josh friedman read the letter aloud in front of the white house on sunday, and said he was surprised when people began reading it aloud with him, reports the washington post. \" people are on board, \" he said. The president, however, has made the case that he and the gop are being unfairly blamed. \" the fake news is doing everything in their power to blame republicans, conservatives and me for the division and hatred that has been going on for so long in our country, \" he tweeted sunday. The real culprit is \" their fake &amp; dishonest reporting. \" ( the shooting has put the focus on a controversial social media site. )",
         "split": "train",
         "cleansed_document": [
             "President trump: yesterday, a gunman slaughtered 11 americans during shabbat morning services. We mourn with the victims ' families and pray for the wounded. Here in mr. Rogers ' neighborhood, we express gratitude for the first responders and for the outpouring of support from our neighbors near and far. We are committed to healing as a community while we recommit ourselves to repairing our nation. For the past three years your words and your policies have emboldened a growing white nationalist movement. You yourself called the murderer evil, but yesterday's violence is the direct culmination of your influence. President trump, you are not welcome in pittsburgh until you fully denounce white nationalism. Our jewish community is not the only group you have targeted. You have also deliberately undermined the safety of people of color",
             "A group of progressive jewish leaders told president trump donald john trumpdoj declines to take arpaio fight to supreme court canadian man arrested for trespassing at white house says he wanted to deliver crown royal to trump graham: trump giving up on border wall fight would be the ' end of his presidency ' more that he is no longer welcome in pittsburgh until he denounces white nationalism following the shooting at a synagogue there over the weekend. Eleven members of the pittsburgh affiliate of bend the arc: a jewish partnership for justice penned a letter to trump following the saturday shooting at the tree of life synagogue. Advertisement \"our jewish community is not the only group you have targeted, \" the group wrote. \"you have also deliberately undermined the safety of people of color, muslims, lgbtq people, and people",
-            "More than 35,000 people have signed an open letter to president trump from the leaders of a pittsburgh-based jewish group who say the president will not be welcome in the city unless he denounces white nationalism and stops \"targeting \" minorities after a mass shooting saturday at a local synagogue left 11 dead. Nevertheless, the white house announced trump would travel to pittsburgh on tuesday, ignoring the letter as well as a plea from pittsburgh's mayor that the president at least refrain from visiting \"while we are burying the dead. \" the first of the funerals for the 11 shooting victims is expected to take place tuesday. The open letter, which was published and shared on sunday, was written by 11 members of the pittsburgh affiliate of bend the arc, a national organization for progressive jews focused on social justice",
-            "The fake news is doing everything in their power to blame republicans, conservatives and me for the division and hatred that has been going on for so long in our country. Actually, it is their fake &amp; dishonest reporting which is causing problems far greater than they understand!"
+            "More than 35,000 people have signed an open letter to president trump from the leaders of a pittsburgh-based jewish group who say the president will not be welcome in the city unless he denounces white nationalism and stops \"targeting \" minorities after a mass shooting saturday at a local synagogue left 11 dead. Nevertheless, the white house announced trump would travel to pittsburgh on tuesday, ignoring the letter as well as a plea from pittsburgh's mayor that the president at least refrain from visiting \"while we are burying the dead. \" the first of the funerals for the 11 shooting victims is expected to take place tuesday. The open letter, which was published and shared on sunday, was written by 11 members of the pittsburgh affiliate of bend the arc, a national organization for progressive jews focused on social justice"
         ],
         "raw_document": [
             "President trump: yesterday, a gunman slaughtered 11 americans during shabbat morning services. We mourn with the victims ' families and pray for the wounded. Here in mr. Rogers ' neighborhood, we express gratitude for the first responders and for the outpouring of support from our neighbors near and far. We are committed to healing as a community while we recommit ourselves to repairing our nation. For the past three years your words and your policies have emboldened a growing white nationalist movement. You yourself called the murderer evil, but yesterday's violence is the direct culmination of your influence. President trump, you are not welcome in pittsburgh until you fully denounce white nationalism. Our jewish community is not the only group you have targeted. You have also deliberately undermined the safety of people of color",
@@ -211,7 +209,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -289,17 +287,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 41611,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The fbi wants to know what suspect tamerlan tsarnaev's wife knew about the boston bomb plot, a police insider tells the new york post. Federal officials have visited katherine russell's parents multiple times but have yet to interview her, says family lawyer amato deluca. He maintains that \" katherine is innocent, and she has no knowledge of any of this. \" deluca says russell first learned of her husband's alleged involvement in the bombing through television, the ap reports. But the fbi is showing her photo to marathon witnesses in an effort to determine if she was at the scene, the post source says. \" when this allegedly was going on, she was working, and had been working all week to support her family, \" says deluca. He explained she's a home health-care aide who puts in 70-plus-hour weeks; tamerlan watched their young daughter while she did so, and \" he was home \" when his wife left for work on the day he was last seen alive. Russell was \" an all-american girl who was brainwashed \" by tamerlan, a childhood friend tells the daily mail. She met him at a nightclub while attending boston's suffolk university; they married in 2009 or 2010, deluca tells the ap.",
         "split": "train",
         "cleansed_document": [
-            "Federal authorities have asked to speak with the wife of suspected boston marathon bomber tamerlan tsarnaev, and her lawyer said he is discussing with them how to proceed. In this feb. 17, 2010, photo, tamerlan tsarnaev, left, smiles after acceping the trophy for winning the 2010 new england golden gloves championship from dr. Joseph downes, right, in lowell, mass. Tsarnaev,... ( associated press ) in this sunday, april 21, 2013 photo, katherine russell tsarnaev, center, wife of killed boston marathon bombing suspect tamerlan tsarnaev, exits a car at the home of her parents in north kingstown, r.i.... ( associated press ) amato deluca told the associated press on sunday that katherine russell tsarnaev did not speak to federal officials who came to her parents ' home in north kingstown, r.i., sunday evening, where she has been staying since her husband was killed during a getaway attempt early friday. Tsarnaev, 26, and his brother, dzhokhar, 19, two ethnic chechen brothers from southern russia, are accused of planting two explosives near the marathon finish line monday, killing three people and injuring more than 180. A motive remains unclear. Deluca said he spoke with the officials instead, but would not offer further details. \" i spoke to them, and that's all i can say right",
-            "Exclusive - how doctor's daughter became the muslim convert widow of boston bomber: terrorist husband ' brainwashed ' her and she gave up her dreams of college to have his baby at 21 schoolfriend tells mailonline how katherine russell had dreams of joining the peace corps - but was'totally transformed ' by tamerlan tsarnaev yearbook photos reveal her transformation from all-american girl by laura collins in north kingstown, rhode island &#124; katherine russell, the widow of boston bomb suspect, tamerlan tsarnaev, was ' an all-american girl who was brainwashed ' by her extremist husband according to one schoolfriend. Today mailonline has gained the first glimpse and pictures of the early life of the woman who, according to those who knew her best, was'totally transformed ' by tsarnaev. At high school her personal motto was'do something about it or stop complaining '. She dreamed of going to college and joining the peace corps. She urged her friends to ' lighten up and enjoy the small things, ' in life. Transformed: katherine russell, the american wife of marathon bomber tamerlan tsarnaev, is pictured left in her school book and, right, leaving the house she shared with her husband in cambridge instead she met tsarneav, 26, a disenfranchised man who came to america from his troubled homeland of chechnya who rapidly had her in his"
+            "Federal authorities have asked to speak with the wife of suspected boston marathon bomber tamerlan tsarnaev, and her lawyer said he is discussing with them how to proceed. In this feb. 17, 2010, photo, tamerlan tsarnaev, left, smiles after acceping the trophy for winning the 2010 new england golden gloves championship from dr. Joseph downes, right, in lowell, mass. Tsarnaev,... ( associated press ) in this sunday, april 21, 2013 photo, katherine russell tsarnaev, center, wife of killed boston marathon bombing suspect tamerlan tsarnaev, exits a car at the home of her parents in north kingstown, r.i.... ( associated press ) amato deluca told the associated press on sunday that katherine russell tsarnaev did not speak to federal officials who came to her parents ' home in north kingstown, r.i., sunday evening, where she has been staying since her husband was killed during a getaway attempt early friday. Tsarnaev, 26, and his brother, dzhokhar, 19, two ethnic chechen brothers from southern russia, are accused of planting two explosives near the marathon finish line monday, killing three people and injuring more than 180. A motive remains unclear. Deluca said he spoke with the officials instead, but would not offer further details. \" i spoke to them, and that's all i can say right"
         ],
         "raw_document": [
             "Federal authorities have asked to speak with the wife of suspected boston marathon bomber tamerlan tsarnaev, and her lawyer said he is discussing with them how to proceed. In this feb. 17, 2010, photo, tamerlan tsarnaev, left, smiles after acceping the trophy for winning the 2010 new england golden gloves championship from dr. Joseph downes, right, in lowell, mass. Tsarnaev,... ( associated press ) in this sunday, april 21, 2013 photo, katherine russell tsarnaev, center, wife of killed boston marathon bombing suspect tamerlan tsarnaev, exits a car at the home of her parents in north kingstown, r.i.... ( associated press ) amato deluca told the associated press on sunday that katherine russell tsarnaev did not speak to federal officials who came to her parents ' home in north kingstown, r.i., sunday evening, where she has been staying since her husband was killed during a getaway attempt early friday. Tsarnaev, 26, and his brother, dzhokhar, 19, two ethnic chechen brothers from southern russia, are accused of planting two explosives near the marathon finish line monday, killing three people and injuring more than 180. A motive remains unclear. Deluca said he spoke with the officials instead, but would not offer further details. \" i spoke to them, and that's all i can say right",
@@ -314,7 +311,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -497,7 +494,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -574,7 +571,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -633,7 +630,7 @@
             "0": 2,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -699,13 +696,12 @@
     },
     {
         "idx": 41626,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "With many americans wondering where all the money is, they might want to check the pockets of the new trump cabinet. Quartz reports the 17 people donald trump has selected for his cabinet or cabinet-level posts have a combined wealth of more than $ 9.5 billion. That's more money than the bottom one-third of american households — all 43 million of them — have total. In fact, it would take 120,000 median american households — with a worth of $ 83,200 — to equal the wealth of just the four richest members of trump's cabinet. The guardian calls it \" the most brazen embrace of big money since the 1980s. \" and it's not just happenstance. \"i want people that made a fortune! because now they're negotiating for you, ok? \" salon quotes trump as saying during a rally last week. He's certainly getting them. Quartz reports the level of wealth in his cabinet is already \" unprecedented \" with some spots still left to fill. Critics warn this is a prelude to trump enacting policies that benefit the richest of the rich to the detriment of middle- and lower-class americans. \"this is a class that dines on lobster steak and caviar every night, \" a democracy for america spokesperson tells the guardian. \" they're not figuring out how to put food on the table. They're figuring out how to make a few more millions before they go home at night. \"",
         "split": "train",
         "cleansed_document": [
             "Opponents warn the administration is set to be packed with tycoons who will do nothing to fulfil his promise of helping working-class americans the appetisers were young garlic soup with thyme and sautéed frogs ' legs, diver scallops with caramelized cauliflower and caper-raisin emulsion. Donald trump ate a prime sirloin with citrus glazed carrots; mitt romney chose lamb chops with a mushroom bolognese sauce. At jean-georges, a three-star michelin restaurant in the trump international hotel in new york, it's a rich man's world, and one where the us president-elect feels at home. This has also been evident in his appointments so far, as the so-called \"blue-collar billionaire \" looks set to preside over the wealthiest administration in modern history. Trump's conflicts of interest: a visual guide read more trump, a former host of reality tv show the apprentice, is surrounding himself with the 1 %: billionaires",
-            "The 17 people who us president-elect donald trump has selected for his cabinet or for posts with cabinet rank have well over $ 9.5 billion in combined wealth, with several positions still unfilled. This collection of wealth is greater than that of the 43 million least wealthy american households combined — over one third of the 126 million households total in the us. Affluence of this magnitude in a us presidential cabinet is unprecedented. The household data on which we based our comparison is from the 2013 survey of consumer finances. Collected by the federal reserve, this survey is the most recent comprehensive data source on american wealth. The estimates were adjusted for inflation and an increase in the number of american households. It is possible that the wealth of low-income americans has changed since 2013, but trends over the last several decades suggest a large change is unlikely. It is worth noting that almost 13",
-            "\" it matters that government as a whole is representative of america, \" said republican strategist sara fagen, former white house political director for george w. Bush. \" i don't think this says something about him and his values. \" raw numbers don't tell the whole story when it comes to diversity in government and who wields influence in an administration. While obama put together the most diverse cabinet ever, some women in his white house still felt marginalized. The concerns reached the president himself during his first year in office, leading him to hold a dinner with senior female advisers to discuss his administration's boys-club image. Some of trump's most powerful aides are women. Kellyanne conway served as his third and final campaign manager and remains a senior adviser. Trump's daughter ivanka consults on most major decisions and is expected to continue doing so"
+            "The 17 people who us president-elect donald trump has selected for his cabinet or for posts with cabinet rank have well over $ 9.5 billion in combined wealth, with several positions still unfilled. This collection of wealth is greater than that of the 43 million least wealthy american households combined — over one third of the 126 million households total in the us. Affluence of this magnitude in a us presidential cabinet is unprecedented. The household data on which we based our comparison is from the 2013 survey of consumer finances. Collected by the federal reserve, this survey is the most recent comprehensive data source on american wealth. The estimates were adjusted for inflation and an increase in the number of american households. It is possible that the wealth of low-income americans has changed since 2013, but trends over the last several decades suggest a large change is unlikely. It is worth noting that almost 13"
         ],
         "raw_document": [
             "Opponents warn the administration is set to be packed with tycoons who will do nothing to fulfil his promise of helping working-class americans the appetisers were young garlic soup with thyme and sautéed frogs ' legs, diver scallops with caramelized cauliflower and caper-raisin emulsion. Donald trump ate a prime sirloin with citrus glazed carrots; mitt romney chose lamb chops with a mushroom bolognese sauce. At jean-georges, a three-star michelin restaurant in the trump international hotel in new york, it's a rich man's world, and one where the us president-elect feels at home. This has also been evident in his appointments so far, as the so-called \"blue-collar billionaire \" looks set to preside over the wealthiest administration in modern history. Trump's conflicts of interest: a visual guide read more trump, a former host of reality tv show the apprentice, is surrounding himself with the 1 %: billionaires",
@@ -722,18 +718,17 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 41627,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Investigators have not been able to replicate the incident of uncontrolled acceleration a prius driver says he experienced last week, and the condition of the car's brakes is raising suspicions with federal investigators and toyota engineers, the wall street journal reports. James sikes said he lost control of his car near san diego and slammed on the brakes as it topped 90mph, but the wear pattern on the brakes refutes that. A national highway traffic safety administration memo prepared for the house oversight committee and leaked to the ap and the jalopnik blog indicates that the prius would shut down if strong counteracting forces — such as acceleration and braking — canceled each other out. Said sikes ' wife: \" there's no intent at all to sue toyota. If any good can come out of this, maybe they can find out what happened so other people don't get killed. \"",
         "split": "train",
         "cleansed_document": [
             "We first raised doubts about the financial motivations and character of jim sikes, the runaway prius driver, last week. Now there's evidence, in a draft memorandum obtained by jalopnik from sources familiar with the investigation, that sikes perpetrated a hoax. According to the memo ( first referenced by the ap, but below, exclusively in its entirety ), prepared for members of the oversight and government reform committee of the u.s. House of representatives, a thorough investigation of the prius in question revealed that, while the brake pads on the car were worn down, technicians from both toyota and nhtsa were unable to duplicate the unintended acceleration sikes claims. Although unable to duplicate the unintended acceleration, investigators were, however, able to test the brake override system installed on the prius on both the sikes car and a test vehicle of the same year. The memo states: every time the technician placed the gas pedal to the floor and the brake pedal to the floor the engine shut off and the car immediately started to slow down. Nhtsa and toyota field representatives reported the same results with the 2008 prius owned by mr. Sikes. Advertisement further, a representative of toyota present at the investigation stated the design",
-            "Investigators with toyota motor corp. And the u.s. Government could not replicate the runaway speeding reported by a prius owner who said his car's accelerator got stuck as he drove on a california freeway, according to a memo for a congressional panel. The memo, obtained saturday by the associated press, said the experts who examined and test drove the car could not replicate the sudden, unintended acceleration james sikes said he encountered. A backup mechanism that shuts off the engine when the brake and gas pedals are floored also worked properly during tests. Sikes, 61, called the emergency dispatcher on monday to report losing control of his 2008 prius as the hybrid reached speeds of 94 mph ( 151 kph ). A california highway patrol officer helped sikes bring the vehicle to a safe stop on interstate 8 near san diego. The incident happened at the worst possible time for toyota, which has recalled millions of cars because of floor mats that can snag gas pedals or accelerators that can sometimes stick. Just hours before the incident, toyota had called reporters to its torrance, california, office to hear experts refute claims that the company had not identified _ or fixed _ what might be causing its cars to speed out",
-            "Dow jones reprints: this copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers, use the order reprints tool at the bottom of any article or visit www.djreprints.com"
+            "Investigators with toyota motor corp. And the u.s. Government could not replicate the runaway speeding reported by a prius owner who said his car's accelerator got stuck as he drove on a california freeway, according to a memo for a congressional panel. The memo, obtained saturday by the associated press, said the experts who examined and test drove the car could not replicate the sudden, unintended acceleration james sikes said he encountered. A backup mechanism that shuts off the engine when the brake and gas pedals are floored also worked properly during tests. Sikes, 61, called the emergency dispatcher on monday to report losing control of his 2008 prius as the hybrid reached speeds of 94 mph ( 151 kph ). A california highway patrol officer helped sikes bring the vehicle to a safe stop on interstate 8 near san diego. The incident happened at the worst possible time for toyota, which has recalled millions of cars because of floor mats that can snag gas pedals or accelerators that can sometimes stick. Just hours before the incident, toyota had called reporters to its torrance, california, office to hear experts refute claims that the company had not identified _ or fixed _ what might be causing its cars to speed out"
         ],
         "raw_document": [
             "We first raised doubts about the financial motivations and character of jim sikes, the runaway prius driver, last week. Now there's evidence, in a draft memorandum obtained by jalopnik from sources familiar with the investigation, that sikes perpetrated a hoax. According to the memo ( first referenced by the ap, but below, exclusively in its entirety ), prepared for members of the oversight and government reform committee of the u.s. House of representatives, a thorough investigation of the prius in question revealed that, while the brake pads on the car were worn down, technicians from both toyota and nhtsa were unable to duplicate the unintended acceleration sikes claims. Although unable to duplicate the unintended acceleration, investigators were, however, able to test the brake override system installed on the prius on both the sikes car and a test vehicle of the same year. The memo states: every time the technician placed the gas pedal to the floor and the brake pedal to the floor the engine shut off and the car immediately started to slow down. Nhtsa and toyota field representatives reported the same results with the 2008 prius owned by mr. Sikes. Advertisement further, a representative of toyota present at the investigation stated the design",
@@ -750,7 +745,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -933,12 +928,11 @@
     },
     {
         "idx": 41635,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "They call him the \" mad nailer, \" and he/she must be stopped. The daytona beach news-journal reports someone has been scattering nails in the intersections of highway 1 in oak hill, florida, for over half a year. Officials believe the nails are being left on the road on purpose. \" if it was accidental, it wouldn't be at every dadgum turn through, \" mayor doug gibson tells wofl. Gibson's wife got a flat from one of the nails. \"the gravity of this situation can not be understated, \" says city commissioner bill lindlau, who came up with the mad nailer moniker. \" we need to stop this in its tracks. \" resident david lee says he's spent $ 4,000 fixing his tires after hitting the nails. \" imagine a school bus full of kids, a tire separating and blowing out and rolling over in the ditch, \" lee says. \" apparently they don't care. \" ( now meet the mad pooper. )",
         "split": "train",
         "cleansed_document": [
-            "- authorities in one volusia county community say someone is dumping nails along u.s. Highway 1, and they're doing it on purpose. \" if it was accidental, it wouldn't be at every'dadgum'turn through, \" said oak hill mayor doug gibson. It's been happening for more than eight months. City crews have spent hours picking up the nails. They had to buy two large rolling magnets to pick them off the road. David lee said he has spent more than $ 4,000 fixing and replacing tires on his work trucks, because of the nails. \" they keep doing it. They don't give up. They just keep putting the nails out, \" said lee. He filed a police report and put surveillance cameras up near his properties along u.s. 1. Now, deputies are investigating. Lee said, \" imagine a school bus full of kids, a tire separating and blowing out and rolling over in the ditch. Apparently they don't care. \"",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "- authorities in one volusia county community say someone is dumping nails along u.s. Highway 1, and they're doing it on purpose. \" if it was accidental, it wouldn't be at every'dadgum'turn through, \" said oak hill mayor doug gibson. It's been happening for more than eight months. City crews have spent hours picking up the nails. They had to buy two large rolling magnets to pick them off the road. David lee said he has spent more than $ 4,000 fixing and replacing tires on his work trucks, because of the nails. \" they keep doing it. They don't give up. They just keep putting the nails out, \" said lee. He filed a police report and put surveillance cameras up near his properties along u.s. 1. Now, deputies are investigating. Lee said, \" imagine a school bus full of kids, a tire separating and blowing out and rolling over in the ditch. Apparently they don't care. \""
         ],
         "raw_document": [
             "- authorities in one volusia county community say someone is dumping nails along u.s. Highway 1, and they're doing it on purpose. \" if it was accidental, it wouldn't be at every'dadgum'turn through, \" said oak hill mayor doug gibson. It's been happening for more than eight months. City crews have spent hours picking up the nails. They had to buy two large rolling magnets to pick them off the road. David lee said he has spent more than $ 4,000 fixing and replacing tires on his work trucks, because of the nails. \" they keep doing it. They don't give up. They just keep putting the nails out, \" said lee. He filed a police report and put surveillance cameras up near his properties along u.s. 1. Now, deputies are investigating. Lee said, \" imagine a school bus full of kids, a tire separating and blowing out and rolling over in the ditch. Apparently they don't care. \"",
@@ -953,7 +947,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -983,12 +977,11 @@
     },
     {
         "idx": 41637,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Surprised by the week the white house has had? sen. Marco rubio isn't, and doesn't quite get why you are. During a sunday interview on face the nation, he reminds americans they \" got what they voted for, \" noting that trump's white house is not much different from his unconventional presidential campaign — even if the drama coming out of it is \" different from anything we've ever confronted, \" reports cbs news. \" i don't understand why people are that shocked, \" he said. The florida senator, who battled donald trump for the gop nomination, did express that the administration would \" benefit from some systems in place that perhaps avoid some of the unnecessary friction points that come up on a daily basis. \" politico see echoes of mitch mcconnell's tuesday comment: \" we could do with a little less drama from the white house. \" john dickerson kicked off the interview by immediately asking about former fbi director james comey. Rubio's take: \" well, obviously, look, these media reports that are out there raise questions and deserve answers. What did the president say? did in fact you keep memos? what do those memos say? and why did you write them? and what was your feeling? and the american public deserves to know the answers to that. I think that's fair to the president. I think that's fair to former director comey. And i think that fair to the country. \"",
         "split": "train",
         "cleansed_document": [
-            "\" the white house would benefit from some systems in place that perhaps avoids some of the unnecessary friction points that come up on a daily basis, \" sen. Marco rubio said. &#124; ap photo rubio: white house needs to reduce friction and drama sen. Marco rubio said sunday that the escalating, daily drama from the trump white house is \" different from anything we've ever confronted \" and that the administration would benefit from a better approach to dealing with it. In an interview with cbs ' \" face the nation, \" the florida republican echoed senate majority leader mitch mcconnell ( r-ky. ), who said tuesday, \" we could do with a little less drama from the white house. \" story continued below \" the white house would benefit from some systems in place that perhaps avoids some of the unnecessary friction points that come up on a daily basis, \" rubio said. But, rubio said, \" people got what they voted for. \" he ran against donald trump during the gop presidential primary. \" i don't understand why people are that shocked, \" rubio said. \" this president ran a very unconventional campaign. \" breaking news alerts get breaking news when it happens — in your inbox. Email sign up by signing up you agree to receive email newsletters or alerts from politico.",
-            "The probe into possible collusion between russia and the trump campaign took a dramatic turn when the justice department appointed former fbi director robert mueller to lead an independent investigation. The development followed president trump's decision earlier this month to fire fbi director james comey, as well as subsequent reports about a memo comey wrote that suggested the president asked him to drop an investigation into former national security adviser michael flynn. Sen. Marco rubio ( r-florida ), who is a prominent member of the senate intelligence committee and who ran against mr. Trump in the 2016 race for the white house, joined \" face the nation \" sunday. He discussed want he wants to know from comey, who will testify before the senate intelligence committee. What follows is a full transcript of the interview, which aired sunday may 21, 2017 on \" face the nation. \" john dickerson: we turn to republican senator marco rubio, who joins us from miami, florida. Welcome, senator. I want to -- marco rubio: good morning. John dickerson: -- start with former director james comey. He will testify in front of the intelligence committee, which you are on. What do you want to know from director comey? marco rubio: well, obviously, look, these media reports that are out there raise questions and deserve answers"
+            "\" the white house would benefit from some systems in place that perhaps avoids some of the unnecessary friction points that come up on a daily basis, \" sen. Marco rubio said. &#124; ap photo rubio: white house needs to reduce friction and drama sen. Marco rubio said sunday that the escalating, daily drama from the trump white house is \" different from anything we've ever confronted \" and that the administration would benefit from a better approach to dealing with it. In an interview with cbs ' \" face the nation, \" the florida republican echoed senate majority leader mitch mcconnell ( r-ky. ), who said tuesday, \" we could do with a little less drama from the white house. \" story continued below \" the white house would benefit from some systems in place that perhaps avoids some of the unnecessary friction points that come up on a daily basis, \" rubio said. But, rubio said, \" people got what they voted for. \" he ran against donald trump during the gop presidential primary. \" i don't understand why people are that shocked, \" rubio said. \" this president ran a very unconventional campaign. \" breaking news alerts get breaking news when it happens — in your inbox. Email sign up by signing up you agree to receive email newsletters or alerts from politico."
         ],
         "raw_document": [
             "\" the white house would benefit from some systems in place that perhaps avoids some of the unnecessary friction points that come up on a daily basis, \" sen. Marco rubio said. &#124; ap photo rubio: white house needs to reduce friction and drama sen. Marco rubio said sunday that the escalating, daily drama from the trump white house is \" different from anything we've ever confronted \" and that the administration would benefit from a better approach to dealing with it. In an interview with cbs ' \" face the nation, \" the florida republican echoed senate majority leader mitch mcconnell ( r-ky. ), who said tuesday, \" we could do with a little less drama from the white house. \" story continued below \" the white house would benefit from some systems in place that perhaps avoids some of the unnecessary friction points that come up on a daily basis, \" rubio said. But, rubio said, \" people got what they voted for. \" he ran against donald trump during the gop presidential primary. \" i don't understand why people are that shocked, \" rubio said. \" this president ran a very unconventional campaign. \" breaking news alerts get breaking news when it happens — in your inbox. Email sign up by signing up you agree to receive email newsletters or alerts from politico.",
@@ -1003,7 +996,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1033,12 +1026,11 @@
     },
     {
         "idx": 41639,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Spring has officially sprung, but just try prying the scarf and mittens from much of the country that is still freezing. Areas of maine are expected to receive up to 14 inches of snow today, while the residents of lunenburg, mass., are already enjoying 15 inches and subzero temperatures, says cnn. \" definitely over winter, \" grumbles one resident. Even the south is suffering, with freeze warnings from central alabama to north carolina. For those looking for a distraction from shoveling, the washington post runs down the meaning of the spring equinox — the day in which we see equal parts daylight and nighttime.",
         "split": "train",
         "cleansed_document": [
-            "At the equinox, all latitudes see about 12 hours of daylight and darkness as earth rotates on its axis. ( noaa – watch interactive it still feels like winter in many parts of the country, but earth's orbit says otherwise. At 7: 02 a.m. Edt this wednesday ( march 20 ), astronomical winter ends as spring officially begins in earth's northern hemisphere. Astronomically, the spring equinox marks the moment at which earth's axis tilts neither away from nor toward the sun, resulting in nearly equal periods of daylight and darkness across the globe. An observer on earth's equator will see the sun at zenith before its direct rays shift northward toward the tropic of cancer over the next three months. Equinox: what's equal and what's not? sun observers and astronomers may think of the spring equinox as an astronomical transit point when the earth-sun relationship stands in perfect balance. This is true when we consider that all locations on earth experience slightly over 12 hours of daylight, as well as the position of sunrise and sunset with respect to the horizon. Link: day and night world map the most \"equal \" aspect of the equinox is the location of sunrise and sunset. Except at the north and south poles, all latitudes on earth see the sun rise at due",
-            "Photos: weather around the world 125 photos photos: weather around the world – a rainbow appears in the skies above a hong kong office building on wednesday, august 7. Click through to see other images of weather around the world. Hide caption 1 of 125 photos: weather around the world 125 photos photos: weather around the world – a woman uses a parasol to block the sun's rays at the bund, a popular tourist spot in shanghai, china, on august 7. Hide caption 2 of 125 photos: weather around the world 125 photos photos: weather around the world – a person dangles from a power line before diving into the ganges river in allahabad, india, on tuesday, august 6, after heavy monsoon rains. Hide caption 3 of 125 photos: weather around the world 125 photos photos: weather around the world – a man takes a nap at a recreation area in salt springs, florida, on august 6. Hide caption 4 of 125 photos: weather around the world 125 photos photos: weather around the world – a boy jumps into the zegrze lake near warsaw, poland, on august 6 to cool off during a heatwave. Hide caption 5 of 125 photos: weather around the world 125 photos photos: weather around the world – a boy takes in the scenery at malvarrosa beach"
+            "At the equinox, all latitudes see about 12 hours of daylight and darkness as earth rotates on its axis. ( noaa – watch interactive it still feels like winter in many parts of the country, but earth's orbit says otherwise. At 7: 02 a.m. Edt this wednesday ( march 20 ), astronomical winter ends as spring officially begins in earth's northern hemisphere. Astronomically, the spring equinox marks the moment at which earth's axis tilts neither away from nor toward the sun, resulting in nearly equal periods of daylight and darkness across the globe. An observer on earth's equator will see the sun at zenith before its direct rays shift northward toward the tropic of cancer over the next three months. Equinox: what's equal and what's not? sun observers and astronomers may think of the spring equinox as an astronomical transit point when the earth-sun relationship stands in perfect balance. This is true when we consider that all locations on earth experience slightly over 12 hours of daylight, as well as the position of sunrise and sunset with respect to the horizon. Link: day and night world map the most \"equal \" aspect of the equinox is the location of sunrise and sunset. Except at the north and south poles, all latitudes on earth see the sun rise at due"
         ],
         "raw_document": [
             "At the equinox, all latitudes see about 12 hours of daylight and darkness as earth rotates on its axis. ( noaa – watch interactive it still feels like winter in many parts of the country, but earth's orbit says otherwise. At 7: 02 a.m. Edt this wednesday ( march 20 ), astronomical winter ends as spring officially begins in earth's northern hemisphere. Astronomically, the spring equinox marks the moment at which earth's axis tilts neither away from nor toward the sun, resulting in nearly equal periods of daylight and darkness across the globe. An observer on earth's equator will see the sun at zenith before its direct rays shift northward toward the tropic of cancer over the next three months. Equinox: what's equal and what's not? sun observers and astronomers may think of the spring equinox as an astronomical transit point when the earth-sun relationship stands in perfect balance. This is true when we consider that all locations on earth experience slightly over 12 hours of daylight, as well as the position of sunrise and sunset with respect to the horizon. Link: day and night world map the most \"equal \" aspect of the equinox is the location of sunrise and sunset. Except at the north and south poles, all latitudes on earth see the sun rise at due",
@@ -1053,7 +1045,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1209,7 +1201,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1239,7 +1231,7 @@
             "0": 0,
             "1": 4,
             "2": 2,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1344,7 +1336,7 @@
             "3": 0,
             "4": 0,
             "5": 2,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -1374,12 +1366,11 @@
     },
     {
         "idx": 41651,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "President trump restrained himself from live-tweeting during james comey's testimony on thursday, but he's starting early on friday. \" despite so many false statements and lies, total and complete vindication... And wow, comey is a leaker! \" trump tweeted just after 6am edt. The latter part refers to comey's admission that he asked a friend to tell a reporter about the detailed notes comey had taken after his private dinner with trump. During his testimony, comey explained that he did so after being fired, when he was a private citizen. Trump hasn't gone into detail about what he thinks comey was lying about, but on thursday, the president's attorney said trump did not \" in form or substance \" ask comey to stop an investigation or demand loyalty from him. While trump himself didn't live-tweet on thursday, son donald trump jr. Did, notes cnn. One example: \" knowing my father for 39 years when he ' orders or tells ' you to do something there is no ambiguity, you will know exactly what he means. \"",
         "split": "train",
         "cleansed_document": [
-            "Story highlights donald trump jr. Live-tweeted the senate intelligence committee hearing with james comey he also repeatedly took shots at press accounts of the hearing and broader probe ( cnn ) the work of defending president donald trump in the media is not for the faint of heart. His communications director has already resigned and white house press secretary sean spicer's standing is in a constant state of flux. So the white house's decision to effectively hand off rapid response duties on thursday to the republican national committee seemed like a way of cutting the unpredictable trump voice out of the conversation as james comey, the fired fbi director, testified on his interactions with the president. But those plans were quickly scuppered by another trump, donald jr., who live-tweeted the capitol hill hearing and, after boosting one of their early tweets, quickly drowned out the more carefully crafted rnc messaging program. Kind of a big deal... No? https://t.co/dzdu7rk8hy — donald trump jr. ( @donaldjtrumpjr ) june 8, 2017 trump jr.'s posts were more specific and pointed. Responding to a mention of former national security adviser michael flynn, he argued that comey had ascribed to the president's words more formality -- or subtext -- than actually existed. \" flynn stuff is bs in context 2 guys talking about a guy they both know well. I hear ' i hope nothing happens but you have to do your job, ' \" he tweeted. \" very far from any kind of coercion or influence and certainly not obstruction! \" read more",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Story highlights donald trump jr. Live-tweeted the senate intelligence committee hearing with james comey he also repeatedly took shots at press accounts of the hearing and broader probe ( cnn ) the work of defending president donald trump in the media is not for the faint of heart. His communications director has already resigned and white house press secretary sean spicer's standing is in a constant state of flux. So the white house's decision to effectively hand off rapid response duties on thursday to the republican national committee seemed like a way of cutting the unpredictable trump voice out of the conversation as james comey, the fired fbi director, testified on his interactions with the president. But those plans were quickly scuppered by another trump, donald jr., who live-tweeted the capitol hill hearing and, after boosting one of their early tweets, quickly drowned out the more carefully crafted rnc messaging program. Kind of a big deal... No? https://t.co/dzdu7rk8hy — donald trump jr. ( @donaldjtrumpjr ) june 8, 2017 trump jr.'s posts were more specific and pointed. Responding to a mention of former national security adviser michael flynn, he argued that comey had ascribed to the president's words more formality -- or subtext -- than actually existed. \" flynn stuff is bs in context 2 guys talking about a guy they both know well. I hear ' i hope nothing happens but you have to do your job, ' \" he tweeted. \" very far from any kind of coercion or influence and certainly not obstruction! \" read more"
         ],
         "raw_document": [
             "Story highlights donald trump jr. Live-tweeted the senate intelligence committee hearing with james comey he also repeatedly took shots at press accounts of the hearing and broader probe ( cnn ) the work of defending president donald trump in the media is not for the faint of heart. His communications director has already resigned and white house press secretary sean spicer's standing is in a constant state of flux. So the white house's decision to effectively hand off rapid response duties on thursday to the republican national committee seemed like a way of cutting the unpredictable trump voice out of the conversation as james comey, the fired fbi director, testified on his interactions with the president. But those plans were quickly scuppered by another trump, donald jr., who live-tweeted the capitol hill hearing and, after boosting one of their early tweets, quickly drowned out the more carefully crafted rnc messaging program. Kind of a big deal... No? https://t.co/dzdu7rk8hy — donald trump jr. ( @donaldjtrumpjr ) june 8, 2017 trump jr.'s posts were more specific and pointed. Responding to a mention of former national security adviser michael flynn, he argued that comey had ascribed to the president's words more formality -- or subtext -- than actually existed. \" flynn stuff is bs in context 2 guys talking about a guy they both know well. I hear ' i hope nothing happens but you have to do your job, ' \" he tweeted. \" very far from any kind of coercion or influence and certainly not obstruction! \" read more",
@@ -1398,7 +1389,7 @@
             "0": 0,
             "1": 3,
             "2": 3,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1423,17 +1414,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 41653,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Karl rove has said it and said it again in recent days: sarah palin will run. Apparently, that wasn't inside information gleaned from his bff, sarah palin. Politico spotted another \" setting the record straight \" post on the sarahpac website that doesn't name rove, but clearly takes a swing at him, referring to him as a dc pundit who \" predicted with glee the demise of sarah palin's political career \" in 2008 only to change his tune, \" citing false information that she has made a decision and set a date regarding a future campaign. \" so what's the truth? \" any professional pundit claiming to have ' inside information'regarding governor palin's personal decision is not only wrong but their comments are specifically intended to mislead the american public. \" team palin hopes americans will reject these \" political games, \" which it sees as \" more of the ' politics-as-usual'that sarah palin has fought against throughout her career. \"",
         "split": "train",
         "cleansed_document": [
-            "Add karl rove to the list of people sarah palin's camp is denouncing. Politico's juana summers flags this statement from the sarah pac website, which - without naming him - takes an unmistakable swipe at the former white house adviser to george w. Bush: three years ago dc pundits predicted with glee the demise of sarah palin's political career. This past weekend their tune changed, citing false information that she has made a decision and set a date regarding a future campaign. Any professional pundit claiming to have \" inside information \" regarding governor palin's personal decision is not only wrong but their comments are specifically intended to mislead the american public. These are the same tired establishment political games that fuel the 24 hour news cycle and that all american's will hopefully reject in 2012, and this is more of the \" politics-as-usual \" that sarah palin has fought against throughout her career. Ps - kudos to cnn for setting the record straight, and including governor palin's own words. Rove had said on fox news last weekend that he believed palin was running, based in part on her schedule in iowa ( as best as i can tell she only has the one, large-scale event in des moines scheduled, for sept. 3 ). Peter hamby of cnn noted earlier that there is",
-            "Wouldn't it be nice if beltway gossip magazines did some rudimentary fact-checking before they ran with stories? that is, of course, assuming that they're not just making stories up out of thin air. Take, for example, a politico story out today alleging that governor palin's \"team \" is contacting a \"list \" of iowa politicos for meetings. The story even quotes one such person who is purported to be on that list for a meeting. Only one problem: it's not true. Real clear politics debunked politico's trumped up story: politico reported on monday that palin aides were reaching out to iowa operatives and activists to set up meetings during her visit, citing chuck laudner, a former iowa gop executive director. But laudner told rcp that he did not have a private meeting scheduled with palin and that no one who works for the former governor had made contact with him. Laudner said that he received an invitation to attend the festivities surrounding the movie premiere from peter singleton, a california native who moved to iowa several months ago to help organize in the state in advance of a possible palin presidential run. Singleton is acting on his own and is not a palin aide but has often been confused for one as he has made his presence known across the state. So"
+            "Add karl rove to the list of people sarah palin's camp is denouncing. Politico's juana summers flags this statement from the sarah pac website, which - without naming him - takes an unmistakable swipe at the former white house adviser to george w. Bush: three years ago dc pundits predicted with glee the demise of sarah palin's political career. This past weekend their tune changed, citing false information that she has made a decision and set a date regarding a future campaign. Any professional pundit claiming to have \" inside information \" regarding governor palin's personal decision is not only wrong but their comments are specifically intended to mislead the american public. These are the same tired establishment political games that fuel the 24 hour news cycle and that all american's will hopefully reject in 2012, and this is more of the \" politics-as-usual \" that sarah palin has fought against throughout her career. Ps - kudos to cnn for setting the record straight, and including governor palin's own words. Rove had said on fox news last weekend that he believed palin was running, based in part on her schedule in iowa ( as best as i can tell she only has the one, large-scale event in des moines scheduled, for sept. 3 ). Peter hamby of cnn noted earlier that there is"
         ],
         "raw_document": [
             "Add karl rove to the list of people sarah palin's camp is denouncing. Politico's juana summers flags this statement from the sarah pac website, which - without naming him - takes an unmistakable swipe at the former white house adviser to george w. Bush: three years ago dc pundits predicted with glee the demise of sarah palin's political career. This past weekend their tune changed, citing false information that she has made a decision and set a date regarding a future campaign. Any professional pundit claiming to have \" inside information \" regarding governor palin's personal decision is not only wrong but their comments are specifically intended to mislead the american public. These are the same tired establishment political games that fuel the 24 hour news cycle and that all american's will hopefully reject in 2012, and this is more of the \" politics-as-usual \" that sarah palin has fought against throughout her career. Ps - kudos to cnn for setting the record straight, and including governor palin's own words. Rove had said on fox news last weekend that he believed palin was running, based in part on her schedule in iowa ( as best as i can tell she only has the one, large-scale event in des moines scheduled, for sept. 3 ). Peter hamby of cnn noted earlier that there is",
@@ -1448,7 +1438,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1483,11 +1473,12 @@
     },
     {
         "idx": 41655,
-        "document_num": 3,
+        "document_num": 4,
         "summary": "North korea today \" completely scrapped \" the armistice that held a tenuous peace on the peninsula for six decades, reports the washington post, even as american and south korean troops began the large-scale military drills pyongyang had warned them to abandon. The north is playing up its unpredictability, saying in a state-run newspaper today that with the armistice gone, \"no one can expect what will happen next. \" further heightening tensions: the red cross hotline the north uses to communicate with seoul has gone dead. \" we called at 9am and there was no response, \" explains a south korean official of the line, which it tries daily. The north has also threatened to cut off its hotline with un troops — and to nuke the united states. North korea, which is planning huge military exercises of its own, claims the us-south korea drills are a move to launch a nuclear war. Analysts believe pyongyang isn't capable of launching a nuclear strike on the us even if the regime was deranged enough to try. But some kind of attack along the disputed sea border with south korea is seen as a more realistic possibility, reports reuters. As threats fly back and forth, some south koreans are openly discussing obtaining nuclear weapons of their own. Pyongyang's nuclear test last month, its third, \" was for south korea what the cuban missile crisis was for the us, \" a professor at the korea national defense university tells the new york times. \" it has made the north korean threat seem very close and very real. \" the hotline-closing and scrapping of peace pacts have recent precedents, but the mood in seoul is tenser than it has been after previous outbursts from pyongyang, the bbc finds. North korea's tone is more belligerent, and people fear the regime is more willing to back its threats up with action. If pyongyang was enraged by fresh un sanctions last week, today will be more of the same as the un examines its appalling human rights record, the new york times reports. An investigator will present a report that is expected to lead to an inquiry into possible crimes against humanity.",
         "split": "train",
         "cleansed_document": [
             "The obama administration bluntly warned north korea on monday that it will use military force if necessary to protect the united states and its allies in asia from a north korean nuclear strike or to prevent the impoverished north from selling nuclear weapons or expertise. Washington announced fresh sanctions against north korea on monday amid rising tension on the korean peninsula. The u.s. Military also began annual joint exercises with ally south korea, over objections from north korea and an announcement that it would nullify the 60-year armistice that ended the korean war. \"recently, north",
+            "South korean soldiers patrol along a barbed-wire fence near the demilitarized zone ( dmz ) which separates the two koreas in paju, north of seoul, march 11, 2013. North korea has cut off a red cross hotline with south korea as it escalates its war of words against seoul and... A worker paints the wall with a roller next to a map bearing the demilitarized zone ( dmz ) which separates the two koreas at imjingak pavillion in paju, north of seoul, march 11, 2013. North korea has cut off a red cross",
             "Image caption south korean marines patrol yeonpyeong island, shelled by the north in 2010 north korea knows how to make headlines. Over the past week, newspapers here in the south have turned pyongyang's threats into front-page spreads: its promises of \" pre-emptive nuclear strikes \", \" all-out war \" and withdrawal from the 60-year-old armistice agreement that ended the korean war. South koreans normally approach these kinds of declarations with a weary stoicism, barely pausing over their cappuccinos as they absorb the latest threats from their neighbour. This time,",
             "Adding to south koreans ' worries, the north and its nuclear arsenal are in the hands of a young new leader, kim jong-un, whose brinkmanship appears to be an effort to ensure the support of his nation's powerful military. The south also has a new president, park geun-hye, the daughter of a military strongman who stood firm against north korea, who herself also faces pressure to stand fast against the north. Just two weeks after her inauguration, ms. Park faces a crisis as the north makes vague threats interpreted"
         ],
@@ -1506,10 +1497,10 @@
             "The summary discusses the escalating tensions between North Korea and South Korea, as well as threats made by North Korea. Documents 1, 3, and 4 are not directly related to the main points of the summary. Document 1 talks about Japan's support for a human rights investigation into North Korea. Document 3 describes South Korean soldiers patrolling near the demilitarized zone. Document 4 provides information on South Koreans' reactions to North Korea's threats. Therefore, the irrelevant documents are: Document 1|Document 3|Document 4"
         ],
         "vote_count": {
-            "0": 5,
+            "0": 4,
             "1": 0,
-            "2": 3,
-            "3": 2,
+            "2": 2,
+            "3": 1,
             "4": 0
         }
     },
@@ -1542,13 +1533,12 @@
     },
     {
         "idx": 41657,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Publix employee liberty gratz is deaf and partially blind, so she normally interacts with customers using pen and paper. She's now on the lookout for one customer who she says didn't give her that opportunity. Using american sign language translated by her mother, 21-year-old gratz tells wric she was straightening a shelf at a publix in midlothian, va., on saturday when \" all of a sudden, i felt some woman hit me in my back. \" gratz says the woman had apparently been trying to get her attention, unaware she suffers hearing and peripheral vision issues as a result of usher syndrome, a condition gratz and her twin brother were born with. It's described on a gofundme page for her family as \" the most common genetic cause of combined deafness and blindness. \" though her mother says gratz \" doesn't always notice the people beside her, \" per wric, she tells the news &amp; observer her daughter was \" stunned \" by the hit. She \" turned and told the lady she couldn't hear by pointing to her ear and shaking her head no. She handed the lady a pen and paper so she could tell her what she needed, then showed her where it was, \" gratz's mother adds, noting the customer still acted angry. Gratz says store managers looked \" again and again and again \" at footage of the incident, but they couldn't identify the woman \" because there were so many people blocking the camera. \" she says she still hopes to get in touch with her, though, simply to teach her about being kind to people, regardless of whether they have a disability.",
         "split": "train",
         "cleansed_document": [
             "Midlothian, va. ( wric ) - liberty gratz has been working at the publix on hull street road since it opened last fall. Out of all the shifts she has completed, what happened on sunday afternoon is burned into her memory. \" all of a sudden, i felt some woman hit me in my back, \" liberty recounted through her mom jeanette gratz's interpreting. Liberty is deaf and says she could not hear the woman asking where to find an item in the store when the scene turned violent. Liberty gratz liberty gratz liberty, who also has vision loss, remembers kneeling down to straighten out a bottom shelf when she felt the knock",
-            "Liberty gratz is deaf and she is slowly losing her sight. That hasn't stopped her from working. But on the afternoon of april 22, she had an interaction with a customer at the midlothian, va. Publix grocery store where she works that will stay with her. Gratz was kneeling down to arrange items on a lower shelf when a customer hit her. \" all of a sudden, i felt some woman hit me in my back, \" liberty said through her mother, jeanette gratz's, interpreting, according to cbs 17. Sign up help us deliver journalism that makes a difference in our community. Our journalism takes a lot of time",
-            "Usher syndrome is a condition characterized by partial or total hearing loss and vision loss that worsens over time. The hearing loss is classified as sensorineural, which means that it is caused by abnormalities of the. The loss of vision is caused by an disease called retinitis pigmentosa ( rp ), which affects the layer of light-sensitive tissue at the back of the eye ( ). Vision loss occurs as the light-sensing cells of the retina gradually deteriorate. Night vision loss begins first, followed by blind spots that develop in the side ( peripheral ) vision. Over time, these blind spots enlarge and merge to produce tunnel vision. In some cases, vision is further"
+            "Liberty gratz is deaf and she is slowly losing her sight. That hasn't stopped her from working. But on the afternoon of april 22, she had an interaction with a customer at the midlothian, va. Publix grocery store where she works that will stay with her. Gratz was kneeling down to arrange items on a lower shelf when a customer hit her. \" all of a sudden, i felt some woman hit me in my back, \" liberty said through her mother, jeanette gratz's, interpreting, according to cbs 17. Sign up help us deliver journalism that makes a difference in our community. Our journalism takes a lot of time"
         ],
         "raw_document": [
             "Midlothian, va. ( wric ) - liberty gratz has been working at the publix on hull street road since it opened last fall. Out of all the shifts she has completed, what happened on sunday afternoon is burned into her memory. \" all of a sudden, i felt some woman hit me in my back, \" liberty recounted through her mom jeanette gratz's interpreting. Liberty is deaf and says she could not hear the woman asking where to find an item in the store when the scene turned violent. Liberty gratz liberty gratz liberty, who also has vision loss, remembers kneeling down to straighten out a bottom shelf when she felt the knock",
@@ -1567,7 +1557,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -1722,7 +1712,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1796,7 +1786,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1846,7 +1836,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1901,12 +1891,11 @@
     },
     {
         "idx": 41671,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "America is supposed to be a place where everyone is equal — so why are so many of us glued to coverage of the royal wedding? have we forgotten, mark oppenheimer wonders, that we \" fought a bloody war for the privilege to ignore the king of england \"? now, many of us turn into \" besotted anglophilic wusses \" at the mere mention of wills or kate. \" for an american to be excited about the royal wedding is undignified and lame, \" he declares on slate. \" and, i would add, if you get up at 3am on friday to watch the wedding on television, you are a traitor to your country. \" \" americans are supposed to loathe and reject monarchs \" — heck, the idea that the us should not grant nobility to choice citizens was even written into our constitution. True, we may not all be equal in terms of wealth or education, but we should at least be equal in the eyes of the government — which makes it so dispiriting to watch americans forgetting their \" american-ness \" and calling royals by their hoity-toity titles, like \" queen mother, \" when the appropriate american approach would be \" mrs. Windsor. \" sure, we have our own brand of royalty ( does the name kardashian ring a bell? ), \" but at least it is our bad tendency, born here, of a free people, one that calls each of us ' mr. ' or ' ms. ' — that, in fact, encourages the familiarity of ' kim, \" kourtney, ' and ' khloe.'that is worth something, and it is worth sleeping on friday morning. \" ( if, however, you're still glued to the royal wedding coverage... Click for the 10 craziest moments of pre-wedding frenzy so far. )",
         "split": "train",
         "cleansed_document": [
-            "Of all the annoying things about the royal wedding — the crass materialism, the outrageous invasion of a young couple's privacy, the bad tv — none is more troubling than the occasion this event gives for the non-english to transform themselves into besotted anglophilic wusses. It is one thing for the english to care about the wedding. Paying attention to the royal family, even if only to read sensationalist tabloid articles about them, is one of the proper jobs of english people. But for an american to be excited about the royal wedding is undignified and lame. And, i would add, if you get up at 3 a.m. On friday to watch the wedding on television, you are a traitor to your country. Good englishmen might mock the royals, but good americans should not even consider them royal. ( just writing this column i risk paying the house of windsor too much mind. I ' m like phyllis schlafly, whose work outside the home was to convince women not to work outside the home. ) americans are supposed to loathe and reject monarchs. In the earliest years of english settlement, this land was a proud haven for king killers. In 1660, it was to the new world that edward whalley, john dixwell, and william goffe, all responsible for the beheading of charles i, fled",
-            "As the clock ticks down to will and kate's big day, we present a roundup of some of the wackiest moments of the ensuing madness. Royal wedding barf bag, anyone? hunger strikes and miracle jelly beans: the 10 craziest moments of royal wedding frenzy yet as the clock ticks down to will and kate's big day, we present a roundup of some of the wackiest moments of the ensuing madness. Will and kate manicure, anyone? -april daniels hussar this exclusive scoop is brought to you by diet pepsi. Get the skinny on the royal wedding by liking us at http://www.facebook.com/dietpepsi over 2 billion people are expected to tune in to the royal wedding, and the world is eagerly hanging on every detail surrounding the big event ( beer banned from the reception! 10,000 canapés ordered! david beckham will indeed attend! ), and we can't even imagine the media frenzy that will ensue when kate middleton's wedding dress designer is finally revealed! speaking of frenzy, at the time of this writing, a google search for \"royal wedding frenzy \" returns 1,650,000 results … here are 10 of our favorite moments of madness so far. 1. The miraculous jelly bean. Wesley hosie, 25, said he was digging into a stash of jelly beans from the jelly bean factory with his girlfriend jessica"
+            "Of all the annoying things about the royal wedding — the crass materialism, the outrageous invasion of a young couple's privacy, the bad tv — none is more troubling than the occasion this event gives for the non-english to transform themselves into besotted anglophilic wusses. It is one thing for the english to care about the wedding. Paying attention to the royal family, even if only to read sensationalist tabloid articles about them, is one of the proper jobs of english people. But for an american to be excited about the royal wedding is undignified and lame. And, i would add, if you get up at 3 a.m. On friday to watch the wedding on television, you are a traitor to your country. Good englishmen might mock the royals, but good americans should not even consider them royal. ( just writing this column i risk paying the house of windsor too much mind. I ' m like phyllis schlafly, whose work outside the home was to convince women not to work outside the home. ) americans are supposed to loathe and reject monarchs. In the earliest years of english settlement, this land was a proud haven for king killers. In 1660, it was to the new world that edward whalley, john dixwell, and william goffe, all responsible for the beheading of charles i, fled"
         ],
         "raw_document": [
             "Of all the annoying things about the royal wedding — the crass materialism, the outrageous invasion of a young couple's privacy, the bad tv — none is more troubling than the occasion this event gives for the non-english to transform themselves into besotted anglophilic wusses. It is one thing for the english to care about the wedding. Paying attention to the royal family, even if only to read sensationalist tabloid articles about them, is one of the proper jobs of english people. But for an american to be excited about the royal wedding is undignified and lame. And, i would add, if you get up at 3 a.m. On friday to watch the wedding on television, you are a traitor to your country. Good englishmen might mock the royals, but good americans should not even consider them royal. ( just writing this column i risk paying the house of windsor too much mind. I ' m like phyllis schlafly, whose work outside the home was to convince women not to work outside the home. ) americans are supposed to loathe and reject monarchs. In the earliest years of english settlement, this land was a proud haven for king killers. In 1660, it was to the new world that edward whalley, john dixwell, and william goffe, all responsible for the beheading of charles i, fled",
@@ -1921,17 +1910,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 41672,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "On aug. 15, exactly two months after he died, we reported that casey kasem would finally be laid to rest, though in a head-scratcher of a location — norway. It seems \" finally \" took a little longer than expected. Tmz reports kasem was buried last tuesday in vestre gravlund, which ranks among the country's largest cemeteries. Per the gossip site, his kids weren't there and didn't know the burial had occurred until yesterday. Why norway? neither kasem nor wife jean kasem has norwegian roots, and speculation in august was that jean was potentially trying to make it difficult to have the body exhumed to dodge his children's abuse accusations against her. Tmz runs with that thread, noting that the lapd is investigating following a police report filed by the kids that alleges their dad developed a fatal infection when jean moved him from california to washington state. And as tmz less-than-delicately puts it, \" the body has been rotting away for months — for a long period of time it wasn't even embalmed. \" between the body's condition and the foreign location, tmz speculates that california officials won't be able to make a determination as to whether elder abuse was at play. ( meanwhile, hollywood is still reminiscing about another celeb we lost... In 2013. )",
         "split": "train",
         "cleansed_document": [
-            "Casey kasem buried in norway... Finally casey kasem -- buried in norway... Finally exclusive details was finally laid to rest... 6 months after he died.it's the end of what turned into an international power struggle between casey's wife,, and his children.we've learned the famed dj was buried last tuesday at the vestre gravlund, one of the largest cemeteries in norway. We're told there was a small ceremony... We don't know if jean was there but we're told his kids were not. Casey's children didn't know he was even buried until monday.the burial is legally significant. The lapd has been conducting an elder abuse investigation after casey's kids filed a police report claiming jean caused casey to get a fatal infection during a wild, multi-state car ride.the body has been rotting away for months -- for a long period of time it wasn't even embalmed. The decay and now the burial in a foreign land will make it virtually impossible for l.a. Authorities to make a solid determination on whether the bed sores contributed to casey's death.rip casey... Finally.",
-            "Aunt viv from \" the fresh prince of bel-air \" says she's been dealing with medical issues since 2004. She allegedly received treatment for vertigo and intense facial pain, describing such symptoms as \" a strange 'chatter ' in her jaw; was unable to comb her hair; could not touch her face; had severe reactions to sound; would awaken with her mouth clenched; could not move her body in a manner she was used to; and found light painful. \" \" the little couple \" star revealed in dec. 2013 that she had been diagnosed with a rare form of cancer, stage 3 choriocarcinoma, that started with a non-viable pregnancy. The pediatrician and reality star explained that she is \" undergoing treatment, including surgery and chemotherapy, \" and later that month shared a photo from the hospital. In nov. 2013, the \" real housewives of atlanta \" star revealed she \" was diagnosed with blood clots in my lung, \" medically referred to as pulmonary embolism. \" [ w ] ith the grace of god, the help of the doctors, nurses and the love of my family and friends, i was healed... Thank you all for supporting me in 2013! i know that none of this is possible without you. I am grateful, i love you and i wish each of you a safe and happy, prosperous new year! welcome 2014! \" she wrote on her site at the end of the year. In jan. 2013, walter was hospitalized in d.c. After falling on a step"
+            "Casey kasem buried in norway... Finally casey kasem -- buried in norway... Finally exclusive details was finally laid to rest... 6 months after he died.it's the end of what turned into an international power struggle between casey's wife,, and his children.we've learned the famed dj was buried last tuesday at the vestre gravlund, one of the largest cemeteries in norway. We're told there was a small ceremony... We don't know if jean was there but we're told his kids were not. Casey's children didn't know he was even buried until monday.the burial is legally significant. The lapd has been conducting an elder abuse investigation after casey's kids filed a police report claiming jean caused casey to get a fatal infection during a wild, multi-state car ride.the body has been rotting away for months -- for a long period of time it wasn't even embalmed. The decay and now the burial in a foreign land will make it virtually impossible for l.a. Authorities to make a solid determination on whether the bed sores contributed to casey's death.rip casey... Finally."
         ],
         "raw_document": [
             "Casey kasem buried in norway... Finally casey kasem -- buried in norway... Finally exclusive details was finally laid to rest... 6 months after he died.it's the end of what turned into an international power struggle between casey's wife,, and his children.we've learned the famed dj was buried last tuesday at the vestre gravlund, one of the largest cemeteries in norway. We're told there was a small ceremony... We don't know if jean was there but we're told his kids were not. Casey's children didn't know he was even buried until monday.the burial is legally significant. The lapd has been conducting an elder abuse investigation after casey's kids filed a police report claiming jean caused casey to get a fatal infection during a wild, multi-state car ride.the body has been rotting away for months -- for a long period of time it wasn't even embalmed. The decay and now the burial in a foreign land will make it virtually impossible for l.a. Authorities to make a solid determination on whether the bed sores contributed to casey's death.rip casey... Finally.",
@@ -1946,7 +1934,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2187,7 +2175,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2326,7 +2314,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2356,12 +2344,11 @@
     },
     {
         "idx": 41688,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A 71-year-old new hampshire woman received a start and a nasty whack tuesday when she found a black bear trapped in her kitchen in groton. Apryl rogers, who is bound to a wheelchair, suffered cuts to her head and neck when she accidentally cornered the bear, but she was able to call for help and is expected to survive, per abc news and wmur. Authorities believe the bear entered the kitchen through a screen door that shut behind it. It eventually escaped by smashing through a window. Officials say the bear will be put down if found, though rain has complicated the search.",
         "split": "train",
         "cleansed_document": [
-            "A 71-year-old woman suffered severe injuries to her face and head when she encountered a bear that entered her home in groton, new hampshire, early tuesday morning. The woman, apryl rogers, is wheelchair-bound and came across the bear in her kitchen after it entered through an open screen door, col. Kevin jordan, new hampshire fish and game department's chief of law enforcement, told abc news. \" after the bear entered the house, the door shut behind it, leaving it trapped inside, \" he said. Wmur rogers accidentally blocked the bear's exit. In an effort to get out, the bear lashed out in a panic, causing lacerations to the woman's head and neck, police said. She is currently in surgery, but her injuries do not appear to be life-threatening, officials told abc news. After the encounter, the bear escaped the home by smashing through a window. Fish and game department officials are trying to track down the bear and have deployed k-9 units, but rain during the day eliminated the bear's tracks and washed away its scent, hindering the search and making it difficult for authorities to tell which bear was involved in the attack. If found and identified, the bear will have to be put down, authorities said. Wmur bear encounters have increased in the area recently due to human encroachment on their territory, col. Jordan told abc news. The bears are attracted to sources of food in human dwellings. However, he said, attacks by bears on humans are very rare.",
-            "Two guys noticed these pipes sticking out of the ground, they never expected this to be underneath - duration: 5: 02. Did you know? 11,196,261 views"
+            "A 71-year-old woman suffered severe injuries to her face and head when she encountered a bear that entered her home in groton, new hampshire, early tuesday morning. The woman, apryl rogers, is wheelchair-bound and came across the bear in her kitchen after it entered through an open screen door, col. Kevin jordan, new hampshire fish and game department's chief of law enforcement, told abc news. \" after the bear entered the house, the door shut behind it, leaving it trapped inside, \" he said. Wmur rogers accidentally blocked the bear's exit. In an effort to get out, the bear lashed out in a panic, causing lacerations to the woman's head and neck, police said. She is currently in surgery, but her injuries do not appear to be life-threatening, officials told abc news. After the encounter, the bear escaped the home by smashing through a window. Fish and game department officials are trying to track down the bear and have deployed k-9 units, but rain during the day eliminated the bear's tracks and washed away its scent, hindering the search and making it difficult for authorities to tell which bear was involved in the attack. If found and identified, the bear will have to be put down, authorities said. Wmur bear encounters have increased in the area recently due to human encroachment on their territory, col. Jordan told abc news. The bears are attracted to sources of food in human dwellings. However, he said, attacks by bears on humans are very rare."
         ],
         "raw_document": [
             "A 71-year-old woman suffered severe injuries to her face and head when she encountered a bear that entered her home in groton, new hampshire, early tuesday morning. The woman, apryl rogers, is wheelchair-bound and came across the bear in her kitchen after it entered through an open screen door, col. Kevin jordan, new hampshire fish and game department's chief of law enforcement, told abc news. \" after the bear entered the house, the door shut behind it, leaving it trapped inside, \" he said. Wmur rogers accidentally blocked the bear's exit. In an effort to get out, the bear lashed out in a panic, causing lacerations to the woman's head and neck, police said. She is currently in surgery, but her injuries do not appear to be life-threatening, officials told abc news. After the encounter, the bear escaped the home by smashing through a window. Fish and game department officials are trying to track down the bear and have deployed k-9 units, but rain during the day eliminated the bear's tracks and washed away its scent, hindering the search and making it difficult for authorities to tell which bear was involved in the attack. If found and identified, the bear will have to be put down, authorities said. Wmur bear encounters have increased in the area recently due to human encroachment on their territory, col. Jordan told abc news. The bears are attracted to sources of food in human dwellings. However, he said, attacks by bears on humans are very rare.",
@@ -2376,7 +2363,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2409,7 +2396,7 @@
             "1": 5,
             "2": 1,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -2462,7 +2449,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {

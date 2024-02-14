@@ -78,13 +78,12 @@
     },
     {
         "idx": 11903,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Might want to make your next six-pack glass bottles. Cans and plastic bottles are lined with a controversial chemical called bpa, and while the cdc still says the chemical's health effects are unclear, research on chronic exposure has linked it to high blood pressure and heart rate issues. To test the effects of drinking from cans, researchers in south korea provided 60 adults over the age of 60 with soy milk either in a can or a glass bottle. Urine tests showed that those who drank from cans saw bpa levels up to 1,600 % higher than those who drank from bottles, according to a post at eureka alert. What's more, both bpa and blood pressure rose significantly in can-drinkers within a matter of hours, the new york times reports, noting that this is one of the first studies to illustrate the potential risks of a just one bpa exposure. An isolated experience of high blood pressure may not be that dangerous, but people should think twice before drinking regularly from cans or plastic bottles, an expert tells the times. \" a 5 mm hg increase in systolic blood pressure by drinking two canned beverages may cause clinically significant problems, particularly in patients with heart disease or hypertension, \" says a researcher, noting that he hopes manufactures will come up with \" healthy alternatives \" to bpa-lined cans. But simply limiting bpa may not solve the problem.",
         "split": "train",
         "cleansed_document": [
             "Drinking or eating from cans or bottles lined with bisphenol a ( bpa ) could raise your blood pressure, according to new research reported in the american heart association's journal hypertension. Bpa, a chemical used as an epoxy lining for cans and plastic bottles, is everywhere, and its consumption has been associated with high blood pressure and heart rate variability. Previous studies have shown that bpa can leach into foods and drinks. \" a 5 mm hg increase in systolic blood pressure by drinking two canned beverages may cause clinically significant problems, particularly in patients with heart disease or hypertension, \" said yun-chul hong, m.d., ph.d., study author and chair of the department of preventive medicine and director of the environmental health center at seoul national university college of medicine in south korea. \" a 20 mm hg increase in systolic blood pressure doubles the risk of cardiovascular disease. \"",
-            "People who regularly drink from cans and plastic bottles may want to reconsider: a new study shows that a common chemical in the containers can seep into beverages and raise blood pressure within a few hours. The research raises new concerns about the chemical bisphenol a, or bpa, which is widely found in plastic bottles, plastic packaging and the linings of food and beverage cans. Chronic exposure to bpa, as it is commonly known, has been associated with heart disease, cancer and other health problems. But the new study is among the first to show that a single exposure to the chemical can have a direct and fairly immediate impact on cardiovascular health. The study found that when people drank soy milk from a can, the levels of bpa in their urine rose dramatically within two hours – and so did their blood pressure. But on days when they drank the same beverage",
-            "Bisphenol a ( bpa ) is used to manufacture polycarbonate plastics. This type of plastic is used to make some types of beverage containers, compact disks, plastic dinnerware, impact-resistant safety equipment, automobile parts, and toys. Bpa epoxy resins are used in the protective linings of food cans, in dental sealants, and in other products. How people are exposed to bpa general exposure to bpa at low levels comes from eating food or drinking water stored in containers that have bpa. Small children may be exposed by hand-to-mouth and direct oral ( mouth ) contact with materials containing bpa. Dental treatment with bpa-containing sealants also results in short-term exposure. In addition, workers who manufacture products that contain bpa can be exposed. How bpa affects people's health human health effects from bpa at low environmental exposures are unknown. Bpa has been shown to affect the reproductive systems of laboratory animals"
+            "People who regularly drink from cans and plastic bottles may want to reconsider: a new study shows that a common chemical in the containers can seep into beverages and raise blood pressure within a few hours. The research raises new concerns about the chemical bisphenol a, or bpa, which is widely found in plastic bottles, plastic packaging and the linings of food and beverage cans. Chronic exposure to bpa, as it is commonly known, has been associated with heart disease, cancer and other health problems. But the new study is among the first to show that a single exposure to the chemical can have a direct and fairly immediate impact on cardiovascular health. The study found that when people drank soy milk from a can, the levels of bpa in their urine rose dramatically within two hours – and so did their blood pressure. But on days when they drank the same beverage"
         ],
         "raw_document": [
             "Drinking or eating from cans or bottles lined with bisphenol a ( bpa ) could raise your blood pressure, according to new research reported in the american heart association's journal hypertension. Bpa, a chemical used as an epoxy lining for cans and plastic bottles, is everywhere, and its consumption has been associated with high blood pressure and heart rate variability. Previous studies have shown that bpa can leach into foods and drinks. \" a 5 mm hg increase in systolic blood pressure by drinking two canned beverages may cause clinically significant problems, particularly in patients with heart disease or hypertension, \" said yun-chul hong, m.d., ph.d., study author and chair of the department of preventive medicine and director of the environmental health center at seoul national university college of medicine in south korea. \" a 20 mm hg increase in systolic blood pressure doubles the risk of cardiovascular disease. \"",
@@ -101,7 +100,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -132,7 +131,7 @@
             "0": 2,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -163,12 +162,11 @@
     },
     {
         "idx": 11906,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A hawaiian burger chain is scrubbing one of its locations top to bottom after two employees apparently decided to cook up a rat. A short clip posted days ago on snapchat shows two staffers joking around as a rat is seen on the grill of teddy's bigger burgers ' mapunapuna location in honolulu, per the ap. \" we are horrified a former employee would create something like this trying to destroy our reputation without regard for our 20-plus years of quality and aloha, \" says eatery president richard stula, adding the company is weighing legal action against the teen and the other employee involved, both of whom were fired. A \" complete sanitization \" of the location is now underway, according to the company, which says all equipment and utensils will be replaced. \" we will then send a corporate team in to inspect and complete a thorough audit of the location before it is allowed to re-open, \" says stula. Hawaii's department of health will also inspect the restaurant on friday, per the ap, which quotes a health rep as saying a licensed pest control operator would also examine the restaurant for rodents. Hawaii news now reports no serious violations were found at the mapunapuna location during its last health inspection in june. ( a rat cost this restaurant chain $ 190 million. )",
         "split": "train",
         "cleansed_document": [
-            "Honolulu ( ap ) — a hawaii-based burger chain has closed a honolulu restaurant for cleaning after a video posted to social media appeared to show a rat being cooked on the grill. Teddy's bigger burgers has closed the mapunapuna location and fired two employees who appeared in the snapchat video. \" we are horrified that a former teenage employee would conduct themselves in that way and make such a video of which we are investigating its authenticity, \" said richard stula, the president of teddy's bigger burgers. The company initiated a \" complete sanitization \" and is replacing equipment and utensils at the fast-food restaurant after the video was shared with them several days ago, stula said in the statement. \" we will then send a corporate team in to inspect and complete a thorough audit of the location before it is allowed to re-open, \" stula said. The state department of health is scheduled to inspect the restaurant on mapunapuna street on friday. The company is also contacting a licensed pest control operator to examine the restaurant for rodents, said peter oshiro, the state's environmental health program manager. \" doh appreciates the remedial and proactive efforts undertaken by the restaurant owner to protect public health, \" oshiro said in a statement. The restaurant received a passing green placard following its last state inspection in june. The company is consulting with its attorneys about potential legal action against the former employees, stula said. \" we are horrified a former employee would create something like this trying to destroy our reputation without regard for our 20-plus years of quality and aloha, \" he said.",
-            "Although the science holds promise for helping people already born and studies testing that are underway, a statement issued thursday by the 14-member conference leaders says it's irresponsible to try it on eggs, sperm or embryos except in lab research because not enough is known yet about its risks"
+            "Honolulu ( ap ) — a hawaii-based burger chain has closed a honolulu restaurant for cleaning after a video posted to social media appeared to show a rat being cooked on the grill. Teddy's bigger burgers has closed the mapunapuna location and fired two employees who appeared in the snapchat video. \" we are horrified that a former teenage employee would conduct themselves in that way and make such a video of which we are investigating its authenticity, \" said richard stula, the president of teddy's bigger burgers. The company initiated a \" complete sanitization \" and is replacing equipment and utensils at the fast-food restaurant after the video was shared with them several days ago, stula said in the statement. \" we will then send a corporate team in to inspect and complete a thorough audit of the location before it is allowed to re-open, \" stula said. The state department of health is scheduled to inspect the restaurant on mapunapuna street on friday. The company is also contacting a licensed pest control operator to examine the restaurant for rodents, said peter oshiro, the state's environmental health program manager. \" doh appreciates the remedial and proactive efforts undertaken by the restaurant owner to protect public health, \" oshiro said in a statement. The restaurant received a passing green placard following its last state inspection in june. The company is consulting with its attorneys about potential legal action against the former employees, stula said. \" we are horrified a former employee would create something like this trying to destroy our reputation without regard for our 20-plus years of quality and aloha, \" he said."
         ],
         "raw_document": [
             "Honolulu ( ap ) — a hawaii-based burger chain has closed a honolulu restaurant for cleaning after a video posted to social media appeared to show a rat being cooked on the grill. Teddy's bigger burgers has closed the mapunapuna location and fired two employees who appeared in the snapchat video. \" we are horrified that a former teenage employee would conduct themselves in that way and make such a video of which we are investigating its authenticity, \" said richard stula, the president of teddy's bigger burgers. The company initiated a \" complete sanitization \" and is replacing equipment and utensils at the fast-food restaurant after the video was shared with them several days ago, stula said in the statement. \" we will then send a corporate team in to inspect and complete a thorough audit of the location before it is allowed to re-open, \" stula said. The state department of health is scheduled to inspect the restaurant on mapunapuna street on friday. The company is also contacting a licensed pest control operator to examine the restaurant for rodents, said peter oshiro, the state's environmental health program manager. \" doh appreciates the remedial and proactive efforts undertaken by the restaurant owner to protect public health, \" oshiro said in a statement. The restaurant received a passing green placard following its last state inspection in june. The company is consulting with its attorneys about potential legal action against the former employees, stula said. \" we are horrified a former employee would create something like this trying to destroy our reputation without regard for our 20-plus years of quality and aloha, \" he said.",
@@ -183,7 +181,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -289,7 +287,7 @@
             "0": 0,
             "1": 3,
             "2": 4,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -341,7 +339,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -534,7 +532,7 @@
             "1": 1,
             "2": 3,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -598,12 +596,11 @@
     },
     {
         "idx": 11922,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "President barack obama says opponents of gun control laws know how to stir up fear and scare politicians. At a news conference friday, obama lamented the inability to pass stricter gun laws even after incidents such as the shooting thursday at an oregon community college that killed nine people. He added that interest groups and republican politicians know how to organize and raise money, and that the american people must match their sense of urgency if the country is to stop the flood of mass shootings. \" this will not change until the politics changes and the behavior of elected officials changes. And so, the main thing i ' m going to do is i ' m going to talk about this. On a regular basis. And i will politicize it, \" obama said, per a new york times video. \" because our inaction is a political decision that we are making. And the people who are troubled by this have to be as intense and as organized and as adamant about this issue as folks on the other side, who are absolutists and think that any gun safety measures are somehow an assault on freedom or communistic. \" he also ordered us flags to be flown at half-staff until sunset tuesday.",
         "split": "train",
         "cleansed_document": [
-            "Douglas county deputy sheriff greg kennerly, left, and oregon state trooper tom willis, stand guard outside the apartment building, friday oct. 2 2015, where alleged umpqua community college gunman chris... ( associated press ) roseburg, ore. ( ap ) — the latest on a deadly shooting at a community college in oregon ( all times local ): 3: 02 p.m. President barack obama is ordering that american flags be flown at half-staff in honor of the victims of the mass shooting at an oregon community college. Obama signed the proclamation at the white house on friday. He's directing flags to be lowered until sunset tuesday. The order applies to flags at the white house, public buildings, u.s. Military installations and naval vessels, government facilities and u.s. Embassies abroad. Authorities say a 26-year-old gunman opened fire thursday in a class at umpqua ( uhmp ' -kwah ) community college, killing nine and injuring nine others. ___ 2: 56 p.m. The oregon community college where nine people were shot and killed has canceled classes for all of next week. Authorities on friday identified the nine victims as 19-year-old lucero alcaraz, of roseburg; 18-year-old quinn glen cooper, of roseburg; 59-year-old kim saltmarsh dietz, of roseburg; 18-year-old lucas eibel, of roseburg; 67-year-old teacher lawrence levine, of glide; jason dale johnson, of winston; 18-year-old rebecka ann carnes, of myrtle creek; 44-year-old sarena dawn moore, of myrtle creek; and 20-year-old treven taylor anspach, of sutherlin. A statement from eibel's family says he volunteered at a wildlife center and animal shelter. He was studying chemistry and loved to play soccer. Cooper's family says he was funny and compassionate and loved dancing and voice acting. A statement from johnson's family says he was a christian and recently enrolled in school. ___ 2: 37 p.m. The victims of the deadly oregon college shooting ranged in age from 18 to 67 and included several freshman students and a teacher. Authorities released the names, ages and brief biographical information about the nine people who died at a friday news conference. The victims included a freshman who was active in future farmers of america and loved to play soccer. Another was an 18-year-old who graduated from high school in june and was in his fourth day of college. Yet another was a 34-year-old who was proud of himself for recently enrolling at umpqua ( uhmp ' -kwah ) community college. Douglas county sheriff john hanlin",
-            "U.s. President barack obama says the main thing he will do on gun control is talk about it on a regular basis, adding that he \" will politicize it. \" rough cut ( no reporter narration )."
+            "Douglas county deputy sheriff greg kennerly, left, and oregon state trooper tom willis, stand guard outside the apartment building, friday oct. 2 2015, where alleged umpqua community college gunman chris... ( associated press ) roseburg, ore. ( ap ) — the latest on a deadly shooting at a community college in oregon ( all times local ): 3: 02 p.m. President barack obama is ordering that american flags be flown at half-staff in honor of the victims of the mass shooting at an oregon community college. Obama signed the proclamation at the white house on friday. He's directing flags to be lowered until sunset tuesday. The order applies to flags at the white house, public buildings, u.s. Military installations and naval vessels, government facilities and u.s. Embassies abroad. Authorities say a 26-year-old gunman opened fire thursday in a class at umpqua ( uhmp ' -kwah ) community college, killing nine and injuring nine others. ___ 2: 56 p.m. The oregon community college where nine people were shot and killed has canceled classes for all of next week. Authorities on friday identified the nine victims as 19-year-old lucero alcaraz, of roseburg; 18-year-old quinn glen cooper, of roseburg; 59-year-old kim saltmarsh dietz, of roseburg; 18-year-old lucas eibel, of roseburg; 67-year-old teacher lawrence levine, of glide; jason dale johnson, of winston; 18-year-old rebecka ann carnes, of myrtle creek; 44-year-old sarena dawn moore, of myrtle creek; and 20-year-old treven taylor anspach, of sutherlin. A statement from eibel's family says he volunteered at a wildlife center and animal shelter. He was studying chemistry and loved to play soccer. Cooper's family says he was funny and compassionate and loved dancing and voice acting. A statement from johnson's family says he was a christian and recently enrolled in school. ___ 2: 37 p.m. The victims of the deadly oregon college shooting ranged in age from 18 to 67 and included several freshman students and a teacher. Authorities released the names, ages and brief biographical information about the nine people who died at a friday news conference. The victims included a freshman who was active in future farmers of america and loved to play soccer. Another was an 18-year-old who graduated from high school in june and was in his fourth day of college. Yet another was a 34-year-old who was proud of himself for recently enrolling at umpqua ( uhmp ' -kwah ) community college. Douglas county sheriff john hanlin"
         ],
         "raw_document": [
             "Douglas county deputy sheriff greg kennerly, left, and oregon state trooper tom willis, stand guard outside the apartment building, friday oct. 2 2015, where alleged umpqua community college gunman chris... ( associated press ) roseburg, ore. ( ap ) — the latest on a deadly shooting at a community college in oregon ( all times local ): 3: 02 p.m. President barack obama is ordering that american flags be flown at half-staff in honor of the victims of the mass shooting at an oregon community college. Obama signed the proclamation at the white house on friday. He's directing flags to be lowered until sunset tuesday. The order applies to flags at the white house, public buildings, u.s. Military installations and naval vessels, government facilities and u.s. Embassies abroad. Authorities say a 26-year-old gunman opened fire thursday in a class at umpqua ( uhmp ' -kwah ) community college, killing nine and injuring nine others. ___ 2: 56 p.m. The oregon community college where nine people were shot and killed has canceled classes for all of next week. Authorities on friday identified the nine victims as 19-year-old lucero alcaraz, of roseburg; 18-year-old quinn glen cooper, of roseburg; 59-year-old kim saltmarsh dietz, of roseburg; 18-year-old lucas eibel, of roseburg; 67-year-old teacher lawrence levine, of glide; jason dale johnson, of winston; 18-year-old rebecka ann carnes, of myrtle creek; 44-year-old sarena dawn moore, of myrtle creek; and 20-year-old treven taylor anspach, of sutherlin. A statement from eibel's family says he volunteered at a wildlife center and animal shelter. He was studying chemistry and loved to play soccer. Cooper's family says he was funny and compassionate and loved dancing and voice acting. A statement from johnson's family says he was a christian and recently enrolled in school. ___ 2: 37 p.m. The victims of the deadly oregon college shooting ranged in age from 18 to 67 and included several freshman students and a teacher. Authorities released the names, ages and brief biographical information about the nine people who died at a friday news conference. The victims included a freshman who was active in future farmers of america and loved to play soccer. Another was an 18-year-old who graduated from high school in june and was in his fourth day of college. Yet another was a 34-year-old who was proud of himself for recently enrolling at umpqua ( uhmp ' -kwah ) community college. Douglas county sheriff john hanlin",
@@ -618,7 +615,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -675,12 +672,11 @@
     },
     {
         "idx": 11925,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A texas tech freshman is in custody after the fatal shooting of a campus police officer sparked a manhunt and a lockdown of the lubbock campus that lasted more than an hour. Police say hollis daniels, a 19-year-old man who lived on campus, was arrested near lubbock municipal coliseum at 9: 35pm local time, almost two hours after he allegedly shot the officer at campus police headquarters and fled on foot, the lubbock avalanche-journal reports. The school says daniels, from seguin, near san antonio, was first taken into custody when police found drugs and drug paraphernalia after being called for a welfare check. Daniels was being processed for jail when \" he produced a weapon — it has yet to be determined the details of that — and mortally wounded one of our officers, \" says university police chief kyle bonath, per nbc news. Sources tell kcbd that daniels ripped off the slain officer's body camera after the shooting, but it was found about an hour after he was arrested. Texas tech president lawrence schovanec thanked the lubbock police department and other agencies that helped apprehend daniels, the daily toreador reports. \" the family of the deceased officer will be in the prayers of the entire texas tech community, \" he said. \" in the coming days, we ' ll be offering our full support to that family. \"",
         "split": "train",
         "cleansed_document": [
-            "A texas tech police officer has been shot and killed at texas tech police headquarters. It happened around 7: 45 p.m. Monday at the texas tech police building at 413 flint avenue. Officials with the lubbock police department say texas tech police made a student welfare check late monday afternoon. When the officers entered the room of 19-year-old freshman hollis a. Daniels, officers found evidence of drugs and drug paraphernalia. Officers took daniels to the ttu police station for standard debriefing. At the ttu police station, daniels is accused of pulling a gun and fatally shooting an officer. The suspect ran off and a full swat call out was made. \" during this time, the suspect pulled a gun and mortally shot an officer, \" texas tech police department chief kyle bonath said. \" the suspect fled on foot and later apprehended by ttpd near the lubbock municipal coliseum. \" daniels was taken into custody at 9: 28 p.m. According to officials with the lubbock county sheriff's office. He was found near the lubbock municipal coliseum. Sources say daniels ' ripped off the officer's body camera after the shooting, but the camera was found around 10: 30 p.m. Once daniels was taken into custody, the lockdowns at texas tech university and university medical center were lifted. Classes will resume normally on tuesday, oct. 10, but officials say people still need to avoid the texas tech police department and the north side of campus. Sources report after being taken into custody, daniels repeatedly tried to spit on law enforcement officers. Officials with texas tech police, lubbock police department, lubbock county sheriff's office, federal agents, and the texas department of public safety were all called to assist. After daniels ' arrest, officials were searching through vehicles on the west side of the stadium. Sources say a gun was recovered, but it is not clear if it belonged to the officer or daniels. T.c. Richards, a ttu student, says he found out about the active shooter situation and",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "A texas tech police officer has been shot and killed at texas tech police headquarters. It happened around 7: 45 p.m. Monday at the texas tech police building at 413 flint avenue. Officials with the lubbock police department say texas tech police made a student welfare check late monday afternoon. When the officers entered the room of 19-year-old freshman hollis a. Daniels, officers found evidence of drugs and drug paraphernalia. Officers took daniels to the ttu police station for standard debriefing. At the ttu police station, daniels is accused of pulling a gun and fatally shooting an officer. The suspect ran off and a full swat call out was made. \" during this time, the suspect pulled a gun and mortally shot an officer, \" texas tech police department chief kyle bonath said. \" the suspect fled on foot and later apprehended by ttpd near the lubbock municipal coliseum. \" daniels was taken into custody at 9: 28 p.m. According to officials with the lubbock county sheriff's office. He was found near the lubbock municipal coliseum. Sources say daniels ' ripped off the officer's body camera after the shooting, but the camera was found around 10: 30 p.m. Once daniels was taken into custody, the lockdowns at texas tech university and university medical center were lifted. Classes will resume normally on tuesday, oct. 10, but officials say people still need to avoid the texas tech police department and the north side of campus. Sources report after being taken into custody, daniels repeatedly tried to spit on law enforcement officers. Officials with texas tech police, lubbock police department, lubbock county sheriff's office, federal agents, and the texas department of public safety were all called to assist. After daniels ' arrest, officials were searching through vehicles on the west side of the stadium. Sources say a gun was recovered, but it is not clear if it belonged to the officer or daniels. T.c. Richards, a ttu student, says he found out about the active shooter situation and"
         ],
         "raw_document": [
             "A texas tech police officer has been shot and killed at texas tech police headquarters. It happened around 7: 45 p.m. Monday at the texas tech police building at 413 flint avenue. Officials with the lubbock police department say texas tech police made a student welfare check late monday afternoon. When the officers entered the room of 19-year-old freshman hollis a. Daniels, officers found evidence of drugs and drug paraphernalia. Officers took daniels to the ttu police station for standard debriefing. At the ttu police station, daniels is accused of pulling a gun and fatally shooting an officer. The suspect ran off and a full swat call out was made. \" during this time, the suspect pulled a gun and mortally shot an officer, \" texas tech police department chief kyle bonath said. \" the suspect fled on foot and later apprehended by ttpd near the lubbock municipal coliseum. \" daniels was taken into custody at 9: 28 p.m. According to officials with the lubbock county sheriff's office. He was found near the lubbock municipal coliseum. Sources say daniels ' ripped off the officer's body camera after the shooting, but the camera was found around 10: 30 p.m. Once daniels was taken into custody, the lockdowns at texas tech university and university medical center were lifted. Classes will resume normally on tuesday, oct. 10, but officials say people still need to avoid the texas tech police department and the north side of campus. Sources report after being taken into custody, daniels repeatedly tried to spit on law enforcement officers. Officials with texas tech police, lubbock police department, lubbock county sheriff's office, federal agents, and the texas department of public safety were all called to assist. After daniels ' arrest, officials were searching through vehicles on the west side of the stadium. Sources say a gun was recovered, but it is not clear if it belonged to the officer or daniels. T.c. Richards, a ttu student, says he found out about the active shooter situation and",
@@ -695,17 +691,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 11926,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Mark zuckerberg went on the defense thursday after a damning report in the new york times faulted him and coo sheryl sandberg for how they handled the russian hacking controversy. \" the reality of running a company of more than 10,000 people is that you're not going to know everything that's going on, \" he told reporters, per the times. The gist of the original story is that facebook's top two execs were first oblivious to the problem of russian hackers, then later tried to cover up the story or at least deflect blame from the company. Both zuckerberg and sandberg distanced themselves thursday from one of the more controversial aspects of the story — that facebook hired a republican opposition research company that tried to link anti-facebook protesters to george soros, reports the guardian. \" look, i learned about this reading in the new york times yesterday, \" zuckerberg said. \" as soon as i learned about this, i talked to our team and we're no longer working with this firm. \" the original investigative piece said that sandberg oversaw facebook's response to the russian hacking and thus was responsible for hiring the firm, definers public affairs. But she suggested an underling did the hiring. \" i did not know we hired them or about the work they were doing, but i should have, \" she wrote in a statement. \" i have great respect for george soros — and the anti-semitic conspiracy theories against him are abhorrent. \" the president of soros ' open society foundation called facebook's participation in the effort to go after soros \" reprehensible \" and \" frankly astonishing. \" ( a facebook exec's public support of brett kavanaugh didn't sit well with critics, either. )",
         "split": "train",
         "cleansed_document": [
-            "Ceo says he learned about relationship with pr company after it was reported in new york times mark zuckerberg defended his leadership of facebook on thursday, claiming ignorance of the company's relationship with a political consultancy that used an antisemitic narrative to undermine critics. \"look, i learned about this reading in the new york times yesterday, \" a defensive zuckerberg said on a conference call with reporters that was ostensibly about facebook's content moderation practices. \"as soon as i learned about this, i talked to our team and we're no longer working with this firm. \" zuckerberg went on to repeat part of the messaging of the pr firm, which is that the prominent philanthropist george soros, who is jewish, is pulling the strings of not-for-profit groups that have criticized facebook, some of them under the banner of a campaign called \"freedom from facebook \". \"the bottom line is the intention was not to attack an individual but to demonstrate that a group that was presenting itself as a grassroots effort was in fact funded by … was not in fact a spontaneous grassroots effort, \" zuckerberg said. \"i have tremendous respect for george soros. \" facebook reportedly discredited critics by linking them to george soros read more zuckerberg's comments came in the aftermath of a damning report by the new york times exposing how facebook executives have struggled",
-            "Washington — on thursday, mark zuckerberg, facebook's chief executive and chairman, held a conference call with reporters to discuss how the social network manages problematic posts and its community standards. The call quickly went sideways. For more than an hour, the 34-year-old billionaire instead fielded questions about how he and his no. 2, sheryl sandberg, obfuscated problems such as russian interference on facebook and how the company had gone on the attack against rivals and critics. In response, mr. Zuckerberg — at times defiant and at times conciliatory — defended the social network, ms. Sandberg and his own record. \"the reality of running a company of more than 10,000 people is that you're not going to know everything that's going on, \" he said at one point. Yet even as mr. Zuckerberg was making his case, a furor against his company was gathering momentum. In washington, republicans and democrats threatened to restrain facebook through competition laws and to open investigations into possible campaign finance violations. Shareholders ramped up calls to oust mr. Zuckerberg as facebook's chairman. And activists filed a complaint to the federal trade commission about the social network's privacy policies and condemned ms. Sandberg, the chief operating officer, for overseeing a campaign to secretly attack opponents."
+            "Ceo says he learned about relationship with pr company after it was reported in new york times mark zuckerberg defended his leadership of facebook on thursday, claiming ignorance of the company's relationship with a political consultancy that used an antisemitic narrative to undermine critics. \"look, i learned about this reading in the new york times yesterday, \" a defensive zuckerberg said on a conference call with reporters that was ostensibly about facebook's content moderation practices. \"as soon as i learned about this, i talked to our team and we're no longer working with this firm. \" zuckerberg went on to repeat part of the messaging of the pr firm, which is that the prominent philanthropist george soros, who is jewish, is pulling the strings of not-for-profit groups that have criticized facebook, some of them under the banner of a campaign called \"freedom from facebook \". \"the bottom line is the intention was not to attack an individual but to demonstrate that a group that was presenting itself as a grassroots effort was in fact funded by … was not in fact a spontaneous grassroots effort, \" zuckerberg said. \"i have tremendous respect for george soros. \" facebook reportedly discredited critics by linking them to george soros read more zuckerberg's comments came in the aftermath of a damning report by the new york times exposing how facebook executives have struggled"
         ],
         "raw_document": [
             "Ceo says he learned about relationship with pr company after it was reported in new york times mark zuckerberg defended his leadership of facebook on thursday, claiming ignorance of the company's relationship with a political consultancy that used an antisemitic narrative to undermine critics. \"look, i learned about this reading in the new york times yesterday, \" a defensive zuckerberg said on a conference call with reporters that was ostensibly about facebook's content moderation practices. \"as soon as i learned about this, i talked to our team and we're no longer working with this firm. \" zuckerberg went on to repeat part of the messaging of the pr firm, which is that the prominent philanthropist george soros, who is jewish, is pulling the strings of not-for-profit groups that have criticized facebook, some of them under the banner of a campaign called \"freedom from facebook \". \"the bottom line is the intention was not to attack an individual but to demonstrate that a group that was presenting itself as a grassroots effort was in fact funded by … was not in fact a spontaneous grassroots effort, \" zuckerberg said. \"i have tremendous respect for george soros. \" facebook reportedly discredited critics by linking them to george soros read more zuckerberg's comments came in the aftermath of a damning report by the new york times exposing how facebook executives have struggled",
@@ -720,7 +715,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -986,7 +981,7 @@
         "vote_count": {
             "0": 0,
             "1": 3,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1011,7 +1006,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1036,7 +1031,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1124,7 +1119,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1149,17 +1144,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 11943,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "After a 17-year wait, judy blume will release a new novel for adults next summer. Her last, summer sisters, was published in 1998. The upcoming book hasn't been titled yet, the new york times reports. All blume's editor will say of the novel, which she's been talking about with blume for four years, is: \" it's pure judy blume, writing about family and about friendships, about love, about betrayal. It's quintessential judy. \" says blume, an icon in the world of young-adult literature, \" i ' m both thrilled and terrified, my usual feelings at this point. I ' ll be hiding out this summer revising, my favorite part of the process. \" blume has written two other adult novels, wifey and smart women, the washington post reports.",
         "split": "train",
         "cleansed_document": [
-            "Judy blume's first novel for adults since \"summer sisters \" appeared in 1998 will be released in summer 2015, according to her publisher, alfred a. Knopf. The book is yet to be titled, and plot details are sparse. Carole baron, ms. Blume's editor at knopf, said of the novel: \"it's pure judy blume, writing about family and about friendships, about love, about betrayal. It's quintessential judy. \" ms. Baron said she had been discussing the new book with ms. Blume for about four years. In a statement released by knopf, ms. Blume said, \"i ' m both thrilled and terrified, my usual feelings at this point. I ' ll be hiding out this summer revising, my favorite part of the process. \"",
-            "Judy blume in her kayak. ( photo by alison shaw for the washington post ) judy blume, the young adult author the wrap calls the \"undisputed champion of misunderstood twelve-year-old girls everywhere, \" is putting out her first adult book since \"summer sisters \" was published in 1998. There are few details about blume's book, but we do know it's due in 2015. The lack of details doesn't matter because the announcement itself is enough to cause a hullabaloo among blume's many ravenous, devoted fans. At the new yorker, anna holmes explained the reverence many have for the author: many women can tell you when and where they first read a judy blume book, but i ' m pretty sure that a lot of them can't remember how exactly they got their hands on it. That's because, like a beloved pet or a well-worn pair of sneakers, judy blume's books were always just sort of there, part of the architecture and set dressing of many a young girl's life. Devoured during recess or pored over under the glow of a mini-flashlight after parents said their goodnights, blume's books were dog-eared talismans that, for a significant segment of the american female population, marked the passage from childhood to adolescence. Blume's knopf editor, carole baron, wouldn't reveal much about the new book, but she told john williams of the new york times: \"it's pure judy blume, writing about family and about friendships, about love, about betrayal … it's quintessential judy. \" though blume's new book is for grownups, she is widely regarded as the queen of ya, a title that could be a dubious one were it bestowed on anyone else. In a recent \"colbert report \" interview, john green, the author of \"the fault in"
+            "Judy blume's first novel for adults since \"summer sisters \" appeared in 1998 will be released in summer 2015, according to her publisher, alfred a. Knopf. The book is yet to be titled, and plot details are sparse. Carole baron, ms. Blume's editor at knopf, said of the novel: \"it's pure judy blume, writing about family and about friendships, about love, about betrayal. It's quintessential judy. \" ms. Baron said she had been discussing the new book with ms. Blume for about four years. In a statement released by knopf, ms. Blume said, \"i ' m both thrilled and terrified, my usual feelings at this point. I ' ll be hiding out this summer revising, my favorite part of the process. \""
         ],
         "raw_document": [
             "Judy blume's first novel for adults since \"summer sisters \" appeared in 1998 will be released in summer 2015, according to her publisher, alfred a. Knopf. The book is yet to be titled, and plot details are sparse. Carole baron, ms. Blume's editor at knopf, said of the novel: \"it's pure judy blume, writing about family and about friendships, about love, about betrayal. It's quintessential judy. \" ms. Baron said she had been discussing the new book with ms. Blume for about four years. In a statement released by knopf, ms. Blume said, \"i ' m both thrilled and terrified, my usual feelings at this point. I ' ll be hiding out this summer revising, my favorite part of the process. \"",
@@ -1174,7 +1168,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1207,12 +1201,11 @@
     },
     {
         "idx": 11945,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "What the st. Louis cardinals did to the washington nationals last night has ryan bothmann at bleacher report wondering whether this might be the \" most clutch \" team in sports history. If you missed it, the cards once trailed 6-0 in the game but scored four in the bottom of the 9th to win 9-7. They were down to their final strike more than once and came through, just as they did again and again last year on the run to the world series title. Both seasons also required a late september rally just to make the playoffs. No problem. What the team has done in the last two years \" will likely stand alone as one of the most clutch events that sports fans will ever see, \" writes bothmann. Read the full column here. ( the yankees also advanced last night, which means it's yankees-tigers in the al and cardinals-giants in the nl. More on the matchups here and on a-rod's sinking fortunes here. )",
         "split": "train",
         "cleansed_document": [
-            "There have and will always be games in sports that leave fans in disbelief. Great comebacks that can only be described as miracles. But what the st. Louis cardinals ' organization has done over the last two seasons will likely stand alone as one of the most clutch events that sports fans will ever see. The cardinals needed a miraculous september rally just to make the playoffs on the final day of the regular season last year. They went on to stun the phillies in a dramatic five-game nlds and then knocked off the brewers in six games in the nlcs. St. Louis would eventually find themselves facing the texas rangers in the world series. The rangers, hungry for a title after coming up short in the 2010 fall classic, grabbed a 3-2 series lead over the redbirds. They took a 7-5 lead into the ninth inning of game 6 and appeared primed to win their franchise's first championship. Not so fast. Down to their final strike, the cardinals rallied in the ninth and tied the game on a two-run triple by st. Louis third baseman david freese. The tie did not last for long. In the 10th inning, josh hamilton hit a two-run bomb to put texas back on top 9-7. It appeared that time had finally",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "There have and will always be games in sports that leave fans in disbelief. Great comebacks that can only be described as miracles. But what the st. Louis cardinals ' organization has done over the last two seasons will likely stand alone as one of the most clutch events that sports fans will ever see. The cardinals needed a miraculous september rally just to make the playoffs on the final day of the regular season last year. They went on to stun the phillies in a dramatic five-game nlds and then knocked off the brewers in six games in the nlcs. St. Louis would eventually find themselves facing the texas rangers in the world series. The rangers, hungry for a title after coming up short in the 2010 fall classic, grabbed a 3-2 series lead over the redbirds. They took a 7-5 lead into the ninth inning of game 6 and appeared primed to win their franchise's first championship. Not so fast. Down to their final strike, the cardinals rallied in the ninth and tied the game on a two-run triple by st. Louis third baseman david freese. The tie did not last for long. In the 10th inning, josh hamilton hit a two-run bomb to put texas back on top 9-7. It appeared that time had finally"
         ],
         "raw_document": [
             "There have and will always be games in sports that leave fans in disbelief. Great comebacks that can only be described as miracles. But what the st. Louis cardinals ' organization has done over the last two seasons will likely stand alone as one of the most clutch events that sports fans will ever see. The cardinals needed a miraculous september rally just to make the playoffs on the final day of the regular season last year. They went on to stun the phillies in a dramatic five-game nlds and then knocked off the brewers in six games in the nlcs. St. Louis would eventually find themselves facing the texas rangers in the world series. The rangers, hungry for a title after coming up short in the 2010 fall classic, grabbed a 3-2 series lead over the redbirds. They took a 7-5 lead into the ninth inning of game 6 and appeared primed to win their franchise's first championship. Not so fast. Down to their final strike, the cardinals rallied in the ninth and tied the game on a two-run triple by st. Louis third baseman david freese. The tie did not last for long. In the 10th inning, josh hamilton hit a two-run bomb to put texas back on top 9-7. It appeared that time had finally",
@@ -1229,7 +1222,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1254,7 +1247,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1317,7 +1310,7 @@
             "3": 0,
             "4": 0,
             "5": 2,
-            "6": 0
+            "6": 2
         }
     },
     {
@@ -1349,7 +1342,7 @@
             "1": 0,
             "2": 3,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1385,13 +1378,12 @@
     },
     {
         "idx": 11951,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "After watching a rachel maddow show segment that was critical of trump's attorney, marc kasowitz, a viewer dashed off an email to the lawyer saying he should quit. The response he probably didn't expect to get from kasowitz? \"f --- you. \" this was the first in a series of alarming email responses the unidentified man received from kasowitz, reports propublica, which confirmed the details of the exchange. ( you can see the forwarded email exchange in full on twitter ). The viewer's initial email, with the subject line \"resign now, \" was sent after he watched maddow speak about a propublica article speculating that kasowitz, trump's personal lawyer regarding the russia investigation, wasn't seeking security clearance because troubling behavior including alcohol abuse would prevent him from obtaining it. Kasowitz blasted off the two-word response five minutes later, then followed up three times, writing \" watch your back, b --- \" and \" i already know where you live, i ' m on you. \" per propublica, the man immediately forwarded kasowitz's emails to the fbi in case he made good on his promises. A spokesperson for kasowitz says he intends to apologize for the exchange, writing, \" while no excuse, the email came at the end of a very long day that at 10pm was not yet over. \" the hollywood reporter also has a statement from kasowitz: \" the person sending that email is entitled to his opinion and i should not have responded in that inappropriate manner.... This is one of those times where one wishes he could reverse the clock, but of course i can't. \" \" maddow herself responded to the story on twitter: \" i ' m going to need a new cup of coffee, since the old one just came flying out of my nose. \"",
         "split": "train",
         "cleansed_document": [
             "\" i already know where you live, i ' m on you, \" marc kasowitz wrote to a man who said he should quit working for the president. In a twist fit for primetime television, expletive-laden emails written by president donald trump's attorney marc kasowitz have surfaced on the same day the lawyer filed court documents, for his other client amc, that derided obscenity-fueled emails written by the walking dead co-creator frank darabont. A rachel maddow viewer emailed kasowitz and suggested he should quit working for trump, propublica reports. The lawyer responded in a series of messages that started with \" f*ck you \" — asterisk included. \" watch your back, bitch, \" states a second message. \" don't be afraid, you piece of shit, \" says a third. In the fourth message, kasowitz says he's jewish and presumes the man who emailed",
-            "The trump administration the 45th president and his administration marc kasowitz, president trump's personal attorney on the russia case, threatened a stranger in a string of profanity-laden emails wednesday night. The man, a retired public relations professional in the western united states who asked not to be identified, read propublica's story this week on kasowitz and sent the lawyer an email with the subject line: \"resign now. \" kasowitz replied with series of angry messages sent between 9: 30 p.m. And 10 p.m. Eastern time. One read: \"i ' m on you now. You are fucking with me now let's see who you are watch your back, bitch. \" in another email, kasowitz wrote: \"call me. Don't be afraid, you piece of shit. Stand up. If you don't call, you're just afraid. \" and later",
-            "The trump administration the 45th president and his administration the ongoing investigations into alleged collusion between the trump campaign and russia involve reams of classified material. Yet marc kasowitz, the new york lawyer whom president donald trump has hired to defend him in these inquiries, told propublica through a spokesman that he does not have a security clearance — the prerequisite for access to government secrets. Nor does he expect to seek one. Several lawyers who have represented presidents and senior government officials said they could not imagine handling a case so suffused with sensitive material without a clearance. \"no question in my mind — in order to represent president trump in this matter you would have to get a very high level of clearance because of the allegations involving russia, \" said robert bennett, who served as president bill clinton's personal lawyer. Like many washington lawyers, bennett has held security clearances throughout his"
+            "The trump administration the 45th president and his administration marc kasowitz, president trump's personal attorney on the russia case, threatened a stranger in a string of profanity-laden emails wednesday night. The man, a retired public relations professional in the western united states who asked not to be identified, read propublica's story this week on kasowitz and sent the lawyer an email with the subject line: \"resign now. \" kasowitz replied with series of angry messages sent between 9: 30 p.m. And 10 p.m. Eastern time. One read: \"i ' m on you now. You are fucking with me now let's see who you are watch your back, bitch. \" in another email, kasowitz wrote: \"call me. Don't be afraid, you piece of shit. Stand up. If you don't call, you're just afraid. \" and later"
         ],
         "raw_document": [
             "\" i already know where you live, i ' m on you, \" marc kasowitz wrote to a man who said he should quit working for the president. In a twist fit for primetime television, expletive-laden emails written by president donald trump's attorney marc kasowitz have surfaced on the same day the lawyer filed court documents, for his other client amc, that derided obscenity-fueled emails written by the walking dead co-creator frank darabont. A rachel maddow viewer emailed kasowitz and suggested he should quit working for trump, propublica reports. The lawyer responded in a series of messages that started with \" f*ck you \" — asterisk included. \" watch your back, bitch, \" states a second message. \" don't be afraid, you piece of shit, \" says a third. In the fourth message, kasowitz says he's jewish and presumes the man who emailed",
@@ -1408,18 +1400,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 11952,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A month after the acquittal of the officer in the philando castile shooting, minneapolis police have another high-profile fatality on their hands. A 40-year-old woman due to be married next month was shot to death by police saturday night after she called 911 to report a noise in the alley near her house. In a release, the department said that the responding officers ' body cameras were not turned on and that the shooting is under investigation. The minneapolis star tribune quotes three sources who say that justine damond came out of the house in her pajamas when a police car arrived about 11: 30pm saturday and approached the driver's side. She was speaking to the driver when the officer in the passenger seat opened fire and shot her through the door, per the story. It's unclear whether it was accidental. Damond, a native of australia, was a yoga instructor and meditation teacher, per her website. Her name was actually justine ruszczyk, but she had already begun using the name damond. She was to wed don damond, a 50-year-old businessman who was away on a business trip when the shooting took place. \" basically, my mom's dead because a police officer shot her for reasons i don't know, \" his 22-year-old son, zach, said in a video posted to the women's march minnesota facebook page. \"i demand answers. \" mayor betsy hodges said she was \" heartsick and deeply disturbed by the shooting, \" which was also making headlines in australia, per that country's 9news.",
         "split": "train",
         "cleansed_document": [
             "The devastated father of a sydney woman shot dead by us police has demanded justice after the incident was ruled a homicide by local authorities. Justine ruszczyk, 40, was shot in the abdomen by officer mohammed noor after she called 911 to report what she believed was an \" active sexual assault \" in an alley near her minneapolis home on saturday night ( local time ). Speaking in sydney today, ruszczyks ' father john ruszczyk said the family hoped justice would prevail after the qualified veterinarian and motivational healer's death. \" we thought yesterday was our worst nightmare, but we awoke to the ugly truth and it hurt even more, \" mr ruszczyk said. \" justine, our daughter, was so special to us and to so many others. \" we went down to ( freshwater ) beach this morning and saw the blackness change to light. \" justine was a",
-            "Gallery: a woman was shot overnight in an alleyway on the 5100 block of washburn ave s. In the fulton neighborhood of minneapolis. The bca was on scene to investigate. Gallery: neighbors were confounded as to what happened the night before. A woman was shot overnight in an alleyway on the 5100 block of washburn ave s. In the fulton neighborhood of minneapolis. Gallery: a woman was shot overnight in an alleyway on the 5100 block of washburn ave s. In the fulton neighborhood of minneapolis. The fire department helped clean up the crime scene. Gallery: minneapolis mayor betsy hodges and assistant police chief medaria arradondo addressed the media. They declined to comment on details of the officer shooting of a woman in south minneapolis the night before because the bca is assigned to the case. Gallery: minneapolis mayor betsy hodges and assistant police chief medaria arradondo addressed the media. They declined",
-            "Have the inside of your home designed by milwaukee's best — justine damond do you want to improve your home? are you looking for the best interior designer who can uplift the look of your home and increase its value? if so, do not hesitate to contact justine damond. We are simply the best interior designer in the entire wisconsin area. Even as a child, justine damond was already very much into interior design. He liked sketching his home and helping his mom make sure that the design of their house is always updated. When he was a teenager, he loved helping his dad, a civil engineer by profession, in designing homes for their construction business. But instead of designing the structure of the home, as his dad did, he was more interested in making quirky and innovative designs for the inside of the home. As such, even"
+            "Gallery: a woman was shot overnight in an alleyway on the 5100 block of washburn ave s. In the fulton neighborhood of minneapolis. The bca was on scene to investigate. Gallery: neighbors were confounded as to what happened the night before. A woman was shot overnight in an alleyway on the 5100 block of washburn ave s. In the fulton neighborhood of minneapolis. Gallery: a woman was shot overnight in an alleyway on the 5100 block of washburn ave s. In the fulton neighborhood of minneapolis. The fire department helped clean up the crime scene. Gallery: minneapolis mayor betsy hodges and assistant police chief medaria arradondo addressed the media. They declined to comment on details of the officer shooting of a woman in south minneapolis the night before because the bca is assigned to the case. Gallery: minneapolis mayor betsy hodges and assistant police chief medaria arradondo addressed the media. They declined"
         ],
         "raw_document": [
             "The devastated father of a sydney woman shot dead by us police has demanded justice after the incident was ruled a homicide by local authorities. Justine ruszczyk, 40, was shot in the abdomen by officer mohammed noor after she called 911 to report what she believed was an \" active sexual assault \" in an alley near her minneapolis home on saturday night ( local time ). Speaking in sydney today, ruszczyks ' father john ruszczyk said the family hoped justice would prevail after the qualified veterinarian and motivational healer's death. \" we thought yesterday was our worst nightmare, but we awoke to the ugly truth and it hurt even more, \" mr ruszczyk said. \" justine, our daughter, was so special to us and to so many others. \" we went down to ( freshwater ) beach this morning and saw the blackness change to light. \" justine was a",
@@ -1436,20 +1427,19 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 11953,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Forever 21, the \" fast fashion \" store known for its cheap designer knockoffs, is threatening to sue the creator of the website wtforever21 — because, among other reasons, the store doesn't appreciate being associated with the \" f-word. \" rachel kane, who created the satire blog, talks to the consumerist, jezebel, and the village voice about her troubles, noting the irony in the fact that forever 21 has itself been sued for copyright infringement by designers including diane von furstenberg, gwen stefani, and anna sui. Kane's site mocks the forever 21 fashions that make you scratch your head and wonder, \" wtf? \" ( click here, here, and here for some awesome examples. ) though she makes it clear on her pages that her site is not affiliated with the company — and claims she actually sends a fair bit of business its way — forever 21 says she's damaging its reputation and profits. If she doesn't take down the site by friday, the company says it will sue for copyright infringement, trademark infringement, unfair competition and dilution. Click for more on the case.",
         "split": "train",
         "cleansed_document": [
             "The blogger behind the satirical site wtforever21, whose particular brand of sass we have known and appreciated for some time, has been hit with a cease-and-desist from the california-based clothier. If rachel kane doesn't delete her site — forever 21's latest deadline is june 10 — the company says it will file a lawsuit against her. Forever 21's threatening letter, a copy of which",
             "Today in uncool corporate news, we have the case of humorless fashion retailer forever 21, a store that has, for the record, been sued various times for copyright infringement. Despite being rather public christians ( their bags have \" john 3: 16 \" written at the bottom ), they seem to be not particularly forgiving and are not at all happy that rachel kane, who created the",
             "It's often the biggest companies that have the tightest reign on their public perception — and inexpensive clothing company forever 21 is no exception. Despite their public image of being young and fun ( and, oh, totally christian ), the company is really, really up in arms over wtforever21, a funny blog that chronicles the hits and misses that come out of what blogger rachel kane calls",
-            "Sticks and stones aren't what is upsetting forever 21 these days, instead words are totally hurting them, as they're getting upset at a satire blog wtforever21 for making fun, and have gone ahead and sued the blogger behind it, she says. Wtforever.21's creator rachel kane wrote in to tell consumerist.com of her saga, noting that the clothing giant and maker of cheap flowy",
-            "Finally! leatherette tassel necklace: $ 8.80 someone has addressed the need for monks in the 14th century to have a device for whipping themselves, but that also lets them look faaabbbulous in the meantime. Forever 21, whip it good."
+            "Sticks and stones aren't what is upsetting forever 21 these days, instead words are totally hurting them, as they're getting upset at a satire blog wtforever21 for making fun, and have gone ahead and sued the blogger behind it, she says. Wtforever.21's creator rachel kane wrote in to tell consumerist.com of her saga, noting that the clothing giant and maker of cheap flowy"
         ],
         "raw_document": [
             "The blogger behind the satirical site wtforever21, whose particular brand of sass we have known and appreciated for some time, has been hit with a cease-and-desist from the california-based clothier. If rachel kane doesn't delete her site — forever 21's latest deadline is june 10 — the company says it will file a lawsuit against her. Forever 21's threatening letter, a copy of which",
@@ -1474,19 +1464,18 @@
             "3": 0,
             "4": 5,
             "5": 5,
-            "6": 0
+            "6": 4
         }
     },
     {
         "idx": 11954,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "As \" catastrophic \" flooding batters texas in the wake of hurricane harvey, president trump says he will be traveling to texas \" as soon as that trip can be made without causing disruption \" in the wake of hurricane harvey, reports the ap. Trump tweeted that the \" focus must be life and safety. \" trump has been complimenting the response to the storm on his twitter feed, commending \" great coordination between agencies at all levels of government. \" trump adds that: \" many people are now saying that this is the worst storm/hurricane they have ever seen. Good news is that we have great talent on the ground. \" as much as 40 inches of rain could hit cities including houston. Other developments: the national weather service is advising residents to not leave their homes, but if the highest floor becomes dangerous, to get on the roof and call 911, reports cbs news. More than 1,000 people have been rescued so far, reports cnn. \" we could not be more appreciative of what the federal government has done, from the president on down, \" texas gov. Greg abbott tells abc news of the response. \" fema has been very active, involved, and engaged in this whole process long before the hurricane even hit ground. Because of their assistance it means that texas will be able to begin the rebuilding process very swiftly. \" \" houston is an area that is prone to flood at least once a year, but this is one of the worst, if not the worst that houston has suffered, \" abbott says.",
         "split": "train",
         "cleansed_document": [
             "A power generator tips in front of texas ' christus spohn hospital in corpus christi, texas, as hurricane harvey hits friday, aug. 25, 2017. ( courtney sacco / corpus christi caller-times via ap ) ( associated press ) corpus christi, texas ( ap ) — the latest on tropical storm harvey ( all times local ): 8: 25 a.m. President donald trump says he will be traveling to texas \" as soon as that trip can be made without causing disruption \" in the wake of hurricane harvey. Trump tweeted that",
             "Houston ( cnn ) harvey is no longer a hurricane, but life-threatening flooding continued in and around houston on sunday night as citizens with boats assisted authorities in search and rescue efforts. Flooding from tropical storm harvey is overburdening resources in the country's fourth-largest city, prompting authorities to call on volunteers with watercraft for help in rescuing those trapped in homes and buildings. An immediate respite from harvey's wrath seems unlikely to come. The national weather service calls the flooding \" unprecedented, \" and warns things may become more dire",
-            "Texas gov. Greg abbott said flooding in houston from tropical storm harvey may be the worst the city has ever seen. \"houston is an area that is prone to flood at least once a year, \" abbott told abc news chief anchor george stephanopoulos on \"this week \" sunday, \"but this is one of the worst, if not the worst that houston has suffered. \" harvey, which hit the texas coast friday night as a category 4 hurricane with 130 mph winds and has since been downgraded to a tropical storm, has so",
-            "A daily crawl of more than 200,000 home pages of news sites, including the pages linked from those home pages. Site list provided by the gdelt project these crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place"
+            "Texas gov. Greg abbott said flooding in houston from tropical storm harvey may be the worst the city has ever seen. \"houston is an area that is prone to flood at least once a year, \" abbott told abc news chief anchor george stephanopoulos on \"this week \" sunday, \"but this is one of the worst, if not the worst that houston has suffered. \" harvey, which hit the texas coast friday night as a category 4 hurricane with 130 mph winds and has since been downgraded to a tropical storm, has so"
         ],
         "raw_document": [
             "A power generator tips in front of texas ' christus spohn hospital in corpus christi, texas, as hurricane harvey hits friday, aug. 25, 2017. ( courtney sacco / corpus christi caller-times via ap ) ( associated press ) corpus christi, texas ( ap ) — the latest on tropical storm harvey ( all times local ): 8: 25 a.m. President donald trump says he will be traveling to texas \" as soon as that trip can be made without causing disruption \" in the wake of hurricane harvey. Trump tweeted that",
@@ -1507,7 +1496,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 4
         }
     },
     {
@@ -1644,7 +1633,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1721,17 +1710,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 11963,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "British royals: they're just like us! case in point: prince william and kate middleton have launched a wedding website. All the royal wedding news you need, all in one convenient location: officialroyalwedding2011.org. Adding to the modernness of the proceedings, the website has links to the royal facebook, the royal twitter, the royal flickr, and of course, the royal youtube channel. Coming soon, according to people: details of middleton's dress, and a video stream of the wedding. ( but it's not all nice news on the wedding front: click to see which royal they made cry. )",
         "split": "train",
         "cleansed_document": [
-            "The official royal wedding web site is launched start clicking: prince william and fiancée kate middleton are set to reveal details of the bride-to-be's wedding dress on their newly launched web site, which aims to celebrate all aspects of their upcoming nuptials the palace has also added a news site to its roster of social media – there are royal-couple facebook, twitter ( @clarencehouse ) and flickr accounts, as well as the royal channel on youtube – says this will be the first place for fans to learn details of kate's eagerly anticipated dress.also planned for the site: a video stream of the april 29 wedding. \" on the day itself, the site will be the first place to view information, such as the details of miss middleton's wedding dress, \" reads a statement.the official the royal wedding web site was launched wednesday by st. James's palace, where william and brother prince harry maintain an office.officials working for the couple will use the web site as the official information service to dispense regular announcements on",
-            "Aaron h. Swartz ( november 8, 1986 – january 11, 2013 ) was an american computer programmer, writer, archivist, political organizer, and internet activist. Swartz co-authored the \" rss 1.0 \" specification of rss, and built the web site framework web.py and the architecture for the open library. Swartz also focused on sociology, civic awareness and activism. In 2010 he was a member of the harvard university center for ethics. He cofounded the online group demand progress ( which recently voiced its support for richard o'dwyer ) and later worked with us and international activist groups rootstrikers and avaaz."
+            "The official royal wedding web site is launched start clicking: prince william and fiancée kate middleton are set to reveal details of the bride-to-be's wedding dress on their newly launched web site, which aims to celebrate all aspects of their upcoming nuptials the palace has also added a news site to its roster of social media – there are royal-couple facebook, twitter ( @clarencehouse ) and flickr accounts, as well as the royal channel on youtube – says this will be the first place for fans to learn details of kate's eagerly anticipated dress.also planned for the site: a video stream of the april 29 wedding. \" on the day itself, the site will be the first place to view information, such as the details of miss middleton's wedding dress, \" reads a statement.the official the royal wedding web site was launched wednesday by st. James's palace, where william and brother prince harry maintain an office.officials working for the couple will use the web site as the official information service to dispense regular announcements on"
         ],
         "raw_document": [
             "The official royal wedding web site is launched start clicking: prince william and fiancée kate middleton are set to reveal details of the bride-to-be's wedding dress on their newly launched web site, which aims to celebrate all aspects of their upcoming nuptials the palace has also added a news site to its roster of social media – there are royal-couple facebook, twitter ( @clarencehouse ) and flickr accounts, as well as the royal channel on youtube – says this will be the first place for fans to learn details of kate's eagerly anticipated dress.also planned for the site: a video stream of the april 29 wedding. \" on the day itself, the site will be the first place to view information, such as the details of miss middleton's wedding dress, \" reads a statement.the official the royal wedding web site was launched wednesday by st. James's palace, where william and brother prince harry maintain an office.officials working for the couple will use the web site as the official information service to dispense regular announcements on",
@@ -1748,7 +1736,7 @@
         "vote_count": {
             "0": 0,
             "1": 3,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1856,12 +1844,11 @@
     },
     {
         "idx": 11968,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The struggling us postal service could close 3,700 post offices starting in january, a full 11 % of its retail operations and the largest downsizing in the agency's history. The targeted offices span 49 states. The exception: delaware, which has only one post office for every 12,000 people. About 2,500 of those that may close will be replaced by a \" village post office \": one postal clerk in a local shop, gas station, library, or other community building. \" village \" sites would only offer basic services; for example, passports and money orders would not be available, the washington post reports. Most of the offices targeted for closure bring in less than $ 27,500 annually but cost more than $ 100,000 to run. The planned closures could save $ 200 million per year, a drop in the bucket compared to the $ 8 billion the agency is expected to lose for the second consecutive year. Over the next decade, postal officials will review half of its 32,000 post offices for closure. For many in small communities, the idea is devastating: \"it's part of the culture of the town, \" says one chevy chase resident. \"it has a small-town kind of feel. \" click for more upcoming changes from the postal service.",
         "split": "train",
         "cleansed_document": [
-            "Lori weinstein and 2-year-old joshua pass by the chevy chase post office, which is on the list of possible closures. ( amanda voisard/the washington post ) the u.s. Postal service is targeting 3,700 post offices across the country that could be closed, the largest downsizing in the history of the money-losing agency. The unprofitable stations, branches and main offices that could be shuttered starting in january account for about 11 percent of the postal service's retail operations. In the washington area, 32 post offices could be jettisoned, from those servicing congress in the u.s. Capitol to ones in silver spring and downtown leesburg. Another 124 elsewhere in maryland and virginia are on the list, with the rest are scattered across 47 other states. The local post office with an american flag flying overhead has helped define communities — rural, suburban and urban — in many of these areas for more than two centuries. The postal service hopes the contraction will save $ 200 million a year. That does not come close to recouping the $ 8 billion the agency is expected to lose for the second year running as it fights plummeting mail volume. But postal officials said they intend to review half of their network of 32,000 post offices for closure in the next decade as they try to slash labor costs. \"we've made heroic efforts to take costs out of the organization while continuing to provide services, \" postmaster general patrick r. Donahoe said at a news conference, comparing his agency's financial struggles to the federal government's effort to stay within its cap on borrowing. \"we have employees waiting for customers to come into their lobbies, and they have less than two hours they're working, \" he said. A new \"village post office \" about 2,500 of the 3,654 sites targeted for possible closure will be replaced by a clerk in a local store, gas station, library or town hall in a new business model the postal service describes as a \"village post office. \" in january, the postal service said it would review 2,000 post offices for closure, but the plan met opposition from lawmakers and in affected communities. About 280 of those post offices have closed, and officials said another 700 are likely to. Officials said the reduction announced tuesday could move forward quickly under new rules that give the postal service greater authority to act. Each post office will",
-            "The seed for this crawl was a list of every host in the wayback machine this crawl was run at a level 1 ( urls including their embeds, plus the urls of all outbound links including their embeds ) the warc files associated with this crawl are not currently available to the general public."
+            "Lori weinstein and 2-year-old joshua pass by the chevy chase post office, which is on the list of possible closures. ( amanda voisard/the washington post ) the u.s. Postal service is targeting 3,700 post offices across the country that could be closed, the largest downsizing in the history of the money-losing agency. The unprofitable stations, branches and main offices that could be shuttered starting in january account for about 11 percent of the postal service's retail operations. In the washington area, 32 post offices could be jettisoned, from those servicing congress in the u.s. Capitol to ones in silver spring and downtown leesburg. Another 124 elsewhere in maryland and virginia are on the list, with the rest are scattered across 47 other states. The local post office with an american flag flying overhead has helped define communities — rural, suburban and urban — in many of these areas for more than two centuries. The postal service hopes the contraction will save $ 200 million a year. That does not come close to recouping the $ 8 billion the agency is expected to lose for the second year running as it fights plummeting mail volume. But postal officials said they intend to review half of their network of 32,000 post offices for closure in the next decade as they try to slash labor costs. \"we've made heroic efforts to take costs out of the organization while continuing to provide services, \" postmaster general patrick r. Donahoe said at a news conference, comparing his agency's financial struggles to the federal government's effort to stay within its cap on borrowing. \"we have employees waiting for customers to come into their lobbies, and they have less than two hours they're working, \" he said. A new \"village post office \" about 2,500 of the 3,654 sites targeted for possible closure will be replaced by a clerk in a local store, gas station, library or town hall in a new business model the postal service describes as a \"village post office. \" in january, the postal service said it would review 2,000 post offices for closure, but the plan met opposition from lawmakers and in affected communities. About 280 of those post offices have closed, and officials said another 700 are likely to. Officials said the reduction announced tuesday could move forward quickly under new rules that give the postal service greater authority to act. Each post office will"
         ],
         "raw_document": [
             "Lori weinstein and 2-year-old joshua pass by the chevy chase post office, which is on the list of possible closures. ( amanda voisard/the washington post ) the u.s. Postal service is targeting 3,700 post offices across the country that could be closed, the largest downsizing in the history of the money-losing agency. The unprofitable stations, branches and main offices that could be shuttered starting in january account for about 11 percent of the postal service's retail operations. In the washington area, 32 post offices could be jettisoned, from those servicing congress in the u.s. Capitol to ones in silver spring and downtown leesburg. Another 124 elsewhere in maryland and virginia are on the list, with the rest are scattered across 47 other states. The local post office with an american flag flying overhead has helped define communities — rural, suburban and urban — in many of these areas for more than two centuries. The postal service hopes the contraction will save $ 200 million a year. That does not come close to recouping the $ 8 billion the agency is expected to lose for the second year running as it fights plummeting mail volume. But postal officials said they intend to review half of their network of 32,000 post offices for closure in the next decade as they try to slash labor costs. \"we've made heroic efforts to take costs out of the organization while continuing to provide services, \" postmaster general patrick r. Donahoe said at a news conference, comparing his agency's financial struggles to the federal government's effort to stay within its cap on borrowing. \"we have employees waiting for customers to come into their lobbies, and they have less than two hours they're working, \" he said. A new \"village post office \" about 2,500 of the 3,654 sites targeted for possible closure will be replaced by a clerk in a local store, gas station, library or town hall in a new business model the postal service describes as a \"village post office. \" in january, the postal service said it would review 2,000 post offices for closure, but the plan met opposition from lawmakers and in affected communities. About 280 of those post offices have closed, and officials said another 700 are likely to. Officials said the reduction announced tuesday could move forward quickly under new rules that give the postal service greater authority to act. Each post office will",
@@ -1876,7 +1863,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1934,7 +1921,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1994,7 +1981,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2019,19 +2006,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 11974,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A strange political scandal in india took a far more serious turn when the politician's wife at the center of it was found dead in her hotel room yesterday, reports reuters. The cause of sunanda pushkar's death is unclear, and it comes just days after the 52-year-old was involved in a high-profile fight over twitter with a journalist she suggested was after her husband, government minister shashi tharoor. \" there were certain injury marks on the body, but we can't divulge details at this point, \" says one doctor quoted by the times of india. ( the story also floats the possibility of a drug overdose and notes reports of an argument between the couple. ) the scandal took off wednesday, when, according to pushkar, she got into her husband's twitter account and posted private messages apparently sent to him by journalist mehr tarar. She called tarar a stalker. \" i have nothing to say to a woman clearly out of her mind, \" tarar tweeted in response. On thursday, pushkar and her husband issued a statement declaring that they were \" happily married, \" reports the bbc. \" i ' m absolutely shocked, \" tarar tweeted upon hearing the news of pushkar's death. \" this is too awful for words. So tragic i don't know what to say. Rest in peace. \"",
         "split": "train",
         "cleansed_document": [
             "New delhi: sunanda pushkar, wife of junior human resource development minister shashi tharoor, died an \" unnatural, sudden death \" with her body bearing \" injury marks \", said a doctor on saturday.tharoor was later hospitalised after he complained of chest pain.sleuths scanned cctv footage of the hotel where her body was found and questioned staff while sources told ians that it could be \" a case of drug overdose \" and also spoke of a verbal spat between the high profile couple while they were on a flight from thiruvananthapuram to delhi. \" we can say that it is a case of unnatural sudden death. There were certain injury marks on the body but we can't divulge details at this point, \" said sudhir gupta, one of the three doctors who performed the autopsy at the all india institute of",
             "Shashi tharoor wife died ' unnatural death'the couple had denied problems in their marriage continue reading the main story related stories the wife of indian minister shashi tharoor, found dead in a delhi hotel room on friday, died a \" sudden and unnatural death \", an autopsy has found. Doctors said there were \" injury marks \" on sunanda pushkar's body, but did not say if they were linked to her death. Mr tharoor, who was earlier admitted to hospital with chest pains, took his wife's body away for cremation. The couple became embroiled in a row on wednesday after twitter messages suggested he was having an affair. Continue reading the main story \" start quote his articulacy has made him a darling of the english tv news networks; he is also a prolific writer",
-            "Sunanda puskhar tharoor ( r ), wife of india's minister of state for human resource development shashi tharoor, poses with her husband at the indian f1 grand prix at the buddh international circuit in greater noida, on the outskirts of new delhi, october 27, 2013. New delhi ( reuters ) - - the wife of an indian government minister was found dead in a new delhi hotel room on friday, police said, days after she was involved in a row with a pakistani woman journalist over twitter. It was not immediately clear how sunanda puskhar tharoor, wife of junior human resource development minister shashi tharoor, had died, delhi police spokesman rajan bhagat said. \" she was lying in bed. There were no signs of any foul play or any struggle … she had no sign of poisoning",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Sunanda puskhar tharoor ( r ), wife of india's minister of state for human resource development shashi tharoor, poses with her husband at the indian f1 grand prix at the buddh international circuit in greater noida, on the outskirts of new delhi, october 27, 2013. New delhi ( reuters ) - - the wife of an indian government minister was found dead in a new delhi hotel room on friday, police said, days after she was involved in a row with a pakistani woman journalist over twitter. It was not immediately clear how sunanda puskhar tharoor, wife of junior human resource development minister shashi tharoor, had died, delhi police spokesman rajan bhagat said. \" she was lying in bed. There were no signs of any foul play or any struggle … she had no sign of poisoning"
         ],
         "raw_document": [
             "New delhi: sunanda pushkar, wife of junior human resource development minister shashi tharoor, died an \" unnatural, sudden death \" with her body bearing \" injury marks \", said a doctor on saturday.tharoor was later hospitalised after he complained of chest pain.sleuths scanned cctv footage of the hotel where her body was found and questioned staff while sources told ians that it could be \" a case of drug overdose \" and also spoke of a verbal spat between the high profile couple while they were on a flight from thiruvananthapuram to delhi. \" we can say that it is a case of unnatural sudden death. There were certain injury marks on the body but we can't divulge details at this point, \" said sudhir gupta, one of the three doctors who performed the autopsy at the all india institute of",
@@ -2050,7 +2036,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2099,7 +2085,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2134,12 +2120,11 @@
     },
     {
         "idx": 11978,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Not surprisingly, elizabeth edwards wasn't too happy with rielle hunter's sexy gq photo shoot and gushing interview about john edwards. \"she was disgusted by the photos like everyone. But she moved on pretty quickly, \" a source tells people. Meanwhile, a friend of john's says he, too, is moving on — from both elizabeth and rielle — and that any idea hunter has of ending up with him someday is \"total fantasy. \" well, maybe not total fantasy: a gawker tipster spotted john and rielle at the guggenheim's \" contemplating the void \" exhibit. So what is elizabeth doing with her time while her soon-to-be-ex museum hops with his galpal? painting, writing a new chapter for her book, and organizing a book club, says her sister, adding that \"she seems to be happy and at peace. \"",
         "split": "train",
         "cleansed_document": [
-            "Elizabeth edwards'disgusted ' by rielle hunter's photos but has moved on or leave a comment of your own see what other readers have to say about this story – jaws dropped nationwide when rielle hunter's provocative photo shoot and interview with gq hit the web monday morning. But what did elizabeth edwards think when she saw it? \" she was disgusted by the photos like everyone. But she moved on pretty quickly, \" a source close to her admits to people in the issue set to hit newsstands friday.determined to tune out the scandal and create a new life for herself, elizabeth has taken up painting, is writing a new chapter for the summer release of the paperback edition of her 2009 resilience, and is organizing a mother-daughter book club for her and emma claire, 11, her sister, nancy anania, tells people. \" she seems to be happy and at peace. \" moving on. That's also what john edwards, her estranged husband and \" johnny \" to former mistress hunter, is trying to do, says a close friend of his.the disgraced former presidential candidate, under grand jury investigation for possible misuse of campaign funds to pay hunter, \" is rebuilding his life, but separately \" – from both elizabeth and hunter – and focusing on his children, says the friend. And, despite hunter's claim in the gq interview that she and \" johnny \" still \" love each other very much and that hasn't changed, \" the friend of john's says he's only in touch with hunter to check on quinn, their 2-year-old daughter and that the notion that he and hunter will wind up together is \" total fantasy. \" for more details about john and elizabeth's lives now and their reaction to the latest revelations, pick up the new people on newsstands friday",
-            "Rielle hunter has some artistic differences with the photographer who shot her sexy photos for gq. But she is apparently a fan of this new exhibit at the guggenheim. Today a reader spotted her and john edwards there getting cultured. Writes our eagle-eyed spy: john edwards and rielle hunter on line, appropriately enough, for contemplating the void at the guggenheim at around 1pm today. They looked sporty and well-matched. Nobody seemed to be noticing them. This sighting backs up the spine-shivering enquirer report that edwards proposed to hunter. But fyi, the whole \" nobody noticing them \" thing was the new tino sehgal performance art piece. It's called what we wish would happen regarding john edwards and rielle hunter in real life."
+            "Elizabeth edwards'disgusted ' by rielle hunter's photos but has moved on or leave a comment of your own see what other readers have to say about this story – jaws dropped nationwide when rielle hunter's provocative photo shoot and interview with gq hit the web monday morning. But what did elizabeth edwards think when she saw it? \" she was disgusted by the photos like everyone. But she moved on pretty quickly, \" a source close to her admits to people in the issue set to hit newsstands friday.determined to tune out the scandal and create a new life for herself, elizabeth has taken up painting, is writing a new chapter for the summer release of the paperback edition of her 2009 resilience, and is organizing a mother-daughter book club for her and emma claire, 11, her sister, nancy anania, tells people. \" she seems to be happy and at peace. \" moving on. That's also what john edwards, her estranged husband and \" johnny \" to former mistress hunter, is trying to do, says a close friend of his.the disgraced former presidential candidate, under grand jury investigation for possible misuse of campaign funds to pay hunter, \" is rebuilding his life, but separately \" – from both elizabeth and hunter – and focusing on his children, says the friend. And, despite hunter's claim in the gq interview that she and \" johnny \" still \" love each other very much and that hasn't changed, \" the friend of john's says he's only in touch with hunter to check on quinn, their 2-year-old daughter and that the notion that he and hunter will wind up together is \" total fantasy. \" for more details about john and elizabeth's lives now and their reaction to the latest revelations, pick up the new people on newsstands friday"
         ],
         "raw_document": [
             "Elizabeth edwards'disgusted ' by rielle hunter's photos but has moved on or leave a comment of your own see what other readers have to say about this story – jaws dropped nationwide when rielle hunter's provocative photo shoot and interview with gq hit the web monday morning. But what did elizabeth edwards think when she saw it? \" she was disgusted by the photos like everyone. But she moved on pretty quickly, \" a source close to her admits to people in the issue set to hit newsstands friday.determined to tune out the scandal and create a new life for herself, elizabeth has taken up painting, is writing a new chapter for the summer release of the paperback edition of her 2009 resilience, and is organizing a mother-daughter book club for her and emma claire, 11, her sister, nancy anania, tells people. \" she seems to be happy and at peace. \" moving on. That's also what john edwards, her estranged husband and \" johnny \" to former mistress hunter, is trying to do, says a close friend of his.the disgraced former presidential candidate, under grand jury investigation for possible misuse of campaign funds to pay hunter, \" is rebuilding his life, but separately \" – from both elizabeth and hunter – and focusing on his children, says the friend. And, despite hunter's claim in the gq interview that she and \" johnny \" still \" love each other very much and that hasn't changed, \" the friend of john's says he's only in touch with hunter to check on quinn, their 2-year-old daughter and that the notion that he and hunter will wind up together is \" total fantasy. \" for more details about john and elizabeth's lives now and their reaction to the latest revelations, pick up the new people on newsstands friday",
@@ -2154,7 +2139,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2239,17 +2224,16 @@
             "0": 5,
             "1": 0,
             "2": 4,
-            "3": 0
+            "3": 2
         }
     },
     {
         "idx": 11982,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "An impressive tale of survival out of argentina, where a man who spent four months lost in the andes — during the southern hemisphere's winter, no less — has been found, according to local media. Raul fernando gomez cincunegui had crossed from his native uruguay into chile, but after his motorcycle broke down he set off on the return voyage on foot, reports the afp. He ended up instead getting turned around in a snowstorm. Gomez survived on rats caught using a homemade trap, raisins, and supplies he found in a shelter located some 9,318 feet above sea level, though he is said to have lost 44 pounds in the process, reports the daily telegraph. Argentine officials found him in that shelter, which they reached via helicopter, while in the northwestern province of san juan observing snowfall levels, reports the bbc. Doctors expect to discharge him from the hospital within days.",
         "split": "train",
         "cleansed_document": [
-            "Uruguayan man survives freezing four-month andes ordeal please turn on javascript. Media requires javascript to play. Continue reading the main story related stories a uruguayan man who went missing in may while trying to cross the andes mountains from chile to argentina has been found alive, officials say. Raul fernando gomez circunegui, 58, got lost in snowstorms after his motorbike broke down. He was found in a mountain shelter at an altitude of more than 2,800m ( 9,300ft ) by argentine officials. Mr gomez survived by eating leftover supplies in the shelter and whatever else he could catch, including rats. He has been taken to hospital in an emaciated and dehydrated state, but is expected to make a full recovery. Argentine officials from the north-western province of san juan stumbled across mr gomez after arriving in the area near the shelter by helicopter to record snow levels. Weather conditions in the andes can be some of the harshest in the world an enfeebled mr gomez was able to open the shelter's door and alert the crew to his presence. \" the truth is that this is a miracle. We still can't believe it, \" san juan governor jose luis gioja told the local diario de cuyo newspaper. \" we let him talk to his wife, his mother and his daughter... I asked him: ' are you",
-            "No cookies to use this website, cookies must be enabled in your browser. To enable cookies, follow the instructions for your browser below. Facebook app: open links in external browser there is a specific issue with the facebook in-app browser intermittently making requests to websites without cookies that had previously been set. This appears to be a defect in the browser which should be addressed soon. The simplest approach to avoid this problem is to continue to use the facebook app but not use the in-app browser. This can be done through the following steps: open the settings menu by clicking the hamburger menu in the top right choose \"app settings \" from the menu turn on the option \"links open externally \" ( this will use the device's default browser ) enabling cookies in internet explorer 7, 8 &amp; 9 open the internet browser click tools> internet options>privacy>advanced check override automatic cookie handling for first-party cookies and third-party cookies click accept click ok and ok enabling cookies in firefox open the firefox browser click tools>options>privacy<use custom settings for history check accept cookies from sites check accept third party cookies select keep until: they expire click ok enabling cookies in google chrome open the google chrome browser click tools icon>options>under the hood>content settings check allow local data to be set uncheck block third-party cookies from being set uncheck clear cookies close all enabling cookies in mobile safari"
+            "Uruguayan man survives freezing four-month andes ordeal please turn on javascript. Media requires javascript to play. Continue reading the main story related stories a uruguayan man who went missing in may while trying to cross the andes mountains from chile to argentina has been found alive, officials say. Raul fernando gomez circunegui, 58, got lost in snowstorms after his motorbike broke down. He was found in a mountain shelter at an altitude of more than 2,800m ( 9,300ft ) by argentine officials. Mr gomez survived by eating leftover supplies in the shelter and whatever else he could catch, including rats. He has been taken to hospital in an emaciated and dehydrated state, but is expected to make a full recovery. Argentine officials from the north-western province of san juan stumbled across mr gomez after arriving in the area near the shelter by helicopter to record snow levels. Weather conditions in the andes can be some of the harshest in the world an enfeebled mr gomez was able to open the shelter's door and alert the crew to his presence. \" the truth is that this is a miracle. We still can't believe it, \" san juan governor jose luis gioja told the local diario de cuyo newspaper. \" we let him talk to his wife, his mother and his daughter... I asked him: ' are you"
         ],
         "raw_document": [
             "Uruguayan man survives freezing four-month andes ordeal please turn on javascript. Media requires javascript to play. Continue reading the main story related stories a uruguayan man who went missing in may while trying to cross the andes mountains from chile to argentina has been found alive, officials say. Raul fernando gomez circunegui, 58, got lost in snowstorms after his motorbike broke down. He was found in a mountain shelter at an altitude of more than 2,800m ( 9,300ft ) by argentine officials. Mr gomez survived by eating leftover supplies in the shelter and whatever else he could catch, including rats. He has been taken to hospital in an emaciated and dehydrated state, but is expected to make a full recovery. Argentine officials from the north-western province of san juan stumbled across mr gomez after arriving in the area near the shelter by helicopter to record snow levels. Weather conditions in the andes can be some of the harshest in the world an enfeebled mr gomez was able to open the shelter's door and alert the crew to his presence. \" the truth is that this is a miracle. We still can't believe it, \" san juan governor jose luis gioja told the local diario de cuyo newspaper. \" we let him talk to his wife, his mother and his daughter... I asked him: ' are you",
@@ -2264,7 +2248,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2292,18 +2276,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 11984,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A new film starring daniel radcliffe as a farting corpse is dividing audiences at the 2016 sundance film festival, us weekly reports. In swiss army man, the erstwhile harry potter plays a dead body discovered by a suicidal man ( paul dano ) on a deserted island. Dano rides radcliffe across the ocean using the body's fart power and, in another scene, drinks water fired out of radcliffe's mouth. The film also shows radcliffe being, uh, aroused by an issue of sports illustrated's swimsuit issue. \" many people walked out during the farting montage, \" says an eyewitness at the movie's premiere on friday. \" at least 25 % of the theater. \" \" it plays like a student film gone awry, \" says the eyewitness, who calls swiss army man \" a trippy stream of consciousness. \" co-director daniel scheinert says the film was inspired by a fart joke, variety reports, and radcliffe says that \" the chance to play a dead guy in this context was too much fun to pass up. \" the actor told nme in november that his role choices aren't based on \" mainstream tastes. \" as he put it, \" people do ask me, ' why do you choose such weird movies? ' but i don't think they're weird, they're just stories i ' m interested in.... I think that's better than always wanting to play the handsome hero. \"",
         "split": "train",
         "cleansed_document": [
             "Sounds like a stinker. Daniel radcliffe's new movie, swiss army man, is getting plenty of buzz at the 2016 sundance film festival, but for all the wrong reasons. The film is about a suicidal man ( paul dano ) who discovers a corpse ( radcliffe ) on a deserted island and rides it across the ocean like a jet ski, propelled by the corpse's farts. Yes, you read that right. Swiss army man premiered at sundance on friday, january 22, and an eyewitness tells us weekly that it was not exactly a hit with the audience. \" many people walked out during the farting montage, \" the eyewitness says. \" at least 25 percent of the theater. \" the eyewitness describes the film as \" a trippy stream of consciousness \" that also features the pair having a long conversation about flatulence and pooping, a scene",
-            "One of the most anticipated movies at this year's sundance film festival also turned out to be among the most divisive. On friday afternoon, the eccles theater had to turn away hundreds of movie fans, and even a few industry vips, at the packed premiere of \"swiss army man, \" starring daniel radcliffe and paul dano. But the bizarre fable about a lost man ( dano ) who befriends a farting corpse ( radcliffe ) could win the festival's award for the most walk-outs, as a continuous stream of audience members kept standing up and bolting for the door throughout the film. The indie, directed by the music video duo daniel kwan and daniel scheinert, opens with radcliffe ( as the corpse ) washing onto a shore. Dano's character inspects the body, as it comes to life by twitching and passing gas. The story unfolds in a",
-            "Dean chalkley/nme dean chalkley/nme dean chalkley/nme since graduating from hogwarts, the decidedly unstarry daniel radcliffe has played devils, confused poets and, now, frankenstein's hunchbacked sidekick.meets britain's oddest film star.fame teaches you many things: how to outrun paparazzi, how to respond to mobs of fans, how to endure a breakfast tv interview without screaming. It does not, apparently, prepare you for the complexities of making coffee. Bouncing into a huge wood-panelled conference room above the photography studio where he's just been shot for nme's cover, daniel radcliffe is presented with a cup and reaches for the sweeteners. \"how many of these are you supposed to use? \" he asks, merrily clicking little white pellets into his drink. Each of those is one sugar, we tell him. You've just given yourself seven sugars. \"oh, right, \" he"
+            "One of the most anticipated movies at this year's sundance film festival also turned out to be among the most divisive. On friday afternoon, the eccles theater had to turn away hundreds of movie fans, and even a few industry vips, at the packed premiere of \"swiss army man, \" starring daniel radcliffe and paul dano. But the bizarre fable about a lost man ( dano ) who befriends a farting corpse ( radcliffe ) could win the festival's award for the most walk-outs, as a continuous stream of audience members kept standing up and bolting for the door throughout the film. The indie, directed by the music video duo daniel kwan and daniel scheinert, opens with radcliffe ( as the corpse ) washing onto a shore. Dano's character inspects the body, as it comes to life by twitching and passing gas. The story unfolds in a"
         ],
         "raw_document": [
             "Sounds like a stinker. Daniel radcliffe's new movie, swiss army man, is getting plenty of buzz at the 2016 sundance film festival, but for all the wrong reasons. The film is about a suicidal man ( paul dano ) who discovers a corpse ( radcliffe ) on a deserted island and rides it across the ocean like a jet ski, propelled by the corpse's farts. Yes, you read that right. Swiss army man premiered at sundance on friday, january 22, and an eyewitness tells us weekly that it was not exactly a hit with the audience. \" many people walked out during the farting montage, \" the eyewitness says. \" at least 25 percent of the theater. \" the eyewitness describes the film as \" a trippy stream of consciousness \" that also features the pair having a long conversation about flatulence and pooping, a scene",
@@ -2320,17 +2303,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 11985,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's august and many americans are taking well-earned summer vacations. And then there's congress. House lawmakers took off for their august recess yesterday after refusing to consider a five-year measure to aid america's stricken farmers, reports the new york times. Instead, they passed a stopgap $ 383 million disaster aid bill to help some livestock producers hit hard by this summer's devastating drought, along with a modest group of farmers. A bipartisan five-year farm measure has already made it through the senate, which refused to take up the house's measure. The house disaster package, which provides assistance to cattle and sheep farmers but not to pork or poultry operations, \" is a sad substitute for what is really needed — a long term farm policy, \" complained the ranking democrat on the house agriculture committee. The committee's republican chairman urged his colleagues to \" go home and discuss the drought in that 65 % of united states that is suffering \" before coming back with the momentum to pass a farm bill, politico reports.",
         "split": "train",
         "cleansed_document": [
-            "Moments after the house passed its bill, ms. Stabenow took to the senate floor to say that lawmakers would instead work informally over the august recess to try to put together a new measure to present to congress when it meets in september. The white house would have considered the house measure, but she resisted, senate aides said. Photo ms. Stabenow, who worked for months to arm-twist resistant senate colleagues on both side of the aisle to usher her bill through her chamber, said she would begin meeting with house agriculture leaders on thursday night. \"i am extremely hopeful that we can get together around what really needs to be done, which is a five-year farm bill, \" she said. The failure to advance the farm bill or the emergency aid was all the more striking given the extent of the continuing drought, with county after county across the nation having been declared an agricultural disaster area. Advertisement continue reading the main story the farm bill, which has historically appealed to members on both sides of the aisle, was one of a series of measures that fell victim to partisan fighting — and occasionally infighting — in recent weeks. On thursday, a bipartisan cybersecurity bill that would have established standards for the computer systems that oversee the country's critical infrastructure was stopped by a filibuster as some leading republicans yielded to",
-            "One lawmaker labeled the bill a ' bovine bailout. ' house passes drought, disaster aid with its five-year farm bill relegated to the back pasture, the house headed home for august after narrowly approving a stopgap $ 383 million disaster aid package to help tide over cattle and sheep operations affected by this summer's severe drought. The hastily assembled livestock bill — adopted 223-197 — promises some political cover for republican candidates in farm states. But it quickly stalled thursday night in the senate where the agriculture committee leadership is demanding that the house first deal with the larger farm bill. Story continued below \"by refusing to bring up the farm bill, house leadership is doing what congress always does — kicking the can down the road instead of coming together to solve problems, \" said sen. Debbie stabenow ( d-mich. ), who chairs the senate agriculture panel. \"if congress does not pass a farm bill, there will be no reform, direct payments will continue, we ' ll lose the opportunity for major deficit reduction and we ' ll deliver a real blow to our economic recovery. \" indeed, this continued impasse over the much larger five-year measure remains a serious liability for the gop going into november's elections. The disaster package \"is a sad substitute for what is really needed — a long term farm policy, \" said minnesota"
+            "Moments after the house passed its bill, ms. Stabenow took to the senate floor to say that lawmakers would instead work informally over the august recess to try to put together a new measure to present to congress when it meets in september. The white house would have considered the house measure, but she resisted, senate aides said. Photo ms. Stabenow, who worked for months to arm-twist resistant senate colleagues on both side of the aisle to usher her bill through her chamber, said she would begin meeting with house agriculture leaders on thursday night. \"i am extremely hopeful that we can get together around what really needs to be done, which is a five-year farm bill, \" she said. The failure to advance the farm bill or the emergency aid was all the more striking given the extent of the continuing drought, with county after county across the nation having been declared an agricultural disaster area. Advertisement continue reading the main story the farm bill, which has historically appealed to members on both sides of the aisle, was one of a series of measures that fell victim to partisan fighting — and occasionally infighting — in recent weeks. On thursday, a bipartisan cybersecurity bill that would have established standards for the computer systems that oversee the country's critical infrastructure was stopped by a filibuster as some leading republicans yielded to"
         ],
         "raw_document": [
             "Moments after the house passed its bill, ms. Stabenow took to the senate floor to say that lawmakers would instead work informally over the august recess to try to put together a new measure to present to congress when it meets in september. The white house would have considered the house measure, but she resisted, senate aides said. Photo ms. Stabenow, who worked for months to arm-twist resistant senate colleagues on both side of the aisle to usher her bill through her chamber, said she would begin meeting with house agriculture leaders on thursday night. \"i am extremely hopeful that we can get together around what really needs to be done, which is a five-year farm bill, \" she said. The failure to advance the farm bill or the emergency aid was all the more striking given the extent of the continuing drought, with county after county across the nation having been declared an agricultural disaster area. Advertisement continue reading the main story the farm bill, which has historically appealed to members on both sides of the aisle, was one of a series of measures that fell victim to partisan fighting — and occasionally infighting — in recent weeks. On thursday, a bipartisan cybersecurity bill that would have established standards for the computer systems that oversee the country's critical infrastructure was stopped by a filibuster as some leading republicans yielded to",
@@ -2345,7 +2327,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2403,12 +2385,11 @@
     },
     {
         "idx": 11988,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Moon jae-in will visit the vatican next week, and the south korean leader will go bearing a special invite for pope francis. The new york times reports moon will serve as the messenger for kim jong un, who's requesting that the pontiff pay him a visit in north korea. \" if the pope visits pyongyang, we will give him a rousing welcome, \" kim told moon when the latter met with him in pyongyang in september, per moon's spokesman. Although the times considers an rsvp of \" yes \" as \" highly unlikely \" — no pope has ever visited north korea — moon, a roman catholic, is said to desire the get-together as a chance to recruit the pope to help ease tensions on the korean peninsula. The times notes that north korea was ranked no. 1 on a list of the worst nations for christians by the christian group open doors.",
         "split": "train",
         "cleansed_document": [
-            "Seoul, south korea — kim jong-un, the leader of north korea, which has been condemned as one of the worst suppressors of religious freedom in the world, has invited pope francis to visit his country, south korea's government said tuesday. The invitation will be relayed by south korea's president, moon jae-in, a roman catholic, when he visits the vatican for two days next week to seek the pope's help in easing tensions on the divided korean peninsula, said kim eui-kyeom, a spokesman of mr. Moon. Mr. Moon met with mr. Kim in pyongyang, the north korean capital, last month. \"if the pope visits pyongyang, we will give him a rousing welcome, \" mr. Kim told mr. Moon, according to mr. Moon's spokesman. There was no immediate comment from the vatican on whether francis would accept the invitation, but",
-            "Never-ending pressure and violence the primary driver of persecution in north korea is the state. For three generations, everything in the country has focused on idolizing the leading kim family. Christians are seen as hostile elements in society that have to be eradicated. There was hope that new diplomatic efforts in 2018 — including the 2018 winter olympics — would mean a lessening of pressure and violence against christians, but so far that has not been the case. Kim jong un has maintained his tight control over the populace, and dissent or worshiping anything else is not tolerated. How christians are suffering if christians are discovered, not only are they deported to labor camps as political criminals or even killed on the spot, their families will share their fate as well. Christians do not even have the slightest space in society, on the contrary, they are publicly warned against. Meeting other christians"
+            "Seoul, south korea — kim jong-un, the leader of north korea, which has been condemned as one of the worst suppressors of religious freedom in the world, has invited pope francis to visit his country, south korea's government said tuesday. The invitation will be relayed by south korea's president, moon jae-in, a roman catholic, when he visits the vatican for two days next week to seek the pope's help in easing tensions on the divided korean peninsula, said kim eui-kyeom, a spokesman of mr. Moon. Mr. Moon met with mr. Kim in pyongyang, the north korean capital, last month. \"if the pope visits pyongyang, we will give him a rousing welcome, \" mr. Kim told mr. Moon, according to mr. Moon's spokesman. There was no immediate comment from the vatican on whether francis would accept the invitation, but"
         ],
         "raw_document": [
             "Seoul, south korea — kim jong-un, the leader of north korea, which has been condemned as one of the worst suppressors of religious freedom in the world, has invited pope francis to visit his country, south korea's government said tuesday. The invitation will be relayed by south korea's president, moon jae-in, a roman catholic, when he visits the vatican for two days next week to seek the pope's help in easing tensions on the divided korean peninsula, said kim eui-kyeom, a spokesman of mr. Moon. Mr. Moon met with mr. Kim in pyongyang, the north korean capital, last month. \"if the pope visits pyongyang, we will give him a rousing welcome, \" mr. Kim told mr. Moon, according to mr. Moon's spokesman. There was no immediate comment from the vatican on whether francis would accept the invitation, but",
@@ -2425,7 +2406,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2466,7 +2447,7 @@
             "4": 2,
             "5": 0,
             "6": 2,
-            "7": 0
+            "7": 1
         }
     },
     {
@@ -2573,7 +2554,7 @@
             "0": 3,
             "1": 2,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2651,18 +2632,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 11997,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It's been a while, but america's favorite political game show is back. Yes, the republican presidential candidates will square off in mesa tonight for their first debate in nearly a month. Here are the storylines in play: the final showdown — the stakes are \" about as high as they could be, \" the washington post observes, because this might be the last debate of the gop primary, and certainly the last before super tuesday. And since losses in arizona and michigan could be fatal for mitt romney's campaign, he has to perform tonight. Rick santorum on the hot seat — this will be santorum's first debate as what politico calls the \" de facto frontrunner, \" meaning he's going to take heat, particularly from romney. But santorum has actually proven to be pretty good at counterattacks, and his team is confident — one adviser mocks romney as easy prey because he sticks to \" pavlovian \" responses. Ron paul, romney pal — paul has developed a friendship with romney and, given that he's never used debates as his major platform, he's likely to have his back in the face of attacks. Newt gingrich: mr. Nice guy? — \" ironically, newt is in a position to look less negative than romney or santorum, \" one campaign source says, because those two will be beating up on each other. \" newt can rise above it and seem statesmanlike. \" john king's revenge — newt gingrich left moderator john king with serious egg on his face during the jan. 19 debate. \" i would be surprised if john were not more aggressive, \" one republican pollster tells the arizona republic.",
         "split": "train",
         "cleansed_document": [
             "The republican presidential contenders will square off in mesa today in a high-stakes debate that promises to set the tone for a crucial stretch of the campaign through the arizona and michigan primaries and super tuesday. Gop frontrunners mitt romney and rick santorum are locked in tight battles in arizona and michigan, two states that vote on tuesday, and former u.s. House speaker newt gingrich is hoping for a strong showing among the 10 states that will hold nominating contests on march 6. Libertarian-leaning u.s. Rep. Ron paul, r-texas, is expected to remain a presence in the gop race until the republican national convention in tampa. Today's 6 p.m. Debate at the mesa arts center in downtown mesa is co-hosted by cnn and the arizona republican party. Here are a few things to watch for: romney's tone. The former massachusetts governor was long considered the clear gop leader in arizona, but polls",
-            "There will be four men and one moderator on stage at wednesday night's gop debate in arizona. But mitt romney and rick santorum will be the main attractions. The cnn-sponsored debate in mesa — the first one in almost a month — looms as a focal point in a contest that has increasingly been recast as a two-man fight, with polls showing tight upcoming contests between romney and santorum in arizona and michigan. Text size - + reset vandehei on santorum tonight best of florida debate best of south carolina debate the setting in many ways favors santorum, who has tended to get the better of mitt romney in their exchanges in past debates. The x factor is newt gingrich, who may be tempted to ditch an easy chance to let others throw punches and instead try to claim the spotlight in a format that — at least until florida — had proved successful for him throughout",
-            "Forget march 6; the new super tuesday is feb. 28. And if super tuesday is now feb. 28, tonight's debate in arizona might as well be called super wednesday. New polling shows not only is mitt romney's win in michigan in serious jeopardy, but so is his edge in arizona's primary the same day. The cnn/time/opinion research poll out tuesday showed romney leading rick santorum within the margin of error, 36 percent to 32 percent. It all makes the stakes for tonight's debate in phoenix about as high as they could be for the erstwhile frontrunner. The reasons are legion. First, this might be the final debate of the gop presidential race — or at least, the last debate for a while. There are no other debates scheduled before the real super tuesday on march 6, and romney's campaign has not committed to"
+            "There will be four men and one moderator on stage at wednesday night's gop debate in arizona. But mitt romney and rick santorum will be the main attractions. The cnn-sponsored debate in mesa — the first one in almost a month — looms as a focal point in a contest that has increasingly been recast as a two-man fight, with polls showing tight upcoming contests between romney and santorum in arizona and michigan. Text size - + reset vandehei on santorum tonight best of florida debate best of south carolina debate the setting in many ways favors santorum, who has tended to get the better of mitt romney in their exchanges in past debates. The x factor is newt gingrich, who may be tempted to ditch an easy chance to let others throw punches and instead try to claim the spotlight in a format that — at least until florida — had proved successful for him throughout"
         ],
         "raw_document": [
             "The republican presidential contenders will square off in mesa today in a high-stakes debate that promises to set the tone for a crucial stretch of the campaign through the arizona and michigan primaries and super tuesday. Gop frontrunners mitt romney and rick santorum are locked in tight battles in arizona and michigan, two states that vote on tuesday, and former u.s. House speaker newt gingrich is hoping for a strong showing among the 10 states that will hold nominating contests on march 6. Libertarian-leaning u.s. Rep. Ron paul, r-texas, is expected to remain a presence in the gop race until the republican national convention in tampa. Today's 6 p.m. Debate at the mesa arts center in downtown mesa is co-hosted by cnn and the arizona republican party. Here are a few things to watch for: romney's tone. The former massachusetts governor was long considered the clear gop leader in arizona, but polls",
@@ -2679,7 +2659,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {

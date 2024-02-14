@@ -21,7 +21,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -46,7 +46,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -108,17 +108,16 @@
             "0": 0,
             "1": 0,
             "2": 2,
-            "3": 0
+            "3": 2
         }
     },
     {
         "idx": 12104,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Mitt romney tried to play up his recurring theme of an obama \" misery index \" at a gop forum last night, but he's drawing attention instead for his choice of words that he immediately walked back. Noting that ronald reagan spoke of a similar index and \" hung that around jimmy carter's neck, \" romney said republicans today must do the same to obama. \" we're going to hang him — uh, so to speak, metaphorically — with, uh, with, uh — you have to be careful these days, i've learned that, with an obama misery index. \" the boston globe noted it: \" romney almost immediately caught himself, with the english major declaring ' metaphorically'speaking, but the mix of nervous laughter with applause indicated at least some in the audience realized its potency, \" writes glen johnson. The atlantic, abc news, and politico also picked up on it, prompting romney's spokesperson to write: \"it is not what the governor meant and that was very clear in what he actually said. It's a ridiculous exaggeration of his actual comments. \" probably a safe bet that particular metaphor won't surface again, though.",
         "split": "train",
         "cleansed_document": [
-            "Abc news ' michael falcone and gregory simmons report: manchester, n.h. -- former massachusetts gov. Mitt romney stumbled into controversial territory friday night at a forum for potential presidential candidates here, suggesting that republicans \"hang \" president obama with a so-called \"misery index. \" romney, an all-but-declared presidential contender, was answering a question at an americans for prosperity event about what he would do to curb rising gas prices when he suddenly found his way into -- and then quickly out of -- the verbal gaffe. \"we're going to hang the obama misery index around his neck, \" romney told a crowd of conservative activists, before saying: \"we're going to hang him with that, so to speak. \" apparently realizing his choice of words, romney paused, and added \"metaphorically. \" \"you have to be careful these days, \" he said. Romney's reference to the \"misery index, \" was, as he acknowledged, a throwback to a term that then-presidential candidate ronald reagan used to describe public discontent about economic conditions during debates with incumbent president jimmy carter during the 1980 election. \" it is not what the governor meant and that was very clear in what he actually said, \" romney spokeswoman andrea saul told abc news. Here's the full exchange: \"i just can't help but notice that -- you remember during the ronald reagan- jimmy carter debates that ronald reagan came up with this great thing about the \"misery index \" and that he hung that around jimmy carter's neck? \" romney said. \"that had a lot to do with jimmy carter losing. \" \"well, we're going to hang",
-            "Hillary clinton's candidacy has provoked a wave of misogyny — one that may roil american life for years to come. Except for her gender, hillary clinton is a highly conventional presidential candidate. She's been in public life for decades. Her rhetoric is carefully calibrated. She tailors her views to reflect the mainstream within her party. The reaction to her candidacy, however, has been unconventional. The percentage of americans who hold a \"strongly unfavorable \" view of her substantially exceeds the percentage for any other democratic nominee since 1980, when pollsters began asking the question. Antipathy to her among white men is even more unprecedented. According to the public religion research institute, 52 percent of white men hold a \"very unfavorable \" view of clinton. That's a whopping 20 points higher than the percentage who viewed barack obama very unfavorably in 2012, 32 points higher than the percentage who viewed obama very unfavorably in 2008, and 28 points higher than the percentage who viewed john kerry very unfavorably in 2004."
+            "Abc news ' michael falcone and gregory simmons report: manchester, n.h. -- former massachusetts gov. Mitt romney stumbled into controversial territory friday night at a forum for potential presidential candidates here, suggesting that republicans \"hang \" president obama with a so-called \"misery index. \" romney, an all-but-declared presidential contender, was answering a question at an americans for prosperity event about what he would do to curb rising gas prices when he suddenly found his way into -- and then quickly out of -- the verbal gaffe. \"we're going to hang the obama misery index around his neck, \" romney told a crowd of conservative activists, before saying: \"we're going to hang him with that, so to speak. \" apparently realizing his choice of words, romney paused, and added \"metaphorically. \" \"you have to be careful these days, \" he said. Romney's reference to the \"misery index, \" was, as he acknowledged, a throwback to a term that then-presidential candidate ronald reagan used to describe public discontent about economic conditions during debates with incumbent president jimmy carter during the 1980 election. \" it is not what the governor meant and that was very clear in what he actually said, \" romney spokeswoman andrea saul told abc news. Here's the full exchange: \"i just can't help but notice that -- you remember during the ronald reagan- jimmy carter debates that ronald reagan came up with this great thing about the \"misery index \" and that he hung that around jimmy carter's neck? \" romney said. \"that had a lot to do with jimmy carter losing. \" \"well, we're going to hang"
         ],
         "raw_document": [
             "Abc news ' michael falcone and gregory simmons report: manchester, n.h. -- former massachusetts gov. Mitt romney stumbled into controversial territory friday night at a forum for potential presidential candidates here, suggesting that republicans \"hang \" president obama with a so-called \"misery index. \" romney, an all-but-declared presidential contender, was answering a question at an americans for prosperity event about what he would do to curb rising gas prices when he suddenly found his way into -- and then quickly out of -- the verbal gaffe. \"we're going to hang the obama misery index around his neck, \" romney told a crowd of conservative activists, before saying: \"we're going to hang him with that, so to speak. \" apparently realizing his choice of words, romney paused, and added \"metaphorically. \" \"you have to be careful these days, \" he said. Romney's reference to the \"misery index, \" was, as he acknowledged, a throwback to a term that then-presidential candidate ronald reagan used to describe public discontent about economic conditions during debates with incumbent president jimmy carter during the 1980 election. \" it is not what the governor meant and that was very clear in what he actually said, \" romney spokeswoman andrea saul told abc news. Here's the full exchange: \"i just can't help but notice that -- you remember during the ronald reagan- jimmy carter debates that ronald reagan came up with this great thing about the \"misery index \" and that he hung that around jimmy carter's neck? \" romney said. \"that had a lot to do with jimmy carter losing. \" \"well, we're going to hang",
@@ -133,7 +132,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -161,7 +160,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -241,19 +240,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 12109,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "President trump's claim that if he'd been present at the parkland school shooting, he'd have \" run in there even if i didn't have a weapon \" met with deep skepticism from the nation's late-night hosts monday, as did his suggestion of arming the teachers with a \" natural talent \" for shooting. Three hosts made the same joke about not believing that trump can run anywhere, let alone into a school shooting. More: stephen colbert. \" there's a lot in there that i doubt, but the part that i really don't believe is that he can run, \" colbert said. \" sir, we already know how you react to combat situations. You got five deferments from vietnam. What are you going to do, run in there and stab them with your bone spurs? \" colbert suggested trump make his \" fantasy world \" more interesting by imagining how he might have defeated the shooter with \" laser-beam eyes \" before flying back to \" space mar-a-lago, \" the washington post reports. Seth meyers. The late night host said he didn't \" believe trump would run anywhere, let alone into a school shooting \" and mocked his plan to arm teachers. \" this is one of the worst things about having trump as president, \" he said. \"every time he goes on tv and blurts the dumbest things in the world, the rest of us have to debate it like it's a real idea, \" meyers said, per entertainment weekly. \" he says, ' hey, i think we should take incredibly stressed out people who make $ 30,000 a year and give them guns, ' and then wolf blitzer has to stand there and go, ' f ---, well, let's ask the panel. ' \" trevor noah. The daily show host played \" devil's advocate \" by suggesting trump could have stopped the shooting just by being trump, the hollywood reporter notes. \" imagine you're a school shooter and donald trump appears in the hallway. How distracting would that be? \" noah said. He added that in reality, the statement \" would be ridiculous coming from anyone, but especially from trump. He's gonna run in? yo, when trump ran for president, that was the first time he ran in his entire life. \" jimmy fallon. The tonight show host praised the marjory stoneman douglas high school survivors for \" speaking out with more guts, passion, conviction and common sense than most adults, \" mashable reports. He said he would be joining them at",
         "split": "train",
         "cleansed_document": [
             "Add seth meyers and stephen colbert to those not on board with donald trump's suggestion that the answer to stopping school violence could be to arm teachers. During his return from late night's olympic hiatus monday, meyers railed against the \"deranged \" idea, which the president has floated in the wake of the deadly shooting at marjory stoneman douglas high school in florida earlier this month. \"teachers need supplies, not guns, \" meyers said. \"this is one of the worst things about having trump as president, \" he continued. \"every time he goes on tv and blurts the dumbest things",
             "\" at this point i go to bed every night believing there is nothing [ trump ] could say or do that would possibly surprise me — then the sun comes up. \" late-night hosts across the dial teed off on president donald trump's comments monday that even if he didn't have a weapon, he would have run into stoneman douglas high school while a gunman was attacking in order to protect students. Trump made the comment to governors meeting at the white house to discuss school safety. \" i really believe i'd run in there even if i didn't have",
-            "Jimmy fallon will join march for our lives, a student-led protest for school safety and gun control, on march 24 in washington, d.c. The tonight show host addressed the shooting at parkland's marjory stoneman douglas high school on monday night, in the first episode of the show since the tragic event. Fallon took a moment to acknowledge those lost, and also the students who survived the shooting. \" what they had to live through, and what they have to live with, is something that i can't even imagine, \" he said. Fallon described the recent actions of these",
-            "Please enable cookies on your web browser in order to continue. The new european data protection law requires us to inform you of the following before you use our website: we use cookies and other technologies to customize your experience, perform analytics and deliver personalized advertising on our sites, apps and newsletters and across the internet based on your interests. By clicking \"i agree \" below, you consent to the use by us and our third-party partners of cookies and data gathered from your use of our platforms. See our privacy policy and third party partners to learn more about the use of data and your"
+            "Jimmy fallon will join march for our lives, a student-led protest for school safety and gun control, on march 24 in washington, d.c. The tonight show host addressed the shooting at parkland's marjory stoneman douglas high school on monday night, in the first episode of the show since the tragic event. Fallon took a moment to acknowledge those lost, and also the students who survived the shooting. \" what they had to live through, and what they have to live with, is something that i can't even imagine, \" he said. Fallon described the recent actions of these"
         ],
         "raw_document": [
             "Add seth meyers and stephen colbert to those not on board with donald trump's suggestion that the answer to stopping school violence could be to arm teachers. During his return from late night's olympic hiatus monday, meyers railed against the \"deranged \" idea, which the president has floated in the wake of the deadly shooting at marjory stoneman douglas high school in florida earlier this month. \"teachers need supplies, not guns, \" meyers said. \"this is one of the worst things about having trump as president, \" he continued. \"every time he goes on tv and blurts the dumbest things",
@@ -274,7 +272,7 @@
             "1": 0,
             "2": 5,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -327,7 +325,7 @@
             "0": 5,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -411,7 +409,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -441,7 +439,7 @@
             "0": 0,
             "1": 4,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -658,7 +656,7 @@
             "2": 0,
             "3": 0,
             "4": 1,
-            "5": 0
+            "5": 1
         }
     },
     {
@@ -691,7 +689,7 @@
             "1": 2,
             "2": 0,
             "3": 1,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -716,7 +714,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -798,13 +796,12 @@
     },
     {
         "idx": 12129,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "As nebraska becomes the 19th state to abolish capital punishment, researchers out of kansas state university have been investigating just what makes some americans more fervently in favor of the death penalty than others. One clear factor, they report in the journal personality and individual differences, is whether someone believes in the existence of pure evil. Those who do tend to be in favor of killing people who've confessed to the crime, regardless of whether the perpetrator outwardly displayed evil or non-evil character traits. \" if they believed in pure evil, it didn't matter the characteristics; they were more likely to support the death penalty or life in prison, \" study co-author donald saucier tells the topeka capital-journal. To test this, the researchers surveyed 212 general psychology students at kansas state, all of whom had to rate their level of belief in pure evil, defined as involving sadistic motivations. The students then read one of two fictitious newspaper articles about a murder. Both involved a confession on the part of \" mr. Beatty, \" but he was depicted as two different kinds of criminal: in one version, he was interested in the occult and cruel to children; in the other article, he was a family man who enjoyed camping. Those who believe in pure evil were more likely to want either version of beatty killed. Why? in a word, demonization, say the researchers. As saucier explains to smithsonian, people who believe in pure evil will \" just say, 'you know what? that person did something horrible, which makes that person evil. They are a demon, and we need to get rid of them. ' \" ( read the \" untold story \" of the very botched execution in oklahoma. )",
         "split": "train",
         "cleansed_document": [
             "A new study co-authored by a kansas state university psychology professor finds beliefs in the existence of pure evil influence opinions on capital punishment. Donald saucier, an associate professor of psychological sciences at k-state, is a co-author of \"demons are everywhere: the effects of belief in pure evil, demonization, and retribution on punishing criminal perpetrators, \" which appears in the scientific journal personality and individual differences. For the study, 212 psychology students read one of two articles which allegedly appeared in the kansas city star newspaper. The articles described a recent murder in kansas city, mo., by a man who then admitted to committing the crime to police. Some students were shown an article in which the murderer, \"mr. Beatty, \" was described as stereotypically evil, taking joy from teasing and taunting area children and keeping to himself. Other students were shown an article in which the murderer",
-            "Do preconceived beliefs about evil influence perceptions and punishments of those who harm others? we examined the effects of belief in pure evil ( bpe ), demonization, and belief in retribution on punishment of a stereotypically ( vs. Non-stereotypically ) evil criminal. Participants punished the stereotypically evil perpetrator more ( i.e., greater recommended jail time, opposition to parole, and support for his execution ) because of increases in demonization ( i.e., greater perceptions of the criminal as wicked, evil, and threatening ), but not increases in retributive feelings. However, regardless of the criminal's exhibited stereotypically evil traits, greater bpe predicted harsher punishment of the perpetrator; both greater demonization and stronger retributive feelings mediated the relationship between bpe and severe punishments. Further, effect sizes indicated bpe ( vs. The evilness manipulation ) more strongly predicted demonization and punishment. Thus, some individuals naturally see perpetrators as demons",
-            "Earlier this month, nebraska became the first largely conservative state in more than 40 years to abolish the death penalty, joining 18 other states and the district of columbia. Considering it was also the very last to decommission the electric chair as its sole method of execution — finally repealing the practice in february 2008 — the news surprised many who had previously viewed nebraska as a quiet midwestern state firmly aligned with republican views. Critics nationwide praised the bill's passage as a rare example of bipartisanship, and many hinted that conservative support for capital punishment may be waning. But the u.s. As a whole is still at odds with international opinion — recently it was one of just 38 nations to oppose a un resolution calling for an international moratorium on the death penalty. That's despite increasing difficulties in obtaining established drugs for \" humane \" lethal injection and a list of more than"
+            "Do preconceived beliefs about evil influence perceptions and punishments of those who harm others? we examined the effects of belief in pure evil ( bpe ), demonization, and belief in retribution on punishment of a stereotypically ( vs. Non-stereotypically ) evil criminal. Participants punished the stereotypically evil perpetrator more ( i.e., greater recommended jail time, opposition to parole, and support for his execution ) because of increases in demonization ( i.e., greater perceptions of the criminal as wicked, evil, and threatening ), but not increases in retributive feelings. However, regardless of the criminal's exhibited stereotypically evil traits, greater bpe predicted harsher punishment of the perpetrator; both greater demonization and stronger retributive feelings mediated the relationship between bpe and severe punishments. Further, effect sizes indicated bpe ( vs. The evilness manipulation ) more strongly predicted demonization and punishment. Thus, some individuals naturally see perpetrators as demons"
         ],
         "raw_document": [
             "A new study co-authored by a kansas state university psychology professor finds beliefs in the existence of pure evil influence opinions on capital punishment. Donald saucier, an associate professor of psychological sciences at k-state, is a co-author of \"demons are everywhere: the effects of belief in pure evil, demonization, and retribution on punishing criminal perpetrators, \" which appears in the scientific journal personality and individual differences. For the study, 212 psychology students read one of two articles which allegedly appeared in the kansas city star newspaper. The articles described a recent murder in kansas city, mo., by a man who then admitted to committing the crime to police. Some students were shown an article in which the murderer, \"mr. Beatty, \" was described as stereotypically evil, taking joy from teasing and taunting area children and keeping to himself. Other students were shown an article in which the murderer",
@@ -821,7 +818,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -848,7 +845,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -876,7 +873,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -907,7 +904,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -940,13 +937,12 @@
     },
     {
         "idx": 12134,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The tiny eastern mosquitofish, indigenous to the southern and eastern us, is unlike much of the rest of the animal kingdom when it comes to reproduction, starting with the differing objectives of the females and males of the species. Because they have to bear the burden of actually carrying the offspring, the females are typically picky about potential partners. But since the males don't have that problem, they're out to get busy as often as possible — except instead of trying to seduce females, the males attack, sometimes up to 1,000 times a day, reports live science. Each male uses its gonopodium, an anal fin that's the fish version of a penis and which is inserted into the female to fertilize the eggs inside her body ( most other fish use an external fertilization process called spawning, releasing eggs and sperm into the water ). Now researchers report in the proceedings of the royal society b that when faced with males whose gonopodia are large, the brains of females get bigger. It's all part of what's known in evolutionary biology circles as \" sexual conflict, \" where one sex has evolved a feature that's not mutually beneficial, so the other sex evolves some countermeasure, reports phys.org. In the case of mosquitofish, when scientists artificially selected for males with larger genitalia, females responded by getting smarter as they worked to avoid the attacking males and maintain some semblance of selection — so much so that in just nine generations their brains were 6.5 % heavier than females thrown in with males sporting smaller genitals. Male brains, meanwhile, didn't change in size, which surprised the researchers, who thought chasing the females would be similarly \" cognitively demanding. \" the findings hint at the possibility that sexual conflict can in fact lead to the evolution of bigger brains, though whether this applies to other species is for future research. ( our brains appear to be part male and part female. )",
         "split": "train",
         "cleansed_document": [
             "Mosquitofish: surprisingly violent. Credit: shutterstock despite what you might think, evolution rarely happens because something is good for a species. Instead, natural selection favours genetic variants that are good for the individuals that possess them. This leads to a much more complicated and messy world, with different selective forces pushing in many directions, even within a single species. One prominent consequence of this is \" sexual conflict \". This is the term evolutionary biologists use when one sex evolves a feature that gives benefits to the sex carrying it, but disadvantages the other sex, which in turn develops its own adaptations to counter this. Sexual conflict seems to explain some of the most bizarre manifestations of reproductive biology that we know of. The enormous, curly penises of some duck species or the tendency of male bed bugs to punch holes in their partners ' abdominal walls to inseminate them are good examples of this. Now a new study has suggested that, in some species, this conflict between the sexes can have some surprising results. Specifically, avoiding conflict with males can cause females to evolve bigger brains. To understand the effects of sexual conflict, sometimes it can help to think about evolution in other antagonistic systems. In 2010,",
-            "Male mosquitofish with bigger genitals are typically best at coercing females into the \" sack, \" but now researchers have found that females that are not interested in such pushy lovers grow bigger brains to fight back. Having more brain power may give the females the smarts they need to find clever ways of avoiding male assaults, researchers said. This is just one example of the arms race that takes place between the sexes. The conflict arises in the animal kingdom because of the different strategies that males and females often take when it comes to continuing their genetic legacies. Females of most species are typically seen as choosy about their mates, because they often have to pay a high biological price for bearing offspring. On the other hand, sex usually exacts a low biological toll on males, so an approach that they frequently pursue is to mate as often as possible. [ the 7 weirdest animal penises ] to learn more about the consequences of sexual conflict, researchers investigated the eastern mosquitofish ( gambusia holbrooki ), a tiny fish that is native to the eastern and southern united states. Unlike most of the rest of the animal kingdom, in this species, males do not generally court females. Instead, male eastern mosquitofish usually try",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Male mosquitofish with bigger genitals are typically best at coercing females into the \" sack, \" but now researchers have found that females that are not interested in such pushy lovers grow bigger brains to fight back. Having more brain power may give the females the smarts they need to find clever ways of avoiding male assaults, researchers said. This is just one example of the arms race that takes place between the sexes. The conflict arises in the animal kingdom because of the different strategies that males and females often take when it comes to continuing their genetic legacies. Females of most species are typically seen as choosy about their mates, because they often have to pay a high biological price for bearing offspring. On the other hand, sex usually exacts a low biological toll on males, so an approach that they frequently pursue is to mate as often as possible. [ the 7 weirdest animal penises ] to learn more about the consequences of sexual conflict, researchers investigated the eastern mosquitofish ( gambusia holbrooki ), a tiny fish that is native to the eastern and southern united states. Unlike most of the rest of the animal kingdom, in this species, males do not generally court females. Instead, male eastern mosquitofish usually try"
         ],
         "raw_document": [
             "Mosquitofish: surprisingly violent. Credit: shutterstock despite what you might think, evolution rarely happens because something is good for a species. Instead, natural selection favours genetic variants that are good for the individuals that possess them. This leads to a much more complicated and messy world, with different selective forces pushing in many directions, even within a single species. One prominent consequence of this is \" sexual conflict \". This is the term evolutionary biologists use when one sex evolves a feature that gives benefits to the sex carrying it, but disadvantages the other sex, which in turn develops its own adaptations to counter this. Sexual conflict seems to explain some of the most bizarre manifestations of reproductive biology that we know of. The enormous, curly penises of some duck species or the tendency of male bed bugs to punch holes in their partners ' abdominal walls to inseminate them are good examples of this. Now a new study has suggested that, in some species, this conflict between the sexes can have some surprising results. Specifically, avoiding conflict with males can cause females to evolve bigger brains. To understand the effects of sexual conflict, sometimes it can help to think about evolution in other antagonistic systems. In 2010,",
@@ -963,18 +959,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 12135,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Fox news has issued an apology after airing an interview with a us veteran who, it turns out, was not the hero he claimed to be. Introduced on the network oct. 8 as a former navy seal who served in vietnam and earned 22 commendations and two purple hearts, john garofalo has since admitted to the military times that he greatly exaggerated his military credentials. Garofalo is indeed a navy veteran and a glass artist who hopes to gift president trump with a 4-foot presidential glass seal, the focus of the fox segment. But he was never a seal, he never served in vietnam, and he didn't earn all those commendations, not even a single purple heart. Instead, he did a short overseas tour in spain during four years of navy service ending in 1967. \" what i did i ' m ashamed of, and i didn't mean to cause so much disgrace to the seals, \" says the 72-year-old garofalo, noting his lies about his service have gotten \" bigger and bigger \" over the years. Retired seal don shipley alerted fox to garofalo's lies after the interview aired, and the network plans to run an on-air correction in addition to those online. ( its interview with garofalo had been viewed 1.5 million times on facebook. ) \" unfortunately, all of garofalo's claims turned out to be untrue, \" the fox notice reads. \" we apologize to our viewers, especially veterans and servicemen and women. \"",
         "split": "train",
         "cleansed_document": [
             "On sunday, oct. 8, fox news channel aired a story about john garofalo, a glass artist who created a presidential glass seal in the hopes of gifting it to president trump. Garofalo claimed he was a vietnam veteran, a member of the first u.s. Navy seal team, and a decorated war hero who was awarded two purple hearts. Unfortunately, all of garofalo's claims turned out to be untrue. The fact is that he did not serve in vietnam. He was never a u.s. Navy seal. Even though he showed us medals, garofalo was not awarded two purple hearts or any of the other nearly two dozen commendations he claimed to have received, except for the national defense service medal. It is true that garafalo is a glass artist and a veteran. He served in spain and he gifted two presidential seals to presidents ronald reagan and george h.w. Bush. Over the last two weeks, we've worked with garofalo's family and the national personnel records center to get to the bottom of a military past that garofalo had claimed to be covert. We apologize to our viewers, especially veterans and servicemen and women.",
-            "Man admitted he lied to fox news about serving as a seal and in vietnam navy veteran john garofalo appeared on a fox news segment this month, showing off a massive presidential seal he carved for president trump while receiving praise for his service in vietnam as a seal. The piece was broadcast nationally and featured cascading shots of all garofalo's medals. Online, it went viral, racking up 1.5 million facebook views on fox's facebook page. \"the vietnam war veteran served seven years as a member of the nation's first navy seal team, \" fox news reporter bryan llenas said. \"he was awarded 22 commendations, including two purple hearts. \" llenas later called the 72-year-old new york state resident a \"tough, tough man. \" \"he was listed twice during his service in vietnam as missing in action, \" llenas noted at the segment's close. \"god bless john garofalo, \" an anchor said. \"we certainly hope maybe the president is listening. \" but when navy times contacted garofalo thursday, garofalo admitted he had lied and never served in vietnam, never received a purple heart and was never a seal. × fear of missing out? fear no longer. Be the first to hear about breaking news, as it happens. You ' ll get alerts delivered directly to your inbox each time something noteworthy",
-            "The interactive transcript could not be loaded. Rating is available when the video has been rented. This feature is not available right now. Please try again later."
+            "Man admitted he lied to fox news about serving as a seal and in vietnam navy veteran john garofalo appeared on a fox news segment this month, showing off a massive presidential seal he carved for president trump while receiving praise for his service in vietnam as a seal. The piece was broadcast nationally and featured cascading shots of all garofalo's medals. Online, it went viral, racking up 1.5 million facebook views on fox's facebook page. \"the vietnam war veteran served seven years as a member of the nation's first navy seal team, \" fox news reporter bryan llenas said. \"he was awarded 22 commendations, including two purple hearts. \" llenas later called the 72-year-old new york state resident a \"tough, tough man. \" \"he was listed twice during his service in vietnam as missing in action, \" llenas noted at the segment's close. \"god bless john garofalo, \" an anchor said. \"we certainly hope maybe the president is listening. \" but when navy times contacted garofalo thursday, garofalo admitted he had lied and never served in vietnam, never received a purple heart and was never a seal. × fear of missing out? fear no longer. Be the first to hear about breaking news, as it happens. You ' ll get alerts delivered directly to your inbox each time something noteworthy"
         ],
         "raw_document": [
             "On sunday, oct. 8, fox news channel aired a story about john garofalo, a glass artist who created a presidential glass seal in the hopes of gifting it to president trump. Garofalo claimed he was a vietnam veteran, a member of the first u.s. Navy seal team, and a decorated war hero who was awarded two purple hearts. Unfortunately, all of garofalo's claims turned out to be untrue. The fact is that he did not serve in vietnam. He was never a u.s. Navy seal. Even though he showed us medals, garofalo was not awarded two purple hearts or any of the other nearly two dozen commendations he claimed to have received, except for the national defense service medal. It is true that garafalo is a glass artist and a veteran. He served in spain and he gifted two presidential seals to presidents ronald reagan and george h.w. Bush. Over the last two weeks, we've worked with garofalo's family and the national personnel records center to get to the bottom of a military past that garofalo had claimed to be covert. We apologize to our viewers, especially veterans and servicemen and women.",
@@ -991,7 +986,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1026,7 +1021,7 @@
             "2": 3,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -1132,12 +1127,11 @@
     },
     {
         "idx": 12141,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Defiant syrians are winning a virtual battle over president bashar al-assad. They're eradicating the name assad from streets and bridges, and renaming them in honor of fallen syrian rebels — with the help of google crowdsourcing program map maker. The map modifications are believed to be the first time a national movement has used such a technique to make a political point, say observers. Revolutionaries \" have the right to be remembered by the syrians, \" said rwadan ziadeh of the syrian national council exile group. \"they are making new history. \" earlier this week, syria's un envoy suddenly accused google in the middle of a general assembly speech of participating in a foreign plot to meddle in syria's internal affairs and undermine assad, reports the washington post. \"what does google have to do with the names of streets in small syrian cities and villages? \" he angrily asked, referring to changed street names in homs and idlib. \"this is a flagrant violation of the un, the resolution of the arab league pertaining to the standardization of the geographic nomenclature. \" several street signs have actually been torn down and replaced. Activists in daraya ripped down a sign honoring assad's older brother to replace it with one honoring a young tailor sympathetic to the uprising who handed out flowers to syrian troops. Google was rather noncommittal when contacted by the post for comment. \" maps are constantly changing along with the real world, so we ' ll continue to review data and make changes as new information becomes available, \" said a company spokeswoman.",
         "split": "train",
         "cleansed_document": [
-            "Among the first acts of victorious revolutionaries is to tear down signs bearing the names of the regimes they toppled. In syria, the opposition is not waiting for president bashar al-assad to fall. Anti-government activists in recent weeks have used a google crowdsourcing program, map maker, to rename key streets, bridges and boulevards after their revolutionary heroes, according to opposition figures and the syrian government. The idea, activists say, has been to expunge the vestiges of the assad family's 40-year rule and to commemorate protesters who have fallen over the course of an 11-month-old uprising. \"they have the right to be remembered by the syrians, \" said rwadan ziadeh, a representative of the syrian national council, an exile group. \"they are making new history. \" on google, names have changed over time as the maps are updated with user proposals, which are approved by other users as well as google editors. The names on google maps are sometimes different from those on google earth. The overall result, however, has been a patchwork of assad-era and revolutionary names, sometimes side by side. ( google earth image from january provided by ogleearth.com/last month, this major damascus highway was identified on google earth as being named after hafez al-assad, the father of syria's current president, and ibrahim al-kashosh, an icon of the",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain. About this capture some features displayed on the map may have been recently added or edited by google users and pending approval. Advanced search results contain only a sampling of ( user edited ) features across the current viewport. Zooming in can display more features at a location continue with the entered address continue with the entered name continue with the entered name continue with the entered name continue with the entered details. Continue with the entered name continue with the entered website continue editing in map maker has been disabled by the administrator of your domain. You must sign in with your google account to edit. Editing is currently disabled as map maker is in maintenance mode. Please try again in some time. Enables adding of kml/image overlays on the map. When mouse is over a feature, show a marker for quick access to that feature. Don't use my ip location to center the map use my ip location to center the map send mail with other users ' comments on my edit or approval. Please email me updates about what's going on in map maker, including promotions, programs, events, or new features. Primary language in which data is"
+            "Among the first acts of victorious revolutionaries is to tear down signs bearing the names of the regimes they toppled. In syria, the opposition is not waiting for president bashar al-assad to fall. Anti-government activists in recent weeks have used a google crowdsourcing program, map maker, to rename key streets, bridges and boulevards after their revolutionary heroes, according to opposition figures and the syrian government. The idea, activists say, has been to expunge the vestiges of the assad family's 40-year rule and to commemorate protesters who have fallen over the course of an 11-month-old uprising. \"they have the right to be remembered by the syrians, \" said rwadan ziadeh, a representative of the syrian national council, an exile group. \"they are making new history. \" on google, names have changed over time as the maps are updated with user proposals, which are approved by other users as well as google editors. The names on google maps are sometimes different from those on google earth. The overall result, however, has been a patchwork of assad-era and revolutionary names, sometimes side by side. ( google earth image from january provided by ogleearth.com/last month, this major damascus highway was identified on google earth as being named after hafez al-assad, the father of syria's current president, and ibrahim al-kashosh, an icon of the"
         ],
         "raw_document": [
             "Among the first acts of victorious revolutionaries is to tear down signs bearing the names of the regimes they toppled. In syria, the opposition is not waiting for president bashar al-assad to fall. Anti-government activists in recent weeks have used a google crowdsourcing program, map maker, to rename key streets, bridges and boulevards after their revolutionary heroes, according to opposition figures and the syrian government. The idea, activists say, has been to expunge the vestiges of the assad family's 40-year rule and to commemorate protesters who have fallen over the course of an 11-month-old uprising. \"they have the right to be remembered by the syrians, \" said rwadan ziadeh, a representative of the syrian national council, an exile group. \"they are making new history. \" on google, names have changed over time as the maps are updated with user proposals, which are approved by other users as well as google editors. The names on google maps are sometimes different from those on google earth. The overall result, however, has been a patchwork of assad-era and revolutionary names, sometimes side by side. ( google earth image from january provided by ogleearth.com/last month, this major damascus highway was identified on google earth as being named after hafez al-assad, the father of syria's current president, and ibrahim al-kashosh, an icon of the",
@@ -1152,7 +1146,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1206,14 +1200,13 @@
     },
     {
         "idx": 12144,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Oh that miley. It seems she's forever finding troublesome new ways to get into the press, and her latest escapade was filmed during a november 28th party at her la home. In the footage believed to be stolen or copied from a friend and posted on tmz, she is seen taking a hit of what's thought to be the natural herb salvia — it has hallucinogenic qualities but isn't illegal in california — from a bong, reports popeater. \" ok i ' m about to lose it now, \" she says. \" i ' m having a little bit of a trip right now. \" dad billy ray isn't happy, reports the la times: \" sorry guys. I had no idea, \" he tweeted. \" just saw this stuff for the first time myself. I ' m so sad. There is much beyond my control right now. \" even her \" honorary godmother \" dolly parton admitted recently she's worried about the just-turned-18-year-old, notes ctv. \" i don't know if she's surrounded by people that are helping her to not make the wise decisions. \" you ' ll have to head over to tmz to see the video, or click here for more details.",
         "split": "train",
         "cleansed_document": [
             "Miley cyrus ' bong smoking video was finally enough to get dad billy ray cyrus to criticize his daughter's behavior. Well, almost criticize it. \" sorry guys. I had no idea, \" he said friday on twitter. \" just saw this stuff for the first time myself. I ' m so sad. There is much beyond my control right now. \" he and miley's mom, tish, filed for divorce in october after 17 years of marriage. Billy ray, who costarred in \" hannah montana \" with miley, has previously defended her in situations where her behavior raised eyebrows. For example, when she held a pole and danced at the 2009 teen choice awards, when she posed semi-nude for vanity fair, when she made racy videos for \" can't be tamed \" and",
             "Miley cyrus caught taking bong hits of salvia: ' is it me tripping? ' email this it's been a year peppered with scandal for a video obtained by it's been a year peppered with scandal for miley cyrus. She did a bit of underage drinking and, of course, there's been a near constant uproar over her provocative choices in stage attire. Now comes a fresh scandal, and this one involves a big old bong.a video obtained by tmz shows the ' hannah montana'star taking hits from a bong that was reportedly filled with a natural herb called salvia, which when smoked has psychedelic qualities. Possession of salvia is currently legal in california. The video was reportedly taken five days after miley turned 18. Did miley's reputation take a hit? reactions from a chilly times square:",
-            "Bang showbiz miley cyrus has been filmed smoking a legal high. Video footage posted on the internet shows the 18-year-old singer-and-actress inhaling smoke from a bong - a filtration device for smoking - at a party held at her los angeles home on november 28, before bursting into giggles. According to gossip website tmz, the smoke comes from a natural herb called salvia, which has psychedelic qualities. In the clip, miley takes a hit then says: \" ok i ' m about to lose it now. I ' m having a little bit of a trip right now. \" with music blaring in the background, the ' last song'star later mistakenly identifies one of the party guests as her former boyfriend liam hemsworth. She laughs: \" oh my god! he looks so much like him! he looks so much",
-            "Sorry guys. I had no idea. Just saw this stuff for the first time myself. Im so sad. There is much beyond my control right now."
+            "Bang showbiz miley cyrus has been filmed smoking a legal high. Video footage posted on the internet shows the 18-year-old singer-and-actress inhaling smoke from a bong - a filtration device for smoking - at a party held at her los angeles home on november 28, before bursting into giggles. According to gossip website tmz, the smoke comes from a natural herb called salvia, which has psychedelic qualities. In the clip, miley takes a hit then says: \" ok i ' m about to lose it now. I ' m having a little bit of a trip right now. \" with music blaring in the background, the ' last song'star later mistakenly identifies one of the party guests as her former boyfriend liam hemsworth. She laughs: \" oh my god! he looks so much like him! he looks so much"
         ],
         "raw_document": [
             "Miley cyrus ' bong smoking video was finally enough to get dad billy ray cyrus to criticize his daughter's behavior. Well, almost criticize it. \" sorry guys. I had no idea, \" he said friday on twitter. \" just saw this stuff for the first time myself. I ' m so sad. There is much beyond my control right now. \" he and miley's mom, tish, filed for divorce in october after 17 years of marriage. Billy ray, who costarred in \" hannah montana \" with miley, has previously defended her in situations where her behavior raised eyebrows. For example, when she held a pole and danced at the 2009 teen choice awards, when she posed semi-nude for vanity fair, when she made racy videos for \" can't be tamed \" and",
@@ -1232,7 +1225,7 @@
             "0": 0,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1312,7 +1305,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1392,12 +1385,11 @@
     },
     {
         "idx": 12151,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "H&m — the second most-profitable clothing store in the world — has drawn criticism for embodying the \" fast-fashion \" model of retail. Fast-fashion basically means overproducing cheap clothing, which can be good for consumers but not so good for workers and the environment. ( last week tonight with john oliver explains the problems with fast-fashion here. ) now, the swedish clothing giant is trying to address some of those criticisms of fast-fashion by offering a $ 1.2 million annual prize for new innovations in recycled clothing, reuters reports. Cotton can be reused, but it's inefficient, and recycled cotton produces poor-quality fabric. And there's currently no good way to recycle mixed-material clothing at all. In addition to adding mass amounts of cheap, lightly worn clothing to landfills, h&m is concerned with future shortages in resources, such as cotton, which requires large amounts of water and pesticides, according to reuters. The project manager for h&m's global challenge award — launched today — tells the guardian shoppers aren't going to stop buying clothes, so companies need to figure out how to reduce the waste from making new garments. But critics say the contest is just a clever way for the retailer to avoid dealing with the actual problem of overproduction. \" [ their ] model only works if they encourage very frequent purchases, but the consumers are aware of the increasing effect it has on the environment, \" one expert tells reuters.",
         "split": "train",
         "cleansed_document": [
-            "Shoppers look over merchandise at hennes &amp; mauritz ( h&m; ) store in peru, at the jockey plaza mall in lima, july 21, 2015. Stockholm hennes &amp; mauritz, the world's second-biggest fashion retailer, is launching a new effort to promote recycling as it seeks to cut its environmental impact, boost its ethical credentials and address looming shortages of raw materials. The move comes as critics point out the damage being caused by a throwaway culture fueled by cheap clothing that has seen a sharp rise in the number of garments sold annually around the world. Sweden's h&m;, which is launching a line of jeans containing recycled cotton next week, will offer an annual 1-million-euro ( $ 1.16 million ) prize for new techniques to recycle clothes, chief executive karl-johan persson told reuters. \" no company, fast-fashion or not, can continue exactly like today, \" persson said. \" the ( prize's ) largest potential lies with finding new technology that means we can recycle the fibers with unchanged quality. \" as population pressure mounts, retailers like h&m; are concerned about potential future shortages of cotton, which is heavily water and pesticide dependent. Existing cotton recycling methods make poor-quality fibers, and there is no efficient way to recycle garments of mixed materials, so the vast majority of clothes end up in land fill. Johan rockstrom, environmental science professor at stockholm university and a jury member for the h&m; prize, said the fashion industry needs to find new business models to respond to global resource shortages. \" this is a great challenge for h&m; whose trademark is cheap clothes at good quality... The fact it's cheap means there's a risk people buy and throw away, or buy too much, \" he said. H&m; revenues have more than doubled since 2006, reaching",
-            "Published on apr 26, 2015 trendy clothes are cheaper than ever. That sounds great for the people who buy them, but it's horrible for the people who make them. Connect with last week tonight online... Subscribe to the last week tonight youtube channel for more almost news as it almost happens: www.youtube.com/user/lastweektonight find last week tonight on facebook like your mom would: http://facebook.com/lastweektonight for news about jokes and jokes about news: http://twitter.com/lastweektonight visit our official site for all that other stuff at once: http://www.hbo.com/lastweektonight connect with last week tonight online... Subscribe to the last week tonight youtube channel for more almost news as it almost happens: www.youtube.com/user/lastweektonight find last week tonight on facebook like your mom would: http://facebook.com/lastweektonight for news about jokes and jokes about news: http://twitter.com/lastweektonight visit our official site for all that other stuff at once: http://www.hbo.com/lastweektonight"
+            "Shoppers look over merchandise at hennes &amp; mauritz ( h&m; ) store in peru, at the jockey plaza mall in lima, july 21, 2015. Stockholm hennes &amp; mauritz, the world's second-biggest fashion retailer, is launching a new effort to promote recycling as it seeks to cut its environmental impact, boost its ethical credentials and address looming shortages of raw materials. The move comes as critics point out the damage being caused by a throwaway culture fueled by cheap clothing that has seen a sharp rise in the number of garments sold annually around the world. Sweden's h&m;, which is launching a line of jeans containing recycled cotton next week, will offer an annual 1-million-euro ( $ 1.16 million ) prize for new techniques to recycle clothes, chief executive karl-johan persson told reuters. \" no company, fast-fashion or not, can continue exactly like today, \" persson said. \" the ( prize's ) largest potential lies with finding new technology that means we can recycle the fibers with unchanged quality. \" as population pressure mounts, retailers like h&m; are concerned about potential future shortages of cotton, which is heavily water and pesticide dependent. Existing cotton recycling methods make poor-quality fibers, and there is no efficient way to recycle garments of mixed materials, so the vast majority of clothes end up in land fill. Johan rockstrom, environmental science professor at stockholm university and a jury member for the h&m; prize, said the fashion industry needs to find new business models to respond to global resource shortages. \" this is a great challenge for h&m; whose trademark is cheap clothes at good quality... The fact it's cheap means there's a risk people buy and throw away, or buy too much, \" he said. H&m; revenues have more than doubled since 2006, reaching"
         ],
         "raw_document": [
             "Shoppers look over merchandise at hennes &amp; mauritz ( h&m; ) store in peru, at the jockey plaza mall in lima, july 21, 2015. Stockholm hennes &amp; mauritz, the world's second-biggest fashion retailer, is launching a new effort to promote recycling as it seeks to cut its environmental impact, boost its ethical credentials and address looming shortages of raw materials. The move comes as critics point out the damage being caused by a throwaway culture fueled by cheap clothing that has seen a sharp rise in the number of garments sold annually around the world. Sweden's h&m;, which is launching a line of jeans containing recycled cotton next week, will offer an annual 1-million-euro ( $ 1.16 million ) prize for new techniques to recycle clothes, chief executive karl-johan persson told reuters. \" no company, fast-fashion or not, can continue exactly like today, \" persson said. \" the ( prize's ) largest potential lies with finding new technology that means we can recycle the fibers with unchanged quality. \" as population pressure mounts, retailers like h&m; are concerned about potential future shortages of cotton, which is heavily water and pesticide dependent. Existing cotton recycling methods make poor-quality fibers, and there is no efficient way to recycle garments of mixed materials, so the vast majority of clothes end up in land fill. Johan rockstrom, environmental science professor at stockholm university and a jury member for the h&m; prize, said the fashion industry needs to find new business models to respond to global resource shortages. \" this is a great challenge for h&m; whose trademark is cheap clothes at good quality... The fact it's cheap means there's a risk people buy and throw away, or buy too much, \" he said. H&m; revenues have more than doubled since 2006, reaching",
@@ -1412,7 +1404,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1440,7 +1432,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1500,12 +1492,11 @@
     },
     {
         "idx": 12155,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Stephen hawking has made it clear that he's worried about the future of humanity, and now he's offering a few suggestions to save it, cnet reports. First: let's try to be nicer to each other. \" the human failing i would most like to correct is aggression, \" the scientist said last week, per the daily mail. \" it may have had survival advantage in caveman days, to get more food, territory or partner with whom to reproduce, but now it threatens to destroy us all \" through nuclear war. There's an alternative, however: \" the quality i would most like to magnify is empathy. It brings us together in a peaceful, loving state. \" that state might do best on another planet. \" i believe that the long term future of the human race must be space and that it represents an important life insurance for our future survival, as it could prevent the disappearance of humanity by colonizing other planets, \" hawking noted. The comments were made in london, but hawking's presence was felt in hollywood last night when eddie redmayne won best actor for his portrayal of the physicist. \" well done eddie, i ' m very proud of you, \" hawking posted on facebook, as abc news reports.",
         "split": "train",
         "cleansed_document": [
-            "It follows previous comments in which he also listed artificial intelligence as an existential threat the 73-year-old warned a major nuclear war would ' be the end of civilisation, and maybe the end of the human race ' and he believes aggression should be replaced by empathy to avoid war he said space travel is vital to the future and survival of the human race professor stephen hawking believes the future of the human race depends on our abilities to explore space. During a tour of london's science museum, the 73-year-old said that landing on the moon gave us new perspectives of life on earth, and this outlook must develop if we are to survive. He also said aggression should be weeded out of the human race and replaced by empathy to avoid a major nuclear war ending civilisation as we know it. Professor hawking ( file photo shown ) was speaking at london's science museum. He said space travel is vital to the future of the human race. And he also said aggression should be replaced",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "It follows previous comments in which he also listed artificial intelligence as an existential threat the 73-year-old warned a major nuclear war would ' be the end of civilisation, and maybe the end of the human race ' and he believes aggression should be replaced by empathy to avoid war he said space travel is vital to the future and survival of the human race professor stephen hawking believes the future of the human race depends on our abilities to explore space. During a tour of london's science museum, the 73-year-old said that landing on the moon gave us new perspectives of life on earth, and this outlook must develop if we are to survive. He also said aggression should be weeded out of the human race and replaced by empathy to avoid a major nuclear war ending civilisation as we know it. Professor hawking ( file photo shown ) was speaking at london's science museum. He said space travel is vital to the future of the human race. And he also said aggression should be replaced"
         ],
         "raw_document": [
             "It follows previous comments in which he also listed artificial intelligence as an existential threat the 73-year-old warned a major nuclear war would ' be the end of civilisation, and maybe the end of the human race ' and he believes aggression should be replaced by empathy to avoid war he said space travel is vital to the future and survival of the human race professor stephen hawking believes the future of the human race depends on our abilities to explore space. During a tour of london's science museum, the 73-year-old said that landing on the moon gave us new perspectives of life on earth, and this outlook must develop if we are to survive. He also said aggression should be weeded out of the human race and replaced by empathy to avoid a major nuclear war ending civilisation as we know it. Professor hawking ( file photo shown ) was speaking at london's science museum. He said space travel is vital to the future of the human race. And he also said aggression should be replaced",
@@ -1522,7 +1513,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1674,7 +1665,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1786,13 +1777,12 @@
     },
     {
         "idx": 12166,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Not only does today's supreme court ruling mean gay couples nationwide can marry — it also means they can add as much as $ 250,000 or more to their lifetime social security benefits, experts tell usa today. That's because homosexual married couples can now take advantage of the same maximizing strategies heterosexual married couples can when claiming and filing. The article uses one fictitious couple as a case study and explains that, just by collecting social security benefits as a married couple rather than as two single people, they can boost lifetime benefits by $ 140,832 ( because the longer-surviving spouse will receive spousal and survivor benefits based on his partner's earnings ). But by using a claiming strategy known as \" file-and-suspend, \" plus one known as a \" restricted claim, \" the same fictional couple could boost their lifetime benefits by $ 202,176.",
         "split": "train",
         "cleansed_document": [
             "Skip ad ad loading... X embed x share the supreme court's ruling on whether same-sex marriages should be recognized will have wide-ranging economic impacts for same-sex couples. Time oakland county clerk lisa brown, center, marries breanne brodak, left, and cortney tucker in pontiac, mich., friday, june 26, 2015, after the supreme court declared that same-sex couples have a right to marry anywhere in the united states. Michigan was one of 14 states enforcing a ban on same-sex marriage. ( photo: carlos osorio, ap ) heterosexual married couples have long been able to use social security claiming strategies — such as file and suspend, and restricted claim — to maximize their household's benefits. But since friday's historic supreme court decision recognizing same-sex partners ' marriages as a constitutional right, those couples will be able to use the same benefit-boosting strategies — including benefits",
-            "( the writer is a reuters columnist. The opinions expressed are his own. ) by mark miller chicago, june 26 ( reuters ) - friday's u.s. Supreme court ruling on same-sex marriage will give a huge boost to the retirement security of lgbt americans. That will be especially true in the realm of social security - where it pays to be married. The ruling will affect everything from access to spousal pension and retirement accounts, health benefits and more. But social security really is the headliner. Recognition of same-sex marriage in all 50 states will guarantee access to social security's spousal and survivor benefits, which are the most valuable features of the program. Just how valuable? financial engines, a large financial advisory firm, ran numbers recently for a hypothetical same-sex couple and found that marriage could be worth $ 343,000 in additional lifetime benefits. ( bit.ly/1cyqo0h ) spouses usually",
-            "With you through life's journey... Social security touches the life of every american, both directly and indirectly. We help older americans, workers who become disabled, wounded warriors, and families in which a spouse or parent dies. Our commitment also extends to lesbian, gay, bisexual, and transgender individuals covered by social security's many programs and services. Today, about 171 million people work and pay social security taxes, and about 62 million people receive monthly social security benefits. With retirement, disability, and survivors benefits, we improve the quality of life for millions throughout life's journey. We're with you from birth most parents apply for a child's social security number at birth, usually through the hospital. When the time comes for that first job, the number is already in place. We can place both parents ' names"
+            "( the writer is a reuters columnist. The opinions expressed are his own. ) by mark miller chicago, june 26 ( reuters ) - friday's u.s. Supreme court ruling on same-sex marriage will give a huge boost to the retirement security of lgbt americans. That will be especially true in the realm of social security - where it pays to be married. The ruling will affect everything from access to spousal pension and retirement accounts, health benefits and more. But social security really is the headliner. Recognition of same-sex marriage in all 50 states will guarantee access to social security's spousal and survivor benefits, which are the most valuable features of the program. Just how valuable? financial engines, a large financial advisory firm, ran numbers recently for a hypothetical same-sex couple and found that marriage could be worth $ 343,000 in additional lifetime benefits. ( bit.ly/1cyqo0h ) spouses usually"
         ],
         "raw_document": [
             "Skip ad ad loading... X embed x share the supreme court's ruling on whether same-sex marriages should be recognized will have wide-ranging economic impacts for same-sex couples. Time oakland county clerk lisa brown, center, marries breanne brodak, left, and cortney tucker in pontiac, mich., friday, june 26, 2015, after the supreme court declared that same-sex couples have a right to marry anywhere in the united states. Michigan was one of 14 states enforcing a ban on same-sex marriage. ( photo: carlos osorio, ap ) heterosexual married couples have long been able to use social security claiming strategies — such as file and suspend, and restricted claim — to maximize their household's benefits. But since friday's historic supreme court decision recognizing same-sex partners ' marriages as a constitutional right, those couples will be able to use the same benefit-boosting strategies — including benefits",
@@ -1809,7 +1799,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1839,13 +1829,12 @@
     },
     {
         "idx": 12168,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "An attempted military coup in turkey over the weekend that killed hundreds was put down, but more details continue to trickle out — and this one has some scratching their heads. As president recep tayyip erdogan jetted back to istanbul from his vacation in marmaris during the uprising, rebel fighter jets apparently had his airplane right on their radar, an ex-military officer with \" knowledge of the events \" tells reuters. \" at least two f-16s harassed erdogan's plane while it was in the air, \" he says. \" they locked their radars on his plane and on two other f-16s protecting him. Why they didn't fire is a mystery. \" at least two senior turkish officials acknowledged there had been an incident involving erdogan's aircraft, with one simply noting the plane had been \" in trouble in the air. \" flight tracker data shows a gulfstream iv plane like the one owned by the country's government had taken off from an airport near marmaris late friday night and then circled outside of istanbul, where sounds of gunfire could still be heard, before eventually touching down. One of the officials also says erdogan had \" evaded death by minutes \" in the resort town of marmaris, with local media saying about 25 coup troops had descended from choppers on ropes and infiltrated a hotel to try to abduct him ( he had already fled ). Haaretz notes erdogan's vacation home was bombed after he had left, per reports. One of the officials also noted prime minister binali yildirim was a target during the coup but just barely got away in istanbul. The wall street journal documents erdogan's tech savvy during the coup, including how he sent a text message during the turmoil to every cellphone in the country and used facetime to speak to turkish citizens.",
         "split": "train",
         "cleansed_document": [
             "After a failed military coup friday that rocked turkey, leaving over 250 dead, turkish president recep erdogan's government has reasserted control. Loyalist elements of the turkish military have begun seizing buildings back from the coup plotters, and more than 2,800 military personnel have been detained for questioning. Photo: getty a trio of turkish helicopters filled with rebel forces buzzed the country's turquoise coast below a waxing moon early saturday as they homed in on their target: president recep tayyip erdogan. For the first time in more than 35 years, members of turkey's military were trying to forcibly overthrow their government. ( see an interactive about what we know. ) as...",
-            "Ankara/istanbul ( reuters ) - at the height of the attempt to overthrow turkish president tayyip erdogan, the rebel pilots of two f-16 fighter jets had erdogan's plane in their sights. And yet he was able to fly on. Turkish president recep tayyip erdogan waves to the crowd following a funeral service for a victim of the thwarted coup in istanbul, turkey, july 17, 2016. Reuters/alkis konstantinidis the turkish leader was returning to istanbul from a holiday near the coastal resort of marmaris after a faction in the military launched the coup attempt on friday night, sealing off a bridge across the bosphorus, trying to capture istanbul's main airport and sending tanks to parliament in ankara. \"at least two f-16s harassed erdogan's plane while it was in the air and en route to istanbul. They locked their radars on his plane and on two other f-16s protecting him, \" a former military officer with knowledge of the events told reuters. \"why they didn't fire is a mystery, \" he said. A successful overthrow of erdogan, who has ruled the country of about 80 million people since 2003, could have sent turkey spiraling into conflict and marked another seismic shift in the middle east, five years after the arab uprisings erupted and plunged its southern neighbor syria into civil war. A senior turkish official confirmed to reuters that erdogan's business jet had been harassed while flying from the airport that serves marmaris by two f-16s commandeered by the coup plotters but that he had managed to reach istanbul safely. A second senior official also said the presidential jet had been \"in trouble in the air \" but gave no details. Erdogan said as the coup unfolded that the plotters had tried to attack him in the resort",
-            "Istanbul - shortly after 3: 15 a.m. On saturday, when the executive jet bringing turkish president recep tayyip erdogan back from his vacation in dalaman... Subscribe now to get the full story subscribe log in haaretz unlimited. Only 1$ for the first month"
+            "Ankara/istanbul ( reuters ) - at the height of the attempt to overthrow turkish president tayyip erdogan, the rebel pilots of two f-16 fighter jets had erdogan's plane in their sights. And yet he was able to fly on. Turkish president recep tayyip erdogan waves to the crowd following a funeral service for a victim of the thwarted coup in istanbul, turkey, july 17, 2016. Reuters/alkis konstantinidis the turkish leader was returning to istanbul from a holiday near the coastal resort of marmaris after a faction in the military launched the coup attempt on friday night, sealing off a bridge across the bosphorus, trying to capture istanbul's main airport and sending tanks to parliament in ankara. \"at least two f-16s harassed erdogan's plane while it was in the air and en route to istanbul. They locked their radars on his plane and on two other f-16s protecting him, \" a former military officer with knowledge of the events told reuters. \"why they didn't fire is a mystery, \" he said. A successful overthrow of erdogan, who has ruled the country of about 80 million people since 2003, could have sent turkey spiraling into conflict and marked another seismic shift in the middle east, five years after the arab uprisings erupted and plunged its southern neighbor syria into civil war. A senior turkish official confirmed to reuters that erdogan's business jet had been harassed while flying from the airport that serves marmaris by two f-16s commandeered by the coup plotters but that he had managed to reach istanbul safely. A second senior official also said the presidential jet had been \"in trouble in the air \" but gave no details. Erdogan said as the coup unfolded that the plotters had tried to attack him in the resort"
         ],
         "raw_document": [
             "After a failed military coup friday that rocked turkey, leaving over 250 dead, turkish president recep erdogan's government has reasserted control. Loyalist elements of the turkish military have begun seizing buildings back from the coup plotters, and more than 2,800 military personnel have been detained for questioning. Photo: getty a trio of turkish helicopters filled with rebel forces buzzed the country's turquoise coast below a waxing moon early saturday as they homed in on their target: president recep tayyip erdogan. For the first time in more than 35 years, members of turkey's military were trying to forcibly overthrow their government. ( see an interactive about what we know. ) as...",
@@ -1862,17 +1851,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 12169,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A mother in louisiana left her two young children locked in a hot car for around 90 minutes and then attacked one of the people who rescued them, police say. Shawnise sherman, 22, has been charged with child desertion and battery, the new orleans advocate reports. Police say she left the children — an 11-month-old and a 3-year-old — alone in a car with the windows up at a strip mall in kenner from just after noon sunday until a passer-by noticed them, the times-picayune reports. Police say the temperature was 91, with a \" feels-like \" figure of 99. The person who found the children called 911 and then, assisted by other passers-by, removed the children from the vehicle, police say. Sherman then returned, confronted the group, and physically attacked the 911 caller, police say. She was arrested and the children were treated at the scene by paramedics before they were released into the care of a family member.",
         "split": "train",
         "cleansed_document": [
-            "A 22-year-old mother in kenner is accused of leaving her two young children in a hot car in a shopping mall parking lot and then attacking one of the passers-by who came to their rescue. The kenner police department says officers responded at 1: 23 p.m. Sunday ( aug. 5 ) to reports of an 11-month-old and a 3-year-old being locked in a vehicle with the windows rolled up in a parking lot in the 2500 block of williams boulevard. Several witnesses, including the 911 caller, were able to safely remove the children from the car before police arrived on scene. The police department did not say in a news release how the children were removed from the car. After learning police were called, shawnise sherman, who police identified as the mother, approached the witnesses and \" physically attacked the 911 caller, \" according to police. After an initial investigation, kenner police officer kevin ballard determined the children were in the vehicle for more than an hour. The recorded temperature on sunday was 91 degrees, with a feels-like temperature of 99 degrees. Sherman was arrested and charged with child desertion and simple battery. Her children were treated by paramedics on scene before they were released into the care of a family member.",
-            "Close get email notifications on advocate staff daily! your notification has been saved. There was a problem saving your notification. Whenever advocate staff posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items."
+            "A 22-year-old mother in kenner is accused of leaving her two young children in a hot car in a shopping mall parking lot and then attacking one of the passers-by who came to their rescue. The kenner police department says officers responded at 1: 23 p.m. Sunday ( aug. 5 ) to reports of an 11-month-old and a 3-year-old being locked in a vehicle with the windows rolled up in a parking lot in the 2500 block of williams boulevard. Several witnesses, including the 911 caller, were able to safely remove the children from the car before police arrived on scene. The police department did not say in a news release how the children were removed from the car. After learning police were called, shawnise sherman, who police identified as the mother, approached the witnesses and \" physically attacked the 911 caller, \" according to police. After an initial investigation, kenner police officer kevin ballard determined the children were in the vehicle for more than an hour. The recorded temperature on sunday was 91 degrees, with a feels-like temperature of 99 degrees. Sherman was arrested and charged with child desertion and simple battery. Her children were treated by paramedics on scene before they were released into the care of a family member."
         ],
         "raw_document": [
             "A 22-year-old mother in kenner is accused of leaving her two young children in a hot car in a shopping mall parking lot and then attacking one of the passers-by who came to their rescue. The kenner police department says officers responded at 1: 23 p.m. Sunday ( aug. 5 ) to reports of an 11-month-old and a 3-year-old being locked in a vehicle with the windows rolled up in a parking lot in the 2500 block of williams boulevard. Several witnesses, including the 911 caller, were able to safely remove the children from the car before police arrived on scene. The police department did not say in a news release how the children were removed from the car. After learning police were called, shawnise sherman, who police identified as the mother, approached the witnesses and \" physically attacked the 911 caller, \" according to police. After an initial investigation, kenner police officer kevin ballard determined the children were in the vehicle for more than an hour. The recorded temperature on sunday was 91 degrees, with a feels-like temperature of 99 degrees. Sherman was arrested and charged with child desertion and simple battery. Her children were treated by paramedics on scene before they were released into the care of a family member.",
@@ -1887,7 +1875,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1987,7 +1975,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2064,7 +2052,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2094,12 +2082,11 @@
     },
     {
         "idx": 12178,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "As his country goes to vote for the presidential race he was barred from, it's oddly wyclef jean who's instead making news. The haitian-born singer has been released from a hospital outside port-au-prince after he was shot in the hand last night, reports the ap. A rep for jean, as well as his brother, both confirmed he had been shot but had no additional details. Click for more on today's election in haiti.",
         "split": "train",
         "cleansed_document": [
-            "File - entertainer wyclef jean at a news conference for the adidas grand prix in new york, in this june 10, 2010 file photo. Joe mignon, senior program director for jean's yele foundation, says jean was... ( associated press ) a spokesman for wyclef jean says the hip-hop star has been released from a hospital after being treated for a gunshot wound to his hand. Joe mignon, senior program director for jean's yele foundation, says jean was shot in the hand after 11 p.m. Local time saturday in the city of delmas, just outside port-au-prince. Jean's brother, samuel, confirmed the musician was shot. Neither he nor mignon had additional details. The shooting comes on the eve of presidential elections in haiti. Jean is supporting fellow musician michel martelly. A spokesman for the haitian national police could not be immediately reached for comment.",
-            "One candidate is a musician with a bad-boy past. The other is a former first lady with a long political resume. Haiti's voters will choose one of them sunday to lead a country where anger with the government runs deep and nearly a million people are living on the streets. Un peacekeepers from brazil stand guard at the gate of a polling station ahead of the second round of elections in cite soleil, port-au-prince, haiti, saturday march 19, 2011. Haiti will hold runoff... ( associated press ) un peacekeepers from france and jordan take electoral material to a polling station ahead of the second round of general elections in port-au-prince, haiti, saturday march 19, 2011. Haiti will hold runoff... ( associated press ) haiti's presidential candidate and former first lady mirlande manigat, center, smiles during a campaign rally in port-au-prince, haiti, friday, march 18, 2011. Manigat will face musician michel martelly... ( associated press ) a un peacekeeper from paraguay patrols ahead of the second round of elections in cite soleil, port-au-prince, haiti, saturday march 19, 2011. Haiti will hold runoff elections on sunday. ( ap photo/ramon... ( associated press ) a un peacekeeper from jordan guards a makeshift polling station in port-au-prince, haiti, saturday march 19, 2011. Haitian voters will choose one of two candidates, michel martelly and mirlande manigat,... ( associated press ) the election, already delayed by a political crisis, is also clouded with uncertainty over the return of ousted former president jean-bertrand aristide, a popular but divisive figure whose mere presence was considered by the u.s. Government and others as a possible threat to the vote. Mirlande manigat, the former first lady, and michel \" sweet micky \" martelly, a star of haitian compas music, emerged as"
+            "File - entertainer wyclef jean at a news conference for the adidas grand prix in new york, in this june 10, 2010 file photo. Joe mignon, senior program director for jean's yele foundation, says jean was... ( associated press ) a spokesman for wyclef jean says the hip-hop star has been released from a hospital after being treated for a gunshot wound to his hand. Joe mignon, senior program director for jean's yele foundation, says jean was shot in the hand after 11 p.m. Local time saturday in the city of delmas, just outside port-au-prince. Jean's brother, samuel, confirmed the musician was shot. Neither he nor mignon had additional details. The shooting comes on the eve of presidential elections in haiti. Jean is supporting fellow musician michel martelly. A spokesman for the haitian national police could not be immediately reached for comment."
         ],
         "raw_document": [
             "File - entertainer wyclef jean at a news conference for the adidas grand prix in new york, in this june 10, 2010 file photo. Joe mignon, senior program director for jean's yele foundation, says jean was... ( associated press ) a spokesman for wyclef jean says the hip-hop star has been released from a hospital after being treated for a gunshot wound to his hand. Joe mignon, senior program director for jean's yele foundation, says jean was shot in the hand after 11 p.m. Local time saturday in the city of delmas, just outside port-au-prince. Jean's brother, samuel, confirmed the musician was shot. Neither he nor mignon had additional details. The shooting comes on the eve of presidential elections in haiti. Jean is supporting fellow musician michel martelly. A spokesman for the haitian national police could not be immediately reached for comment.",
@@ -2114,7 +2101,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2147,12 +2134,11 @@
     },
     {
         "idx": 12180,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Amazon.com has a new competitor to deal with this holiday shopping season — a company built in 90 days with just over $ 1 million in initial funding. Now six months old, boxed \" is the online costco, \" quartz reports, delivering bulk goods straight to your door within two days in any of the lower 48 states, and overnight to some major cities. If that's not impressive enough for a company still in its infancy, boxed — which was specifically designed for mobile platforms — was created by a small team of 10 engineers and project managers, most of whom worked on mobile games first. Of the app and e-commerce platform: \" it was actually a lot easier to build than a game, \" says ceo chieh huang. So how'd they do it? boxed currently sells just 600 popular items, staying away from heavy stuff like dog food, ordered wholesale directly from manufacturers. It doesn't re-package goods before shipping them to customers from rented warehouses in either new jersey or las vegas, and ups handles the shipping. As for the software, they built it from scratch. \" online, there's not many things per unit that are cheaper than what we sell right now, \" huang says. The next step is to put a system in place that offers to re-supply goods automatically. You may never have to stand in line for toilet paper again, says huang.",
         "split": "train",
         "cleansed_document": [
-            "\"being a scrappy startup, it's funny to see some of our designers forklift once in a while, \" chuckles chieh huang, ceo of boxed. Unlike most of silicon valley, which seems obsessed with multi-billion-dollar valuations for whatever ephemera the kids are into these days, boxed moves just as many atoms as bits. It's an online store that, like amazon, will deliver whatever you buy to your door — but only in bulk. If amazon is the online walmart, boxed is the online costco. Boxed began building its e-commerce platform just six months ago, with a little over $ 1 million in initial funding. Three months later, it went live with an app for the iphone ( there's now an android app too but so far, at least, it's not building a shopping website ) and a pilot program delivering in new york and new jersey. It rapidly expanded, and as of a week ago, it can now ship to everywhere in the lower 48 states of the us. Shipping is free on orders of $ 75 or more, and they are delivered overnight to philadelphia, washington dc, boston, new york and los angeles, and within two days to everywhere else. Boxed lets you save when you buy in bulk — and is only accessible through a mobile app. ( boxed ) scaling at that rate is easy for software-only companies. Doing it for a nationwide retail operation, with supply chains and warehouses and delivery logistics, using a team of just 10 engineers and project managers who mostly came from building mobile games, feels like a minor miracle. Part of the secret is that a lot of the physical work can be farmed out to others. Ups handles the \"last mile \" problem of delivery so well that boxed doesn't need a fleet of trucks, just some warehouse space in which to store goods before sending them out. ( amazon, likewise, relies on others for delivery. ) the warehouse is rented. The wholesale goods themselves are ordered directly from manufacturers, and boxed doesn't re-package them. That meant the main problems to be solved were software problems. One of those was inventory management. \"early on, we realized most warehouse management software out there is utter crap, \" says huang, referring to the systems used by warehousing companies that aren't giants like target and amazon. \"everything on the back end powering our logistics we built from scratch. \" in order to offer",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "\"being a scrappy startup, it's funny to see some of our designers forklift once in a while, \" chuckles chieh huang, ceo of boxed. Unlike most of silicon valley, which seems obsessed with multi-billion-dollar valuations for whatever ephemera the kids are into these days, boxed moves just as many atoms as bits. It's an online store that, like amazon, will deliver whatever you buy to your door — but only in bulk. If amazon is the online walmart, boxed is the online costco. Boxed began building its e-commerce platform just six months ago, with a little over $ 1 million in initial funding. Three months later, it went live with an app for the iphone ( there's now an android app too but so far, at least, it's not building a shopping website ) and a pilot program delivering in new york and new jersey. It rapidly expanded, and as of a week ago, it can now ship to everywhere in the lower 48 states of the us. Shipping is free on orders of $ 75 or more, and they are delivered overnight to philadelphia, washington dc, boston, new york and los angeles, and within two days to everywhere else. Boxed lets you save when you buy in bulk — and is only accessible through a mobile app. ( boxed ) scaling at that rate is easy for software-only companies. Doing it for a nationwide retail operation, with supply chains and warehouses and delivery logistics, using a team of just 10 engineers and project managers who mostly came from building mobile games, feels like a minor miracle. Part of the secret is that a lot of the physical work can be farmed out to others. Ups handles the \"last mile \" problem of delivery so well that boxed doesn't need a fleet of trucks, just some warehouse space in which to store goods before sending them out. ( amazon, likewise, relies on others for delivery. ) the warehouse is rented. The wholesale goods themselves are ordered directly from manufacturers, and boxed doesn't re-package them. That meant the main problems to be solved were software problems. One of those was inventory management. \"early on, we realized most warehouse management software out there is utter crap, \" says huang, referring to the systems used by warehousing companies that aren't giants like target and amazon. \"everything on the back end powering our logistics we built from scratch. \" in order to offer"
         ],
         "raw_document": [
             "\"being a scrappy startup, it's funny to see some of our designers forklift once in a while, \" chuckles chieh huang, ceo of boxed. Unlike most of silicon valley, which seems obsessed with multi-billion-dollar valuations for whatever ephemera the kids are into these days, boxed moves just as many atoms as bits. It's an online store that, like amazon, will deliver whatever you buy to your door — but only in bulk. If amazon is the online walmart, boxed is the online costco. Boxed began building its e-commerce platform just six months ago, with a little over $ 1 million in initial funding. Three months later, it went live with an app for the iphone ( there's now an android app too but so far, at least, it's not building a shopping website ) and a pilot program delivering in new york and new jersey. It rapidly expanded, and as of a week ago, it can now ship to everywhere in the lower 48 states of the us. Shipping is free on orders of $ 75 or more, and they are delivered overnight to philadelphia, washington dc, boston, new york and los angeles, and within two days to everywhere else. Boxed lets you save when you buy in bulk — and is only accessible through a mobile app. ( boxed ) scaling at that rate is easy for software-only companies. Doing it for a nationwide retail operation, with supply chains and warehouses and delivery logistics, using a team of just 10 engineers and project managers who mostly came from building mobile games, feels like a minor miracle. Part of the secret is that a lot of the physical work can be farmed out to others. Ups handles the \"last mile \" problem of delivery so well that boxed doesn't need a fleet of trucks, just some warehouse space in which to store goods before sending them out. ( amazon, likewise, relies on others for delivery. ) the warehouse is rented. The wholesale goods themselves are ordered directly from manufacturers, and boxed doesn't re-package them. That meant the main problems to be solved were software problems. One of those was inventory management. \"early on, we realized most warehouse management software out there is utter crap, \" says huang, referring to the systems used by warehousing companies that aren't giants like target and amazon. \"everything on the back end powering our logistics we built from scratch. \" in order to offer",
@@ -2167,7 +2153,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2301,18 +2287,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 12186,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Investigators searching for the cause of america's deadliest building fire in 13 years are focusing on appliances at the rear of the first floor of the \" ghost ship \" warehouse. \" on that back wall, there was a 45-degree-angle burn, and they need to look at that area very carefully, \" alameda county sheriff gregory ahern tells the san francisco chronicle. \" and in that area is a toaster, a small refrigerator, and slightly larger refrigerator, small and about 4 feet high, like one from the 1950s. \" the sheriff says it's not clear whether the old fridge caused the blaze that killed 36 people in the oakland warehouse friday night, but \" that's the area where the atf is looking. \" the blaze started during a party, and survivors described flames rising from the back of the first floor, which was connected to the ground floor by a makeshift wooden staircase. Lawyers say people including warehouse operator derick ion almena, who rented living space to artists, are almost certain to face criminal charges. \" here we have the grossest and most reckless forms of carelessness and negligence, \" an attorney tells the san jose mercury news. \" from the pictures i saw, this looked like a huge garage sale about to take place with all the furniture, debris, artist supplies, and other things that were in there, \" he says. \" you probably couldn't have built or arranged an equally flammable place. It kind of was a disaster waiting to happen. \" the ap reports that almena told the today show tuesday that he signed a lease for somewhere \" to city standards \" and everything he did \" was to make this a stronger and more beautiful community. \" ( oakland is accused of failing to act on many warnings about the warehouse over the years. )",
         "split": "train",
         "cleansed_document": [
             "Sheriff: warehouse fire probe focused in area full of appliances the oakland warehouse inferno that killed at least 36 people apparently started in a rear part of the building that contains several appliances, alameda county sheriff gregory ahern told the chronicle on tuesday afternoon. Ahern said emergency workers have been extra-careful about removing debris from that part of the ghost ship converted warehouse, so as not to disturb what could be evidence for determining the source of the ignition. A photo released by the oakland fire department, shows an aerial view of the fire destruction as recovery efforts continue following the ghost ship fire that has so far claimed 36 lives in oakland, calif., on monday, december 5, 2016. Less a photo released by the oakland fire department, shows an aerial view of the fire destruction as recovery efforts continue following the ghost ship fire that has so far claimed 36 lives in oakland,",
-            "Oakland, calif. ( ap ) — investigators honed in on a refrigerator and other electrical appliances as possible causes of the fire at a warehouse in oakland that killed 36 people, as crews were set to finish their search for bodies. The death toll in the most lethal building fire in the u.s. In more than a decade was not expected to go higher. A refrigerator was a potential source of the fire, but it was too soon to say for sure, said jill snyder, special agent in charge of the san francisco office of the bureau of alcohol, tobacco, firearms and explosives. Snyder said investigators were looking at \" anything electrical \" on the first floor of the warehouse near the origin of the blaze. \" we have no indication that this was intentionally set, \" she said. Tearful family members visited the scene tuesday and exchanged hugs hours after the founder",
-            "Var _ndnq = _ndnq &#124; &#124; [ ]; _ndnq.push( [ ' embed ' ] ); oakland — as investigators in hazmat suits sort \"bucket by bucket \" through the charred debris of the ghost ship warehouse fire in search of clues as to how and why 36 people's lives were lost, legal experts say it's almost certain someone will be criminally charged no matter what the cause. But holding the city liable for civil claims stemming from the tragedy may be nearly impossible, even if evidence grows that it failed to act on warnings about the fruitvale district warehouse, experts say. Most victims in friday night's inferno were trapped on the second floor of an over-cluttered warehouse that was being illegally used as a residential and event space — and featured a staircase essentially made of firewood. \"i would be surprised if some kind of charges weren't filed, at"
+            "Oakland, calif. ( ap ) — investigators honed in on a refrigerator and other electrical appliances as possible causes of the fire at a warehouse in oakland that killed 36 people, as crews were set to finish their search for bodies. The death toll in the most lethal building fire in the u.s. In more than a decade was not expected to go higher. A refrigerator was a potential source of the fire, but it was too soon to say for sure, said jill snyder, special agent in charge of the san francisco office of the bureau of alcohol, tobacco, firearms and explosives. Snyder said investigators were looking at \" anything electrical \" on the first floor of the warehouse near the origin of the blaze. \" we have no indication that this was intentionally set, \" she said. Tearful family members visited the scene tuesday and exchanged hugs hours after the founder"
         ],
         "raw_document": [
             "Sheriff: warehouse fire probe focused in area full of appliances the oakland warehouse inferno that killed at least 36 people apparently started in a rear part of the building that contains several appliances, alameda county sheriff gregory ahern told the chronicle on tuesday afternoon. Ahern said emergency workers have been extra-careful about removing debris from that part of the ghost ship converted warehouse, so as not to disturb what could be evidence for determining the source of the ignition. A photo released by the oakland fire department, shows an aerial view of the fire destruction as recovery efforts continue following the ghost ship fire that has so far claimed 36 lives in oakland, calif., on monday, december 5, 2016. Less a photo released by the oakland fire department, shows an aerial view of the fire destruction as recovery efforts continue following the ghost ship fire that has so far claimed 36 lives in oakland,",
@@ -2329,7 +2314,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2495,13 +2480,12 @@
     },
     {
         "idx": 12193,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A study has found that sarcasm — which has gotten a bad rap — can actually boost creativity and cognitive functioning in both the user and receiver, scientific american reports. Researchers assigned volunteers to take part in simulated dialogues that were either sarcastic, sincere, or neutral, then gave them tasks to test creativity. Those who were involved in sarcastic exchanges did better on the tasks. \" the research suggests sarcasm, used with care and in moderation, can be effectively used and trigger some creative sparks, \" researcher francesca gino writes in scientific american. According to the harvard gazette, this is the first time sarcasm has been shown to be beneficial for the recipient. According to the study, researchers think the reason for the boost in creativity is that sarcasm engages abstract thinking. The brain has to work harder to make the jump between literal and intended meanings when using or listening to sarcasm, scientific american reports. But people hoping for more creativity should be careful with sarcasm — which the gazette notes comes from the greek and latin for \" to tear flesh \" — because it can create conflict and hurt relationships. According to the study, people who already trust each other can safely reap the benefits of sarcasm without creating conflict. And the researchers hope organizations and even bosses take note. \"instead of discouraging workplace sarcasm completely... They could help educate individuals about the appropriate circumstances under which sarcasm can be used, \" says gino. ( and at least one person thinks it's time to revive sarcasm. )",
         "split": "train",
         "cleansed_document": [
             "Sarcasm is ubiquitous in organizations. Despite its prevalence, we know surprisingly little about the cognitive experiences of sarcastic expressers and recipients or their behavioral implications. The current research proposes and tests a novel theoretical model in which both the construction and interpretation of sarcasm lead to greater creativity because they activate abstract thinking. Studies 1 and 2 found that both sarcasm expressers and recipients reported more conflict but also demonstrated enhanced creativity following a simulated sarcastic conversation or after recalling a sarcastic exchange. Study 3 demonstrated that sarcasm's effect on creativity for both parties was mediated by abstract thinking and generalizes across different forms of sarcasm. Finally, study 4 found that when participants expressed sarcasm toward or received sarcasm from a trusted other, creativity increased but conflict did not. We discuss sarcasm as a double-edged sword: despite its role in instigating conflict, it can also be a catalyst for creativity.",
-            "\"sarcasm is the lowest form of wit but the highest form of intelligence, \" wrote that connoisseur of wit, oscar wilde. Whether sarcasm is a sign of intelligence or not, communication experts and marriage counselors alike typically advise us to stay away from this particular form of expression. The reason is simple: sarcasm expresses the poisonous sting of contempt, hurting others and harming relationships. As a form of communication, sarcasm takes on the debt of conflict. And yet, our research suggests, there may also be some unexpected benefits from sarcasm: greater creativity. The use of sarcasm, in fact, promotes creativity for those on both the giving and receiving end of sarcastic exchanges. Instead of avoiding sarcasm completely in the office, the research suggests sarcasm, used with care and in moderation, can be effectively used and trigger some creative sparks. Sarcasm involves constructing or exposing contradictions",
-            "\"black man given nation's worst job. \" that was how the onion famously announced barack obama's election as president in 2008. Rather than a feel-good story trumpeting the historic occasion, the satirical publication sarcastically detailed the economic and political mess obama would inherit ( and be expected to mop up ) from his first day in office. It was an unexpected and cheeky inversion of the day's events played for laughs, that also highlighted the sobering reality the nation still faced even after the momentary celebration was over. Implicit, too, was the worry that the ascendancy of an african-american man to a previously unattainable position of global power might turn out to be a hollow victory. Despite being the lingua franca of the internet, sarcasm isn't known as a sophisticated form of wit or a conversational style that wins friends. From the greek and latin for \"to tear flesh"
+            "\"sarcasm is the lowest form of wit but the highest form of intelligence, \" wrote that connoisseur of wit, oscar wilde. Whether sarcasm is a sign of intelligence or not, communication experts and marriage counselors alike typically advise us to stay away from this particular form of expression. The reason is simple: sarcasm expresses the poisonous sting of contempt, hurting others and harming relationships. As a form of communication, sarcasm takes on the debt of conflict. And yet, our research suggests, there may also be some unexpected benefits from sarcasm: greater creativity. The use of sarcasm, in fact, promotes creativity for those on both the giving and receiving end of sarcastic exchanges. Instead of avoiding sarcasm completely in the office, the research suggests sarcasm, used with care and in moderation, can be effectively used and trigger some creative sparks. Sarcasm involves constructing or exposing contradictions"
         ],
         "raw_document": [
             "Sarcasm is ubiquitous in organizations. Despite its prevalence, we know surprisingly little about the cognitive experiences of sarcastic expressers and recipients or their behavioral implications. The current research proposes and tests a novel theoretical model in which both the construction and interpretation of sarcasm lead to greater creativity because they activate abstract thinking. Studies 1 and 2 found that both sarcasm expressers and recipients reported more conflict but also demonstrated enhanced creativity following a simulated sarcastic conversation or after recalling a sarcastic exchange. Study 3 demonstrated that sarcasm's effect on creativity for both parties was mediated by abstract thinking and generalizes across different forms of sarcasm. Finally, study 4 found that when participants expressed sarcasm toward or received sarcasm from a trusted other, creativity increased but conflict did not. We discuss sarcasm as a double-edged sword: despite its role in instigating conflict, it can also be a catalyst for creativity.",
@@ -2518,7 +2502,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2543,7 +2527,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2571,7 +2555,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {

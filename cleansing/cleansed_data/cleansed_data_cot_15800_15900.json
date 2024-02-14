@@ -49,7 +49,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -167,15 +167,14 @@
     },
     {
         "idx": 15806,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "A flier's ( or, as some other media put it, \" moron's \" ) decision to name his wifi hotspot \" samsung galaxy note7_1097 \" caused trouble in the skies tuesday night. In case you've been dozing during recent pre-takeoff announcements, airlines worldwide have banned the samsung gn7 after reports the phone's lithium-ion battery can catch fire. The bbc reports the mid-air trouble began when a passenger on virgin america 358 opened up his laptop and spotted the suspiciously named wifi network. In a series of tweets, lucas wojciechowski recounted what happened on the late-night flight from san francisco to boston after a call went out requesting that the passenger carrying a gn7 press his or her call button. First came a crew announcement: \" this isn't a joke. We're going to turn on the lights ( it's 11pm ) and search everyone's bag until we find it. \" then 15 minutes later: \" this is the captain speaking. \" wojceichowski tweets that if no one owns up, the plane will have to land. Then finally, relief: \" ladies and gentlemen, we found the device. Luckily only the name of the device was changed to ' galaxy note 7 '. It was not a gn7. \" in a statement provided to technobuffalo, virgin america explains that \" when our inflight teammates see potential evidence of [ the gn7 ] onboard, they take it seriously. \" the airline corrects earlier reports that the kerfuffle affected flights, saying \" no flights were cancelled or delayed as a result \" of the incident. ( samsung apologized for the device in a very bold way. )",
         "split": "train",
         "cleansed_document": [
             "Updated a virgin america flight from san francisco to boston was nearly diverted after someone onboard named their phone's wi-fi hotspot'samsung galaxy note 7 '. A passenger on flight 358, mapboix software developer lucas wojciechowski, was scanning the plane for in-flight wi-fi when he noticed a hotspot active that appeared to be coming from a samsung galaxy note 7, which have been banned from us flights because of their tendency to catch fire. Open my laptop on the plane and notice a galaxy note 7 wifi hotspot https://t.co/y1csn9gosz pic.twitter.com/9z5ijulups — lucas wojciechowski ( @lucaswoj ) december 20, 2016 about an hour into the flight the intercom clicked on and one of the cabin crew asked that if anyone had a note 7, they should",
             "Smh. Smdh. Someone recently boarded a virgin america flight with the bright idea of leaving on a wi-fi hotspot named \"galaxy note 7_1097 \" since that device is banned from all planes in any capacity, the pilot rightly decided to divert the plane in an effort to focus on passenger safety. The fire-prone galaxy note 7 isn't a device you want on any flight. According to bbc, the plane's crew came across the loudspeaker and asked the owner of the phone to page the flight attendants using the in-seat call button. Nobody called the flight attendants and the phone appeared to still be broadcasting a wi-fi hotspot. The pilot came on the speaker next. \"this isn't a joke, \"",
             "Image copyright getty images image caption airlines have banned use of the note 7 on flights a flight in america was delayed and almost diverted on tuesday after a passenger changed the name of their wi-fi device to'samsung galaxy note 7 '. Samsung galaxy note 7 phones were banned from planes by the us department of transportation after several of the devices caught fire. Lucas wojciechowski was on virgin america flight 358 from san francisco to boston and told bbc news he photographed the hotspot after noticing it when he opened his laptop. A call went out for any passenger with a note 7 to press their call button. Image copyright twitter - @lucaswoj image caption the wi-fi device name that caused disruption on board the aircraft mr. Wojciechowski",
-            "Apparently the plane is going to have to get diverted &amp; searched if nobody fesses up soon",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "Apparently the plane is going to have to get diverted &amp; searched if nobody fesses up soon"
         ],
         "raw_document": [
             "Updated a virgin america flight from san francisco to boston was nearly diverted after someone onboard named their phone's wi-fi hotspot'samsung galaxy note 7 '. A passenger on flight 358, mapboix software developer lucas wojciechowski, was scanning the plane for in-flight wi-fi when he noticed a hotspot active that appeared to be coming from a samsung galaxy note 7, which have been banned from us flights because of their tendency to catch fire. Open my laptop on the plane and notice a galaxy note 7 wifi hotspot https://t.co/y1csn9gosz pic.twitter.com/9z5ijulups — lucas wojciechowski ( @lucaswoj ) december 20, 2016 about an hour into the flight the intercom clicked on and one of the cabin crew asked that if anyone had a note 7, they should",
@@ -198,7 +197,7 @@
             "2": 0,
             "3": 0,
             "4": 2,
-            "5": 0
+            "5": 3
         }
     },
     {
@@ -467,7 +466,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -492,7 +491,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -625,12 +624,11 @@
     },
     {
         "idx": 15823,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Not since martin shkreli has there been such outrage over the spiking costs of a life-saving device or drug. Mylan, the maker of the epipen, has bumped up costs by almost 500 % over the past few years, and because the drugmaker enjoys a near-monopoly on the epinephrine-delivering device — the ap notes the epipen patent doesn't expire until 2025 — many people who rely on it to combat severe allergic reactions have been forced to pay the full hefty cost ( around $ 600 for a two-pack ) to stay safe. Unless they purchase what's the only commercially available option on the market so far, per the washington post: the adrenaclick, a generic version of the epipen that consumer reports says it found at walmart and sam's club for a relatively reasonable $ 140 and change, with a coupon. Like the epipen, this device releases epinephrine, and in the same exact dosages. But there's a problem: most people — including teachers and nurses — know how to work epipens, and the technology on the adrenaclick is different, which could lead to people using them incorrectly or moving too slowly during an emergency situation, potentially leading to injuries. In fact, an american college of allergy, asthma, and immunology study found that people prescribed epinephrine who don't use it for at least three months risk losing their injection skills and need retraining. Another cheaper option: homemade delivery systems made from syringes that people fill with epinephrine themselves. But that could prove even more risky than the generic device, experts say, per consumer reports: while the adrenaclick at least houses the same dosages of the drug, people filling their own syringes could put in too little or too much, adding another complication on top of the training issue. ( while epipen costs went up, so did the salaries of top mylan execs. )",
         "split": "train",
         "cleansed_document": [
-            "Epipen maker mylan has become the new boogeyman of the pharmaceutical industry. Following complaints from consumers that the company had hiked the price of the emergency auto-injector by $ 100 in recent months for no obvious reason, members of congress are calling for an investigation. The price has increased 450 percent since 2004, when a dose cost $ 100 in today's dollars, to its current price of more than $ 600. Many consumers hadn't noticed the gradual rise in price, however, because the company often only added in 9 to 15 percent each time and insurance companies had made up the difference. But with recent changes in the deductible structure and co-pays for some health plans that have put more of the cost for drugs on consumers, many families have been hit with sticker shock. [ senator's daughter who raised price of epipen got $ 19 million salary, perks in 2015 ] amie vialet de montbel, for instance, found that the two 2-packs of epipens she needed for her son with a milk allergy would cost $ 1,212. \"i don't even pay that much for my mortgage, \" she told stat news. She left without buying the medicine. Likewise jackie davis of newport news, va. Was quoted $ 1,500 for three 2-packs of epipens -- and that price includes a discount, according",
-            "In this friday, july 8, 2016 photo, a pharmacist holds a package of epipens, an epinephrine autoinjector for the treatment of allergic reactions, in sacramento, calif. Price hikes for the emergency medicine... ( associated press ) in this friday, july 8, 2016 photo, a pharmacist holds a package of epipens, an epinephrine autoinjector for the treatment of allergic reactions, in sacramento, calif. Price hikes for the emergency medicine have made its maker, mylan, the latest target for patients and politicians infuriated by soaring... ( associated press ) in this friday, july 8, 2016 photo, a pharmacist holds a package of epipens, an epinephrine autoinjector for the treatment of allergic reactions, in sacramento, calif. Price hikes for the emergency medicine have made its maker, mylan, the latest target for patients and politicians infuriated by soaring... ( associated press ) in this friday, july 8, 2016 photo, a pharmacist holds a package of epipens, an epinephrine autoinjector for the treatment of allergic reactions, in sacramento, calif. Price hikes for the emergency medicine... ( associated press ) trenton, n.j. ( ap ) — sky-high price hikes for epipen, the injected emergency medicine for severe allergic reactions to foods and bug bites, have made its maker the latest target for patients and politicians infuriated by soaring drug prices."
+            "Epipen maker mylan has become the new boogeyman of the pharmaceutical industry. Following complaints from consumers that the company had hiked the price of the emergency auto-injector by $ 100 in recent months for no obvious reason, members of congress are calling for an investigation. The price has increased 450 percent since 2004, when a dose cost $ 100 in today's dollars, to its current price of more than $ 600. Many consumers hadn't noticed the gradual rise in price, however, because the company often only added in 9 to 15 percent each time and insurance companies had made up the difference. But with recent changes in the deductible structure and co-pays for some health plans that have put more of the cost for drugs on consumers, many families have been hit with sticker shock. [ senator's daughter who raised price of epipen got $ 19 million salary, perks in 2015 ] amie vialet de montbel, for instance, found that the two 2-packs of epipens she needed for her son with a milk allergy would cost $ 1,212. \"i don't even pay that much for my mortgage, \" she told stat news. She left without buying the medicine. Likewise jackie davis of newport news, va. Was quoted $ 1,500 for three 2-packs of epipens -- and that price includes a discount, according"
         ],
         "raw_document": [
             "Epipen maker mylan has become the new boogeyman of the pharmaceutical industry. Following complaints from consumers that the company had hiked the price of the emergency auto-injector by $ 100 in recent months for no obvious reason, members of congress are calling for an investigation. The price has increased 450 percent since 2004, when a dose cost $ 100 in today's dollars, to its current price of more than $ 600. Many consumers hadn't noticed the gradual rise in price, however, because the company often only added in 9 to 15 percent each time and insurance companies had made up the difference. But with recent changes in the deductible structure and co-pays for some health plans that have put more of the cost for drugs on consumers, many families have been hit with sticker shock. [ senator's daughter who raised price of epipen got $ 19 million salary, perks in 2015 ] amie vialet de montbel, for instance, found that the two 2-packs of epipens she needed for her son with a milk allergy would cost $ 1,212. \"i don't even pay that much for my mortgage, \" she told stat news. She left without buying the medicine. Likewise jackie davis of newport news, va. Was quoted $ 1,500 for three 2-packs of epipens -- and that price includes a discount, according",
@@ -645,18 +643,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 15824,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A canadian company best known for building tiny objects suitable for outer space has just earned a us patent on something distinctly grander: a 12-mile-high inflatable space elevator held up not by cables but by pressurized segments, reports fastcoexist.com. That's more than 20 times taller than the world's current tallest building, the nearly 3,000-foot-tall burj khalifa tower in dubai. So why a space elevator? because rockets ( and, presumably, the space tourists inside them ) require less force to launch when starting that much closer to the destination. \" landing at 12 miles above sea level will make space flight more like taking a passenger jet, \" says thoth technology ceo caroline roberts in a press release. The inventor says astronauts would reach the top via electrical elevator, from where rockets can launch in a single stage to orbit as well as return to refuel. If this seems far-fetched, it's actually less ambitious than obayashi corporation's hope to build a space elevator a quarter of the way to the moon by 2050, reports cnet. Even so, thoth's ambition still requires building just beyond what is known as the \" armstrong limit, \" or \" the point at which atmospheric pressure is so low that your bodily fluids would boil off without a protective suit, \" reports global construction review. The idea is gaining so much traction that seattle is actually hosting a space elevator conference later this month. ( obayashi plans to construct its space elevator not from earth but from, well, space. )",
         "split": "train",
         "cleansed_document": [
             "Thoth is a canadian company that makes miniaturized, lightweight gadgets to be taken into space, and now it has just patented an insane, sci-fi technology that could make getting them into orbit a whole lot easier. The \" design, \" which is really little more than a \" what if? \" idea typical of patents, specifies a shaft made up of inflatable segments and cars that run up and down the inside or the outside of the tube using wheels or an electromagnetic drive. It's a space elevator. But aside from the modular, inflatable construction, the other innovation here is that this elevator doesn't use a cable. And that's a good thing too, as it would extend 12 miles up into space. Imagine the damage a 12-mile-long cable could do if it snapped. \" astronauts would ascend to 20 kilometers [ 12 miles ] by",
-            "Patent granted for inflatable space elevator a canadian company has been granted a united states patent for the design of a 20-km-high tower that would act as a launch pad for space flight. The freestanding space tower concept, developed by thoth technology inc., is held rigid by pressurized gas and would allow spacecraft and people to be lifted to a level in the atmosphere requiring less force to launch. Reaching 20km above earth, it would stand more than 20 times higher than the world's current tallest building, the 829-metre-high burj khalifa in dubai. While outer space proper is considered to begin around 100km out, 20km is just beyond the 19-km \"armstrong limit \", the point at which atmospheric pressure is so low that your bodily fluids would boil off without a protective suit. Thoth technology, named after an egyptian god associated with the moon, says the tower would offer \"an exciting new",
-            "Thothx releases space elevator animation august 22, 2016 ( pembroke ont. ) – thoth technology inc. Has released a two minute video animation of the thothx space elevator. The animation features a thothx tower reaching 15 kilometers above earth with hotels and an observation deck. Space planes take off in a single stage to low earth orbit and return to a rooftop runway for refueling. The animation features \"elevator, \" a song by the united kingdom band, space elevator. \"we are delighted to partner with space elevator. It was incredible to find such a talented group who are working so creatively to achieve our shared goal for humanity to reach the stars safely, \" said caroline roberts, president and ceo of thoth. Constructed from kelvar, the pressurized towers feature newly patented technologies, including a new way to mount space elevator cars. \"space elevator towers are set to revolutionise the way we access"
+            "Patent granted for inflatable space elevator a canadian company has been granted a united states patent for the design of a 20-km-high tower that would act as a launch pad for space flight. The freestanding space tower concept, developed by thoth technology inc., is held rigid by pressurized gas and would allow spacecraft and people to be lifted to a level in the atmosphere requiring less force to launch. Reaching 20km above earth, it would stand more than 20 times higher than the world's current tallest building, the 829-metre-high burj khalifa in dubai. While outer space proper is considered to begin around 100km out, 20km is just beyond the 19-km \"armstrong limit \", the point at which atmospheric pressure is so low that your bodily fluids would boil off without a protective suit. Thoth technology, named after an egyptian god associated with the moon, says the tower would offer \"an exciting new"
         ],
         "raw_document": [
             "Thoth is a canadian company that makes miniaturized, lightweight gadgets to be taken into space, and now it has just patented an insane, sci-fi technology that could make getting them into orbit a whole lot easier. The \" design, \" which is really little more than a \" what if? \" idea typical of patents, specifies a shaft made up of inflatable segments and cars that run up and down the inside or the outside of the tube using wheels or an electromagnetic drive. It's a space elevator. But aside from the modular, inflatable construction, the other innovation here is that this elevator doesn't use a cable. And that's a good thing too, as it would extend 12 miles up into space. Imagine the damage a 12-mile-long cable could do if it snapped. \" astronauts would ascend to 20 kilometers [ 12 miles ] by",
@@ -673,7 +670,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -698,7 +695,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -753,12 +750,11 @@
     },
     {
         "idx": 15828,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "50 cent stopped by power 105.1 monday, and told a pretty interesting story about beyonce: \" one time she jumped off of a ledge and came running over cause she thought me and jay had issues, \" he said. \" i was like, ' what the f ---? did she really just jump down and run up on me like that?'she jumped down and she was like this, ' what? that bonnie and clyde for real! you try this or what, boy? i ' m here!'she bugged out at me. \" he didn't elaborate on why she thought there was a problem between him and jay, but the daily mail notes the rappers have a longstanding rivalry, and 50 recently made fun of last month's elevator brawl between jay z and beyonce's sister, solange. In any case, the close call at the cosmopolitan in las vegas apparently ended well: \" i looked and jay starts laughing. He's like, ' yo, you know what it is. ' \"",
         "split": "train",
         "cleansed_document": [
-            "' she bugged out at me ': rapper 50 cent claims beyonce ' jumped off a ledge'to confront him over an issue with her husband jay z by heidi parker rapper 50 cent just fanned the flames that beyonce and her husband jay z have a tendency to get thuggish at parties. While talking to power 105.1 on monday, the 38-year-old musician relayed a story about when the sasha fierce singer hunted him down to face him off at the cosmopolitan in las vegas. ' one time [ beyoncé ] jumped off of a ledge and came running over cause she thought me and jay had issues,'the ex-boyfriend of chelsea handler said. ' and i ' m like, \" what the f***? did she really just jump and run up on me like that? \"'scroll down for video he got scared: rapper 50 cent, pictured in march at the noah premiere, claimed beyonce rushed him in las vegas because she thought he had an issue with her husband jay z, he told power 105 on monday talented... And tough: the in da club singer only furthered beyonce's reputation of being a strong woman; here she's pictured with husband jay at the met gala on may 5 though the in da club singer never stated what beyonce thought he had an issue with jay over, he did hint she was very aggressive.'she jumped out and i was like this, \" what?! that bonnie and clyde for real! you try this or what, boy?! i ' m here! \" she bugged out at me, ' he added. ' i looked and jay starts laughing. He's like, \" yo, you know what it is. \" ' is this why?: though 50 did not clarify why he could have upset beyonce, it may have been over the comments he made about the elevator fight beyonce's sister solange, pictured at the met gala, had with jay in mid may, 50 made fun on instagram of the may 5 fight between beyonce's younger sister solange and jay in an elevator after the met gala. The rap star had made light of the incident, which was caught on surveillance video from an after party, but quickly took the posts down. Solange was filmed attacking jay z in the elevator while beyonce looked on calmly, not",
-            "Though he would later struggle with the nature of his fame as well as market expectations, 50 cent endured substantial obstacles throughout his young yet remarkably dramatic life before becoming the most discussed figure in rap, if not pop music in general, circa 2003. Following an unsuccessful late..."
+            "' she bugged out at me ': rapper 50 cent claims beyonce ' jumped off a ledge'to confront him over an issue with her husband jay z by heidi parker rapper 50 cent just fanned the flames that beyonce and her husband jay z have a tendency to get thuggish at parties. While talking to power 105.1 on monday, the 38-year-old musician relayed a story about when the sasha fierce singer hunted him down to face him off at the cosmopolitan in las vegas. ' one time [ beyoncé ] jumped off of a ledge and came running over cause she thought me and jay had issues,'the ex-boyfriend of chelsea handler said. ' and i ' m like, \" what the f***? did she really just jump and run up on me like that? \"'scroll down for video he got scared: rapper 50 cent, pictured in march at the noah premiere, claimed beyonce rushed him in las vegas because she thought he had an issue with her husband jay z, he told power 105 on monday talented... And tough: the in da club singer only furthered beyonce's reputation of being a strong woman; here she's pictured with husband jay at the met gala on may 5 though the in da club singer never stated what beyonce thought he had an issue with jay over, he did hint she was very aggressive.'she jumped out and i was like this, \" what?! that bonnie and clyde for real! you try this or what, boy?! i ' m here! \" she bugged out at me, ' he added. ' i looked and jay starts laughing. He's like, \" yo, you know what it is. \" ' is this why?: though 50 did not clarify why he could have upset beyonce, it may have been over the comments he made about the elevator fight beyonce's sister solange, pictured at the met gala, had with jay in mid may, 50 made fun on instagram of the may 5 fight between beyonce's younger sister solange and jay in an elevator after the met gala. The rap star had made light of the incident, which was caught on surveillance video from an after party, but quickly took the posts down. Solange was filmed attacking jay z in the elevator while beyonce looked on calmly, not"
         ],
         "raw_document": [
             "' she bugged out at me ': rapper 50 cent claims beyonce ' jumped off a ledge'to confront him over an issue with her husband jay z by heidi parker rapper 50 cent just fanned the flames that beyonce and her husband jay z have a tendency to get thuggish at parties. While talking to power 105.1 on monday, the 38-year-old musician relayed a story about when the sasha fierce singer hunted him down to face him off at the cosmopolitan in las vegas. ' one time [ beyoncé ] jumped off of a ledge and came running over cause she thought me and jay had issues,'the ex-boyfriend of chelsea handler said. ' and i ' m like, \" what the f***? did she really just jump and run up on me like that? \"'scroll down for video he got scared: rapper 50 cent, pictured in march at the noah premiere, claimed beyonce rushed him in las vegas because she thought he had an issue with her husband jay z, he told power 105 on monday talented... And tough: the in da club singer only furthered beyonce's reputation of being a strong woman; here she's pictured with husband jay at the met gala on may 5 though the in da club singer never stated what beyonce thought he had an issue with jay over, he did hint she was very aggressive.'she jumped out and i was like this, \" what?! that bonnie and clyde for real! you try this or what, boy?! i ' m here! \" she bugged out at me, ' he added. ' i looked and jay starts laughing. He's like, \" yo, you know what it is. \" ' is this why?: though 50 did not clarify why he could have upset beyonce, it may have been over the comments he made about the elevator fight beyonce's sister solange, pictured at the met gala, had with jay in mid may, 50 made fun on instagram of the may 5 fight between beyonce's younger sister solange and jay in an elevator after the met gala. The rap star had made light of the incident, which was caught on surveillance video from an after party, but quickly took the posts down. Solange was filmed attacking jay z in the elevator while beyonce looked on calmly, not",
@@ -773,7 +769,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -803,7 +799,7 @@
             "0": 1,
             "1": 0,
             "2": 4,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -831,7 +827,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -888,7 +884,7 @@
             "1": 1,
             "2": 3,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1153,13 +1149,12 @@
     },
     {
         "idx": 15843,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A 16-year-old with terminal brain cancer died monday — but not before her youtube cover of katy perry's \" roar \" moved countless viewers, including perry herself. After learning that she had exhausted her treatment options, olivia wise recorded the song in a toronto studio in september. The video, which shows wise gaining strength as she sings, now has more than 1.6 million youtube views. In a video response, perry tells wise: \" i love you. A lot of people love you and that's why your video got to me. It moved everybody that saw it. \" wise \" died peacefully in her home surrounded by the extraordinary love of her family, \" the family tells cnn in a statement. \" in many ways, olivia has lived a shortened, but full life... Her diagnosis didn't change her personality. It only enhanced it. \" the statement adds: \" even in the most difficult moments, she managed to bring laughter and friendship to all that were caring for her. \" a few days ago, her family posted another song from the recording session, one that she wrote when she was 11. A fund in wise's name has raised more than $ 132,000 for brain tumor research and kids living with such tumors. ( \" roar \" was recently the subject of another inspiring story. )",
         "split": "train",
         "cleansed_document": [
             "Published on oct 14, 2013 available on itunes. Donate to http://www.livwisefund.com ' roar ' itunes ( canada ): https://itunes.apple.com/ca/album/roa... Roar cdbaby: http://www.cdbaby.com/cd/oliviawise1 olivia wise has brain cancer. She came into a recording studio for her first time and recorded the katy perry song roar. She couldn't walk or stand, she didn't have her full breath or the energy she used to, and she was managing her new pains and new limitations. While her physical condition was rapidly fading, her spirit remained untouched. Olivia is a fighter and has gone through the fire, in fact, she was going through the fire while she recorded this song, but you wouldn't know it, because she was dancing right through it. She is an inspiration, a champion, and my hero. This is her roar. Thanks to jon levine and matt marek. Love you liv, jeff update: olivia wise passed away on november 25, 2013",
-            "( cnn ) -- olivia wise, a teenager who refused to let an inoperable brain tumor kill her spirit, died monday. Olivia gained fame in the last weeks of her 16-year-long life when a katy perry song she recorded in a toronto studio in september became a viral hit online. \" she died peacefully in her home surrounded by the extraordinary love of her family, \" a family statement sent to cnn said. The teenager said that she didn't want people crying at her funeral, but that they should celebrate her life, her mother wrote in a letter to cnn. Her version of perry's hit \" roar, \" which she recorded in september after learning there were no more treatments available, drew the attention of perry after it was published on youtube in october. \" i was very moved and you sounded great, \" perry told her in a video posted on youtube. \" i love you. A lot of people love you and that's why your video got to me. It moved everybody that saw it. \" perry",
-            "Crawl of outlinks from wikipedia.org started march, 2016. These files are currently not publicly accessible. Properties of this collection. It has been several years since the last time we did this. For this collection, several things were done: 1. Turned off duplicate detection. This collection will be complete, as there is a good chance we will share the data, and sharing data with pointers to random other collections, is a complex problem. 2. For the first time, did all the different wikis. The original runs were just against the enwiki. This one, the seed list was built from all 865 collections."
+            "( cnn ) -- olivia wise, a teenager who refused to let an inoperable brain tumor kill her spirit, died monday. Olivia gained fame in the last weeks of her 16-year-long life when a katy perry song she recorded in a toronto studio in september became a viral hit online. \" she died peacefully in her home surrounded by the extraordinary love of her family, \" a family statement sent to cnn said. The teenager said that she didn't want people crying at her funeral, but that they should celebrate her life, her mother wrote in a letter to cnn. Her version of perry's hit \" roar, \" which she recorded in september after learning there were no more treatments available, drew the attention of perry after it was published on youtube in october. \" i was very moved and you sounded great, \" perry told her in a video posted on youtube. \" i love you. A lot of people love you and that's why your video got to me. It moved everybody that saw it. \" perry"
         ],
         "raw_document": [
             "Published on oct 14, 2013 available on itunes. Donate to http://www.livwisefund.com ' roar ' itunes ( canada ): https://itunes.apple.com/ca/album/roa... Roar cdbaby: http://www.cdbaby.com/cd/oliviawise1 olivia wise has brain cancer. She came into a recording studio for her first time and recorded the katy perry song roar. She couldn't walk or stand, she didn't have her full breath or the energy she used to, and she was managing her new pains and new limitations. While her physical condition was rapidly fading, her spirit remained untouched. Olivia is a fighter and has gone through the fire, in fact, she was going through the fire while she recorded this song, but you wouldn't know it, because she was dancing right through it. She is an inspiration, a champion, and my hero. This is her roar. Thanks to jon levine and matt marek. Love you liv, jeff update: olivia wise passed away on november 25, 2013",
@@ -1176,17 +1171,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 15844,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "White house strategist steve bannon granted the new york times an interview this week, and the main topic appears to have been how much he hates the new york times and the rest of the news media. \" the media should be embarrassed and humiliated and keep its mouth shut and just listen for a while, \" the former breitbart chair said. \" i want you to quote this. The media here is the opposition party. They don't understand this country. They still do not understand why donald trump is the president of the united states. \" he said the media had gotten the election \" dead wrong, \" making it a \" humiliating defeat that they will never wash away, that will always be there. \" bannon — who jokingly referred to himself as darth vader — described unspecified editors and reporters as \" outright activists of the clinton campaign, \" telling the times: \" that's why you have no power. You were humiliated. \" he staunchly defended new white house press secretary sean spicer, saying it was a \" badge of honor \" to have the media question his integrity. \" the media has zero integrity, zero intelligence, and no hard work, \" bannon said. At cnn, jake tapper's response to bannon's request to shut up was a simple \" no, \" while the aclu tweeted that it will see the trump administration in court if it tries to shut the media up. Erik wemple at the washington post wrote that since bannon \" helmed a campaign heavy on deceit, division, and cynicism, we don't want any praise from his likes. \"",
         "split": "train",
         "cleansed_document": [
-            "\"the elite media got it dead wrong, 100 percent dead wrong, \" mr. Bannon said of the election, calling it \"a humiliating defeat that they will never wash away, that will always be there. \" \"the mainstream media has not fired or terminated anyone associated with following our campaign, \" mr. Bannon said. \"look at the twitter feeds of those people: they were outright activists of the clinton campaign. \" ( he did not name specific reporters or editors. ) \"that's why you have no power, \" he added. \"you were humiliated. \" mr. Bannon spoke in blunt but calm tones, peppered with profanity, and humorously referred to himself as \"darth vader. \" he said, with ironic relish, that mr. Trump was elected by a surge of support from \"the working-class hobbits and deplorables. \" the conversation was initiated by mr. Bannon to offer praise for mr. Spicer, who has been criticized this week for making false claims at the white house podium about attendance at mr. Trump's inaugural, for calling reporters dishonest and lecturing them about what stories to write, and for failing to disavow mr. Trump's lie about widespread voter fraud in the election. Asked if he was concerned that mr. Spicer had lost credibility with the news media, mr. Bannon chortled. \"are you kidding me? \" he said. \"we think that's a badge of honor. 'questioning his integrity ' — are you kidding me? the media has zero integrity, zero intelligence, and no hard work. \" \"you're the opposition party, \" he said. \"not the democratic party. You're the opposition party. The media's the opposition party. \" journalists reacted with alarm and defiance to mr. Bannon's comments. \"what country are we living in? \" christiane amanpour, the cnn correspondent, wrote on twitter. \"we are not the opposition, \" stephen engelberg, editor in chief of the nonprofit news organization propublica, wrote in an email. \"we are part of an essential function in any democracy. \" he added that propublica had no intention of \"shutting up in response to this or any other president's demand. \"",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "\"the elite media got it dead wrong, 100 percent dead wrong, \" mr. Bannon said of the election, calling it \"a humiliating defeat that they will never wash away, that will always be there. \" \"the mainstream media has not fired or terminated anyone associated with following our campaign, \" mr. Bannon said. \"look at the twitter feeds of those people: they were outright activists of the clinton campaign. \" ( he did not name specific reporters or editors. ) \"that's why you have no power, \" he added. \"you were humiliated. \" mr. Bannon spoke in blunt but calm tones, peppered with profanity, and humorously referred to himself as \"darth vader. \" he said, with ironic relish, that mr. Trump was elected by a surge of support from \"the working-class hobbits and deplorables. \" the conversation was initiated by mr. Bannon to offer praise for mr. Spicer, who has been criticized this week for making false claims at the white house podium about attendance at mr. Trump's inaugural, for calling reporters dishonest and lecturing them about what stories to write, and for failing to disavow mr. Trump's lie about widespread voter fraud in the election. Asked if he was concerned that mr. Spicer had lost credibility with the news media, mr. Bannon chortled. \"are you kidding me? \" he said. \"we think that's a badge of honor. 'questioning his integrity ' — are you kidding me? the media has zero integrity, zero intelligence, and no hard work. \" \"you're the opposition party, \" he said. \"not the democratic party. You're the opposition party. The media's the opposition party. \" journalists reacted with alarm and defiance to mr. Bannon's comments. \"what country are we living in? \" christiane amanpour, the cnn correspondent, wrote on twitter. \"we are not the opposition, \" stephen engelberg, editor in chief of the nonprofit news organization propublica, wrote in an email. \"we are part of an essential function in any democracy. \" he added that propublica had no intention of \"shutting up in response to this or any other president's demand. \""
         ],
         "raw_document": [
             "\"the elite media got it dead wrong, 100 percent dead wrong, \" mr. Bannon said of the election, calling it \"a humiliating defeat that they will never wash away, that will always be there. \" \"the mainstream media has not fired or terminated anyone associated with following our campaign, \" mr. Bannon said. \"look at the twitter feeds of those people: they were outright activists of the clinton campaign. \" ( he did not name specific reporters or editors. ) \"that's why you have no power, \" he added. \"you were humiliated. \" mr. Bannon spoke in blunt but calm tones, peppered with profanity, and humorously referred to himself as \"darth vader. \" he said, with ironic relish, that mr. Trump was elected by a surge of support from \"the working-class hobbits and deplorables. \" the conversation was initiated by mr. Bannon to offer praise for mr. Spicer, who has been criticized this week for making false claims at the white house podium about attendance at mr. Trump's inaugural, for calling reporters dishonest and lecturing them about what stories to write, and for failing to disavow mr. Trump's lie about widespread voter fraud in the election. Asked if he was concerned that mr. Spicer had lost credibility with the news media, mr. Bannon chortled. \"are you kidding me? \" he said. \"we think that's a badge of honor. 'questioning his integrity ' — are you kidding me? the media has zero integrity, zero intelligence, and no hard work. \" \"you're the opposition party, \" he said. \"not the democratic party. You're the opposition party. The media's the opposition party. \" journalists reacted with alarm and defiance to mr. Bannon's comments. \"what country are we living in? \" christiane amanpour, the cnn correspondent, wrote on twitter. \"we are not the opposition, \" stephen engelberg, editor in chief of the nonprofit news organization propublica, wrote in an email. \"we are part of an essential function in any democracy. \" he added that propublica had no intention of \"shutting up in response to this or any other president's demand. \"",
@@ -1201,7 +1195,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1259,7 +1253,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1309,7 +1303,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1359,7 +1353,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1450,12 +1444,11 @@
     },
     {
         "idx": 15854,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The social network is officially a hit — it won the weekend box office — but different viewers came away with wildly different impressions, according to david carr of the new york times. Older people see it as a cautionary tale about a young man who betrays all his friends and principles. Younger people see a story of a visionary who did what he had to do to create something huge. \"when you talk to people afterward, it was as if they were seeing two different films, \" says one producer. \"the older audiences see zuckerberg as a tragic figure … while young people see him as completely enhanced, a rock star. \" jesse eisenberg says he's experienced the same thing. \"i was asked by older people again and again how i could play a character who is capable of being so mean, \" the 26-year-old actor says.",
         "split": "train",
         "cleansed_document": [
-            "The actual facebook has been playing clumsy defense against the film, including having the real mr. Zuckerberg pop out of nowhere on \" oprah \" to donate $ 100 million to the schools of newark, but my hunch is that the company doesn't have much to worry about. Regardless of what the courts, the media or former partners say, mr. Zuckerberg's reign as boy-king of america's new capitalism will only grow. ( perhaps the company realized as much. On friday, mr. Zuckerberg made the smart move and attended a screening with other employees from facebook. Why pretend? ) however lacking mr. Zuckerberg may be in the social graces that drive civil society, he embodies the optimism and creativity of millennials. To many who will see the film, the spectacular ends make the means seem beside the point. As played in the film by jesse eisenberg and written by aaron sorkin, mr. Zuckerberg is a social autistic who pivots between brilliance and hubris on his way to becoming the youngest billionaire the world has seen. As the characters around him chatter and amble about, mr. Zuckerberg is often seen looking away, into a future that only he can see. And when people don't come around to that vision, he runs them over or blows past them. Whether you see those people as",
-            "The ubiquitous social-networking site facebook has mushroomed into a global pop-culture phenomenon, since the site launched in 2004. So, perhaps it's not too surprising that the flick \" the social network, \" which is based on the rise of the social-media juggernaut, found a huge audience at the box office. The much-anticipated film, featuring performances from web-averse leading lad jesse eisenberg and pop hitmaker-turned-thespian justin timberlake, opened friday with $ 8 million. \" network \" kicked last week's box-office winner, \" wall street: money never sleeps, \" down to second place. The long-awaited sequel to the oliver stone-helmed 1987 stock-market tale rang up roughly $ 3.3 million in ticket sales. The numbers from friday's box-office showing bumped the michael douglas and shia labeouf vehicle's total estimated haul to just over $ 29 million. The ben affleck-directed bank-robber pic \" the town \" continues to clean up at the box office. Entering its third week in theaters, the boston-based heist jaunt racked up a little over $ 3 million on friday. The weekend-kickoff tally brings the film's domestic gross to roughly $ 57 million since its mid-september release. \" legend of the guardians: the owls of ga ' hoole \" began its second-week run in fourth place. Featuring voice-over performances from big-name stars such as helen mirren, and boasting stunning"
+            "The actual facebook has been playing clumsy defense against the film, including having the real mr. Zuckerberg pop out of nowhere on \" oprah \" to donate $ 100 million to the schools of newark, but my hunch is that the company doesn't have much to worry about. Regardless of what the courts, the media or former partners say, mr. Zuckerberg's reign as boy-king of america's new capitalism will only grow. ( perhaps the company realized as much. On friday, mr. Zuckerberg made the smart move and attended a screening with other employees from facebook. Why pretend? ) however lacking mr. Zuckerberg may be in the social graces that drive civil society, he embodies the optimism and creativity of millennials. To many who will see the film, the spectacular ends make the means seem beside the point. As played in the film by jesse eisenberg and written by aaron sorkin, mr. Zuckerberg is a social autistic who pivots between brilliance and hubris on his way to becoming the youngest billionaire the world has seen. As the characters around him chatter and amble about, mr. Zuckerberg is often seen looking away, into a future that only he can see. And when people don't come around to that vision, he runs them over or blows past them. Whether you see those people as"
         ],
         "raw_document": [
             "The actual facebook has been playing clumsy defense against the film, including having the real mr. Zuckerberg pop out of nowhere on \" oprah \" to donate $ 100 million to the schools of newark, but my hunch is that the company doesn't have much to worry about. Regardless of what the courts, the media or former partners say, mr. Zuckerberg's reign as boy-king of america's new capitalism will only grow. ( perhaps the company realized as much. On friday, mr. Zuckerberg made the smart move and attended a screening with other employees from facebook. Why pretend? ) however lacking mr. Zuckerberg may be in the social graces that drive civil society, he embodies the optimism and creativity of millennials. To many who will see the film, the spectacular ends make the means seem beside the point. As played in the film by jesse eisenberg and written by aaron sorkin, mr. Zuckerberg is a social autistic who pivots between brilliance and hubris on his way to becoming the youngest billionaire the world has seen. As the characters around him chatter and amble about, mr. Zuckerberg is often seen looking away, into a future that only he can see. And when people don't come around to that vision, he runs them over or blows past them. Whether you see those people as",
@@ -1470,7 +1463,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1495,7 +1488,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1520,7 +1513,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1583,12 +1576,11 @@
     },
     {
         "idx": 15859,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "In the summer of 2015, allegiant air had a number of in-flight breakdowns — on one day in particular, there were five such problems. Between the beginning of 2016 and the end of october 2017, a 60 minutes investigation uncovered more than 100 serious mechanical incidents the airline experienced: from hydraulic leaks and air pressure loss in the cabin to rapid descents, aborted takeoffs, and more — including 60 unscheduled landings. The airline has just 99 planes, yet experienced 25 engine failures or malfunctions in two years, and its planes are three and a half times more likely than those of other carriers to experience \" serious in-flight mechanical failures, \" per the report. But allegiant air, a budget carrier based in las vegas, is one of the most profitable airlines in the us, even if most customers are unaware of those problems. A former member of the national transportation safety board says he won't fly the airline and encourages his family and friends not to fly it, either. The aviation experts 60 minutes spoke to during its 7-month investigation believe the problems stem from allegiant's ultra-low-cost fares; in order to keep them so affordable, the airline must keep its own costs down — and keep its planes flying as long as possible. Almost 30 % of its planes are mcdonnell-douglas md-80s, which are old and difficult to find parts for. Those planes, nearly all of which were bought secondhand from foreign airlines, are responsible for most of the problems the investigation uncovered. Some also fault the faa for being too lax in its oversight of the airline. Allegiant is calling the story a \" false narrative, \" while the ap reports shares of its parent company were down in early trading. See cbs news for more.",
         "split": "train",
         "cleansed_document": [
-            "Allegiant air is a small, ultra-low-cost carrier based in las vegas, that happens to be one of the country's most profitable airlines. But, according to federal aviation records and interviews with pilots, mechanics and industry experts, it may also be the most dangerous. The airline flew 12 million passengers last year on its 99 planes to 120 destinations from california to florida. But it has had persistent problems since at least the summer of 2015 when it experienced a rash of mid-air breakdowns, including five on a single day. It was not a fluke. Public documents show an alarming number of aborted takeoffs, cabin pressure loss, emergency descents and unscheduled landings. Yet for the most part, allegiant's difficulties have managed to stay under the radar of the flying public. Cbs news it's entirely possible that you have never heard of allegiant or flown on one of its planes. But if you shop for the cheapest ticket, live near cities like pittsburgh or cincinnati that are underserved by major airlines or you rely on regional airports, then you probably recognize the company's colors and logo. Allegiant has some of the lowest fares, the least frills and the oldest fleet in the business. Right now, nearly 30 percent of its planes are antiquated, gas-guzzling mcdonnell-douglas md-80s, almost all of",
-            "File - in this may 9, 2013, file photo, two allegiant air jets taxi at mccarran international airport in las vegas. Shares of allegiant air's parent company are tumbling in monday, april 16, 2018, premarket... ( associated press ) file - in this may 9, 2013, file photo, two allegiant air jets taxi at mccarran international airport in las vegas. Shares of allegiant air's parent company are tumbling in monday, april 16, 2018, premarket trading following a \"60 minutes \" investigation that expressed serious safety concerns about the... ( associated press ) file - in this may 9, 2013, file photo, two allegiant air jets taxi at mccarran international airport in las vegas. Shares of allegiant air's parent company are tumbling in monday, april 16, 2018, premarket trading following a \"60 minutes \" investigation that expressed serious safety concerns about the... ( associated press ) file - in this may 9, 2013, file photo, two allegiant air jets taxi at mccarran international airport in las vegas. Shares of allegiant air's parent company are tumbling in monday, april 16, 2018, premarket... ( associated press ) las vegas ( ap ) — the low-cost carrier allegiant air is under fire following a \" 60 minutes \" investigation that raised significant safety concerns"
+            "Allegiant air is a small, ultra-low-cost carrier based in las vegas, that happens to be one of the country's most profitable airlines. But, according to federal aviation records and interviews with pilots, mechanics and industry experts, it may also be the most dangerous. The airline flew 12 million passengers last year on its 99 planes to 120 destinations from california to florida. But it has had persistent problems since at least the summer of 2015 when it experienced a rash of mid-air breakdowns, including five on a single day. It was not a fluke. Public documents show an alarming number of aborted takeoffs, cabin pressure loss, emergency descents and unscheduled landings. Yet for the most part, allegiant's difficulties have managed to stay under the radar of the flying public. Cbs news it's entirely possible that you have never heard of allegiant or flown on one of its planes. But if you shop for the cheapest ticket, live near cities like pittsburgh or cincinnati that are underserved by major airlines or you rely on regional airports, then you probably recognize the company's colors and logo. Allegiant has some of the lowest fares, the least frills and the oldest fleet in the business. Right now, nearly 30 percent of its planes are antiquated, gas-guzzling mcdonnell-douglas md-80s, almost all of"
         ],
         "raw_document": [
             "Allegiant air is a small, ultra-low-cost carrier based in las vegas, that happens to be one of the country's most profitable airlines. But, according to federal aviation records and interviews with pilots, mechanics and industry experts, it may also be the most dangerous. The airline flew 12 million passengers last year on its 99 planes to 120 destinations from california to florida. But it has had persistent problems since at least the summer of 2015 when it experienced a rash of mid-air breakdowns, including five on a single day. It was not a fluke. Public documents show an alarming number of aborted takeoffs, cabin pressure loss, emergency descents and unscheduled landings. Yet for the most part, allegiant's difficulties have managed to stay under the radar of the flying public. Cbs news it's entirely possible that you have never heard of allegiant or flown on one of its planes. But if you shop for the cheapest ticket, live near cities like pittsburgh or cincinnati that are underserved by major airlines or you rely on regional airports, then you probably recognize the company's colors and logo. Allegiant has some of the lowest fares, the least frills and the oldest fleet in the business. Right now, nearly 30 percent of its planes are antiquated, gas-guzzling mcdonnell-douglas md-80s, almost all of",
@@ -1603,7 +1595,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1684,7 +1676,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1745,12 +1737,11 @@
     },
     {
         "idx": 15865,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's called a red king crab, but one caught in nome, alaska, didn't get the memo: it turned up in fisherman frank mcfarland's pot as a lovely shade of blue, reports knom. ( the oddity first showed up on the front page of the nome nugget. ) a state biologist chalks it up to a rare genetic mutation, adding that that he himself had seen one before only in photographs from the 1980s, reports alaska dispatch news. For now, the otherwise healthy crab is being held in a tank at the norton sound seafood center and has become what ap calls a \" rock star of sorts \" among curious visitors. Fittingly, \" it's kind of the color of a forget-me-not, \" says the manager caring for it. It's a first for him, too.",
         "split": "train",
         "cleansed_document": [
-            "Nome, alaska ( ap ) — a rare blue-colored red king crab was part of a fisherman's catch earlier this month in nome, alaska. In this photo taken july 4, 2014, and provided by the alaska dept. Of fish and game, crab fisherman frank mcfarland, left, holds up a rare blue-colored red king crab he caught in his commercial crabbing... ( associated press ) knom reports ( http://is.gd/nq1wsp ) frank mcfarland found the blue crab in his pot when fishing on july fourth off nome. The blue crab is being kept alive at the norton sound seafood center until mcfarland can have it mounted. The rare crab has become a rock star of sorts, with people showing up at the center to have their photos taken with it. Scott kent, with the alaska department of fish and game in nome, says he has no idea why the red king crab is blue, but suspects it's just a mutation. Kent says a blue crab \" turns up once in a blue moon. \"",
-            "The seed for wide00014 was: - slash pages from every domain on the web: -- a ranking of all urls that have more than one incoming inter-domain link ( rank was determined by number of incoming links using wide00012 inter domain links ) -- up to a maximum of 100 most highly ranked urls per domain - top ranked pages ( up to a max of 100 ) from every linked-to domain using the wide00012 inter-domain navigational link graph"
+            "Nome, alaska ( ap ) — a rare blue-colored red king crab was part of a fisherman's catch earlier this month in nome, alaska. In this photo taken july 4, 2014, and provided by the alaska dept. Of fish and game, crab fisherman frank mcfarland, left, holds up a rare blue-colored red king crab he caught in his commercial crabbing... ( associated press ) knom reports ( http://is.gd/nq1wsp ) frank mcfarland found the blue crab in his pot when fishing on july fourth off nome. The blue crab is being kept alive at the norton sound seafood center until mcfarland can have it mounted. The rare crab has become a rock star of sorts, with people showing up at the center to have their photos taken with it. Scott kent, with the alaska department of fish and game in nome, says he has no idea why the red king crab is blue, but suspects it's just a mutation. Kent says a blue crab \" turns up once in a blue moon. \""
         ],
         "raw_document": [
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period.",
@@ -1767,7 +1758,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1797,12 +1788,11 @@
     },
     {
         "idx": 15867,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Michele bachmann became the first gop presidential hopeful to sign an extremely socially conservative pledge that might sorta call for a ban on porn. The pledge, which is being put forth by an iowa-based group called the family leader, is ostensibly primarily about marriage; it's called \"the marriage vow — a declaration of dependence upon marriage and family. \" but some, like thinkprogress, have been criticizing it for also including a clause condemning porn. The clause in question is confusing, mediaite observes. It insists candidates support the \"humane protection of women and the innocent fruit of conjugal intimacy \" — meaning children — \"from human trafficking, sexual slavery, seduction into promiscuity, and all forms of pornography. \" that's not actually calling for a \"porn ban, \" as some are reporting, but does lump porn together with sex slavery. Other eyebrow-raising things the pledge calls for include: \" rejection of sharia islam \" ( though a later clause calls for a \"fierce defense \" of \"religious liberty \" ) \"recognition that robust childbearing and reproduction is beneficial \" to the us support for a \"cooling-off \" period for anyone wanting a divorce \"vigorous opposition \" to any recognition of \"unions which are bigamous, polygamous, polyandrous, same-sex, etc. \"",
         "split": "train",
         "cleansed_document": [
-            "The family leader, an iowa-based political group with the stated mission to promote christian conservative social values, has been asking republican candidates to sign a pledge titled \"the marriage vow – a declaration of dependence upon marriage and family. \" rep. Michele bachmann recently signed the pledge, and now some are in uproar that she may also have agreed to ban pornography. The actual pledge that she signed isn't terribly surprising for a social conservative like bachmann; it contains many platitudes like \"marriage is between man and a woman. \" oh, and there are parts to the pledge that calls homosexuality a \"choice, \" which is then likened to bigamy, adultery and polyandry. Writing for the des moines register, william petroski reports: presidential candidates who sign the pledge must agree to personal fidelity to his or her spouse, the appointment of \"faithful constitutionalists \" as judges, opposition to any redefinition of marriage, and prompt reform of uneconomic and anti-marriage aspects of welfare policy, tax policy and divorce law. The marriage vow also outlines support for the legal advocacy for the federal defense of marriage act, humane efforts to protect women and children, rejection of sharia islam, safeguards for all married and unmarried u.s. Military service members, and commitment to downsizing government and the burden upon american families. In addition, candidates are asked to recognize that \"robust",
-            "Lgbt iowa group asks republican candidates to agree that homosexuality is a choice, pornography should be banned this morning, iowa's family leader unveiled \"the marriage vow: a declaration of dependence upon marriage and family, \" a 14 bullet pledge presidential candidates will have to sign to secure any \"future endorsement \" from the organization and its influential leader, bob vander plaats. Throughout the early primary process, vander plaats — a three-time unsuccessful gubernatorial candidate who helped propel gov. Mike huckabee ( r ) to victory in the state in 2008 and ran a successful campaign to recall three justices who overturned iowa's anti same-sex marriage law — has sought to position himself as a gatekeeper to the conservative voters who participate in the iowa caucuses. Leader has hosted a presidential forum with almost all of the gop's 2012 contenders and plaats has traveled to washington, dc to present himself as a national tea party leader. Today's pledge seeks to solidify the organization's reputation as the state's conservative moral authority, and it reiterates many of the group's extreme social views and anti-gay rhetoric. If any candidate signs on to leader's vows, they will be agreeing to the following radical constructs: — homosexuality is a choice: the preface to the pledge reads, \"social protections … have been evaporating as"
+            "The family leader, an iowa-based political group with the stated mission to promote christian conservative social values, has been asking republican candidates to sign a pledge titled \"the marriage vow – a declaration of dependence upon marriage and family. \" rep. Michele bachmann recently signed the pledge, and now some are in uproar that she may also have agreed to ban pornography. The actual pledge that she signed isn't terribly surprising for a social conservative like bachmann; it contains many platitudes like \"marriage is between man and a woman. \" oh, and there are parts to the pledge that calls homosexuality a \"choice, \" which is then likened to bigamy, adultery and polyandry. Writing for the des moines register, william petroski reports: presidential candidates who sign the pledge must agree to personal fidelity to his or her spouse, the appointment of \"faithful constitutionalists \" as judges, opposition to any redefinition of marriage, and prompt reform of uneconomic and anti-marriage aspects of welfare policy, tax policy and divorce law. The marriage vow also outlines support for the legal advocacy for the federal defense of marriage act, humane efforts to protect women and children, rejection of sharia islam, safeguards for all married and unmarried u.s. Military service members, and commitment to downsizing government and the burden upon american families. In addition, candidates are asked to recognize that \"robust"
         ],
         "raw_document": [
             "The family leader, an iowa-based political group with the stated mission to promote christian conservative social values, has been asking republican candidates to sign a pledge titled \"the marriage vow – a declaration of dependence upon marriage and family. \" rep. Michele bachmann recently signed the pledge, and now some are in uproar that she may also have agreed to ban pornography. The actual pledge that she signed isn't terribly surprising for a social conservative like bachmann; it contains many platitudes like \"marriage is between man and a woman. \" oh, and there are parts to the pledge that calls homosexuality a \"choice, \" which is then likened to bigamy, adultery and polyandry. Writing for the des moines register, william petroski reports: presidential candidates who sign the pledge must agree to personal fidelity to his or her spouse, the appointment of \"faithful constitutionalists \" as judges, opposition to any redefinition of marriage, and prompt reform of uneconomic and anti-marriage aspects of welfare policy, tax policy and divorce law. The marriage vow also outlines support for the legal advocacy for the federal defense of marriage act, humane efforts to protect women and children, rejection of sharia islam, safeguards for all married and unmarried u.s. Military service members, and commitment to downsizing government and the burden upon american families. In addition, candidates are asked to recognize that \"robust",
@@ -1817,7 +1807,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1873,7 +1863,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2002,12 +1992,11 @@
     },
     {
         "idx": 15875,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A sovereign nation called new colonia — made up of the states of louisiana, mississippi, and alabama, acquired by former black slaves after reconstruction in a reparations deal — has maintained a \" tumultuous and sometimes violent relationship \" with \" big neighbor, \" the remainder of the united states. That's the premise of black america, amazon's response of sorts to confederate, hbo's controversial new project by the game of thrones showrunners. Response has been fired up for the latter alt-history series, which speculates on what life would be like in modern times if the south had seceded and slavery hadn't been outlawed. The amazon show, meanwhile, is the brainchild of producer will packer, whose credits include straight outta compton, and aaron mcgruder, a screenwriter and creator of the boondocks comic strip. The amazon series wasn't created specifically in response to confederate — it was first announced by deadline in february, with sparse details — but hbo's reveal last month prompted the creators of black america to speak up. It was \" the appropriate time to make sure that audiences and the creative community knew that there was a project that preexisted, \" packer tells deadline. He doesn't comment specifically on david benioff and db weiss ' confederate, but he does say he wouldn't take part in \" producing [ or ] consuming \" any show that tackled modern-day slavery, as \" slavery is far too real and far too painful \" for him to ever see it as \" entertainment. \" meanwhile, april reign, the activist who started the #oscarssowhite hashtag — and also the #noconfederate one — tells variety she supports the amazon initiative, as it will \" show black and brown people thriving in this country. \"",
         "split": "train",
         "cleansed_document": [
-            "Amazon is developing a drama series from will packer and aaron mcgruder that will deal with a post-slavery reparations america, variety has confirmed. The alt-history series will explore a world in which newly freed african americans have secured the southern states of louisiana, mississippi and alabama as reparations for slavery. The new nation, known as new colonia, has a tumultuous relationship with the united states government. Packer and mcgruder will executive produce the series. Packer is a prolific producer, having recently worked on films such as \"girls trip, \" \"straight outta compton, \" and \"ride along \" to name just a few. Mcgruder is best known for creating the comic strip and accompanying cartoon series \"the boondocks, \" as well as the series \"black jesus. \" packer is repped by caa and ziffren brittenham. Mcgruder is repped by icm and leg. \"black america \" is the latest alt-history project from amazon, along with the emmy-winning series",
-            "Exclusive: a century and a half after slavery was abolished in the u.s., the wounds left by one of the darkest periods in american history are far from healed, as evidenced by the controversy surrounding the recent announcement of hbo's upcoming drama series confederate, from game of thrones creators david benioff and d.b. Weiss, which explores an alternate timeline of seceded southern states where slavery is legal and has evolved into a modern institution. Another alternate history drama series, which has been in the works at amazon for over a year, also paints a reality where southern states have left the union but takes a very different approach. Titled black america, the drama hails from top feature producer will packer ( ride along, think like a man franchises, straight outta compton ) and peabody-winning the boondocks creator and black jesus co-creator aaron mcgruder. It envisions an alternate history where newly freed african americans have secured the"
+            "Amazon is developing a drama series from will packer and aaron mcgruder that will deal with a post-slavery reparations america, variety has confirmed. The alt-history series will explore a world in which newly freed african americans have secured the southern states of louisiana, mississippi and alabama as reparations for slavery. The new nation, known as new colonia, has a tumultuous relationship with the united states government. Packer and mcgruder will executive produce the series. Packer is a prolific producer, having recently worked on films such as \"girls trip, \" \"straight outta compton, \" and \"ride along \" to name just a few. Mcgruder is best known for creating the comic strip and accompanying cartoon series \"the boondocks, \" as well as the series \"black jesus. \" packer is repped by caa and ziffren brittenham. Mcgruder is repped by icm and leg. \"black america \" is the latest alt-history project from amazon, along with the emmy-winning series"
         ],
         "raw_document": [
             "Amazon studios has put in development an untitled drama project from the boondocks creator aaron mcgruder and feature producer will packer ( straight outta compton ). The storyline is being kept under wraps but is said to revolve around an alternate universe in the vein of the man in the high castle. Mcgruder will executive produce with norman aladjem and packer. Mcgruder, who won a peabody award for his animated television series the boondocks, also co-created live-action comedy series black jesus — currently in its third season on adult swim — which he executive produces with aladjem. Mcgruder is repped by icm partners, leg management and morris yorn. Packer has produced eight no. 1 films at the box office, including both ride along, think like a man and their sequels as well as no good deed, takers, stomp the yard and obsessed.",
@@ -2024,7 +2013,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2157,12 +2146,11 @@
     },
     {
         "idx": 15881,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The dougherty gang's time on the run was the stuff of movies — and the details of the siblings ' capture are no less colorful. As reported yesterday, the sister was shot in the leg: it apparently happened as lee grace dougherty ran through a field, armed with an automatic pistol that she pointed at a cop. Brothers ryan edward and dylan dougherty stanley also fled; one was spotted hiding in bushes by construction workers, one of whom tackled and detained the fugitive until police arrived, reports fox31 denver. Police found a mac-11 machine pistol, two ak-47 assault rifles ( which they used to fire at cops during yesterday's chase ), and a handgun outside their crashed subaru, and report that they ' ll be extradited from colorado to florida as soon as possible. The trio is scheduled to appear in pueblo county court this morning. The tampa bay tribune managed to get some priceless comments from lee grace's fiance ( that's right ), who says his plans of marrying her \" are probably over \" because \" by the time she is out of jail, i will be in a diaper. \" he did note, however, that he will visit her, and says he will bring her favorite doll to her, should she want it.",
         "split": "train",
         "cleansed_document": [
-            "Pueblo, colo. -- three siblings accused in a cross-country crime spree face charges of attempted first degree murder of a peace officer in the chase, shootout and crash that ended their run from the law in southern colorado wednesday. Ryan dougherty, 21, dylan dougherty stanley, 26 and lee grace dougherty, 29, waived their rights to a formal advisement in pueblo county court thursday. Another court date was set for aug. 15. Each is being held on $ 1.25 million bond. According to the arrest affidavits, dylan dougherty fired at law enforcement officers with an ak-47 assault rifle as his half-brother, ryan, drove their white subaru impreza on southbound i-25 at speeds approaching 125 miles an hour. \"we weren't trying to hurt anyone, \" lee grace dougherty told authorities after her arrest, according to the affidavit. \"we just wanted them to get back. \" the doughertys'vehicle crashed at exit 52 in huerfano county at which point the trio tried to flee on foot. ( view photos from the crash scene, arrests &amp; lee dougherty on flickr ) lee grace dougherty, according to the affidavit, ran into a field armed with a \"machine pistol \" and was pursued by walsenburg police chief james chamberlain. \"he identified himself and ordered lee grace to drop the weapon, and she failed to comply with his commands, \"",
-            "The trio was captured near walsenburg, about 90 miles south of colorado springs, after a short chase, officials said. The trio was captured near walsenburg, about 90 miles south of colorado springs, after a short chase, officials said. A surveillance image taken aug. 2 at a cumberland farms store on u.s. 98 shows ryan dougherty as he purchases gas. A surveillance image shows a valdosta, ga., bank robbery hours after a zephyrhills police officer was fired upon during a high-speed chase. Authorities said the people who were spotted made a cash purchase at an rei outdoors store north of downtown colorado springs. The trio was captured near walsenburg, about 90 miles south of colorado springs, after a short chase, officials said. The trio was captured near walsenburg, about 90 miles south of colorado springs, after a short chase, officials said. A surveillance image taken aug. 2 at a cumberland farms store on u.s. 98 shows ryan dougherty as he purchases gas. A surveillance image shows a valdosta, ga., bank robbery hours after a zephyrhills police officer was fired upon during a high-speed chase. Authorities said the people who were spotted made a cash purchase at an rei outdoors store north of downtown colorado springs. The start of the dougherty crime spree started on the roads in zephryhills and ended 1,700 miles away in colorado"
+            "Pueblo, colo. -- three siblings accused in a cross-country crime spree face charges of attempted first degree murder of a peace officer in the chase, shootout and crash that ended their run from the law in southern colorado wednesday. Ryan dougherty, 21, dylan dougherty stanley, 26 and lee grace dougherty, 29, waived their rights to a formal advisement in pueblo county court thursday. Another court date was set for aug. 15. Each is being held on $ 1.25 million bond. According to the arrest affidavits, dylan dougherty fired at law enforcement officers with an ak-47 assault rifle as his half-brother, ryan, drove their white subaru impreza on southbound i-25 at speeds approaching 125 miles an hour. \"we weren't trying to hurt anyone, \" lee grace dougherty told authorities after her arrest, according to the affidavit. \"we just wanted them to get back. \" the doughertys'vehicle crashed at exit 52 in huerfano county at which point the trio tried to flee on foot. ( view photos from the crash scene, arrests &amp; lee dougherty on flickr ) lee grace dougherty, according to the affidavit, ran into a field armed with a \"machine pistol \" and was pursued by walsenburg police chief james chamberlain. \"he identified himself and ordered lee grace to drop the weapon, and she failed to comply with his commands, \""
         ],
         "raw_document": [
             "Pueblo, colo. -- three siblings accused in a cross-country crime spree face charges of attempted first degree murder of a peace officer in the chase, shootout and crash that ended their run from the law in southern colorado wednesday. Ryan dougherty, 21, dylan dougherty stanley, 26 and lee grace dougherty, 29, waived their rights to a formal advisement in pueblo county court thursday. Another court date was set for aug. 15. Each is being held on $ 1.25 million bond. According to the arrest affidavits, dylan dougherty fired at law enforcement officers with an ak-47 assault rifle as his half-brother, ryan, drove their white subaru impreza on southbound i-25 at speeds approaching 125 miles an hour. \"we weren't trying to hurt anyone, \" lee grace dougherty told authorities after her arrest, according to the affidavit. \"we just wanted them to get back. \" the doughertys'vehicle crashed at exit 52 in huerfano county at which point the trio tried to flee on foot. ( view photos from the crash scene, arrests &amp; lee dougherty on flickr ) lee grace dougherty, according to the affidavit, ran into a field armed with a \"machine pistol \" and was pursued by walsenburg police chief james chamberlain. \"he identified himself and ordered lee grace to drop the weapon, and she failed to comply with his commands, \"",
@@ -2177,7 +2165,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2204,18 +2192,17 @@
         "vote_count": {
             "0": 3,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 15883,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It started with a friendly wager. An la natural history museum trustee bet brian brown, the museum's entomology curator, that the city's smog-filled nooks were no place for new insect species to be found. The first bug brown caught proved to be previously undiscovered, inspiring the biodiversity science: city and nature project, a three-year experiment that ended up turning up not one, but 30 discrete flies from the megaselia species in the city, says a museum release. The bioscan study, set to be published april 6 in zootaxa, erected 30 \" sampling sites \" with traps and weather stations, recruiting 30 locals to offer their backyards as outdoor labs. \" i'd be less surprised to find hundreds of new species of megaselia at a remote site in costa rica than i was to find 30 new species right here in la, \" lead author emily hartop tells the washington post. Hartop analyzed more than 10,000 fly samples, and to figure out which species was which, she had to get a bit personal. \" i ' m going to say 90 % of our identification work focuses on [ genitalia ] for flies, \" she writes in an nhm blog post. ( interested parties can check out gizmodo's fly genitalia chart. ) she even came up with pet names: \" this one's genitalia look like bunny ears, i ' ll name it ' bunny,'this one has setae … that remind me of a 1980s troll doll, i ' ll name it'troll, ' \" she says. Not only did this report prove biodiversity doesn't have to take place on a lush, tropical isle — it also offers hope of finding even more hidden creatures in urban areas. Fringe benefit for volunteers: each new species was named after the participant in whose yard it was found. ( but do the flies have individual personalities like cockroaches do? )",
         "split": "train",
         "cleansed_document": [
             "These 30 new species of fly were discovered in the city of angels. ( kelsey bailey/natural history museum of los angeles county ) los angeles native emily hartop thought she knew her city pretty well. She has a resident's affection for the hollywood sign, the slow-moving traffic, the chaotic clash of people and pavement — the kind of love a city can only elicit from the people who call it home. And hartop, an entomologist at los angeles's natural history museum, thought she knew flies. After all, she was hired specifically to identify fly samples for the museum's urban biodiversity project. It turned out both her city and her specialty could surprise her. In a paper due to be published in the journal zootaxa next month, hartop will announce the discovery of 30 previously unknown species of fly, all captured during a brief, three-month scan of local backyards and gardens. \"it's one of those situations where you have to keep pinching yourself, \" hartop said in a phone interview with the washington post. \"i'd be less surprised to find hundreds of new species of megaselia [ a common genus of fly ] at a remote site in costa rica",
-            "Nature doesn't end at the borders of a city — it's just transformed. That's why scientists are finding new animal species in urban areas, where the ecosystems favor scavengers, hardy weeds, and junk-eaters. It probably comes as no surprise that the sprawling city of los angeles is home to its own unique fly species. Today, members of the bioscan group from the natural history museum of los angeles county described their research on the new fly species in the scientific journal zootaxa. To find the new species, entomologist emily hartop and her team put special insect traps outside 30 different los angeles homes, collecting both bugs and data about the weather in the area. For three years, hartop studied the flies from these traps, eventually looking at about 10,000 different flies. Out of these, she found 30 new species, all in the genus megaselia ( pictured above ). But identifying those species took months, and required minute study of the insects. Hartop wrote on the bioscan blog that \" 90 % of our identification work focuses on [ genitalia ] for flies, we are obsessed with fly genitalia. \" so basically she spent years looking at fly genitals for",
-            "The nhm bioscan website and the bioscan buzz blog are no longer hosted on this server. We will provide a redirect here as soon as a new website is created. Please direct inquiries to brian brown, curator of entomology: bbrown@nhm.org pentcheff@gmail.com 30 june 2015"
+            "Nature doesn't end at the borders of a city — it's just transformed. That's why scientists are finding new animal species in urban areas, where the ecosystems favor scavengers, hardy weeds, and junk-eaters. It probably comes as no surprise that the sprawling city of los angeles is home to its own unique fly species. Today, members of the bioscan group from the natural history museum of los angeles county described their research on the new fly species in the scientific journal zootaxa. To find the new species, entomologist emily hartop and her team put special insect traps outside 30 different los angeles homes, collecting both bugs and data about the weather in the area. For three years, hartop studied the flies from these traps, eventually looking at about 10,000 different flies. Out of these, she found 30 new species, all in the genus megaselia ( pictured above ). But identifying those species took months, and required minute study of the insects. Hartop wrote on the bioscan blog that \" 90 % of our identification work focuses on [ genitalia ] for flies, we are obsessed with fly genitalia. \" so basically she spent years looking at fly genitals for"
         ],
         "raw_document": [
             "These 30 new species of fly were discovered in the city of angels. ( kelsey bailey/natural history museum of los angeles county ) los angeles native emily hartop thought she knew her city pretty well. She has a resident's affection for the hollywood sign, the slow-moving traffic, the chaotic clash of people and pavement — the kind of love a city can only elicit from the people who call it home. And hartop, an entomologist at los angeles's natural history museum, thought she knew flies. After all, she was hired specifically to identify fly samples for the museum's urban biodiversity project. It turned out both her city and her specialty could surprise her. In a paper due to be published in the journal zootaxa next month, hartop will announce the discovery of 30 previously unknown species of fly, all captured during a brief, three-month scan of local backyards and gardens. \"it's one of those situations where you have to keep pinching yourself, \" hartop said in a phone interview with the washington post. \"i'd be less surprised to find hundreds of new species of megaselia [ a common genus of fly ] at a remote site in costa rica",
@@ -2232,7 +2219,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2421,7 +2408,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2524,7 +2511,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2632,12 +2619,11 @@
     },
     {
         "idx": 15899,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Adele's big night at the grammy's ( six wins ) was sure to translate into increased sales, but the numbers came in better than anyone expected: her album 21 went from selling 237,000 copies last week to 730,000 this week, reports billboard. That one-week increase of 493,000, or 207 %, is the biggest since nielsen soundscan began tracking such things in 1991. The album, which also has sold more than 7 million downloads on itunes, stayed at no. 1 for the 21st consecutive week. \" which leads us to wonder how massive adele would be if the record industry hadn't collapsed over the past decade, \" adds rolling stone.",
         "split": "train",
         "cleansed_document": [
-            "By steve knopper adele performs at the 54th annual grammy awards in los angeles. Lester cohen/wireimage winner of the week: adele. Remember last week, when we suggested after a day's worth of data that the only star receiving a post-grammy sales bump was whitney houston? turns out our estimates were on the conservative side! adele dramatically eclipsed an average week, selling a ridiculous 730,000 copies of 21, the most since it came out a year ago. It's also the biggest grammy bump of the past 21 years, easily outdoing norah jones ' come away with me ( 621,000 in 2003 ) and carlos santana's supernatural ( 583,000 in 2000 ). Plus, the album has sold more than 2 million downloads on itunes, making it the first to hit that mark, and more than 7 million overall. Which leads us to wonder how massive adele would be if the record industry hadn't collapsed over the past decade. Alanis morissette's jagged little pill sold 16 million after its release in 1995, and we could easily imagine an alternate universe where 21 gets up to thriller territory. Oh, and adele's first album, 19, shot up to number four with 87,000 sales. Loser of the week: chris brown. For obvious reasons – \" don't abuse women \" being the major one. First, the man who punched rihanna in the eye before the 2009 grammys gets not one but two showcase slots on the most prominent awards show in years, then his ( female ) fans respond by inexplicably doing this. We ' ll refrain from blaming the victim, although, as the new york times opined, it seems like marketing forces were far more at play in these collaborations than personal ethics and morality. Rihanna collaborated with her scumbag-of-an-ex-boyfriend on two songs, a remix of her own \" birthday cake, \" from 2011's talk that talk, and a remix of brown's new single, \" turn up the music. \" it's too early to gauge sales, since they haven't landed yet on billboard or bigchampagne's ultimate chart, but rihanna's remix is up to about 1.4 million youtube views. Brown's remix is harder to estimate – the youtube posts are all over the place. More grammy bumps: more than 39 million viewers tuned in february 12th to watch the grammy awards tribute to whitney houston, who died at 48 the previous day, and came away",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "By steve knopper adele performs at the 54th annual grammy awards in los angeles. Lester cohen/wireimage winner of the week: adele. Remember last week, when we suggested after a day's worth of data that the only star receiving a post-grammy sales bump was whitney houston? turns out our estimates were on the conservative side! adele dramatically eclipsed an average week, selling a ridiculous 730,000 copies of 21, the most since it came out a year ago. It's also the biggest grammy bump of the past 21 years, easily outdoing norah jones ' come away with me ( 621,000 in 2003 ) and carlos santana's supernatural ( 583,000 in 2000 ). Plus, the album has sold more than 2 million downloads on itunes, making it the first to hit that mark, and more than 7 million overall. Which leads us to wonder how massive adele would be if the record industry hadn't collapsed over the past decade. Alanis morissette's jagged little pill sold 16 million after its release in 1995, and we could easily imagine an alternate universe where 21 gets up to thriller territory. Oh, and adele's first album, 19, shot up to number four with 87,000 sales. Loser of the week: chris brown. For obvious reasons – \" don't abuse women \" being the major one. First, the man who punched rihanna in the eye before the 2009 grammys gets not one but two showcase slots on the most prominent awards show in years, then his ( female ) fans respond by inexplicably doing this. We ' ll refrain from blaming the victim, although, as the new york times opined, it seems like marketing forces were far more at play in these collaborations than personal ethics and morality. Rihanna collaborated with her scumbag-of-an-ex-boyfriend on two songs, a remix of her own \" birthday cake, \" from 2011's talk that talk, and a remix of brown's new single, \" turn up the music. \" it's too early to gauge sales, since they haven't landed yet on billboard or bigchampagne's ultimate chart, but rihanna's remix is up to about 1.4 million youtube views. Brown's remix is harder to estimate – the youtube posts are all over the place. More grammy bumps: more than 39 million viewers tuned in february 12th to watch the grammy awards tribute to whitney houston, who died at 48 the previous day, and came away"
         ],
         "raw_document": [
             "By steve knopper adele performs at the 54th annual grammy awards in los angeles. Lester cohen/wireimage winner of the week: adele. Remember last week, when we suggested after a day's worth of data that the only star receiving a post-grammy sales bump was whitney houston? turns out our estimates were on the conservative side! adele dramatically eclipsed an average week, selling a ridiculous 730,000 copies of 21, the most since it came out a year ago. It's also the biggest grammy bump of the past 21 years, easily outdoing norah jones ' come away with me ( 621,000 in 2003 ) and carlos santana's supernatural ( 583,000 in 2000 ). Plus, the album has sold more than 2 million downloads on itunes, making it the first to hit that mark, and more than 7 million overall. Which leads us to wonder how massive adele would be if the record industry hadn't collapsed over the past decade. Alanis morissette's jagged little pill sold 16 million after its release in 1995, and we could easily imagine an alternate universe where 21 gets up to thriller territory. Oh, and adele's first album, 19, shot up to number four with 87,000 sales. Loser of the week: chris brown. For obvious reasons – \" don't abuse women \" being the major one. First, the man who punched rihanna in the eye before the 2009 grammys gets not one but two showcase slots on the most prominent awards show in years, then his ( female ) fans respond by inexplicably doing this. We ' ll refrain from blaming the victim, although, as the new york times opined, it seems like marketing forces were far more at play in these collaborations than personal ethics and morality. Rihanna collaborated with her scumbag-of-an-ex-boyfriend on two songs, a remix of her own \" birthday cake, \" from 2011's talk that talk, and a remix of brown's new single, \" turn up the music. \" it's too early to gauge sales, since they haven't landed yet on billboard or bigchampagne's ultimate chart, but rihanna's remix is up to about 1.4 million youtube views. Brown's remix is harder to estimate – the youtube posts are all over the place. More grammy bumps: more than 39 million viewers tuned in february 12th to watch the grammy awards tribute to whitney houston, who died at 48 the previous day, and came away",
@@ -2652,7 +2638,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     }
 ]

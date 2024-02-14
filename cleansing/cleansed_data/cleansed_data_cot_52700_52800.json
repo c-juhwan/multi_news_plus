@@ -97,7 +97,7 @@
             "5": 0,
             "6": 5,
             "7": 0,
-            "8": 0
+            "8": 1
         }
     },
     {
@@ -122,7 +122,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -279,7 +279,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -364,7 +364,7 @@
             "1": 2,
             "2": 2,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -392,7 +392,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 3,
+            "1": 4,
             "2": 0,
             "3": 0
         }
@@ -444,7 +444,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -605,14 +605,13 @@
     },
     {
         "idx": 52722,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Hillary clinton spoke with walt mossberg and kara swisher at recode's codecon on wednesday, and she did not hold back. In vox's view, she spared her campaign but heaped plenty of blame on others, including russia, the media, and the dnc. \" i get the nomination, i ' m now the nominee of the democratic party, \" she explained. \" i inherit nothing from the democratic party, \" she says, emphasizing the word \" nothing. \" asked mossberg, \" what do you mean, nothing? \" she continued, \" i mean, it was bankrupt; it was on the verge of insolvency; its data was mediocre to poor, nonexistent, wrong. I had to inject money into it, the dnc, to keep it going. \" donald trump, on the other hand, did nothing himself related to data, she said, but inherited a $ 100 million \" tried-and-true, effective \" data foundation from the rnc. More: \" i take responsibility for every decision i made, but that's not why i lost, \" clinton said, per cnbc. \" i was the victim of a very broad assumption that i was going to win. \" but that's not all. Politico reports she made the case, as she has done in the past, that former fbi director james comey's letter to congress was part of her undoing. \" the overriding issue that affected the election that i had any control over — because i had no control over the russians — was the way the use of my email account was turned into the greatest scandal since lord knows when. This was the biggest ' nothing burger ' ever. \" and yet the media covered it \" like it was pearl harbor, \" she said. As for the russians, \" if you look at facebook, the vast majority of the news items posted were fake. They were connected to — as we now know — the 1,000 russian agents who were involved in delivering those messages. They were connected to the bots that are just out of control. \" vox points out that much of that statement is based on unconfirmed reports. Speaking of the russians, \" i thought it was a hidden message to the russians, \" clinton quipped about president trump's \" covfefe \" tweet, reports politico. \" you've got all kinds of stuff happening. Why? to divert attention. It's like ' covfefe ' — trending worldwide. Maybe for a minute you ' ll forget the latest accusations about them conspiring with russia or their trillion-dollar mathematical mistake",
         "split": "test",
         "cleansed_document": [
             "Hillary clinton on wednesday broadly spread around the blame for her loss in last year's presidential election, pointing to suspected russian cyberattacks, the democratic national committee's data operation and a \"very broad assumption that i was going to win. \" clinton, interviewed onstage in california at a tech conference by recode's kara swisher and walt mossberg, made a point to say that she took responsibility for her campaign and \"every choice \" she made, as she has in other public appearances this year. \"but, \" she said, \"that's not why i lost. \" story continued below clinton again argued that the",
             "Hillary clinton doesn't believe she or her campaign made any significant mistakes in the 2016 election. But speaking at the code conference on wednesday, she had a long list of others she blames for her defeat. She points the finger at russia, fake news, the sorry state of the democratic party, sexism, and the media that covered the email scandal \"like pearl harbor, \" among others. The russian government at the top of the list is the russian government, which she believes orchestrated a vast campaign of fake news to discredit her candidacy. \"if you look at facebook, the vast majority of the",
-            "\" weaponized information \" was one of the key factors that swung the u.s. Election, former presidential candidate and secretary of state hillary clinton said on wednesday. Clinton spoke from the annual code conference in rancho palos verdes, california. The former first lady, who also served in the u.s. Senate, has been exploring her role as a citizen since losing november's election to donald trump. Clinton has also been concerned about tech threats, like alleged russian hackings and wikileaks, according to a profile in new york magazine published last week. \" the overriding issue that affected the election that i had any control over —",
-            "Hillary rodham clinton has spent four decades in public service as an advocate, attorney, first lady, u.s. Senator and u.s. Secretary of state. In 2016, clinton became the first woman nominated for president by a major u.s. Political party; she won the national popular vote, earning the support of nearly 66 million americans. She is the author of five best-selling books, including \" it takes a village. \" watch her live interview with walt mossberg and kara swisher on wednesday, may 31 at 12: 05 pm pt / 3: 05 pm et. You can follow our live blog of clinton's interview"
+            "\" weaponized information \" was one of the key factors that swung the u.s. Election, former presidential candidate and secretary of state hillary clinton said on wednesday. Clinton spoke from the annual code conference in rancho palos verdes, california. The former first lady, who also served in the u.s. Senate, has been exploring her role as a citizen since losing november's election to donald trump. Clinton has also been concerned about tech threats, like alleged russian hackings and wikileaks, according to a profile in new york magazine published last week. \" the overriding issue that affected the election that i had any control over —"
         ],
         "raw_document": [
             "Hillary clinton on wednesday broadly spread around the blame for her loss in last year's presidential election, pointing to suspected russian cyberattacks, the democratic national committee's data operation and a \"very broad assumption that i was going to win. \" clinton, interviewed onstage in california at a tech conference by recode's kara swisher and walt mossberg, made a point to say that she took responsibility for her campaign and \"every choice \" she made, as she has in other public appearances this year. \"but, \" she said, \"that's not why i lost. \" story continued below clinton again argued that the",
@@ -633,7 +632,7 @@
             "1": 0,
             "2": 0,
             "3": 4,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -754,7 +753,7 @@
             "5": 0,
             "6": 1,
             "7": 0,
-            "8": 0
+            "8": 1
         }
     },
     {
@@ -842,17 +841,16 @@
             "2": 0,
             "3": 5,
             "4": 0,
-            "5": 0
+            "5": 2
         }
     },
     {
         "idx": 52730,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Just what did ron paul mean when he finished third in iowa and said, \" we are all austrians now \"? republican candidates don't often celebrate european economic policies, but this is different, matthew yglesias writes in slate. Those familiar with the inside baseball of libertarianism know that paul is referring to two thinkers, ludwig von mises and murray rothbard, whose idea of capitalism \" is even more libertarian and anarchic than that espoused by many libertarians, \" writes yglesias. \" austrian economics \" rejects all government regulation and intervention to help the poor, and considers the tweaking of short-term interest rates a mistake that lures investors into doomed enterprises. Yglesias mounts a counter-argument, noting that the \" austrian \" view doesn't explain the effectiveness of post-great depression fixes or the spending habits that fuel recessions. Yglesias sees an economic recovery around the corner, but if there isn't one, \" these faddish views may gain more steam and perhaps we really all will be austrians someday soon. But let's hope not. \"",
         "split": "test",
         "cleansed_document": [
-            "Photograph by justin sullivan as he declared quasi-victory in iowa following a third-place finish, ron paul puzzled cable news watchers across the country by proudly proclaiming, \"we are all austrians now. \" the average republican presidential candidate would sooner officiate a gay marriage than praise europe, yet here was paul pledging allegiance to vienna. What did he mean? why would we all be austrians? paul's statement was crystal clear to those familiar with the internecine controversies of the libertarian movement. He was referring to so-called \"austrian economics, \" an idiosyncratic passion of his and a set of beliefs that put him at odds with the vast majority of well-known economists of all ideological inclinations. For starters, it's important to note that the term has something of a double meaning. The austrian school originally referred to a set of classical liberal thinkers with diverse interests who came out of the austro-hungarian empire. Many of these thinkers are obscure today, but the most distinguished member of the group, friedrich hayek, is anything but. By the same token, an appreciation for hayek's work by no means makes you an \"austrian. \" hayek, who died in 1992, won the nobel prize, and mainstream economists thoroughly embraced his important work explicating the role of the price system in conveying information. His ideas undergird everything from carbon taxes to",
-            "Photograph by justin sullivan/getty images. Economic forecasting is a mug's game. There are simply too many unknowable factors that affect \"the economy \" for anyone to make accurate predictions. The fukushima earthquake and nuclear disaster, for instance, had a noticeably negative macroeconomic impact around the world, and nobody knows what lurks inside the hearts of central bankers. Plus, if i did possess the secrets to the future, i'd be making a fortune as a speculator, not telling you about it. Still, the application of economic theory should be able to help us avoid the commonplace error of simply assuming that the future will be like the past, that after 18 months of sluggish growth we're due for sluggish growth to continue. The conventional wisdom is that the relatively strong growth in the fourth quarter was a false dawn, and the economy is destined to stall out. This is mistaken. Some tragic unforeseen disaster could hit us, but if it doesn't we should be in for a string of increasingly strong quarters and accelerating growth that put us back on the path to full employment. My guru in this prediction is karl smith, an economist at the university of north carolina, one of the authors of the modeled behavior blog, and one of the few sources who saw through the cloak"
+            "Photograph by justin sullivan as he declared quasi-victory in iowa following a third-place finish, ron paul puzzled cable news watchers across the country by proudly proclaiming, \"we are all austrians now. \" the average republican presidential candidate would sooner officiate a gay marriage than praise europe, yet here was paul pledging allegiance to vienna. What did he mean? why would we all be austrians? paul's statement was crystal clear to those familiar with the internecine controversies of the libertarian movement. He was referring to so-called \"austrian economics, \" an idiosyncratic passion of his and a set of beliefs that put him at odds with the vast majority of well-known economists of all ideological inclinations. For starters, it's important to note that the term has something of a double meaning. The austrian school originally referred to a set of classical liberal thinkers with diverse interests who came out of the austro-hungarian empire. Many of these thinkers are obscure today, but the most distinguished member of the group, friedrich hayek, is anything but. By the same token, an appreciation for hayek's work by no means makes you an \"austrian. \" hayek, who died in 1992, won the nobel prize, and mainstream economists thoroughly embraced his important work explicating the role of the price system in conveying information. His ideas undergird everything from carbon taxes to"
         ],
         "raw_document": [
             "Photograph by justin sullivan as he declared quasi-victory in iowa following a third-place finish, ron paul puzzled cable news watchers across the country by proudly proclaiming, \"we are all austrians now. \" the average republican presidential candidate would sooner officiate a gay marriage than praise europe, yet here was paul pledging allegiance to vienna. What did he mean? why would we all be austrians? paul's statement was crystal clear to those familiar with the internecine controversies of the libertarian movement. He was referring to so-called \"austrian economics, \" an idiosyncratic passion of his and a set of beliefs that put him at odds with the vast majority of well-known economists of all ideological inclinations. For starters, it's important to note that the term has something of a double meaning. The austrian school originally referred to a set of classical liberal thinkers with diverse interests who came out of the austro-hungarian empire. Many of these thinkers are obscure today, but the most distinguished member of the group, friedrich hayek, is anything but. By the same token, an appreciation for hayek's work by no means makes you an \"austrian. \" hayek, who died in 1992, won the nobel prize, and mainstream economists thoroughly embraced his important work explicating the role of the price system in conveying information. His ideas undergird everything from carbon taxes to",
@@ -867,7 +865,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -954,12 +952,11 @@
     },
     {
         "idx": 52734,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "No firefighters around when your boat goes up in flames? how about hiring this freethinker to douse it with a speedboat \" and look like a badass doing it, \" reports gizmodo. Bystanders with a video camera recorded the flaming boat at lake lyndon in new zealand but apparently just stood around and watched. One of them even dissed the boater's makeshift firefighting technique, saying, \" f -- k that \" and \" what are you doing? \" but by the look of it, the boater's four passes did accomplish something: putting out the fire.",
         "split": "test",
         "cleansed_document": [
-            "You always want to keep a fire extinguisher handy, especially on your boat, but if you didn't and things start getting a little toasty, this is probably the best you can hope for. Despite all the nay-saying in the background, this speedy good samaritan here managed to put out that fire quite well, and look like a badass doing it. What more could you ask for in a good deed? [ reddit ]",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "You always want to keep a fire extinguisher handy, especially on your boat, but if you didn't and things start getting a little toasty, this is probably the best you can hope for. Despite all the nay-saying in the background, this speedy good samaritan here managed to put out that fire quite well, and look like a badass doing it. What more could you ask for in a good deed? [ reddit ]"
         ],
         "raw_document": [
             "You always want to keep a fire extinguisher handy, especially on your boat, but if you didn't and things start getting a little toasty, this is probably the best you can hope for. Despite all the nay-saying in the background, this speedy good samaritan here managed to put out that fire quite well, and look like a badass doing it. What more could you ask for in a good deed? [ reddit ]",
@@ -974,7 +971,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1050,7 +1047,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1160,7 +1157,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1184,7 +1181,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1241,12 +1238,11 @@
     },
     {
         "idx": 52745,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "House democratic leader nancy pelosi on thursday rejected the idea of paying for president trump's border wall in exchange for helping hundreds of thousands of young immigrants avoid deportation. Funding for the wall — a top trump priority — and legal protections for so-called dreamers, a key democratic goal, should not be linked, pelosi said. \" they're two different subjects, \" and most democrats consider the wall \" immoral, ineffective, and expensive, \" pelosi said. Her comments came as the house and senate approved a stopgap bill thursday to keep the government funded through dec. 21, the ap reports. The measure, approved by voice votes in near-empty chambers, now goes to the white house. Trump has promised to sign the two-week extension to allow for ceremonies this week honoring former president george hw bush, who died nov. 30. But he wants the next funding package to include at least $ 5 billion for his proposed wall, something democrats have rejected. Trump is set to meet tuesday at the white house with pelosi and senate democratic leader chuck schumer. Schumer said thursday that a bipartisan senate plan for $ 1.6 billion in border security funding does not include money for the 30-foot-high concrete wall trump has envisioned. In a tweet late thursday, trump warned of the potential for \" big danger \" at the us-mexico border in arizona, demanding, \" nancy and chuck must approve boarder security and the wall! \" ( trump says he is \" totally willing \" to shut down the government if funding for the wall is not approved. )",
         "split": "test",
         "cleansed_document": [
-            "House democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) house democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) house democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) house democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) washington ( ap ) — house democratic leader nancy pelosi on thursday rejected the idea of paying for president donald trump's border wall in exchange for helping hundreds of thousands of young immigrants avoid deportation. Funding for the wall — a top trump priority — and legal protections for so-called dreamers, a key democratic goal, should not be linked, pelosi said. \" they're two different subjects, \" she said. Her comments came as the house and senate approved a stopgap bill thursday to keep the government funded through dec. 21. The measure, approved by voice votes in near-empty chambers, now goes to the white house. Trump has promised to sign the two-week extension to allow for ceremonies this week honoring former president george h.w. Bush, who died nov. 30. But he wants the next funding package to include at least $ 5 billion for his proposed wall, something democrats have rejected. Trump is set to meet tuesday at the white house with pelosi and senate democratic leader chuck schumer. In a tweet late thursday, trump warned of the potential for \" big danger \" at the u.s.-mexico border in arizona, demanding, \" nancy and chuck must approve boarder security and the wall! \" pelosi, who is seeking to become house speaker in january, said the lame-duck congress should now pass a half-dozen government funding bills that key committees have already agreed on, along with a separate measure funding the department of homeland security, which oversees the border. Funding for the homeland agency should address border security and does not necessarily include a wall, pelosi said. Most democrats",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "House democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) house democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) house democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) house democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) washington ( ap ) — house democratic leader nancy pelosi on thursday rejected the idea of paying for president donald trump's border wall in exchange for helping hundreds of thousands of young immigrants avoid deportation. Funding for the wall — a top trump priority — and legal protections for so-called dreamers, a key democratic goal, should not be linked, pelosi said. \" they're two different subjects, \" she said. Her comments came as the house and senate approved a stopgap bill thursday to keep the government funded through dec. 21. The measure, approved by voice votes in near-empty chambers, now goes to the white house. Trump has promised to sign the two-week extension to allow for ceremonies this week honoring former president george h.w. Bush, who died nov. 30. But he wants the next funding package to include at least $ 5 billion for his proposed wall, something democrats have rejected. Trump is set to meet tuesday at the white house with pelosi and senate democratic leader chuck schumer. In a tweet late thursday, trump warned of the potential for \" big danger \" at the u.s.-mexico border in arizona, demanding, \" nancy and chuck must approve boarder security and the wall! \" pelosi, who is seeking to become house speaker in january, said the lame-duck congress should now pass a half-dozen government funding bills that key committees have already agreed on, along with a separate measure funding the department of homeland security, which oversees the border. Funding for the homeland agency should address border security and does not necessarily include a wall, pelosi said. Most democrats"
         ],
         "raw_document": [
             "House democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) house democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) house democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) house democratic leader nancy pelosi of california, meets with reporters at her weekly news conference on capitol hill in washington, thursday, dec. 6, 2018. ( ap photo/j. Scott applewhite ) ( associated press ) washington ( ap ) — house democratic leader nancy pelosi on thursday rejected the idea of paying for president donald trump's border wall in exchange for helping hundreds of thousands of young immigrants avoid deportation. Funding for the wall — a top trump priority — and legal protections for so-called dreamers, a key democratic goal, should not be linked, pelosi said. \" they're two different subjects, \" she said. Her comments came as the house and senate approved a stopgap bill thursday to keep the government funded through dec. 21. The measure, approved by voice votes in near-empty chambers, now goes to the white house. Trump has promised to sign the two-week extension to allow for ceremonies this week honoring former president george h.w. Bush, who died nov. 30. But he wants the next funding package to include at least $ 5 billion for his proposed wall, something democrats have rejected. Trump is set to meet tuesday at the white house with pelosi and senate democratic leader chuck schumer. In a tweet late thursday, trump warned of the potential for \" big danger \" at the u.s.-mexico border in arizona, demanding, \" nancy and chuck must approve boarder security and the wall! \" pelosi, who is seeking to become house speaker in january, said the lame-duck congress should now pass a half-dozen government funding bills that key committees have already agreed on, along with a separate measure funding the department of homeland security, which oversees the border. Funding for the homeland agency should address border security and does not necessarily include a wall, pelosi said. Most democrats",
@@ -1261,7 +1257,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1292,12 +1288,11 @@
     },
     {
         "idx": 52747,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The destruction of syria's chemical weapons continues to hit delays — but a secret effort to rid libya of chemical weapons has been a success, the new york times reports. The us and libya have been destroying what was left of moammar gadhafi's stockpile, including hundreds of weapons containing a mustard agent. The three-month project, which wiped out two tons of arms using what the times calls a \" giant, high-tech oven, \" ended last week. \" it's a big breakthrough, \" says an expert, noting that the process — a basis for the much larger effort in syria — \" was very difficult because of weather, geography, and because it's a dangerous area with warring tribes, increasing the risks of theft and diversion. \" in 2004, gadhafi had provided some 24.7 metric tons of chemical weapons to the west for destruction, but only half were gone by the time civil war began in 2011. The post-gadhafi libyan government sought to rid itself of the remainder, as well as almost two tons of additional material it had found — agents already installed in bombs and artillery, the times notes. The destruction effort, which used funds from the pentagon as well as canada, saw the weapons vaporized in an oven created by swedish firm dynasafe. Meanwhile, the bbc is airing old gadhafi secrets in a special tonight; among them, a former ally who says the strongman ordered a plane shot down near tripoli in 1992, killing 157 passengers in a demonstration against sanctions.",
         "split": "test",
         "cleansed_document": [
-            "\"it's a big breakthrough, \" said paul f. Walker, an arms control expert with the environmental group green cross international who has helped in efforts to demilitarize the american and russian chemical weapons stockpiles since the 1990s. \"even though libya's chemical stockpile was relatively small, the effort to destroy it was very difficult because of weather, geography and because it's a dangerous area with warring tribes, increasing the risks of theft and diversion, \" he said. Advertisement continue reading the main story libya's last two tons of chemical weapons were dwarfed by the 1,300 tons that syria has agreed to destroy. But american and international arms experts say the need for easily transportable and efficient technology to wipe out the libyan arms became a model for the syria program now underway. For libya's fragile transitional government, such collaboration with the west on security matters is a delicate issue. It gives the country's leaders desperately needed assistance to defuse internal threats, but also risks accusations of compromising national sovereignty. Asked about the american efforts to destroy the chemical weapons, libyan security officials in tripoli initially issued sweeping denials. One later briefly acknowledged the operation on the condition of anonymity, and then officials stopped returning phone calls. Advertisement continue reading the main story on sunday, the white house said that it",
-            "Image copyright other since muammar gaddafi's ignominious death at the hands of a rebel mob in october 2011 much has been written and said about him. But now a new film, with unprecedented access to those close to gaddafi, provides a comprehensive study of libya's brutal and contradictory long-time leader. Ali aujali, gaddafi's former ambassador to the united states, is an exceptionally charming man. Gaddafi and the airliners image copyright afp pan am flight 103 from london to new york destroyed by a bomb on 21 december 1988 over lockerbie, scotland, killing 259 people abdelbaset al-megrahi ( pictured ), was jailed for the bombing in 2001, released in august 2009 suffering from cancer and died in may 2012 on 9 september 1989 uta flight 772 was travelling from brazzaville to paris when it was blown up over the sahara desert. All 156 passengers and 14 crew members were killed in 1999 a french court found six libyans guilty in absentia of planting a bomb and sentenced them to life imprisonment on 22 december 1992 - four years and a day after lockerbie - 157 people died when a libyan airliner disintegrated as it came in to land in tripoli there have been calls for the crash to be reinvestigated and now ali aujali has claimed gaddafi was responsible the gaddafi family tree uta 772 memorial seen from space he is also something"
+            "\"it's a big breakthrough, \" said paul f. Walker, an arms control expert with the environmental group green cross international who has helped in efforts to demilitarize the american and russian chemical weapons stockpiles since the 1990s. \"even though libya's chemical stockpile was relatively small, the effort to destroy it was very difficult because of weather, geography and because it's a dangerous area with warring tribes, increasing the risks of theft and diversion, \" he said. Advertisement continue reading the main story libya's last two tons of chemical weapons were dwarfed by the 1,300 tons that syria has agreed to destroy. But american and international arms experts say the need for easily transportable and efficient technology to wipe out the libyan arms became a model for the syria program now underway. For libya's fragile transitional government, such collaboration with the west on security matters is a delicate issue. It gives the country's leaders desperately needed assistance to defuse internal threats, but also risks accusations of compromising national sovereignty. Asked about the american efforts to destroy the chemical weapons, libyan security officials in tripoli initially issued sweeping denials. One later briefly acknowledged the operation on the condition of anonymity, and then officials stopped returning phone calls. Advertisement continue reading the main story on sunday, the white house said that it"
         ],
         "raw_document": [
             "\"it's a big breakthrough, \" said paul f. Walker, an arms control expert with the environmental group green cross international who has helped in efforts to demilitarize the american and russian chemical weapons stockpiles since the 1990s. \"even though libya's chemical stockpile was relatively small, the effort to destroy it was very difficult because of weather, geography and because it's a dangerous area with warring tribes, increasing the risks of theft and diversion, \" he said. Advertisement continue reading the main story libya's last two tons of chemical weapons were dwarfed by the 1,300 tons that syria has agreed to destroy. But american and international arms experts say the need for easily transportable and efficient technology to wipe out the libyan arms became a model for the syria program now underway. For libya's fragile transitional government, such collaboration with the west on security matters is a delicate issue. It gives the country's leaders desperately needed assistance to defuse internal threats, but also risks accusations of compromising national sovereignty. Asked about the american efforts to destroy the chemical weapons, libyan security officials in tripoli initially issued sweeping denials. One later briefly acknowledged the operation on the condition of anonymity, and then officials stopped returning phone calls. Advertisement continue reading the main story on sunday, the white house said that it",
@@ -1312,7 +1307,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1636,7 +1631,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1689,7 +1684,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1724,13 +1719,12 @@
     },
     {
         "idx": 52763,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "After more than two weeks of controversy, the associated press has deleted an aug. 23 tweet about the clinton foundation that critics — including hillary clinton — said was misleading. \" more than half those who met clinton as cabinet secretary gave money to clinton foundation, \" read the tweet. Politico notes that the tweet failed to mention that the ap's analysis of clinton meetings looked only at discretionary meetings and not meetings with federal officials or representatives of foreign governments, which tend to make up the majority of any secretary of state's meetings. \" the tweet fell short of ap standards by omitting essential context, \" ap vp for standards john daniszewski writes in a blog post, setting out a new policy for removing tweets, an action that the ap used to see as \" retroactively editing a conversation. \" clinton and her campaign slammed the tweet and the clinton foundation story soon after it appeared, usa today reports. \" it draws a conclusion and makes a suggestion that my meetings with people like the late, great elie wiesel or melinda gates or the nobel prize winner muhammad yunus were somehow due to connections with the foundation instead of their status as highly respected global leaders, \" clinton told cnn last month.",
         "split": "test",
         "cleansed_document": [
             "Ap deletes clinton tweet from two weeks ago democratic presidential nominee hillary clinton ( photo: brendan smialowski, afp/getty images ) the associated press on thursday deleted a tweet posted two weeks earlier regarding a review the news organization had conducted of meetings hillary clinton held with individuals from the private sector while secretary of state. The original tweet, posted on aug. 23, read: \" breaking: ap analysis: more than half those who met clinton as cabinet secretary gave money to clinton foundation. \" in its place, the ap tweeted thursday: \" ap review: many of the discretionary meetings clinton had at state were with people who gave to clinton foundation. \" the tweet included a link to the august story. Ap review: many of the discretionary meetings clinton had at state were with people who gave to clinton foundation. Https://t.co/ih6oitgou2 — the associated press ( @ap ) september 8,",
-            "On media blog archives select date … december, 2015 november, 2015 october, 2015 september, 2015 august, 2015 july, 2015 june, 2015 may, 2015 april, 2015 march, 2015 february, 2015 january, 2015 the tweet in question linked to an investigation by the ap into how many clinton foundation donors also met with hillary clinton while she was secretary of state. &#124; getty ap deletes clinton foundation tweet the associated press announced on thursday that it is deleting a two-week old tweet about the clinton foundation. \"the associated press today is deleting a 2-week-old tweet about hillary clinton's meetings as cabinet secretary after concluding the tweet fell short of ap standards by omitting essential context, \" ap's vice president for standards john daniszewski wrote in a blog post. \"at the same time, we are revising our practices to require removal and correction of any ap tweets found",
-            "( cnn ) hillary clinton slammed donald trump and issued a strong defense of the clinton foundation wednesday amid the republican nominee's claims that she used public office for personal gain. Speaking to cnn's anderson cooper in her first national news interview in nearly a month, clinton pushed back against trump's accusations and issued perhaps her most succinct answers on her use of a private email server during her time leading the state department. \" what trump has said is ridiculous, \" clinton said. \" my work as secretary of state was not influenced by any outside forces. I made policy decisions based on what i thought was right. \" she added: \" i know there's a lot of smoke, and there's no fire. \" trump has recently upped his attacks on clinton and her family's namesake foundation, saying that foreign governments and"
+            "On media blog archives select date … december, 2015 november, 2015 october, 2015 september, 2015 august, 2015 july, 2015 june, 2015 may, 2015 april, 2015 march, 2015 february, 2015 january, 2015 the tweet in question linked to an investigation by the ap into how many clinton foundation donors also met with hillary clinton while she was secretary of state. &#124; getty ap deletes clinton foundation tweet the associated press announced on thursday that it is deleting a two-week old tweet about the clinton foundation. \"the associated press today is deleting a 2-week-old tweet about hillary clinton's meetings as cabinet secretary after concluding the tweet fell short of ap standards by omitting essential context, \" ap's vice president for standards john daniszewski wrote in a blog post. \"at the same time, we are revising our practices to require removal and correction of any ap tweets found"
         ],
         "raw_document": [
             "Ap deletes clinton tweet from two weeks ago democratic presidential nominee hillary clinton ( photo: brendan smialowski, afp/getty images ) the associated press on thursday deleted a tweet posted two weeks earlier regarding a review the news organization had conducted of meetings hillary clinton held with individuals from the private sector while secretary of state. The original tweet, posted on aug. 23, read: \" breaking: ap analysis: more than half those who met clinton as cabinet secretary gave money to clinton foundation. \" in its place, the ap tweeted thursday: \" ap review: many of the discretionary meetings clinton had at state were with people who gave to clinton foundation. \" the tweet included a link to the august story. Ap review: many of the discretionary meetings clinton had at state were with people who gave to clinton foundation. Https://t.co/ih6oitgou2 — the associated press ( @ap ) september 8,",
@@ -1747,7 +1741,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2040,7 +2034,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2262,12 +2256,11 @@
     },
     {
         "idx": 52783,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The new york times has a deep dive on how walmart bet big on its business by investing in its employees. In 2015 the retailer quietly implemented a new focus on employee welfare, increasing pay across the board and developing programs to make the management track more accessible to employees. Although the program hasn't helped walmart's struggling stock price, it has allowed walmart to increase sales, increase employee satisfaction, and claw back some trust and loyalty from consumers. According to its official fact sheet, walmart pledged $ 2.7 billion over two years to increasing employee pay and benefits. The nyt reports that so far, the initiative has raised the average pay for a full-time non-managerial employee to $ 13.69 an hour, a 16 % increase since 2014 and above average pay for retail employees. However, some business leaders and analysts remain skeptical. Writing for bloomberg, columnist megan mcardle notes that for a large, publicly held company like walmart, profitability looms above all. If the company's renewed focus on worker welfare doesn't start paying real, quantifiable dividends, shareholders will push for it to return to a cheaper business model, even if that means relying on fewer workers.",
         "split": "test",
         "cleansed_document": [
-            "It is an idea that flies in the face of the prevailing ethos on wall street and in many executive suites the last few decades. But there is sound economic theory behind the idea. \"efficiency wages \" is the term that economists — who excel at giving complex names to obvious ideas — use for the notion that employers who pay workers more than the going rate will get more loyal, harder-working, more productive employees in return. Walmart's experiment holds some surprising lessons for the american economy as a whole. Productivity gains have been slow for years; could fatter paychecks reverse that? demand for goods and services has remained stubbornly low ever since the 2008 economic crisis. If companies paid people more, would it bring out more shoppers — benefiting workers and shareholders alike? deep in a warren of windowless offices here, executives in early 2015 sketched out a plan to spend more money on increased wages and training, and offer more predictable scheduling. They refer to this plan as \"the investments. \" the results are promising. By early 2016, the proportion of stores hitting their targeted customer-service ratings had rebounded to 75 percent. Sales are rising again. That said, the immediate impact on earnings and the company's stock price have been less rosy. The question for walmart is ultimately whether that short-run hit makes the company a stronger competitor in the long run. Will the investments turn out to be the beginning of a change in how walmart and other giant companies think about their workers, or just a one-off experiment to be reversed when the next recession rolls around? the future health of the united states economy, and the well-being of its workers, may well depend on the answer. Pressure from investors on the morning of feb. 19, 2015, walmart's 1.2 million employees across the united states gathered — many in front of their stores ' vast walls of televisions for sale — to watch a video feed by their chief executive. Doug mcmillon, wearing a sweater and sitting in the office once occupied by the company founder sam walton, more or less acknowledged that walmart had made a mistake. It had gone too far in trying to cut",
-            "So far, higher pay is hurting the retailer's profits. Something's gonna give. So far, higher pay is hurting the retailer's profits. Something's gonna give. Of course she likes more money. Over the past few years, i have had a brisk, if intermittent, correspondence with a professor of my acquaintance. Our subject: wal-mart. Specifically, wages at wal-mart, and whether ( and then why ) they could go up."
+            "It is an idea that flies in the face of the prevailing ethos on wall street and in many executive suites the last few decades. But there is sound economic theory behind the idea. \"efficiency wages \" is the term that economists — who excel at giving complex names to obvious ideas — use for the notion that employers who pay workers more than the going rate will get more loyal, harder-working, more productive employees in return. Walmart's experiment holds some surprising lessons for the american economy as a whole. Productivity gains have been slow for years; could fatter paychecks reverse that? demand for goods and services has remained stubbornly low ever since the 2008 economic crisis. If companies paid people more, would it bring out more shoppers — benefiting workers and shareholders alike? deep in a warren of windowless offices here, executives in early 2015 sketched out a plan to spend more money on increased wages and training, and offer more predictable scheduling. They refer to this plan as \"the investments. \" the results are promising. By early 2016, the proportion of stores hitting their targeted customer-service ratings had rebounded to 75 percent. Sales are rising again. That said, the immediate impact on earnings and the company's stock price have been less rosy. The question for walmart is ultimately whether that short-run hit makes the company a stronger competitor in the long run. Will the investments turn out to be the beginning of a change in how walmart and other giant companies think about their workers, or just a one-off experiment to be reversed when the next recession rolls around? the future health of the united states economy, and the well-being of its workers, may well depend on the answer. Pressure from investors on the morning of feb. 19, 2015, walmart's 1.2 million employees across the united states gathered — many in front of their stores ' vast walls of televisions for sale — to watch a video feed by their chief executive. Doug mcmillon, wearing a sweater and sitting in the office once occupied by the company founder sam walton, more or less acknowledged that walmart had made a mistake. It had gone too far in trying to cut"
         ],
         "raw_document": [
             "It is an idea that flies in the face of the prevailing ethos on wall street and in many executive suites the last few decades. But there is sound economic theory behind the idea. \"efficiency wages \" is the term that economists — who excel at giving complex names to obvious ideas — use for the notion that employers who pay workers more than the going rate will get more loyal, harder-working, more productive employees in return. Walmart's experiment holds some surprising lessons for the american economy as a whole. Productivity gains have been slow for years; could fatter paychecks reverse that? demand for goods and services has remained stubbornly low ever since the 2008 economic crisis. If companies paid people more, would it bring out more shoppers — benefiting workers and shareholders alike? deep in a warren of windowless offices here, executives in early 2015 sketched out a plan to spend more money on increased wages and training, and offer more predictable scheduling. They refer to this plan as \"the investments. \" the results are promising. By early 2016, the proportion of stores hitting their targeted customer-service ratings had rebounded to 75 percent. Sales are rising again. That said, the immediate impact on earnings and the company's stock price have been less rosy. The question for walmart is ultimately whether that short-run hit makes the company a stronger competitor in the long run. Will the investments turn out to be the beginning of a change in how walmart and other giant companies think about their workers, or just a one-off experiment to be reversed when the next recession rolls around? the future health of the united states economy, and the well-being of its workers, may well depend on the answer. Pressure from investors on the morning of feb. 19, 2015, walmart's 1.2 million employees across the united states gathered — many in front of their stores ' vast walls of televisions for sale — to watch a video feed by their chief executive. Doug mcmillon, wearing a sweater and sitting in the office once occupied by the company founder sam walton, more or less acknowledged that walmart had made a mistake. It had gone too far in trying to cut",
@@ -2282,18 +2275,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 52784,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Fresh off his loss to mitt romney at cpac, rick santorum hit the talk shows this morning, and he's downplaying the victory, reports politico: \" you have to talk to the romney campaign and how many tickets they bought — we've heard all sorts of things, \" santorum told cnn. \" ron paul has won those ( straw polls ) because he trucks in a lot of people, pays for their ticket, and they come in and vote. I don't try to rig straw polls. \" elsewhere on the sunday dial, as per politico: santorum on his chances: \" i think we can do well ( in michigan ). I think we can do reasonably well in arizona, and really make this a two-person race. \" sarah palin on romney: he's \" a great candidate, \" but \" his idea of conservatism is evolving, and i base this on a pretty moderate past that he has had, even in some cases a liberal past. Now that's a problem. He's still in the 30 percentile mark... Because we are not convinced. \" obama chief of staff jack lew on the birth control ruckus: the friday \" accommodation \" is as far as the white house will go. \" there are others who don't have the same objective, they will have to speak for themselves, ( but ) this is our plan. \" ron paul on'severe conservative ' romney: \" that was the first time i've heard that definition, so i guess mitt will have to tell us exactly what it means. Obviously, he means he's a serious conservative, and he was trying to defend himself, or portray himself as such, but i don't know exactly what he was meaning by that. \"",
         "split": "test",
         "cleansed_document": [
             "A groggy rick santorum, donning suit and tie, sans sweater vest, didn't think much of mitt romney's 38-to-31 percent win over him in last weekend's cpac presidential straw poll. When cnn's \" state of the union \" host candy crowley said she was surprised santorum didn't do better with party conservatives, he shot back: \" well, you know, those straw polls at cpac... For years ron paul has won those because he trucks in a lot of people, pays for their tickets, and they come in and vote and they leave. We didn't do that, we don't do that. I don't try to rig straw polls. \" did romney rig cpac? \" you have to talk to the romney campaign and how many tickets they bought, we've heard all sorts of things, \" santorum said. \" we didn't pay them to turn out, \" he added, speaking of his supporters at cpac, missouri and elsewhere. He went on to say",
-            "Ron paul counts himself among the baffled by mitt romney's description of himself as a severe conservative. \" i think i share your interest in that, because that was the first time i've heard that definition, so i guess mitt will have to tell us exactly what it means, \" the texas congressman and gop presidential contender said sunday on cbs's \" face the nation. \" \" obviously, he means he's a serious conservative, and he was trying to defend himself, or portray himself as such, but i don't know exactly what he was meaning by that. \" read more about: mitt romney, ron paul",
-            "Newly minted white house chief of staff jack lew says president obama's position on birth control and catholic institutions has been \" consistent \" -- and that his friday \" accommodation \" is as far as he will go to win over the bishops. \" there are others who don't have the same objective, they will have to speak for themselves [ but ] this is our plan, \" lew told candy crowley on sunday on cnn's \" state of the union. \" when she asked lew if he could say, with a \" straight face, \" that insurance companies would pick up contraception costs from church-run schools and hospitals a very straight-faced former white house budget director said, somewhat surprisingly, that health insurers would in fact pay less for the birth control-inclusive plans -- presumably because they reduce pregnancies. Read more about: barack obama, catholics, contraception, jack lew, bishops"
+            "Ron paul counts himself among the baffled by mitt romney's description of himself as a severe conservative. \" i think i share your interest in that, because that was the first time i've heard that definition, so i guess mitt will have to tell us exactly what it means, \" the texas congressman and gop presidential contender said sunday on cbs's \" face the nation. \" \" obviously, he means he's a serious conservative, and he was trying to defend himself, or portray himself as such, but i don't know exactly what he was meaning by that. \" read more about: mitt romney, ron paul"
         ],
         "raw_document": [
             "A groggy rick santorum, donning suit and tie, sans sweater vest, didn't think much of mitt romney's 38-to-31 percent win over him in last weekend's cpac presidential straw poll. When cnn's \" state of the union \" host candy crowley said she was surprised santorum didn't do better with party conservatives, he shot back: \" well, you know, those straw polls at cpac... For years ron paul has won those because he trucks in a lot of people, pays for their tickets, and they come in and vote and they leave. We didn't do that, we don't do that. I don't try to rig straw polls. \" did romney rig cpac? \" you have to talk to the romney campaign and how many tickets they bought, we've heard all sorts of things, \" santorum said. \" we didn't pay them to turn out, \" he added, speaking of his supporters at cpac, missouri and elsewhere. He went on to say",
@@ -2310,7 +2302,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2360,18 +2352,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 52787,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Iconic dj casey kasem, who left show business in 2009 at age 77, has just months to live, according to legal documents obtained by tmz. Kasem and wife jean were sued by a former caregiver who says jean mistreated her, and the case was heard ( and thrown out ) yesterday. A rep who appeared on jean's behalf revealed kasem is dying, according to tmz. Jean herself submitted legal documents that say kasem \" is terminally ill and unable to leave home. \" tmz has obtained other legal documents regarding kasem this month; his kids say stepmom jean has blocked them from seeing their father, and they're fighting her. Among the revelations: kasem has advanced parkinson's disease; may have early dementia and can only \" shuffle short distances \"; and suffers hallucinations and major impairment to his memory and ability to communicate, among other things.",
         "split": "test",
         "cleansed_document": [
             "Casey kasem his mind is gone exclusive is in terrible shape... His mind is almost gone and he's unable to function -- this according to new legal docs obtained by tmz.the document outlines the mental state of the legendary founder of \" america's top 40 \" radio program. According to the examining physician, casey has -- major impairment to short term, long term and immediate recall memory -- major impairment to verbally communicate -- major impairment to perform simple calculations, plan simple tasks and reason logically. -- severe disorganized thinking -- moderate hallucinationsthe document was filed by julie, one of casey's daughters who is trying to become conservator. Casey's wife of 33 years, jean, is fighting the move to take control away from her.the doctor says casey has been sliding downhill for the last 3 to 4 years. He's suffering from advanced parkinson's and dementia.",
-            "Exclusive casey kasem is mainly bedridden with advanced parkinson's disease, only able to \" shuffle short distances \" and may have the early onset of dementia... This according to new legal docs obtained by tmz. The docs were filed by julie, one of casey's 3 kids from his first marriage, asking a judge to create a conservatorship and give her and her husband the power to control casey's health care decision. Julie says in the papers that casey's wife of 33 years, jean, has isolated casey from his kids. Julie says jean won't even allow casey's kids to talk with them by phone. Julie claims she currently has a power of attorney to make health care decisions for casey, and that should give more than enough authority to have contact with him. Tmz broke the story... Casey's kids claim jean has not allowed them any contact with their dad for 3 months.",
-            "The seed for this crawl was a list of every host in the wayback machine this crawl was run at a level 1 ( urls including their embeds, plus the urls of all outbound links including their embeds ) the warc files associated with this crawl are not currently available to the general public."
+            "Exclusive casey kasem is mainly bedridden with advanced parkinson's disease, only able to \" shuffle short distances \" and may have the early onset of dementia... This according to new legal docs obtained by tmz. The docs were filed by julie, one of casey's 3 kids from his first marriage, asking a judge to create a conservatorship and give her and her husband the power to control casey's health care decision. Julie says in the papers that casey's wife of 33 years, jean, has isolated casey from his kids. Julie says jean won't even allow casey's kids to talk with them by phone. Julie claims she currently has a power of attorney to make health care decisions for casey, and that should give more than enough authority to have contact with him. Tmz broke the story... Casey's kids claim jean has not allowed them any contact with their dad for 3 months."
         ],
         "raw_document": [
             "Casey kasem his mind is gone exclusive is in terrible shape... His mind is almost gone and he's unable to function -- this according to new legal docs obtained by tmz.the document outlines the mental state of the legendary founder of \" america's top 40 \" radio program. According to the examining physician, casey has -- major impairment to short term, long term and immediate recall memory -- major impairment to verbally communicate -- major impairment to perform simple calculations, plan simple tasks and reason logically. -- severe disorganized thinking -- moderate hallucinationsthe document was filed by julie, one of casey's daughters who is trying to become conservator. Casey's wife of 33 years, jean, is fighting the move to take control away from her.the doctor says casey has been sliding downhill for the last 3 to 4 years. He's suffering from advanced parkinson's and dementia.",
@@ -2390,7 +2381,7 @@
             "0": 0,
             "1": 4,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -2469,13 +2460,12 @@
     },
     {
         "idx": 52791,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Own a samsung smart tv? then take note: your television is not only listening, it's sending your data to a third party, the independent reports. The tv's voice-recognition software lets you give it orders, but the product's privacy policy warns that \" personal or other sensitive information... Will be among the data captured and transmitted to a third party through your use of voice recognition. \" samsung tells the bbc that the third party is nuance, the company that does samsung's speech-to-text conversion. But intellectual property lawyer corynne mcsherry says it would be nice to see that clarified in samsung's policy, the daily beast reports. \" and i'd definitely like to know whether my words were being transmitted in a secure form, \" she says. An activist tweets that samsung's policy sounds a lot like the description of \" telescreens \" in george orwell's dystopian novel, 1984 — which reads in part, \" any sound that winston made, above the level of a very low whisper, would be picked up by [ the screen ]. \" unnervingly, it wasn't clear how often \" the thought police plugged in on any individual wire was guesswork. \" samsung, however, says it doesn't keep voice data, and customers can opt to turn off voice-recognition or even unplug the tv from wi-fi. And samsung isn't alone: the verge reports that xboxes already use voice recognition while being connected to the internet. \" samsung's privacy policy is not unique; its rhetoric just happens to be similar to that of a well-known sci-fi novel, \" the verge says.",
         "split": "test",
         "cleansed_document": [
             "The new privacy policy for samsung's smart tvs allows the company and its partners to listen in on everything their users say. The policy has drawn the ire of internet users, who compared it with george orwell's dystopian fiction 1984. While voice recognition software almost always transmits data on what users are saying — so that the job of decoding it can be done by quicker computers elsewhere — the combination of sending the data to third-parties and the comparison with orwell has meant that the samsung policy has drawn particular attention. The policy states: \"please be aware that if your spoken words include personal or other sensitive information, that information will be among the data captured and transmitted to a third party through your use of voice recognition. \" it makes clear that the tool can be turned off through settings, though that will stop the voice recognition working entirely and samsung will still continue",
-            "Samsung's smarttv service offers a set of features that provide enhanced video content, customised tv, movie, and other content recommendations, connections to social networking services, and the ability to control and interact with your smarttv with gestures and voice commands. We collect, use, share, and store information through your smarttv in the ways described in the samsung privacy policy. This supplement provides additional details about the privacy practices of some smarttv features. Recommendations and customised content device information the smarttv is designed to enable you to easily find and access video programming and other content. For example, you may access information about live television programs distributed to you by your cable or satellite operator and on-demand video content offerings distributed by third-party content providers through searchable guides displayed on your smarttv. In the case of live television programs, we determine what content is available to you based in part",
-            "In its hour-long xbox one presentation, microsoft blazed through announcements for its new next-generation console, including one ostensibly important feature that may raise some eyebrows: the new xbox will always be listening to you, even when it's turned off. The reason for always-on listening mode is simple; microsoft wants the new xbox to respond quickly and naturally to you, whenever you need it. To fulfill that goal, the company will ship the new kinect — its motion-sensing and listening peripheral — with every xbox one. The new console uses the new kinect for just about everything: switching between games, movies, web browsing, and live television, all of which can be done with voice commands. ( in fact, the new console needs the kinect to operate at all — it's not an optional add-on like with the xbox 360. ) even when the console's"
+            "Samsung's smarttv service offers a set of features that provide enhanced video content, customised tv, movie, and other content recommendations, connections to social networking services, and the ability to control and interact with your smarttv with gestures and voice commands. We collect, use, share, and store information through your smarttv in the ways described in the samsung privacy policy. This supplement provides additional details about the privacy practices of some smarttv features. Recommendations and customised content device information the smarttv is designed to enable you to easily find and access video programming and other content. For example, you may access information about live television programs distributed to you by your cable or satellite operator and on-demand video content offerings distributed by third-party content providers through searchable guides displayed on your smarttv. In the case of live television programs, we determine what content is available to you based in part"
         ],
         "raw_document": [
             "The new privacy policy for samsung's smart tvs allows the company and its partners to listen in on everything their users say. The policy has drawn the ire of internet users, who compared it with george orwell's dystopian fiction 1984. While voice recognition software almost always transmits data on what users are saying — so that the job of decoding it can be done by quicker computers elsewhere — the combination of sending the data to third-parties and the comparison with orwell has meant that the samsung policy has drawn particular attention. The policy states: \"please be aware that if your spoken words include personal or other sensitive information, that information will be among the data captured and transmitted to a third party through your use of voice recognition. \" it makes clear that the tool can be turned off through settings, though that will stop the voice recognition working entirely and samsung will still continue",
@@ -2492,7 +2482,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2522,7 +2512,7 @@
             "0": 5,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2709,7 +2699,7 @@
         "vote_count": {
             "0": 5,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     }
 ]

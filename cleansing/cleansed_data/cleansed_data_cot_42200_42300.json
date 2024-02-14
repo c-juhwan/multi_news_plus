@@ -135,7 +135,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -299,12 +299,11 @@
     },
     {
         "idx": 42211,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The \"bunga bunga \" fallout continues: police nabbed an italian businessman for allegedly blackmailing silvio berlusconi in the sex scandal that's clouded his tenure as prime minister. Giampaolo tarantini has acknowledged recruiting women for berlusconi's alleged sex parties, but he's maintained that the pm didn't know that some were escorts. Police say tarantini was paid almost $ 750,000 to protect berlusconi and to seek a fast-track trial that would reveal as little as possible about the parties. The arrest of tarantini and his wife, angela devenuto, comes after investigators listened in on 50 phone calls, the telegraph reports. Berlusconi says he paid tarantini simply out of the goodness of his heart. \"i helped a person and a family with children who found themselves, and still find themselves, in grave economic difficulties, \" he told a magazine last week. \"i did nothing wrong, i simply helped a desperate man, asking nothing in return. That's the kind of person i am and nothing will ever change that. \" however, phone transcripts paint a different picture: in one, berlusconi pledged to leave the \"shitty \" country he leads, the guardian reports.",
         "split": "train",
         "cleansed_document": [
-            "In a sign of his frustration at the investigations into his alleged crimes and misdemeanours, silvio berlusconi vowed in july to leave italy, which he described as a \" shitty country \" that \" sickened \" him. The italian prime minister's astonishing remarks are contained in the transcript of a telephone conversation secretly recorded by police investigating claims he was being blackmailed about his sex life. At dawn on thursday, police swooped on a flat near via veneto – one of rome's most expensive streets – to arrest giampaolo tarantini, a central figure in a scandal that threatened to bring down berlusconi two years ago. Tarantini's wife, angela devenuto, was also taken into custody and a search launched for a third person. The arrest warrant shows that the three are accused of extorting at least € 500,000 ( £ 440,000 ) \" as well as other benefits of economic significance \". Berlusconi has admitted paying the couple, but said he did so voluntarily. Two years ago, tarantini, a businessman from bari in southern italy, said he supplied 30 women for parties at the prime minister's roman palazzo. He told police at least six women spent the night there. According to the judicial arrest warrant issued on thursday, a third person – valter lavitola, the editor of a small newspaper – maintained direct contact with berlusconi and received the cash in monthly instalments from the prime minister's personal secretary. It was in a phone conversation with lavitola late on 13 july that berlusconi was said by the judge to have erupted in anger. \" they can say about me that i screw. It's the only thing they can say about me. Is that clear? \" he said to the man allegedly blackmailing him. \" they can put listening devices where they like. They can tap my telephone calls. I don't give a fuck. I … in a few months, i ' m getting out to mind my own fucking business, from somewhere else, and so i ' m leaving this shitty country of which i ' m sickened. \" berlusconi was speaking four days after a court in milan dealt him the heaviest blow he has suffered in his long and intensely controversial business career. The court ruled that the firm at the heart of his group of companies should pay € 560m to his bitterest commercial rival as compensation for bribing a judge in order to win control of mondadori, italy's biggest publisher. But the conversation also took",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "In a sign of his frustration at the investigations into his alleged crimes and misdemeanours, silvio berlusconi vowed in july to leave italy, which he described as a \" shitty country \" that \" sickened \" him. The italian prime minister's astonishing remarks are contained in the transcript of a telephone conversation secretly recorded by police investigating claims he was being blackmailed about his sex life. At dawn on thursday, police swooped on a flat near via veneto – one of rome's most expensive streets – to arrest giampaolo tarantini, a central figure in a scandal that threatened to bring down berlusconi two years ago. Tarantini's wife, angela devenuto, was also taken into custody and a search launched for a third person. The arrest warrant shows that the three are accused of extorting at least € 500,000 ( £ 440,000 ) \" as well as other benefits of economic significance \". Berlusconi has admitted paying the couple, but said he did so voluntarily. Two years ago, tarantini, a businessman from bari in southern italy, said he supplied 30 women for parties at the prime minister's roman palazzo. He told police at least six women spent the night there. According to the judicial arrest warrant issued on thursday, a third person – valter lavitola, the editor of a small newspaper – maintained direct contact with berlusconi and received the cash in monthly instalments from the prime minister's personal secretary. It was in a phone conversation with lavitola late on 13 july that berlusconi was said by the judge to have erupted in anger. \" they can say about me that i screw. It's the only thing they can say about me. Is that clear? \" he said to the man allegedly blackmailing him. \" they can put listening devices where they like. They can tap my telephone calls. I don't give a fuck. I … in a few months, i ' m getting out to mind my own fucking business, from somewhere else, and so i ' m leaving this shitty country of which i ' m sickened. \" berlusconi was speaking four days after a court in milan dealt him the heaviest blow he has suffered in his long and intensely controversial business career. The court ruled that the firm at the heart of his group of companies should pay € 560m to his bitterest commercial rival as compensation for bribing a judge in order to win control of mondadori, italy's biggest publisher. But the conversation also took"
         ],
         "raw_document": [
             "In a sign of his frustration at the investigations into his alleged crimes and misdemeanours, silvio berlusconi vowed in july to leave italy, which he described as a \" shitty country \" that \" sickened \" him. The italian prime minister's astonishing remarks are contained in the transcript of a telephone conversation secretly recorded by police investigating claims he was being blackmailed about his sex life. At dawn on thursday, police swooped on a flat near via veneto – one of rome's most expensive streets – to arrest giampaolo tarantini, a central figure in a scandal that threatened to bring down berlusconi two years ago. Tarantini's wife, angela devenuto, was also taken into custody and a search launched for a third person. The arrest warrant shows that the three are accused of extorting at least € 500,000 ( £ 440,000 ) \" as well as other benefits of economic significance \". Berlusconi has admitted paying the couple, but said he did so voluntarily. Two years ago, tarantini, a businessman from bari in southern italy, said he supplied 30 women for parties at the prime minister's roman palazzo. He told police at least six women spent the night there. According to the judicial arrest warrant issued on thursday, a third person – valter lavitola, the editor of a small newspaper – maintained direct contact with berlusconi and received the cash in monthly instalments from the prime minister's personal secretary. It was in a phone conversation with lavitola late on 13 july that berlusconi was said by the judge to have erupted in anger. \" they can say about me that i screw. It's the only thing they can say about me. Is that clear? \" he said to the man allegedly blackmailing him. \" they can put listening devices where they like. They can tap my telephone calls. I don't give a fuck. I … in a few months, i ' m getting out to mind my own fucking business, from somewhere else, and so i ' m leaving this shitty country of which i ' m sickened. \" berlusconi was speaking four days after a court in milan dealt him the heaviest blow he has suffered in his long and intensely controversial business career. The court ruled that the firm at the heart of his group of companies should pay € 560m to his bitterest commercial rival as compensation for bribing a judge in order to win control of mondadori, italy's biggest publisher. But the conversation also took",
@@ -319,7 +318,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -350,7 +349,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -435,12 +434,11 @@
     },
     {
         "idx": 42216,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The company that managed hillary clinton's private email server says it has no knowledge that the server was \" wiped, \" which could mean that more than 30,000 emails clinton says she deleted from the device could be recovered, according to a report in the washington post. Clinton has said that personal correspondence sent and received during the four years she was secretary of state were deleted from the server. About as many emails pertaining to administration business have been turned over to the state department, which is reviewing them and releasing them periodically by court order. Deleting emails is not the same at wiping a server. Deleted emails often can be recovered from a device that has not been \" wiped, \" which pc magazine defines as \" a security measure when selling, giving away or retiring a computer. A file wipe completely erases the data from the hard disk. \" a spokesman for platte river networks, the denver-based firm that has managed the system, says the company has no information indicating the server was wiped. Platte river took over the device in june 2013, about four months after clinton left the state department, and turned it over to the fbi last month. \" all the information we have is that the server wasn't wiped, \" spokesman andy boian tells the post. ( clinton recently apologized for using a private email server while serving as secretary of state. )",
         "split": "train",
         "cleansed_document": [
-            "Democratic presidential candidate hillary clinton has previously stated that classified information never traveled across her private server. However, the state department has acknowledged that \" top secret \" information was in seven email chains sent or received by her. Top-secret information in e-mails democratic presidential candidate hillary clinton has previously stated that classified information never traveled across her private server. However, the state department has acknowledged that \" top secret \" information was in seven email chains sent or received by her. Richard drew/ap clinton has come under fire for using a private email address during her time as secretary of state. The emails are being screened and released in batches. Here are some things we've learned from them. Clinton has come under fire for using a private e-mail address during her time as secretary of state. The e-mails are being screened and released in batches. Here are some things we've learned from them. Clinton has come under fire for using a private e-mail address during her time as secretary of state. The e-mails are being screened and released in batches. Here are some things we've learned from them. The company that managed hillary rodham clinton's private e-mail server said it has \"no knowledge of the server being wiped, \" the strongest indication to date that tens of thousands of e-mails that clinton has said were deleted could be recovered. Clinton and her advisers have said for months that she deleted her personal correspondence from her time as secretary of state, creating the impression that 31,000 e-mails were gone forever. There is a distinction between e-mails ' being deleted and a server being wiped. If e-mails are deleted or moved from a server, they appear to no longer exist on the device. But experts say, depending on the condition of the server, underlying data can remain on the device, and the e-mails can often be restored. To make the information go away permanently, a server must be wiped — a process that includes overwriting the underlying data with gibberish, possibly several times. That process, according to platte river networks, the ­denver-based firm that has managed the system since 2013, apparently did not happen. During an interview with abc news, hillary clinton apologized for using a private e-mail",
-            "The seed for wide00014 was: - slash pages from every domain on the web: -- a ranking of all urls that have more than one incoming inter-domain link ( rank was determined by number of incoming links using wide00012 inter domain links ) -- up to a maximum of 100 most highly ranked urls per domain - top ranked pages ( up to a max of 100 ) from every linked-to domain using the wide00012 inter-domain navigational link graph"
+            "Democratic presidential candidate hillary clinton has previously stated that classified information never traveled across her private server. However, the state department has acknowledged that \" top secret \" information was in seven email chains sent or received by her. Top-secret information in e-mails democratic presidential candidate hillary clinton has previously stated that classified information never traveled across her private server. However, the state department has acknowledged that \" top secret \" information was in seven email chains sent or received by her. Richard drew/ap clinton has come under fire for using a private email address during her time as secretary of state. The emails are being screened and released in batches. Here are some things we've learned from them. Clinton has come under fire for using a private e-mail address during her time as secretary of state. The e-mails are being screened and released in batches. Here are some things we've learned from them. Clinton has come under fire for using a private e-mail address during her time as secretary of state. The e-mails are being screened and released in batches. Here are some things we've learned from them. The company that managed hillary rodham clinton's private e-mail server said it has \"no knowledge of the server being wiped, \" the strongest indication to date that tens of thousands of e-mails that clinton has said were deleted could be recovered. Clinton and her advisers have said for months that she deleted her personal correspondence from her time as secretary of state, creating the impression that 31,000 e-mails were gone forever. There is a distinction between e-mails ' being deleted and a server being wiped. If e-mails are deleted or moved from a server, they appear to no longer exist on the device. But experts say, depending on the condition of the server, underlying data can remain on the device, and the e-mails can often be restored. To make the information go away permanently, a server must be wiped — a process that includes overwriting the underlying data with gibberish, possibly several times. That process, according to platte river networks, the ­denver-based firm that has managed the system since 2013, apparently did not happen. During an interview with abc news, hillary clinton apologized for using a private e-mail"
         ],
         "raw_document": [
             "Democratic presidential candidate hillary clinton has previously stated that classified information never traveled across her private server. However, the state department has acknowledged that \" top secret \" information was in seven email chains sent or received by her. Top-secret information in e-mails democratic presidential candidate hillary clinton has previously stated that classified information never traveled across her private server. However, the state department has acknowledged that \" top secret \" information was in seven email chains sent or received by her. Richard drew/ap clinton has come under fire for using a private email address during her time as secretary of state. The emails are being screened and released in batches. Here are some things we've learned from them. Clinton has come under fire for using a private e-mail address during her time as secretary of state. The e-mails are being screened and released in batches. Here are some things we've learned from them. Clinton has come under fire for using a private e-mail address during her time as secretary of state. The e-mails are being screened and released in batches. Here are some things we've learned from them. The company that managed hillary rodham clinton's private e-mail server said it has \"no knowledge of the server being wiped, \" the strongest indication to date that tens of thousands of e-mails that clinton has said were deleted could be recovered. Clinton and her advisers have said for months that she deleted her personal correspondence from her time as secretary of state, creating the impression that 31,000 e-mails were gone forever. There is a distinction between e-mails ' being deleted and a server being wiped. If e-mails are deleted or moved from a server, they appear to no longer exist on the device. But experts say, depending on the condition of the server, underlying data can remain on the device, and the e-mails can often be restored. To make the information go away permanently, a server must be wiped — a process that includes overwriting the underlying data with gibberish, possibly several times. That process, according to platte river networks, the ­denver-based firm that has managed the system since 2013, apparently did not happen. During an interview with abc news, hillary clinton apologized for using a private e-mail",
@@ -455,7 +453,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -768,7 +766,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -826,13 +824,12 @@
     },
     {
         "idx": 42231,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A woman is suing uber, claiming one of its drivers attacked her and broke her jaw during the ride home from a new year's eve party in hollywood, nbc los angeles reports. \" i took the uber because they hold themselves in a safe and responsible way for people to transport themselves, and i relied upon them to provide this, \" 29-year-old krystal ortiz says. She says during the ride the driver got angry about a conversation she was having with another passenger. She recorded part of the confrontation that followed on her phone. The youtube video shows ortiz asking why the driver is kicking her out of the car. He claims she's being \" combative \" and threatens to drag her out of the car. Then it appears he hits the cellphone she's holding. The video goes on to show the driver, who hasn't been named, get out of the car, open ortiz's door, and ask her again to get out of the car. She again asks why, and the recording stops. Ortiz's attorney says ortiz didn't want to get out of the uber because it was the middle of the night in a strange neighborhood far from her home, ktla reports. Ortiz says the driver went on to pull her from the car, punch her in the face, and force her to the ground. According to nbc, ortiz says she needed reconstructive surgery after the driver punched her in the face multiple times. She is suing uber for an unspecified amount. The company has \" permanently deactivated \" the driver. Meanwhile, the driver has filed a police report against ortiz alleging battery.",
         "split": "train",
         "cleansed_document": [
             "A 29-year-old los angeles woman claims a uber driver attacked her after a confrontation, leaving her with a broken jaw. It allegedly happened in the hollywood area in the early morning hours of new year's day. During the ride, an argument erupted between passenger krystal ortiz and the uber driver, which then turned physical, ortiz said. Part of the initial altercation was recorded on cellphone video. In the video, the driver could be heard accusing ortiz of being \"confrontational. \" at one point, the driver stopped the car and demanded that ortiz get out. When she refused, ortiz said she was attacked. Ortiz told ktla that the driver pulled her out of the car, punched her in the face and knocked her to the ground. The attack left ortiz with a broken jaw, scrapes, cuts and bruises, she said. Her attorney ernest algorri said ortiz was reluctant to get out of the car because the driver pulled over in an unfamiliar area in the middle of the night, miles away from her home. Ortiz and her attorney were pursuing criminal and civil action against the driver and the ride-sharing service. Uber told ktla that it takes reports like this very seriously and has permanently barred the driver from working with",
-            "A woman is suing, claiming an uber driver attacked her, shattering her jaw. John cádiz klemack reports for the nbc4 news at 5 on tuesday, jan. 12, 2016. ( published tuesday, jan. 12, 2016 ) a 29-year-old woman is suing uber, claiming a driver for the ride sharing service shattered her jaw during an attack on new year's eve. Krystal ortiz says she had been drinking at a party in hollywood that night and thought she'd do the responsible thing and find a designated driver. \" i took the uber because they hold themselves in a safe and responsible way for people to transport themselves, and i relied upon them to provide this, \" she said at a press conference with her attorney tuesday. As she was sitting in the car, ortiz's cellphone was recording video when she claims the driver snapped without provocation over a conversation she was having with another passenger. Woman claims uber driver shattered her jaw a woman is suing, claiming an uber driver attacked her, shattering her jaw. John cádiz klemack reports for the nbc4 news at noon on tuesday, jan. 12, 2016. ( published tuesday, jan. 12, 2016 ) \" why are you kicking me out of the",
-            "The interactive transcript could not be loaded. Rating is available when the video has been rented. This feature is not available right now. Please try again later."
+            "A woman is suing, claiming an uber driver attacked her, shattering her jaw. John cádiz klemack reports for the nbc4 news at 5 on tuesday, jan. 12, 2016. ( published tuesday, jan. 12, 2016 ) a 29-year-old woman is suing uber, claiming a driver for the ride sharing service shattered her jaw during an attack on new year's eve. Krystal ortiz says she had been drinking at a party in hollywood that night and thought she'd do the responsible thing and find a designated driver. \" i took the uber because they hold themselves in a safe and responsible way for people to transport themselves, and i relied upon them to provide this, \" she said at a press conference with her attorney tuesday. As she was sitting in the car, ortiz's cellphone was recording video when she claims the driver snapped without provocation over a conversation she was having with another passenger. Woman claims uber driver shattered her jaw a woman is suing, claiming an uber driver attacked her, shattering her jaw. John cádiz klemack reports for the nbc4 news at noon on tuesday, jan. 12, 2016. ( published tuesday, jan. 12, 2016 ) \" why are you kicking me out of the"
         ],
         "raw_document": [
             "A 29-year-old los angeles woman claims a uber driver attacked her after a confrontation, leaving her with a broken jaw. It allegedly happened in the hollywood area in the early morning hours of new year's day. During the ride, an argument erupted between passenger krystal ortiz and the uber driver, which then turned physical, ortiz said. Part of the initial altercation was recorded on cellphone video. In the video, the driver could be heard accusing ortiz of being \"confrontational. \" at one point, the driver stopped the car and demanded that ortiz get out. When she refused, ortiz said she was attacked. Ortiz told ktla that the driver pulled her out of the car, punched her in the face and knocked her to the ground. The attack left ortiz with a broken jaw, scrapes, cuts and bruises, she said. Her attorney ernest algorri said ortiz was reluctant to get out of the car because the driver pulled over in an unfamiliar area in the middle of the night, miles away from her home. Ortiz and her attorney were pursuing criminal and civil action against the driver and the ride-sharing service. Uber told ktla that it takes reports like this very seriously and has permanently barred the driver from working with",
@@ -849,7 +846,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -877,7 +874,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -968,7 +965,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1167,7 +1164,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1280,7 +1277,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1517,7 +1514,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1542,7 +1539,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1567,7 +1564,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1751,12 +1748,11 @@
     },
     {
         "idx": 42266,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Cloud atlas certainly has inspired its stars to diss their past projects. On chelsea lately tuesday, halle berry reminisced about how she met her fiance olivier martinez \" on a s**t movie, us reports. She was referring to dark tide, which came out earlier this year and did not perform well. And her costar hugo weaving also criticized a past flick of his while promoting cloud atlas. \"i didn't care about it, i didn't think about it, \" he said of his role as the voice of megatron in transformers. \"it was meaningless to me. \" director michael bay — who has also had shia labeouf and megan fox complain about the movies — suggested \"all those whiners \" give the money they made off the films to charity. When, wonders aisha harris on slate, is it ok for actors to belittle their own movies and when is it not cool? a guide: tom hanks: ok. Hanks, who recently poked fun at past films turner and hooch and angels and demons — also while promoting cloud atlas! — has two oscars and is pretty much universally beloved. George clooney: ok. Clooney called batman and robin \"a waste of money. \" but since everyone agrees the movie is awful, no one seemed to care. Jamie lee curtis: ok. She called virus \"so bad that it's shocking, \" \"dreadful, \" and \"the all-time piece of s**t. \" but there was no backlash … because everyone has forgotten about the movie. Halle berry, again: ok. When accepting the razzie for catwoman, she thanked director pitof for \"putting me in a piece of s**t, godawful movie. \" but that's fine, because no one has any idea who pitof is. Shia labeouf: not cool. In addition to his aforementioned beef with bay, labeouf also criticized his role in indiana jones and the kingdom of the crystal skull. Problem is, steven spielberg directed that, and he's... Steven spielberg. Labeouf was lambasted by pretty much everyone, including harrison ford. Click for the complete list, including an actor who described his role as \"like flogging a dead horse \" … and another who had the audacity to diss star wars.",
         "split": "train",
         "cleansed_document": [
-            "Tell us how you really feel, halle! oscar-winning actress halle berry, 46, didn't mince words when she stopped by chelsea lately oct. 30 to chat about her new film, cloud atlas, and what she called the hollywood \" crapshoot. \" photos: halle's ageless figure the star happily talked up her latest project, which co-stars tom hanks and is based on a complex epic novel by david mitchell, but she wasn't as complimentary of other titles on her resume. \" you don't expect it to be as bad as it is sometimes, \" she told host chelsea handler of making a flop. \" then it comes out, and you think, ' f -- k. That's what i did? ' \" photos: halle's most stunning red carpet looks handler pointed out, though, that sometimes there's a silver lining. \" even when a movie ends up crappy, other good things can come out of it, \" she argued. \" you met your fiance on a movie. \" \" on a s -- t movie, \" berry confirmed, referring to dark tide, a $ 25 million thriller that came out earlier this year and grossed less than $ 500,000 at the box office. The flick co-starred olivier martinez, whom the actress has been dating since filming wrapped in 2010. Photos: a look back at halle and gabriel berry, who has a 4-year-old daughter, nahla, with ex-boyfriend gabriel aubry, has said she had \" given up \" on marriage prior to meeting the 46-year-old french actor. ( she was previously married to baseball player david justice and r&b singer eric benet. ) but martinez won her over. They got engaged in january, and berry herself confirmed the news in april. \" who knew? i swore [ marriage ] off, right? \" she joked to extra. \" never say never, people! \"",
-            "Dispatches who would want to immigrate to greece right now? a lot of people. And the country has never been less equipped to absorb them."
+            "Tell us how you really feel, halle! oscar-winning actress halle berry, 46, didn't mince words when she stopped by chelsea lately oct. 30 to chat about her new film, cloud atlas, and what she called the hollywood \" crapshoot. \" photos: halle's ageless figure the star happily talked up her latest project, which co-stars tom hanks and is based on a complex epic novel by david mitchell, but she wasn't as complimentary of other titles on her resume. \" you don't expect it to be as bad as it is sometimes, \" she told host chelsea handler of making a flop. \" then it comes out, and you think, ' f -- k. That's what i did? ' \" photos: halle's most stunning red carpet looks handler pointed out, though, that sometimes there's a silver lining. \" even when a movie ends up crappy, other good things can come out of it, \" she argued. \" you met your fiance on a movie. \" \" on a s -- t movie, \" berry confirmed, referring to dark tide, a $ 25 million thriller that came out earlier this year and grossed less than $ 500,000 at the box office. The flick co-starred olivier martinez, whom the actress has been dating since filming wrapped in 2010. Photos: a look back at halle and gabriel berry, who has a 4-year-old daughter, nahla, with ex-boyfriend gabriel aubry, has said she had \" given up \" on marriage prior to meeting the 46-year-old french actor. ( she was previously married to baseball player david justice and r&b singer eric benet. ) but martinez won her over. They got engaged in january, and berry herself confirmed the news in april. \" who knew? i swore [ marriage ] off, right? \" she joked to extra. \" never say never, people! \""
         ],
         "raw_document": [
             "Tell us how you really feel, halle! oscar-winning actress halle berry, 46, didn't mince words when she stopped by chelsea lately oct. 30 to chat about her new film, cloud atlas, and what she called the hollywood \" crapshoot. \" photos: halle's ageless figure the star happily talked up her latest project, which co-stars tom hanks and is based on a complex epic novel by david mitchell, but she wasn't as complimentary of other titles on her resume. \" you don't expect it to be as bad as it is sometimes, \" she told host chelsea handler of making a flop. \" then it comes out, and you think, ' f -- k. That's what i did? ' \" photos: halle's most stunning red carpet looks handler pointed out, though, that sometimes there's a silver lining. \" even when a movie ends up crappy, other good things can come out of it, \" she argued. \" you met your fiance on a movie. \" \" on a s -- t movie, \" berry confirmed, referring to dark tide, a $ 25 million thriller that came out earlier this year and grossed less than $ 500,000 at the box office. The flick co-starred olivier martinez, whom the actress has been dating since filming wrapped in 2010. Photos: a look back at halle and gabriel berry, who has a 4-year-old daughter, nahla, with ex-boyfriend gabriel aubry, has said she had \" given up \" on marriage prior to meeting the 46-year-old french actor. ( she was previously married to baseball player david justice and r&b singer eric benet. ) but martinez won her over. They got engaged in january, and berry herself confirmed the news in april. \" who knew? i swore [ marriage ] off, right? \" she joked to extra. \" never say never, people! \"",
@@ -1771,7 +1767,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1796,7 +1792,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1854,14 +1850,13 @@
     },
     {
         "idx": 42270,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "What a museum worker calls an \" amazing story \" has emerged out of the south of sweden, where a 1,500-year-old sword from the iron age was found in a lake — not by archaeologists or maritime researchers, but by an 8-year-old from minneapolis. Npr reports on saga vanecek's discovery in july, made as she crawled on her hands and knees in the shallow waters of lake vidostern. Accustomed to bumping into rocks and sticks as she played in the lake, saga instead stumbled on an object in the mud with a handle. \" she picked up the object, lifted it high above her head, and shouted as if she was pippi longstocking,'daddy! i found a sword! ' \" her dad, andy vanecek, said in a wednesday facebook post, adding it's the \" first sword of its kind to ever be found in scandinavia. \" the bbc notes the water level in the lake was low due to drought, which made it easier for saga to find the sword. An expert from a local museum, which shows a pic of the \" exceptionally preserved \" sword, says the weapon is about 33 inches long and came in a wood-and-leather sheath. \" why it has come to be [ in the lake ], we don't know, \" the expert tells the local, via npr. \" but perhaps it's a place of sacrifice. \" also found by researchers, who swore saga and her family to secrecy until now so the site wouldn't be overrun by amateur excavators: a brooch from around the same time period as the sword, as well as an 18th-century coin, per mpr. Saga's dad is pretty excited, noting, \" i ' m a huge minnesota vikings fan, and this looks just like a viking sword. \" as for saga, who moved to sweden with her family in 2017, the guardian notes some have dubbed her the country's \" true queen \" for her find. \" all hail! queen saga! lady vanecek of... Vidostern! \" one acolyte tweeted.",
         "split": "train",
         "cleansed_document": [
             "Image copyright jonkoping county museum an eight-year-old found a pre-viking-era sword while swimming in a lake in sweden during the summer. Saga vanecek found the relic in the vidostern lake while at her family's holiday home in jonkoping county. The sword was initially reported to be 1,000 years old, but experts at the local museum now believe it may date to around 1,500 years ago. \" it's not every day that you step on a sword in the lake! \" mikael nordstrom from the museum said. Media playback is unsupported on your device media caption saga vanecek: \" i noticed something that felt like a stick \" the level of the water was extremely",
             "An eight-year-old girl has pulled a 1,500-year-old sword from a lake in southern sweden. \"i felt something with my hand and at first i thought it was a stick, \" saga vanecek told the local värnamo nyheter newspaper. \"then it had a handle that looked like it was a sword, and then i lifted it up and shouted: 'daddy, i found a sword! ' \" i pulled a 1,500-year-old sword out of a lake read more the find, made in july but announced only this week for fear it would trigger a summer stampede to the site at tånnö on the shore of lake vidöstern, felt \"pretty cool and a bit exciting \", she told",
-            "Saga vanecek, 8, who used to call minneapolis home, had your typical day in sweden one day over the summer. She went to the lake, took a dip, started throwing stones to see how far they'd skip, then pulled a 1,500-year-old sword with apparent viking ancestry out of the lake. \"she walked very slowly and played in the water just like the child does, i was a little frustrated that she did not come back quickly. But then she picked up something that i thought was a stick and held it up as pippi longstocking, \" said andrew vanecek — wearing a minnesota wild hat, for the record — when he",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Saga vanecek, 8, who used to call minneapolis home, had your typical day in sweden one day over the summer. She went to the lake, took a dip, started throwing stones to see how far they'd skip, then pulled a 1,500-year-old sword with apparent viking ancestry out of the lake. \"she walked very slowly and played in the water just like the child does, i was a little frustrated that she did not come back quickly. But then she picked up something that i thought was a stick and held it up as pippi longstocking, \" said andrew vanecek — wearing a minnesota wild hat, for the record — when he"
         ],
         "raw_document": [
             "Image copyright jonkoping county museum an eight-year-old found a pre-viking-era sword while swimming in a lake in sweden during the summer. Saga vanecek found the relic in the vidostern lake while at her family's holiday home in jonkoping county. The sword was initially reported to be 1,000 years old, but experts at the local museum now believe it may date to around 1,500 years ago. \" it's not every day that you step on a sword in the lake! \" mikael nordstrom from the museum said. Media playback is unsupported on your device media caption saga vanecek: \" i noticed something that felt like a stick \" the level of the water was extremely",
@@ -1880,17 +1875,15 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
         "idx": 42271,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Speed bumps are generally meant to check the velocity of your vehicle, but one at a school district in idaho is the subject of a lawsuit after a woman tripped over it and fell. Jan duff claims the area was poorly lit and that the speed bump at the exit to minico high school's stadium is the same color as the black asphalt, reports magicvalley.com. The district responds that the lighting near the speed bump is just fine and that its location is \" so obvious the plaintiff knew it existed. \" it adds that it was \" her own negligence in failing to keep lookout and awareness of her surroundings \" that led to her fall in september 2015. Duff and husband curtis duff are suing the minidoka county joint school district for damages, including past and future pain and suffering, permanent impairment, disfigurement, mental anguish, a decrease in the enjoyment and value of life, inconvenience, and past and future medical expenses. Her husband also claims to have suffered the loss of companionship and consortium. It's unclear whether she was on her phone or in some way distracted, or whether anyone else has tripped over the bump, but the district adds that it cannot be held liable under the state's recreational use statute. Meanwhile, a long row of pedestrian speed bumps are being installed in china, reports mother nature network, in an apparent attempt to slow people down as they walk past the longest manmade waterway in the world. ( check out the top 10 deadliest states for pedestrians. )",
         "split": "train",
-        "cleansed_document": [
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Considering all of the unexpected things that one might encounter at a unesco heritage site, the pedestrian speed bumps that now line a major footpath in the ancient chinese canal town of tai ' erzhuang could very well be a first. Purportedly installed by officials to slow the pace of fleet-footed visitors, 50 so-called \"calming devices \" almost completely blanket a 100-meter ( 328 foot ) pedestrian pathway leading to this popular heritage site located along a picturesque stretch of the beijing-hangzhou grand canal — the longest man-made waterway in the world and one of eastern china's top tourism draws — in zaozhuang, shandong province. A bit overconcerned? speed bumps seen in a short range of pedestrian walks at a scenic spot in east china stunned many chinese netizens pic.twitter.com/oeouc0h5hj — people's daily, china ( @pdchina ) april 30, 2017 looking at photos of the site, it appears that the path itself is at an incline, which does lead one to wonder if the black and yellow speed bumps were installed to prevent visitors from slipping in wet weather or loosing their footing and rolling down the hill en masse. Or perhaps the speed bumps were put in place as a sort of makeshift staircase to better help visitors better gain their footing climb up the path, which has been renamed \"washboard road \" by locals due to the washboard-esque appearance of the devices. Yet according to reporting from the daily mail, the purpose of the speed bumps is indeed to slow scrums of camera-wielding tourists moving at a speed that would suggest that there's a hot sale on designer handbags at the end of the path, not a revered cultural site. By forcing hurried visitors to move at a more leisurely pace, officials at tai ' erzhuanghope hope that they will gain a \"greater appreciate of its beauty and heritage. \" noting that the speed bumps are in \"stark contrast to the natural beauty of the site, \" the daily mail goes on to explain that \"there were concerns that increased footfall was becoming too frenetic — and thus compromising the experience. \" whatever the case, there is room on both sides of the path, albeit limited, for tourists to avoid the mini-obstacle course and traverse the path unencumbered. Slow down and smell the roses covering roughly.8 square miles and stuffed with cultural relics, classical bridges and scenic canal-side parks, tai ' erzhuang is often billed as china's most stunning \" water town. \" built during the qin ( 221 – 207 bc ) and han ( 206 bc –",
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
@@ -1904,7 +1897,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2026,12 +2019,11 @@
     },
     {
         "idx": 42276,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "What does a seahorse do if you grab it and hold it in place underwater? it growls, of course. It may be a small, low sound, barely audible to the human ear, but scientists in brazil report in the journal of zoology that they used a hydrophone to record audio of seahorses in an aquarium tank as they ate, courted, and were handled by humans, and that the fish definitely growled under duress, reports livescience. ( listen to the recordings here. ) this is the first time such a sound has been officially detected coming from a seahorse. \"they are cute, monogamous, and calm fish, and people usually love them, \" co-author antonio souto tells discovery news. When they are eating, their noises resemble quick clicks, almost like the sound a woodpecker makes against trees. When grabbed and held in place in the tank, though — much like their predators grab and hold them before swallowing them — the seahorses vibrate and growl, possibly as an escape mechanism, the scientists surmise. ( still curious about seahorses? check out why they're so curvy. )",
         "split": "train",
         "cleansed_document": [
-            "Dogs and bears aren't the only animals that give off warning growls. Seahorses do too. For the first time, researchers have recorded seahorses growling, a tiny, deep sound not easily detectable by the human ear. These distinctive little fishes growl in response to stress, specifically the stress of being captured and handled, according to a new study published online june 26 in the journal of zoology. Researchers and aquarium enthusiasts have long known that seahorses often vibrate angrily when handled, said study researcher tacyana oliveira, a scientist at universidade estadual da paraíba, in brazil. [ listen to the seahorse growls and grunts ] \" there are many people that mentioned the seahorses make these vibrations, but nobody actually did the experiments and the recordings to check that there were sounds, \" oliveira told live science. Many fish make sounds, though humans are rarely around to hear. A fish called the black drum makes a low booming sound as a mating call, for example, and clownfish chirp. Some fish vibrate their swim bladders to make sounds; others rub their bones",
-            "While being grounded is every human kid's nightmare, literally caging its young in a nest is part of what makes the greater hornbill such a great dad. Greater hornbills are native to asia and prominently identifiable by their huge golden horn, called a casque. After mating with a female, the male hornbill will help the female enclose herself and their eggs in the hollow of a tree for safekeeping from predators. The male feeds the female through a small opening while she incubates the eggs. Generally, only one out of two eggs will hatch. Shortly after the chick hatches, the mother breaks her way out of the nest. But these parents aren't done yet. With the help of the chick, they rebuild the \"wall, \" shutting him or her in. Mom and dad bring food by regularly, feeding the chick until its old enough to break out of the nest and live on its own. Seahorse dads might have it easier than most because of their unique appearance. They can camouflage with their surroundings; they have built-in pouches to carry"
+            "Dogs and bears aren't the only animals that give off warning growls. Seahorses do too. For the first time, researchers have recorded seahorses growling, a tiny, deep sound not easily detectable by the human ear. These distinctive little fishes growl in response to stress, specifically the stress of being captured and handled, according to a new study published online june 26 in the journal of zoology. Researchers and aquarium enthusiasts have long known that seahorses often vibrate angrily when handled, said study researcher tacyana oliveira, a scientist at universidade estadual da paraíba, in brazil. [ listen to the seahorse growls and grunts ] \" there are many people that mentioned the seahorses make these vibrations, but nobody actually did the experiments and the recordings to check that there were sounds, \" oliveira told live science. Many fish make sounds, though humans are rarely around to hear. A fish called the black drum makes a low booming sound as a mating call, for example, and clownfish chirp. Some fish vibrate their swim bladders to make sounds; others rub their bones"
         ],
         "raw_document": [
             "The it history society ( iths ) is a world-wide group of over 500 members working together to assist in and promote the documentation, preservation, cataloging, and researching of information technology ( it ) history. We offer a place where individuals, academicians, corporate archivists, curators of public institutions, and hobbyists alike can gather and share information and resources. This catalog of resource sites concerning it history is the only one of its kind and is a valuable resource for it historians and archivists alike.",
@@ -2048,7 +2040,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2078,12 +2070,11 @@
     },
     {
         "idx": 42278,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Brett rossi — the porn star charlie sheen pretended to marry, then actually got engaged to, then split with weeks before their wedding — was rushed to a hospital over the weekend after apparently overdosing, sources tell radar. \" she still has not gotten over the breakup, \" an insider says. \" it's been four or five weeks, but brett is taking it very hard. \" her stomach was pumped and she reportedly spent two nights in the hospital, one of them in intensive care. Another source says sheen is \" very concerned, \" and sheen's rep confirms that the two have been in contact. Click for more.",
         "split": "train",
         "cleansed_document": [
-            "Charlie sheen and porn star brett rossi were once scheduled to walk down the aisle later this month. But just weeks after their breakup, radaronline.com has learned, rossi was rushed to the hospital in los angeles this weekend after suffering an apparent overdose. Rossi was found unresponsive at her home by a close friend this weekend, an insider tells radar exclusively. \"it was an overdose, \" the source said. \"it is not known what she overdosed on. \" photos: drugs, guns &amp; hookers — charlie sheen's 23 most stupid &amp; bizarre moments rossi was rushed to cedars-sinai medical center, according to the insider, where her stomach was pumped and she spent one night in the intensive care unit. She was later transferred to regular care for another night, said the source. Though rossi is recovering well physically, the insider said the incident is just another sign of the emotional toll that her breakup from anger management star sheen is taking. \"it's been four or five weeks, but brett is taking it very hard, \" the insider said. \"she still has not gotten over the breakup. \" photos: hollywood bodyguards tell all — who steals, sexts, does drugs &amp; more star secrets revealed for his part, sheen is \"very concerned \" about rossi, and \"is in communication with her, \" said",
-            "It's over! radaronline.com has learned that charlie sheen has split with his porn star fiancée, brett rossi, just weeks before their planned november wedding. Sheen confirmed the breakup exclusively to radar. \"scotty and i had a great year together as we traveled the world and crossed a lot of things off our bucket list, \" sheen said in a statement to radar via his publicist, jeff ballard. \"she's a terrific gal, but we've mutually decided to go our separate ways and to not spend the rest of our lives together. \" \"i've decided that my children deserve my focus more than a relationship does right now, \" he continued. \"i still have tremendous fondness for scotty and i wish her all the best. \" the anger management star and former porn queen got engaged in february during a valentine's day trip to hawaii. At the time, rossi called the actor her \"best friend and soulmate. \" photos: meet the parents! hollywood's best &amp; worst moms and dads the couple had planned to wed on november 22, in what would have been sheen's fourth trip down the aisle and rossi's second. Hollywood divorce lawyers tell all: prostitutes, cross dressing, drugs &amp; more shocking split secrets story developing."
+            "Charlie sheen and porn star brett rossi were once scheduled to walk down the aisle later this month. But just weeks after their breakup, radaronline.com has learned, rossi was rushed to the hospital in los angeles this weekend after suffering an apparent overdose. Rossi was found unresponsive at her home by a close friend this weekend, an insider tells radar exclusively. \"it was an overdose, \" the source said. \"it is not known what she overdosed on. \" photos: drugs, guns &amp; hookers — charlie sheen's 23 most stupid &amp; bizarre moments rossi was rushed to cedars-sinai medical center, according to the insider, where her stomach was pumped and she spent one night in the intensive care unit. She was later transferred to regular care for another night, said the source. Though rossi is recovering well physically, the insider said the incident is just another sign of the emotional toll that her breakup from anger management star sheen is taking. \"it's been four or five weeks, but brett is taking it very hard, \" the insider said. \"she still has not gotten over the breakup. \" photos: hollywood bodyguards tell all — who steals, sexts, does drugs &amp; more star secrets revealed for his part, sheen is \"very concerned \" about rossi, and \"is in communication with her, \" said"
         ],
         "raw_document": [
             "Charlie sheen and porn star brett rossi were once scheduled to walk down the aisle later this month. But just weeks after their breakup, radaronline.com has learned, rossi was rushed to the hospital in los angeles this weekend after suffering an apparent overdose. Rossi was found unresponsive at her home by a close friend this weekend, an insider tells radar exclusively. \"it was an overdose, \" the source said. \"it is not known what she overdosed on. \" photos: drugs, guns &amp; hookers — charlie sheen's 23 most stupid &amp; bizarre moments rossi was rushed to cedars-sinai medical center, according to the insider, where her stomach was pumped and she spent one night in the intensive care unit. She was later transferred to regular care for another night, said the source. Though rossi is recovering well physically, the insider said the incident is just another sign of the emotional toll that her breakup from anger management star sheen is taking. \"it's been four or five weeks, but brett is taking it very hard, \" the insider said. \"she still has not gotten over the breakup. \" photos: hollywood bodyguards tell all — who steals, sexts, does drugs &amp; more star secrets revealed for his part, sheen is \"very concerned \" about rossi, and \"is in communication with her, \" said",
@@ -2098,7 +2089,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2128,13 +2119,12 @@
     },
     {
         "idx": 42280,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Bad news for chris brown: authorities tell reuters that frank ocean wants brown prosecuted over sunday's parking spot brawl, and if charges are filed, brown's probation in the rihanna assault case could be revoked. Ocean — and witnesses — say brown started the fight, but brown apparently feels very much the victim in the situation: yesterday he posted a picture of jesus on the cross to instagram and captioned it, \" painting the way i feel today. Focus on what matters! \" tmz has more details on the fight: a witness says brown tried to shake ocean's hand in the recording studio parking lot, but ocean just laughed and refused, leading an angry brown to punch him. The singers'respective \" crews \" got into an all-out melee, eventually ending up inside the studio and breaking \" almost everything in the room, \" the source says. But brown insists he didn't start the fight, and sources tell tmz he's eager to tell police his side of the story.",
         "split": "train",
         "cleansed_document": [
             "Chris brown fight witness says cb swung first chris brown swung first after frank ocean diss... Says witness exclusive threw the first punch in his brawl with... After frank disrespected the singer in front of his boys... An eyewitness tells tmz.according to someone who was on scene, chris lost his cool in the parking lot of the famous westlake recording studios in l.a. Sunday when frank refused to shake his hand.we're told frank simply laughed at the gesture... And chris was so pissed he coldcocked ocean and started an all-out war. As we first reported, chris denies being the aggressor.the fight quickly moved to the lobby of the studio... And sources say the brawling posses demolished the place -- \" they managed to break almost everything in the room and scare all of the staff members working \" says the witness.we're told the receptionist called 911... And chris booked it. As tmz",
-            "Chris brown i want to talk to cops about frank ocean fight chris brown -- i want to talk to cops about frank ocean fight exclusive swears he didn't start sunday night's violent brawl with... And he's champing at the bit to tell cops what went down in the recording studio parking lot... Tmz has learned.law enforcement sources tell us... Chris ' lawyer,, has already contacted detectives and said the singer is ready, willing and able to give them the blow-by-blow, because he knows he did nothing wrong.what's more... Sources say geragos'team has surveillance video of the last part of the fight, and chris is as clean as a whistle -- not throwing a single punch.but here's the thing. We're told the video also clears frank ocean -- he never takes a swing at anyone. The fighting is between the two posses.the",
-            "Chris brown accepts the award for best r&b; album for \" f.a.m.e. \" at the 54th annual grammy awards in los angeles, california, february 12, 2012. When fashion models take a tumble on the runway. Los angeles ( reuters ) - rising r&b; artist frank ocean wants fellow singer chris brown prosecuted following a brawl over a parking space at a los angeles-area recording studio, authorities said on monday. Brown is serving five years probation for assaulting his on-and-off girlfriend rihanna in 2009 and risks having his probation revoked should charges be filed. In the incident on sunday, sheriff's deputies responded to a call about a fight involving six men in west hollywood. The deputies cited witnesses as saying that the grammy-winning brown, 23, punched ocean during the brief altercation. No charges have yet been filed, but ocean \" is desirous of prosecution in this incident,"
+            "Chris brown i want to talk to cops about frank ocean fight chris brown -- i want to talk to cops about frank ocean fight exclusive swears he didn't start sunday night's violent brawl with... And he's champing at the bit to tell cops what went down in the recording studio parking lot... Tmz has learned.law enforcement sources tell us... Chris ' lawyer,, has already contacted detectives and said the singer is ready, willing and able to give them the blow-by-blow, because he knows he did nothing wrong.what's more... Sources say geragos'team has surveillance video of the last part of the fight, and chris is as clean as a whistle -- not throwing a single punch.but here's the thing. We're told the video also clears frank ocean -- he never takes a swing at anyone. The fighting is between the two posses.the"
         ],
         "raw_document": [
             "Chris brown fight witness says cb swung first chris brown swung first after frank ocean diss... Says witness exclusive threw the first punch in his brawl with... After frank disrespected the singer in front of his boys... An eyewitness tells tmz.according to someone who was on scene, chris lost his cool in the parking lot of the famous westlake recording studios in l.a. Sunday when frank refused to shake his hand.we're told frank simply laughed at the gesture... And chris was so pissed he coldcocked ocean and started an all-out war. As we first reported, chris denies being the aggressor.the fight quickly moved to the lobby of the studio... And sources say the brawling posses demolished the place -- \" they managed to break almost everything in the room and scare all of the staff members working \" says the witness.we're told the receptionist called 911... And chris booked it. As tmz",
@@ -2151,18 +2141,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 42281,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "This should be a joyful time in kim kardashian's life, but — in addition to finding out that pregnancy is \" not, like, fun \" — the mom-to-be is also fuming at her estranged husband, kris humphries, who won't cooperate with her divorce plans. \" kim is seeing red because she is still legally married to kris humphries, \" so she can't \" fully embrace \" the pregnancy happiness, a source tells radar. If kris weren't so \" hellbent on dragging her name through the mud by prolonging the divorce proceedings, \" she'd probably already be married to kanye west by now, the source adds. Plus, there's one other little matter: if kim and kris are still married by the time she gives birth, which they likely will be, the state of california will presume humphries is the father, tmz reports. But when all is said and done, a happy ending: this little bundle of joy could make kardashian and west more than $ 16 million before he or she even enters the world, a source tells the sun. Think reality specials following kim on doctor visits and other fun pregnancy errands, plus kardashian-endorsed baby products. None of those millions, however, will come from jenny craig or medifast: hilariously, the companies tell tmz they are absolutely not interested in making post-pregnancy weight loss deals with kardashian. ( click for six telltale signs kardashian was pregnant. )",
         "split": "train",
         "cleansed_document": [
             "By jen heger – radar assistant managing editor pregnant reality tv star kim kardashian is venting to close friends that her estranged husband, kris humphries, is ruining her life because he is \"hell bent on dragging her name through the mud by prolonging the divorce proceedings \" and claims if not for the delay, she'd already be married to her baby daddy, kanye west, by now, radaronline.com is exclusively reporting. \"kim is seeing red because she is still legally married to kris humphries. Kim is overjoyed at the news that she is pregnant with kanye's baby, but she isn't able to fully embrace it because of kris. Kim feels that kris is hell bent on dragging her name through the mud by prolonging the divorce proceedings, \" a source close to the situation tells radaronline.com exclusively. Photos: kim kardashian's simple",
-            "You've probably heard the news by now: and kanye west are expecting their first child together. Although they don't usually shy away from the spotlight, the pair kept their good news under wraps until the wee hours of dec. 31, when west announced his girlfriend's pregnancy during a concert in atlantic city, n.j. But was the writing on the wall even before west's announcement? celebuzz has gathered six clues that kim might have given away during the past month. The obvious suspect? her online footprints, of course! 1. Maternal instincts kardashian was in a nurturing mood on dec. 14. In a series of tweets, the proud aunt didn't miss a chance to coo over her nephew mason disick, who was showered with nothing but affection on his third birthday. \"love you mase, \" she shared. 2.",
-            "The seed for this crawl was a list of every host in the wayback machine this crawl was run at a level 1 ( urls including their embeds, plus the urls of all outbound links including their embeds ) the warc files associated with this crawl are not currently available to the general public."
+            "You've probably heard the news by now: and kanye west are expecting their first child together. Although they don't usually shy away from the spotlight, the pair kept their good news under wraps until the wee hours of dec. 31, when west announced his girlfriend's pregnancy during a concert in atlantic city, n.j. But was the writing on the wall even before west's announcement? celebuzz has gathered six clues that kim might have given away during the past month. The obvious suspect? her online footprints, of course! 1. Maternal instincts kardashian was in a nurturing mood on dec. 14. In a series of tweets, the proud aunt didn't miss a chance to coo over her nephew mason disick, who was showered with nothing but affection on his third birthday. \"love you mase, \" she shared. 2."
         ],
         "raw_document": [
             "By jen heger – radar assistant managing editor pregnant reality tv star kim kardashian is venting to close friends that her estranged husband, kris humphries, is ruining her life because he is \"hell bent on dragging her name through the mud by prolonging the divorce proceedings \" and claims if not for the delay, she'd already be married to her baby daddy, kanye west, by now, radaronline.com is exclusively reporting. \"kim is seeing red because she is still legally married to kris humphries. Kim is overjoyed at the news that she is pregnant with kanye's baby, but she isn't able to fully embrace it because of kris. Kim feels that kris is hell bent on dragging her name through the mud by prolonging the divorce proceedings, \" a source close to the situation tells radaronline.com exclusively. Photos: kim kardashian's simple",
@@ -2181,7 +2170,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2231,19 +2220,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 42284,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The south carolina police officer who shot and killed zachary hammond has been fired more than a year after the unarmed 19-year-old's death. Seneca police chief john covington declined to comment further on the firing of mark tiller, a six-year veteran of the force who had been on paid leave since the july 26, 2015, shooting during a drug sting in a hardee's parking lot, the state reports. In a version of events hammond family lawyer eric bland called \" ridiculous, \" police said tiller shot hammond because he \" felt threatened \" and believed the teen was trying to run him over. Dashcam video, however, revealed that tiller shot hammond through a side window as he tried to drive away. Earlier this year, the teen's family reached a $ 2.15 million settlement with the city over the incident, which is still being investigated by the fbi and the justice department, the guardian reports. \" one of the nagging questions for the hammond family was how could lt. Tiller remain employed after chief covington and the city administration saw the video of zachary's killing, \" bland said in a statement, per the new york times. \" today, that question was answered. \" ( a witness claimed to have seen cops high-five hammond's corpse. )",
         "split": "train",
         "cleansed_document": [
             "Dash cam video of zachary hammond shooting on july 26, 2015, 19-year-old zachary hammond, of seneca, was shot and killed by lt. Mark tiller of the seneca police department. Sled closed its investigation of the shooting and recommended that no charges should be filed against tiller.",
             "Lieutenant mark tiller, who shot and killed the 19-year-old in south carolina in july 2015, fired from seneca police force for unspecified reason a police officer who was not charged in the shooting death of an unarmed south carolina teenager is being fired from the force more than a year after the incident. Zachary hammond shooting: officer who killed teen avoids criminal charges read more the family of zachary hammond, who was 19 when he was shot and killed by lieutenant mark tiller in july 2015, said they had \"never lost hope \" of such an outcome. Seneca police chief john covington said in a short statement that tiller was being terminated and would stay on the payroll until friday. He refused to give a reason, calling it a personnel matter. A state prosecutor did not press charges against tiller for the killing of hammond, saying while tiller might have made a bad decision in heading toward hammond's moving car, the officer had less than three seconds to react and broke no law. Hammond was killed while driving away from a drug sting operation. A dashboard recording showed that the teen was shot from the side",
-            "Video a south carolina police lieutenant who fatally shot a 19-year-old man during an attempted drug arrest in a hardee's parking lot last year has been fired from his job, the police chief said. The officer contended that he was acting in self-defense when the suspect drove a car toward him. John covington, the chief of the police in seneca, s.c., said in an emailed statement on monday that lt. Mark tiller had been terminated from his position on the force. In the statement, which was sent over the weekend to local media including the state newspaper, chief covington gave no reason for the termination and declined to answer further questions on what he called a personnel matter. The lieutenant's final day on the payroll will be sept. 9, he said. Lt. Tiller had been on paid administrative leave since the shooting, which took place on july 26, 2015, during a sting operation targeting a 19-year-old man, zachary hammond, and a female companion. Police officers suspected a drug deal, and lt. Tiller used his patrol car to block mr. Hammond's vehicle when he pulled into a hardee",
-            "Rating is available when the video has been rented. This feature is not available right now. Please try again later."
+            "Video a south carolina police lieutenant who fatally shot a 19-year-old man during an attempted drug arrest in a hardee's parking lot last year has been fired from his job, the police chief said. The officer contended that he was acting in self-defense when the suspect drove a car toward him. John covington, the chief of the police in seneca, s.c., said in an emailed statement on monday that lt. Mark tiller had been terminated from his position on the force. In the statement, which was sent over the weekend to local media including the state newspaper, chief covington gave no reason for the termination and declined to answer further questions on what he called a personnel matter. The lieutenant's final day on the payroll will be sept. 9, he said. Lt. Tiller had been on paid administrative leave since the shooting, which took place on july 26, 2015, during a sting operation targeting a 19-year-old man, zachary hammond, and a female companion. Police officers suspected a drug deal, and lt. Tiller used his patrol car to block mr. Hammond's vehicle when he pulled into a hardee"
         ],
         "raw_document": [
             "Dash cam video of zachary hammond shooting on july 26, 2015, 19-year-old zachary hammond, of seneca, was shot and killed by lt. Mark tiller of the seneca police department. Sled closed its investigation of the shooting and recommended that no charges should be filed against tiller.",
@@ -2262,7 +2250,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2319,7 +2307,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2352,12 +2340,11 @@
     },
     {
         "idx": 42288,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "You're not going to believe this, but myspace still exists. This week, the once-mighty social network showed off a radical redesign in the hopes of halting its ongoing slide toward oblivion. \" we're hard at work building a new myspace, entirely from scratch, \" its webpage boasted, calling on fans to join \" our brand new community. \" the new myspace will continue to focus on music, the bbc reports, allowing users to control audio content from a navigation panel, and pair playlists with photo albums. There will also be a \" discover \" tab that will help you find new artists, videos, and news. In a sign of how far the site has fallen in the social media pecking order, the new design allows users to login using their facebook and twitter accounts. You can see a video of the new look here. \" it looks … pretty, \" the la times writes, comparing it to a \" visual combination of facebook's timeline and pintrest. \" the video also prominently features justin timberlake, now a myspace co-owner.",
         "split": "train",
         "cleansed_document": [
-            "There's a new myspace coming, and it looks.... Pretty. The site that once ruled the social networking space released a preview video monday showing a newly imagined myspace that provides an airy environment for artists to connect with their fans. Whether it is enough to save the troubled site remains to be seen. Like facebook, the new myspace will let users make connections with friends, and post photos and comments to what looks like a visual combination of facebook's timeline and pinterest. ( i think it's nicer looking than both. ) a \" discover \" section points the user to new music as well as concert events. Musicians can also use the service to find their most influential fans and send them messages directly. The focus on musicians is no accident. Even after myspace was eclipsed by facebook as the most popular social networking site on the internet, it continued to be popular with recording artists. In 2011, a survey of myspace's registered users found that 60 % said they continued to stay on the site in the hope of getting discovered, according to forbes.com. \" if you think about the myspace brand, to the average consumer it was negative, but to the artist community it was positive, \" tim vanderhook, one of myspace's new owners, told forbes. \" they need myspace to succeed. \" myspace was founded in 2003 and was bought by news corp. In 2005 for $ 580 million. The site enjoyed a three-year reign as the most visited social networking site on the internet until it was eclipsed by facebook in 2008. It never found its footing again, and news corp. Sold the company to tim vanderhook and his brother, chris vanderhook, in 2011 for $ 35 million. The vanderhooks enlisted justin timberlake as a major investor, and he is featured prominently in the preview video. There is no word yet about when the company will launch the updated site, but it does point viewers to the website new.myspace.com, where if you provide your email address the company says it will provide you with an invitation to the new site \" very soon. \" you ' ll also find this message: \" we're hard at work building the new myspace, entirely from scratch. But we're staying true to our roots in one important way — empowering people to express themselves however they want. So whether you're a musician, photographer, filmmaker, designer or just a dedicated fan, we '",
-            "Enter your email or username. We ' ll email instructions on how to reset your password. Need help? learn more about how to retrieve an existing account."
+            "There's a new myspace coming, and it looks.... Pretty. The site that once ruled the social networking space released a preview video monday showing a newly imagined myspace that provides an airy environment for artists to connect with their fans. Whether it is enough to save the troubled site remains to be seen. Like facebook, the new myspace will let users make connections with friends, and post photos and comments to what looks like a visual combination of facebook's timeline and pinterest. ( i think it's nicer looking than both. ) a \" discover \" section points the user to new music as well as concert events. Musicians can also use the service to find their most influential fans and send them messages directly. The focus on musicians is no accident. Even after myspace was eclipsed by facebook as the most popular social networking site on the internet, it continued to be popular with recording artists. In 2011, a survey of myspace's registered users found that 60 % said they continued to stay on the site in the hope of getting discovered, according to forbes.com. \" if you think about the myspace brand, to the average consumer it was negative, but to the artist community it was positive, \" tim vanderhook, one of myspace's new owners, told forbes. \" they need myspace to succeed. \" myspace was founded in 2003 and was bought by news corp. In 2005 for $ 580 million. The site enjoyed a three-year reign as the most visited social networking site on the internet until it was eclipsed by facebook in 2008. It never found its footing again, and news corp. Sold the company to tim vanderhook and his brother, chris vanderhook, in 2011 for $ 35 million. The vanderhooks enlisted justin timberlake as a major investor, and he is featured prominently in the preview video. There is no word yet about when the company will launch the updated site, but it does point viewers to the website new.myspace.com, where if you provide your email address the company says it will provide you with an invitation to the new site \" very soon. \" you ' ll also find this message: \" we're hard at work building the new myspace, entirely from scratch. But we're staying true to our roots in one important way — empowering people to express themselves however they want. So whether you're a musician, photographer, filmmaker, designer or just a dedicated fan, we '"
         ],
         "raw_document": [
             "There's a new myspace coming, and it looks.... Pretty. The site that once ruled the social networking space released a preview video monday showing a newly imagined myspace that provides an airy environment for artists to connect with their fans. Whether it is enough to save the troubled site remains to be seen. Like facebook, the new myspace will let users make connections with friends, and post photos and comments to what looks like a visual combination of facebook's timeline and pinterest. ( i think it's nicer looking than both. ) a \" discover \" section points the user to new music as well as concert events. Musicians can also use the service to find their most influential fans and send them messages directly. The focus on musicians is no accident. Even after myspace was eclipsed by facebook as the most popular social networking site on the internet, it continued to be popular with recording artists. In 2011, a survey of myspace's registered users found that 60 % said they continued to stay on the site in the hope of getting discovered, according to forbes.com. \" if you think about the myspace brand, to the average consumer it was negative, but to the artist community it was positive, \" tim vanderhook, one of myspace's new owners, told forbes. \" they need myspace to succeed. \" myspace was founded in 2003 and was bought by news corp. In 2005 for $ 580 million. The site enjoyed a three-year reign as the most visited social networking site on the internet until it was eclipsed by facebook in 2008. It never found its footing again, and news corp. Sold the company to tim vanderhook and his brother, chris vanderhook, in 2011 for $ 35 million. The vanderhooks enlisted justin timberlake as a major investor, and he is featured prominently in the preview video. There is no word yet about when the company will launch the updated site, but it does point viewers to the website new.myspace.com, where if you provide your email address the company says it will provide you with an invitation to the new site \" very soon. \" you ' ll also find this message: \" we're hard at work building the new myspace, entirely from scratch. But we're staying true to our roots in one important way — empowering people to express themselves however they want. So whether you're a musician, photographer, filmmaker, designer or just a dedicated fan, we '",
@@ -2372,7 +2359,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2402,12 +2389,11 @@
     },
     {
         "idx": 42290,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A rep for the us consulate in hong kong ended her statement on an optimistic note: \" we have a long track record of successful port visits to hong kong, and we expect that will continue. \" but that track record won't involve a port call in october. In her statement, she confirmed that china did not approve a request for the navy's amphibious assault ship, the uss wasp, to dock in hong kong next month. The ap reports the last time such a denial occurred was 2016, amidst friction over the south china sea. At the root of the issue is not just tariffs, but russia: bloomberg explains that as part of an effort to penalize russia for election interference, the trump administration last week sanctioned china's equipment development department and its director over an alleged purchase of russian aircraft and weaponry. \" this is a tit-for-tat response, as china and russia are really very annoyed about it, \" a senior fellow with a singapore-based institute tells bloomberg. The wall street journal, which first reported the news, picks up a quote from maj. Gen. Huang xueping of the central military commission office for international military cooperation: he described the country's russia dealings as in compliance with international law and stated \" china demands the us side immediately correct its mistake and withdraw the sanctions, and the chinese military reserves the right to take further countermeasures. \" another countermeasure it has already taken: it axed a high-level military meeting with the us, and recalled vice adm. Shen jinlong, who was in the country.",
         "split": "train",
         "cleansed_document": [
-            "Washington — the chinese government denied a u.s. Navy ship permission for a port visit to hong kong in october, u.s. Military officials said, a decision issued as beijing also canceled a high-level naval meeting in the u.s. The rebuffs come as tensions build between the two countries over a range of military and economic differences. Last week,...",
-            "File - in this april 13, 2018, file photo, taiwanese f-16 jet fighters fly in close formation during a navy exercise at suao naval station in yilan county, northeastern taiwan. China demanded tuesday,... ( associated press ) file - in this april 13, 2018, file photo, taiwanese f-16 jet fighters fly in close formation during a navy exercise at suao naval station in yilan county, northeastern taiwan. China demanded tuesday, sept. 25, 2018, that the u.s. Cancel a $ 330 million sale of military equipment to taiwan, warning of... ( associated press ) file - in this april 13, 2018, file photo, taiwanese f-16 jet fighters fly in close formation during a navy exercise at suao naval station in yilan county, northeastern taiwan. China demanded tuesday, sept. 25, 2018, that the u.s. Cancel a $ 330 million sale of military equipment to taiwan, warning of... ( associated press ) file - in this april 13, 2018, file photo, taiwanese f-16 jet fighters fly in close formation during a navy exercise at suao naval station in yilan county, northeastern taiwan. China demanded tuesday,... ( associated"
+            "Washington — the chinese government denied a u.s. Navy ship permission for a port visit to hong kong in october, u.s. Military officials said, a decision issued as beijing also canceled a high-level naval meeting in the u.s. The rebuffs come as tensions build between the two countries over a range of military and economic differences. Last week,..."
         ],
         "raw_document": [
             "David fickling is a bloomberg opinion columnist covering commodities, as well as industrial and consumer companies. He has been a reporter for bloomberg news, dow jones, the wall street journal, the financial times and the guardian. Read more opinion listen to article 4: 47 china has marked the latest ratcheting-up of trade tensions with a misplaced history lesson. Far from worrying about its economic role in the world, the u.s. Should recognize just how well the two nations already support each other, according to a white paper released by china's state council: china-u.s. Bilateral trade has a strong complementarity. The u.s. Stands at the mid- and high-end in global value chains and it exports capital goods and intermediary goods to china. Remaining at the mid- and low-end in global value chains, china mainly exports consumer goods and finished products to the u.s. The two countries play to their comparative strengths and the two-way trade is highly complementary. I've argued frequently in recent months that the trump administration's push for a trade war with china is misguided and likely to fail, lacking in compelling justifications, and driven by a dangerous radicalism. At the same time",
@@ -2424,7 +2410,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2454,7 +2440,7 @@
             "0": 0,
             "1": 0,
             "2": 3,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2510,7 +2496,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 4,
+            "2": 5,
             "3": 0,
             "4": 0
         }
@@ -2590,7 +2576,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2615,7 +2601,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2648,12 +2634,11 @@
     },
     {
         "idx": 42299,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "After almost 41 years in office, utah's sen. Orrin hatch is the longest-serving republican senator in us history — and president trump apparently wants the 83-year-old senate finance committee chairman to seek another term in 2018. Sources tell politico that trump, who will appear with hatch at an event in salt lake city on monday, is pushing for hatch to rethink retirement plans because he doesn't want mitt romney to run for the seat. The sources say trump not only wants to keep romney — a prominent \" never trumper \" before last year's election — out of the senate, he wants to keep hatch around because he values the loyalty the senator has shown since the early days of his campaign. \" hatch is a known entity for trump and has been really good for the president for the most part, \" says kirk jowers, former chairman of romney's political action committee. \" he knows for a fact he's not going to get that with romney. I don't know that he knows what he's going to get with romney, but it's not going to be what he's got with hatch. \" politico's sources say trump has tried to persuade hatch to stay on in phone calls and white house meetings. They will travel together from washington to utah on monday for trump's first trip to the state as president, reports the salt lake tribune. During the visit, trump is expected to sign an executive order shrinking the bears ears and grand staircase escalante national monuments, a move hatch says he is \" incredibly grateful \" for.",
         "split": "train",
         "cleansed_document": [
-            "Donald trump is going all out to persuade seven-term utah sen. Orrin hatch to seek reelection — a push aimed in no small part at keeping the president's longtime nemesis, mitt romney, out of the senate. Romney has been preparing to run for hatch's seat on the long-held assumption that the 83-year-old would retire. Yet hatch, the longest-serving republican senator in history, is now refusing to rule out another campaign — a circumstance romney's infuriated inner circle blames squarely on the president. Their suspicions are warranted: trump has sounded off to friends about how he doesn't like the idea of a sen. Romney. Story continued below the president's mostly behind-the-scenes campaign to sway hatch will burst into public view on monday, when he arrives in salt lake city to hold a well-choreographed event designed to showcase his affection for the powerful senate finance committee chairman. Trump's appearance is ostensibly official in purpose: he will announce his decision to reduce the size of utah's bears ears and grand-staircase escalante national monuments, a cause that hatch has championed. But it's also undeniably political: to use the trappings of presidential power to get a veteran lawmaker to rethink his long anticipated plans to leave the senate. Hatch is slated to ride with trump both ways on air force one — a",
-            "Washington • when air force one descends into salt lake city on monday morning, planes departing and arriving will be held, causing momentary delays for travelers. And president donald trump's motorcade — mixed with pending snow showers — will likely cause some headaches for drivers in utah's capital city as he zips around to meet with mormon church leaders and speak at the state capitol. Trump, visiting utah to announce he ' ll shrink bears ears and grand staircase-escalante national monuments, will be brief — he's spending less than three hours on the ground — but will consume the state's focus for the day. Monday marks trump's first visit to the state as president, though no public events are scheduled for residents to see him. Trump arrives just before 11 a.m. Monday at the utah air national guard base attached to salt lake city international airport. From there, he heads to welfare square to meet with officials from the church of jesus christ of latter-day saints and where he's expected to take a quick tour of the faith's humanitarian efforts for the needy. After that, trump will appear at the capitol to sign an executive order reportedly removing some 2 million acres from the national monuments created by his democratic predecessors in southern utah. Sen. Orrin hatch and interior secretary ryan zinke"
+            "Donald trump is going all out to persuade seven-term utah sen. Orrin hatch to seek reelection — a push aimed in no small part at keeping the president's longtime nemesis, mitt romney, out of the senate. Romney has been preparing to run for hatch's seat on the long-held assumption that the 83-year-old would retire. Yet hatch, the longest-serving republican senator in history, is now refusing to rule out another campaign — a circumstance romney's infuriated inner circle blames squarely on the president. Their suspicions are warranted: trump has sounded off to friends about how he doesn't like the idea of a sen. Romney. Story continued below the president's mostly behind-the-scenes campaign to sway hatch will burst into public view on monday, when he arrives in salt lake city to hold a well-choreographed event designed to showcase his affection for the powerful senate finance committee chairman. Trump's appearance is ostensibly official in purpose: he will announce his decision to reduce the size of utah's bears ears and grand-staircase escalante national monuments, a cause that hatch has championed. But it's also undeniably political: to use the trappings of presidential power to get a veteran lawmaker to rethink his long anticipated plans to leave the senate. Hatch is slated to ride with trump both ways on air force one — a"
         ],
         "raw_document": [
             "Donald trump is going all out to persuade seven-term utah sen. Orrin hatch to seek reelection — a push aimed in no small part at keeping the president's longtime nemesis, mitt romney, out of the senate. Romney has been preparing to run for hatch's seat on the long-held assumption that the 83-year-old would retire. Yet hatch, the longest-serving republican senator in history, is now refusing to rule out another campaign — a circumstance romney's infuriated inner circle blames squarely on the president. Their suspicions are warranted: trump has sounded off to friends about how he doesn't like the idea of a sen. Romney. Story continued below the president's mostly behind-the-scenes campaign to sway hatch will burst into public view on monday, when he arrives in salt lake city to hold a well-choreographed event designed to showcase his affection for the powerful senate finance committee chairman. Trump's appearance is ostensibly official in purpose: he will announce his decision to reduce the size of utah's bears ears and grand-staircase escalante national monuments, a cause that hatch has championed. But it's also undeniably political: to use the trappings of presidential power to get a veteran lawmaker to rethink his long anticipated plans to leave the senate. Hatch is slated to ride with trump both ways on air force one — a",
@@ -2668,7 +2653,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     }
 ]

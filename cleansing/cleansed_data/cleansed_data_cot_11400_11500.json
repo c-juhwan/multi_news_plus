@@ -124,7 +124,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -159,12 +159,11 @@
     },
     {
         "idx": 11406,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two media companies have asked a judge to make public donald trump's 1990 divorce records, contending they're \" directly relevant \" to the presidential campaign, usa today reports. After 14 years of marriage, ivana trump cited \" cruel and inhuman treatment \" when filing for divorce. Though donald trump's lawyer at the time told the new york times the cruelty stemmed from his public appearances with marla maples, news of a divorce deposition in which ivana alleged she had been sexually assaulted by her husband surfaced a few years later and again bubbled up during the campaign. The new york times co. And gannett co. On thursday asked a new york judge to unseal the records. The media companies made the case that doing so would \" resolve [ that ] ongoing campaign controversy \" and provide info to voters about the gop candidate's character. A 1993 biography described the alleged 1989 incident by way of the deposition. Ivana trump accused her husband of \" rape, \" according to the daily beast, but later added that while she felt \" violated, \" it was not \" in a literal or criminal sense \" and she and \" donald are the best of friends. \" the book claimed the alleged episode was in retaliation following a botched scalp surgery that infuriated trump. He has insisted both the assault and the scalp surgery never happened. ( a trump aide apologized in 2015 for saying \" you can't rape your spouse. \" )",
         "split": "train",
         "cleansed_document": [
-            "Gannett and n.y. Times ask court to unseal 1990 trump divorce records in this 1995 file photo, donald and ivana trump were filming a pizza hut commercial. ( photo: tom rees ) gannett co., — the parent company of usa today — and the new york times co. Asked the new york supreme court thursday to unseal the records of donald trump's 1990 divorce from ivana trump. The divorce was granted on the ground of \" cruel and inhuman treatment \" but donald and ivana trump later reached a settlement. The case has percolated through the news over the years, including stories earlier in the presidential campaign season about whether the billionaire, who is now",
-            "After 11 months of turbo-charged rumors and worldwide publicity over their separation, donald and ivana trump were granted a divorce yesterday. Cruel and inhuman treatment by mr. Trump was cited as the grounds for the uncontested divorce. Who will get what from the troubled trump real-estate, hotel and casino empire was not decided during the brief proceeding before justice phyllis gangel-jacob of state supreme court in manhattan. Mrs. Trump said through her lawyer, michael kennedy, that she would not talk about the case. Mr. Kennedy declined to do anything more than confirm the divorce. Dividing the property mr. Trump, who did not attend the hearing yesterday, issued a two-sentence statement of good will."
+            "Gannett and n.y. Times ask court to unseal 1990 trump divorce records in this 1995 file photo, donald and ivana trump were filming a pizza hut commercial. ( photo: tom rees ) gannett co., — the parent company of usa today — and the new york times co. Asked the new york supreme court thursday to unseal the records of donald trump's 1990 divorce from ivana trump. The divorce was granted on the ground of \" cruel and inhuman treatment \" but donald and ivana trump later reached a settlement. The case has percolated through the news over the years, including stories earlier in the presidential campaign season about whether the billionaire, who is now"
         ],
         "raw_document": [
             "Gannett and n.y. Times ask court to unseal 1990 trump divorce records in this 1995 file photo, donald and ivana trump were filming a pizza hut commercial. ( photo: tom rees ) gannett co., — the parent company of usa today — and the new york times co. Asked the new york supreme court thursday to unseal the records of donald trump's 1990 divorce from ivana trump. The divorce was granted on the ground of \" cruel and inhuman treatment \" but donald and ivana trump later reached a settlement. The case has percolated through the news over the years, including stories earlier in the presidential campaign season about whether the billionaire, who is now",
@@ -183,7 +182,7 @@
             "0": 0,
             "1": 4,
             "2": 3,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -211,7 +210,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -267,7 +266,7 @@
             "0": 0,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -292,7 +291,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -342,7 +341,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -378,17 +377,15 @@
             "2": 0,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 1
         }
     },
     {
         "idx": 11414,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "You might not have heard, but prince william is getting hitched in six short days, and the confirmed guest list is out today. A list of the notables, as per the ap: foreign royals: denmark's queen margrethe; norway's king harald and queen sonja; spain's queen sofia; prince albert ii of monaco and fiancee charlene wittstock; crown prince salman bin hamad al khalifa of bahrain military: holly dyer, sister of 2nd lt. Joanna dyer, killed in iraq; susie roberts, widow of william's sandhurst platoon commander alexis roberts, killed in afghanistan; all 27 members of william's search and rescue unit. Celebs: david and victoria beckham; elton john and david furnish; rowan atkinson; guy ritchie; joss stone; mario testino politicians: british pm david cameron; british pm minister nick clegg; labour party leader ed miliband; us ambassador louis susman click for more on the royal wedding, or here for who's not going. For the truly obsessed, go to the bbc's entire section on it.",
         "split": "train",
-        "cleansed_document": [
-            "This will appear next to all of your comments this will not appear anywhere on newser"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Explore our hi-def wedding picture zoom in to this image of the procession, and see if you can find yourself in the crowd",
             "This will appear next to all of your comments this will not appear anywhere on newser"
@@ -402,17 +399,16 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 11415,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "England could face punishment if fans at the world cup chant insulting pro-brexit sentiments, fifa has said. Per the telegraph, rules against \"insulting or political slogans \" and \"uttering insulting words or sounds \" at the biggest event in soccer might mean sanctions against the team should fans veer from the diplomatic at the upcoming match against belgium. The match will be the first for england against a european union opponent in this year's world cup, which is itself the first since the uk voted to leave the eu. What's more, belgium is home to the eu's de facto capital in brussels. The times of london is reporting that thursday's match has been dubbed the \" brexit derby, \" suggesting it could hark back to the 2016 european championship in marseille, where a few england fans chanted \" f --- off, europe \" during a series of riots in the days leading up to the brexit vote.",
         "split": "train",
         "cleansed_document": [
-            "Fans celebrate thrashing panama. Thursday's game against belgium has been dubbed the \"brexit derby \" toby melville/reuters england's world cup success brought a welcome weekend boost to pubs and breweries but now fans are being warned not to let the excitement go to their heads. The football association could be fined if england supporters are caught singing offensive anti-eu chants during thursday's match against belgium, fifa said yesterday england's final group stage game in the kaliningrad stadium is being called the brexit derby as political tensions with brussels are transferred to the football pitch. It is england's first match against european opposition at this world cup, provoking fears that some supporters will take the opportunity to express their hostility to the european union. A small number of england fans chanted \"f*** off europe, we're all voting out \", and \"sit down if you …",
-            "Iran's morteza pouraliganji sits on the pitch at the end of the group b match between iran and portugal at the 2018 soccer world cup at the mordovia arena in saransk, russia, monday, june 25, 2018. ( ap... ( associated press ) iran's morteza pouraliganji sits on the pitch at the end of the group b match between iran and portugal at the 2018 soccer world cup at the mordovia arena in saransk, russia, monday, june 25, 2018. ( ap photo/darko bandic ) ( associated press ) iran's morteza pouraliganji sits on the pitch at the end of the group b match between iran and portugal at the 2018 soccer world cup at the mordovia arena in saransk, russia, monday, june 25, 2018. ( ap photo/darko bandic ) ( associated press ) iran's morteza pouraliganji sits on the pitch at the end of the group b match between iran and portugal at the 2018 soccer world cup at the mordovia arena in saransk, russia, monday, june 25, 2018. ( ap... ( associated press ) moscow ( ap ) — eight teams have secured spots in the knockout stage at the world cup after the chaotic conclusions of monday's matches. Nine teams have been eliminated. Fifteen teams still have a chance. With two groups finished and six still playing, here's a look at who's in, who's out and possible scenarios at the world cup. Group a uruguay locked up first place with a 3-0 win monday over russia, which advanced anyway after winning its first two matches. Uruguay will play portugal on saturday in sochi. Russia takes on spain on sunday at luzhniki stadium, the larger of the two moscow venues. Egypt and saudi arabia have been eliminated"
+            "Fans celebrate thrashing panama. Thursday's game against belgium has been dubbed the \"brexit derby \" toby melville/reuters england's world cup success brought a welcome weekend boost to pubs and breweries but now fans are being warned not to let the excitement go to their heads. The football association could be fined if england supporters are caught singing offensive anti-eu chants during thursday's match against belgium, fifa said yesterday england's final group stage game in the kaliningrad stadium is being called the brexit derby as political tensions with brussels are transferred to the football pitch. It is england's first match against european opposition at this world cup, provoking fears that some supporters will take the opportunity to express their hostility to the european union. A small number of england fans chanted \"f*** off europe, we're all voting out \", and \"sit down if you …"
         ],
         "raw_document": [
             "Fans celebrate thrashing panama. Thursday's game against belgium has been dubbed the \"brexit derby \" toby melville/reuters england's world cup success brought a welcome weekend boost to pubs and breweries but now fans are being warned not to let the excitement go to their heads. The football association could be fined if england supporters are caught singing offensive anti-eu chants during thursday's match against belgium, fifa said yesterday england's final group stage game in the kaliningrad stadium is being called the brexit derby as political tensions with brussels are transferred to the football pitch. It is england's first match against european opposition at this world cup, provoking fears that some supporters will take the opportunity to express their hostility to the european union. A small number of england fans chanted \"f*** off europe, we're all voting out \", and \"sit down if you …",
@@ -427,7 +423,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -486,12 +482,11 @@
     },
     {
         "idx": 11418,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Not everyone is thrilled with cee lo green's lyric change on new year's eve, msnbc reports. When singing john lennon's \" imagine \" at new york's times square celebration, he changed \" nothing to kill or die for, and no religion too \" to \" nothing to kill or die for, and all religion's true. \" green tweeted his explanation, the huffington post reports: \" yo i meant no disrespect.... I was trying to say a world were u could believe what u wanted that's all. \" ( the tweet has been removed from his feed. ) comic colin quinn tweeted about the lyric change, saying green \" ' cleaned it up a little. ' i did the same thing when i changed nwa to ' n-word ' wa. \" other twitter users criticized green's version as poorly sung or cringed at the irony of his wearing jewels and a full-length fur coat while singing \" imagine no possessions. \" among green's defenders: one tweeter who posted that \" nothing could be sillier than defending the sanctity of a pop song — especially one as dull and schmaltzy as ' imagine. ' \"",
         "split": "train",
         "cleansed_document": [
-            "Cee lo green's small change to the lyrics to john lennon's song \" imagine \" is causing a very big uproar. Charged with singing lennon's famous solo-era tune on nbc's new year's eve show shortly before the ball dropped in times square, green changed the lyrics from \" nothing to kill or die for, and no religion too \" to \" nothing to kill or die for, and all religion's true. \" the change didn't go unnoticed, and to preempt criticism, he soon tweeted, \" yo i meant no disrespect by changing the lyric guys! i was trying to say a world were u could believe what u wanted that's all. \" that did little to comfort angered lennon fans, who lashed out over twitter. Watch the performance below ( starting around 4: 00 ) and then read the angry exchanges over twitter. Update 9: 49 am: all of green's tweets have been deleted from his account, but can still be seen below. Watch:",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Cee lo green's small change to the lyrics to john lennon's song \" imagine \" is causing a very big uproar. Charged with singing lennon's famous solo-era tune on nbc's new year's eve show shortly before the ball dropped in times square, green changed the lyrics from \" nothing to kill or die for, and no religion too \" to \" nothing to kill or die for, and all religion's true. \" the change didn't go unnoticed, and to preempt criticism, he soon tweeted, \" yo i meant no disrespect by changing the lyric guys! i was trying to say a world were u could believe what u wanted that's all. \" that did little to comfort angered lennon fans, who lashed out over twitter. Watch the performance below ( starting around 4: 00 ) and then read the angry exchanges over twitter. Update 9: 49 am: all of green's tweets have been deleted from his account, but can still be seen below. Watch:"
         ],
         "raw_document": [
             "Cee lo green's small change to the lyrics to john lennon's song \" imagine \" is causing a very big uproar. Charged with singing lennon's famous solo-era tune on nbc's new year's eve show shortly before the ball dropped in times square, green changed the lyrics from \" nothing to kill or die for, and no religion too \" to \" nothing to kill or die for, and all religion's true. \" the change didn't go unnoticed, and to preempt criticism, he soon tweeted, \" yo i meant no disrespect by changing the lyric guys! i was trying to say a world were u could believe what u wanted that's all. \" that did little to comfort angered lennon fans, who lashed out over twitter. Watch the performance below ( starting around 4: 00 ) and then read the angry exchanges over twitter. Update 9: 49 am: all of green's tweets have been deleted from his account, but can still be seen below. Watch:",
@@ -506,17 +501,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 11419,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Where is the national rifle association in the wake of the connecticut school shooting? not online, where the nra has suspended its facebook account and gone quiet on twitter, the washington post reports. The gun-rights group was promoting \" 10 days of nra giveaways — enter today for a chance to win an auto emergency tool! \" on twitter just before news of the shooting broke, and reactions were not kind, reports the daily dot. \" on the tenth day of christmas the @nra gave to me, an elementary school slaughter, \" tweeted ‏@tbogg. The nra's facebook page — which had just celebrated 1.7 million \" likes \" — was attracting a mix of outrage and support. \" 20 people are dead and most are children, \" posted one critic. \" when will you start to say it's not the guns but the man? \" one defender fired back: \" sick of trolls and liberals coming on here. \" for now the nra's facebook page is redirecting to facebook's homepage, but online silence is nothing new for the nra, reports buzzfeed. The group's twitter account fell silent for a day after the clackamas town center shooting and sikh temple shooting, and nine days after the dark knight massacre.",
         "split": "train",
         "cleansed_document": [
-            "For the overwhelming majority of americans, there's nothing to do in response to the horrific news of a gunman who killed 18 children in a connecticut elementary school. So, in what's becoming an emerging trend in response to news of mass shootings, many gun control advocates are directing their horror at the national rifle association online. As of press time, the nra, the most visible pro-gun lobby in the u.s., hasn't addressed this shooting on its social media sites. Its most recent announcement on both facebook and twitter is from early friday morning, before news of the shootings broke: a contest to give away an unspecified \"auto emergency tool. \" facebook users aghast at the connecticut shooting flocked to the thread. \"more blood on nra today, \" wrote mike wagner. \"20 people are dead and most are children. When will you start to say it's not the guns but the man? \" asked jim hanley. We need stronger laws in this country regarding gun control. \" some nra defenders shot back: \" sick of trolls and liberals coming on here, \" wrote mazeof insanity. \"why are some of you complaining about the giveaway??????? \" but the vast majority were either condemning the nra and gun culture, or lamenting the deaths of the children. On twitter, users reacted similarly. \"can it help out with school shootings? \" ‏@notjustmovies asked of the auto tool",
-            "The seed for this crawl was a list of every host in the wayback machine this crawl was run at a level 1 ( urls including their embeds, plus the urls of all outbound links including their embeds ) the warc files associated with this crawl are not currently available to the general public."
+            "For the overwhelming majority of americans, there's nothing to do in response to the horrific news of a gunman who killed 18 children in a connecticut elementary school. So, in what's becoming an emerging trend in response to news of mass shootings, many gun control advocates are directing their horror at the national rifle association online. As of press time, the nra, the most visible pro-gun lobby in the u.s., hasn't addressed this shooting on its social media sites. Its most recent announcement on both facebook and twitter is from early friday morning, before news of the shootings broke: a contest to give away an unspecified \"auto emergency tool. \" facebook users aghast at the connecticut shooting flocked to the thread. \"more blood on nra today, \" wrote mike wagner. \"20 people are dead and most are children. When will you start to say it's not the guns but the man? \" asked jim hanley. We need stronger laws in this country regarding gun control. \" some nra defenders shot back: \" sick of trolls and liberals coming on here, \" wrote mazeof insanity. \"why are some of you complaining about the giveaway??????? \" but the vast majority were either condemning the nra and gun culture, or lamenting the deaths of the children. On twitter, users reacted similarly. \"can it help out with school shootings? \" ‏@notjustmovies asked of the auto tool"
         ],
         "raw_document": [
             "For the overwhelming majority of americans, there's nothing to do in response to the horrific news of a gunman who killed 18 children in a connecticut elementary school. So, in what's becoming an emerging trend in response to news of mass shootings, many gun control advocates are directing their horror at the national rifle association online. As of press time, the nra, the most visible pro-gun lobby in the u.s., hasn't addressed this shooting on its social media sites. Its most recent announcement on both facebook and twitter is from early friday morning, before news of the shootings broke: a contest to give away an unspecified \"auto emergency tool. \" facebook users aghast at the connecticut shooting flocked to the thread. \"more blood on nra today, \" wrote mike wagner. \"20 people are dead and most are children. When will you start to say it's not the guns but the man? \" asked jim hanley. We need stronger laws in this country regarding gun control. \" some nra defenders shot back: \" sick of trolls and liberals coming on here, \" wrote mazeof insanity. \"why are some of you complaining about the giveaway??????? \" but the vast majority were either condemning the nra and gun culture, or lamenting the deaths of the children. On twitter, users reacted similarly. \"can it help out with school shootings? \" ‏@notjustmovies asked of the auto tool",
@@ -537,7 +531,7 @@
             "1": 5,
             "2": 4,
             "3": 4,
-            "4": 0
+            "4": 4
         }
     },
     {
@@ -587,19 +581,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 11422,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Another white house staffing bombshell: rex tillerson, who has had a rocky public relationship with president trump, is out as secretary of state, reports the washington post. Trump is replacing him with cia chief mike pompeo, a move the president himself confirmed on twitter: pompeo \" will do a fantastic job! \" the president wrote. \" thank you to rex tillerson for his service! \" the shuffle will result in gina haspel replacing pompeo at the cia — pending senate confirmation — making her the agency's first female leader. Tillerson, for his part, increasingly seemed out of sync with the white house, and this move was apparently no different. Cbs news reports he had not spoken with trump and found out with the public. \" the secretary had every intention of staying because of the critical progress made in national security, \" said a department statement, which added that \" he will miss his colleagues \" at state and fellow foreign ministers. Two recent examples of the trump-tillerson distance, per usa today: on monday, tillerson blamed russia for a london assassination, something the white house had stopped short of doing. Tillerson also seemed caught off guard by trump's announcement of a summit with kim jong un of north korea.the post cites statements from both trump and pompeo on the news: trump: \" i want to thank rex tillerson for his service. A great deal has been accomplished over the last fourteen months, and i wish him and his family well. \" pompeo: \" i am deeply grateful to president trump for permitting me to serve as director of the central intelligence agency and for this opportunity to serve as secretary of state, \" he said. \" his leadership has made america safer and i look forward to representing him and the american people to the rest of the world to further america's prosperity. \"",
         "split": "train",
         "cleansed_document": [
             "President trump said tuesday he has ousted secretary of state rex tillerson and plans to nominate cia director mike pompeo to replace him as the nation's top diplomat, orchestrating a major change to his national security team amid delicate outreach that includes possible talks with north korea. Trump and tillerson have had a fraught relationship for many months. Trump told reporters tuesday that he ultimately decided to fire the secretary because they disagreed over strategy in key areas of foreign policy, such as the 2015 iran nuclear deal, the approach to north korea and the overall tone of u.s. Diplomacy. Tillerson said he received a call from trump around noon tuesday, more than three hours after his firing was first reported by the washington post and announced minutes later in a tweet from the president. His voice quavering",
             "President trump has removed rex tillerson as secretary of state and replaced him with current cia director mike pompeo, after months of speculation surrounding tillerson's role in the trump administration, a fact tillerson only learned was official when the announcement was made on tuesday morning. Mr. Trump announced the news of tillerson's ouster on twitter, thanking him for his service. The washington post first reported news of tillerson's firing, shortly before the president's tweet. Mike pompeo, director of the cia, will become our new secretary of state. He will do a fantastic job! thank you to rex tillerson for his service! gina haspel will become the new director of the cia, and the first woman so chosen. Congratulations to all! — donald j. Trump (",
-            "Close here's what we know about mike pompeo, the man who will replace rex tillerson as secretary of state. Usa today secretary of state rex tillerson in brussels on dec. 6, 2017. ( photo: stephanie leco, epa-efe ) washington – after months of disputes with secretary of state rex tillerson, president trump removed him tuesday and nominated cia director mike pompeo to head the state department. White house officials said a tillerson aide was also fired for giving reporters differing accounts of how the secretary of state learned of his fate. The two officials spoke on condition of anonymity because they were not authorized to speak publicly about the move. The officials said they are bracing for more staff changes, citing trump's comment tuesday as he prepared to fly to california: \"",
-            "Mike pompeo, director of the cia, will become our new secretary of state. He will do a fantastic job! thank you to rex tillerson for his service! gina haspel will become the new director of the cia, and the first woman so chosen. Congratulations to all!"
+            "Close here's what we know about mike pompeo, the man who will replace rex tillerson as secretary of state. Usa today secretary of state rex tillerson in brussels on dec. 6, 2017. ( photo: stephanie leco, epa-efe ) washington – after months of disputes with secretary of state rex tillerson, president trump removed him tuesday and nominated cia director mike pompeo to head the state department. White house officials said a tillerson aide was also fired for giving reporters differing accounts of how the secretary of state learned of his fate. The two officials spoke on condition of anonymity because they were not authorized to speak publicly about the move. The officials said they are bracing for more staff changes, citing trump's comment tuesday as he prepared to fly to california: \""
         ],
         "raw_document": [
             "President trump said tuesday he has ousted secretary of state rex tillerson and plans to nominate cia director mike pompeo to replace him as the nation's top diplomat, orchestrating a major change to his national security team amid delicate outreach that includes possible talks with north korea. Trump and tillerson have had a fraught relationship for many months. Trump told reporters tuesday that he ultimately decided to fire the secretary because they disagreed over strategy in key areas of foreign policy, such as the 2015 iran nuclear deal, the approach to north korea and the overall tone of u.s. Diplomacy. Tillerson said he received a call from trump around noon tuesday, more than three hours after his firing was first reported by the washington post and announced minutes later in a tweet from the president. His voice quavering",
@@ -618,7 +611,7 @@
             "0": 0,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -706,7 +699,7 @@
             "0": 2,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -736,12 +729,11 @@
     },
     {
         "idx": 11427,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Barack obama was the best us president since ronald reagan, but he's got nothing on abraham lincoln. That's the takeaway from a c-span survey of 91 historians who helped rank the best presidents in us history based on 10 criteria, including administrative skill, moral authority, crisis leadership, and pursuit of equal justice, per time. Whereas obama faltered in international relations, he scored high in managing the economy and public persuasion, coming in at the 12th spot overall, an \" impressive \" achievement for his first appearance in the survey, one historian tells cnn. The first 11: abraham lincoln george washington franklin d. Roosevelt theodore roosevelt dwight d. Eisenhower harry s. Truman thomas jefferson john f. Kennedy ronald reagan lyndon b. Johnson woodrow wilson click for the full list, or see the wealthiest us presidents.",
         "split": "train",
         "cleansed_document": [
-            "Story highlights c-span released survey of presidential historians dwight eisenhower moved into the top five for the first time. ( cnn ) abraham lincoln, george washington and teddy and franklin roosevelt are still considered the four best presidents in american history, according to a survey of presidential historians released friday by c-span. \" once again the big three are lincoln, washington and fdr - as it should be, \" said historian douglas brinkley, who helped guide c-span's research. \" that obama came in at number 12 his first time out is quite impressive. And the survey is surprisingly good news for george w. Bush, who shot up a few notches. \" dwight eisenhower moved into the top five for the first time. The worst ranked presidents include andrew johnson and franklin pierce. James buchanan, who led the country as it headed into civil war, came in last. C-span's academic advisers asked 91 presidential historians to rate each president from one to 10 on presidential leadership: \" public persuasion, \" \" crisis leadership, \" \" economic management, \" \" moral authority, \" \" international relations, \" \" administrative skills, \" \" relations with congress, \" \" vision/setting an agenda, \" \" pursued equal justice for all, \" and \" performance within the context of his times. \"",
-            "The communicators saturdays on c-span at 6: 30pm et"
+            "Story highlights c-span released survey of presidential historians dwight eisenhower moved into the top five for the first time. ( cnn ) abraham lincoln, george washington and teddy and franklin roosevelt are still considered the four best presidents in american history, according to a survey of presidential historians released friday by c-span. \" once again the big three are lincoln, washington and fdr - as it should be, \" said historian douglas brinkley, who helped guide c-span's research. \" that obama came in at number 12 his first time out is quite impressive. And the survey is surprisingly good news for george w. Bush, who shot up a few notches. \" dwight eisenhower moved into the top five for the first time. The worst ranked presidents include andrew johnson and franklin pierce. James buchanan, who led the country as it headed into civil war, came in last. C-span's academic advisers asked 91 presidential historians to rate each president from one to 10 on presidential leadership: \" public persuasion, \" \" crisis leadership, \" \" economic management, \" \" moral authority, \" \" international relations, \" \" administrative skills, \" \" relations with congress, \" \" vision/setting an agenda, \" \" pursued equal justice for all, \" and \" performance within the context of his times. \""
         ],
         "raw_document": [
             "Story highlights c-span released survey of presidential historians dwight eisenhower moved into the top five for the first time. ( cnn ) abraham lincoln, george washington and teddy and franklin roosevelt are still considered the four best presidents in american history, according to a survey of presidential historians released friday by c-span. \" once again the big three are lincoln, washington and fdr - as it should be, \" said historian douglas brinkley, who helped guide c-span's research. \" that obama came in at number 12 his first time out is quite impressive. And the survey is surprisingly good news for george w. Bush, who shot up a few notches. \" dwight eisenhower moved into the top five for the first time. The worst ranked presidents include andrew johnson and franklin pierce. James buchanan, who led the country as it headed into civil war, came in last. C-span's academic advisers asked 91 presidential historians to rate each president from one to 10 on presidential leadership: \" public persuasion, \" \" crisis leadership, \" \" economic management, \" \" moral authority, \" \" international relations, \" \" administrative skills, \" \" relations with congress, \" \" vision/setting an agenda, \" \" pursued equal justice for all, \" and \" performance within the context of his times. \"",
@@ -756,17 +748,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 11428,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "This past father's day, not long after john seibold lost an eight-month battle with cancer, his 13-year-old daughter, saige, released a fistful of balloons from his gravesite in sterling, okla. Mother sandy thought it might be helpful for her daughter to send balloons \" to heaven, \" and the pair attached a handwritten note asking whoever found it to please contact them. The balloons initially got tangled in a power line before wind carried them off. \" i just remember praying, ' please god. Let these balloons fly for her, ' \" says sandy. But the balloons didn't just fly: they came back. A few hours later at their home 25 miles away, saige went down to the pasture behind their house where she and her father used to work together. That's when she spotted her letter and the balloons, tangled in a fence, kfor 4 reported earlier this month in a story just now getting noticed. \" what are the chances? \" asks sandy. \" i think i started crying. \" seibold, who worked with cattle and pigs and enjoyed hunting and fishing, died in his home, notes his ferguson funeral home obituary. He had pancreatic cancer, reports nbc news, and though his family is still mourning his loss, they suggest the return of the balloons — sort of like a message in a bottle — has lightened their grief. \" it felt like a message from him, \" says sandy. \" this has given us a lot of peace and good feelings about where he's at. \" seibold's obituary noted that he \" was precise about things; he liked it to be perfect. \" perfect, indeed. ( this father ended up being a hero to another family's child last week. )",
         "split": "train",
         "cleansed_document": [
-            "Play facebook twitter google plus embed balloon released at father's grave turns up at family home 1: 51 an oklahoma widow and her daughter who spent their first father's day without dad this year released balloons and a message at his grave site — and may have gotten a \" message \" back. The pair was stunned when — after leaving the cemetery, running a few errands, and driving 25 mile back home — the balloon's note showed up at their house. Sandy and saige seibold are still mourning the loss of johnny seibold after he died following a battle with pancreatic cancer earlier this year. \" he was diagnosed in september, \" widow sandy seibold told nbc station kfor. \" he passed away in may. \" sandy thought it could be helpful to release balloons with a handwritten note asking the finder to please contact them. \" we thought the idea of sending balloons to heaven sounded good, \" sandy said. Her daughter, saige, was upset when the ribbons tying the balloons together at first got caught in a power line. \" i just remember praying, ' please god. Let these balloons fly for her, \" sandy said. Minutes later a gust of wind caught the balloons and took them on their way. Sandy and saige left the sterling cemetery, ran some",
-            "Funeral mass for john william seibold, 43, of cement, will be held at 11: 00 a.m. On saturday, may 16, 2015 at holy name of jesus catholic church with father shane tharp officiating. A wake service for johnny will be held on friday, may 15, 2015 at 7: 00 p.m. In ferguson funeral home chapel with father shane tharp officiating. John william seibold was born on february 21, 1972 in lawton, oklahoma, to george earnest seibold and hildegard catherine seibold. He passed away at his home in cement on wednesday, may 13, 2015. Johnny grew up in the cement/ninnekah area and attended ninnekah public schools, graduating in 1990. After high school, he worked as a self-employed pipeline welder and inspector. On march 17, 2000 in las vegas, nevada he married sandy lee snider. Sandy, his daughter, saige, and his son, jordan were the loves of his life. He enjoyed farming, working with cattle and pigs, hunting, and fishing. He loved showing his support for his daughter at her stock shows. He also liked planting and caring for a vegetable garden. Johnny was precise about things; he liked it to be perfect. He had a big heart and if someone had a need, he would step up and help. He also loved being"
+            "Play facebook twitter google plus embed balloon released at father's grave turns up at family home 1: 51 an oklahoma widow and her daughter who spent their first father's day without dad this year released balloons and a message at his grave site — and may have gotten a \" message \" back. The pair was stunned when — after leaving the cemetery, running a few errands, and driving 25 mile back home — the balloon's note showed up at their house. Sandy and saige seibold are still mourning the loss of johnny seibold after he died following a battle with pancreatic cancer earlier this year. \" he was diagnosed in september, \" widow sandy seibold told nbc station kfor. \" he passed away in may. \" sandy thought it could be helpful to release balloons with a handwritten note asking the finder to please contact them. \" we thought the idea of sending balloons to heaven sounded good, \" sandy said. Her daughter, saige, was upset when the ribbons tying the balloons together at first got caught in a power line. \" i just remember praying, ' please god. Let these balloons fly for her, \" sandy said. Minutes later a gust of wind caught the balloons and took them on their way. Sandy and saige left the sterling cemetery, ran some"
         ],
         "raw_document": [
             "Play facebook twitter google plus embed balloon released at father's grave turns up at family home 1: 51 an oklahoma widow and her daughter who spent their first father's day without dad this year released balloons and a message at his grave site — and may have gotten a \" message \" back. The pair was stunned when — after leaving the cemetery, running a few errands, and driving 25 mile back home — the balloon's note showed up at their house. Sandy and saige seibold are still mourning the loss of johnny seibold after he died following a battle with pancreatic cancer earlier this year. \" he was diagnosed in september, \" widow sandy seibold told nbc station kfor. \" he passed away in may. \" sandy thought it could be helpful to release balloons with a handwritten note asking the finder to please contact them. \" we thought the idea of sending balloons to heaven sounded good, \" sandy said. Her daughter, saige, was upset when the ribbons tying the balloons together at first got caught in a power line. \" i just remember praying, ' please god. Let these balloons fly for her, \" sandy said. Minutes later a gust of wind caught the balloons and took them on their way. Sandy and saige left the sterling cemetery, ran some",
@@ -781,17 +772,15 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
         "idx": 11429,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Asian markets plunged tuesday, raising fears of a global sell-off that appeared not entirely unfounded as the markets opened stateside. The dow opened down 521 points, which the ap reports temporarily put it down 10 % from its jan. 26 high. Stocks quickly began climbing, and were actually positive roughly 15 minutes later.",
         "split": "train",
-        "cleansed_document": [
-            "Shares of ultragenyx pharmaceutical inc. Rose 2.9 % in premarket trade tuesday after the company announced positive results from a safety and efficacy study looking at a treatment for patients with long-chain fatty acid oxidation disorder. Patients with this disorder are unable to properly break down fatty acids into energy, leading to serious liver, muscle and heart issues. Researchers looked at how ultragenyx's drug, ux007, affected 75 patients, including 29 from a previous ux007 phase 2 trial showing that ux007-treated patients had fewer illness-related visits to the hospital and fewer days in the hospital per year. The safety and efficacy study reaffirmed those results, also showing a reduction in the median number of hospital visits and days in the hospital per year among those treated with the drug. Ultragenyx said it is still on track to submit a new drug application for ux007 in mid-2019. Shares of ultragenyx have gained 22.7 % in the year to date through friday, while the ishares nasdaq biotechnology etf has gained 14.6 %. The s&p 500 has gained 6.5 %."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "This will appear next to all of your comments this will not appear anywhere on newser",
             "Shares of ultragenyx pharmaceutical inc. Rose 2.9 % in premarket trade tuesday after the company announced positive results from a safety and efficacy study looking at a treatment for patients with long-chain fatty acid oxidation disorder. Patients with this disorder are unable to properly break down fatty acids into energy, leading to serious liver, muscle and heart issues. Researchers looked at how ultragenyx's drug, ux007, affected 75 patients, including 29 from a previous ux007 phase 2 trial showing that ux007-treated patients had fewer illness-related visits to the hospital and fewer days in the hospital per year. The safety and efficacy study reaffirmed those results, also showing a reduction in the median number of hospital visits and days in the hospital per year among those treated with the drug. Ultragenyx said it is still on track to submit a new drug application for ux007 in mid-2019. Shares of ultragenyx have gained 22.7 % in the year to date through friday, while the ishares nasdaq biotechnology etf has gained 14.6 %. The s&p 500 has gained 6.5 %."
@@ -805,7 +794,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -835,12 +824,11 @@
     },
     {
         "idx": 11431,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Nancy grace's breasts have already gotten her quite a bit of attention since dancing with the stars premiered ( gawker's headline last week: \"nancy grace's giant boobs make dancing with the stars debut \" ), but last night they stole the show … when one popped out of her dress. The nipple slip occurred at the end of grace's quickstep, prompting abc to cut away to a shot of the audience, us reports. \"on the european version that would be perfectly fine, \" host tom bergeron said when they cut back to a readjusted grace. \"it was a bit top-heavy at times, my darling, \" joked judge bruno tonioli. \"and i got an eyeful! i couldn't miss that. \" ultimately, the wardrobe malfunction didn't appear to affect her score, 21 out of 30 points. Ricki lake came in first for the night with 23 out of 30.",
         "split": "train",
         "cleansed_document": [
-            "Video: nancy grace has nip slip on dancing with the stars nancy grace had a nip slip! on monday night's dancing with the stars, the 51-year-old hln host had a major wardrobe malfunction. After abc quickly cut away to a static shot of the audience, grace readjusted her dress and buried her face in partner tristan macmanus'shoulder. Photos: most embarrassing wardrobe malfunctions ever \" on the european version that would be perfectly fine, \" tom bergeron joked. But the judges were able to see past the partial nudity and appreciate grace's performance. \" how refreshing, \" len goodman said. \" that was a proper quickstep. Well done! \" news: what did the judges have to say about rob kardashian? \" nancy, vivacious, alive, and confident, \" bruno tonioli gushed. \" it was a bit top-heavy at times, my darling. And i got an eyeful! i couldn't miss that. But it really is great to see you taking over the dance floor and performing. \" carrie ann inaba agreed, praising grace for her \" improvement \" from the previous week. \" you guys are making an incredible team. \" so did grace's nip slip affect her final scores? seemingly not! she earned a 6 from inaba, an 8 from goodman, and a 7 from tonioli, making her total score 21 out of 30 points. Photos: dwts incredible body makeovers the night's top-scorer was ricki lake, who earned 23 out of 30 points, while chaz bono was at the bottom of the leader board, earning 17 out of 30 points. Tell us: what did you think of nancy's wardrobe malfunction?",
-            "[ there was a video here ] tot mom, meet tit mom. The 13th season of dancing with the stars premiered tonight with a fresh crop of celebrity competitors to break in its brand new set. One of the show's most anticipated moments was the appearance of perpetually angry grief pornographer nancy grace. You know, so we could all see how angry she was. Except that grace wasn't angry. She was happy. Really happy! so happy, in fact, she felt sexy. How sexy? well, take a big ol ' gulp of the milkshake grace served up in the above video and then draw your own conclusions."
+            "Video: nancy grace has nip slip on dancing with the stars nancy grace had a nip slip! on monday night's dancing with the stars, the 51-year-old hln host had a major wardrobe malfunction. After abc quickly cut away to a static shot of the audience, grace readjusted her dress and buried her face in partner tristan macmanus'shoulder. Photos: most embarrassing wardrobe malfunctions ever \" on the european version that would be perfectly fine, \" tom bergeron joked. But the judges were able to see past the partial nudity and appreciate grace's performance. \" how refreshing, \" len goodman said. \" that was a proper quickstep. Well done! \" news: what did the judges have to say about rob kardashian? \" nancy, vivacious, alive, and confident, \" bruno tonioli gushed. \" it was a bit top-heavy at times, my darling. And i got an eyeful! i couldn't miss that. But it really is great to see you taking over the dance floor and performing. \" carrie ann inaba agreed, praising grace for her \" improvement \" from the previous week. \" you guys are making an incredible team. \" so did grace's nip slip affect her final scores? seemingly not! she earned a 6 from inaba, an 8 from goodman, and a 7 from tonioli, making her total score 21 out of 30 points. Photos: dwts incredible body makeovers the night's top-scorer was ricki lake, who earned 23 out of 30 points, while chaz bono was at the bottom of the leader board, earning 17 out of 30 points. Tell us: what did you think of nancy's wardrobe malfunction?"
         ],
         "raw_document": [
             "Video: nancy grace has nip slip on dancing with the stars nancy grace had a nip slip! on monday night's dancing with the stars, the 51-year-old hln host had a major wardrobe malfunction. After abc quickly cut away to a static shot of the audience, grace readjusted her dress and buried her face in partner tristan macmanus'shoulder. Photos: most embarrassing wardrobe malfunctions ever \" on the european version that would be perfectly fine, \" tom bergeron joked. But the judges were able to see past the partial nudity and appreciate grace's performance. \" how refreshing, \" len goodman said. \" that was a proper quickstep. Well done! \" news: what did the judges have to say about rob kardashian? \" nancy, vivacious, alive, and confident, \" bruno tonioli gushed. \" it was a bit top-heavy at times, my darling. And i got an eyeful! i couldn't miss that. But it really is great to see you taking over the dance floor and performing. \" carrie ann inaba agreed, praising grace for her \" improvement \" from the previous week. \" you guys are making an incredible team. \" so did grace's nip slip affect her final scores? seemingly not! she earned a 6 from inaba, an 8 from goodman, and a 7 from tonioli, making her total score 21 out of 30 points. Photos: dwts incredible body makeovers the night's top-scorer was ricki lake, who earned 23 out of 30 points, while chaz bono was at the bottom of the leader board, earning 17 out of 30 points. Tell us: what did you think of nancy's wardrobe malfunction?",
@@ -855,7 +843,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -894,18 +882,17 @@
             "3": 2,
             "4": 0,
             "5": 0,
-            "6": 0
+            "6": 1
         }
     },
     {
         "idx": 11433,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Donald trump live-tweeted the vice-presidential debate tuesday night and he was relatively restrained in his comments, by the standards of donald trump's twitter — possibly because, as the washington post notes, he watched the debate with four aides by his side. Before the debate began, trump announced he was switching to fox because cnn's \" panel is a joke, biased and very dumb. \" the huffington post reports that during the debate, trump kept his own tweets to a minimum and mainly retweeted comments from other supporters, including some attacking tim kaine's appearance, like \" kaine looks like an evil crook out of the batman movies. \" trump also retweeted comments calling kaine a liar. As the debate progressed, trump tweeted attacks on the records of both kaine and hillary clinton, including \" icymi: pence: i ran a state that worked; kaine ran a state that failed, \" with links to campaign press releases. He accused moderator elaine quijano of interrupting pence a lot more often than kaine before concluding that pence had won the debate, usa today reports. \" mike pence won big. We should all be proud of mike! \" trump said in his final tweet of the evening.",
         "split": "train",
         "cleansed_document": [
             "Donald trump used his twitter account tuesday night to broadcast a number of inflammatory, opinionated and provocative tweets during the only debate between the two major party vice presidential nominees, sen. Tim kaine ( d-va. ) and indiana gov. Mike pence ( r ). Trump had announced earlier in the day that he would live-tweet the event, but he kept his own tweets to a minimum during the 90-minute debate held at longwood university in farmville, virginia. Instead, the gop nominee used his twitter account to retweet comments from others. \" @jnelson52722: @realdonaldtrump @susiesentinel kaine looks like an evil crook out of the batman movies \" — donald j. Trump ( @realdonaldtrump ) october 5, 2016 \" @carol_lcnixon67: @realdonaldtrump kaine says hillary and he have plans. She could care less what kaine thinks. \" — donald j. Trump ( @realdonaldtrump ) october 5, 2016 \" @anyonetennis: @timkaine cannot believe how often the moderator interrupts #pence vs the other guy... So obvious @foxnews \" so true! — donald j. Trump ( @realdonaldtrump ) october 5, 2016 for much of the day leading up to the event, trump's tweets were mostly programmatic, including promotions for an upcoming rally in reno and images and videos from his rally",
-            "Here are key moments from the face-off between republican vice-presidential candidate mike pence and democratic rival tim kaine at longwood university in farmville, va. ( sarah parnass/the washington post ) before the vice-presidential debate began, we wrote it was a sure bet that one of the headlines from this debate was likely to come from the twitter account of one donald j. Trump. We were right. How did we know this? well, for one, trump tends to have thoughts on and about debate nights: i refuse to call megyn kelly a bimbo, because that would not be politically correct. Instead i will only call her a lightweight reporter! — donald j. Trump ( @realdonaldtrump ) january 27, 2016 did crooked hillary help disgusting ( check out sex tape and past ) alicia m become a u.s. Citizen so she could use her in the debate? — donald j. Trump ( @realdonaldtrump ) september 30, 2016 even ones he's not officially a part of: i will be live-tweeting the v.p. Debate. Very exciting! make america great again! — donald j. Trump ( @realdonaldtrump ) october 5, 2016 and he had lots of thoughts tuesday. In just the first hour of the debate — as his running",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Here are key moments from the face-off between republican vice-presidential candidate mike pence and democratic rival tim kaine at longwood university in farmville, va. ( sarah parnass/the washington post ) before the vice-presidential debate began, we wrote it was a sure bet that one of the headlines from this debate was likely to come from the twitter account of one donald j. Trump. We were right. How did we know this? well, for one, trump tends to have thoughts on and about debate nights: i refuse to call megyn kelly a bimbo, because that would not be politically correct. Instead i will only call her a lightweight reporter! — donald j. Trump ( @realdonaldtrump ) january 27, 2016 did crooked hillary help disgusting ( check out sex tape and past ) alicia m become a u.s. Citizen so she could use her in the debate? — donald j. Trump ( @realdonaldtrump ) september 30, 2016 even ones he's not officially a part of: i will be live-tweeting the v.p. Debate. Very exciting! make america great again! — donald j. Trump ( @realdonaldtrump ) october 5, 2016 and he had lots of thoughts tuesday. In just the first hour of the debate — as his running"
         ],
         "raw_document": [
             "Donald trump used his twitter account tuesday night to broadcast a number of inflammatory, opinionated and provocative tweets during the only debate between the two major party vice presidential nominees, sen. Tim kaine ( d-va. ) and indiana gov. Mike pence ( r ). Trump had announced earlier in the day that he would live-tweet the event, but he kept his own tweets to a minimum during the 90-minute debate held at longwood university in farmville, virginia. Instead, the gop nominee used his twitter account to retweet comments from others. \" @jnelson52722: @realdonaldtrump @susiesentinel kaine looks like an evil crook out of the batman movies \" — donald j. Trump ( @realdonaldtrump ) october 5, 2016 \" @carol_lcnixon67: @realdonaldtrump kaine says hillary and he have plans. She could care less what kaine thinks. \" — donald j. Trump ( @realdonaldtrump ) october 5, 2016 \" @anyonetennis: @timkaine cannot believe how often the moderator interrupts #pence vs the other guy... So obvious @foxnews \" so true! — donald j. Trump ( @realdonaldtrump ) october 5, 2016 for much of the day leading up to the event, trump's tweets were mostly programmatic, including promotions for an upcoming rally in reno and images and videos from his rally",
@@ -922,7 +909,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1000,7 +987,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1167,13 +1154,12 @@
     },
     {
         "idx": 11443,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The dc press corps is scrambling to fill in the pieces regarding the bombshell resignation of cia chief david petraeus, and fred kaplan at slate cuts to the chase: \" the woman with whom gen. David petraeus was having an affair is paula broadwell, the author of a recent hagiographic book about him, all in: the education of david petraeus. \" kaplan doesn't name his sources but says rumors have been flying for a while. Read his full post here. Nbc, meanwhile, reports that broadwell is under fbi investigation for trying to get into petraeus ' email account, though that investigation isn't expected to result in criminal charges. And the ap notes that the affair came to light during an fbi investigation, presumably the one nbc is talking about, though it doesn't specify. The washington post says a \" stunned \" president obama had only one night to process the news before accepting the resignation.",
         "split": "train",
         "cleansed_document": [
             "Cia director david h. Petraeus resigned friday and admitted to having an extramarital affair, bringing a shocking end to his brief tenure at the spy agency and highly decorated national security career. The affair came to light as part of an fbi investigation into a potential security breach involving petraeus's e-mails, according to federal law enforcement officials and a former senior intelligence official. The investigation uncovered e-mails describing an affair between petraeus and paula broadwell, a former military officer and co-author of a glowing biography of petraeus, according to two law enforcement officials who were briefed on the investigation. Petraeus, a retired four-star army general who once was seen as a potential presidential candidate, met with president obama on thursday and said he intended to step down because of the affair, obama administration officials said. The president accepted his resignation friday. \"after being married for over 37 years, i showed extremely poor judgment by engaging in an extramarital affair, \" petraeus said in a statement distributed to the cia workforce friday. \"such",
-            "David petraeus, the retired four-star general renowned for taking charge of the military campaigns in iraq and then afghanistan, abruptly resigned friday as director of the cia, admitting to an extramarital affair. File - in this march 1, 2008 file photo, then-top u.s. Commander in iraq, gen. David petraeus, sits with iraqi children during a youth soccer tournament in central baghdad, iraq. Gen. Petraeus, the retired... ( associated press ) file - in this june 29, 2010 file photo, gen. David petraeus testifies on capitol hill in washington. Petraeus, the retired four-star general who led the u.s. Military campaigns in iraq and afghanistan,... ( associated press ) file - in this july 21, 2008 file photo, then-presidential candidate barack obama, left, and then-top u.s. Military commander in iraq, david petraeus, take a helicopter ride over baghdad's shiite enclave... ( associated press ) file - in this june 23, 2010 file photo, president barack obama, accompanied by gen. David petraeus",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "David petraeus, the retired four-star general renowned for taking charge of the military campaigns in iraq and then afghanistan, abruptly resigned friday as director of the cia, admitting to an extramarital affair. File - in this march 1, 2008 file photo, then-top u.s. Commander in iraq, gen. David petraeus, sits with iraqi children during a youth soccer tournament in central baghdad, iraq. Gen. Petraeus, the retired... ( associated press ) file - in this june 29, 2010 file photo, gen. David petraeus testifies on capitol hill in washington. Petraeus, the retired four-star general who led the u.s. Military campaigns in iraq and afghanistan,... ( associated press ) file - in this july 21, 2008 file photo, then-presidential candidate barack obama, left, and then-top u.s. Military commander in iraq, david petraeus, take a helicopter ride over baghdad's shiite enclave... ( associated press ) file - in this june 23, 2010 file photo, president barack obama, accompanied by gen. David petraeus"
         ],
         "raw_document": [
             "Cia director david h. Petraeus resigned friday and admitted to having an extramarital affair, bringing a shocking end to his brief tenure at the spy agency and highly decorated national security career. The affair came to light as part of an fbi investigation into a potential security breach involving petraeus's e-mails, according to federal law enforcement officials and a former senior intelligence official. The investigation uncovered e-mails describing an affair between petraeus and paula broadwell, a former military officer and co-author of a glowing biography of petraeus, according to two law enforcement officials who were briefed on the investigation. Petraeus, a retired four-star army general who once was seen as a potential presidential candidate, met with president obama on thursday and said he intended to step down because of the affair, obama administration officials said. The president accepted his resignation friday. \"after being married for over 37 years, i showed extremely poor judgment by engaging in an extramarital affair, \" petraeus said in a statement distributed to the cia workforce friday. \"such",
@@ -1190,7 +1176,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1473,14 +1459,13 @@
     },
     {
         "idx": 11454,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The itunes store wasn't built in a day and it took spotify almost a decade to become successful, jay z pointed out in a series of tweets over the weekend claiming his tidal music service was the victim of a \" smear campaign \" from big companies. \" tidal is doing just fine. We have over 770,000 subs, \" he said, promising that he was in it for the long haul. \" we have been in business less than one month. \" the celebrity-owned service dropped out of the iphone top 700 download chart within weeks of its relaunch, and only jumped as far as 664 even after rumors that tidal subscribers would be the first to access a new album from jay z and beyonce, reports mashable. Addressing criticism that the service seems designed to help rich stars like its owners get richer, jay z said \" tidal pays 75 % royalty rate to all artists, writers and producers — not just the founding members on stage, \" the guardian reports. With the new tidal rising function for smaller bands, he said, \" indie artists who want to work directly w/ us keep 100 % of their music. \" at the daily beast, marlow stern calls jay z's talk of an anti-tidal smear campaign \" incredibly paranoid at best, and disingenuous at worst, \" blaming the backlash in the outrageous press conference the service's celebrity co-owners held last month.",
         "split": "train",
         "cleansed_document": [
             "Jay z fired back at critics of his tidal music service on sunday, claiming the site is \" doing just fine \" and that its subscriber base is growing. The rapper, who relaunched tidal after purchasing its parent company aspiro group earlier this year for $ 56 million, urged critics to hold off on dismissing the service too soon. \" the itunes store wasn't built in a day, \" he said. \" it took spotify nine years to be successful. \" jay z added that 770,000 subscribers have already signed up for tidal, which he relaunched to compete with platforms such as pandora and spotify. But his series of tweets came shortly after tidal dropped out of the top 500 most downloaded apps in the u.s. On april 18, according to app annie data; it then fell further to no. 870 just days later",
             "Jay z is on the defensive.no, he's not being showered with a security cam-friendly array of mortal kombat-worthy punches and kicks courtesy of the inimitable solange. Rather, the hip-hop icon turned entrepreneur who once rapped, \"i ' m not a businessman, i ' m a business, man, \" has taken to twitter to ward off a barrage of criticism aimed at the artist-owned streaming music service tidal, of which he is the fearless leader. The man formerly known as sean carter fired off a series of tweets on sunday using the #tidalfacts to try and dispel perceived myths floating about concerning tidal. Mr. Z also added: \"the itunes store wasn't built in a day. It took spotify 9 years to be successful … we are here for the long haul. Please give us a chance to grow &amp; get better. There",
-            "The rapper and mogul defends the streaming service's turbulent start, asking followers to 'give us a chance to grow &amp; get better'since its star-spangled launch back in march, jay z's streaming service tidal has taken quite a beating from those who are sceptical of its intentions and the proposed benefits for its users. Taking to twitter on 26 april, the rapper and mogul wrote a series of messages defending tidal and its turbulent beginnings. First addressing the immediate problems facing the app – which fell out of iphone top 700 chart last week – jay z urged followers to be patient. \"tidal is doing just fine. We have over 770,000 subs. We have been in business less than one month. \" he continued to compare tidal to the itunes store which he says \"wasn't built in a day \", and spotify,",
-            "We've detected that javascript is disabled in your browser. Would you like to proceed to legacy twitter? yes"
+            "The rapper and mogul defends the streaming service's turbulent start, asking followers to 'give us a chance to grow &amp; get better'since its star-spangled launch back in march, jay z's streaming service tidal has taken quite a beating from those who are sceptical of its intentions and the proposed benefits for its users. Taking to twitter on 26 april, the rapper and mogul wrote a series of messages defending tidal and its turbulent beginnings. First addressing the immediate problems facing the app – which fell out of iphone top 700 chart last week – jay z urged followers to be patient. \"tidal is doing just fine. We have over 770,000 subs. We have been in business less than one month. \" he continued to compare tidal to the itunes store which he says \"wasn't built in a day \", and spotify,"
         ],
         "raw_document": [
             "Jay z fired back at critics of his tidal music service on sunday, claiming the site is \" doing just fine \" and that its subscriber base is growing. The rapper, who relaunched tidal after purchasing its parent company aspiro group earlier this year for $ 56 million, urged critics to hold off on dismissing the service too soon. \" the itunes store wasn't built in a day, \" he said. \" it took spotify nine years to be successful. \" jay z added that 770,000 subscribers have already signed up for tidal, which he relaunched to compete with platforms such as pandora and spotify. But his series of tweets came shortly after tidal dropped out of the top 500 most downloaded apps in the u.s. On april 18, according to app annie data; it then fell further to no. 870 just days later",
@@ -1499,7 +1484,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1711,7 +1696,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1850,12 +1835,11 @@
     },
     {
         "idx": 11468,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Some 13,521 cellphones were confiscated from georgia's 57,000 prisoners last year — far more than the 628 nabbed from texas ' 149,000 prisoners, or the 10,427 taken from california's prison population of about 114,000. And they aren't just being used to phone home. An nbc news investigation finds cellphones, penetrating prison walls thanks to drones and even guards, have \" facilitated violence and criminal enterprise. \" in one example, three people were charged with account fraud after a man claiming to be a sheriff's officer called 78-year-old addis thompson last year demanding he pay a $ 734 fine for missing jury duty. Thompson loaded the money on two \" green dot \" cash cards and gave the man the account numbers. \" all of a sudden, the phone went dead, \" thompson says. It turns out the call came from georgia's autry state prison. Thompson says it's \" unbelievable that prisoners have the access to phones to do something of that nature. \" a corrections expert says inmates, visitors, contractors, and staff members sneak phones into prisons; they've been found in boxes of food, toilet paper, and in nerf footballs that soar inside, where inmates pay up to $ 1,000 per phone. A correctional officer at a private prison in alamo, ga., was even implicated in a \" jury duty \" scam when she was found moving money from a green dot to a prepaid visa card in her name. She said she was moving the money for her inmate boyfriend. Family members also say they've been sent photos of beaten inmates via cellphone along with requests for money to stop the violence. One inmate died after his girlfriend couldn't afford to pay up. \" i feel like it's my fault, \" she told the chattanooga free times in 2013. An attorney says \" we are at a point where we're talking about basic security measures that are not being followed. \" the georgia department of corrections says it takes the accusations seriously and is investigating extortion cases.",
         "split": "train",
         "cleansed_document": [
-            "Carter, who was arrested in may 2014, admitted moving money for camp, and described him as her boyfriend. She said she had met him when he was incarcerated at wheeler. The georgia department of corrections raided camp's cell and found his phone, and the bergen county sheriff's office arrested both camp and carter on charges of theft by extortion and impersonating an officer. The pair were also charged in mississippi. Officials in 12 states have received reports from potential victims. While the jury duty scam perpetrated by willie johnson, jr., has not publicly been connected with camp and carter, bagnuolo said he believes the pair belonged to a wider ring. \"there are definitely a lot of other guys in the prison involved in this, \" said bagnuolo. \" it's bigger, i ' m sure, and broader than i know. \" green dot discontinued its moneypak pin product in early 2015 after widespread complaints of fraud. \" the product was just too prone to that kind of abuse and we decided to get rid of it, \" said the company's ceo at a february investors ' forum. The company also said in a recent filing that it believed dropping the product would \"lead to benefits in customer service, fraud charge-off rates and brand reputation. \" threats of violence families of prisoners have also become prey for extortion by cellphone. News reports and records obtained by nbc news shows the practice stretches back years. On the night of november 6, 2012, an officer at georgia's baldwin state prison heard banging on a dorm door. There he found prisoner robert dennis. Dennis, who is serving a life sentence for murder, had transferred into baldwin that day. According to a federal lawsuit filed against the prison, dennis told officials at baldwin that he feared a \"hit \" on him had been forwarded by cellphone to gang members at baldwin. He asked to be housed in protective custody. Instead, he was assigned to the notorious m dorm. Within 20 minutes of entering the dorm, the complaint states, a gang of prisoners attacked. They tied dennis hand and foot, and took him to the bathroom where he was blindfolded and beaten. They broke his nose and hands. They pummeled his chest, back and ribs. The attackers snapped photos of his injuries and allegedly extorted dennis ' family via cellphone — send money, or the beatings would continue. According to the suit, dennis'then-girlfriend sent",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Carter, who was arrested in may 2014, admitted moving money for camp, and described him as her boyfriend. She said she had met him when he was incarcerated at wheeler. The georgia department of corrections raided camp's cell and found his phone, and the bergen county sheriff's office arrested both camp and carter on charges of theft by extortion and impersonating an officer. The pair were also charged in mississippi. Officials in 12 states have received reports from potential victims. While the jury duty scam perpetrated by willie johnson, jr., has not publicly been connected with camp and carter, bagnuolo said he believes the pair belonged to a wider ring. \"there are definitely a lot of other guys in the prison involved in this, \" said bagnuolo. \" it's bigger, i ' m sure, and broader than i know. \" green dot discontinued its moneypak pin product in early 2015 after widespread complaints of fraud. \" the product was just too prone to that kind of abuse and we decided to get rid of it, \" said the company's ceo at a february investors ' forum. The company also said in a recent filing that it believed dropping the product would \"lead to benefits in customer service, fraud charge-off rates and brand reputation. \" threats of violence families of prisoners have also become prey for extortion by cellphone. News reports and records obtained by nbc news shows the practice stretches back years. On the night of november 6, 2012, an officer at georgia's baldwin state prison heard banging on a dorm door. There he found prisoner robert dennis. Dennis, who is serving a life sentence for murder, had transferred into baldwin that day. According to a federal lawsuit filed against the prison, dennis told officials at baldwin that he feared a \"hit \" on him had been forwarded by cellphone to gang members at baldwin. He asked to be housed in protective custody. Instead, he was assigned to the notorious m dorm. Within 20 minutes of entering the dorm, the complaint states, a gang of prisoners attacked. They tied dennis hand and foot, and took him to the bathroom where he was blindfolded and beaten. They broke his nose and hands. They pummeled his chest, back and ribs. The attackers snapped photos of his injuries and allegedly extorted dennis ' family via cellphone — send money, or the beatings would continue. According to the suit, dennis'then-girlfriend sent"
         ],
         "raw_document": [
             "Carter, who was arrested in may 2014, admitted moving money for camp, and described him as her boyfriend. She said she had met him when he was incarcerated at wheeler. The georgia department of corrections raided camp's cell and found his phone, and the bergen county sheriff's office arrested both camp and carter on charges of theft by extortion and impersonating an officer. The pair were also charged in mississippi. Officials in 12 states have received reports from potential victims. While the jury duty scam perpetrated by willie johnson, jr., has not publicly been connected with camp and carter, bagnuolo said he believes the pair belonged to a wider ring. \"there are definitely a lot of other guys in the prison involved in this, \" said bagnuolo. \" it's bigger, i ' m sure, and broader than i know. \" green dot discontinued its moneypak pin product in early 2015 after widespread complaints of fraud. \" the product was just too prone to that kind of abuse and we decided to get rid of it, \" said the company's ceo at a february investors ' forum. The company also said in a recent filing that it believed dropping the product would \"lead to benefits in customer service, fraud charge-off rates and brand reputation. \" threats of violence families of prisoners have also become prey for extortion by cellphone. News reports and records obtained by nbc news shows the practice stretches back years. On the night of november 6, 2012, an officer at georgia's baldwin state prison heard banging on a dorm door. There he found prisoner robert dennis. Dennis, who is serving a life sentence for murder, had transferred into baldwin that day. According to a federal lawsuit filed against the prison, dennis told officials at baldwin that he feared a \"hit \" on him had been forwarded by cellphone to gang members at baldwin. He asked to be housed in protective custody. Instead, he was assigned to the notorious m dorm. Within 20 minutes of entering the dorm, the complaint states, a gang of prisoners attacked. They tied dennis hand and foot, and took him to the bathroom where he was blindfolded and beaten. They broke his nose and hands. They pummeled his chest, back and ribs. The attackers snapped photos of his injuries and allegedly extorted dennis ' family via cellphone — send money, or the beatings would continue. According to the suit, dennis'then-girlfriend sent",
@@ -1870,7 +1854,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1989,12 +1973,11 @@
     },
     {
         "idx": 11473,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A french inventor may have an answer for the millions of people who scramble to find fresh drinking water each day: a wind turbine that literally pulls h2o from the air. Marc parent, head of eoie water, designed the turbine while living in the caribbean and enduring water shortages. His solution is called the wms1000, which gathers moisture from the air and turns it into drinking water, abc news reports. On average, each unit creates over 62 liters per hour when the temperature is 75 fahrenheit with 45 % humidity, according to the company website. \" let me highlight this word: create, \" says eole water executive thibault janin. \" all existing solutions ( wells, desalination, lakes/rivers pumping, etc ) only treat an existing source of water. \" he adds that the world's water scarcity will affect more than the 150 million possible wms1000 customers; household water needs are also growing, so eole water is seeking other solutions — especially affordable ones. Once testing is complete, each wms1000 should cost $ 600,000 and last for 20 years.",
         "split": "train",
         "cleansed_document": [
-            "( eole water ) for the nearly 20 percent of the world's population who live in areas without access to fresh drinking water, getting access is a matter of life or death. Inspired by the mechanics of a dripping air conditioner, french inventor marc parent was inspired to create a solution that could bring fresh water to the most remote, driest parts of the world. Parent created a company, eole water, that produces wind turbines that literally pull fresh water out of thin air. His solution, dubbed the wms1000 uses the electricity generated from a windmill to collect and treat water without tapping into a water source such as a river, lake or well. Eole water is testing the invention in france and abu dhabi. The invention, if the company can get the economics to work, looks to be a promising solution to the water crisis. I recently interviewed thibault janin, marketing and communication director of eole water on the wms 1000 turbine to find out what's in store for this new technology. How was the idea of a wind turbine that produces water developed? thibault janin: the idea came from marc parent, founder of eole water, when he lived in the caribbean, and was subjected to water shortages. He began to work on a system that could recover moisture from the air and transform it into water. Soon after, he returned to france. He patented the process and founded eole water. Millions of people worldwide live in remote areas without any access to safe drinking water. What is the potential for the eole system to",
-            "Marc parent, member of the official french delegation with françois hollande in qatar on june 22nd and 23rd, 2013 eole water was awarded with a special jury mention of \" enterprises and environment prize 2013 \", in the category \" innovation in technology \", organized by the french ministry of ecology, sustainable development and energy. September 2014. A new nerios.s3 is born! even more efficient and refined. Eole water at eurosatory 2016 eole water will be exhibiting at the defence and security international exhibition from 13 to 17 june 2016. Paris nord villepinte exhibition center. Booth gf598 hall 6 ( french \"eden \" pavilion ). Drinking water has never been so close to you! eole water is the pioneer in the field of water making systems using air as a source of water. The company has invented in particular the first wind turbine able to create drinking water from condensed air. Today, 150 million of people worldwide live in remote areas without any access to safe drinking water. The eole water's mission is to provide these isolated communities with drinking water. Discover our technology"
+            "( eole water ) for the nearly 20 percent of the world's population who live in areas without access to fresh drinking water, getting access is a matter of life or death. Inspired by the mechanics of a dripping air conditioner, french inventor marc parent was inspired to create a solution that could bring fresh water to the most remote, driest parts of the world. Parent created a company, eole water, that produces wind turbines that literally pull fresh water out of thin air. His solution, dubbed the wms1000 uses the electricity generated from a windmill to collect and treat water without tapping into a water source such as a river, lake or well. Eole water is testing the invention in france and abu dhabi. The invention, if the company can get the economics to work, looks to be a promising solution to the water crisis. I recently interviewed thibault janin, marketing and communication director of eole water on the wms 1000 turbine to find out what's in store for this new technology. How was the idea of a wind turbine that produces water developed? thibault janin: the idea came from marc parent, founder of eole water, when he lived in the caribbean, and was subjected to water shortages. He began to work on a system that could recover moisture from the air and transform it into water. Soon after, he returned to france. He patented the process and founded eole water. Millions of people worldwide live in remote areas without any access to safe drinking water. What is the potential for the eole system to"
         ],
         "raw_document": [
             "( eole water ) for the nearly 20 percent of the world's population who live in areas without access to fresh drinking water, getting access is a matter of life or death. Inspired by the mechanics of a dripping air conditioner, french inventor marc parent was inspired to create a solution that could bring fresh water to the most remote, driest parts of the world. Parent created a company, eole water, that produces wind turbines that literally pull fresh water out of thin air. His solution, dubbed the wms1000 uses the electricity generated from a windmill to collect and treat water without tapping into a water source such as a river, lake or well. Eole water is testing the invention in france and abu dhabi. The invention, if the company can get the economics to work, looks to be a promising solution to the water crisis. I recently interviewed thibault janin, marketing and communication director of eole water on the wms 1000 turbine to find out what's in store for this new technology. How was the idea of a wind turbine that produces water developed? thibault janin: the idea came from marc parent, founder of eole water, when he lived in the caribbean, and was subjected to water shortages. He began to work on a system that could recover moisture from the air and transform it into water. Soon after, he returned to france. He patented the process and founded eole water. Millions of people worldwide live in remote areas without any access to safe drinking water. What is the potential for the eole system to",
@@ -2009,7 +1992,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2115,17 +2098,15 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
         "idx": 11478,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Here's everything you need to know about the turf war between the wall street journal and the new york times in the big apple... In animated form. ( get ready for rupert murdoch with a fin, and a jets vs. Sharks homage ). The youtube video comes from taiwanese new media animation, which has tackled other meaty issues of the day here and here. For more on the animators, see this profile in wired.",
         "split": "train",
-        "cleansed_document": [
-            "National september 11 memorial museumarchive-it partner since: dec, 2007organization type: museums &amp; art librariesorganization url: http://www.national911memorial.org the national september 11 memorial museum is committed to documenting the events, immediate aftermath, and continuing repercussions of the terrorist attacks of september 11, 2001 and february 26, 1993. To that end, the memorial museum's web archive seeks to identify and preserve web sites that reflect the international scope of this emergent history. These sites will be continually sourced from a wide variety of contributors, and will serve to reflect the full breadth of the post-9/11 world.references to institution as a partner on internet archive's website shall carry no legal meaning and simply reflects institution's status as a user of internet archive's services pursuant to this agreement."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Early in the morning on november 27, 2009, tiger woods allegedly had an altercation with his wife, elin nordegren, that culminated in a career-derailing car crash outside the couple's florida home. Details of what transpired are vague — the principals aren't talking, and no cameras were present. Millions of people who followed the breaking story on cnn, fox, espn, and tmz had to satisfy themselves with watching file footage of the golfer and his wife. The incident captured the world's attention, but no one could actually see it — until an animated reenactment was uploaded to the web site of an asian tabloid just hours after it happened. The 96-second videoclip featured sims-like doppelgängers of the couple and depicted the moments that everyone was clamoring to see: the vehicle colliding with a tree, an unconscious woods lying in the street as the police arrived, even nordegren chasing her husband's suv down the driveway with a golf club. Most of next media animation's videos are about scandals and crimes in hong kong and taiwan. But some of their more ambitious ( and surreal ) animations are about public figures from america. Here's a sampling from their videos about tiger woods, steve jobs, al gore, and sarah palin. Someone reposted the clip to youtube, and the crude, somewhat surreal animation quickly scored 2.5 million views. It was picked up and replayed by many western news organizations and generated an enormous amount of attention, amusement, and controversy. Mission accomplished for the man behind the video, hong kong tabloid tycoon jimmy lai. He had launched the cg production house next media animation just a month earlier with the goal of animating the news of the day. \"there's no better sensation than image. It's so in-your-face! \" the 62-year-old founder of next media says. Lai is sitting in the fourth-story office",
             "National september 11 memorial museumarchive-it partner since: dec, 2007organization type: museums &amp; art librariesorganization url: http://www.national911memorial.org the national september 11 memorial museum is committed to documenting the events, immediate aftermath, and continuing repercussions of the terrorist attacks of september 11, 2001 and february 26, 1993. To that end, the memorial museum's web archive seeks to identify and preserve web sites that reflect the international scope of this emergent history. These sites will be continually sourced from a wide variety of contributors, and will serve to reflect the full breadth of the post-9/11 world.references to institution as a partner on internet archive's website shall carry no legal meaning and simply reflects institution's status as a user of internet archive's services pursuant to this agreement."
@@ -2139,7 +2120,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2306,7 +2287,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2413,7 +2394,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2448,7 +2429,7 @@
             "2": 1,
             "3": 0,
             "4": 3,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -2527,7 +2508,7 @@
             "0": 0,
             "1": 0,
             "2": 3,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2616,13 +2597,12 @@
     },
     {
         "idx": 11496,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Yet another twist in the stormy daniels case: newly released documents link a trump organization lawyer to an agreement to block the adult film star from discussing her alleged affair with president trump, nbc news reports. Assistant general counsel jill martin filed a document as part of confidential arbitration proceedings in the case last month, though the trump organization says it \" has no involvement in the matter \" and martin was serving in a personal capacity, reports the washington post. But daniels ' lawyer, michael avenatti, says martin's involvement is more proof that trump knew about the secrecy agreement and a $ 130,000 payment trump's personal lawyer, michael cohen, made to daniels. Avenatti told cnn wednesday that cohen's claim that the trump organization and trump himself weren't involved in the agreement is \" utter fiction. \" cohen \" expects the american people to believe that he spent all of this time and energy, hours upon hours, doing all of this work, and the president never knew anything about it, and no one in the trump organization ever knew anything about it, \" he said. Politico reports that buzzfeed may have found a way for daniels to get around the agreement. Cohen filed a libel lawsuit against buzzfeed earlier this year over the russia dossier, and buzzfeed may use that case to request daniels'testimony in a deposition. ( daniels has offered to return the $ 130,000 so she can speak freely. )",
         "split": "train",
         "cleansed_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by sarah fitzpatrick and tracy connor a top lawyer for the trump organization was involved in trying to enforce a secrecy agreement that adult film star stormy daniels signed in exchange for $ 130,000 before the 2016 election, new documents show. Jill a. Martin, whose linkedin profile says she is assistant general counsel for the company, last month signed two legal papers linked to a temporary restraining order against the actress, whose legal name is stephanie clifford. It's the latest link between the trump organization and efforts to silence clifford, who says in a lawsuit that she had an \" intimate \" relationship with donald trump a decade before he became president. Trump denies her allegations, and white house spokeswoman sarah sanders said last week that as far as she knows",
-            "It's been nearly two months since allegations came to light of a past affair between president trump and adult-film actress stormy daniels, and now daniels is suing. ( jenny starrs/the washington post ) it's been nearly two months since allegations came to light of a past affair between president trump and adult-film actress stormy daniels, and now daniels is suing. ( jenny starrs/the washington post ) a top trump organization attorney filed a secret legal document to keep stormy daniels from talking about her alleged affair with president trump, deepening links between trump's company and the effort to silence the porn star. The trump organization quickly distanced itself from the document, filed as part of confidential arbitration proceedings in los angeles on feb. 22. The document was made public wednesday evening by cnn and the wall street journal, and the washington post confirmed its authenticity with michael avenatti, a lawyer for",
-            "Stormy daniels last week filed suit in state court in los angeles, seeking to have the nondisclosure agreement tossed out because donald trump never signed it. &#124; joe raedle/getty images buzzfeed maneuver could free stormy daniels to speak on trump buzzfeed may have found a legal opening to allow the porn actress stormy daniels to discuss her alleged relationship with president donald trump and a $ 130,000 payment she received just before the 2016 election as part of a nondisclosure agreement she is now trying to void. The same trump attorney who brokered the deal with daniels, michael cohen, filed a libel suit in january against buzzfeed and four of its staffers over publication of the so-called dossier compiling accurate, inaccurate and unproven allegations about trump's relationship with russia. Story continued below now, buzzfeed is using cohen's libel suit as a vehicle to demand that daniels preserve all records relating to her relationship with"
+            "It's been nearly two months since allegations came to light of a past affair between president trump and adult-film actress stormy daniels, and now daniels is suing. ( jenny starrs/the washington post ) it's been nearly two months since allegations came to light of a past affair between president trump and adult-film actress stormy daniels, and now daniels is suing. ( jenny starrs/the washington post ) a top trump organization attorney filed a secret legal document to keep stormy daniels from talking about her alleged affair with president trump, deepening links between trump's company and the effort to silence the porn star. The trump organization quickly distanced itself from the document, filed as part of confidential arbitration proceedings in los angeles on feb. 22. The document was made public wednesday evening by cnn and the wall street journal, and the washington post confirmed its authenticity with michael avenatti, a lawyer for"
         ],
         "raw_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by sarah fitzpatrick and tracy connor a top lawyer for the trump organization was involved in trying to enforce a secrecy agreement that adult film star stormy daniels signed in exchange for $ 130,000 before the 2016 election, new documents show. Jill a. Martin, whose linkedin profile says she is assistant general counsel for the company, last month signed two legal papers linked to a temporary restraining order against the actress, whose legal name is stephanie clifford. It's the latest link between the trump organization and efforts to silence clifford, who says in a lawsuit that she had an \" intimate \" relationship with donald trump a decade before he became president. Trump denies her allegations, and white house spokeswoman sarah sanders said last week that as far as she knows",
@@ -2639,7 +2619,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {

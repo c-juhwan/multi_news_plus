@@ -74,7 +74,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -151,7 +151,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -178,7 +178,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -290,7 +290,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -710,7 +710,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -787,7 +787,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -845,13 +845,12 @@
     },
     {
         "idx": 42531,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Turns out lindsay lohan isn't engaged after all. Tmz reported tuesday that lohan's boyfriend, russian heir egor tarabasov, had proposed over the weekend, but lilo's rep now tells people, \" the story is untrue and holds no merit. \" ( as of tuesday night, tmz was sticking to its guns, reporting that lilo was sporting an emerald-and-diamond engagement ring. ) lohan, 29, and tarabasov, a 22-year-old whose businessman father is a multi-millionaire, have been dating about eight months, per people, and have recently moved in together. Tarabasov also spent the holidays in new york with lohan and her family, per page six. \" he's older than his years. Being an only child and traveling the world educates you in other ways, \" lindsay's mom, dina, told page six last month. Dad michael's take, around the same time: \" he has a lot of strong connections in russia — these are big people and they're very supportive. \"",
         "split": "train",
         "cleansed_document": [
             "Is she or isn't she? tmz reported tuesday that lindsay lohan is engaged to boyfriend egor tarabasov after he popped the question over the weekend, but a rep for the actress tells page six the report is \"not true and holds no merit. \" if news of an engagement seems quick, that's because the \"mean girls \" star, 29, and the 22-year-old russian started dating only five months ago. As fast as the couple may have moved, the actress ' mother certainly won't mind. She's already made clear that she's quite the fan of the young real estate agent. \"he's just a sweetheart, \" dina lohan told page six last month. \"he's an only child and i just facetimed with them and his mom a few days ago. He's cool and he's very mature for his age. He's older than his years. Being an only child and traveling the world educates you in other ways. He's not about celebrity or anything, which is really important. \" apparently, tarabasov is one of the few things lindsay's parents can agree on, as her father, michael, also feels good about the couple. \"he has a lot of strong connections in russia — these are big people and they're very supportive, \" he said last month. \"he wants things to be in the right place for lindsay and he's wise beyond his years. \"",
-            "Lindsay lohan i ' m engaged!!! lindsay lohan is engaged!!! exclusive from russia with love -- lindsay lohan is engaged to be married to her 22-year-old boyfriend. We're told russian heir egor tarabasov popped the question over the weekend, and lilo said... Da. As we've told you... 29-year-old lindsay and egor started dating about 5 months ago, and got serious pretty quickly. Egor spent the holidays in ny with the lohan fam, who gave him the stamp of approval. Egor, whose father is a multi-millionaire businessman, met linds through mutual friends at a party. Congrats!",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Lindsay lohan i ' m engaged!!! lindsay lohan is engaged!!! exclusive from russia with love -- lindsay lohan is engaged to be married to her 22-year-old boyfriend. We're told russian heir egor tarabasov popped the question over the weekend, and lilo said... Da. As we've told you... 29-year-old lindsay and egor started dating about 5 months ago, and got serious pretty quickly. Egor spent the holidays in ny with the lohan fam, who gave him the stamp of approval. Egor, whose father is a multi-millionaire businessman, met linds through mutual friends at a party. Congrats!"
         ],
         "raw_document": [
             "Is she or isn't she? tmz reported tuesday that lindsay lohan is engaged to boyfriend egor tarabasov after he popped the question over the weekend, but a rep for the actress tells page six the report is \"not true and holds no merit. \" if news of an engagement seems quick, that's because the \"mean girls \" star, 29, and the 22-year-old russian started dating only five months ago. As fast as the couple may have moved, the actress ' mother certainly won't mind. She's already made clear that she's quite the fan of the young real estate agent. \"he's just a sweetheart, \" dina lohan told page six last month. \"he's an only child and i just facetimed with them and his mom a few days ago. He's cool and he's very mature for his age. He's older than his years. Being an only child and traveling the world educates you in other ways. He's not about celebrity or anything, which is really important. \" apparently, tarabasov is one of the few things lindsay's parents can agree on, as her father, michael, also feels good about the couple. \"he has a lot of strong connections in russia — these are big people and they're very supportive, \" he said last month. \"he wants things to be in the right place for lindsay and he's wise beyond his years. \"",
@@ -868,7 +867,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -893,7 +892,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -921,17 +920,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 42534,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A top exec is bolting from facebook so he can work on his own startup. Chief technology officer bret taylor, who supervised platform and mobile products, will leave this summer, reports allthingsd. His leaving could prove worrisome as a reflection of facebook's inability to retain strong leadership, especially in the wake of the not-so-hot ipo, writes kara swisher. Taylor is not saying what his new business will be yet. ( he posted a goodbye note on, yes, his facebook page. ) \"i had always been upfront with mark [ zuckerberg ] that i eventually wanted to do another startup, \" taylor said. \"and we felt now is the best time after the ipo and the launch of some recent things for me to do that. \" but it wasn't all bad news for facebook today: the company's stock closed out its first positive week, notes ap. The stock is now at $ 30.01, though still well below the $ 38 ipo price.",
         "split": "train",
         "cleansed_document": [
-            "Exclusive: facebook cto bret taylor departs ( for start-ups unknown ) facebook's high-profile cto bret taylor is leaving the silicon valley social networking giant later this summer, with future plans to work on an as-yet-to-be-determined start-up. The move is likely to be of concern to some over the newly public company's ability to hold onto entrepreneurial talent, especially in the wake of continued intense media and investor scrutiny over its rocky ipo last month. That's especially true since taylor has been in charge of both platform and mobile efforts at facebook, a critical arena for it. A pair of facebook execs under taylor — mike vernal and cory ondrejka — will be taking over platform and mobile, respectively. Vernal joined facebook in 2008 from microsoft, leading the original facebook connect project and also working on platform efforts and the development of open graph. Ondrejka arrived at the company in 2010 through the acquisition of walletin; he previously worked at linden labs on second life virtual worlds. While well qualified, they have big shoes to fill. Named to cto two years ago, taylor has also been a strong public figure at facebook events, including its recent developers conference. And he was front and center at apple's worldwide developers conference earlier this week at the announcement of facebook integration into its newest ios. In an interview today, taylor said he understands that his departure will be perceived as a disruption, although he noted that facebook had a deep bench of talented technical staff under ceo and co-founder mark zuckerberg. \"i had always been upfront with mark that i eventually wanted to do another start-up, \" he said. \"and we felt now is the best time after the ipo and the launch of some recent things for me to do that. \" that includes the apple deal, facebook camera and also its app center, which helps users find mobile and desktop apps their friends like. Facebook is also reportedly working on a major effort to create",
-            "On its first day of trading, facebook inc.'s stock closed barely above its public offering price. It gained 23 cents, or 0.6 percent, to close at $ 38.23. Since then, the stock price has fallen each week _ until now. Here's are the closing prices each week since the first day of trading on may 18: _ may 25: closed at $ 31.91, down 17 percent for the week. _ june 1: closed at $ 27.72, down 13 percent for the week. _ june 8: closed at $ 27.10, down 2 percent for the week. _ june 15: closed at $ 30.01, up 11 percent for the week."
+            "Exclusive: facebook cto bret taylor departs ( for start-ups unknown ) facebook's high-profile cto bret taylor is leaving the silicon valley social networking giant later this summer, with future plans to work on an as-yet-to-be-determined start-up. The move is likely to be of concern to some over the newly public company's ability to hold onto entrepreneurial talent, especially in the wake of continued intense media and investor scrutiny over its rocky ipo last month. That's especially true since taylor has been in charge of both platform and mobile efforts at facebook, a critical arena for it. A pair of facebook execs under taylor — mike vernal and cory ondrejka — will be taking over platform and mobile, respectively. Vernal joined facebook in 2008 from microsoft, leading the original facebook connect project and also working on platform efforts and the development of open graph. Ondrejka arrived at the company in 2010 through the acquisition of walletin; he previously worked at linden labs on second life virtual worlds. While well qualified, they have big shoes to fill. Named to cto two years ago, taylor has also been a strong public figure at facebook events, including its recent developers conference. And he was front and center at apple's worldwide developers conference earlier this week at the announcement of facebook integration into its newest ios. In an interview today, taylor said he understands that his departure will be perceived as a disruption, although he noted that facebook had a deep bench of talented technical staff under ceo and co-founder mark zuckerberg. \"i had always been upfront with mark that i eventually wanted to do another start-up, \" he said. \"and we felt now is the best time after the ipo and the launch of some recent things for me to do that. \" that includes the apple deal, facebook camera and also its app center, which helps users find mobile and desktop apps their friends like. Facebook is also reportedly working on a major effort to create"
         ],
         "raw_document": [
             "Exclusive: facebook cto bret taylor departs ( for start-ups unknown ) facebook's high-profile cto bret taylor is leaving the silicon valley social networking giant later this summer, with future plans to work on an as-yet-to-be-determined start-up. The move is likely to be of concern to some over the newly public company's ability to hold onto entrepreneurial talent, especially in the wake of continued intense media and investor scrutiny over its rocky ipo last month. That's especially true since taylor has been in charge of both platform and mobile efforts at facebook, a critical arena for it. A pair of facebook execs under taylor — mike vernal and cory ondrejka — will be taking over platform and mobile, respectively. Vernal joined facebook in 2008 from microsoft, leading the original facebook connect project and also working on platform efforts and the development of open graph. Ondrejka arrived at the company in 2010 through the acquisition of walletin; he previously worked at linden labs on second life virtual worlds. While well qualified, they have big shoes to fill. Named to cto two years ago, taylor has also been a strong public figure at facebook events, including its recent developers conference. And he was front and center at apple's worldwide developers conference earlier this week at the announcement of facebook integration into its newest ios. In an interview today, taylor said he understands that his departure will be perceived as a disruption, although he noted that facebook had a deep bench of talented technical staff under ceo and co-founder mark zuckerberg. \"i had always been upfront with mark that i eventually wanted to do another start-up, \" he said. \"and we felt now is the best time after the ipo and the launch of some recent things for me to do that. \" that includes the apple deal, facebook camera and also its app center, which helps users find mobile and desktop apps their friends like. Facebook is also reportedly working on a major effort to create",
@@ -946,7 +944,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -980,7 +978,7 @@
             "1": 2,
             "2": 2,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1161,13 +1159,12 @@
     },
     {
         "idx": 42542,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Hillary clinton hasn't been shy about calling out jeb bush, but bush has largely held his return fire. It appears that will change in a big way tonight during a bush foreign policy speech in california, reports politico. Excerpts released in advance show that bush intends to talk about the rise of the islamic state under the obama administration's watch and ask, \" where was secretary of state clinton in all of this? \" among other things, bush will accuse her and president obama of bungling the end of the iraqi war and disengaging too soon. \" like the president himself, she had opposed the surge … then joined in claiming credit for its success … then stood by as that hard-won victory by american and allied forces was thrown away, \" bush will say. \"in all her record-setting travels, she stopped by iraq exactly once. \" the new york times describes it as a \" full-throttle attack. \" meanwhile, the two candidates were exchanging \" twitter burns \" over clinton's newly unveiled college-debt plan, notes business insider.",
         "split": "train",
         "cleansed_document": [
             "Getty 2016 jeb bush to assail clinton, obama on iraq he will ask: \"where was secretary of state clinton in all of this? \" jeb bush will blast hillary clinton and the obama administration for their failure to preserve a hard-won peace in iraq in a policy speech tuesday night in california. Bush, who will speak at the ronald reagan presidential library in simi valley on tuesday evening, will argue, as he often does on the campaign trail, that clinton and obama are to blame for the spread of isil ( also known as isis and the islamic state ) across iraq and syria and for the broader instability in the middle east. Story continued below the potent attack against the former secretary of state is shrewd politics: focusing on america's failure to keep the peace at the end of the iraq war ignores the war's beginning — enabling bush to conveniently",
-            "Photo los angeles — jeb bush is planning to issue a full-throttle attack tuesday night on the obama administration's handling of iraq and terrorism issues, asserting that hillary rodham clinton \"stood by \" as secretary of state when the situation in iraq deteriorated, creating the conditions that led to the rise of the islamic state as the obama administration reduced its troop level in iraq. In a foreign policy speech mr. Bush plans to give at the ronald reagan presidential library in simi valley, calif., he will join other republicans in attacking the administration's middle east policies and lay blame for the state of persistent violence now engulfing iraq and syria at mrs. Clinton's feet. \"where was secretary of state clinton in all of this? \" mr. Bush asks, according to excerpts from the speech provided by his campaign. Referring to the rise of the islamic state, he says:",
-            "Two of the leading candidates for president are trolling each other on twitter. In what could be a preview of a potential general-election race, former secretary of state hillary clinton and former gov. Jeb bush of florida repeatedly exchanged shots on monday, posting images to mock each other with sarcastic tweets. Their back-and-forth began when clinton, the democratic front-runner, touted her new college-affordability plan: cost won't be a barrier to an education. Debt won't hold you back. Read hillary's plan: http://t.co/a4pwb3fof4 pic.twitter.com/kvyr8slsvn — hillary clinton ( @hillaryclinton ) august 10, 2015 bush decided to jump into the conversation by repurposing clinton's image to argue that president barack obama, under whom clinton once served, had done little to address the college-affordability issue: clinton has gone out of her way recently to attack bush. And, sure enough, her campaign responded directly to"
+            "Photo los angeles — jeb bush is planning to issue a full-throttle attack tuesday night on the obama administration's handling of iraq and terrorism issues, asserting that hillary rodham clinton \"stood by \" as secretary of state when the situation in iraq deteriorated, creating the conditions that led to the rise of the islamic state as the obama administration reduced its troop level in iraq. In a foreign policy speech mr. Bush plans to give at the ronald reagan presidential library in simi valley, calif., he will join other republicans in attacking the administration's middle east policies and lay blame for the state of persistent violence now engulfing iraq and syria at mrs. Clinton's feet. \"where was secretary of state clinton in all of this? \" mr. Bush asks, according to excerpts from the speech provided by his campaign. Referring to the rise of the islamic state, he says:"
         ],
         "raw_document": [
             "Getty 2016 jeb bush to assail clinton, obama on iraq he will ask: \"where was secretary of state clinton in all of this? \" jeb bush will blast hillary clinton and the obama administration for their failure to preserve a hard-won peace in iraq in a policy speech tuesday night in california. Bush, who will speak at the ronald reagan presidential library in simi valley on tuesday evening, will argue, as he often does on the campaign trail, that clinton and obama are to blame for the spread of isil ( also known as isis and the islamic state ) across iraq and syria and for the broader instability in the middle east. Story continued below the potent attack against the former secretary of state is shrewd politics: focusing on america's failure to keep the peace at the end of the iraq war ignores the war's beginning — enabling bush to conveniently",
@@ -1184,7 +1181,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1212,7 +1209,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1264,7 +1261,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1294,7 +1291,7 @@
             "0": 0,
             "1": 0,
             "2": 3,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1424,7 +1421,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1479,13 +1476,12 @@
     },
     {
         "idx": 42554,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A day in the life of james corden often involves cajoling celebrities into his car as he cruises in los angeles, where they enjoy conversation and belt out songs together as part of the ' carpool karaoke'segment on corden's late late show. This week, however, the british comedian is airing his show from london, and he recruited a very special passenger for what today calls the \" most emotional yet \" of all singalong sessions. Sir paul mccartney climbed in next to corden, revealed tidbits about himself and the beatles, and crooned show-themed songs such as \" penny lane \" ( the actual road they were driving on ) and \" drive my car, \" per usa today. But then the 76-year-old music legend explained the origin story of \" let it be, \" and corden lost it. \" i had a dream in the ' 60s, where my mom who died came to me in the dream and was reassuring me, saying, ' it's going to be ok. Just let it be, ' \" mccartney explained, noting he wrote the song based on that dream. \" that's the most beautiful story i've ever heard, \" corden said, and after they sang the song together, he wiped tears away from his eyes, adding, \" that got me emotional there. \" \" that's the power of music. It's weird, isn't it? \" mccartney replied. More from their joy ride here.",
         "split": "train",
         "cleansed_document": [
             "Paul mccartney makes james corden cry during emotional ' carpool karaoke ' close the pair belted out the 1965 classics \"drive my car \" and \"help! \" and even stopped by penny lane in the latest edition of \" carpool karaoke. \" time it turns out, all you need is love and paul mccartney joining james corden for an epic and emotional \" carpool karaoke. \" naturally, the duo belted out favored beatles tunes like \" drive my car, \" and \" penny lane \" ( while cruising down the actual street ). But their ride went so much deeper than singing. Mccartney told corden he inspiration for \" let it be \" came from a dream he had of his late mom in the 1960s. The singer-songwriter said she was \" reassuring me, saying ' it's gonna be ok. Just let it be. ' \" he explained, \" i wrote the",
-            "Get the latest from today sign up for our newsletter james corden has taken all kinds of musicians out for a ride on his \" late, late show \" carpool karaoke segment. But not have been quite as magical, mystical — or emotional — as thursday's drive... With former beatle paul mccartney. Corden is airing shows from london this week, but took a side trip north to the beatles ' hometown of liverpool, where mccartney, 76, slipped in alongside him for renditions of classic tunes like \" penny lane, \" \" blackbird \" and \" drive my car \" ( which seemed obligatory, given the circumstances ). He also launched into a new hit, \" come on to me, \" from his forthcoming album \" egypt station. \" \" i wrote my first song when i was 14, \" said mccartney. \" it was called, '",
-            "Published on jun 21, 2018 james corden heads to liverpool for a special day with paul mccartney spent exploring the city of paul's youth, visiting his childhood home where he wrote music with john lennon, performing songs in a local pub and of course driving around singing a few of paul's biggest hits. Pre-order paul mccartney's new album egypt station and download his two new songs \" come on to me \" and \" i don't know \" here: https://paulmccartney.lnk.to/egyptsta... - watch the late late show with james corden's episodes from london only on sky one at 10pm. More late late show: subscribe: http://bit.ly/cordenyoutube watch full episodes: http://bit.ly/1enypw4 facebook: http://on.fb.me/19pihlc twitter: http://bit.ly/1iv0q6k instagram: http://bit.ly/latelategram watch the late late show with james corden weeknights at 12: 35 am et/11: 35 pm ct. Only on cbs. Get new episodes of shows you"
+            "Get the latest from today sign up for our newsletter james corden has taken all kinds of musicians out for a ride on his \" late, late show \" carpool karaoke segment. But not have been quite as magical, mystical — or emotional — as thursday's drive... With former beatle paul mccartney. Corden is airing shows from london this week, but took a side trip north to the beatles ' hometown of liverpool, where mccartney, 76, slipped in alongside him for renditions of classic tunes like \" penny lane, \" \" blackbird \" and \" drive my car \" ( which seemed obligatory, given the circumstances ). He also launched into a new hit, \" come on to me, \" from his forthcoming album \" egypt station. \" \" i wrote my first song when i was 14, \" said mccartney. \" it was called, '"
         ],
         "raw_document": [
             "Paul mccartney makes james corden cry during emotional ' carpool karaoke ' close the pair belted out the 1965 classics \"drive my car \" and \"help! \" and even stopped by penny lane in the latest edition of \" carpool karaoke. \" time it turns out, all you need is love and paul mccartney joining james corden for an epic and emotional \" carpool karaoke. \" naturally, the duo belted out favored beatles tunes like \" drive my car, \" and \" penny lane \" ( while cruising down the actual street ). But their ride went so much deeper than singing. Mccartney told corden he inspiration for \" let it be \" came from a dream he had of his late mom in the 1960s. The singer-songwriter said she was \" reassuring me, saying ' it's gonna be ok. Just let it be. ' \" he explained, \" i wrote the",
@@ -1502,7 +1498,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1527,7 +1523,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1614,7 +1610,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1664,7 +1660,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1694,12 +1690,11 @@
     },
     {
         "idx": 42562,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "With the trial of joaquin \" el chapo \" guzman underway, all eyes north and south of the border are on the notorious sinaloa drug cartel leader. Well, maybe not all eyes. Per the new york post, someone may have spotted el chapo's beauty queen wife, emma coronel aispuro, with some contraband in the brooklyn courtroom where guzman is accused of heading up a bloodthirsty cocaine smuggling operation, per the ap. The post reports that prosecutors informed the court that aispuro was seen with a cellphone and asked that she be passed through metal detectors a second time on monday. Like all members of the public and media, 29-year-old aispuro has been expected to leave her electronics with security before entering the courtroom. ( she's been in the courtroom every day since the trial began, but the two reportedly have not been allowed to hug. )",
         "split": "train",
         "cleansed_document": [
-            "El chapo's beauty-queen wife was caught with a cellphone in the brooklyn federal courthouse where his case has been playing out — and electronics are strictly forbidden. Emma coronel aispuro was ratted out by prosecutors who requested she go through security again before a secret cooperating witness takes the stand monday afternoon. Prosecutors asked that \"ms. Coronel be required to go through the metal detector again, \" claiming there is \"footage of her having a cellphone in court, which she's not supposed to have, \" judge brian cogan told the lawyers, after he dismissed jurors for lunch. It's not clear if aispuro — who married notorious sinaloa cartel drug lord joaquin \"el chapo \" guzman in 2007 — was seen with her phone in the courtroom. But members of the public are barred from bringing electronics into the courthouse altogether. They must be checked in after going through security in the lobby. Members of the media and public are also required to go through metal detectors before entering the eighth-floor courtroom. The 29-year-old mom hasn't missed a day of her hubby's drug-trafficking trial since it began earlier this month. She has been listening to translations of testimony on headphones — and gave a little smirk when she was called out by cogan. The judge decided to break for lunch instead of immediately going into the next",
-            "Joaquin \" el chapo \" guzman, surrounded by us marshals, waves to his wife as he enters the courtroom at brooklyn federal court, as his high-security trial got underway in the brooklyn borough of new york,... ( associated press ) joaquin \" el chapo \" guzman, surrounded by us marshals, waves to his wife as he enters the courtroom at brooklyn federal court, as his high-security trial got underway in the brooklyn borough of new york, tuesday, nov. 13, 2018. The infamous mexican drug lord has been held in solitary confinement since... ( associated press ) new york ( ap ) — the infamous mexican drug lord and escape artist joaquin \" el chapo \" guzman was alternately portrayed at his u.s. Trial on tuesday as a calculating leader of a bloodthirsty smuggling operation that funneled tons of cocaine and other drugs into american cities and a scapegoat for a conspiracy whose actual mastermind bribed crooked mexican officials as high as the president to keep his freedom. In opening statements amid tight security in federal court in brooklyn, assistant u.s. Attorney adam fels told a jury whose identities have been kept secret how the man who got his start in a modest marijuana-selling business became a kingpin known for using an army of hit men to wipe out his competitors and anyone within his sinaloa cartel who betrayed him. \" money. Drugs. Murder"
+            "El chapo's beauty-queen wife was caught with a cellphone in the brooklyn federal courthouse where his case has been playing out — and electronics are strictly forbidden. Emma coronel aispuro was ratted out by prosecutors who requested she go through security again before a secret cooperating witness takes the stand monday afternoon. Prosecutors asked that \"ms. Coronel be required to go through the metal detector again, \" claiming there is \"footage of her having a cellphone in court, which she's not supposed to have, \" judge brian cogan told the lawyers, after he dismissed jurors for lunch. It's not clear if aispuro — who married notorious sinaloa cartel drug lord joaquin \"el chapo \" guzman in 2007 — was seen with her phone in the courtroom. But members of the public are barred from bringing electronics into the courthouse altogether. They must be checked in after going through security in the lobby. Members of the media and public are also required to go through metal detectors before entering the eighth-floor courtroom. The 29-year-old mom hasn't missed a day of her hubby's drug-trafficking trial since it began earlier this month. She has been listening to translations of testimony on headphones — and gave a little smirk when she was called out by cogan. The judge decided to break for lunch instead of immediately going into the next"
         ],
         "raw_document": [
             "El chapo's beauty-queen wife was caught with a cellphone in the brooklyn federal courthouse where his case has been playing out — and electronics are strictly forbidden. Emma coronel aispuro was ratted out by prosecutors who requested she go through security again before a secret cooperating witness takes the stand monday afternoon. Prosecutors asked that \"ms. Coronel be required to go through the metal detector again, \" claiming there is \"footage of her having a cellphone in court, which she's not supposed to have, \" judge brian cogan told the lawyers, after he dismissed jurors for lunch. It's not clear if aispuro — who married notorious sinaloa cartel drug lord joaquin \"el chapo \" guzman in 2007 — was seen with her phone in the courtroom. But members of the public are barred from bringing electronics into the courthouse altogether. They must be checked in after going through security in the lobby. Members of the media and public are also required to go through metal detectors before entering the eighth-floor courtroom. The 29-year-old mom hasn't missed a day of her hubby's drug-trafficking trial since it began earlier this month. She has been listening to translations of testimony on headphones — and gave a little smirk when she was called out by cogan. The judge decided to break for lunch instead of immediately going into the next",
@@ -1714,17 +1709,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 42563,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Justin bieber is on a roll, and not in a good way: over the past few days he's managed to offend both brits and canadian aboriginals. Most recently, in an interview with rolling stone, bieber discusses his nationality. Per the hollywood gossip: \" i ' m actually part indian. I think inuit or something? i ' m enough percent that in canada, i can get free gas, \" he said. The congress of aboriginal peoples was not amused, responding, \" these kinds of remarks are another example of what aboriginal peoples in canada struggle with every day. It promotes the misconception that we are somehow getting a free ride. \" earlier, in an interview with rollercoaster magazine, bieber made the mistake of discussing beloved prince william and his thinning hair. \" i mean, there are things to prevent that nowadays, like propecia, \" bieber said. \" i don't know why he doesn't just get those things, those products. You just take propecia and your hair grows back. Have you not got it over here? \" william's fans in the uk were displeased, the huffington post notes. \" he needs to be swatted away, \" a british journalist says. \" wills may be thinning on top but he is one cool royal and landed himself the hottest future queen england has ever had. How can justin and his girly hairstyle possibly compete with that? \"",
         "split": "train",
         "cleansed_document": [
-            "What was intended to be a joke by justin bieber has landed the singer in a bit of hot water. In an interview with rolling stone - inside the same issue that contains sex advice from the young star - bieber is asked about his nationality and responds: \" i ' m actually part indian. I think inuit or something? i ' m enough percent that in canada, i can get free gas. \" harmless, right? not to everyone... The congress of aboriginal peoples has chimed and the group is unhappy with the implication behind justin's words. \" these kinds of remarks are another example of what aboriginal peoples in canada struggle with every day, \" says the organization in a statement. \" these kinds of remarks are another example of what aboriginal peoples in canada struggle with every day. It promotes the misconception that we are somehow getting a free ride. This simply is not the case and we are concerned that many people may believe what he said. \" honestly, many people likely don't even understand what bieber said. Still, he clearly did offend some people. Should justin apologize?",
-            "Celebrity photos: august 2012 looking good, jennifer lawrence! the \" hunger games \" actress stopped by a pilates class in l.a. On august 8. Celebrity photos: august 2012 jennie garth was in new york with daughter lola on august 8, and the pair was photographed leaving the sirius radio studios. Celebrity news: august 2012 congratulations are in order for kristin cavallari and her fiance jay cutler. The couple welcomed a baby boy, camden jack cutler, on august 8. Celebrity photos: august 2012 pregnant actress anna faris waved to photographers as she ran errands in west hollywood on august 7. Celebrity photos: august 2012 whoa! annalynne mccord showed off some seriously toned abs on the set of \" 90210 \" on august 7. Celebrity photos: august 2012 pals shanna moakler and janice dickinson hit the town together at chateau marmont on august 7. Celebrity photos: august 2012 katie holmes and suri cruise were all smiles as they visited the museum of modern art in new york on august 6. Celebrity photos: august 2012 johnny depp took some time to sign autographs for fans on august 6 while arriving at the aerosmith after-party in los angeles. Celebrity photos: august 2012 lovebirds gwen stefani and husband gavin rossdale shared a romantic kiss on the beach in florida on august 6. Celebrity photos: august 2012 jennifer garner stunned on the red carpet at the premiere of her new film \" the odd life of timothy green \" in la on august 6. Celebrity photos: august 2012 cute couple alert! michelle williams and boyfriend jason segel picked up williams"
+            "What was intended to be a joke by justin bieber has landed the singer in a bit of hot water. In an interview with rolling stone - inside the same issue that contains sex advice from the young star - bieber is asked about his nationality and responds: \" i ' m actually part indian. I think inuit or something? i ' m enough percent that in canada, i can get free gas. \" harmless, right? not to everyone... The congress of aboriginal peoples has chimed and the group is unhappy with the implication behind justin's words. \" these kinds of remarks are another example of what aboriginal peoples in canada struggle with every day, \" says the organization in a statement. \" these kinds of remarks are another example of what aboriginal peoples in canada struggle with every day. It promotes the misconception that we are somehow getting a free ride. This simply is not the case and we are concerned that many people may believe what he said. \" honestly, many people likely don't even understand what bieber said. Still, he clearly did offend some people. Should justin apologize?"
         ],
         "raw_document": [
             "What was intended to be a joke by justin bieber has landed the singer in a bit of hot water. In an interview with rolling stone - inside the same issue that contains sex advice from the young star - bieber is asked about his nationality and responds: \" i ' m actually part indian. I think inuit or something? i ' m enough percent that in canada, i can get free gas. \" harmless, right? not to everyone... The congress of aboriginal peoples has chimed and the group is unhappy with the implication behind justin's words. \" these kinds of remarks are another example of what aboriginal peoples in canada struggle with every day, \" says the organization in a statement. \" these kinds of remarks are another example of what aboriginal peoples in canada struggle with every day. It promotes the misconception that we are somehow getting a free ride. This simply is not the case and we are concerned that many people may believe what he said. \" honestly, many people likely don't even understand what bieber said. Still, he clearly did offend some people. Should justin apologize?",
@@ -1739,7 +1733,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1829,7 +1823,7 @@
             "0": 0,
             "1": 3,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1854,7 +1848,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1885,7 +1879,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1940,12 +1934,11 @@
     },
     {
         "idx": 42571,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "An arizona candidate for us senate who came under fire after suggesting that john mccain's announcement he'd be withdrawing from cancer treatment was timed to damage her campaign has apologized. \" i do understand how many could have misconstrued my comments as insensitive, and for this i apologize, \" ward told reporters, per cnn. \" the intention of my comments were in no way directed at sen. Mccain or his family. \" mccain died of brain cancer saturday. In the hours before, ward's aide, jonathan williams, mused on facebook about whether it was \" just a coincidence \" the announcement of mccain ending treatment came the day ward launched a statewide bus tour, per the ap. In response to williams ' message, ward wrote: \" i think they wanted to have a particular narrative that is negative to me. \" ward told reporters monday that those comments were in reference to \" the media \" and not to mccain. Ward faces rep. Martha mcsally and former maricopa county sheriff joe arpaio in tuesday's primary, in which she's regarded as the underdog in the republican race to replace outgoing sen. Jeff flake. Arizona gov. Doug ducey says he plans to announce his pick to replace mccain sometime after the senator's funeral services.",
         "split": "train",
         "cleansed_document": [
-            "Tempe, arizona ( cnn ) republican senate candidate kelli ward apologized monday for suggesting an announcement by sen. John mccain's family that he would end his cancer treatment was designed to hurt her campaign, saying her comment had been misinterpreted. \" i do understand how many could have misconstrued my comments as insensitive, and for this i apologize, \" ward told reporters at her campaign headquarters. \" the intention of my comments were in no way directed at sen. Mccain or his family. \" in a facebook post over the weekend -- following the mccain family's announcement, but before his death -- one of ward's campaign staffers speculated that the timing might have been designed \" to take media attention off her campaign. \" ward seemed to agree, writing in response, \" i think they wanted to have a particular narrative that they hope is negative to me. \" reading from a written statement monday, ward said she hoped to \" set the record straight \" regarding her comment, which has sparked backlash in the final stretch of her primary campaign. On tuesday, she will face off against rep. Martha mcsally, the front-runner, and former maricopa county sheriff joe arpaio for the republican nomination in the race to succeed sen. Jeff flake. \" to be clear, my comments were in no way directed at",
-            "File - in this may 2, 2018 file photo, arizona republican u.s. Senate candidate kelli ward speaks to the media as she prepares to file her nominating petitions at the state capitol in phoenix. Ward, running... ( associated press ) file - in this may 2, 2018 file photo, arizona republican u.s. Senate candidate kelli ward speaks to the media as she prepares to file her nominating petitions at the state capitol in phoenix. Ward, running for her party's nomination for an open senate seat, suggested the announcement that mccain was... ( associated press ) file - in this may 2, 2018 file photo, arizona republican u.s. Senate candidate kelli ward speaks to the media as she prepares to file her nominating petitions at the state capitol in phoenix. Ward, running for her party's nomination for an open senate seat, suggested the announcement that mccain was... ( associated press ) file - in this may 2, 2018 file photo, arizona republican u.s. Senate candidate kelli ward speaks to the media as she prepares to file her nominating petitions at the state capitol in phoenix. Ward, running... ( associated press ) phoenix ( ap ) — hours before sen. John mccain died on saturday, a republican seeking arizona's other u.s. Senate seat suggested that his family's earlier announcement that he"
+            "Tempe, arizona ( cnn ) republican senate candidate kelli ward apologized monday for suggesting an announcement by sen. John mccain's family that he would end his cancer treatment was designed to hurt her campaign, saying her comment had been misinterpreted. \" i do understand how many could have misconstrued my comments as insensitive, and for this i apologize, \" ward told reporters at her campaign headquarters. \" the intention of my comments were in no way directed at sen. Mccain or his family. \" in a facebook post over the weekend -- following the mccain family's announcement, but before his death -- one of ward's campaign staffers speculated that the timing might have been designed \" to take media attention off her campaign. \" ward seemed to agree, writing in response, \" i think they wanted to have a particular narrative that they hope is negative to me. \" reading from a written statement monday, ward said she hoped to \" set the record straight \" regarding her comment, which has sparked backlash in the final stretch of her primary campaign. On tuesday, she will face off against rep. Martha mcsally, the front-runner, and former maricopa county sheriff joe arpaio for the republican nomination in the race to succeed sen. Jeff flake. \" to be clear, my comments were in no way directed at"
         ],
         "raw_document": [
             "Tempe, arizona ( cnn ) republican senate candidate kelli ward apologized monday for suggesting an announcement by sen. John mccain's family that he would end his cancer treatment was designed to hurt her campaign, saying her comment had been misinterpreted. \" i do understand how many could have misconstrued my comments as insensitive, and for this i apologize, \" ward told reporters at her campaign headquarters. \" the intention of my comments were in no way directed at sen. Mccain or his family. \" in a facebook post over the weekend -- following the mccain family's announcement, but before his death -- one of ward's campaign staffers speculated that the timing might have been designed \" to take media attention off her campaign. \" ward seemed to agree, writing in response, \" i think they wanted to have a particular narrative that they hope is negative to me. \" reading from a written statement monday, ward said she hoped to \" set the record straight \" regarding her comment, which has sparked backlash in the final stretch of her primary campaign. On tuesday, she will face off against rep. Martha mcsally, the front-runner, and former maricopa county sheriff joe arpaio for the republican nomination in the race to succeed sen. Jeff flake. \" to be clear, my comments were in no way directed at",
@@ -1960,7 +1953,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2139,7 +2132,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2189,7 +2182,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2276,12 +2269,11 @@
     },
     {
         "idx": 42584,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "President obama may have apologized to the american public over obamacare, but he took a decidedly different tone with senior staff, reports the new york times. In a piece whose headline begins \" a white house in crisis mode, \" michael d. Shear reports that a \" seething \" obama summoned senior staffers to the oval office over the website debacle and let them have it. \"if i had known, we could have delayed the website, \" he told the group, according to an aide present. The president's anger seems to have worked, suggests the story, given the all-out press to get the website fixed this month and the story off front pages. \"i think they do realize that this is defcon 1, \" an outside adviser tells the paper. The trick is avoiding the perception that the white house is ignoring other matters as well. As the washington post reports, obama was in new orleans yesterday for a speech that was supposed to be all-economy. Instead, he had to talk obamacare. \"i wanted to go in and fix it myself, \" he said of the website, \" but i don't write code. \" both the post and politico say the white house is working on some kind of \" administrative \" remedy for those affected by policy cancellations, but no details were available on what it might entail.",
         "split": "train",
         "cleansed_document": [
-            "President barack obama is now acknowledging that his if-you-like-your-plan-you-can-keep-it promise shared something in common with \"bad apple \" insurance policies: you had to read the fine print. If the white house is lucky, his apology will help the president maintain credibility with the public and allow him to pivot away from an effort to play down the impact of millions of americans seeing their health insurance plans canceled after he promised that wouldn't happen. Text size - + reset before that, obama was explaining — and he was losing. ( see politico's full obamacare coverage ) while the failure of the healthcare.gov website cast doubt on the administration's competence, the broken promise threatened to damage the president's personal credibility — the trump card that has saved him in the darkest days of two presidential campaigns and five years in the oval office. He was in a bind: to preserve trust, he had to distance himself either from the promise or the policy. He chose the latter, framing plan cancellations as an outcome he didn't expect. I ' m sorry, he said. I ' ll fix it. \"the majority of folks will end up being better off, \" obama told nbc news on thursday night. \"but even though it's a small percentage of folks who may be disadvantaged, you know",
-            "President obama talks about the importance of growing the u.s. Economy while at the port of new orleans in louisiana on nov. 8. ( larry downing/reuters ) president obama, beset by problems with his health-care rollout, sought again friday to reassure the public that he is personally involved in the administration's effort to fix the program's malfunctioning web site by the end of the month. \"i wanted to go in and fix it myself, but i don't write code, \" he said during a speech at a port in this gulf coast city. But he pledged that despite the troubled start to the affordable care act, the law will ultimately benefit millions. \"i know health care is controversial, so there's only so much bipartisan support we're going to get, \" obama said, \"until it starts working really well and they stop calling it 'obamacare. ' \" the stop here came a day after obama apologized to millions of americans who had their low-cost health coverage in the individual marketplace canceled despite his promises that they could keep their plans. White house spokesman josh earnest told reporters en route to new orleans that the president has instructed his aides to examine potential administrative solutions to the matter, but the spokesman offered no details. Obama had hoped to use the remarks in new orleans to push his"
+            "President barack obama is now acknowledging that his if-you-like-your-plan-you-can-keep-it promise shared something in common with \"bad apple \" insurance policies: you had to read the fine print. If the white house is lucky, his apology will help the president maintain credibility with the public and allow him to pivot away from an effort to play down the impact of millions of americans seeing their health insurance plans canceled after he promised that wouldn't happen. Text size - + reset before that, obama was explaining — and he was losing. ( see politico's full obamacare coverage ) while the failure of the healthcare.gov website cast doubt on the administration's competence, the broken promise threatened to damage the president's personal credibility — the trump card that has saved him in the darkest days of two presidential campaigns and five years in the oval office. He was in a bind: to preserve trust, he had to distance himself either from the promise or the policy. He chose the latter, framing plan cancellations as an outcome he didn't expect. I ' m sorry, he said. I ' ll fix it. \"the majority of folks will end up being better off, \" obama told nbc news on thursday night. \"but even though it's a small percentage of folks who may be disadvantaged, you know"
         ],
         "raw_document": [
             "President barack obama is now acknowledging that his if-you-like-your-plan-you-can-keep-it promise shared something in common with \"bad apple \" insurance policies: you had to read the fine print. If the white house is lucky, his apology will help the president maintain credibility with the public and allow him to pivot away from an effort to play down the impact of millions of americans seeing their health insurance plans canceled after he promised that wouldn't happen. Text size - + reset before that, obama was explaining — and he was losing. ( see politico's full obamacare coverage ) while the failure of the healthcare.gov website cast doubt on the administration's competence, the broken promise threatened to damage the president's personal credibility — the trump card that has saved him in the darkest days of two presidential campaigns and five years in the oval office. He was in a bind: to preserve trust, he had to distance himself either from the promise or the policy. He chose the latter, framing plan cancellations as an outcome he didn't expect. I ' m sorry, he said. I ' ll fix it. \"the majority of folks will end up being better off, \" obama told nbc news on thursday night. \"but even though it's a small percentage of folks who may be disadvantaged, you know",
@@ -2296,7 +2288,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2398,7 +2390,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2557,7 +2549,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {

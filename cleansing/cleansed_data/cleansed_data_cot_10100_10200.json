@@ -51,7 +51,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -105,7 +105,7 @@
             "0": 4,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -189,7 +189,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -214,7 +214,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -410,17 +410,16 @@
             "2": 0,
             "3": 2,
             "4": 0,
-            "5": 0
+            "5": 2
         }
     },
     {
         "idx": 10115,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "In a case with sad echoes of the death of cory monteith, the boyfriend of another glee star has been found dead in a hotel room. Becca tobin, who plays kitty wilde on the show, was in philadelphia with matt bendik; he runs several big nightclubs around the country and was in the city on business. The 35-year-old went out with his girlfriend and other friends wednesday night; his body was found, in bed, by a hotel maid yesterday afternoon. It's not clear where tobin was at the time, or whether she even left the club with him, tmz reports. Investigators are calling it a \" sudden death, \" and currently there is no evidence of suicide, foul play, or injuries to bendik's body, sources say. Bendik may have died in his sleep; no drugs, drug paraphernalia, or weapons were found in the room, and the incident report makes no mention of alcohol or medications, according to law enforcement sources. Police were called to the room shortly after 1pm, and bendik was pronounced dead at 1: 17pm. Friends are shocked, sources tell tmz, particularly because he was not known to be a partier.",
         "split": "train",
         "cleansed_document": [
-            "' glee'star becca tobin boyfriend found dead in philly hotel ' glee'star becca tobin's boyfriend, matt bendik, found dead in hotel room exclusive the coroner's office tells us... An autopsy did not reveal the cause of death.star's boyfriendwas found dead thursday in a philadelphia hotel... Tmz has learned … and the circumstances surrounding his death are mysterious.sources close to the couple tell us bendik -- a 35-year-old nightclub owner -- was in philly on a business trip. We're told tobin was not in philly when he died.a hotel maid found bendik's body thursday at around 1 pm. Law enforcement sources say the housekeeper found the body on the bed, face down.police are calling it a \" sudden death \" and they do not believe foul play was involved. They also say there's no evidence of suicide. And no weapons were found.we're told no drugs or drug paraphernalia were found in the room. We know the detective's incident report makes no mention of medications in the room. And the report makes no mention of alcohol.bendik was last seen by a manager at a club in philly, just before midnight wednesday.bendik ran several major clubs around the country, but especially in los angeles … where he was the director of operations at dba nightclub. He also was a co-owner of av nightclub.we're told bendik was not known as a partier, and friends are shocked and devastated by his sudden death.calls to tobin's reps have not been returned.one eerie twist -- sunday will mark one year since the death of … who died in a vancouver hotel room from a drug overdose.dba posted a tribute to matt outside of the club.shortly before matt went out wednesday night, he posted a pic of becca -- calling her out as his #wcw ( woman crush wednesday ).",
-            "Becca tobin was born on january 18, 1986 in marietta, georgia, usa as rebecca melise tobin. She is an actress, known for glee ( 2009 ), a song for christmas ( 2017 ) and ncis: los angeles ( 2009 ). She has been married to zach martin since december 3, 2016."
+            "' glee'star becca tobin boyfriend found dead in philly hotel ' glee'star becca tobin's boyfriend, matt bendik, found dead in hotel room exclusive the coroner's office tells us... An autopsy did not reveal the cause of death.star's boyfriendwas found dead thursday in a philadelphia hotel... Tmz has learned … and the circumstances surrounding his death are mysterious.sources close to the couple tell us bendik -- a 35-year-old nightclub owner -- was in philly on a business trip. We're told tobin was not in philly when he died.a hotel maid found bendik's body thursday at around 1 pm. Law enforcement sources say the housekeeper found the body on the bed, face down.police are calling it a \" sudden death \" and they do not believe foul play was involved. They also say there's no evidence of suicide. And no weapons were found.we're told no drugs or drug paraphernalia were found in the room. We know the detective's incident report makes no mention of medications in the room. And the report makes no mention of alcohol.bendik was last seen by a manager at a club in philly, just before midnight wednesday.bendik ran several major clubs around the country, but especially in los angeles … where he was the director of operations at dba nightclub. He also was a co-owner of av nightclub.we're told bendik was not known as a partier, and friends are shocked and devastated by his sudden death.calls to tobin's reps have not been returned.one eerie twist -- sunday will mark one year since the death of … who died in a vancouver hotel room from a drug overdose.dba posted a tribute to matt outside of the club.shortly before matt went out wednesday night, he posted a pic of becca -- calling her out as his #wcw ( woman crush wednesday )."
         ],
         "raw_document": [
             "' glee'star becca tobin boyfriend found dead in philly hotel ' glee'star becca tobin's boyfriend, matt bendik, found dead in hotel room exclusive the coroner's office tells us... An autopsy did not reveal the cause of death.star's boyfriendwas found dead thursday in a philadelphia hotel... Tmz has learned … and the circumstances surrounding his death are mysterious.sources close to the couple tell us bendik -- a 35-year-old nightclub owner -- was in philly on a business trip. We're told tobin was not in philly when he died.a hotel maid found bendik's body thursday at around 1 pm. Law enforcement sources say the housekeeper found the body on the bed, face down.police are calling it a \" sudden death \" and they do not believe foul play was involved. They also say there's no evidence of suicide. And no weapons were found.we're told no drugs or drug paraphernalia were found in the room. We know the detective's incident report makes no mention of medications in the room. And the report makes no mention of alcohol.bendik was last seen by a manager at a club in philly, just before midnight wednesday.bendik ran several major clubs around the country, but especially in los angeles … where he was the director of operations at dba nightclub. He also was a co-owner of av nightclub.we're told bendik was not known as a partier, and friends are shocked and devastated by his sudden death.calls to tobin's reps have not been returned.one eerie twist -- sunday will mark one year since the death of … who died in a vancouver hotel room from a drug overdose.dba posted a tribute to matt outside of the club.shortly before matt went out wednesday night, he posted a pic of becca -- calling her out as his #wcw ( woman crush wednesday ).",
@@ -435,7 +434,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -463,7 +462,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -491,7 +490,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -519,7 +518,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -575,7 +574,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1169,14 +1168,13 @@
     },
     {
         "idx": 10143,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The attorney for a woman who, as a teen, was convicted of involuntary manslaughter for encouraging her boyfriend to commit suicide told the massachusetts supreme judicial court on thursday that his client was \" trying to help another troubled teen with a very difficult mental-health situation \" the boston herald reports. The actions of michelle carter, now 22, may have been \" misguided, \" daniel marx argued during oral arguments at carter's appeal hearing, but \" she certainly didn't kill \" conrad roy iii, who committed suicide in 2014 by filling the cab of his pickup truck with carbon monoxide in a kmart parking lot. During carter's initial trial, prosecutors said that she had persuaded roy to kill himself in text message exchanges and later told him via phone to \" get back in \" to the pickup as it was filling with toxic fumes. Assistant district attorney shosana stern on thursday told the court that carter knew she had \" significant \" leverage over roy and steered him toward suicide, the ap reports. As justices consider the case, they will be weighing two main questions, a new england law professor tells boston.com. First, was there enough evidence for the judge to find carter guilty? second, does a conviction based on her words, \" rather than anything she did directly, \" violate the first amendment? \" legally, it always struck me as a reach, a stretch by the prosecution to charge this manslaughter, \" daniel medwed, another law professor, tells the website. Carter was sentenced to 15 months in prison, but the sentence has been on hold pending appeal. It may be months before the court makes a ruling, wbz4 reports.",
         "split": "train",
         "cleansed_document": [
             "The state's highest court will decide whether a 22-year-old plainville woman facing 15 months in prison for involuntary manslaughter coaxed a teenage pal's suicide or cold-bloodedly talked conrad roy iii into killing himself. \" he was committed to taking his own life - he had tried it before unsuccessfully - and he did, unfortunately. At most, she may have helped him along that path. She certainly didn't kill him, \" michelle carter's attorney daniel marx said today following his appeal before the state supreme judicial court for overturning carter's 2017 conviction. Chief justice ralph d. Gants did not indicate how soon the court will rule on the case",
             "Boston ( cbs/ap ) — lawyers for a woman who as a teenager encouraged her suicidal boyfriend to kill himself in dozens of text messages are urging massachusetts ' highest court to throw out her involuntary manslaughter conviction. Daniel marx is an attorney for 22-year-old michelle carter. Marx told the supreme judicial court on thursday that carter didn't force conrad roy iii to take his life. Marx says it was a \"tragic decision that he made. \" marx also argued the only evidence showing carter, who was 17 at the time instructed roy, 18, to get back in the truck filling with carbon monoxide was a text she sent to a friend two months later. Assistant",
-            "The michelle carter texting suicide case returns to court on thursday when the highest judicial body in massachusetts hears arguments appealing her conviction for involuntary manslaughter last year for persuading her boyfriend to take his own life in 2014 when the two were teenagers. The 21-year-old from plainville was sentenced to 15 months in jail following her conviction in the death of conrad roy iii. She has remained free while her appeal of her conviction is pending. In june 2017, juvenile court judge lawrence moniz found carter caused the teen's death when he got out of the truck he'd intentionally started filling with carbon monoxide in a fairhaven parking lot and she told him to \"get back",
-            "File - in this july 29, 2016, file photo, michelle carter stands with her attorneys at the bristol county juvenile court in taunton, mass. On thursday, oct. 4, 2018, massachusetts ' highest court will... ( associated press ) file - in this july 29, 2016, file photo, michelle carter stands with her attorneys at the bristol county juvenile court in taunton, mass. On thursday, oct. 4, 2018, massachusetts ' highest court will hear carter's appeal of her 2017 conviction for involuntary manslaughter. As a teenager, she sent her... ( associated press ) file - in this july 29, 2016, file photo"
+            "The michelle carter texting suicide case returns to court on thursday when the highest judicial body in massachusetts hears arguments appealing her conviction for involuntary manslaughter last year for persuading her boyfriend to take his own life in 2014 when the two were teenagers. The 21-year-old from plainville was sentenced to 15 months in jail following her conviction in the death of conrad roy iii. She has remained free while her appeal of her conviction is pending. In june 2017, juvenile court judge lawrence moniz found carter caused the teen's death when he got out of the truck he'd intentionally started filling with carbon monoxide in a fairhaven parking lot and she told him to \"get back"
         ],
         "raw_document": [
             "The state's highest court will decide whether a 22-year-old plainville woman facing 15 months in prison for involuntary manslaughter coaxed a teenage pal's suicide or cold-bloodedly talked conrad roy iii into killing himself. \" he was committed to taking his own life - he had tried it before unsuccessfully - and he did, unfortunately. At most, she may have helped him along that path. She certainly didn't kill him, \" michelle carter's attorney daniel marx said today following his appeal before the state supreme judicial court for overturning carter's 2017 conviction. Chief justice ralph d. Gants did not indicate how soon the court will rule on the case",
@@ -1195,7 +1193,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -1224,12 +1222,11 @@
     },
     {
         "idx": 10145,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two people are dead after a man opened fire on vehicles while driving west through three counties in western oklahoma early thursday, reports the oklahoman. Police say the shooting spree started on i-40 in canadian county around midnight and continued into caddo and custer counties as the shooter drove some 50 miles. A male was killed by a bullet near the canadian county and caddo county line, while a woman was shot in custer county, per koco. She was pronounced dead at a hospital. Police say the shooter also fired at several tractor-trailers, but no one inside the vehicles was injured. The suspect, who hasn't been named, was arrested in custer county for dui at 12: 39am. Police say he surrendered peacefully.",
         "split": "train",
         "cleansed_document": [
-            "Two people were killed thursday during a shooting spree that spanned 50 miles and three counties in oklahoma, officials with the oklahoma state bureau of investigation said. Video: suspect arrested after 50-mile rampage shooting officials said ( jeffrey ) kent powell, 45, of arapaho died at the scene and billie jean west, 63, of lone wolf was pronounced dead at a weatherford hospital after being shot when they were driving along interstate 40 early thursday morning. Jeremy doss hardy, 36, of pasadena, texas, was arrested on complaints of driving under the influence. Video: clinton man killed in i-40 gunfire authorities said the rampage started on interstate 40 in canadian county around midnight. Officials said a car was run off the road near the canadian county and caddo county line. Video: family devastated after lone wolf woman killed in i-40 shootings investigators said hardy continued driving west on i-40 and shooting at different vehicles. Several tractor-trailers were shot at, but no additional people were hit. The custer county sheriff said hardy surrendered peacefully at 12: 39 a.m. Authorities are still getting phone calls from people whose vehicles were hit during the rampage. Anyone who has a vehicle hit by gunfire should contact the custer county sheriff's office. The oklahoma highway patrol and osbi will continue to investigate the incidents along with local authorities.",
-            "A man who was shot to death wednesday night as he drove on interstate 40 near hydro was remembered as someone who was always willing to lend a helping hand in his community. Jeffrey kent powell, 45, of arapaho, died at the scene, the oklahoma state bureau of investigation reported. A second shooting victim, billie jean west, 63, of lone wolf, was found in a separate vehicle by a weatherford police officer on routine patrol. Jeremy doss hardy, 36, of pasadena, texas, was arrested on a dui complaint after a short pursuit and taken to the custer county jail. He also is the subject of an osbi inquiry into the shooting deaths. Powell owned first care rehabilitation in clinton, along with his wife, tammy. The couple have two young children. Julie menge, president of the clinton chamber of commerce, said he knew powell well. Powell served on the clinton chamber of commerce board of directors for three years. \" he was a great guy, \" menge said. \" it's a big loss to our community. Anything you asked, kent would do. He was just an upstanding guy. People are just shocked and saddened about what happened to him. \" kent powell's aunt, kristy patterson, said he grew up in guymon and played"
+            "Two people were killed thursday during a shooting spree that spanned 50 miles and three counties in oklahoma, officials with the oklahoma state bureau of investigation said. Video: suspect arrested after 50-mile rampage shooting officials said ( jeffrey ) kent powell, 45, of arapaho died at the scene and billie jean west, 63, of lone wolf was pronounced dead at a weatherford hospital after being shot when they were driving along interstate 40 early thursday morning. Jeremy doss hardy, 36, of pasadena, texas, was arrested on complaints of driving under the influence. Video: clinton man killed in i-40 gunfire authorities said the rampage started on interstate 40 in canadian county around midnight. Officials said a car was run off the road near the canadian county and caddo county line. Video: family devastated after lone wolf woman killed in i-40 shootings investigators said hardy continued driving west on i-40 and shooting at different vehicles. Several tractor-trailers were shot at, but no additional people were hit. The custer county sheriff said hardy surrendered peacefully at 12: 39 a.m. Authorities are still getting phone calls from people whose vehicles were hit during the rampage. Anyone who has a vehicle hit by gunfire should contact the custer county sheriff's office. The oklahoma highway patrol and osbi will continue to investigate the incidents along with local authorities."
         ],
         "raw_document": [
             "Two people were killed thursday during a shooting spree that spanned 50 miles and three counties in oklahoma, officials with the oklahoma state bureau of investigation said. Video: suspect arrested after 50-mile rampage shooting officials said ( jeffrey ) kent powell, 45, of arapaho died at the scene and billie jean west, 63, of lone wolf was pronounced dead at a weatherford hospital after being shot when they were driving along interstate 40 early thursday morning. Jeremy doss hardy, 36, of pasadena, texas, was arrested on complaints of driving under the influence. Video: clinton man killed in i-40 gunfire authorities said the rampage started on interstate 40 in canadian county around midnight. Officials said a car was run off the road near the canadian county and caddo county line. Video: family devastated after lone wolf woman killed in i-40 shootings investigators said hardy continued driving west on i-40 and shooting at different vehicles. Several tractor-trailers were shot at, but no additional people were hit. The custer county sheriff said hardy surrendered peacefully at 12: 39 a.m. Authorities are still getting phone calls from people whose vehicles were hit during the rampage. Anyone who has a vehicle hit by gunfire should contact the custer county sheriff's office. The oklahoma highway patrol and osbi will continue to investigate the incidents along with local authorities.",
@@ -1244,7 +1241,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1274,12 +1271,11 @@
     },
     {
         "idx": 10147,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Coffee, tea, or maggots? that's the unpleasant dining option several passengers discovered on a recent qantas flight from los angeles to melbourne, reports the new york daily news. Victoria cleven says she was eating snack mix when she noticed something wrong, \" like hair or something over my mouth, \" she said. When she turned on the light, she found maggots in the bag of snack mix. Her son found maggots in two more packs of mix, so she filmed the gross concoction and put the video on youtube. Qantas refunded one-quarter of the cost of her ticket and says it is looking into the incident.",
         "split": "train",
         "cleansed_document": [
-            "Published on by victoria cleven watch my video. Maggots crawling in snack food supplied by the sydney biscuit company on my recent flight back from la. The cabin crew were as shocked as i was when i gave them the opened packet i had been eating from. The people sitting behind me realised something was up when qantas crew kept coming up to check on me during the rest of the flight. I hope they investigate this and ensure this never happens again, rather than pointing the finger at someone else. Qantas quality control is obvioulsy not up to standards. No one should experience this. It truly still makes me sick!",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Published on by victoria cleven watch my video. Maggots crawling in snack food supplied by the sydney biscuit company on my recent flight back from la. The cabin crew were as shocked as i was when i gave them the opened packet i had been eating from. The people sitting behind me realised something was up when qantas crew kept coming up to check on me during the rest of the flight. I hope they investigate this and ensure this never happens again, rather than pointing the finger at someone else. Qantas quality control is obvioulsy not up to standards. No one should experience this. It truly still makes me sick!"
         ],
         "raw_document": [
             "Published on by victoria cleven watch my video. Maggots crawling in snack food supplied by the sydney biscuit company on my recent flight back from la. The cabin crew were as shocked as i was when i gave them the opened packet i had been eating from. The people sitting behind me realised something was up when qantas crew kept coming up to check on me during the rest of the flight. I hope they investigate this and ensure this never happens again, rather than pointing the finger at someone else. Qantas quality control is obvioulsy not up to standards. No one should experience this. It truly still makes me sick!",
@@ -1294,7 +1290,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1442,13 +1438,12 @@
     },
     {
         "idx": 10153,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The fdny suffered its first in-the-line-of-duty death in more than two years tuesday when a suspected drug lab exploded in the bronx, killing a battalion chief, the new york daily news reports. According to wpix, michael fahy was directing traffic away from a two-story house where someone had reported a possible gas leak when it exploded. Pieces of the house's roof struck fahy in the head. \" he was a star, \" wnbc quotes fdny commissioner daniel nigro as saying. \" we lost a hero today. \" fahy was a second-generation firefighter and had been with the fdny for 17 years. He leaves behind a wife and three young children. \" it's a very sad day for our city, \" wpix quotes mayor bill de blasio as saying. While no one else was killed, the daily news reports 20 people — nine firefighters, six police officers, three energy workers, and two civilians — were injured in the explosion. It's unclear what triggered the explosion, though officials believe the house was the site of a marijuana grow-op or meth lab. Wnbc quotes a neighbor who says the explosion \" shook my whole neighborhood \" and \" felt like a bomb went off. \" the only person home prior to the explosion left the house when firefighters arrived.",
         "split": "train",
         "cleansed_document": [
             "Please enable javascript to watch this video kingsbridge, the bronx — a fdny battalion chief was killed and at least 12 other people, including multiple police officers and firefighters, were injured during an explosion at a bronx home that may have served as a grow house for marijuana, officials said tuesday. Firefighters were responding to reports of a gas leak when the explosion occurred at 304 w. 234th st. At about 7: 30 a.m., according to the fdny. The firefighter who was killed has been identified as battalion chief michael j. Fahy, a 17-year veteran of the department, officials said at a news conference tuesday afternoon. He was struck in the head and other parts of his body by portions of the home's roof during the blast, fdny commissioner daniel nigro said. Fahy was directing traffic away from the area at the time. \" we lost a hero today, \" nigro said, describing fahy as a \" rising star \" in the department and a \" brave man. \" fahy",
-            "An fdny battalion chief was killed by falling debris when a suspected drug den exploded in the bronx tuesday, leveling a two-story home and injuring at least 12 other people. Ray villeda reports. ( published tuesday, sept. 27, 2016 ) what to know firefighters were called to the home about an hour before the explosion after someone reported the smell of gas they found a drug lab and called nypd, but the house exploded shortly thereafter, police say some neighbors said the blast sounded like a bomb had gone off; others said it felt like an earthquake update: long goodbye begins for fdny fire chief killed in line of duty an fdny battalion chief was killed by falling debris when a suspected drug den exploded in the bronx tuesday, leveling a two-story home and injuring at least 12 other people. Battalion chief michael fahy was a 17-year fdny veteran who served through 9/11 and a father of three. A convoy of uniformed and non-uniformed firefighters stood outside the hospital to pay their respects as his body was",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "An fdny battalion chief was killed by falling debris when a suspected drug den exploded in the bronx tuesday, leveling a two-story home and injuring at least 12 other people. Ray villeda reports. ( published tuesday, sept. 27, 2016 ) what to know firefighters were called to the home about an hour before the explosion after someone reported the smell of gas they found a drug lab and called nypd, but the house exploded shortly thereafter, police say some neighbors said the blast sounded like a bomb had gone off; others said it felt like an earthquake update: long goodbye begins for fdny fire chief killed in line of duty an fdny battalion chief was killed by falling debris when a suspected drug den exploded in the bronx tuesday, leveling a two-story home and injuring at least 12 other people. Battalion chief michael fahy was a 17-year fdny veteran who served through 9/11 and a father of three. A convoy of uniformed and non-uniformed firefighters stood outside the hospital to pay their respects as his body was"
         ],
         "raw_document": [
             "Please enable javascript to watch this video kingsbridge, the bronx — a fdny battalion chief was killed and at least 12 other people, including multiple police officers and firefighters, were injured during an explosion at a bronx home that may have served as a grow house for marijuana, officials said tuesday. Firefighters were responding to reports of a gas leak when the explosion occurred at 304 w. 234th st. At about 7: 30 a.m., according to the fdny. The firefighter who was killed has been identified as battalion chief michael j. Fahy, a 17-year veteran of the department, officials said at a news conference tuesday afternoon. He was struck in the head and other parts of his body by portions of the home's roof during the blast, fdny commissioner daniel nigro said. Fahy was directing traffic away from the area at the time. \" we lost a hero today, \" nigro said, describing fahy as a \" rising star \" in the department and a \" brave man. \" fahy",
@@ -1465,7 +1460,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1495,7 +1490,7 @@
             "0": 0,
             "1": 0,
             "2": 3,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1551,19 +1546,18 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 10157,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "\" the biggest case of stolen art in south carolina history \" has been solved, at least partially, some 13 years after the art went missing from hobcaw barony. That's the name of the estate that belonged to belle baruch, an equestrian and horse breeder so known for her skills in the early 20th century that \" hitler and mussolini wanted her horse, \" converse college prof. Frazer pajak tells fox news. She died in 1964, leaving behind an art collection comprised of works by john james audubon and british impressionist sir alfred munnings, who had been commissioned to paint baruch astride her horse, souriant iii. But in july 2003, 17 of these works vanished. Though police had a suspect — former curator samuel mcintosh — and other missing items were reclaimed from his home, the art was nowhere to be found. Then, on april 27, a phone call. \" i think we have your paintings. \" so heard george chastain, the executive director of the foundation that oversees hobcaw barony. The caller, ivy auctions owners john ivy, had 11 works on his hands that came to him via a recently passed \" hoarder \" in columbia, reports the post and courier. Ivy brought pajak in to authenticate the art, as is customary, and he became \" extremely excited, \" says ivy, after realizing what they were. Ivy says the family that had been in possession of the work was unaware of its true ownership; how they got the works and where the other six are remain unknown. Chastain says a handful of the audubon prints \" suffered... In hiding, \" but three munnings paintings are in better condition. Among them: the portrait of baruch on souriant iii, valued at more than $ 1 million and featured on a 2013 episode of antiques roadshow after it went missing, reports south strand news.",
         "split": "train",
         "cleansed_document": [
             "\"belle on souriant \" by alfred munnings was recovered in april by the belle w. Baruch foundation. It had been stolen in 2003. The famous horse paintings by alfred munnings went galloping off in the middle of the night in late july 2003, along with several important folio prints by john james audubon and works by artist louis aston knight. Fbi's stolen art file with a dedicated art crime team of 16 special agents, the fbi typically is the agency to investigate stolen art cases. The fbi receives support from department of justice trial attorneys for prosecutions. It also runs the national stolen art file, a computerized index of reported stolen art and cultural properties for the use of law enforcement agencies across the world. The national stolen art file website includes a top 10 list of pilfered artworks, a search interface and a variety of information about its operations. Go to www.fbi.gov/about-us/investigate/vc_majorthefts/arttheft. It was an horrific loss, and the belle w. Baruch foundation quickly initiated an investigation into the crime at its hobcaw barony. It was thought at the time that the stolen artwork was worth in excess of $ 2 million. Foundation attorney tom",
             "A sharp-eyed art professor recently helped solve a mystery that began 13 years ago, when a legendary south carolina equestrian's multimillion-dollar art collection vanished from the sprawling estate she left for the public to enjoy. Seventeen of belle baruch's beloved artworks, including pieces by john james audubon and british impressionist sir alfred munnings, disappeared in 2003 in an unsolved caper that was once featured on the pbs program \"antiques roadshow. \" a curator who reported them missing on the day he was fired was later charged with possessing some items stolen from hobcaw barony estate, in georgetown county, but the heart of the late horse-country aristocrat's collection remained at large. \"these pieces help tell the story of hobcaw barony; their theft left a hole in our history, \" said george chastain, executive director of the belle w. Baruch foundation, which maintains the estate. Late last month, 11 of the missing artworks, including munnings ' paintings and seven of audubon's elephant folio prints from \"birds of america, \" turned up at an auction house as part of an estate sale. Ivy auctions owners john and patty ivy recognized munning",
-            "Case summary in july of 2003, several artworks were discovered to be missing from two buildings at hobcaw barony, the former estate of belle w. Baruch. Belle was the daughter of well-known financial hotshot and presidential advisor, bernard baruch. There is a $ 25,000 reward being offered by the belle w. Baruch foundation for information leading to the return of the items.",
-            "You are the owner of this article."
+            "Case summary in july of 2003, several artworks were discovered to be missing from two buildings at hobcaw barony, the former estate of belle w. Baruch. Belle was the daughter of well-known financial hotshot and presidential advisor, bernard baruch. There is a $ 25,000 reward being offered by the belle w. Baruch foundation for information leading to the return of the items."
         ],
         "raw_document": [
             "\"belle on souriant \" by alfred munnings was recovered in april by the belle w. Baruch foundation. It had been stolen in 2003. The famous horse paintings by alfred munnings went galloping off in the middle of the night in late july 2003, along with several important folio prints by john james audubon and works by artist louis aston knight. Fbi's stolen art file with a dedicated art crime team of 16 special agents, the fbi typically is the agency to investigate stolen art cases. The fbi receives support from department of justice trial attorneys for prosecutions. It also runs the national stolen art file, a computerized index of reported stolen art and cultural properties for the use of law enforcement agencies across the world. The national stolen art file website includes a top 10 list of pilfered artworks, a search interface and a variety of information about its operations. Go to www.fbi.gov/about-us/investigate/vc_majorthefts/arttheft. It was an horrific loss, and the belle w. Baruch foundation quickly initiated an investigation into the crime at its hobcaw barony. It was thought at the time that the stolen artwork was worth in excess of $ 2 million. Foundation attorney tom",
@@ -1582,7 +1576,7 @@
             "0": 2,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1612,12 +1606,11 @@
     },
     {
         "idx": 10159,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two surprise billboards featuring hanging effigies nearly knocked las vegans off their game yesterday. Mannequins with nooses around their necks hung from both billboards, each on a major highway; they appeared to be some kind of jobless protest. \" dying for a job, \" said a hand-painted message on one billboard, while the other read: \" hope you're happy, wall street. \" some drivers, fearing they were real bodies, phoned police. No one claimed responsibility for the signs, but occupy las vegas quickly posted photos of the billboards on its website, calling it \" street art, \" and noting that clark county, which includes las vegas, \" has the second highest rate of adult suicide in the country right now. \" it's a \" publicity stunt, obviously done in bad taste, \" said nevada highway patrol trooper jeremie elliot. A spokeswoman for the ad agency that owns one of the billboards said it was \" vandalism, \" and that it was being removed, reports ap. Clear channel outdoor, which owns the other billboard, was also dismantling the display. An executive said the company was working with law enforcement to track the effigy-hangers.",
         "split": "train",
         "cleansed_document": [
-            "Even by las vegas standards, it was a shocking billboard: a mannequin dangling on a hangman's noose below a black sign with the ominous words \" dying for work. \" this image provided by kvvu-tv shows a billboard with a mannequin dangling from a hangman's noose near the strip in las vegas. Authorities said calls began coming in early wednesday aug. 8, 2012, from... ( associated press ) nevada highway patrol trooper jeremie elliott says the emergency service calls started coming in as the sun came up early wednesday, with drivers worried the stiff, black-suited dummy swaying at the end of a rope was a real person. \" it's a publicity stunt, obviously done in bad taste, \" said elliott, adding that officials were focused on getting it down quickly to avoid distracting drivers during the morning commute. The graphic display along the interstate was one of at least two unauthorized signs spotted wednesday morning in the las vegas area. Another was white with black lettering that read, \" hope you're happy wall st., \" and a similar mannequin hanging off the edge. A woman who answered the phone at lamar advertising co., which owns one of the billboards, labeled the act vandalism and said the display was being removed. She did not provide her name. Clear channel outdoor,",
-            "Occupy las vegas: yeah or neah? if you and your family or you and your business are considering a relocation you should then consider las vegas. In today's ever-changing world reinvention is a must if you are to survive in the long run. At least this is the case for most. Very few families and businesses are fortunate enough to be able to occupy las vegas and reside and plant roots in one location for their entirety. It is seldom possible to do so as the preferences and thus demand for products and services change at an unprecedented pace today. The business climates as rules, laws and regulations can pose no harm or even benefit you one day simply to change in an instance creating a harmful impact to your businesses stability and/or profitability. It can change your products or services viability, compliance and market appeal in a flip of a switch. This is a major driver for all of the relocation and las vegas that is transpiring these days. Families are uprooting at record levels and moving to areas where the industries and jobs are migrating to. Businesses that have been founded in and headquartered in the same city for the entirety of their existence are having to make the very difficult decision to relocate their corporate offices to a city that provides for a less costly operating environment and one that provides for"
+            "Even by las vegas standards, it was a shocking billboard: a mannequin dangling on a hangman's noose below a black sign with the ominous words \" dying for work. \" this image provided by kvvu-tv shows a billboard with a mannequin dangling from a hangman's noose near the strip in las vegas. Authorities said calls began coming in early wednesday aug. 8, 2012, from... ( associated press ) nevada highway patrol trooper jeremie elliott says the emergency service calls started coming in as the sun came up early wednesday, with drivers worried the stiff, black-suited dummy swaying at the end of a rope was a real person. \" it's a publicity stunt, obviously done in bad taste, \" said elliott, adding that officials were focused on getting it down quickly to avoid distracting drivers during the morning commute. The graphic display along the interstate was one of at least two unauthorized signs spotted wednesday morning in the las vegas area. Another was white with black lettering that read, \" hope you're happy wall st., \" and a similar mannequin hanging off the edge. A woman who answered the phone at lamar advertising co., which owns one of the billboards, labeled the act vandalism and said the display was being removed. She did not provide her name. Clear channel outdoor,"
         ],
         "raw_document": [
             "Even by las vegas standards, it was a shocking billboard: a mannequin dangling on a hangman's noose below a black sign with the ominous words \" dying for work. \" this image provided by kvvu-tv shows a billboard with a mannequin dangling from a hangman's noose near the strip in las vegas. Authorities said calls began coming in early wednesday aug. 8, 2012, from... ( associated press ) nevada highway patrol trooper jeremie elliott says the emergency service calls started coming in as the sun came up early wednesday, with drivers worried the stiff, black-suited dummy swaying at the end of a rope was a real person. \" it's a publicity stunt, obviously done in bad taste, \" said elliott, adding that officials were focused on getting it down quickly to avoid distracting drivers during the morning commute. The graphic display along the interstate was one of at least two unauthorized signs spotted wednesday morning in the las vegas area. Another was white with black lettering that read, \" hope you're happy wall st., \" and a similar mannequin hanging off the edge. A woman who answered the phone at lamar advertising co., which owns one of the billboards, labeled the act vandalism and said the display was being removed. She did not provide her name. Clear channel outdoor,",
@@ -1632,7 +1625,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1665,12 +1658,11 @@
     },
     {
         "idx": 10161,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "\" layaway santas \" started popping up around the country in 2011, and the uplifting trend appears to be on the rise this season, nbc news reports. The way it works: \" secret santas \" visit a store that offers layaway and pay down strangers ' accounts. ( at many stores, the final payments for holiday presents are due at the end of this week, meaning that if an account isn't paid off, those gifts end up back on store shelves. ) walmart has tracked more than 1,000 cases this season. Kmart also offers layaway, as does toys ' r ' us — and at the latter, for each layaway santa, the company gives a $ 200 donation to toys for tots. At most stores, employees at the layaway counter know all about these random acts of kindness, and will help you choose which account or accounts to pay off. They then call the customers to tell them their gifts can be picked up, and the good samaritans remain anonymous. One california man gives his wife a receipt each year for her december birthday, showing the hundreds of layaway accounts he's paid off — 260 in 2011, and more than 320 last year. And a new york man has started a bundling program, where he solicits donations here and then uses them to pay off as many accounts as he can.",
         "split": "train",
         "cleansed_document": [
-            "John plate, manager at kmart in the bronx, new york city, stands behind the store's layaway counter on thursday, nov. 7, 2013. John brecher yes, virginia, there is a santa claus, and he's just paid off your layaway bill. So-called \" layaway santas \" aren't new, but they have been growing ever since an associated press story pointed out the phenomenon in 2011. Despite the sluggish economy, or perhaps because of it, more people than ever seem to be driven to be some struggling family's little saint nick. Wal-mart said it has tracked more than 1,000 instances so far this season of strangers paying down others ' layaway accounts. Kmart said strangers have paid more than $ 1.5 million in other's layaway contracts over the years. Toy \" r \" us said they recorded 794 layaway santa visits in 2012, matching each one with a $ 200 donation to toys for tots, for a total of $ 158,800. For this year, it's pledged to donate up to $ 1 million. For dave wilson, 65, who went from living on a poor farm in iowa to owning 17 car dealerships in orange county, calif., it's a way to give back. Every december, he gives his aptly named wife, holly, a kmart receipt for her birthday. On it are listed hundreds of transactions, all the layaway account balances he's paid off at his local store. \" she said it was the best birthday present ever, \" he said. In 2011, it was 260 accounts to the tune of nearly $ 16,000. In 2012, it was more than 320 accounts and $ 18,000. This year he plans for a repeat. \" it's not passing out christmas hams or turkeys, \" said wilson. \" they have to pay at least 10 percent... This is something people have thought about and made an investment in. \" here's how it works. Under layaway, customers purchase items, but the store holds onto the physical merchandise as they pay it off in bits over a few weeks. For those with uncertain cash flows and limited access to credit, it's a structured way to save up for the holidays. But even this system can be a stretch too far to make those final",
-            "Hampton, va. ( wvec ) — for military families sometimes money can be hard to come by, especially during the holidays. On thursday, at the langley air force base main exchange it was easy. For ten families it was their lucky day, as cart after cart of christmas presents …"
+            "John plate, manager at kmart in the bronx, new york city, stands behind the store's layaway counter on thursday, nov. 7, 2013. John brecher yes, virginia, there is a santa claus, and he's just paid off your layaway bill. So-called \" layaway santas \" aren't new, but they have been growing ever since an associated press story pointed out the phenomenon in 2011. Despite the sluggish economy, or perhaps because of it, more people than ever seem to be driven to be some struggling family's little saint nick. Wal-mart said it has tracked more than 1,000 instances so far this season of strangers paying down others ' layaway accounts. Kmart said strangers have paid more than $ 1.5 million in other's layaway contracts over the years. Toy \" r \" us said they recorded 794 layaway santa visits in 2012, matching each one with a $ 200 donation to toys for tots, for a total of $ 158,800. For this year, it's pledged to donate up to $ 1 million. For dave wilson, 65, who went from living on a poor farm in iowa to owning 17 car dealerships in orange county, calif., it's a way to give back. Every december, he gives his aptly named wife, holly, a kmart receipt for her birthday. On it are listed hundreds of transactions, all the layaway account balances he's paid off at his local store. \" she said it was the best birthday present ever, \" he said. In 2011, it was 260 accounts to the tune of nearly $ 16,000. In 2012, it was more than 320 accounts and $ 18,000. This year he plans for a repeat. \" it's not passing out christmas hams or turkeys, \" said wilson. \" they have to pay at least 10 percent... This is something people have thought about and made an investment in. \" here's how it works. Under layaway, customers purchase items, but the store holds onto the physical merchandise as they pay it off in bits over a few weeks. For those with uncertain cash flows and limited access to credit, it's a structured way to save up for the holidays. But even this system can be a stretch too far to make those final"
         ],
         "raw_document": [
             "John plate, manager at kmart in the bronx, new york city, stands behind the store's layaway counter on thursday, nov. 7, 2013. John brecher yes, virginia, there is a santa claus, and he's just paid off your layaway bill. So-called \" layaway santas \" aren't new, but they have been growing ever since an associated press story pointed out the phenomenon in 2011. Despite the sluggish economy, or perhaps because of it, more people than ever seem to be driven to be some struggling family's little saint nick. Wal-mart said it has tracked more than 1,000 instances so far this season of strangers paying down others ' layaway accounts. Kmart said strangers have paid more than $ 1.5 million in other's layaway contracts over the years. Toy \" r \" us said they recorded 794 layaway santa visits in 2012, matching each one with a $ 200 donation to toys for tots, for a total of $ 158,800. For this year, it's pledged to donate up to $ 1 million. For dave wilson, 65, who went from living on a poor farm in iowa to owning 17 car dealerships in orange county, calif., it's a way to give back. Every december, he gives his aptly named wife, holly, a kmart receipt for her birthday. On it are listed hundreds of transactions, all the layaway account balances he's paid off at his local store. \" she said it was the best birthday present ever, \" he said. In 2011, it was 260 accounts to the tune of nearly $ 16,000. In 2012, it was more than 320 accounts and $ 18,000. This year he plans for a repeat. \" it's not passing out christmas hams or turkeys, \" said wilson. \" they have to pay at least 10 percent... This is something people have thought about and made an investment in. \" here's how it works. Under layaway, customers purchase items, but the store holds onto the physical merchandise as they pay it off in bits over a few weeks. For those with uncertain cash flows and limited access to credit, it's a structured way to save up for the holidays. But even this system can be a stretch too far to make those final",
@@ -1685,7 +1677,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1742,7 +1734,7 @@
             "0": 5,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1767,18 +1759,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 10165,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It may be hard for jon stewart fans to imagine, but the beloved daily show host is \" anything but warm and fuzzy, \" according to staffers quoted in lisa rogak's new biography of the comedian, angry optimist: the life and times of jon stewart. One tells the story of a time stewart screamed in a producer's face and threw a newspaper at her, only to later apologize and explain, \" sorry, that's bad jon.... I try not to let him out. \" there are more such tales of stewart's angry side in the book, forbes reports, and rogak notes, \" i ' m surprised that people are surprised by [ the angry side ]. You look at his delivery on the show, and i can see the seething anger in stewart. \" stewart also once screamed at seth macfarlane, the new york daily news reports. The book recounts how stewart called the family guy creator after macfarlane joked about stewart returning to his show during the hollywood writers'strike. \" who the hell made you the moral arbiter of hollywood? \" stewart reportedly yelled. Macfarlane once talked about the experience with piers morgan, calling it \" an odd hollywood moment. \" but, hey, the book also reveals that stewart lets staffers bring their dogs to work, the washington post reports.",
         "split": "train",
         "cleansed_document": [
             "Courtesy of thomas dunne books the big bombshell from the new biography of \"daily show \" host jon stewart seems to be that the comedy central funnyman has a big old mean streak. But beyond the yelling-at-staff revelations in \"angry optimist: the life and times of jon stewart, \" which debuted last week, author lisa rogak also offers a little behind-the-scenes dish on some of stewart's political tangles. Since it's always got to be about us ( hey, washington is like that ) here are a few d.c.-centric takeaways: — stewart seemed to blind-side the hosts of cnn's \"crossfire \" when he appeared on the show in 2004 and famously drubbed them for \"hurting america. \" but the hosts and producers should have seen it coming, rogak reveals. Co-host paul begala was \"the first person to have a clue \"",
-            "Before jon stewart became the beloved host of \" the daily show, \" his resume read like a list of heartbreaking near-misses, says lisa rogak in her book, \" angry optimist: the life and times of jon stewart. \" when david letterman left his \" late night \" gig for cbs, the hotly contested job eventually came down to two: stewart, who had worked solidly on tv and on the standup circuit, and the relatively unknown conan o ' brien, a writer on \" saturday night live \" and \" the simpsons \" — and we all know how that turned out. Stewart was also passed over to replace tom snyder, a slot that went to then- \" daily show \" host craig kilborn — but that paved the way for stewart to take over for kilborn. Staffers at the satirical show",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Before jon stewart became the beloved host of \" the daily show, \" his resume read like a list of heartbreaking near-misses, says lisa rogak in her book, \" angry optimist: the life and times of jon stewart. \" when david letterman left his \" late night \" gig for cbs, the hotly contested job eventually came down to two: stewart, who had worked solidly on tv and on the standup circuit, and the relatively unknown conan o ' brien, a writer on \" saturday night live \" and \" the simpsons \" — and we all know how that turned out. Stewart was also passed over to replace tom snyder, a slot that went to then- \" daily show \" host craig kilborn — but that paved the way for stewart to take over for kilborn. Staffers at the satirical show"
         ],
         "raw_document": [
             "Courtesy of thomas dunne books the big bombshell from the new biography of \"daily show \" host jon stewart seems to be that the comedy central funnyman has a big old mean streak. But beyond the yelling-at-staff revelations in \"angry optimist: the life and times of jon stewart, \" which debuted last week, author lisa rogak also offers a little behind-the-scenes dish on some of stewart's political tangles. Since it's always got to be about us ( hey, washington is like that ) here are a few d.c.-centric takeaways: — stewart seemed to blind-side the hosts of cnn's \"crossfire \" when he appeared on the show in 2004 and famously drubbed them for \"hurting america. \" but the hosts and producers should have seen it coming, rogak reveals. Co-host paul begala was \"the first person to have a clue \"",
@@ -1797,7 +1788,7 @@
             "0": 0,
             "1": 3,
             "2": 1,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1836,7 +1827,7 @@
             "3": 0,
             "4": 0,
             "5": 1,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -1936,17 +1927,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 10171,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "After a day of gaffes in london — questioning the city's readiness for the olympics, blabbing about his secret mi6 meeting, calling the opposition leader ed miliband \" mr. Leader \" — mitt romney put on a brave face and accentuated the positive, predicting the games would be \" terrific, \" enjoy \" great weather, \" and be filled with \" enthusiasm on the part of the people here in london, \" reports the telegraph. Romney made a point of talking about his british roots — his great-great-grandfather was a carpenter in preston — and how the grandfather of his wife, ann, came from wales. \" so i feel like this is home, too, i guess, \" he said. Still, the brits have been having some fun with romney's less-than-successful charm offensive, even starting a twitter hashtag, \" #americanborat. \" one spirited tweet: \" mitt romney retroactively cancels visit to london. \"",
         "split": "train",
         "cleansed_document": [
-            "Wearing a brave face after causing a diplomatic spat by questioning london's readiness to host the olympics, the republican presidential candidate joked that britain felt like \"home \". The former massachusetts governor and his wife, ann, were interviewed together after a day from which he was meant to emerge looking like an international statesman descended into farce. He told cnn's piers morgan on thursday evening that the olympics would be \"terrific \", blessed with \"great weather \" and full of \"enthusiasm on the part of the people here in london \". The previous evening he told nbc that he had seen \"disconcerting \" signs that made it \"hard to know just how well it will turn out \" at the london games, prompting a sharp rejoinder from david cameron. Promising london would deliver, the prime minister said it had been challenging to host an olympics in one of the world's busiest cities rather than the \"middle of nowhere \", where it would be easier. This was widely taken in the us to be a reference to utah, the sparsely populated western state where mr romney was chief executive of the salt lake city winter olympics in 2002. Boris johnson, the mayor of london, heaped more misery on mr romney's campaign by dismissing his remarks while onstage at a concert in hyde park to mark the end of the olympic torch relay. \"there's guy called mitt romney who wants to know if we are ready, \" mr johnson cried, prompting jeers from some of the 60,000-strong crowd. \"are we ready? yes we are! \" by then a sheepish mr romney had deserted his earlier remarks with a statement delivered outside 10 downing street. He predicted that any minor problems would be \"overshadowed by the extraordinary demonstrations of courage, character and determination by the athletes \". Mr romney was asked in his interview on thursday evening whether he had been aware of his roots in northern england, where his great-great-grandfather, a carpenter from preston, was one of the first mormons in britain some 175 years ago. \"i knew that my ancestors came from here, \" he said. \"i know miles romney and miles park romney – these are the folks that came and helped settle the west. \" asked whether he felt \"partly english \" as a result, a chuckling mr romney replied: \"well,",
-            "We've detected that javascript is disabled in your browser. Would you like to proceed to legacy twitter? yes"
+            "Wearing a brave face after causing a diplomatic spat by questioning london's readiness to host the olympics, the republican presidential candidate joked that britain felt like \"home \". The former massachusetts governor and his wife, ann, were interviewed together after a day from which he was meant to emerge looking like an international statesman descended into farce. He told cnn's piers morgan on thursday evening that the olympics would be \"terrific \", blessed with \"great weather \" and full of \"enthusiasm on the part of the people here in london \". The previous evening he told nbc that he had seen \"disconcerting \" signs that made it \"hard to know just how well it will turn out \" at the london games, prompting a sharp rejoinder from david cameron. Promising london would deliver, the prime minister said it had been challenging to host an olympics in one of the world's busiest cities rather than the \"middle of nowhere \", where it would be easier. This was widely taken in the us to be a reference to utah, the sparsely populated western state where mr romney was chief executive of the salt lake city winter olympics in 2002. Boris johnson, the mayor of london, heaped more misery on mr romney's campaign by dismissing his remarks while onstage at a concert in hyde park to mark the end of the olympic torch relay. \"there's guy called mitt romney who wants to know if we are ready, \" mr johnson cried, prompting jeers from some of the 60,000-strong crowd. \"are we ready? yes we are! \" by then a sheepish mr romney had deserted his earlier remarks with a statement delivered outside 10 downing street. He predicted that any minor problems would be \"overshadowed by the extraordinary demonstrations of courage, character and determination by the athletes \". Mr romney was asked in his interview on thursday evening whether he had been aware of his roots in northern england, where his great-great-grandfather, a carpenter from preston, was one of the first mormons in britain some 175 years ago. \"i knew that my ancestors came from here, \" he said. \"i know miles romney and miles park romney – these are the folks that came and helped settle the west. \" asked whether he felt \"partly english \" as a result, a chuckling mr romney replied: \"well,"
         ],
         "raw_document": [
             "Wearing a brave face after causing a diplomatic spat by questioning london's readiness to host the olympics, the republican presidential candidate joked that britain felt like \"home \". The former massachusetts governor and his wife, ann, were interviewed together after a day from which he was meant to emerge looking like an international statesman descended into farce. He told cnn's piers morgan on thursday evening that the olympics would be \"terrific \", blessed with \"great weather \" and full of \"enthusiasm on the part of the people here in london \". The previous evening he told nbc that he had seen \"disconcerting \" signs that made it \"hard to know just how well it will turn out \" at the london games, prompting a sharp rejoinder from david cameron. Promising london would deliver, the prime minister said it had been challenging to host an olympics in one of the world's busiest cities rather than the \"middle of nowhere \", where it would be easier. This was widely taken in the us to be a reference to utah, the sparsely populated western state where mr romney was chief executive of the salt lake city winter olympics in 2002. Boris johnson, the mayor of london, heaped more misery on mr romney's campaign by dismissing his remarks while onstage at a concert in hyde park to mark the end of the olympic torch relay. \"there's guy called mitt romney who wants to know if we are ready, \" mr johnson cried, prompting jeers from some of the 60,000-strong crowd. \"are we ready? yes we are! \" by then a sheepish mr romney had deserted his earlier remarks with a statement delivered outside 10 downing street. He predicted that any minor problems would be \"overshadowed by the extraordinary demonstrations of courage, character and determination by the athletes \". Mr romney was asked in his interview on thursday evening whether he had been aware of his roots in northern england, where his great-great-grandfather, a carpenter from preston, was one of the first mormons in britain some 175 years ago. \"i knew that my ancestors came from here, \" he said. \"i know miles romney and miles park romney – these are the folks that came and helped settle the west. \" asked whether he felt \"partly english \" as a result, a chuckling mr romney replied: \"well,",
@@ -1963,7 +1953,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1994,7 +1984,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2027,13 +2017,12 @@
     },
     {
         "idx": 10174,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Almost 16 years after the 9/11 attacks, another family has been given the news that the remains of their loved one have been identified. New york city's medical examiner said monday that the man has been identified as the 1,641st person killed at the world trade center on sept. 11, 2001, pix11 reports. The medical examiner's office says the man's name is being withheld by request of his family. This is the first time another victim has been identified since march 2015, when matthew david yarnell, a 26-year-old who worked on the 97th floor of the south tower, was identified with the help of dna, the new york daily news reports. The 1,641th victim was identified through dna retesting of remains recovered from the site, reports nbc news. Out of the 2,753 people killed in the new york attacks, 1,112, or around 40 %, are still unidentified, but the medical examiner's office says it plans to keep using the most modern methods to identify as many as possible. The medical examiner's office says it has been retesting remains found during the original recovery operation at ground zero. ( the last surviving rescue dog from the scene got a hero's goodbye before she was euthanized last year. )",
         "split": "train",
         "cleansed_document": [
             "The new york city medical examiner's office has identified the 1,641st victim from the 9/11 terror attack on the world trade center nearly 16 years ago. Michael george reports. What to know the name of the male victim has not been released; he is the 1,641st victim of the 9/11 attacks at the world trade center to be identified monday's announcement marks the first time a sept. 11 world trade center victim has been identified since march 2015 roughly 1,112 victims -- about 40 percent of the 2,753 victims in the new york attacks -- have yet to be identified the new york city medical examiner's office said monday it has positively identified another set of remains from the 9/11 terror attacks at the world trade center, yet 16 years after two hijacked planes flew into the twin towers, about 40 percent of the families who lost loved ones are still waiting for that call. The name of the man most recently identified was withheld at his family's request, the new york city medical examiner's office said. Monday's announcement marks the first time since march 2015 that remains of a sept. 11 world trade center victim have been identified. His identification was confirmed through dna retesting. He is the 1,641",
-            "Manhattan – the 1,641st person killed at the world trade center during the sept. 11 terror attacks has been identified, marking the first time in more than two years that a previously unknown victim has been named, the city's medical examiner said monday. The man's name is being withheld at the request of his family, the medical examiner's office said. He was identified through dna retesting of remains recovered at ground zero in 2001. Nearly 16 years after the attacks, some 40 percent of those died – 1,112 people – remain unidentified, the medical examiner's office said. Before this latest victim, the last time a new identification was made was in march 2015. The effort to identify all 2,753 victims who died at the world trade center is ongoing.",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Manhattan – the 1,641st person killed at the world trade center during the sept. 11 terror attacks has been identified, marking the first time in more than two years that a previously unknown victim has been named, the city's medical examiner said monday. The man's name is being withheld at the request of his family, the medical examiner's office said. He was identified through dna retesting of remains recovered at ground zero in 2001. Nearly 16 years after the attacks, some 40 percent of those died – 1,112 people – remain unidentified, the medical examiner's office said. Before this latest victim, the last time a new identification was made was in march 2015. The effort to identify all 2,753 victims who died at the world trade center is ongoing."
         ],
         "raw_document": [
             "The new york city medical examiner's office has identified the 1,641st victim from the 9/11 terror attack on the world trade center nearly 16 years ago. Michael george reports. What to know the name of the male victim has not been released; he is the 1,641st victim of the 9/11 attacks at the world trade center to be identified monday's announcement marks the first time a sept. 11 world trade center victim has been identified since march 2015 roughly 1,112 victims -- about 40 percent of the 2,753 victims in the new york attacks -- have yet to be identified the new york city medical examiner's office said monday it has positively identified another set of remains from the 9/11 terror attacks at the world trade center, yet 16 years after two hijacked planes flew into the twin towers, about 40 percent of the families who lost loved ones are still waiting for that call. The name of the man most recently identified was withheld at his family's request, the new york city medical examiner's office said. Monday's announcement marks the first time since march 2015 that remains of a sept. 11 world trade center victim have been identified. His identification was confirmed through dna retesting. He is the 1,641",
@@ -2050,7 +2039,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2116,14 +2105,13 @@
     },
     {
         "idx": 10177,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Poop comes in all shapes and sizes, but one kind of marsupial produces oddly symmetrical, six-sided feces that have had scientists scratching their heads. Patricia yang, a mechanical engineering fellow at georgia tech, decided she needed to get to the bottom of why wombats expel poop cubes — the only known species to do this organically — and so she and her team set out to study the australian marsupial's digestive system to try to solve the mystery, phys.org reports. Yang presented their findings at the annual meeting of the american physical society's division of fluid dynamics, explaining that the researchers examined the insides of two wombats that had been euthanized after being hit by cars in tasmania. \" we opened those intestines up like it was christmas, \" study co-author david hu says, per science news. The \" gift \" they found inside, per cnn, was the discovery that as the feces of the wombat — which can produce up to 100 poop cubes each night — moves into the last 8 % of the animal's intestine, it shifts from a liquidy state to a solid, morphing into cubes about three-quarters of an inch in length. The scientists then inflated a balloon inside the intestine to find that the soft tissue of the wombat's intestinal walls were quite elastic, allowing the cubes to form. The reason that perhaps underlies the blocky excrement? wombats, which don't see so well, stack their stinky poop to mark their turf and let other wombats know where they are. If the poop specimens are shaped like cubes, they won't roll away. ( an aussie pol used his vacation time to help wombats. )",
         "split": "train",
         "cleansed_document": [
             "Of all the poops in the world, only wombats ' are shaped like cubes. The varied elasticity of the wombat's intestines helps the marsupials to sculpt their scat into cubelike nuggets, instead of the round pellets, messy piles or tubular coils made by other mammals, researchers reported november 18 at the american physical society division of fluid dynamics meeting in atlanta. Wombats mark their territories with small piles of scat. Cuboid poops stack better than rounder ones, and don't roll away as easily. But cubic shapes in nature are very unusual, says mechanical engineer david hu of georgia institute of technology in atlanta. Making and maintaining flat facets and sharp",
             "Cubical feces in the wombat's intestine. Credit: p. Yang and d. Hu/georgia tech wombats, the chubby and beloved, short-legged marsupials native to australia, are central to a biological mystery in the animal kingdom: how do they produce cube-shaped poop? patricia yang, a postdoctoral fellow in mechanical engineering at the georgia institute of technology, set out to investigate. Yang studies the hydrodynamics of fluids, including blood, processed food and urine, in the bodies of animals. She was curious how the differences in wombats'digestive processes and soft tissue structures might explain their oddly shaped scat. During the american physical society's division of fluid dynamics 71st annual",
-            "( cnn ) a team of scientists claims to have unraveled one of the animal kingdom's more peculiar mysteries: why wombat poop is cube-shaped. The wombat, native to australia, produces about 80 to 100 cubes of poop each night. It is known to deposit piles of dung outside burrows and on top of rocks and logs, most likely to communicate with other wombats, researchers believe. \" wombats have really strong sense of smell that they use probably for communication, \" said university of tasmania wildlife ecologist scott carver, who co-authored the study. \" we don't know what that information they're sharing is, but it might be something",
-            "71st annual meeting of the aps division of fluid dynamics sunday – tuesday, november 18 – 20, 2018; atlanta, georgia 5: 10 pm – 6: 28 pm, sunday, november 18, 2018 georgia world congress center room: b306 chair: david saintillan, university of california, san diego 5: 10 pm – 5: 23 pm abstract patricia j yang ( georgia inst of tech ) patricia j yang ( georgia inst of tech ) miles chan ( georgia inst of tech ) scott carver ( university of tasmania, australia ) david l hu ( georgia inst of tech ) wombats are fossorial herbivorous australian marsupials with the distinctive feature of producing cubic"
+            "( cnn ) a team of scientists claims to have unraveled one of the animal kingdom's more peculiar mysteries: why wombat poop is cube-shaped. The wombat, native to australia, produces about 80 to 100 cubes of poop each night. It is known to deposit piles of dung outside burrows and on top of rocks and logs, most likely to communicate with other wombats, researchers believe. \" wombats have really strong sense of smell that they use probably for communication, \" said university of tasmania wildlife ecologist scott carver, who co-authored the study. \" we don't know what that information they're sharing is, but it might be something"
         ],
         "raw_document": [
             "Of all the poops in the world, only wombats ' are shaped like cubes. The varied elasticity of the wombat's intestines helps the marsupials to sculpt their scat into cubelike nuggets, instead of the round pellets, messy piles or tubular coils made by other mammals, researchers reported november 18 at the american physical society division of fluid dynamics meeting in atlanta. Wombats mark their territories with small piles of scat. Cuboid poops stack better than rounder ones, and don't roll away as easily. But cubic shapes in nature are very unusual, says mechanical engineer david hu of georgia institute of technology in atlanta. Making and maintaining flat facets and sharp",
@@ -2142,7 +2130,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2265,7 +2253,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2487,12 +2475,11 @@
     },
     {
         "idx": 10190,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A blast that injured a goodwill worker in austin tuesday night appears to be unrelated to the series of deadly explosions that has shaken the city, police say. Assistant police chief ely reyes says the scare was caused by a military training device that somebody had included in a box of donated items, the austin american-statesman reports. Reyes says the artillery simulator, which simulates the sound of battlefield explosions, went off in the hand of a goodwill employee. The worker was treated at a south austin hospital and released after a couple of hours. \" we have no reason to believe this is an attempt at a copycat, \" reyes says. The blast and a nearby car fire caused the evacuation of businesses in the area. Police say that military items, including ammunition, are sometimes donated to goodwill by relatives who don't know what they are, the ap reports. \" we get all sorts of crazy donations, \" a goodwill spokeswoman says. \" people bring us everything from prosthetic legs to a human skull one year, so this isn't out of the ordinary as far as strange donations. \" but \" in this town, if an incendiary device goes off, everybody just scatters and panics, \" goodwill texas ceo gary davis said at the scene. \" we're all on edge. \" earlier tuesday, a device that police believe is linked to the earlier bombings exploded at a fedex shipping center.",
         "split": "train",
         "cleansed_document": [
-            "A military device in a donation box injured an employee at a south austin goodwill store tuesday evening in an incident that local and federal authorities determined was not related to the bombings that have recently jolted central texas. An employee of the goodwill at 9801 brodie lane found an artillery simulator – a device meant to simulate the deafening \"bang \" noise of an explosion for the purposes of military training – in a box of donated items and it detonated in his hand, austin police assistant chief ely reyes said. The victim, a man in his 30s, was treated at st. David's south austin medical center and released within a couple of hours, according to a hospital spokesperson. It's not clear whether the donation of the simulator was malicious, but reyes noted that it is common for military-style mementos to find their way to donation sites if family members find them and don't know what they are. \"we have no reason to believe this is an attempt at a copycat, \" reyes said. Though not a bomb, the incident added another layer of fear to the jitters of a city that has seen four bombs explode this month, killing two people, a fifth that exploded at a fedex in schertz early tuesday, and a sixth discovered and detonated safely at a fedex ground facility in southeast austin",
-            "An fbi official carries items into a fedex office store tuesday, march 20, 2018, in the southwest austin suburb of sunset valley, texas, as authorities investigate a recent string of package bombs. ( reshma... ( associated press ) austin, texas ( ap ) — investigators pursuing a suspected serial bomber in the texas capital faced new threats along with the promise of valuable new leads as their attention shifted tuesday to a fedex shipping center near san antonio where a package exploded and the discovery of another, unexploded bomb near austin's airport. Even as they pored through surveillance video footage and collected evidence hoping to get closer to tracking down whoever is behind the series of blasts that have killed two people and seriously wounded four others, a tuesday night scare caused them to respond to a goodwill store in southern austin. It turned out to be an unrelated explosion: someone dropped off a device sometimes used in military training and it went off, injuring a worker. Police said they don't believe it was the work of the bomber, or a copycat. They said such military items are occasionally donated to goodwill instead of being properly disposed of. Gary davis, president and ceo of goodwill texas, said the device known as an artillery simulator detonated when an employee tried to handle it. \" in this"
+            "A military device in a donation box injured an employee at a south austin goodwill store tuesday evening in an incident that local and federal authorities determined was not related to the bombings that have recently jolted central texas. An employee of the goodwill at 9801 brodie lane found an artillery simulator – a device meant to simulate the deafening \"bang \" noise of an explosion for the purposes of military training – in a box of donated items and it detonated in his hand, austin police assistant chief ely reyes said. The victim, a man in his 30s, was treated at st. David's south austin medical center and released within a couple of hours, according to a hospital spokesperson. It's not clear whether the donation of the simulator was malicious, but reyes noted that it is common for military-style mementos to find their way to donation sites if family members find them and don't know what they are. \"we have no reason to believe this is an attempt at a copycat, \" reyes said. Though not a bomb, the incident added another layer of fear to the jitters of a city that has seen four bombs explode this month, killing two people, a fifth that exploded at a fedex in schertz early tuesday, and a sixth discovered and detonated safely at a fedex ground facility in southeast austin"
         ],
         "raw_document": [
             "A military device in a donation box injured an employee at a south austin goodwill store tuesday evening in an incident that local and federal authorities determined was not related to the bombings that have recently jolted central texas. An employee of the goodwill at 9801 brodie lane found an artillery simulator – a device meant to simulate the deafening \"bang \" noise of an explosion for the purposes of military training – in a box of donated items and it detonated in his hand, austin police assistant chief ely reyes said. The victim, a man in his 30s, was treated at st. David's south austin medical center and released within a couple of hours, according to a hospital spokesperson. It's not clear whether the donation of the simulator was malicious, but reyes noted that it is common for military-style mementos to find their way to donation sites if family members find them and don't know what they are. \"we have no reason to believe this is an attempt at a copycat, \" reyes said. Though not a bomb, the incident added another layer of fear to the jitters of a city that has seen four bombs explode this month, killing two people, a fifth that exploded at a fedex in schertz early tuesday, and a sixth discovered and detonated safely at a fedex ground facility in southeast austin",
@@ -2507,7 +2494,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2698,12 +2685,11 @@
     },
     {
         "idx": 10198,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When dennis \" nathan \" meyer apparently overdosed on dilaudid, a painkiller, while hanging out with chelsie berry, 24, and jared prier, 28, last week, police say the missouri pair reacted in perhaps the worst possible way: they allegedly took a selfie with his corpse, dumped the body, and then posted the selfie to facebook. A tipster told police about the picture, which allegedly shows berry and prier with a \" passed out \" meyer in the front seat of his car. When police questioned berry, she said she was hanging out with meyer when he started acting \" crazy \" after injecting himself with the painkiller, so she called prier, one of meyer's friends, who came to pick her up at a mcdonald's. But after meyer lost consciousness, the pair eventually realized he was no longer breathing. They were too scared to call an ambulance or go to a hospital because they were also high on meth and xanax, berry told police, so they took the selfie and then moved meyer from the front seat to the back seat because he started to smell bad, police say. Then, berry told cops, she and prier drove around \" looking for a place to dump the body \" and, upon finding a rural driveway that apparently seemed suitable, \" pushed the body out of the vehicle onto the ground. \" police were tipped off about the selfie while investigating meyer's death, the joplin globe reports. Berry and prier have been charged with abandonment of a corpse, the smoking gun reports. ( earlier this month, a man killed himself while trying to take a selfie with his gun. )",
         "split": "train",
         "cleansed_document": [
-            "August 28 -- after their friend apparently died of a drug overdose, two missouri residents posed for a \"selfie \" with the corpse, an image that one of them later uploaded to facebook after dumping the body on a rural road, according to police. As detailed in a probable cause affidavit, chelsie berry, 24, told cops that she was driving around with dennis \"nathan \" meyer last week when he began acting \"crazy \" after injecting himself with the pain killer dilaudid. Claiming that she was \"nervous \" around the unstable meyer, berry ( seen at right ) said that she called one of his friends, jared prier, whom she had met the prior evening. Prier, 28, picked up berry at a mcdonald's and they \"hung out in the parking lot for a little bit. \" meyer, berry said, was \"passed out. \" after driving to a convenience store, prier told berry that \"he believed that nathan had quit breathing. \" berry told cops that she \"checked nathan and did not think he was breathing either. \" berry claimed that she and prier were \"scared to call for an ambulance and did not want to take nathan to a hospital because she and jared were high on meth and xanax and thought they would get in trouble. \" so the duo drove to a back road and \"dragged nathan from the front seat to the back seat because they did not want to look at him any longer and also the fact that he began to smell bad. \" however, before they moved the body, berry and prier posed for a \"selfie \" with the 30-year-old meyer, said newton county sheriff ken copeland. A tipster subsequently alerted investigators to the photo after berry uploaded it to facebook, said copeland, who added that the image showed berry, prier, and the \"passed out \" meyer in the front seat of meyer's nissan pathfinder. Berry told police that she and prier ( pictured above ) drove around \"looking for a place to dump the body. \" they eventually settled on a rural driveway and \"pushed the body out of the vehicle onto the ground. \" an autopsy determined that meyer's \"breathing would have been faint and it would have taken a while for nathan to die. \" berry and prier were charged yesterday with abandonment of a corpse. According to investigators, meyer and prier have been linked",
-            "Close get email notifications on emily younker daily! your notification has been saved. There was a problem saving your notification. Whenever emily younker posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items."
+            "August 28 -- after their friend apparently died of a drug overdose, two missouri residents posed for a \"selfie \" with the corpse, an image that one of them later uploaded to facebook after dumping the body on a rural road, according to police. As detailed in a probable cause affidavit, chelsie berry, 24, told cops that she was driving around with dennis \"nathan \" meyer last week when he began acting \"crazy \" after injecting himself with the pain killer dilaudid. Claiming that she was \"nervous \" around the unstable meyer, berry ( seen at right ) said that she called one of his friends, jared prier, whom she had met the prior evening. Prier, 28, picked up berry at a mcdonald's and they \"hung out in the parking lot for a little bit. \" meyer, berry said, was \"passed out. \" after driving to a convenience store, prier told berry that \"he believed that nathan had quit breathing. \" berry told cops that she \"checked nathan and did not think he was breathing either. \" berry claimed that she and prier were \"scared to call for an ambulance and did not want to take nathan to a hospital because she and jared were high on meth and xanax and thought they would get in trouble. \" so the duo drove to a back road and \"dragged nathan from the front seat to the back seat because they did not want to look at him any longer and also the fact that he began to smell bad. \" however, before they moved the body, berry and prier posed for a \"selfie \" with the 30-year-old meyer, said newton county sheriff ken copeland. A tipster subsequently alerted investigators to the photo after berry uploaded it to facebook, said copeland, who added that the image showed berry, prier, and the \"passed out \" meyer in the front seat of meyer's nissan pathfinder. Berry told police that she and prier ( pictured above ) drove around \"looking for a place to dump the body. \" they eventually settled on a rural driveway and \"pushed the body out of the vehicle onto the ground. \" an autopsy determined that meyer's \"breathing would have been faint and it would have taken a while for nathan to die. \" berry and prier were charged yesterday with abandonment of a corpse. According to investigators, meyer and prier have been linked"
         ],
         "raw_document": [
             "August 28 -- after their friend apparently died of a drug overdose, two missouri residents posed for a \"selfie \" with the corpse, an image that one of them later uploaded to facebook after dumping the body on a rural road, according to police. As detailed in a probable cause affidavit, chelsie berry, 24, told cops that she was driving around with dennis \"nathan \" meyer last week when he began acting \"crazy \" after injecting himself with the pain killer dilaudid. Claiming that she was \"nervous \" around the unstable meyer, berry ( seen at right ) said that she called one of his friends, jared prier, whom she had met the prior evening. Prier, 28, picked up berry at a mcdonald's and they \"hung out in the parking lot for a little bit. \" meyer, berry said, was \"passed out. \" after driving to a convenience store, prier told berry that \"he believed that nathan had quit breathing. \" berry told cops that she \"checked nathan and did not think he was breathing either. \" berry claimed that she and prier were \"scared to call for an ambulance and did not want to take nathan to a hospital because she and jared were high on meth and xanax and thought they would get in trouble. \" so the duo drove to a back road and \"dragged nathan from the front seat to the back seat because they did not want to look at him any longer and also the fact that he began to smell bad. \" however, before they moved the body, berry and prier posed for a \"selfie \" with the 30-year-old meyer, said newton county sheriff ken copeland. A tipster subsequently alerted investigators to the photo after berry uploaded it to facebook, said copeland, who added that the image showed berry, prier, and the \"passed out \" meyer in the front seat of meyer's nissan pathfinder. Berry told police that she and prier ( pictured above ) drove around \"looking for a place to dump the body. \" they eventually settled on a rural driveway and \"pushed the body out of the vehicle onto the ground. \" an autopsy determined that meyer's \"breathing would have been faint and it would have taken a while for nathan to die. \" berry and prier were charged yesterday with abandonment of a corpse. According to investigators, meyer and prier have been linked",
@@ -2718,20 +2704,19 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 10199,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Trouble in paradise: warner bros. On sunday announced it has suspended production on season four of bachelor in paradise following \" allegations of misconduct on the set. \" the bachelor spinoff was filming in mexico ahead of an aug. 8 premiere date, and warner bros. Had little more to add than the following: \" we have suspended production and we are conducting a thorough investigation of these allegations. Once the investigation is complete, we will take appropriate responsive action. \" for the uninitiated, the hollywood reporter explains the abc show pulls together castmembers from the bachelor and bachelorette who didn't end up with the final rose, in hopes that sparks will fly. According to tmz's sources, the incident involved sexual activity in a swimming pool between two \" villains \" from previous seasons: corinne olympios and demario jackson. It says there are \" different versions \" of what happened and outlines one ( it's fairly graphic; you can read it here ). Et reports by way of a source that a \" third party \" — apparently a producer — \" felt uncomfortable, claiming misconduct in the workplace. \" los angeles times reporter amy kaufman tweeted the producer sued over what she saw, which a source tells kaufman was \" soft-core porn \" but didn't involve sex. According to e!'s source, this isn't just a suspension of production: the season is kaput. Infamous bachelor spoiler reality steve said much the same, tweeting, \" certainly doesn't look like bip is happening. \"",
         "split": "train",
         "cleansed_document": [
             "According to my source, this producer went on to sue the production for misconduct over what she witnessed between demario and corinne.",
             "From this point forward, things turned into \" soft core porn. \" they did not have sex. But it was very raunchy.",
             "The fourth season of the ' bachelor'spinoff was being filmed for a summer air date. Abc has halted filming on the upcoming new season of bachelor in paradise. \" we have become aware of allegations of misconduct on the set of bachelor in paradise in mexico, \" warner bros. Said sunday in a statement. \" we have suspended production and we are conducting a thorough investigation of these allegations. Once the investigation is complete, we will take appropriate responsive action. \" the fourth season of the abc reality series had recently begun filming and is slated to premiere aug. 8. The summer series reunites former castoffs of the bachelor and the bachelorette at a resort in sayulita, mexico, in hopes they find love with other stars of the franchise. Abc had announced the first round of the bachelor in paradise cast last week. The 16 men and women who had begun filming included two runner-ups from previous seasons, two returning bachelor in paradise stars and four villains, including corinne olympios from nick viall's season of the bachelor and demario jackson, a recent castoff of rachel lindsay's the bachelorette. Blogger reality steve ( steve carbone ) posted a photo of many of the show's stars",
-            "Bachelor in paradise has abruptly halted production in mexico, e! news can exclusively report. On sunday, warner bros. Released a statement, \" we have become aware of allegations of misconduct on the set of bachelor in paradise in mexico. We have suspended production and we are conducting a thorough investigation of these allegations. Once the investigation is complete, we will take appropriate responsive action. \" a source tells e! news that production has been suspended \" indefinitely. \" another source tells e! news that some contestants are already home and that they got home yesterday. The source also added that the situation is quite serious and that the production isn't just suspended, that it's totally done for this season and possibly forever. Previously, the filming for bachelor in paradise season four, which announced its full cast earlier this week, had been in full swing. The abc reality hit was slated to premiere on tuesday, aug. 8.",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Bachelor in paradise has abruptly halted production in mexico, e! news can exclusively report. On sunday, warner bros. Released a statement, \" we have become aware of allegations of misconduct on the set of bachelor in paradise in mexico. We have suspended production and we are conducting a thorough investigation of these allegations. Once the investigation is complete, we will take appropriate responsive action. \" a source tells e! news that production has been suspended \" indefinitely. \" another source tells e! news that some contestants are already home and that they got home yesterday. The source also added that the situation is quite serious and that the production isn't just suspended, that it's totally done for this season and possibly forever. Previously, the filming for bachelor in paradise season four, which announced its full cast earlier this week, had been in full swing. The abc reality hit was slated to premiere on tuesday, aug. 8."
         ],
         "raw_document": [
             "According to my source, this producer went on to sue the production for misconduct over what she witnessed between demario and corinne.",
@@ -2752,7 +2737,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 5
         }
     }
 ]

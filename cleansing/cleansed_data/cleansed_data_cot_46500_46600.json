@@ -25,7 +25,7 @@
             "0": 5,
             "1": 0,
             "2": 3,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -110,12 +110,11 @@
     },
     {
         "idx": 46504,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Not much of a shocker, but huge obama fan beyonce will perform at the president's second inauguration, people reports. She ' ll perform the national anthem at the jan. 21 event, while kelly clarkson will sing \" my country'tis of thee \" and james taylor will perform \" america the beautiful. \" beyonce, of course, memorably took part in the 2009 inauguration when she sang \" at last \" for president obama's first dance with michelle obama at the neighborhood inaugural ball. Meanwhile, get a look at inaugural poet richard blanco, the son of cuban immigrants, in the new york times.",
         "split": "val",
         "cleansed_document": [
-            "Washington — from the moment barack obama burst onto the political scene, the poet richard blanco, a son of cuban exiles, says he felt \"a spiritual connection \" with the man who would become the nation's 44th president. Like mr. Obama, who chronicled his multicultural upbringing in a best-selling autobiography, \"dreams from my father, \" mr. Blanco has been on a quest for personal identity through the written word. He said his affinity for mr. Obama springs from his own feeling of straddling different worlds; he is latino and gay ( and worked as a civil engineer while pursuing poetry ). His poems are laden with longing for the sights and smells of the land his parents left behind. Now mr. Obama is about to pluck mr. Blanco out of the relatively obscure and quiet world of poetry and put him on display before the entire world. On wednesday the president's inaugural planners will announce that mr. Blanco is to be the 2013 inaugural poet, joining the ranks of notables like robert frost and maya angelou. \"since the beginning of the campaign, i totally related to his life story and the way he speaks of his family, and of course his multicultural background, \" mr. Blanco said in a telephone interview from the rural village of bethel, me., where he lives with his partner. \"there has always been a spiritual connection in that sense. I feel in some ways that when i ' m writing about my family, i ' m writing about him. \" mr. Blanco must now compose an original poem for the president's ceremonial swearing-in on the steps of the capitol on jan. 21. ( mr. Obama will take the official oath at the white house on jan. 20, as required by the constitution. ) addie whisenant, the inaugural committee's spokeswoman, said mr. Obama picked mr. Blanco because the poet's \"deeply personal poems are rooted in the idea of what it means to be an american. \" friends of mr. Blanco's, and fellow poets, say the president could not have found a more perfect fit. \"i think he was chosen because his america is very similar to the president's america, \" said liz balmaseda, who met mr. Blanco in the mid-1990s when he was just emerging as a poet, and she was working as a columnist for the miami herald. \"you don't have to be an exile, you don't have to be latino or gay to get the yearning in richard's poetry. \"",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Washington — from the moment barack obama burst onto the political scene, the poet richard blanco, a son of cuban exiles, says he felt \"a spiritual connection \" with the man who would become the nation's 44th president. Like mr. Obama, who chronicled his multicultural upbringing in a best-selling autobiography, \"dreams from my father, \" mr. Blanco has been on a quest for personal identity through the written word. He said his affinity for mr. Obama springs from his own feeling of straddling different worlds; he is latino and gay ( and worked as a civil engineer while pursuing poetry ). His poems are laden with longing for the sights and smells of the land his parents left behind. Now mr. Obama is about to pluck mr. Blanco out of the relatively obscure and quiet world of poetry and put him on display before the entire world. On wednesday the president's inaugural planners will announce that mr. Blanco is to be the 2013 inaugural poet, joining the ranks of notables like robert frost and maya angelou. \"since the beginning of the campaign, i totally related to his life story and the way he speaks of his family, and of course his multicultural background, \" mr. Blanco said in a telephone interview from the rural village of bethel, me., where he lives with his partner. \"there has always been a spiritual connection in that sense. I feel in some ways that when i ' m writing about my family, i ' m writing about him. \" mr. Blanco must now compose an original poem for the president's ceremonial swearing-in on the steps of the capitol on jan. 21. ( mr. Obama will take the official oath at the white house on jan. 20, as required by the constitution. ) addie whisenant, the inaugural committee's spokeswoman, said mr. Obama picked mr. Blanco because the poet's \"deeply personal poems are rooted in the idea of what it means to be an american. \" friends of mr. Blanco's, and fellow poets, say the president could not have found a more perfect fit. \"i think he was chosen because his america is very similar to the president's america, \" said liz balmaseda, who met mr. Blanco in the mid-1990s when he was just emerging as a poet, and she was working as a columnist for the miami herald. \"you don't have to be an exile, you don't have to be latino or gay to get the yearning in richard's poetry. \""
         ],
         "raw_document": [
             "Washington — from the moment barack obama burst onto the political scene, the poet richard blanco, a son of cuban exiles, says he felt \"a spiritual connection \" with the man who would become the nation's 44th president. Like mr. Obama, who chronicled his multicultural upbringing in a best-selling autobiography, \"dreams from my father, \" mr. Blanco has been on a quest for personal identity through the written word. He said his affinity for mr. Obama springs from his own feeling of straddling different worlds; he is latino and gay ( and worked as a civil engineer while pursuing poetry ). His poems are laden with longing for the sights and smells of the land his parents left behind. Now mr. Obama is about to pluck mr. Blanco out of the relatively obscure and quiet world of poetry and put him on display before the entire world. On wednesday the president's inaugural planners will announce that mr. Blanco is to be the 2013 inaugural poet, joining the ranks of notables like robert frost and maya angelou. \"since the beginning of the campaign, i totally related to his life story and the way he speaks of his family, and of course his multicultural background, \" mr. Blanco said in a telephone interview from the rural village of bethel, me., where he lives with his partner. \"there has always been a spiritual connection in that sense. I feel in some ways that when i ' m writing about my family, i ' m writing about him. \" mr. Blanco must now compose an original poem for the president's ceremonial swearing-in on the steps of the capitol on jan. 21. ( mr. Obama will take the official oath at the white house on jan. 20, as required by the constitution. ) addie whisenant, the inaugural committee's spokeswoman, said mr. Obama picked mr. Blanco because the poet's \"deeply personal poems are rooted in the idea of what it means to be an american. \" friends of mr. Blanco's, and fellow poets, say the president could not have found a more perfect fit. \"i think he was chosen because his america is very similar to the president's america, \" said liz balmaseda, who met mr. Blanco in the mid-1990s when he was just emerging as a poet, and she was working as a columnist for the miami herald. \"you don't have to be an exile, you don't have to be latino or gay to get the yearning in richard's poetry. \"",
@@ -130,7 +129,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -155,7 +154,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -267,7 +266,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -350,7 +349,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -568,7 +567,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -682,12 +681,11 @@
     },
     {
         "idx": 46525,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Remember crazy britney spears? she seems to have been tootling along rather well. But apparently she's still a tad mentally incapacitated. That's what her parents are arguing in court as they battle a lawsuit from booted manager sam lutfi, reports ksfm. He's suing brit's mom, lynne, for defamation for writing in her book that he isolated the pop star from her parents and was a major negative influence. He's seeking a deposition from britney to prove that wasn't the case. Now britney's parents are trying to convince a judge that she's not mentally capable of giving a deposition, reports billboard. Lutfi is demanding a shrink exam to prove it. Stay tuned.",
         "split": "val",
         "cleansed_document": [
-            "Britney spears seems to have recovered from her unstable ways in the past, but now, thanks to brit's parents, that will rise to the surface again in a new legal battle. Britney spears ' ex-manager, sam lutfi, is suing britney's mom lynne spears for defamation. Lynne wrote in her memoir, 'through the storm,'that lufti was responsible for cutting off her family's communication with their daughter and over-influencing the britney in a negative way. Lutfi and his legal team have asked spears to testify to the fact that he was not the manipulating force behind the pop queen's breakdown. But spears ' parents believe their daughter is not mentally capable of giving a deposition. But not taking no for an answer, lutfi has demanded that a judge order spears to undergo a psychiatric exam to prove her lucidity. Britney spears ' father, james parnell spears, remains in control of her conservatorship, and doesn't want his daughter anywhere near lutfi. But with evidence in the form of spears'recent tv and radio interviews, lutfi believes that she is more than capable of speaking her mind.",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Britney spears seems to have recovered from her unstable ways in the past, but now, thanks to brit's parents, that will rise to the surface again in a new legal battle. Britney spears ' ex-manager, sam lutfi, is suing britney's mom lynne spears for defamation. Lynne wrote in her memoir, 'through the storm,'that lufti was responsible for cutting off her family's communication with their daughter and over-influencing the britney in a negative way. Lutfi and his legal team have asked spears to testify to the fact that he was not the manipulating force behind the pop queen's breakdown. But spears ' parents believe their daughter is not mentally capable of giving a deposition. But not taking no for an answer, lutfi has demanded that a judge order spears to undergo a psychiatric exam to prove her lucidity. Britney spears ' father, james parnell spears, remains in control of her conservatorship, and doesn't want his daughter anywhere near lutfi. But with evidence in the form of spears'recent tv and radio interviews, lutfi believes that she is more than capable of speaking her mind."
         ],
         "raw_document": [
             "Britney spears seems to have recovered from her unstable ways in the past, but now, thanks to brit's parents, that will rise to the surface again in a new legal battle. Britney spears ' ex-manager, sam lutfi, is suing britney's mom lynne spears for defamation. Lynne wrote in her memoir, 'through the storm,'that lufti was responsible for cutting off her family's communication with their daughter and over-influencing the britney in a negative way. Lutfi and his legal team have asked spears to testify to the fact that he was not the manipulating force behind the pop queen's breakdown. But spears ' parents believe their daughter is not mentally capable of giving a deposition. But not taking no for an answer, lutfi has demanded that a judge order spears to undergo a psychiatric exam to prove her lucidity. Britney spears ' father, james parnell spears, remains in control of her conservatorship, and doesn't want his daughter anywhere near lutfi. But with evidence in the form of spears'recent tv and radio interviews, lutfi believes that she is more than capable of speaking her mind.",
@@ -702,7 +700,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -787,13 +785,12 @@
     },
     {
         "idx": 46529,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "After six days with no fresh pings detected, the chief of the search for malaysia airlines flight 370 says it's time to go underwater. The bluefin-21 underwater autonomous vehicle will now be deployed to search for wreckage in an area defined by signals picked up last week that are believed to have been from the missing jet's data recorders, reports the bbc. Search chief angus houston says the robotic sub will be in a \" reduced and manageable search area on the ocean floor \" and, with the data recorders ' batteries now almost certainly dead, efforts to detect pings will cease. On its first 24-hour mission, the bluefin-21 will search an area of around 15 square miles, producing a high-resolution map of the sea floor, the los angeles times reports. Houston warns, however, that the underwater search will be a \" slow and painstaking process \" with no guarantee of results. The area being searched, he says, is extremely deep — 2.8 miles — and is largely unknown terrain \" new to man. \" an oil slick detected on the surface of the area last night, meanwhile, is being analyzed and officials believe it didn't come from any of the search vessels, cnn reports.",
         "split": "val",
         "cleansed_document": [
             "The bluefin-21 underwater vehicle is hoisted back aboard the australian ship ocean shield after successful buoyancy testing in the indian ocean. ( u.s. Navy / getty images / ) beijing -- an unmanned underwater vehicle will be deployed to look for missing malaysia airlines flight 370 on the floor of the indian ocean, australian authorities said monday, and investigators have collected samples from an oil slick discovered in the search area. With six days having passed with no further detection of \"pings \" from what may have been the plane's black boxes, searchers on the australian ship ocean shield will cease using the u.s. Navy's towed pinger locator and deploy the bluefin-21 underwater search vessel, officials said. \"it is time to go underwater, \" said air chief marshal angus houston, who is coordinating the search from perth, australia. The bluefin-21, houston said, will search an area of about 15",
-            "Media playback is unsupported on your device media caption acm angus houston: bluefin-21 will create a 3d map of the ocean floor teams searching for the missing malaysia airlines plane are to deploy a robotic submarine for the first time. Search chief angus houston said the bluefin-21 drone would be sent down as soon as possible to search for wreckage on the sea floor. Teams have been using a towed pinger locator to listen for signals from the plane's \" black box \" flight recorders. But no new signals have been heard since 8 april, amid concerns the flight recorders ' batteries have expired. Flight mh370 went missing on 8 march with 239 people on board. It was flying from kuala lumpur to beijing when it lost contact with air traffic controllers over the south china sea. Malaysian officials believe, based on satellite data, that it ended its flight in the southern indian ocean",
-            "Story highlights cnn aviation analyst says surface slick could be fluid leaking from underwater plane cell phone tower detected co-pilot's phone around time of disappearance, official says an oil slick has been found 5.5 kilometers ( 3.4 miles ) from where pings were detected underwater search vehicle comes back to surface early after exceeding depth limit the phone of the first officer of malaysia airlines flight 370 was on and made contact with a cell tower in malaysia about the time the plane disappeared from radar, a u.s. Official told cnn on monday. However, the u.s. Official -- who cited information shared by malaysian investigators -- said there was no evidence the first officer, fariq abdul hamid, had tried to make a call. The official told cnn's pamela brown on monday that a cell-phone tower in penang, malaysia -- about 250 miles from where the flight's transponder last sent a signal --"
+            "Media playback is unsupported on your device media caption acm angus houston: bluefin-21 will create a 3d map of the ocean floor teams searching for the missing malaysia airlines plane are to deploy a robotic submarine for the first time. Search chief angus houston said the bluefin-21 drone would be sent down as soon as possible to search for wreckage on the sea floor. Teams have been using a towed pinger locator to listen for signals from the plane's \" black box \" flight recorders. But no new signals have been heard since 8 april, amid concerns the flight recorders ' batteries have expired. Flight mh370 went missing on 8 march with 239 people on board. It was flying from kuala lumpur to beijing when it lost contact with air traffic controllers over the south china sea. Malaysian officials believe, based on satellite data, that it ended its flight in the southern indian ocean"
         ],
         "raw_document": [
             "The bluefin-21 underwater vehicle is hoisted back aboard the australian ship ocean shield after successful buoyancy testing in the indian ocean. ( u.s. Navy / getty images / ) beijing -- an unmanned underwater vehicle will be deployed to look for missing malaysia airlines flight 370 on the floor of the indian ocean, australian authorities said monday, and investigators have collected samples from an oil slick discovered in the search area. With six days having passed with no further detection of \"pings \" from what may have been the plane's black boxes, searchers on the australian ship ocean shield will cease using the u.s. Navy's towed pinger locator and deploy the bluefin-21 underwater search vessel, officials said. \"it is time to go underwater, \" said air chief marshal angus houston, who is coordinating the search from perth, australia. The bluefin-21, houston said, will search an area of about 15",
@@ -810,7 +807,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -866,17 +863,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 46532,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Just in time for christmas... A giant new jersey billboard is challenging the existence of god. \" you know it's a myth, \" says the atheist ad that appears over the entrance to the lincoln tunnel, featuring an image of the magi traveling to a nativity scene. \" this season, celebrate reason. \" the debate, of course, isn't ending there. A catholic group has erected its own billboard on the manhattan entrance to the tunnel reading: \" you know it's real \" over pictures of mary and joseph. \" we can't enjoy the christmas season without someone trying to dumb it down or neuter it, \" the president of the catholic league told ap. Reps from american atheists say they don't intend to offend anyone. They merely want to \" encourage \" other atheists to \" come out of their closet to attack the myth that christianity owns the solstice system, \" they said on their blog site. Each billboard cost close to $ 20,000.",
         "split": "val",
         "cleansed_document": [
-            "As if trying to negotiate the traffic wasn't hard enough, drivers coming into new york city via the lincoln tunnel are getting caught up in a battle of beliefs. A billboard sponsored by a catholic group is displayed near an exit of the lincoln tunnel in new york, wednesday, dec. 1, 2010. Similarly, a billboard sponsored by an atheist group is displayed near the... ( associated press ) a billboard sponsored by an atheist group is displayed near the entrance to the lincoln tunnel in north bergen, n.j., wednesday, dec. 1, 2010. Now, the catholic league has countered by putting up its... ( associated press ) a billboard sponsored by a catholic group is displayed near an exit of the lincoln tunnel in new york, wednesday, dec. 1, 2010. Similarly, a billboard sponsored by an atheist group is displayed near the... ( associated press ) a billboard sponsored by an atheist group is displayed near the entrance to the lincoln tunnel in north bergen, n.j., wednesday, dec. 1, 2010. Now, the catholic league has countered by putting up its... ( associated press ) first, an anti-christmas billboard was set up by the american atheists outside a new jersey entrance to the tunnel. Now, the catholic league has countered by putting up its own billboard near one of the tunnel's new york city entrances. The atheist billboard says, \" you know it's a myth. This season, celebrate reason! \" the catholic billboard counters: \" you know it's real. This season, celebrate jesus. \" both billboards will be up for at least the next couple of weeks.",
-            "Thanks in part to the work of american atheists, the number of atheists in the united states continues to grow and attitudes toward atheists are shifting. However, misconceptions about atheists still exist and members of our community still face discrimination at home, work, and school. Help us continue to elevate atheists and educate the public about atheism by making a tax-deductible gift today."
+            "As if trying to negotiate the traffic wasn't hard enough, drivers coming into new york city via the lincoln tunnel are getting caught up in a battle of beliefs. A billboard sponsored by a catholic group is displayed near an exit of the lincoln tunnel in new york, wednesday, dec. 1, 2010. Similarly, a billboard sponsored by an atheist group is displayed near the... ( associated press ) a billboard sponsored by an atheist group is displayed near the entrance to the lincoln tunnel in north bergen, n.j., wednesday, dec. 1, 2010. Now, the catholic league has countered by putting up its... ( associated press ) a billboard sponsored by a catholic group is displayed near an exit of the lincoln tunnel in new york, wednesday, dec. 1, 2010. Similarly, a billboard sponsored by an atheist group is displayed near the... ( associated press ) a billboard sponsored by an atheist group is displayed near the entrance to the lincoln tunnel in north bergen, n.j., wednesday, dec. 1, 2010. Now, the catholic league has countered by putting up its... ( associated press ) first, an anti-christmas billboard was set up by the american atheists outside a new jersey entrance to the tunnel. Now, the catholic league has countered by putting up its own billboard near one of the tunnel's new york city entrances. The atheist billboard says, \" you know it's a myth. This season, celebrate reason! \" the catholic billboard counters: \" you know it's real. This season, celebrate jesus. \" both billboards will be up for at least the next couple of weeks."
         ],
         "raw_document": [
             "As if trying to negotiate the traffic wasn't hard enough, drivers coming into new york city via the lincoln tunnel are getting caught up in a battle of beliefs. A billboard sponsored by a catholic group is displayed near an exit of the lincoln tunnel in new york, wednesday, dec. 1, 2010. Similarly, a billboard sponsored by an atheist group is displayed near the... ( associated press ) a billboard sponsored by an atheist group is displayed near the entrance to the lincoln tunnel in north bergen, n.j., wednesday, dec. 1, 2010. Now, the catholic league has countered by putting up its... ( associated press ) a billboard sponsored by a catholic group is displayed near an exit of the lincoln tunnel in new york, wednesday, dec. 1, 2010. Similarly, a billboard sponsored by an atheist group is displayed near the... ( associated press ) a billboard sponsored by an atheist group is displayed near the entrance to the lincoln tunnel in north bergen, n.j., wednesday, dec. 1, 2010. Now, the catholic league has countered by putting up its... ( associated press ) first, an anti-christmas billboard was set up by the american atheists outside a new jersey entrance to the tunnel. Now, the catholic league has countered by putting up its own billboard near one of the tunnel's new york city entrances. The atheist billboard says, \" you know it's a myth. This season, celebrate reason! \" the catholic billboard counters: \" you know it's real. This season, celebrate jesus. \" both billboards will be up for at least the next couple of weeks.",
@@ -891,7 +887,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -941,7 +937,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -969,7 +965,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -994,17 +990,15 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 46537,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Sofia vergara gave her side of the story to howard stern yesterday, saying she's not at all worried the lawsuit from ex nick loeb, who wants to bring their two frozen female embryos to term, will amount to anything. Loeb has offered to raise the resulting children himself, but kids need \" a loving relationship of parents that get along, that don't hate each other, \" she told stern ( though she specified that loeb has a problem with her, not the other way around, people reports ). \" i wouldn't imagine anyone saying that it's sane to bring [ into ] the world kids that are already set up [ with ] everything wrong for them. It would be so selfish. \" she added the two signed a legal contract ( on two occasions ) regarding the embryos and \" he can't do anything. \"",
         "split": "val",
-        "cleansed_document": [
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period.",
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
@@ -1018,7 +1012,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1113,7 +1107,7 @@
             "1": 0,
             "2": 1,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1182,7 +1176,7 @@
             "3": 5,
             "4": 1,
             "5": 1,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -1303,13 +1297,12 @@
     },
     {
         "idx": 46547,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Tondalo hall wasn't accused of abusing her two young children but was handed a 30-year sentence for failing to protect them from her abusive boyfriend. Her partner, meanwhile, nabbed a plea deal and served just two years for breaking the ribs and femur of their 3-month-old infant; he was released in 2006. The 31-year-old hall appealed for clemency to the oklahoma pardon and parole board, but that appeal was denied wednesday, leaving her with at least 15 more years behind bars and frustrating women's rights activists, buzzfeed reports. The board — whose vice chair \" seemed incredulous \" during the hearing that hall hadn't done more to help her kids, buzzfeed notes — offered no explanation for its 5-0 decision against hall, whose plight had received publicity from a buzzfeed investigation last year. In court documents, testimony against hall's boyfriend indicated he choked and punched her regularly, was verbally abusive, and isolated her from family and friends, the washington post notes. In her commutation application, hall — whose sentence ends in 2034, with the possibility of parole in 2030 — acknowledged her past mistakes but says she's since dedicated herself to becoming a better mom, taking parenting and anger management classes and earning her ged. \" despite my failures, i did not physically abuse my children, \" she wrote. \" i was an active parent and a proud mother. I loved and cared for my children and i would appreciate the opportunity to watch them grow up. \" the co-founder of a national advocacy group that got 70,000 signatures on a petition to release hall tells buzzfeed, \" the [ board ] had the responsibility to make things right and they failed with [ wednesday's ] decision. \" read more on her case here.",
         "split": "val",
         "cleansed_document": [
             "Tondalo hall in 2015. ( oklahoma department of corrections ) in 2004, tondalo hall was 20 years old with three kids, no degree and an abusive boyfriend. He regularly choked her, punched her, threw objects at her and barraged her with verbal abuse, according to testimony in court documents. He kept her from her family and friends, even tried to stop her from showing affection to her kids. Whenever it seemed like she might bolt, he threatened to take her children — a son from a previous relationship, and two kids with him — and never allow her to see them again. When he seemed to turn his ire on their children, hall worried inwardly, but outwardly did nothing. She questioned him about a bruise on her son's head, the sound of her daughter screaming from another room, and he explained the concerns away. Finally",
-            "Oklahoma city — tondalo hall, a battered woman whose lengthy prison term in a child abuse case has outraged women's rights advocates, had her plea for clemency denied on wednesday. The oklahoma pardon and parole board voted 5-0 against her application for a commuted sentence. Hall, who was not accused of hurting her children but only of failing to prevent her boyfriend from abusing them, is set to remain behind bars until at least 2030, when she becomes eligible for parole. Hall's abusive boyfriend, who admitted to breaking the ribs and femur of their 3-month-old daughter, was sentenced to only two years and was released from jail in 2006. \" the oklahoma pardon and parole board had the responsibility to make things right and they failed with today's decision, \" said shaunna thomas, co-founder of ultraviolet, a national advocacy group that garnered 70,000 signatures in a petition",
-            "Arlena lindley's boyfriend alonzo turner beat her for months and murdered her child — so why was she sent to prison for 45 years? a buzzfeed news investigation. Photograph by melanie buford for the dallas morning news photographs of titches lindley sitting above his bed at the home of his father, william wade, in dallas. Buzzfeed news dallas county sheriff's department from left: arlena lindley and alonzo turner. Photograph by wil chandler for buzzfeed photographs of aubriana coke in the home of her grandmother in monticello, arkansas. Courtesy of victoria pedraza victoria pedraza and her daughter. Victoria served in the national guard. Arkansas department of correction photograph by wil chandler for buzzfeed buzzfeed judge kenneth watson. Courtesy of victoria phanthtaranth victoria phanthtaranth and her daughter, alexis. Watson told buzzfeed news that he thought about how phanthtaranth had suffered from repeated physical and sexual abuse growing up in foster"
+            "Oklahoma city — tondalo hall, a battered woman whose lengthy prison term in a child abuse case has outraged women's rights advocates, had her plea for clemency denied on wednesday. The oklahoma pardon and parole board voted 5-0 against her application for a commuted sentence. Hall, who was not accused of hurting her children but only of failing to prevent her boyfriend from abusing them, is set to remain behind bars until at least 2030, when she becomes eligible for parole. Hall's abusive boyfriend, who admitted to breaking the ribs and femur of their 3-month-old daughter, was sentenced to only two years and was released from jail in 2006. \" the oklahoma pardon and parole board had the responsibility to make things right and they failed with today's decision, \" said shaunna thomas, co-founder of ultraviolet, a national advocacy group that garnered 70,000 signatures in a petition"
         ],
         "raw_document": [
             "Tondalo hall in 2015. ( oklahoma department of corrections ) in 2004, tondalo hall was 20 years old with three kids, no degree and an abusive boyfriend. He regularly choked her, punched her, threw objects at her and barraged her with verbal abuse, according to testimony in court documents. He kept her from her family and friends, even tried to stop her from showing affection to her kids. Whenever it seemed like she might bolt, he threatened to take her children — a son from a previous relationship, and two kids with him — and never allow her to see them again. When he seemed to turn his ire on their children, hall worried inwardly, but outwardly did nothing. She questioned him about a bruise on her son's head, the sound of her daughter screaming from another room, and he explained the concerns away. Finally",
@@ -1326,7 +1319,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1439,7 +1432,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1580,7 +1573,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1740,17 +1733,15 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 46563,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Police reaction to the various occupy protests around the nation have tarnished the us reputation for press freedom in the eyes of reporters without borders. In the group's new world rankings, the us falls 27 spots to 47th, owing to the \" many arrests of journalists covering occupy wall street protests. \" see the full rankings here. The huffington post provides a roundup of the rest, with dictatorships and crackdowns on the arab spring accounting for the worst offenders. Worst: eritrea, north korea, turkmenistan, syria, iran, china, bahrain, vietnam, yemen, and sudan. Best: finland, norway, estonia, netherlands, austria, iceland, luxembourg, switzerland, cape verde, and canada.",
         "split": "val",
-        "cleansed_document": [
-            "Contains periodically archived websites of ( principally ) marxian inspired entities, including political parties, that identify with or are inspired by communist, socialist, or trotskyist perspectives. While the focus is on the u.s., selected international sites, especially those documenting the history of these movements, are also archived. Classic marxian doctrine advocates collective ownership of the means of production, to be achieved by the political struggle of the working class via political parties and labor unions, and the eventual withering away of the state. For the purposes of this archive, communist organizations are understood as those that supported or now align themselves with the ideology and politics of the former soviet union and the associated international communist movement that arose in the aftermath of the russian revolution of 1917; trotskyist organizations are those rooted in leon trotsky's critique of the soviet union, which he helped to found; socialist organizations, including social democratic organizations ( progressive organizations with socialism as an ultimate, if distant goal ), include those rooted in the pre-1917 socialist movement, and generally reject the communist ideal of a one-party state. For technical, privacy and other reasons, archived websites may not be exact copies of the original website at the time of the web crawl."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Africa gap widens between good and bad performers in africa dramatic falls by countries that cracked down on mass unrest the 2011 arab spring did not spill over into sub-saharan africa to the point of bringing down any governments, but some regimes had to face forceful political and social demands, and journalists covering demonstrations were often the victims of indiscriminate police repression or were targeted by police who did not want them covering the crackdown. This was the case in angola ( 132nd ), where many journalists were arrested during protests in september, and in uganda ( 139th ), which fell 43 places in the index after a year that will not be forgotten by its media. They were the targets of violence and surveillance during the presidential election in february and were targeted again during the brutal crackdown on the \"walk to work \" protests later in the year, when dozens of journalists were arrested. It was even worse in malawi ( 146th ), which plunged 67 places in the index, the biggest fall of any country in the world. Malawi's journalists were treated like demonstrators during the crackdown on protests in the summer. Many were arrested and mistreated, and equipment was broken. A student and blogger, robert chasowa, who was found dead in september, was almost certainly murdered. Media that wanted to investigate the case were threatened. Before all this, malawi's media legislation had been toughened so much at the start",
             "Contains periodically archived websites of ( principally ) marxian inspired entities, including political parties, that identify with or are inspired by communist, socialist, or trotskyist perspectives. While the focus is on the u.s., selected international sites, especially those documenting the history of these movements, are also archived. Classic marxian doctrine advocates collective ownership of the means of production, to be achieved by the political struggle of the working class via political parties and labor unions, and the eventual withering away of the state. For the purposes of this archive, communist organizations are understood as those that supported or now align themselves with the ideology and politics of the former soviet union and the associated international communist movement that arose in the aftermath of the russian revolution of 1917; trotskyist organizations are those rooted in leon trotsky's critique of the soviet union, which he helped to found; socialist organizations, including social democratic organizations ( progressive organizations with socialism as an ultimate, if distant goal ), include those rooted in the pre-1917 socialist movement, and generally reject the communist ideal of a one-party state. For technical, privacy and other reasons, archived websites may not be exact copies of the original website at the time of the web crawl."
@@ -1764,7 +1755,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1814,7 +1805,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1919,12 +1910,11 @@
     },
     {
         "idx": 46570,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Donald trump won't be able to collect two easy votes in new york's primary later this month: daughter ivanka and son eric failed to register in time and thus can't cast votes on april 19, reports nbc news. \" they were unaware of the rules, \" trump said on fox news. \" so they feel very, very guilty. They feel very guilty but it's fine. \" yahoo news reported last week that only oldest son donald jr. Is a registered republican and that both ivanka and eric have previously donated to democratic candidates. Trump has two younger children, tiffany, a college student not active in the campaign, and a son, barron, who's just 10.",
         "split": "val",
         "cleansed_document": [
-            "Donald trump has a big lead in polling in his home state of new york, but he won't be getting the votes of two of his biggest advocates there: his kids. Donald trump with ivanka trump on july 30, 2015 in ayr, scotland. Jeff j mitchell / getty images file trump conceded monday that two of his children — eric and ivanka trump — failed to register as republicans in the state in time to be eligible to vote for him in new york's april 19 primary. \" they were unaware of the rules and they didn't register in time, \" trump said on fox news. \" so they feel very, very guilty. They feel very guilty but it's fine. \" the deadline for new voters to register to vote in new york's closed primary was march 25, and the deadline to change party affiliation was back in october. \" eric and ivanka, i guess, won't be voting, \" trump said. Nbc 4 new york reports that, according to new york's public voter registration database, both eric and ivanka trump are registered to vote but not enrolled in a political party. Trump's campaign has been plagued in recent weeks by poor organization in local and state-level republican conventions, where delegates to the",
-            "Eric trump and ivanka trump attend a news conference in new york, may 1, 2014. ( photo: brendan mcdermid/reuters ) donald trump's three oldest children have campaigned with their father and served as surrogates during the presidential race. But only one of them is actually a member of the party trump hopes to lead. Records from the new york state board of elections show that neither ivanka trump nor eric trump is enrolled in a political party. Trump's oldest son, donald trump jr., is a republican. Both eric and ivanka trump have also donated money to democrats. Campaign finance reports show eric gave $ 1,000 to sen. Chuck schumer, d-n.y., in 2010. Eric has made 11 other contributions totaling over $ 138,000 that all went to republican candidates. Ivanka's campaign contributions have a more bipartisan bent. Records show she has donated over $ 240,000 to both democrats and republicans. Ivanka has given money to schumer, sen. Cory booker, d-n.j.,, sen. Kirsten gillibrand, d-n.y., rep. Donald norcross, d-n.j., district of columbia delegate eleanor holmes norton, and hillary clinton's 2008 presidential bid. On the republican side, ivanka has given money to the presidential campaigns of mitt romney and sen. John mccain, r-ariz. In 2010, ivanka gave $ 2,000 to carly fiorina's u.s. Senate campaign"
+            "Donald trump has a big lead in polling in his home state of new york, but he won't be getting the votes of two of his biggest advocates there: his kids. Donald trump with ivanka trump on july 30, 2015 in ayr, scotland. Jeff j mitchell / getty images file trump conceded monday that two of his children — eric and ivanka trump — failed to register as republicans in the state in time to be eligible to vote for him in new york's april 19 primary. \" they were unaware of the rules and they didn't register in time, \" trump said on fox news. \" so they feel very, very guilty. They feel very guilty but it's fine. \" the deadline for new voters to register to vote in new york's closed primary was march 25, and the deadline to change party affiliation was back in october. \" eric and ivanka, i guess, won't be voting, \" trump said. Nbc 4 new york reports that, according to new york's public voter registration database, both eric and ivanka trump are registered to vote but not enrolled in a political party. Trump's campaign has been plagued in recent weeks by poor organization in local and state-level republican conventions, where delegates to the"
         ],
         "raw_document": [
             "Donald trump has a big lead in polling in his home state of new york, but he won't be getting the votes of two of his biggest advocates there: his kids. Donald trump with ivanka trump on july 30, 2015 in ayr, scotland. Jeff j mitchell / getty images file trump conceded monday that two of his children — eric and ivanka trump — failed to register as republicans in the state in time to be eligible to vote for him in new york's april 19 primary. \" they were unaware of the rules and they didn't register in time, \" trump said on fox news. \" so they feel very, very guilty. They feel very guilty but it's fine. \" the deadline for new voters to register to vote in new york's closed primary was march 25, and the deadline to change party affiliation was back in october. \" eric and ivanka, i guess, won't be voting, \" trump said. Nbc 4 new york reports that, according to new york's public voter registration database, both eric and ivanka trump are registered to vote but not enrolled in a political party. Trump's campaign has been plagued in recent weeks by poor organization in local and state-level republican conventions, where delegates to the",
@@ -1939,7 +1929,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2019,7 +2009,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2309,13 +2299,12 @@
     },
     {
         "idx": 46585,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "After decades of barely clinging on as a species, the bear that inspired teddy bears has bounced back. Interior secretary sally jewell announced on thursday that the louisiana black bear — which appeared in the famous \" teddy's bear \" political cartoon after teddy roosevelt refused to shoot a tied-up one in 1902 — has been taken off both the threatened and endangered species list after a population increase from as few as 80 in 1959 to up to 750 today, the christian science monitor reports. In what authorities say should serve as an example to other areas, the bear rebounded with the help of habitat restoration and wildlife corridors that connected different populations of the bear subspecies, which once ranged all the way from eastern texas to eastern mississippi. Jewell praised the \" recovery of a species, \" though the ap notes that some groups think the move is premature. \" the work's not over, \" jewell told reporters. \" the work's really just beginning to bring back more of these hardwoods so louisiana can help enjoy the kinds of animals that teddy roosevelt saw when he was here at the turn of the century. \" there hasn't been a legal bear hunt in the state since 1988, and the new orleans advocate reports that state authorities, who will now take over work to protect the species, say it's far too early to talk about holding one now. ( this has also been a great month for grizzly bears. )",
         "split": "val",
         "cleansed_document": [
             "File - in this may 17, 2015, file photo, a louisiana black bear, sub-species of the black bear that is protected under the endangered species act, sits in a water oak tree in marksville, la. U.s. Interior... ( associated press ) new orleans ( ap ) — the louisiana black bear, the animal behind the \" teddy's bear \" inspired by president theodore roosevelt, has rebounded enough to pull it off the list of federally protected species, the government says. U.s. Interior secretary sally jewell heralded the \" recovery of a species \" thursday, though groups that have worked for decades to protect the bears disagreed or had doubts. The black bear, which once roamed texas, mississippi and louisiana, is now found in two parts of eastern louisiana and in one place along the coast. Its removal from the federal list means the state will now take over work to protect it. Jewell spoke at the tallulah office of the tensas river national wildlife refuge, where louisiana's biggest black bear population is found. Reporters elsewhere listened by phone as she described how roosevelt's refusal to shoot a tied-up louisiana black bear for",
-            "After decades of recovery, the louisiana black bear – the furry beast that inspired the creation of teddy bears – is now officially off the lists for threatened and endangered species under the endangered species act. The us department of interior secretary sally jewell attributed the good news to partnerships with private landowners and their work to preserve forestland vital to the survival of the bears during her announcement at the tensas river national wildlife refuge in northeast louisiana, in the heart of black bear territory. She was there to \"to celebrate a successful conservation partnership to protect and recover the louisiana black bear from the brink of extinction, \" the department said. Landowners as well as state and federal agencies, nonprofits, and universities all played a part in the bears ' population recovery, according to us fish and wildlife services. Aggressive restoration programs and new regulations helped mitigate habitat loss enough to enable the iconic bear's population to rebound. Similar efforts, on the part of both regulatory bodies and individuals, have helped restore habitats for numerous birds, mammals, and other creatures that once faced grave risk. \"there is a rewilding of america going on, which is extraordinarily heartening,",
-            "Democratic u.s. Senate candidate foster campbell on thursday picked up the endorsements of the sierra club and 22 of louisiana's best known en …"
+            "After decades of recovery, the louisiana black bear – the furry beast that inspired the creation of teddy bears – is now officially off the lists for threatened and endangered species under the endangered species act. The us department of interior secretary sally jewell attributed the good news to partnerships with private landowners and their work to preserve forestland vital to the survival of the bears during her announcement at the tensas river national wildlife refuge in northeast louisiana, in the heart of black bear territory. She was there to \"to celebrate a successful conservation partnership to protect and recover the louisiana black bear from the brink of extinction, \" the department said. Landowners as well as state and federal agencies, nonprofits, and universities all played a part in the bears ' population recovery, according to us fish and wildlife services. Aggressive restoration programs and new regulations helped mitigate habitat loss enough to enable the iconic bear's population to rebound. Similar efforts, on the part of both regulatory bodies and individuals, have helped restore habitats for numerous birds, mammals, and other creatures that once faced grave risk. \"there is a rewilding of america going on, which is extraordinarily heartening,"
         ],
         "raw_document": [
             "File - in this may 17, 2015, file photo, a louisiana black bear, sub-species of the black bear that is protected under the endangered species act, sits in a water oak tree in marksville, la. U.s. Interior... ( associated press ) new orleans ( ap ) — the louisiana black bear, the animal behind the \" teddy's bear \" inspired by president theodore roosevelt, has rebounded enough to pull it off the list of federally protected species, the government says. U.s. Interior secretary sally jewell heralded the \" recovery of a species \" thursday, though groups that have worked for decades to protect the bears disagreed or had doubts. The black bear, which once roamed texas, mississippi and louisiana, is now found in two parts of eastern louisiana and in one place along the coast. Its removal from the federal list means the state will now take over work to protect it. Jewell spoke at the tallulah office of the tensas river national wildlife refuge, where louisiana's biggest black bear population is found. Reporters elsewhere listened by phone as she described how roosevelt's refusal to shoot a tied-up louisiana black bear for",
@@ -2334,7 +2323,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -2364,12 +2353,11 @@
     },
     {
         "idx": 46587,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The olympics are supposed to be about the grand human drama of sports, entire lives culminating in this one shot at glory. So \"why do we insist, like a bunch of preschoolers, on talking all the way through them? \" demands la times tv critic mary mcnamara. Nbc's commentary is all but ruining the games. Like most sports commentary, it's \"95 % blather and 5 % insight, \" with even the announcers often sounding kind of bored. If you head to nbc's olympics site, you can see some breathtaking commentary-free videos — like this one of lindsey vonn's gold-winning downhill run. \"the silence, broken only by the sound of her skis on the snow and the distant rattle of the fans, marked not just the thrill of it all but the solemnity, \" mcnamara marvels. It seems harsh to bash announcers for doing their jobs, but \"i find it hard not to befriend the mute button. \"",
         "split": "val",
         "cleansed_document": [
-            "Critic's notebook nbc commentators don't know when to shut up sometimes, the effort should just speak for itself, so quit jabbering away and ruining the moment. The most memorable footage of the games may be \" lindsey vonn unplugged, \" a clip of her gold-winning downhill run. As vonn later said, this was the moment to which she had dedicated her life. Her entire life, counted out not in coffee spoons but in hours, days and years spent on the slopes and in the gym harnessing muscle and bone into one tightly focused projectile -- and all for an event that would last only seconds, and one governed by so many uncontrollable factors, the slickness of the snow, her bruised shin, the wind. But perhaps the most striking advantage the website has over the network is the ability to run clips with no commentary. There is much to love about the video portion of www.nbcolympics.com -- the youtube-inspired montages of the various spills, the primers on judging and rules, the fact that you can watch only what you want to watch and don't have to deal with those irritating pop-ups telling you what the next event will be. With no sound save the murmur of voices and the faraway cry of her fans, the clip shows vonn as she prepares for this moment, slapping her thighs, stretching and bouncing, blowing out her cheeks, taking small but fierce breaths. Then she was off, a tiny figure against an impossibly wide and steep slope, and there was no need for a commentator's opinion about speed or form, her past performances or her injured shin. The silence, broken only by the sound of her skis on the snow and the distant rattle of the fans, marked not just the thrill of it all but the solemnity. Vonn's victory is not the only one available with no commentary -- winners including figure skater evan lysacek and snowboarder shaun white can also be seen in blessed and powerful silence. After experiencing the natural arc of tension and triumph, free of audio manipulation, you realize that the cacophony of the televised events is a shock and raises the question: if the olympics are a celebration of athletic excellence, of the human spirit triumphing over the limitations of the human body, why do we insist, like a bunch of preschoolers, on talking all the way through them",
-            "In order to view most content and have optimal experience on nbcolympics.com you will need to enable scripting in your browser and refresh this page. You can find this control in your browser \"options \" or \"preferences \" menu. Please consult your browser help menu for detailed instructions."
+            "Critic's notebook nbc commentators don't know when to shut up sometimes, the effort should just speak for itself, so quit jabbering away and ruining the moment. The most memorable footage of the games may be \" lindsey vonn unplugged, \" a clip of her gold-winning downhill run. As vonn later said, this was the moment to which she had dedicated her life. Her entire life, counted out not in coffee spoons but in hours, days and years spent on the slopes and in the gym harnessing muscle and bone into one tightly focused projectile -- and all for an event that would last only seconds, and one governed by so many uncontrollable factors, the slickness of the snow, her bruised shin, the wind. But perhaps the most striking advantage the website has over the network is the ability to run clips with no commentary. There is much to love about the video portion of www.nbcolympics.com -- the youtube-inspired montages of the various spills, the primers on judging and rules, the fact that you can watch only what you want to watch and don't have to deal with those irritating pop-ups telling you what the next event will be. With no sound save the murmur of voices and the faraway cry of her fans, the clip shows vonn as she prepares for this moment, slapping her thighs, stretching and bouncing, blowing out her cheeks, taking small but fierce breaths. Then she was off, a tiny figure against an impossibly wide and steep slope, and there was no need for a commentator's opinion about speed or form, her past performances or her injured shin. The silence, broken only by the sound of her skis on the snow and the distant rattle of the fans, marked not just the thrill of it all but the solemnity. Vonn's victory is not the only one available with no commentary -- winners including figure skater evan lysacek and snowboarder shaun white can also be seen in blessed and powerful silence. After experiencing the natural arc of tension and triumph, free of audio manipulation, you realize that the cacophony of the televised events is a shock and raises the question: if the olympics are a celebration of athletic excellence, of the human spirit triumphing over the limitations of the human body, why do we insist, like a bunch of preschoolers, on talking all the way through them"
         ],
         "raw_document": [
             "Critic's notebook nbc commentators don't know when to shut up sometimes, the effort should just speak for itself, so quit jabbering away and ruining the moment. The most memorable footage of the games may be \" lindsey vonn unplugged, \" a clip of her gold-winning downhill run. As vonn later said, this was the moment to which she had dedicated her life. Her entire life, counted out not in coffee spoons but in hours, days and years spent on the slopes and in the gym harnessing muscle and bone into one tightly focused projectile -- and all for an event that would last only seconds, and one governed by so many uncontrollable factors, the slickness of the snow, her bruised shin, the wind. But perhaps the most striking advantage the website has over the network is the ability to run clips with no commentary. There is much to love about the video portion of www.nbcolympics.com -- the youtube-inspired montages of the various spills, the primers on judging and rules, the fact that you can watch only what you want to watch and don't have to deal with those irritating pop-ups telling you what the next event will be. With no sound save the murmur of voices and the faraway cry of her fans, the clip shows vonn as she prepares for this moment, slapping her thighs, stretching and bouncing, blowing out her cheeks, taking small but fierce breaths. Then she was off, a tiny figure against an impossibly wide and steep slope, and there was no need for a commentator's opinion about speed or form, her past performances or her injured shin. The silence, broken only by the sound of her skis on the snow and the distant rattle of the fans, marked not just the thrill of it all but the solemnity. Vonn's victory is not the only one available with no commentary -- winners including figure skater evan lysacek and snowboarder shaun white can also be seen in blessed and powerful silence. After experiencing the natural arc of tension and triumph, free of audio manipulation, you realize that the cacophony of the televised events is a shock and raises the question: if the olympics are a celebration of athletic excellence, of the human spirit triumphing over the limitations of the human body, why do we insist, like a bunch of preschoolers, on talking all the way through them",
@@ -2384,19 +2372,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 46588,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Perhaps unsurprisingly, the remake of 1981's gore-fest evil dead is a love-it-or-hate-it affair. The new version has fewer laughs and even more blood and guts than its predecessor, critics say: the new evil dead has \" none of the first movie's handmade charm or hilarity, intentional or otherwise, \" writes manohla dargis in the new york times, noting that the film, directed by fede alvarez, \" approaches the creaky material with a surprisingly straight face. \" what does it have in common with the first film? \" blood lust. \" indeed, the \" tone is completely different, as the helmer rarely attempts to emulate the self-mocking, over-the-top campiness that distinguished the original, \" writes joe leydon at variety. Still, with its references to the original, it's \" the rare remake that likely will be enjoyed most by diehard fans of its predecessor. \" in the los angeles times, mark olsen applauds the film's \" gleeful exuberance of its own analogous to the mad invention of the original. \" its best feature \" is its tone, paying homage yet staking its own territory; it's scary without being downbeat, fun without being too jokey. \" \" gorehounds will have a field day with the plentiful mutilations, decapitations, and other blood-drenched moments in the redo, \" writes lou lumenick in the new york post. Guess he's not a gorehound: he gave it one star.",
         "split": "val",
         "cleansed_document": [
             "Truthfully, if it hadn't been my paying job as a critic to watch fede alvarez's remake of \"evil dead \" all the way to the end, i probably would have headed for the exit door long before the point where somebody cuts off her own arm with an electric carving knife. Of course, then i'd have missed another character being severed lengthwise with a chain saw while some members of the audience hooted in approval. Gorehounds will have a field day with the plentiful mutilations, decapitations and other blood-drenched moments in the redo. It amazingly sports an r rating, though it's far grislier than sam raimi's",
             "The rare remake that likely will be enjoyed most by diehard fans of its predecessor, \"evil dead \" often comes off as the cinematic equivalent of a cover-band concert tribute to a supergroup's greatest hits — albeit with a lot more gore. First-time feature helmer fede alvarez's blood-soaked reprise of sam raimi's franchise-spawning low-budget shocker, \"the evil dead, \" boasts far better production values than the penny-pinching 1981 original and conceivably could delight genre fans who have never seen the first version or its previous remakes/sequels. But it's bound to play best with those who catch alvarez's many wink-wink allusions to raimi's pic. Working from a script",
-            "Among the household items put to unintended use in the new film \" evil dead, \" a playfully reverent if not-overly-so remake of sam raimi's 1981 cult favorite horror movie, are a nail gun, an electric knife, a jerry-rigged defibrillator, and, in an obvious nod to the original, a chain saw. The feature debut of uruguayan director fede alvarez, discovered via a short on youtube, \" evil dead \" has a gleeful exuberance of its own analogous to the mad invention of the original, which, in the years since its release, has become wildly influential and, in its own little-movie-that-could way, downright inspirational. Written by alvarez and",
-            "The remake of \"the evil dead, \" sam raimi's 1981 horror film about a cabin of cult curiosities, doesn't have the original's wooden performances, puffy clothes and hairdos or its amusingly crude special effects, but it does share its blood lust. Torrential and somewhat rust colored, the blood in the remake splish-splashes across the screen, spurts out of bodies, soaks into floors and falls from the sky like a biblical portent. If the rivers of red in mr. Raimi's movie flowed more like molasses than water, it's because they were created with food dye and karo syrup. The new \"evil dead \" has none"
+            "Among the household items put to unintended use in the new film \" evil dead, \" a playfully reverent if not-overly-so remake of sam raimi's 1981 cult favorite horror movie, are a nail gun, an electric knife, a jerry-rigged defibrillator, and, in an obvious nod to the original, a chain saw. The feature debut of uruguayan director fede alvarez, discovered via a short on youtube, \" evil dead \" has a gleeful exuberance of its own analogous to the mad invention of the original, which, in the years since its release, has become wildly influential and, in its own little-movie-that-could way, downright inspirational. Written by alvarez and"
         ],
         "raw_document": [
             "Truthfully, if it hadn't been my paying job as a critic to watch fede alvarez's remake of \"evil dead \" all the way to the end, i probably would have headed for the exit door long before the point where somebody cuts off her own arm with an electric carving knife. Of course, then i'd have missed another character being severed lengthwise with a chain saw while some members of the audience hooted in approval. Gorehounds will have a field day with the plentiful mutilations, decapitations and other blood-drenched moments in the redo. It amazingly sports an r rating, though it's far grislier than sam raimi's",
@@ -2415,7 +2402,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -2632,13 +2619,12 @@
     },
     {
         "idx": 46597,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "You get off the subway, stash your earbuds in your pocket, and when you pull them out again, they're completely tangled — even after you painstakingly untangled them yesterday. Why does it happen every time? well, there's actually a whole branch of science to help explain, and it's called knot theory, wired reports. A 2007 experiment conducted at the university of california, san diego, may shed some light on the situation. Researchers dropped string into a motorized spinning box, examining the resulting knots. They argued that knots occurred because when a string is coiled in order to fit in a small space, its end is parallel to other sections. Spinning makes it possible for that end to loop around a segment, and more spinning means more looping. In half of the 10-second spins, strings came out knotted. The longer a string was, the higher the chance of knotting — up to a point. Strings shorter than a foot-and-a-half didn't usually get knotted, and those beyond five feet long got knotty just half the time. So how to avoid knots? stiffer cables help reduce tangling, as do smaller spaces. Or you can try a do-it-yourself method to avoid tangling.",
         "split": "val",
         "cleansed_document": [
             "It happens every time: you reach into your bag to pull out your headphones. But no matter how neatly you wrapped them up beforehand, the cords have become a giant gordian knot of frustration. Along with your netflix stream inexplicably buffering and facebook emotionally manipulating you, tangled cords are the bane of modern existence. But until we invent a good way of wirelessly beaming power through the air to our beloved electronic devices, it seems like we're stuck with this problem. Long floppy pieces of string can assume many spontaneous configurations. A string could be nicely laid out in a straight line. Or it could have one end crossed over some section in the middle. There in fact happen to be a lot of configurations where the string wraps around itself, potentially creating a tangle and eventually a knot. With relatively few of these random configurations being tangle free, chances are higher that the string will be a mess. And once a knot forms, it's energetically difficult and unlikely for it to come undone. Therefore, a string will naturally tend toward greater knottiness. Humans have been tying things up with string for many thousands of years, so it '",
-            "Uc san diego undergraduate�s research makes new york times� top science stories of 2007 december 10, 2007 by sherry seethaler dorian raymer credit: kim mcdonald, ucsd a southern californian at heart, dorian raymer surfs, skateboards and fishes for yellowtail. But he also enjoys dabbling in different academic disciplines. He brought together three of his academic pursuits — mathematics, physics and computer programming — in a study he initiated while an undergraduate physics major at uc san diego that was named one of the top science stories of the year. This week the new york times magazine named the study on knot formation by raymer and douglas smith, an assistant professor of physics at ucsd, one of the top science stories of 2007 in its annual \"year in ideas \" issue. The editors of the sunday new york times magazine chose the stories from a pool of nominees submitted by new york times reporters. Since their paper was published in the proceedings of the national academy of sciences in october, the two physicists ' work has captured headlines in daily newspapers and magazines around the world, as well as more technical publications such as popular science, science news, new scientist and physics today. A feature on",
-            "Social sharing: share videos you watch on wsj live with your facebook friends. Videos you watch here will automatically be posted to your timeline. Log outif this is not you or you want to change users, logout. Note: you will be logged out of your facebook account."
+            "Uc san diego undergraduate�s research makes new york times� top science stories of 2007 december 10, 2007 by sherry seethaler dorian raymer credit: kim mcdonald, ucsd a southern californian at heart, dorian raymer surfs, skateboards and fishes for yellowtail. But he also enjoys dabbling in different academic disciplines. He brought together three of his academic pursuits — mathematics, physics and computer programming — in a study he initiated while an undergraduate physics major at uc san diego that was named one of the top science stories of the year. This week the new york times magazine named the study on knot formation by raymer and douglas smith, an assistant professor of physics at ucsd, one of the top science stories of 2007 in its annual \"year in ideas \" issue. The editors of the sunday new york times magazine chose the stories from a pool of nominees submitted by new york times reporters. Since their paper was published in the proceedings of the national academy of sciences in october, the two physicists ' work has captured headlines in daily newspapers and magazines around the world, as well as more technical publications such as popular science, science news, new scientist and physics today. A feature on"
         ],
         "raw_document": [
             "It happens every time: you reach into your bag to pull out your headphones. But no matter how neatly you wrapped them up beforehand, the cords have become a giant gordian knot of frustration. Along with your netflix stream inexplicably buffering and facebook emotionally manipulating you, tangled cords are the bane of modern existence. But until we invent a good way of wirelessly beaming power through the air to our beloved electronic devices, it seems like we're stuck with this problem. Long floppy pieces of string can assume many spontaneous configurations. A string could be nicely laid out in a straight line. Or it could have one end crossed over some section in the middle. There in fact happen to be a lot of configurations where the string wraps around itself, potentially creating a tangle and eventually a knot. With relatively few of these random configurations being tangle free, chances are higher that the string will be a mess. And once a knot forms, it's energetically difficult and unlikely for it to come undone. Therefore, a string will naturally tend toward greater knottiness. Humans have been tying things up with string for many thousands of years, so it '",
@@ -2655,17 +2641,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 46598,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Your dog really may be your best friend, according to a new study out of japan that highlights just how far canine loyalty can go. In a study to be published later this month in the journal animal behaviour, cognitive researchers at kyoto university found that dogs will actually ignore people who snub their owners, even when food is being offered. It's a level of social cooperation seen so rarely in the animal kingdom that even among primates it's not exactly common, reports afp. \" this ability is one of [ the ] key factors in building a highly collaborative society, and this study shows that dogs share that ability with humans, \" lead researcher kazuo fujita said. The team tested three groups of 18 dogs — using breeds including golden retrievers and chihuahuas, and a range of ages, from seven months to 14 years, reports quartz — who watched their owners try to open a box. Two strangers were always present. In the first group, the owner asked one stranger for help but was refused while the other remained neutral; in the second, the person being asked did help while the other remained neutral; and in the third control group, neither of the strangers interacted with the owner at all. Then in all instances, the strangers offered the dogs food. The dogs turned out to be willing to take food from anyone — except, of course, the strangers who refused to help with the box. Would your best friend have your back like that? ( there's also evidence that dogs are cunning thieves. )",
         "split": "val",
         "cleansed_document": [
-            "Tokyo ( afp ) - dogs do not like people who are mean to their owners, japanese researchers said friday, and will refuse food offered by people who have snubbed their master. The findings reveal that canines have the capacity to co-operate socially -- a characteristic found in a relatively small number of species, including humans and some other primates. Researchers led by kazuo fujita, a professor of comparative cognition at kyoto university, tested three groups of 18 dogs using role plays in which their owners needed to open a box. In all three groups, the owner was accompanied by two people whom the dog did not know. In the first group, the owner sought assistance from one of the other people, who actively refused to help. In the second group, the owner asked for, and received, help from one person. In both groups, the third person was neutral and not involved in either helping or refusing to help. View gallery canines have the capacity to co-operate socially -- a characteristic found in a relatively small num … neither person interacted with the dog's owner in the control -- third -- group. After watching the box-opening scene, the dog was offered food by the two unfamiliar people in the room. Dogs that saw their owner being rebuffed were far more likely to choose food from the neutral observer, and to ignore the offer from the person who had refused to help, fujita said. Dogs whose owners were helped and dogs whose owners did not interact with either person showed no marked preference for accepting snacks from the strangers. \" we discovered for the first time that dogs make social and emotional evaluations of people regardless of their direct interest, \" fujita said. If the dogs were acting solely out of self-interest, there would",
-            "First published in 1953, animal behaviour is a leading international publication and has wide appeal, containing critical reviews, original papers, and research articles on all aspects of animal behaviour. Book reviews and books received sections are also included. First published in 1953, animal behaviour is a leading international publication and has wide appeal, containing critical reviews, original papers, and research articles on all aspects of animal behaviour. Book reviews and books received sections are also included. Growing interest in behavioural biology and the international reputation of animal behaviour prompted an expansion to monthly publication in 1989. Animal behaviour continues to be the journal of choice for biologists, ethologists, psychologists, physiologists, and veterinarians with an interest in the subject. Research areas include: • behavioural ecology • evolution of behaviour • sociobiology • ethology • behavioural psychology • behavioural physiology • population biology • sensory behaviour • navigation and migration"
+            "Tokyo ( afp ) - dogs do not like people who are mean to their owners, japanese researchers said friday, and will refuse food offered by people who have snubbed their master. The findings reveal that canines have the capacity to co-operate socially -- a characteristic found in a relatively small number of species, including humans and some other primates. Researchers led by kazuo fujita, a professor of comparative cognition at kyoto university, tested three groups of 18 dogs using role plays in which their owners needed to open a box. In all three groups, the owner was accompanied by two people whom the dog did not know. In the first group, the owner sought assistance from one of the other people, who actively refused to help. In the second group, the owner asked for, and received, help from one person. In both groups, the third person was neutral and not involved in either helping or refusing to help. View gallery canines have the capacity to co-operate socially -- a characteristic found in a relatively small num … neither person interacted with the dog's owner in the control -- third -- group. After watching the box-opening scene, the dog was offered food by the two unfamiliar people in the room. Dogs that saw their owner being rebuffed were far more likely to choose food from the neutral observer, and to ignore the offer from the person who had refused to help, fujita said. Dogs whose owners were helped and dogs whose owners did not interact with either person showed no marked preference for accepting snacks from the strangers. \" we discovered for the first time that dogs make social and emotional evaluations of people regardless of their direct interest, \" fujita said. If the dogs were acting solely out of self-interest, there would"
         ],
         "raw_document": [
             "Tokyo ( afp ) - dogs do not like people who are mean to their owners, japanese researchers said friday, and will refuse food offered by people who have snubbed their master. The findings reveal that canines have the capacity to co-operate socially -- a characteristic found in a relatively small number of species, including humans and some other primates. Researchers led by kazuo fujita, a professor of comparative cognition at kyoto university, tested three groups of 18 dogs using role plays in which their owners needed to open a box. In all three groups, the owner was accompanied by two people whom the dog did not know. In the first group, the owner sought assistance from one of the other people, who actively refused to help. In the second group, the owner asked for, and received, help from one person. In both groups, the third person was neutral and not involved in either helping or refusing to help. View gallery canines have the capacity to co-operate socially -- a characteristic found in a relatively small num … neither person interacted with the dog's owner in the control -- third -- group. After watching the box-opening scene, the dog was offered food by the two unfamiliar people in the room. Dogs that saw their owner being rebuffed were far more likely to choose food from the neutral observer, and to ignore the offer from the person who had refused to help, fujita said. Dogs whose owners were helped and dogs whose owners did not interact with either person showed no marked preference for accepting snacks from the strangers. \" we discovered for the first time that dogs make social and emotional evaluations of people regardless of their direct interest, \" fujita said. If the dogs were acting solely out of self-interest, there would",
@@ -2680,7 +2665,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {

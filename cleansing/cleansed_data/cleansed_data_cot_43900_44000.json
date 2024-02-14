@@ -121,7 +121,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -198,7 +198,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -248,7 +248,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -314,13 +314,12 @@
     },
     {
         "idx": 43912,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Rachel dolezal has been misrepresenting her income, according to investigators in washington state. The former naacp chapter leader — who was born a white woman but describes herself as \" unapologetically black \" — has been charged with welfare fraud and could get up to 15 years in prison if convicted, the new york daily news reports. Dolezal, who changed her name to nkechi diallo in 2016, is also accused of perjury and false verification for public assistance, reports the ap. Authorities say she illegally received $ 8,747 in food assistance and $ 100 in child care assistance between 2015 and 2017. Dolezal came to the attention of investigators in 2017 when they learned that she had published a memoir but was still reporting income of only $ 500 a month, reports khq. According to court documents, investigators discovered that she had deposited $ 83,924 into her bank account between 2015 and 2017 without declaring it to state authorities. The documents state that the money came from memoir in full color, speaking engagements, soap and doll making, and the sale of art. Dolezal — who stepped down from the spokane chapter of the naacp and lost her job teaching african studies after her background was exposed in 2015 — is due in court next month, the washington post reports.",
         "split": "train",
         "cleansed_document": [
             "File - in this march 20, 2017, file photo, rachel dolezal poses for a photo with her son, langston, at the bureau of the associated press in spokane, wash. Dolezal, a former naacp leader in washington... ( associated press ) file - in this march 20, 2017, file photo, rachel dolezal poses for a photo with her son, langston, at the bureau of the associated press in spokane, wash. Dolezal, a former naacp leader in washington... ( associated press ) spokane, wash. ( ap ) — a former naacp leader in washington state whose life unraveled after she was exposed as a white woman pretending to be black has been charged with welfare fraud. Rachel dolezal, who legally changed her name to nkechi diallo in 2016, was charged this week with theft by welfare fraud, perjury and false verification for public assistance, spokane news station khq-tv reported thursday. She illegally received $ 8,747 in food assistance and $ 100 in child care assistance from august 2015 through november 2017, court documents said. An investigation started in march 2017 when a washington state investigator received information that diallo had written a book. The investigator reviewed diallo's records and found that she had been reporting her",
-            "Former spokane chapter naacp president rachel dolezal is now facing legal trouble that could land her behind bars. Khq has confirmed that dolezal, who legally changed her name to nkechi diallo in 2016, is accused of 1st degree theft by welfare fraud, perjury in the 2nd degree, and false verification for public assistance. Her potential punishment under rcw 74.08.331 could include up to 15 years in prison. Because dolezal changed her name, we ' ll be referring to her as nkechi diallo. According to court documents, diallo illegally received $ 8,747 in food assistance, and illegally received $ 100 in childcare assistance. Total restitution, according to the documents, is $ 8,847, allegedly stolen from august 2015 through november 2017. Read it: newly released court documents in nkechi a. Diallo theft case the investigation into diallo's alleged theft started in march 2017 when a dshs office of fraud and accountability investigator received information that diallo had written a book that got published. The investigator said he'd heard diallo say she was getting public assistance, but also knew that a typical publishing contract included payments of $ 10,000 to $ 20,000. Previous coverage: parents of spokane naacp president rachel dolezal claim she's not black the investigator conducted a",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Former spokane chapter naacp president rachel dolezal is now facing legal trouble that could land her behind bars. Khq has confirmed that dolezal, who legally changed her name to nkechi diallo in 2016, is accused of 1st degree theft by welfare fraud, perjury in the 2nd degree, and false verification for public assistance. Her potential punishment under rcw 74.08.331 could include up to 15 years in prison. Because dolezal changed her name, we ' ll be referring to her as nkechi diallo. According to court documents, diallo illegally received $ 8,747 in food assistance, and illegally received $ 100 in childcare assistance. Total restitution, according to the documents, is $ 8,847, allegedly stolen from august 2015 through november 2017. Read it: newly released court documents in nkechi a. Diallo theft case the investigation into diallo's alleged theft started in march 2017 when a dshs office of fraud and accountability investigator received information that diallo had written a book that got published. The investigator said he'd heard diallo say she was getting public assistance, but also knew that a typical publishing contract included payments of $ 10,000 to $ 20,000. Previous coverage: parents of spokane naacp president rachel dolezal claim she's not black the investigator conducted a"
         ],
         "raw_document": [
             "File - in this march 20, 2017, file photo, rachel dolezal poses for a photo with her son, langston, at the bureau of the associated press in spokane, wash. Dolezal, a former naacp leader in washington... ( associated press ) file - in this march 20, 2017, file photo, rachel dolezal poses for a photo with her son, langston, at the bureau of the associated press in spokane, wash. Dolezal, a former naacp leader in washington... ( associated press ) spokane, wash. ( ap ) — a former naacp leader in washington state whose life unraveled after she was exposed as a white woman pretending to be black has been charged with welfare fraud. Rachel dolezal, who legally changed her name to nkechi diallo in 2016, was charged this week with theft by welfare fraud, perjury and false verification for public assistance, spokane news station khq-tv reported thursday. She illegally received $ 8,747 in food assistance and $ 100 in child care assistance from august 2015 through november 2017, court documents said. An investigation started in march 2017 when a washington state investigator received information that diallo had written a book. The investigator reviewed diallo's records and found that she had been reporting her",
@@ -337,7 +336,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -370,7 +369,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -531,7 +530,7 @@
             "1": 0,
             "2": 0,
             "3": 3,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -560,13 +559,12 @@
     },
     {
         "idx": 43921,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Officials in baghdad are increasingly worried that the iraqi army is simply incapable of standing up to the islamic state of iraq and syria, which is both better armed and better trained, diplomats and politicians tell the bbc. And the militants provided plenty of evidence for that as their campaign rolled on today, capturing their fourth town in two days. Rutba in anbar province lies on a key road between baghdad and jordan. Yesterday, they took two other towns along the euphrates river. In other developments: yesterday also saw the rebels seize a border crossing into syria, the wall street journal reports, giving them a potentially strategically crucial pipeline between their two staging grounds. But the corresponding checkpoint on the other side of the border is under the control of the al-qaeda-affiliated al-nusra front, which is fighting isis for control of it — unlike the iraqi army, which simply fled its checkpoint. Iraq's government fired off an airstrike in tikrit that it said killed 40 militants. But witnesses say many civilians were killed as the strike hit a gas station. Shiite volunteers are coming out of the woodwork in baghdad, thanks to grand ayatollah ali al-sistani's call to arms, the new york times reports. Muqtada al-sadr's mahdi army put on a particularly strong paramilitary display in sadr city yesterday. \" isis is not as strong as a finger against us, \" one mahdi fighter said. \" if muqtada gives us the order, we will finish isis in two days. \" but isis is gaining wealth and weapons with every target it takes. Even before it took over mosul outright its extortion rackets there were generating $ 8 million a month, and now those rackets have transformed into \" taxes. \" \" we don't know the exact amount of money they stole from mosul, \" one member of iraq's parliament says. \" but it is big, big enough that isis can use it to occupy other countries too. \" the militants are also pulling in donations from places like saudi arabia, thanks in part to their social media savvy. When they captured five american-made helicopters recently, for example, they cheekily tweeted, \" we ' ll expect the americans to honor the warranty and service them for us. \"",
         "split": "train",
         "cleansed_document": [
             "Image copyright ap image caption sunni fighters, among them the jihadists of isis, have taken large swathes of western and northern iraq sunni militants have seized another town in iraq's western anbar province - the fourth in two days. Fighters of the islamic state in iraq and the levant ( isis ) captured rutba, 90 miles ( 150km ) east of jordan's border, officials said. They earlier seized a border crossing to syria and two towns in western iraq as they advance towards baghdad. The insurgents intend to capture the whole of the predominantly sunni anbar province, a spokesman told the bbc. Iraq's government said on sunday it had killed 40 militants in an air strike on the militant-held northern town of tikrit, although witnesses said civilians died when a petrol station was hit. Us secretary of state john kerry, speaking in cairo, said isis ' \"",
-            "Baghdad — the long lines of shiite fighters began marching through the capital early saturday morning. Some wore masks. One group had yellow and green suicide explosives, which they said were live, strapped to their chests. As their numbers grew, they swelled into a seemingly unending procession of volunteers with rifles, machine guns and rocket-propelled grenades, backed by mortar crews and gun and rocket trucks. The mahdi army, the paramilitary force that once led a shiite rebellion against american troops here, was making its largest show of force since it suspended fighting in 2008. This time, its fighters were raising arms against the islamic state in iraq and syria, or isis, the qaeda splinter group that has driven iraq's security forces from parts of the country's north and west. Chanting \"one, two, three, mahdi! \" they implored their leader, the cleric moktada",
-            "A member of the board of governors of the central bank of iraq was reluctant to specify how much isis got away with in mosul, but estimated that it at least $ 85 million and possibly much more. He spoke on the condition of anonymity because he was not authorized to speak publicly about the case. \"isis gets some money from outside donors, but that pales in comparison to their self-funding, \" said an american counterterrorism official. \"the overwhelming majority of its money comes from criminal activities like extortion, kidnapping, robberies and smuggling. In mosul, isis has probably been hauling in several million dollars monthly just from its extortion racket. In overrunning the town the group is better off financially, but probably to the tune of millions — not hundreds of millions — of dollars. \" while isis \"is among the wealthiest terrorist groups on the planet, \" the official said, \"it"
+            "Baghdad — the long lines of shiite fighters began marching through the capital early saturday morning. Some wore masks. One group had yellow and green suicide explosives, which they said were live, strapped to their chests. As their numbers grew, they swelled into a seemingly unending procession of volunteers with rifles, machine guns and rocket-propelled grenades, backed by mortar crews and gun and rocket trucks. The mahdi army, the paramilitary force that once led a shiite rebellion against american troops here, was making its largest show of force since it suspended fighting in 2008. This time, its fighters were raising arms against the islamic state in iraq and syria, or isis, the qaeda splinter group that has driven iraq's security forces from parts of the country's north and west. Chanting \"one, two, three, mahdi! \" they implored their leader, the cleric moktada"
         ],
         "raw_document": [
             "Image copyright ap image caption sunni fighters, among them the jihadists of isis, have taken large swathes of western and northern iraq sunni militants have seized another town in iraq's western anbar province - the fourth in two days. Fighters of the islamic state in iraq and the levant ( isis ) captured rutba, 90 miles ( 150km ) east of jordan's border, officials said. They earlier seized a border crossing to syria and two towns in western iraq as they advance towards baghdad. The insurgents intend to capture the whole of the predominantly sunni anbar province, a spokesman told the bbc. Iraq's government said on sunday it had killed 40 militants in an air strike on the militant-held northern town of tikrit, although witnesses said civilians died when a petrol station was hit. Us secretary of state john kerry, speaking in cairo, said isis ' \"",
@@ -583,7 +581,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -613,12 +611,11 @@
     },
     {
         "idx": 43923,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Add ta-nehisi coates to those criticizing kanye west over his assertion that slavery was a \" choice, \" along with west's previous statements about race in the us. The african-american essayist is out with a long, critical piece in the atlantic, in which he writes that \" west's ignorance is not merely deep, but also dangerous. \" coates compares west to michael jackson, who famously lightened his skin. Jackson's \" physical destruction was our physical destruction, because if the black god... Could not be beautiful in his own eyes, then... What hope did we ever have of escaping the muck? \" coates also compares west to president trump ( west is a supporter ), asserting that both are narcissists and \" shockingly ignorant. \" \" west's thoughts are not original, \" writes coates. The idea that \" slavery was a ' choice ' echoes the ancient trope that slavery wasn't that bad; the myth that blacks do not protest crime in their community is pure giulianism; and west's desire to ' go to charlottesville and talk to people on both sides ' is an extension of trump's response to the catastrophe. \" but the comments matter because \" they are the propaganda that justifies voter suppression, and feeds police brutality, and minimizes the murder \" of the woman killed while protesting in charlottesville. \" and kanye west is now a mouthpiece for it. \" read coates ' full essay here, or read a criticism of it as an \" incoherent, divisive attack \" in the conservative federalist.",
         "split": "train",
         "cleansed_document": [
-            "In the atlantic, which is famous for being of \"no party or clique, \" ta-nehisi coates has pronounced judgment on kanye west's recent pro-donald trump comments. Coates is not a fan of kanye's new embrace of trump and \"free thought, \" whatever yeezy means by that. And it was inevitable that the nation's leading black intellectual would have to address the nation's leading black musician for seeming to leave the progressive reservation. In coates ' attack on kanye ( or maybe it's more a plea for him to return to his roots ), one line stood out: \"kurt cobain's death was a great tragedy for his legions of fans, tupac's was a tragedy for an entire people. \" coates tries to establish this as a vital distinction. First of all, i ' m sure coates knows black americans better than i do, but was tupac's death really a tragedy for an \"entire people \"? might there have been some black people not particularly invested in tupac? i don't know, and i stipulate coates knows better, but it struck me as odd. The second reason it raised my pique is much more important. One of the central themes of civil rights work for a hundred years has been that black people carry a burden of",
-            "I could only have seen it there, on the waxed hardwood floor of my elementary-school auditorium, because i was young then, barely 7 years old, and cable had not yet come to the city, and if it had, my father would not have believed in it. Yes, it had to have happened like this, like folk wisdom, because when i think of that era, i do not think of mtv, but of the futile attempt to stay awake and navigate the yawning whiteness of friday night videos, and i remember that there were no vcrs among us then, and so it would have had to have been there that i saw it, in the auditorium that adjoined the cafeteria, where after the daily serving of tater tots and chocolate milk, a curtain divider was pulled back and all the kids stormed the stage. And i would have been there among them, awkwardly uprocking, or worming in place, or stiffly snaking, or back-spinning like a broken rotor, and i would have looked up and seen a kid, slightly older, facing me, smiling to himself, then moving across the floor by popping up alternating heels, gliding in reverse, walking on the moon. Nothing happens that way anymore. Nothing can. But this was 1982, and michael jackson was god,"
+            "In the atlantic, which is famous for being of \"no party or clique, \" ta-nehisi coates has pronounced judgment on kanye west's recent pro-donald trump comments. Coates is not a fan of kanye's new embrace of trump and \"free thought, \" whatever yeezy means by that. And it was inevitable that the nation's leading black intellectual would have to address the nation's leading black musician for seeming to leave the progressive reservation. In coates ' attack on kanye ( or maybe it's more a plea for him to return to his roots ), one line stood out: \"kurt cobain's death was a great tragedy for his legions of fans, tupac's was a tragedy for an entire people. \" coates tries to establish this as a vital distinction. First of all, i ' m sure coates knows black americans better than i do, but was tupac's death really a tragedy for an \"entire people \"? might there have been some black people not particularly invested in tupac? i don't know, and i stipulate coates knows better, but it struck me as odd. The second reason it raised my pique is much more important. One of the central themes of civil rights work for a hundred years has been that black people carry a burden of"
         ],
         "raw_document": [
             "In the atlantic, which is famous for being of \"no party or clique, \" ta-nehisi coates has pronounced judgment on kanye west's recent pro-donald trump comments. Coates is not a fan of kanye's new embrace of trump and \"free thought, \" whatever yeezy means by that. And it was inevitable that the nation's leading black intellectual would have to address the nation's leading black musician for seeming to leave the progressive reservation. In coates ' attack on kanye ( or maybe it's more a plea for him to return to his roots ), one line stood out: \"kurt cobain's death was a great tragedy for his legions of fans, tupac's was a tragedy for an entire people. \" coates tries to establish this as a vital distinction. First of all, i ' m sure coates knows black americans better than i do, but was tupac's death really a tragedy for an \"entire people \"? might there have been some black people not particularly invested in tupac? i don't know, and i stipulate coates knows better, but it struck me as odd. The second reason it raised my pique is much more important. One of the central themes of civil rights work for a hundred years has been that black people carry a burden of",
@@ -633,7 +630,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -711,7 +708,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -811,7 +808,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -861,7 +858,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -945,7 +942,7 @@
             "0": 1,
             "1": 0,
             "2": 2,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1076,7 +1073,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1106,12 +1103,11 @@
     },
     {
         "idx": 43942,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Rough day for mayor bloomberg, who faced the media to plead for patience with storm cleanup. He was at various times \" chastened \" ( daily news ), \" testy \" ( new york post ), \" conciliatory \" ( new york times ) and even sarcastic — as when he replied, \" i regret everything in the world \" after being pressed on the city's response amid mounting criticism. Scores of streets remain unplowed, and the mayor said he couldn't guarantee crews would get to them in the next 24 hours. \" this storm is not like any other we've had to deal with, \" he said. \"we are doing everything we possibly can. \" at another point, he interrupted a question to say, \" i ' m angry, too. \" the overall tone was a marked contrast to yesterday's news conference, notes the times, the one in which he declared: \"the world has not come to an end. The city is going fine. \" click here to see street crews destroy a ford explorer, and not on purpose.",
         "split": "train",
         "cleansed_document": [
-            "Chastened bloomberg fights to save reputation after string of snow-removal snafus ward for news mayor bloomberg briefs the press about the city's response to the blizzard at oem headquarters in brooklyn. A testy mayor bloomberg fended off criticism of the city's failure to clear hundreds of snow-choked streets tuesday as an avalanche of critics attacked his reputation as a supermanager. \" this mayor prides himself on saying the buck stops with him, and it should. We hold him responsible for what we're calling thebloomberg blizzard, \" said citycouncilman david greenfield ( d-brooklyn ). \" the whole world is laughing that the greatest city in the world cannot manage to clear the streets. New york today looks like a third world country. \" greenfield, normally a backer of the mayor, said every side street - and some larger avenues - in borough park were waiting for a plow 30 hours after the storm's end. Similar and worse complaints were heard from much of the snow-buried city outside manhattan. A queens woman's death monday was blamed on the backlog of911 calls and on snow-clogged streets that delayed first responders from reaching her corona home, said state sen. Jose peralta ( d-queens ). \" like many new yorkers, i woke up two days straight to an unplowed street outside my frontdoor, \" said city public advocate bill de blasio. \" this is not business as usual, and frustration is mounting. \" bloomberg asked for patience. \" this storm is not like any other we've had to deal with, \" he said. \" we are doing everything we canthink of, working",
-            "Have you ever watched a child play with toy trucks? like, backhoes and front-end loaders and other heavy machinery made of plastic? they love to drive and smash them around, as if the light toys were actually causing serious damage, or at least doing some heavy lifting. Well, that's what it's like to watch these sanitation department workers attempting to pull a snowplow out of an embankment on joralemon street in brooklyn heights yesterday. Except the massive machines that are floundering about are very much real, and they are very much destroying a white ford explorer and the cars around it. If you watch the video with the sound turned off ( which we kind of recommend at first because the guy who filmed it is firing off expletives left and right ), it almost looks innocent and silly. But then when you listen to the crunching noises, you realize what kind of damage these things are actually doing. The kicker? the ford that received the brunt of the damage was a city-owned vehicle. [ via nyp ]"
+            "Chastened bloomberg fights to save reputation after string of snow-removal snafus ward for news mayor bloomberg briefs the press about the city's response to the blizzard at oem headquarters in brooklyn. A testy mayor bloomberg fended off criticism of the city's failure to clear hundreds of snow-choked streets tuesday as an avalanche of critics attacked his reputation as a supermanager. \" this mayor prides himself on saying the buck stops with him, and it should. We hold him responsible for what we're calling thebloomberg blizzard, \" said citycouncilman david greenfield ( d-brooklyn ). \" the whole world is laughing that the greatest city in the world cannot manage to clear the streets. New york today looks like a third world country. \" greenfield, normally a backer of the mayor, said every side street - and some larger avenues - in borough park were waiting for a plow 30 hours after the storm's end. Similar and worse complaints were heard from much of the snow-buried city outside manhattan. A queens woman's death monday was blamed on the backlog of911 calls and on snow-clogged streets that delayed first responders from reaching her corona home, said state sen. Jose peralta ( d-queens ). \" like many new yorkers, i woke up two days straight to an unplowed street outside my frontdoor, \" said city public advocate bill de blasio. \" this is not business as usual, and frustration is mounting. \" bloomberg asked for patience. \" this storm is not like any other we've had to deal with, \" he said. \" we are doing everything we canthink of, working"
         ],
         "raw_document": [
             "Chastened bloomberg fights to save reputation after string of snow-removal snafus ward for news mayor bloomberg briefs the press about the city's response to the blizzard at oem headquarters in brooklyn. A testy mayor bloomberg fended off criticism of the city's failure to clear hundreds of snow-choked streets tuesday as an avalanche of critics attacked his reputation as a supermanager. \" this mayor prides himself on saying the buck stops with him, and it should. We hold him responsible for what we're calling thebloomberg blizzard, \" said citycouncilman david greenfield ( d-brooklyn ). \" the whole world is laughing that the greatest city in the world cannot manage to clear the streets. New york today looks like a third world country. \" greenfield, normally a backer of the mayor, said every side street - and some larger avenues - in borough park were waiting for a plow 30 hours after the storm's end. Similar and worse complaints were heard from much of the snow-buried city outside manhattan. A queens woman's death monday was blamed on the backlog of911 calls and on snow-clogged streets that delayed first responders from reaching her corona home, said state sen. Jose peralta ( d-queens ). \" like many new yorkers, i woke up two days straight to an unplowed street outside my frontdoor, \" said city public advocate bill de blasio. \" this is not business as usual, and frustration is mounting. \" bloomberg asked for patience. \" this storm is not like any other we've had to deal with, \" he said. \" we are doing everything we canthink of, working",
@@ -1126,17 +1122,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 43943,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two teenagers accused of taking part in a gang rape that shocked new york city were turned in by their own mothers, police say. Two other suspects were apprehended and another is still at large, according to police, who say that two of the teens in custody are 15 years old, one is 17, and one is 14, reports the new york daily news. In a statement sunday, mayor bill de blasio said he was \" disgusted and deeply saddened \" by the horrific thursday night attack on an 18-year-old girl who had been in a brooklyn playground with her father, the ap reports. \" every new yorker in every neighborhood deserves to feel safe and protected, and we will not stop until the perpetrators of this disturbing attack are held accountable for their actions, \" the mayor said. Police have denied that there was any delay in responding to the attack, saying that there was no 911 call after the attack and they \" immediately responded and located the victim \" after being alerted by the father, who flagged down a police car after being ordered to leave by a teen with a gun, the new york times reports. A bodega owner near the scene of the attack in brownsville tells the daily news that the father came into his store first, asking to use the phone to call 911, but he refused because he didn't believe the father's story. The victim, who was treated at kings county hospital after the attack, is \" ok, \" her mother told the daily news on sunday. \"i want them to get caught and go to jail for a long time, \" she added. \" i feel bad, horrible. \"",
         "split": "train",
         "cleansed_document": [
-            "New york ( ap ) — four teenagers were taken into police custody in connection with an alleged group rape of an 18-year-old woman at a brooklyn playground, an incident that the mayor called a \" horrific attack. \" police said sunday two teenagers surrendered and two were apprehended. Charges were pending against a 14-year-old, 17-year-old and two 15-year-olds. A fifth suspect is still being sought. Authorities said the woman was accosted just after 9 p.m. Thursday as she and her father walked inside osborn playground in the brownsville section of brooklyn. Police said there were five suspects, and one pointed a gun at the father and told him to leave. Each man raped the woman, police said. The father returned with two police officers, but the attackers fled. The woman was treated at kings county hospital and released. \" i am disgusted and deeply saddened by the horrific attack, \" new york city mayor bill de blasio said in a statement released sunday. He added, \" every new yorker in every neighborhood deserves to feel safe and protected, and we will not stop until the perpetrators of this disturbing attack are held accountable for their actions. \" elected officials, residents and activists spoke out against the alleged assault on sunday, offering a reward for information leading to an arrest. Brooklyn borough president eric adams released a statement saying he was \" sickened \" by reports of the attack and called on the new york police department to conduct a full investigation \" not only to identify all those responsible for this horrific attack, but also to determine if everything possible was done to protect the victim and the public. \" an nypd police spokesman said there was no delay in the police response. \" a patrol car from the 73rd precinct was approached on the street and told about the attack by the victim's father, who directed the officers to the scene, \" police spokesman stephen davis said. \" the police officers immediately responded and located the victim, \" davis said. \" the suspects had already",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "New york ( ap ) — four teenagers were taken into police custody in connection with an alleged group rape of an 18-year-old woman at a brooklyn playground, an incident that the mayor called a \" horrific attack. \" police said sunday two teenagers surrendered and two were apprehended. Charges were pending against a 14-year-old, 17-year-old and two 15-year-olds. A fifth suspect is still being sought. Authorities said the woman was accosted just after 9 p.m. Thursday as she and her father walked inside osborn playground in the brownsville section of brooklyn. Police said there were five suspects, and one pointed a gun at the father and told him to leave. Each man raped the woman, police said. The father returned with two police officers, but the attackers fled. The woman was treated at kings county hospital and released. \" i am disgusted and deeply saddened by the horrific attack, \" new york city mayor bill de blasio said in a statement released sunday. He added, \" every new yorker in every neighborhood deserves to feel safe and protected, and we will not stop until the perpetrators of this disturbing attack are held accountable for their actions. \" elected officials, residents and activists spoke out against the alleged assault on sunday, offering a reward for information leading to an arrest. Brooklyn borough president eric adams released a statement saying he was \" sickened \" by reports of the attack and called on the new york police department to conduct a full investigation \" not only to identify all those responsible for this horrific attack, but also to determine if everything possible was done to protect the victim and the public. \" an nypd police spokesman said there was no delay in the police response. \" a patrol car from the 73rd precinct was approached on the street and told about the attack by the victim's father, who directed the officers to the scene, \" police spokesman stephen davis said. \" the police officers immediately responded and located the victim, \" davis said. \" the suspects had already"
         ],
         "raw_document": [
             "New york ( ap ) — four teenagers were taken into police custody in connection with an alleged group rape of an 18-year-old woman at a brooklyn playground, an incident that the mayor called a \" horrific attack. \" police said sunday two teenagers surrendered and two were apprehended. Charges were pending against a 14-year-old, 17-year-old and two 15-year-olds. A fifth suspect is still being sought. Authorities said the woman was accosted just after 9 p.m. Thursday as she and her father walked inside osborn playground in the brownsville section of brooklyn. Police said there were five suspects, and one pointed a gun at the father and told him to leave. Each man raped the woman, police said. The father returned with two police officers, but the attackers fled. The woman was treated at kings county hospital and released. \" i am disgusted and deeply saddened by the horrific attack, \" new york city mayor bill de blasio said in a statement released sunday. He added, \" every new yorker in every neighborhood deserves to feel safe and protected, and we will not stop until the perpetrators of this disturbing attack are held accountable for their actions. \" elected officials, residents and activists spoke out against the alleged assault on sunday, offering a reward for information leading to an arrest. Brooklyn borough president eric adams released a statement saying he was \" sickened \" by reports of the attack and called on the new york police department to conduct a full investigation \" not only to identify all those responsible for this horrific attack, but also to determine if everything possible was done to protect the victim and the public. \" an nypd police spokesman said there was no delay in the police response. \" a patrol car from the 73rd precinct was approached on the street and told about the attack by the victim's father, who directed the officers to the scene, \" police spokesman stephen davis said. \" the police officers immediately responded and located the victim, \" davis said. \" the suspects had already",
@@ -1151,18 +1146,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 43944,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "An american airlines flight bound for los angeles had to return to london on wednesday after passengers and crew fell ill on board. One flight attendant \" literally just fainted... Just fell forward, put her hand out and hit the floor, \" one of 188 passengers on board tells abc news. \" it was crazy. \" another passenger tells the daily mirror there was \" lots of commotion \" as crew members asked if there were any doctors on board to treat the ill, which included at least two passengers and four crew members, some of whom said they felt light-headed. ( the numbers are all over the map: the independent, for instance, says seven members of the crew and \" many passengers \" initially fell ill. ) the flight was near iceland when the pilot made the decision to return to heathrow airport, making an emergency landing about five hours after takeoff. \" there were police cars, ambulances, and firefighters who escorted us down the runway and then we were held for 45 minutes before docking, \" a passenger says, per the telegraph. Crews searched the plane but found no hazardous substances. All unwell passengers and crew members were examined and released. Officials say the plane was being inspected by maintenance engineers.",
         "split": "train",
         "cleansed_document": [
             "A los angeles-bound american airlines flight carrying 188 people was forced to return to london's heathrow airport after several flight attendants and crew members fell ill mid-flight, the airline told abc. One flight attendant \" literally just fainted... Just fell forward, put her hand out and hit the floor, \" passenger kris evans told abc news. \" it was crazy. \" the boeing 777, which took off at 12: 05 p.m., landed safely in london about five hours later, where it was met by ambulances, american airlines said. Paramedics examined, then discharged, six patients who complained of feeling unwell, according to the london ambulance service. It was unclear what caused the patients to feel sick, but crews investigating the plane found no evidence of hazardous substances, according to the london fire brigade. Abc news ' matt hosford, becky perlow, daniel steinberger,",
-            "An american airlines flight to los angeles was forced to return to london heathrow after seven flight staff and many passengers collapsed due to mysterious illness. Passengers were shocked to see flight attendants collapse in the aisles, sparking fears about contamination in the air conditioning. When flight aa109 was airborne near keflavik in iceland, an announcement in the passenger cabin asked for any doctors onboard to come forward. One passenger, lee gunn, told the mirror: \" about 2.5 hours into the flight just as we were passing iceland we had a tannoy announcement asking for any doctors, nurses or medical professionals on board to report to the boarding doors to assist with unwell passengers. \" the lights then came on in the cabin and there was lots of commotion. \" it was also reported that seven of the crew - 13 on board in total i believe - had fallen ill, along with '",
-            "Get daily updates directly to your inbox + subscribe thank you for subscribing! could not subscribe, try again later invalid email mystery surrounds an unknown illness which has spread though a passenger jet and forced it to turn round. Up to seven of 13 crew members and \" many passengers \" were struck down with the strange disease - but at this stage no one knows what it is. A british passenger has described panic on board the american airlines flight from london heathrow to lax a when crew asked if there was a doctor on board. A spokesman for the airline said there was \" medical emergency \" and people on the flight were \" ill \" but had no other information. Read more: doctor describes burning smell on mystery illness plane flight aa109 was close to keflavik, a town in southwest iceland, when crew declared a medical emergency and decided to head back to london"
+            "An american airlines flight to los angeles was forced to return to london heathrow after seven flight staff and many passengers collapsed due to mysterious illness. Passengers were shocked to see flight attendants collapse in the aisles, sparking fears about contamination in the air conditioning. When flight aa109 was airborne near keflavik in iceland, an announcement in the passenger cabin asked for any doctors onboard to come forward. One passenger, lee gunn, told the mirror: \" about 2.5 hours into the flight just as we were passing iceland we had a tannoy announcement asking for any doctors, nurses or medical professionals on board to report to the boarding doors to assist with unwell passengers. \" the lights then came on in the cabin and there was lots of commotion. \" it was also reported that seven of the crew - 13 on board in total i believe - had fallen ill, along with '"
         ],
         "raw_document": [
             "A los angeles-bound american airlines flight carrying 188 people was forced to return to london's heathrow airport after several flight attendants and crew members fell ill mid-flight, the airline told abc. One flight attendant \" literally just fainted... Just fell forward, put her hand out and hit the floor, \" passenger kris evans told abc news. \" it was crazy. \" the boeing 777, which took off at 12: 05 p.m., landed safely in london about five hours later, where it was met by ambulances, american airlines said. Paramedics examined, then discharged, six patients who complained of feeling unwell, according to the london ambulance service. It was unclear what caused the patients to feel sick, but crews investigating the plane found no evidence of hazardous substances, according to the london fire brigade. Abc news ' matt hosford, becky perlow, daniel steinberger,",
@@ -1179,7 +1173,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1417,12 +1411,11 @@
     },
     {
         "idx": 43954,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A bottle of cognac was waiting for andrea washington, along with a friend ready to celebrate washington's recent pinning as a chief petty officer in the us navy. That celebration never came: washington's body was discovered monday in her jacksonville, florida, residence, and while the investigation into her death continues, details are trickling out that suggest a turbulent home life, per wjax and wtlv. Cops suspect foul play in the death of the mom of three, who'd been with the navy for nearly two decades. One clue pointing to possible turmoil: a protective order granted to washington by a duval county judge just a couple of weeks ago due to domestic violence in the home. In the order issued sept. 4, a man who lives with washington — news4jax identifies him as her boyfriend — was accused by washington of an incident in which the man chased her, shoved her to the ground, kicked her in the stomach, and threatened her with a gun. Washington had said he turned violent when she asked him to contribute his share of the household bills. Also noted in court documents were allegations that the man had wrecked her ipad, caused damage in her bedroom, and swiped the keys to her car and mailbox. Washington had been set to appear in court regarding the order of protection on the day she was found dead. \" if you're dealing with something, somebody should know, \" the longtime friend who'd bought the hennessy for her tells wtlv. \" i hope justice prevails. \"",
         "split": "train",
         "cleansed_document": [
-            "Jacksonville, fla. - a navy chief petty officer and mother of three was found dead in her northside home early monday morning, hours before a hearing was scheduled on a protective order against her boyfriend. Police said andrea washington, 37, was murdered inside her home on itani way, near cedar point and new berlin roads. She was found around 12: 13 a.m. Monday after officers responded to a medical call. Washington was scheduled to deploy on wednesday aboard the uss hue city. \" ( she ) worked hard for 19 years in the military, served her country, had an awesome career, \" chris phantom said. \" she was taken from us so soon, and it really hurts. But at the same time, my concern right now is her boys. \" news4jax has learned that washington owned the home and had filed a domestic violence injunction two weeks ago against her boyfriend, claiming he had pushed her to the floor, kicked her in the stomach and threatened her with a gun during an argument over bills. A hearing in that case was scheduled for monday. According to the jacksonville sheriff's office, first responders called to a medical emergency found washington dead inside the home. Police have released no information about a suspect or an arrest. A first coast crimestoppers sign, asking for anyone with information to report a tip, could be seen outside washington's home tuesday. \" it's still under investigation, so i can't really speak on it. But, at the same time, though, i hope justice prevails, \" phantom said. The navy released a limited statement tuesday, saying more information might be made available after 24 hours. \"a sailor assigned to the guided missile cruiser uss hue city was found deceased around midnight sept. 17, \" lt. Cmdr. Courtney hillson said. \"the death is under investigation by local law enforcement. Our thoughts and condolences are with",
-            "Sign in using you account with: { * loginwidget * } sign in using your wjax profile welcome back. Please sign in why are we asking this? by submitting your registration information, you agree to our terms of service and privacy policy. Already have an account? we have sent a confirmation email to { * data_emailaddress * }. Please check your email and click on the link to activate your account. Thank you for registering! thank you for registering! we look forward to seeing you on [ website ] frequently. Visit us and sign in to update your profile, receive the latest news and keep up to date with mobile alerts. Click here to return to the page you were visiting."
+            "Jacksonville, fla. - a navy chief petty officer and mother of three was found dead in her northside home early monday morning, hours before a hearing was scheduled on a protective order against her boyfriend. Police said andrea washington, 37, was murdered inside her home on itani way, near cedar point and new berlin roads. She was found around 12: 13 a.m. Monday after officers responded to a medical call. Washington was scheduled to deploy on wednesday aboard the uss hue city. \" ( she ) worked hard for 19 years in the military, served her country, had an awesome career, \" chris phantom said. \" she was taken from us so soon, and it really hurts. But at the same time, my concern right now is her boys. \" news4jax has learned that washington owned the home and had filed a domestic violence injunction two weeks ago against her boyfriend, claiming he had pushed her to the floor, kicked her in the stomach and threatened her with a gun during an argument over bills. A hearing in that case was scheduled for monday. According to the jacksonville sheriff's office, first responders called to a medical emergency found washington dead inside the home. Police have released no information about a suspect or an arrest. A first coast crimestoppers sign, asking for anyone with information to report a tip, could be seen outside washington's home tuesday. \" it's still under investigation, so i can't really speak on it. But, at the same time, though, i hope justice prevails, \" phantom said. The navy released a limited statement tuesday, saying more information might be made available after 24 hours. \"a sailor assigned to the guided missile cruiser uss hue city was found deceased around midnight sept. 17, \" lt. Cmdr. Courtney hillson said. \"the death is under investigation by local law enforcement. Our thoughts and condolences are with"
         ],
         "raw_document": [
             "Jacksonville, fla. - a navy chief petty officer and mother of three was found dead in her northside home early monday morning, hours before a hearing was scheduled on a protective order against her boyfriend. Police said andrea washington, 37, was murdered inside her home on itani way, near cedar point and new berlin roads. She was found around 12: 13 a.m. Monday after officers responded to a medical call. Washington was scheduled to deploy on wednesday aboard the uss hue city. \" ( she ) worked hard for 19 years in the military, served her country, had an awesome career, \" chris phantom said. \" she was taken from us so soon, and it really hurts. But at the same time, my concern right now is her boys. \" news4jax has learned that washington owned the home and had filed a domestic violence injunction two weeks ago against her boyfriend, claiming he had pushed her to the floor, kicked her in the stomach and threatened her with a gun during an argument over bills. A hearing in that case was scheduled for monday. According to the jacksonville sheriff's office, first responders called to a medical emergency found washington dead inside the home. Police have released no information about a suspect or an arrest. A first coast crimestoppers sign, asking for anyone with information to report a tip, could be seen outside washington's home tuesday. \" it's still under investigation, so i can't really speak on it. But, at the same time, though, i hope justice prevails, \" phantom said. The navy released a limited statement tuesday, saying more information might be made available after 24 hours. \"a sailor assigned to the guided missile cruiser uss hue city was found deceased around midnight sept. 17, \" lt. Cmdr. Courtney hillson said. \"the death is under investigation by local law enforcement. Our thoughts and condolences are with",
@@ -1437,7 +1430,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1512,7 +1505,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1548,13 +1541,12 @@
     },
     {
         "idx": 43959,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Is donald trump getting campaign material from email forwards? on friday, he fired up a crowd at an event in south carolina with a dubious tale of how general john pershing allegedly treated muslim terrorists when the us was fighting insurgents in the philippines early last century, nbc reports. Pershing \" took the 50 terrorists, and he took 50 men, and he dipped 50 bullets in pig's blood, \" trump said. The general then \" had his men load his rifles and he lined up the 50 people, and they shot 49 of those people, \" trump continued \" and the 50th person he said: you go back to your people and you tell them what happened. And for 25 years there wasn't a problem. \" trump told the crowd that \" this is something you can read in the history books, \" the guardian reports, though snopes has found no evidence for it. Trump also told supporters that they should boycott apple until the company complies with a federal request to help the fbi break into the iphone of san bernardino shooter syed farook. Apple ceo \" tim cook is looking to do a big number, probably to show how liberal he is, \" trump complained. Cnn reports that while trump was speaking, his twitter account tweeted a poll — from an iphone. He later tweeted: \" i use both iphone &amp; samsung. If apple doesn't give info to authorities on the terrorists i ' ll only be using samsung until they give info. \" ( a canadian island is fielding queries from americans who fear a trump presidency. )",
         "split": "train",
         "cleansed_document": [
             "North charleston, s.c. — donald trump closed his south carolina campaign on friday with a rambling speech highlighted by an enthusiasm for torturing and summarily executing the suspected enemies of america in the name of safety. Speaking about terrorism and national security, trump repeated an apparent legend about how general john pershing supposedly ordered the execution of dozens of muslim prisoners in the philippines during a guerrilla war against united states forces in the early 1900s. Trump called it \" a terrible story. \" play facebook twitter embed trump tells ' pig's blood'story at rally 1: 10 \"he took 50 bullets, and he dipped them in pig's blood, \" trump said. \" and he had his men load his rifles and he lined up the 50 people, and they shot 49 of those people. And the 50th person, he said, ' you go back to your people and you tell them what happened. ' and for 25 years there wasn't a problem, okay? \" the story appears to be a hoax spread via e-mail forwards, according to rumor tracker snopes.com, with no evidence it occurred. Play facebook twitter embed marco rubio on trump's ' pig blood'tale:",
-            "In his final campaign rally before the south carolina primary, donald trump repeated an urban legend about john pershing, the commander of the american expeditionary forces in world war i, committing war crimes while serving in the philippines. Trump seemed to endorse these actions as well. Trump calls for apple boycott amid fbi feud – then sends tweets from iphone read more trump claimed that pershing summarily executed \"50 terrorists \". In the real estate mogul's telling, \"they were having terrorism problems just like we do. And he caught 50 terrorists who did tremendous damage and killed many people. And he took the 50 terrorists, and he took 50 men, and he dipped 50 bullets in pig's blood. \" trump continued that pershing then \"had his men load his rifles and he lined up the 50 people, and they shot 49 of those people. And the 50th person he said: you go back to your people and you tell them what happened. \" the story seems to stem from pershing's stint commanding an american garrison in the philippines where he helped put down a rebellion in the muslim region of mindanao from 1909-1913. Despite trump's pledge that \"this is something you can read in the history",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "In his final campaign rally before the south carolina primary, donald trump repeated an urban legend about john pershing, the commander of the american expeditionary forces in world war i, committing war crimes while serving in the philippines. Trump seemed to endorse these actions as well. Trump calls for apple boycott amid fbi feud – then sends tweets from iphone read more trump claimed that pershing summarily executed \"50 terrorists \". In the real estate mogul's telling, \"they were having terrorism problems just like we do. And he caught 50 terrorists who did tremendous damage and killed many people. And he took the 50 terrorists, and he took 50 men, and he dipped 50 bullets in pig's blood. \" trump continued that pershing then \"had his men load his rifles and he lined up the 50 people, and they shot 49 of those people. And the 50th person he said: you go back to your people and you tell them what happened. \" the story seems to stem from pershing's stint commanding an american garrison in the philippines where he helped put down a rebellion in the muslim region of mindanao from 1909-1913. Despite trump's pledge that \"this is something you can read in the history"
         ],
         "raw_document": [
             "North charleston, s.c. — donald trump closed his south carolina campaign on friday with a rambling speech highlighted by an enthusiasm for torturing and summarily executing the suspected enemies of america in the name of safety. Speaking about terrorism and national security, trump repeated an apparent legend about how general john pershing supposedly ordered the execution of dozens of muslim prisoners in the philippines during a guerrilla war against united states forces in the early 1900s. Trump called it \" a terrible story. \" play facebook twitter embed trump tells ' pig's blood'story at rally 1: 10 \"he took 50 bullets, and he dipped them in pig's blood, \" trump said. \" and he had his men load his rifles and he lined up the 50 people, and they shot 49 of those people. And the 50th person, he said, ' you go back to your people and you tell them what happened. ' and for 25 years there wasn't a problem, okay? \" the story appears to be a hoax spread via e-mail forwards, according to rumor tracker snopes.com, with no evidence it occurred. Play facebook twitter embed marco rubio on trump's ' pig blood'tale:",
@@ -1571,7 +1563,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1649,7 +1641,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1803,12 +1795,11 @@
     },
     {
         "idx": 43969,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Kate middleton is a style icon, right? wrong, says fashion designer vivienne westwood. The duchess of cambridge projects the image of an \" ordinary woman, \" not the \" extraordinary woman \" she should be, westwood complains to britain's sunday times magazine in an interview picked up by australia's news network. Not to mention, \" i think she's got a problem with eye makeup. The sharp line around her eyes make her look hard. Either she should be smudgy or wear none, \" westwood adds. Click to watch another celeb diss middleton's wardrobe.",
         "split": "train",
         "cleansed_document": [
-            "Top designer says middleton looks ordinary \" i think she's got a problem with eye make-up \" nicole: dropped due to ' lack of chemistry ' clothing worn by the duchess of cambridge often sells out just minutes after she wears it in public, but not everyone thinks she's a style guru. The grand dame of british fashion, vivienne westwood has described kate's look as \" ordinary \". She told britain's sunday times magazine: \" it seems to me, that her image is ' ordinary woman '. Therefore, high street shopper. And i just think she should be an extraordinary woman, wherever she gets her clothes from. \" kate's makeup, which she famously applied herself on her wedding day, also came under attack. \" i think she's got a problem with eye make-up. The sharp line around her eyes make her look hard. Either she should be smudgy or wear none, \" westwood said. Last month dutch fashion duo viktor &amp; rolf made similar comments, when asked what changes they think the duchess should make to her style. \" different make-up and hair, less eyeliner, less hair. It would bring out her natural beauty, \" they said. Last week kelly osbourne caused controversy by criticising kate's habit of recycling her",
-            "While she's never been shy about speaking her mind, kelly osbourne is on a roll lately. The co-host of e!'s fashion police dissed kate middleton for wearing the same dress twice, calling it a \" fashion faux pas. \" osbourne appeared on the tonight show on wednesday night and told host jay leno, \" well, i ' m sorry, but if i had that job, i would only wear it once. If i am going to be the future bloody queen of england, i ' m going to wear that dress once, because i ' m giving up the rest of my life, all of my privacy, at least i can get a new dress every day. \" sure, osbourne's current job involves critiquing the fashion choices of fellow celebs, but she's been particularly mean lately. Just this morning, we reported that osbourne had some vicious words for singer christina aguilera, saying: \" maybe she is just becoming the fat bitch she was born to be. I don't know. She was a c**t to me. And she bought my house! \" perhaps osbourne's mean girl antics can be explained as her way of grieving for her good friend amy winehouse who died july 23rd. Osbourne told leno that she hadn't really"
+            "Top designer says middleton looks ordinary \" i think she's got a problem with eye make-up \" nicole: dropped due to ' lack of chemistry ' clothing worn by the duchess of cambridge often sells out just minutes after she wears it in public, but not everyone thinks she's a style guru. The grand dame of british fashion, vivienne westwood has described kate's look as \" ordinary \". She told britain's sunday times magazine: \" it seems to me, that her image is ' ordinary woman '. Therefore, high street shopper. And i just think she should be an extraordinary woman, wherever she gets her clothes from. \" kate's makeup, which she famously applied herself on her wedding day, also came under attack. \" i think she's got a problem with eye make-up. The sharp line around her eyes make her look hard. Either she should be smudgy or wear none, \" westwood said. Last month dutch fashion duo viktor &amp; rolf made similar comments, when asked what changes they think the duchess should make to her style. \" different make-up and hair, less eyeliner, less hair. It would bring out her natural beauty, \" they said. Last week kelly osbourne caused controversy by criticising kate's habit of recycling her"
         ],
         "raw_document": [
             "Top designer says middleton looks ordinary \" i think she's got a problem with eye make-up \" nicole: dropped due to ' lack of chemistry ' clothing worn by the duchess of cambridge often sells out just minutes after she wears it in public, but not everyone thinks she's a style guru. The grand dame of british fashion, vivienne westwood has described kate's look as \" ordinary \". She told britain's sunday times magazine: \" it seems to me, that her image is ' ordinary woman '. Therefore, high street shopper. And i just think she should be an extraordinary woman, wherever she gets her clothes from. \" kate's makeup, which she famously applied herself on her wedding day, also came under attack. \" i think she's got a problem with eye make-up. The sharp line around her eyes make her look hard. Either she should be smudgy or wear none, \" westwood said. Last month dutch fashion duo viktor &amp; rolf made similar comments, when asked what changes they think the duchess should make to her style. \" different make-up and hair, less eyeliner, less hair. It would bring out her natural beauty, \" they said. Last week kelly osbourne caused controversy by criticising kate's habit of recycling her",
@@ -1823,18 +1814,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 43970,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Bernie sanders may be the preferred candidate of birds, but his stance on animal rights wasn't good enough for at least five protesters who rushed the stage at a rally in oakland, calif., monday evening. The protesters were intercepted and taken away by several secret service agents before they could reach the candidate. Another secret service agent rushed to sanders'side and wrapped his arms around him when the interruption began, reports reuters. The animal rights group direct action everywhere claimed responsibility, saying that it wants sanders to get tough on factory farms. Sanders resumed speaking within minutes, saying: \" we don't get intimidated easily. \" he told the crowd of around 20,000 people that he can win california if turnout is big enough, and that he's the best choice for democrats because \" in virtually every state and national poll, we do much better than trump than secretary clinton does, \" nbc san francisco reports. After speaking, he headed for oracle arena to catch the second half of the golden state warriors ' 96-88 game 7 victory over the oklahoma city thunder, the san francisco chronicle reports.",
         "split": "train",
         "cleansed_document": [
             "Animal rights protesters jumped barricades at a bernie sanders rally late monday in oakland, california, accusing the candidate of falling short in his efforts to fight \" factory farming. \" the democratic presidential hopeful was addressing supporters at frank ogawa plaza at city hall when five people in their 20s and 30s hopped over barricades and attempted to rush the podium before secret service agents escorted them away. Agents also surrounded sanders. Video sanders visits church to court black voters the group identified itself as the bay area-based \" direct action everywhere, \" or dxe. Spokesman zachary groff, 24, said \" roughly two dozen members of the animal liberation network \" were present at the rally. The group claims to have participated in demonstrations in 152 cities worldwide, including at least four other sanders rallies. Groff identified the five group members as ashley johnson, of new york city; rebecca muniz, of",
-            "U.s. Democratic presidential candidate bernie sanders speaks at a campaign rally in santa barbara, california, u.s. May 28, 2016. Reuters/lucy nicholson ( reuters ) - at least five animal rights activists on monday rushed the stage as presidential candidate bernie sanders spoke at a rally in oakland, video posted online showed. The protesters were led away by several secret service agents before they were able to reach the democrat, whose speech was briefly interrupted by the disturbance, a video posted by cnn showed. A secret service agent rushed to sanders'side, grabbed him and wrapped his arms around the presidential candidate during the ruckus. \"we don't get intimidated easily, \" said sanders, as he resumed his speech. Animal rights group direct action everywhere claimed responsibility for the protest, saying in a statement that it hoped to persuade sanders to take a tough stance against factory farms. \"bernie sanders",
-            "Sanders packs oakland pews, backs warriors vermont sen. Bernie sanders ' visit to oakland came with the joyous strains of gospel music, loud cheers in a variety of languages, and a sea of blue posters splashed with the presidential candidate's name. Not to mention a little shout-out to the hometown fans. After meeting with actor danny glover and san francisco supervisor jane kim at the allen temple baptist church in east oakland early monday afternoon, sanders fired up the crowd at a downtown oakland rally when he donned a yellow warriors cap. \"do i have the right hat? \" sanders asked to laughter. When he finished speaking, he took off for the oracle arena to catch the second half of the warriors ' game 7 victory. But there was plenty of serious talk from sanders with california's high-stakes democratic presidential primary just a week away. \"when we began this campaign"
+            "U.s. Democratic presidential candidate bernie sanders speaks at a campaign rally in santa barbara, california, u.s. May 28, 2016. Reuters/lucy nicholson ( reuters ) - at least five animal rights activists on monday rushed the stage as presidential candidate bernie sanders spoke at a rally in oakland, video posted online showed. The protesters were led away by several secret service agents before they were able to reach the democrat, whose speech was briefly interrupted by the disturbance, a video posted by cnn showed. A secret service agent rushed to sanders'side, grabbed him and wrapped his arms around the presidential candidate during the ruckus. \"we don't get intimidated easily, \" said sanders, as he resumed his speech. Animal rights group direct action everywhere claimed responsibility for the protest, saying in a statement that it hoped to persuade sanders to take a tough stance against factory farms. \"bernie sanders"
         ],
         "raw_document": [
             "Animal rights protesters jumped barricades at a bernie sanders rally late monday in oakland, california, accusing the candidate of falling short in his efforts to fight \" factory farming. \" the democratic presidential hopeful was addressing supporters at frank ogawa plaza at city hall when five people in their 20s and 30s hopped over barricades and attempted to rush the podium before secret service agents escorted them away. Agents also surrounded sanders. Video sanders visits church to court black voters the group identified itself as the bay area-based \" direct action everywhere, \" or dxe. Spokesman zachary groff, 24, said \" roughly two dozen members of the animal liberation network \" were present at the rally. The group claims to have participated in demonstrations in 152 cities worldwide, including at least four other sanders rallies. Groff identified the five group members as ashley johnson, of new york city; rebecca muniz, of",
@@ -1851,7 +1841,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1904,7 +1894,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1959,13 +1949,12 @@
     },
     {
         "idx": 43975,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Oft-criticized nbc universal president and ceo jeff zucker will leave the company when its acquisition by comcast becomes official. Zucker made his decision public this morning in an email to nbc employees acquired by the wall street journal. Though he says it wasn't his choice to leave, he calls it \"the right decision for me and for the company. \" the comcast takeover is expected to close by the end of the year. Zucker tells the new york times it became obvious at a meeting 2 weeks ago comcast \"wanted to move on at the close of the deal and i was completely comfortable with that. \" he also says the departure is still \"gut-wrenching in the sense that you have spent your whole life here at nbc. \" what will he do next? \"i don't know, \" says zucker, 45. \"i never really thought about it because for 24½ years i only thought about this place. \" in other media management news, jon klein is out as head of ratings-challenged cnn.",
         "split": "train",
         "cleansed_document": [
             "Jeff zucker, the chief executive of nbc universal, told the company's employees in an e-mail friday morning that he would step down from his position upon the completion of the takeover of nbc by comcast. Peter kramer/associated press the fate of mr. Zucker, the longest-serving senior manager at nbc, had been the subject of widespread speculation since comcast agreed in december to purchase 51 percent of nbcu from its long-time corporate owner, general electric. The deal is expected to close at the end of the year, following regulatory approval. In an interview at nbc's executive offices, mr. Zucker, who is 45, said the decision to leave the only employer he has ever worked for — a decision that he acknowledged was not his own choice — became inevitable after a meeting two weeks ago with steve burke, comcast's chief operating officer. \"we had both gotten to",
-            "Well, the time has come. This time, to tell you a little news about me. When comcast assumes control of nbc universal, i will leave the company. It has not been an easy or simple decision. I have spent my entire adult life here, more than 24 years. This is the only place i have ever worked. The only professional thing i have ever known. I met my wife here, enjoyed the birth of our four children in that time, worked in almost every division of the company. And forged relationships, both professional and personal, that will last a lifetime. I remember, vividly, the first day i came to work here in august, 1986. I walked to work at 30 rockefeller plaza that day; it was humid and my shirt was soaking by the time i got there. In the years since, i",
-            "The atlanta journal-constitution cnn has replaced jon klein, the head of its u.s. Network. In a memo friday, cnn worldwide president jim walton said klein is being replaced by ken jautz, who currently runs hln, formerly the headline news network. The original cable news network has been struggling in the ratings, trailing both top-ranked fox news channel and msnbc. Klein has emphasized cnn's straight-news brand as its rivals moved towards more opinionated talk lineups. Jautz oversaw a transformation at hln, switching it from a straight headline news service to a news and views format. The timing of the announcement is striking. Klein just overhauled cnn's prime-time lineup, replacing long time talk host larry king with piers morgan and launching a new show featuring former new york gov. Eliot spitzer and kathleen parker. The show debuts next week. \" jon has made important contributions to the cnn"
+            "Well, the time has come. This time, to tell you a little news about me. When comcast assumes control of nbc universal, i will leave the company. It has not been an easy or simple decision. I have spent my entire adult life here, more than 24 years. This is the only place i have ever worked. The only professional thing i have ever known. I met my wife here, enjoyed the birth of our four children in that time, worked in almost every division of the company. And forged relationships, both professional and personal, that will last a lifetime. I remember, vividly, the first day i came to work here in august, 1986. I walked to work at 30 rockefeller plaza that day; it was humid and my shirt was soaking by the time i got there. In the years since, i"
         ],
         "raw_document": [
             "Jeff zucker, the chief executive of nbc universal, told the company's employees in an e-mail friday morning that he would step down from his position upon the completion of the takeover of nbc by comcast. Peter kramer/associated press the fate of mr. Zucker, the longest-serving senior manager at nbc, had been the subject of widespread speculation since comcast agreed in december to purchase 51 percent of nbcu from its long-time corporate owner, general electric. The deal is expected to close at the end of the year, following regulatory approval. In an interview at nbc's executive offices, mr. Zucker, who is 45, said the decision to leave the only employer he has ever worked for — a decision that he acknowledged was not his own choice — became inevitable after a meeting two weeks ago with steve burke, comcast's chief operating officer. \"we had both gotten to",
@@ -1982,17 +1971,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 43976,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Synthetic marijuana was at least partly responsible for the tragic death of a toddler in indiana last month, according to a coroner's report. The report states that the death of 20-month-old kaylei carter involved \" streptococcal sepsis with contributing synthetic cannibinoids, \" which were found in her system, reports the courier &amp; press. Investigators ordered a toxicology test after the girl was found dead at an evansville home may 11. The following day, the girl's grieving aunt told 44news that kaylei had apparently eaten the drug, known as spice or \" katy, \" while in her grandmother's care. No charges have been filed in the case so far, but an evansville police spokesman says a file will be sent to the prosecutor's office next week. ( one of the 8,000 spice poisonings reported in the us last year involved a man who died after a single toke. )",
         "split": "train",
         "cleansed_document": [
-            "A makeshift memorial remains outside a home in the 500 block of jeanette benton drive, a tribute to 20-month-old kaylei carter, who died in may. By richard gootee of the courier and press the death of a 20-month-old evansville girl happened at least in part because she had synthetic marijuana in her system, according to a report from a coroner's inquest. Kaylei carter was found dead on may 11 in a home in the 500 block of jeanette benton drive in evansville. A coroner's inquest report lists the girl's death as caused by \" streptococcal sepsis with contributing synthetic cannibinoids. \" steve lockyear, vanderburgh county's chief deputy coroner, said the toddler's cause of death was left \" undetermined \" because \" of the unknown effects of k2 on a child. \" sepsis can develop after an infection and babies and toddlers are at an increased risk to be affected by it, according to the centers for disease control and prevention. The initial autopsy on carter's body showed no signs of trauma, but investigators ordered both a toxicology test and tests for natural disease after her death. As of friday afternoon, no criminal charges have been filed in carter's death, according to the vanderburgh county prosecutor's office. But given the findings in the report police are continuing to",
-            "A go-fund me page has been set up for the toddler who died wednesday morning. Kaylei's mother set up the page, and says she will be planning a funeral instead of a birthday. Kaylei's autopsy has been scheduled for thursday morning to determine a cause of death. According to the vanderburgh county coroner, a toxicology test for synthetic marijuana will be conducted on kaylei. If anyone wants to make a donation the link is below. Justice for kaylei carter go-fund me page previous story – 05/11/16 police are actively investigating the death of a child under the age of two. The vanderburgh county coroner confirms 18 month old kaylei carter is the toddler who was found dead. On wednesday — police were called to lincoln estates for an unresponsive person. But when they arrived — the child was deceased. Police aren't saying much – but they do say the investigation into the death of 18 month old is not criminal. Neighbors tell us a different story, \"nothing is adding up right. First it was she was supposed to have died from a fever, then drugs being found. It's too much going on, \" said nakia holman, kaylei's aunt. People we spoke to in lincoln estates say carter's death could involve synthetic marijuana — a dangerous drug known as \"katy."
+            "A makeshift memorial remains outside a home in the 500 block of jeanette benton drive, a tribute to 20-month-old kaylei carter, who died in may. By richard gootee of the courier and press the death of a 20-month-old evansville girl happened at least in part because she had synthetic marijuana in her system, according to a report from a coroner's inquest. Kaylei carter was found dead on may 11 in a home in the 500 block of jeanette benton drive in evansville. A coroner's inquest report lists the girl's death as caused by \" streptococcal sepsis with contributing synthetic cannibinoids. \" steve lockyear, vanderburgh county's chief deputy coroner, said the toddler's cause of death was left \" undetermined \" because \" of the unknown effects of k2 on a child. \" sepsis can develop after an infection and babies and toddlers are at an increased risk to be affected by it, according to the centers for disease control and prevention. The initial autopsy on carter's body showed no signs of trauma, but investigators ordered both a toxicology test and tests for natural disease after her death. As of friday afternoon, no criminal charges have been filed in carter's death, according to the vanderburgh county prosecutor's office. But given the findings in the report police are continuing to"
         ],
         "raw_document": [
             "A makeshift memorial remains outside a home in the 500 block of jeanette benton drive, a tribute to 20-month-old kaylei carter, who died in may. By richard gootee of the courier and press the death of a 20-month-old evansville girl happened at least in part because she had synthetic marijuana in her system, according to a report from a coroner's inquest. Kaylei carter was found dead on may 11 in a home in the 500 block of jeanette benton drive in evansville. A coroner's inquest report lists the girl's death as caused by \" streptococcal sepsis with contributing synthetic cannibinoids. \" steve lockyear, vanderburgh county's chief deputy coroner, said the toddler's cause of death was left \" undetermined \" because \" of the unknown effects of k2 on a child. \" sepsis can develop after an infection and babies and toddlers are at an increased risk to be affected by it, according to the centers for disease control and prevention. The initial autopsy on carter's body showed no signs of trauma, but investigators ordered both a toxicology test and tests for natural disease after her death. As of friday afternoon, no criminal charges have been filed in carter's death, according to the vanderburgh county prosecutor's office. But given the findings in the report police are continuing to",
@@ -2007,7 +1995,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2034,7 +2022,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2112,19 +2100,18 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 43981,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "With arizona and michigan in the books, the countdown to \" super tuesday \" has begun. But not all of the march 6 states are created equal. Expect the campaigns to set up shop in ohio, a state without which, the washington post points out, no republican president has ever been elected. Super pacs backing mitt romney, rick santorum, and newt gingrich are all already airing ads in the buckeye state. Santorum visited yesterday, and romney will hit toledo and columbus today. Romney has had a team in ohio for months, and has the backing of the majority of the state's major politicians, real clear politics reports. But given his blue collar shtick, santorum can ill afford to lose two midwestern states in a row, abc observes, and it doesn't look like he will. A recent university of cincinnati poll has him 11 points ahead of romney in the state. That's close to nate silver's projections, which currently show romney behind in georgia, oklahoma, and tennessee as well.",
         "split": "train",
         "cleansed_document": [
             "Gerald herbert/ap photo mitt romney's wins in michigan and arizona helped him pick up a big chunk of delegates, but more importantly, it has washed away talk of a republican party desperate for a \" white knight \" to jump into the primary. Even so, one gop bigwig finds romney's narrow michigan win \" unconvincing. \" romney, this gop strategist told abc news, won \" by being totally negative. Where's the hope and optimism? he's becoming a human wrecking ball. A receding tide sinks all boats. \" moreover,",
             "As the republican presidential campaign turns to super tuesday this week, one contest looms more super than the rest: ohio, a state with many of the same economic and electoral dynamics as michigan but with much more at stake for republicans. Whereas michigan is usually a hope-to state for republicans in the general election, ohio is a must-do. No republican has ever won the presidency without winning ohio. Thus, the challenge for the gop candidates is to win the primary next week without turning off voters who they ' ll need to carry the state in the fall. After",
-            "By erin mcpike - february 29, 2012 cincinnati -- some strange conventional wisdom has been floating around in recent days: if mitt romney were to win michigan's primary, he'd almost naturally do the same in ohio a week later on super tuesday. Don't tell that to a buckeye; they're not so into the wolverines. It's not a particularly plausible argument for several reasons. First, romney doesn't have the same electoral track record in the two states -- he didn't compete in the 2008 ohio primary against",
-            "This weekend's announcement by the former governor of montana, brian schweitzer, that he would not seek that state's democratic nomination for senate represents the latest in a series of favorable developments for republicans as they seek control of the chamber. The g.o.p.'s task will not be easy: the party holds 46 seats in the senate, and the number will very probably be cut to 45 after a special election in new jersey later this year. That means that they would need to win a net of six contests from democrats in order to control 51 seats"
+            "By erin mcpike - february 29, 2012 cincinnati -- some strange conventional wisdom has been floating around in recent days: if mitt romney were to win michigan's primary, he'd almost naturally do the same in ohio a week later on super tuesday. Don't tell that to a buckeye; they're not so into the wolverines. It's not a particularly plausible argument for several reasons. First, romney doesn't have the same electoral track record in the two states -- he didn't compete in the 2008 ohio primary against"
         ],
         "raw_document": [
             "Data crawled on behalf of internet memory foundation. This data is currently not publicly accessible.from wikipedia the internet memory foundation ( formerly the european archive foundation ) is a non profit foundation whose purpose is archiving web content, it supports projects and research which include the preservation and protection of multimedia content. Its archives form a digital library of cultural content.",
@@ -2145,17 +2132,16 @@
             "1": 1,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
         "idx": 43982,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When you think of sentences that gwyneth paltrow's friends often say to her, here's one that probably does not come to mind: \" i want your chili recipe! \" but yes, they do in fact exclaim that all the time, paltrow revealed at a recent dinner party attended by new yorker scribe lizzie widdicombe. Widdicombe paints an interesting picture of paltrow as \" domestic goddess \" at the party celebrating her new cookbook. Many of those on the guest list, which included jay-z, cameron diaz, alex rodriguez, and the seinfelds, claim they associate stick-thin gwyneth with food. Mario batali insists \" she eats like a truck driver. \" but popeater points out perhaps the most interesting part of the profile: when hubby chris martin arrives at the party, looking \" cranky \" and, according to his publicist, \" he doesn't want to talk. \" writes jo piazza, \" we picture martin stewing ( in ) the corner, displeased at having to make small talk with martha stewart and mario batali about canapes again. \" click to read the entire new yorker piece, which is incredibly entertaining.",
         "split": "train",
         "cleansed_document": [
-            "It's tough for some people to accept gwyneth paltrow's transformation from movie star to domestic goddess. Something about the combination of her willowy looks, her glam life style ( she is married to chris martin, the coldplay front man ), and the unlikely food tips in her e-mail newsletter, goop — \"i was stationed at the deep fat fryer ( delight! fried zucchini! fried anchovies! ) \" — produces cognitive dissonance. But paltrow takes it in stride. \"i've been the cook amongst my family and friends for years, \" she said the other night. \"that's why i wrote the book. Because my friends are, like, 'how do you make that? i want your chili recipe! ' \" the book is paltrow's first cookbook, \"my father's daughter \" — the title refers to her father, the late television producer bruce paltrow. It advises readers, \"invest in what's real. Clean as you go. Drink while you cook. \" paltrow, who was hosting a dinner party to celebrate her publication, was not yet drinking, but she had a glow. She wore a white racer-back dress, tan wedges, and a linen apron with the book's title printed on the chest. She eats at home, she said.",
-            "Chris martin hates gwyneth paltrow's pretentious dinner parties email this on a recent evening in new york, a group of ffogs ( famous friends of cameron diaz, it is first worth noting that paltrow's husband, coldplay frontman chris martin, was not nearly as psyched as the other guests to sample his wife's duck ragout. According to the new yorker write-up, martin arrived cranky and a publicist warned, \" he doesn't want to talk. \" it's a little odd when your hubby doesn't want to talk at a party promoting your project, no? thankfully for gwyneth, everybody else wanted to talk. On a recent evening in new york, a group of ffogs ( famous friends of gwyneth ) turned out for a dinner party to celebrate the actress, singer and blogger's debut cookbook, ' my father's daughter. ' new yorker scribe lizzie widdicombe was there to rub shoulders with guests like jay-z alex rodriguez and the seinfelds and to document exactly how gwyneth is not just like us.it is first worth noting that paltrow's husband, coldplay frontman chris martin, was not nearly as psyched as the other guests to sample his wife's duck ragout. According to the new yorker write-up, martin arrived cranky and a publicist warned, \" he doesn"
+            "It's tough for some people to accept gwyneth paltrow's transformation from movie star to domestic goddess. Something about the combination of her willowy looks, her glam life style ( she is married to chris martin, the coldplay front man ), and the unlikely food tips in her e-mail newsletter, goop — \"i was stationed at the deep fat fryer ( delight! fried zucchini! fried anchovies! ) \" — produces cognitive dissonance. But paltrow takes it in stride. \"i've been the cook amongst my family and friends for years, \" she said the other night. \"that's why i wrote the book. Because my friends are, like, 'how do you make that? i want your chili recipe! ' \" the book is paltrow's first cookbook, \"my father's daughter \" — the title refers to her father, the late television producer bruce paltrow. It advises readers, \"invest in what's real. Clean as you go. Drink while you cook. \" paltrow, who was hosting a dinner party to celebrate her publication, was not yet drinking, but she had a glow. She wore a white racer-back dress, tan wedges, and a linen apron with the book's title printed on the chest. She eats at home, she said."
         ],
         "raw_document": [
             "It's tough for some people to accept gwyneth paltrow's transformation from movie star to domestic goddess. Something about the combination of her willowy looks, her glam life style ( she is married to chris martin, the coldplay front man ), and the unlikely food tips in her e-mail newsletter, goop — \"i was stationed at the deep fat fryer ( delight! fried zucchini! fried anchovies! ) \" — produces cognitive dissonance. But paltrow takes it in stride. \"i've been the cook amongst my family and friends for years, \" she said the other night. \"that's why i wrote the book. Because my friends are, like, 'how do you make that? i want your chili recipe! ' \" the book is paltrow's first cookbook, \"my father's daughter \" — the title refers to her father, the late television producer bruce paltrow. It advises readers, \"invest in what's real. Clean as you go. Drink while you cook. \" paltrow, who was hosting a dinner party to celebrate her publication, was not yet drinking, but she had a glow. She wore a white racer-back dress, tan wedges, and a linen apron with the book's title printed on the chest. She eats at home, she said.",
@@ -2170,7 +2156,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2422,7 +2408,7 @@
             "1": 1,
             "2": 0,
             "3": 3,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -2452,12 +2438,11 @@
     },
     {
         "idx": 43993,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Great news for anyone who's ever wanted to know what it's like to be a dolphin. Researchers have figured out how to see what dolphins \" see \" when they use echolocation, printing 2d and 3d images of a number of objects — including a human, nbc news reports. \" seeing the 3d print of a human being left us all speechless, \" jack kassewitz, lead researcher and founder of speakdolphin.com, says in a press release. \" for the first time ever, we may be holding in our hands a glimpse into what cetaceans see with sound. \" researchers were spurred to create the images after realizing dolphins listening to recordings of echolocation could figure out what object was being pinged with 92 % accuracy. Researchers used a piece of equipment called a cymascope — which \" imprints sonic vibrations on the surface of ultra pure water \" — to create images out of echolocation recordings, according to the press release. \"when a dolphin scans an object with its high frequency sound beam, each short click captures a still image, similar to a camera taking photographs, \" says john reid, inventor of the cymascope. While the images created are mostly silhouettes, researchers believe it's possible dolphins ' brains can create more detailed images out of echolocation than current human technology can reveal, discovery reports. They also hypothesize dolphins can share echolocation images with each other through some sort of \" sono-pictorial language. \" ( porpoises use sound like a flashlight. )",
         "split": "train",
         "cleansed_document": [
-            "Researchers claim to have captured an image that shows how dolphins perceive the world around them using echolocation. Jack kassewitz, founder of the speak dolphin research organization, created a complicated process to replicate the reflected pulses of sound. \" when a dolphin scans an object with its high-frequency sound beam, each short click captures a still image, similar to a camera taking photographs, \" kassewitz said in a press release announcing the findings. Related: dolphin brain scan reveals surprising similarity to bats echolocation sounds from dolphins observing several objects were recorded and analyzed — a tricky process, since the sounds form not just a flat picture but one with depth information, perhaps almost holographic. The image above shows a 2-d representation of the view a dolphin had of a trainer nearby in a tank — but the original data, captured with a device called a cymascope, was printed in 3-d as well. \" seeing the 3-d print of a human being left us all speechless, \" kassewitz said. \" for the first time ever, we may be holding in our hands a glimpse into what cetaceans see with sound. \" the researchers also suggest that these sound-based images might be intelligible to other dolphins, implying a \" sono-pictorial language. \" work is underway to study this possibility.",
-            "Found up and down the north american coastlines, these marine mammals spend half of their lives swimming. Although they can reach up to six feet in length and weigh around 180 pounds, when on land and in plain sight harbor seals may not be easy to spot. Their spotted brown or tan fur allows harbor seals to blend in with sand and rocks. Unlike their very vocal relatives -- sea lions and elephant seals -- harbor seals are quiet creatures that make little noise. They like to hang out on beaches, sand bars and rocks during low tide to bask in the sun and sleep, but they never go far from the water. At the slightest sign of danger, they will quickly slip back under the waves. These expert swimmers have been known to plunge to depths of more than 1,600 feet and stay underwater up to 28 minutes. Manatees, also known as sea cows, are gentle herbivores that live in marshy areas in tropical and subtropical waters. The average adult manatee can weigh up 1,200 pounds and is around 10 feet long. Because of their slow metabolism, these animals can only survive in warm waters. Due to the unusually long, cold winter this year in part of the southeastern united states, populations of manatees throughout florida were devastated. During the day, manatees usually like to stay close to the surface. At night, manatees will often sleep"
+            "Researchers claim to have captured an image that shows how dolphins perceive the world around them using echolocation. Jack kassewitz, founder of the speak dolphin research organization, created a complicated process to replicate the reflected pulses of sound. \" when a dolphin scans an object with its high-frequency sound beam, each short click captures a still image, similar to a camera taking photographs, \" kassewitz said in a press release announcing the findings. Related: dolphin brain scan reveals surprising similarity to bats echolocation sounds from dolphins observing several objects were recorded and analyzed — a tricky process, since the sounds form not just a flat picture but one with depth information, perhaps almost holographic. The image above shows a 2-d representation of the view a dolphin had of a trainer nearby in a tank — but the original data, captured with a device called a cymascope, was printed in 3-d as well. \" seeing the 3-d print of a human being left us all speechless, \" kassewitz said. \" for the first time ever, we may be holding in our hands a glimpse into what cetaceans see with sound. \" the researchers also suggest that these sound-based images might be intelligible to other dolphins, implying a \" sono-pictorial language. \" work is underway to study this possibility."
         ],
         "raw_document": [
             "Researchers claim to have captured an image that shows how dolphins perceive the world around them using echolocation. Jack kassewitz, founder of the speak dolphin research organization, created a complicated process to replicate the reflected pulses of sound. \" when a dolphin scans an object with its high-frequency sound beam, each short click captures a still image, similar to a camera taking photographs, \" kassewitz said in a press release announcing the findings. Related: dolphin brain scan reveals surprising similarity to bats echolocation sounds from dolphins observing several objects were recorded and analyzed — a tricky process, since the sounds form not just a flat picture but one with depth information, perhaps almost holographic. The image above shows a 2-d representation of the view a dolphin had of a trainer nearby in a tank — but the original data, captured with a device called a cymascope, was printed in 3-d as well. \" seeing the 3-d print of a human being left us all speechless, \" kassewitz said. \" for the first time ever, we may be holding in our hands a glimpse into what cetaceans see with sound. \" the researchers also suggest that these sound-based images might be intelligible to other dolphins, implying a \" sono-pictorial language. \" work is underway to study this possibility.",
@@ -2472,7 +2457,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2580,7 +2565,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2633,7 +2618,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     }
 ]

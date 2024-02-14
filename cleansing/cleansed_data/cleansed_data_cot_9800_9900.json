@@ -35,7 +35,7 @@
             "3": 0,
             "4": 3,
             "5": 0,
-            "6": 0
+            "6": 2
         }
     },
     {
@@ -92,7 +92,7 @@
             "1": 0,
             "2": 5,
             "3": 2,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -188,7 +188,7 @@
             "1": 0,
             "2": 4,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -320,7 +320,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -431,12 +431,11 @@
     },
     {
         "idx": 9815,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "On friday, hsiu-ying \" lisa \" tseng, convicted of murdering three of her patients by drug overdose, was sentenced to 30 years to life in prison, making her the only us doctor ever convicted of murder for recklessly prescribing meds, the lead prosecutor said. Although her defense team portrayed the southern california doctor as a helpful physician sucked in by \" manipulative \" patients, per cnn, she was accused of writing out rxs for patient who paid in cash, not offering thorough medical exams, and ignoring family members who begged her to stop writing prescriptions. \" it seems to be an attempt to put the blame on someone else, \" la superior court judge george lomeli chastised the 46-year-old during her sentencing, per the los angeles times. \" very irresponsible. \" and the charges against tseng for the deaths of 21-year-old joey rovero, 25-year-old steven ogle, and 28-year-old vu nguyen weren't the first red flags: three other young men had oded in 2007 and 2008 after she supplied them with prescriptions from her strip-mall clinic, the prosecution noted — and they drove a long way to get to her, with one of the victims making a two-hour round trip. Meanwhile, an attorney who had represented tseng in front of the state medical board says that her prosecution ( and now sentencing ) has had a frightening effect on doctors who just want the best for their patients. \" the doctors are scared out of their minds, \" he tells the times. \" the pendulum has swung so far. The people who need [ pain medication ] can't get it now. \"",
         "split": "train",
         "cleansed_document": [
-            "Los angeles ( cnn ) a southern california doctor convicted of murder in connection with the overdose deaths of three of her patients was sentenced to 30 years to life in prison friday by a judge in los angeles. Hsiu-ying \" lisa \" tseng, 46, dressed in a blue los angeles county jail jumpsuit, showed no emotion as the sentence was read aloud by los angeles superior court judge george g. Lomeli. Moments earlier, however, she apologized to the families of her victims, many of whom packed the downtown courtroom. \" i cannot imagine what you have gone through, \" the bespectacled tseng said in a soft voice. \" i have been -- and will forever be -- praying for all of you. \" tseng is the only doctor in the united states to be convicted of murder for recklessly prescribing drugs, said los angeles county deputy district attorney john niedermann, the lead prosecutor on the case. While the murder conviction against tseng is apparently without precedent, her prosecution as a doctor-turned-drug dealer is not. There has been a steady stream of such cases around the country in recent years. Some have targeted allegedly corrupt doctors on the payroll of criminal \" pill mill \" operators. Others involve self-employed physicians like tseng accused of abandoning patient care in pursuit of greed. Medical experts and law enforcement officials blame reckless and criminal prescribing of opiate-based painkillers and other potent narcotics by doctors like tseng for contributing to the problem. Mark nomady, a veteran dea agent who helped pioneer the prosecution of \" doctor cases \" in southern california, said he frequently saw pill abusers whose drugs were supplied by doctors wind up with needles in their arms. \" you can draw a straight line from pharmaceutical opiates to shooting heroin, \" said nomady, who retired from the drug enforcement administration in october after 30 years on the job. \" at some point they can't afford the pills, the doctor gets popped or whatever, and there they are. \" just watched obama: prescription drug misuse a gateway to",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Los angeles ( cnn ) a southern california doctor convicted of murder in connection with the overdose deaths of three of her patients was sentenced to 30 years to life in prison friday by a judge in los angeles. Hsiu-ying \" lisa \" tseng, 46, dressed in a blue los angeles county jail jumpsuit, showed no emotion as the sentence was read aloud by los angeles superior court judge george g. Lomeli. Moments earlier, however, she apologized to the families of her victims, many of whom packed the downtown courtroom. \" i cannot imagine what you have gone through, \" the bespectacled tseng said in a soft voice. \" i have been -- and will forever be -- praying for all of you. \" tseng is the only doctor in the united states to be convicted of murder for recklessly prescribing drugs, said los angeles county deputy district attorney john niedermann, the lead prosecutor on the case. While the murder conviction against tseng is apparently without precedent, her prosecution as a doctor-turned-drug dealer is not. There has been a steady stream of such cases around the country in recent years. Some have targeted allegedly corrupt doctors on the payroll of criminal \" pill mill \" operators. Others involve self-employed physicians like tseng accused of abandoning patient care in pursuit of greed. Medical experts and law enforcement officials blame reckless and criminal prescribing of opiate-based painkillers and other potent narcotics by doctors like tseng for contributing to the problem. Mark nomady, a veteran dea agent who helped pioneer the prosecution of \" doctor cases \" in southern california, said he frequently saw pill abusers whose drugs were supplied by doctors wind up with needles in their arms. \" you can draw a straight line from pharmaceutical opiates to shooting heroin, \" said nomady, who retired from the drug enforcement administration in october after 30 years on the job. \" at some point they can't afford the pills, the doctor gets popped or whatever, and there they are. \" just watched obama: prescription drug misuse a gateway to"
         ],
         "raw_document": [
             "Los angeles ( cnn ) a southern california doctor convicted of murder in connection with the overdose deaths of three of her patients was sentenced to 30 years to life in prison friday by a judge in los angeles. Hsiu-ying \" lisa \" tseng, 46, dressed in a blue los angeles county jail jumpsuit, showed no emotion as the sentence was read aloud by los angeles superior court judge george g. Lomeli. Moments earlier, however, she apologized to the families of her victims, many of whom packed the downtown courtroom. \" i cannot imagine what you have gone through, \" the bespectacled tseng said in a soft voice. \" i have been -- and will forever be -- praying for all of you. \" tseng is the only doctor in the united states to be convicted of murder for recklessly prescribing drugs, said los angeles county deputy district attorney john niedermann, the lead prosecutor on the case. While the murder conviction against tseng is apparently without precedent, her prosecution as a doctor-turned-drug dealer is not. There has been a steady stream of such cases around the country in recent years. Some have targeted allegedly corrupt doctors on the payroll of criminal \" pill mill \" operators. Others involve self-employed physicians like tseng accused of abandoning patient care in pursuit of greed. Medical experts and law enforcement officials blame reckless and criminal prescribing of opiate-based painkillers and other potent narcotics by doctors like tseng for contributing to the problem. Mark nomady, a veteran dea agent who helped pioneer the prosecution of \" doctor cases \" in southern california, said he frequently saw pill abusers whose drugs were supplied by doctors wind up with needles in their arms. \" you can draw a straight line from pharmaceutical opiates to shooting heroin, \" said nomady, who retired from the drug enforcement administration in october after 30 years on the job. \" at some point they can't afford the pills, the doctor gets popped or whatever, and there they are. \" just watched obama: prescription drug misuse a gateway to",
@@ -451,7 +450,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -476,7 +475,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -508,7 +507,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -594,7 +593,7 @@
             "1": 0,
             "2": 5,
             "3": 1,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -656,15 +655,14 @@
     },
     {
         "idx": 9823,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Coconut oil, widely believed to be a healthy alternative, is actually not good for you, a new study suggests. The american heart association says research shows that coconut oil packs more saturated fat than butter and some other oils, usa today reports. \" coconut oil is pure fat, \" writes frank sacks, lead author of the aha's paper. More than 70 % of americans and a third of nutritionists think coconut oil is good for you, per the site health. \" there's no basis at all for that, \" sacks writes. Claims that the white paste was a health food led sacks and his team to examine the existing data. Writing in the aha journal circulation, they found that 82 % of the fat in coconut oil is saturated, far more than in butter ( 63 % ), beef fat ( 50 % ), and pork lard ( 39 % ), per the bbc. They also found nothing in the coconut variety to counter the \" bad effects of saturated fat. \" the ama recommends avoiding saturated fat, found in animal-based sources like lard and butter, which can raise \" bad \" ( ldl ) cholesterol levels. Not all experts agree that is the path to a healthy heart; a 2015 study found people replaced saturated fat with sugar and empty calories, per usa today. Still, the ama recommends switching to plant-based sources like olive oil. For those with stocks of coconut oil, take heart. It still makes a good moisturizer. \" you can put it on your body, but don't put it in your body, \" says sacks. Plus, gizmodo makes the case that all these coconut-oil-is-bad-for-you headlines are vastly overstated. ( vegetable oil may not be so great, either. )",
         "split": "train",
         "cleansed_document": [
             "The american heart association wants to set the record straight: coconut oil is not a health food, a panel of experts writes in a new aha advisory statement. Nor is any type of saturated fat, the paper adds. Writing in the journal circulation, the authors acknowledge that recent studies have caused \"confusion \" about the potential health risks of saturated fat. But after reviewing the evidence, they say the association's longstanding recommendation — to eat fewer saturated fats and more unsaturated fats — remains one of the best ways to",
             "Image copyright magone/getty coconut oil is as unhealthy as beef dripping and butter, say us heart experts. It is packed with saturated fat which can raise \" bad \" cholesterol, says the american heart association in updated advice. Coconut oil is commonly sold as a health food and some claim the fat in it may be better for us than other saturated fats. The aha, however, says there are no good studies to support this. Healthy myth? the advice around which fats to eat can be very confusing. Animal fats",
             "Close turns out coconut oil has more saturated fats than lard! usa today the american heart association recently released a report showing the health hazards of coconut oil. ( photo: rodrigobark, getty images/istockphoto ) corrections &amp; clarifications: an earlier version of this story misstated marie-pierre st-onge's title. The american heart association recently released a report advising against the use of coconut oil. The dietary fats and cardiovascular disease advisory reviewed existing data on saturated fat, showing coconut oil increased ldl ( \" bad \" ) cholesterol in seven out of",
-            "Who doesn't love logging on to the good old 'net on a friday morning to the headline \"coconut oil 'as unhealthy as beef fat and butter. ' \" it's got everything. Ah, you might think, my favorite health product is as bad as butter! or you might even say to yourself, those coconut oil-huffing liberals are really getting what's coming to them! no. This round of panicked news isn't coming from new data. Instead, the american heart association has reviewed the existing data",
-            "Abstract cardiovascular disease ( cvd ) is the leading global cause of death, accounting for 17.3 million deaths per year. Preventive treatment that reduces cvd by even a small percentage can substantially reduce, nationally and globally, the number of people who develop cvd and the costs of caring for them. This american heart association presidential advisory on dietary fats and cvd reviews and discusses the scientific evidence, including the most recent studies, on the effects of dietary saturated fat intake and its replacement by other types of fats and carbohydrates on cvd."
+            "Who doesn't love logging on to the good old 'net on a friday morning to the headline \"coconut oil 'as unhealthy as beef fat and butter. ' \" it's got everything. Ah, you might think, my favorite health product is as bad as butter! or you might even say to yourself, those coconut oil-huffing liberals are really getting what's coming to them! no. This round of panicked news isn't coming from new data. Instead, the american heart association has reviewed the existing data"
         ],
         "raw_document": [
             "The american heart association wants to set the record straight: coconut oil is not a health food, a panel of experts writes in a new aha advisory statement. Nor is any type of saturated fat, the paper adds. Writing in the journal circulation, the authors acknowledge that recent studies have caused \"confusion \" about the potential health risks of saturated fat. But after reviewing the evidence, they say the association's longstanding recommendation — to eat fewer saturated fats and more unsaturated fats — remains one of the best ways to",
@@ -685,7 +683,7 @@
             "1": 0,
             "2": 0,
             "3": 1,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -749,12 +747,11 @@
     },
     {
         "idx": 9826,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Day one of bill cosby's retrial on sexual assault charges was markedly different than his first go-round, beginning with a topless protester who barreled toward him outside a pennsylvania courthouse and evident in the prosecution's revelation of what he paid accuser andrea constand to settle her 2005 lawsuit. That amount — $ 3.38 million — was shared toward the end of the day. The philadelphia inquirer explains that in cosby's first trial, which ended in a mistrial, neither side brought up the suit. Both sides are singing a different tune this time around, with montgomery county district attorney kevin steele arguing in his opening statement the settlement's hefty amount suggests cosby was covering for bad behavior. Cosby's team will present its opening statement tuesday; it's expected to portray constand as a greedy money-seeker. Constand sued after prosecutors opted not to go after cosby in 2005. The payment was made in 2006, reports the ap, and had never before been made public, thanks to a confidentiality agreement. But the judge ruled it was fair game for both sides in this trial. As for the ruckus this morning, the protester has been identified as nicolle rochelle, 39, of little falls, nj. She appeared on four episodes of the cosby show between 1990 and 1992, but has no personal accusations against cosby. She says \" the main goal was to make cosby uncomfortable because that is exactly what he has been doing for decades to women. \" she was charged with disorderly conduct and released.",
         "split": "train",
         "cleansed_document": [
-            "Sonia ossorio, center, president of the national organization for women of new york, leads a group in protest, after bill cosby arrives for his sexual assault trial at the montgomery county courthouse,... ( associated press ) norristown, pa. ( ap ) — bill cosby paid nearly $ 3.4 million to the woman he is charged with sexually assaulting, a prosecutor revealed to jurors monday, answering one of the biggest questions surrounding the case as the comedian's retrial got underway. District attorney kevin steele highlighted the 2006 civil settlement during his opening statement, in an apparent attempt to suggest cosby wouldn't have paid out so much money if the accusations against him were false. Cosby's lawyers have signaled they intend to use the settlement to argue that andrea constand falsely accused the former tv star in hopes of landing a big payoff. The amount had been confidential — and was kept out of the first trial — but a judge ruled that both sides could discuss it at this one. \" this case is about trust, \" steele told the jury. \" this case is about betrayal and that betrayal leading to the sexual assault of a woman named andrea constand. \" cosby, 80, is charged with drugging and molesting constand, a former employee of temple university's basketball program, at his suburban",
-            "The soda tax and the great depression: the 1932 law that forever changed philly's taxes may 25 laura mccrystal covers everything about taxes, government revenue, and how such policies impact people in philadelphia and beyond. She previously covered news in montgomery county, including bill cosby's trial. Lawyers for delco liberian accused of hiding record of war crimes say convicting him won't change the past lawyers for delco liberian accused of hiding record of war crimes say convicting him won't change the past jun 12 actor bill cosby smiles as he arrives monday for his sexual assault retrial at the montgomery county courthouse in norristown. ( david maialetti / staff photographer ) bill cosby paid andrea constand nearly $ 3.4 million to settle her 2005 lawsuit – a payment, a prosecutor said monday, that was meant to buy her silence after the entertainer sexually assaulted her at his cheltenham home. That sum, hidden for more than a decade behind a confidentiality agreement signed by both parties, was revealed for the first time by montgomery county district attorney kevin r. Steele in his opening statement to jurors at cosby's retrial in norristown. Its disclosure came near the end of a day in court that was marked by unexpected disruptions – first by a topless demonstrator who charged past the 80-year-old entertainer outside the montgomery county courthouse, then by"
+            "Sonia ossorio, center, president of the national organization for women of new york, leads a group in protest, after bill cosby arrives for his sexual assault trial at the montgomery county courthouse,... ( associated press ) norristown, pa. ( ap ) — bill cosby paid nearly $ 3.4 million to the woman he is charged with sexually assaulting, a prosecutor revealed to jurors monday, answering one of the biggest questions surrounding the case as the comedian's retrial got underway. District attorney kevin steele highlighted the 2006 civil settlement during his opening statement, in an apparent attempt to suggest cosby wouldn't have paid out so much money if the accusations against him were false. Cosby's lawyers have signaled they intend to use the settlement to argue that andrea constand falsely accused the former tv star in hopes of landing a big payoff. The amount had been confidential — and was kept out of the first trial — but a judge ruled that both sides could discuss it at this one. \" this case is about trust, \" steele told the jury. \" this case is about betrayal and that betrayal leading to the sexual assault of a woman named andrea constand. \" cosby, 80, is charged with drugging and molesting constand, a former employee of temple university's basketball program, at his suburban"
         ],
         "raw_document": [
             "Sonia ossorio, center, president of the national organization for women of new york, leads a group in protest, after bill cosby arrives for his sexual assault trial at the montgomery county courthouse,... ( associated press ) norristown, pa. ( ap ) — bill cosby paid nearly $ 3.4 million to the woman he is charged with sexually assaulting, a prosecutor revealed to jurors monday, answering one of the biggest questions surrounding the case as the comedian's retrial got underway. District attorney kevin steele highlighted the 2006 civil settlement during his opening statement, in an apparent attempt to suggest cosby wouldn't have paid out so much money if the accusations against him were false. Cosby's lawyers have signaled they intend to use the settlement to argue that andrea constand falsely accused the former tv star in hopes of landing a big payoff. The amount had been confidential — and was kept out of the first trial — but a judge ruled that both sides could discuss it at this one. \" this case is about trust, \" steele told the jury. \" this case is about betrayal and that betrayal leading to the sexual assault of a woman named andrea constand. \" cosby, 80, is charged with drugging and molesting constand, a former employee of temple university's basketball program, at his suburban",
@@ -769,7 +766,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -827,12 +824,11 @@
     },
     {
         "idx": 9829,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "In 1793, when acclaimed spanish painter francisco goya was 46, he was bedridden for months with a mysterious illness that brought on headaches, dizziness, hallucinations, and even vision and hearing problems. He eventually recovered and went on to live just past his 82nd birthday, but the illness took his hearing for good, reports live science. With no doctors ' notes and only a description of symptoms, experts have long puzzled over the historic case — though syphilis, bacterial meningitis, and lead poisoning ( not exactly uncommon among painters at the time ) have long been considered plausible. Now a leading hearing expert at the university of maryland school of medical says goya may have suffered from a rare autoimmune disease called susac's syndrome. In susac's, one's immune system attacks blood cells in the brain, inner ear, and retina, and can lead to loss of vision and hearing and even psychiatric issues. The painter exhibited this \" constellation of symptoms, \" says dr. Ronna hertzano. \" this required real detective work, \" she says. \" the question of goya's ailment was a fascinating medical mystery. \" still, while syphilis and meningitis are less likely because they tend to be progressive and lead to other complications, she warned ahead of her presentation at the historical clinicopathological conference that \" the best we can do is speculate. \" the annual meeting features an expert ( if armchair ) diagnosis of historical figures that have in the past included vladimir lenin, eleanor roosevelt, and abraham lincoln. Hertzano noted that today goya would have been able to restore his hearing with cochlear implants. ( here's what killed beethoven. )",
         "split": "train",
         "cleansed_document": [
-            "The famous spanish painter francisco goya suffered a mysterious illness and lost his hearing at the age of 46, and now experts may have figured out why. Goya is considered the most important spanish painter of the late 18th and early 19th centuries. But in the middle of his career, in 1793, he developed a severe illness that left him bedridden for months. He experienced headaches, dizziness, hallucinations, vision problems and ringing in his ears. Most of these symptoms eventually went away, but the illness left him deaf. He lived to be 82 years old. At the time he got sick, goya's illness went undiagnosed, and since then, some experts have speculated that he had bacterial meningitis or syphilis, or had developed lead poisoning from working with paint. But in a new analysis, dr. Ronna hertzano, a surgeon and hearing expert at the university of maryland school of medicine, said that goya may have suffered from an autoimmune disease called susac's syndrome. In this rare condition, a",
-            "Tuesday, january 08, 2019 university of maryland school of medicine ( umsom ) dean e. Albert reece, md, phd, mba, announced today that claire m. Fraser, phd, a pioneer in the field of microbial genomics, who is the dean's endowed professor, department of medicine, and director of the institute for genome sciences ( igs ), has been chosen as president-elect of the american association for the advancement of science ( aaas ). Aaas is the world's largest multidisciplinary scientific society and a leading publisher of cutting edge research through its science family of journals."
+            "The famous spanish painter francisco goya suffered a mysterious illness and lost his hearing at the age of 46, and now experts may have figured out why. Goya is considered the most important spanish painter of the late 18th and early 19th centuries. But in the middle of his career, in 1793, he developed a severe illness that left him bedridden for months. He experienced headaches, dizziness, hallucinations, vision problems and ringing in his ears. Most of these symptoms eventually went away, but the illness left him deaf. He lived to be 82 years old. At the time he got sick, goya's illness went undiagnosed, and since then, some experts have speculated that he had bacterial meningitis or syphilis, or had developed lead poisoning from working with paint. But in a new analysis, dr. Ronna hertzano, a surgeon and hearing expert at the university of maryland school of medicine, said that goya may have suffered from an autoimmune disease called susac's syndrome. In this rare condition, a"
         ],
         "raw_document": [
             "The wages of apostolic poverty may 3, 2019 &#124; 1: 30pm davidge hall by the time this patient reached the end of his life at age 44, absolute poverty and disease had reduced him to the condition of a living corpse. He was not, however, born destitute. In fact, the patient's family was wealthy enough to enable him as a youth to live a hedonist's life of revelry, song, and nightly escapades about his native city with a multitude of friends. Much later he would refer to that time as his \"years in sin, \" though an early ( approved ) biographer insisted that \"he never yielded to seductions of the flesh. \" when the patient was 19 his life changed radically. Captured during a battle with a neighboring city, he was imprisoned for a year in a damp and polluted subterranean cell. He languished there in near perpetual darkness on a diet of rancid food and tainted water, while exposed to brutal cold in the winter and sweltering heat in summer. When",
@@ -849,7 +845,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -899,7 +895,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1022,7 +1018,7 @@
             "3": 0,
             "4": 1,
             "5": 2,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -1050,7 +1046,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1130,12 +1126,11 @@
     },
     {
         "idx": 9840,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "There's a new captain america, and he looks more like a whole different swath of americans. Marvel has announced that a black hero — longtime cap ally sam wilson, aka the falcon — will be taking over his star-spangled mantle in captain america #25, the new york daily news reports. Classic cap steve rogers has been looking for a replacement since being aged into a 90-year-old man in the current storyline ( though, as ign points out, truly plugged-in fans will have known the outcome of that search for a while, thanks to the solicitation for avengers #35 ). Wilson will be familiar to moviegoers thanks to his appearance in captain america: the winter soldier. \" it's about time, \" marvel executive editor tom brevoort said. \" in 2014 this should be a thing that we shrug off, it shouldn't be seen as revolutionary, but it still feels exciting. \" the announcement comes just days after marvel announced a new female thor, and that's no accident, writes andrew wheeler at comics alliance. \" these changes suggest an agenda, \" he writes. \" i'd call it progressive agenda, but it's not. Putting women and people of color in key positions isn't progressive, it's just evidence that superhero comics are slowly catching up to the present day. \"",
         "split": "train",
         "cleansed_document": [
-            "On tuesday morning whoopi goldberg and the hosts of the view announced that marvel will relaunch thor this october with a ' worthy ' woman brandishing the hammer. Marvel followed that announcement with two more high profile switcheroos on wednesday night as entertainment weekly revealed a new-ish and possibly superior iron man, and marvel chief creative officer joe quesada joined comedian stephen colbert on the colbert report to announce that a new guy will take up captain america's shield. That in itself isn't much of a surprise -- original cap steve rogers has passed on his mantle a few times, before eventually yanking it back. After spending some time in dimension z and fighting the iron nail and whatnot, he's now too old to avenge from the front lines. The big reveal is that the new captain america will be sam wilson, the african-american superhero currently known as falcon. It's not hard to guess at marvel's intentions here. By announcing a female thor and a black captain america as a swift one-two punch, the publisher accomplishes two things. First, it shakes up its universe in a way that's sure to garner attention -- as indeed it has. Second, it makes a mission statement. To the first point; the whole world knows marvel's avengers characters now. That could be",
-            "Share. Does marvel still need steve rogers? does marvel still need steve rogers? beware of spoilers from captain america's comic book! it seems we may be due for a new captain america soon. For those not following rick remender's captain america series, steve rogers has lost the super-soldier serum that transformed him into a nazi-punching machine. He's back to being puny again, which combined with his old age doesn't make for prime superhero material. Over the next couple months the series will follow steve's journey as he picks out potential replacements and transitions into more of a strategist role among the avengers. That culminates with captain america #25 in september, which will debut a new captain america to the world. Of course, plenty of readers have already pointed out how it wasn't that long ago that we got a new captain america. In fact, it was another captain america #25 ( vol. 5 rather than the current vol. 7 ) wherein steve rogers was seemingly assassinated as he awaited trial for his crimes during marvel's civil war storyline. The series then followed the recently de-brainwashed bucky barnes as he came to grips with his friend's death and eventually agreed to take up the mantle himself. It was a status quo shift that lasted a couple"
+            "On tuesday morning whoopi goldberg and the hosts of the view announced that marvel will relaunch thor this october with a ' worthy ' woman brandishing the hammer. Marvel followed that announcement with two more high profile switcheroos on wednesday night as entertainment weekly revealed a new-ish and possibly superior iron man, and marvel chief creative officer joe quesada joined comedian stephen colbert on the colbert report to announce that a new guy will take up captain america's shield. That in itself isn't much of a surprise -- original cap steve rogers has passed on his mantle a few times, before eventually yanking it back. After spending some time in dimension z and fighting the iron nail and whatnot, he's now too old to avenge from the front lines. The big reveal is that the new captain america will be sam wilson, the african-american superhero currently known as falcon. It's not hard to guess at marvel's intentions here. By announcing a female thor and a black captain america as a swift one-two punch, the publisher accomplishes two things. First, it shakes up its universe in a way that's sure to garner attention -- as indeed it has. Second, it makes a mission statement. To the first point; the whole world knows marvel's avengers characters now. That could be"
         ],
         "raw_document": [
             "On tuesday morning whoopi goldberg and the hosts of the view announced that marvel will relaunch thor this october with a ' worthy ' woman brandishing the hammer. Marvel followed that announcement with two more high profile switcheroos on wednesday night as entertainment weekly revealed a new-ish and possibly superior iron man, and marvel chief creative officer joe quesada joined comedian stephen colbert on the colbert report to announce that a new guy will take up captain america's shield. That in itself isn't much of a surprise -- original cap steve rogers has passed on his mantle a few times, before eventually yanking it back. After spending some time in dimension z and fighting the iron nail and whatnot, he's now too old to avenge from the front lines. The big reveal is that the new captain america will be sam wilson, the african-american superhero currently known as falcon. It's not hard to guess at marvel's intentions here. By announcing a female thor and a black captain america as a swift one-two punch, the publisher accomplishes two things. First, it shakes up its universe in a way that's sure to garner attention -- as indeed it has. Second, it makes a mission statement. To the first point; the whole world knows marvel's avengers characters now. That could be",
@@ -1150,7 +1145,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1183,13 +1178,12 @@
     },
     {
         "idx": 9842,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "You know that spiffy new chrysler that eminem is all excited about? the one that's \" imported from detroit \"? well, apparently you can only be so critical about it in the detroit news. The paper's auto critic, scott burgess, made some rather scathing comments about the chrysler 200 — then resigned after an angry letter from an advertiser prompted editors to tone down the online version of the article. \" it's just a matter of principle, \" burgess tells the ap. Among the deleted comments: \" the 200 is still a dog, \" and \" if this car came in tortoise shell, the epa would have to put it on the endangered sedan list to prevent trappers and automotive enthusiasts from rightfully shooting it into extinction. \" you can read the full review, with the deleted sections identified, on jalopnik. Even with the omissions, the review remains clearly negative. Publisher jon wolman says the paper wasn't trying to change the tone, but was merely trying to \" make an editing improvement, and obviously we handled it poorly. \" the ap notes that the original version is back online.",
         "split": "train",
         "cleansed_document": [
             "The auto critic at the detroit news has resigned after editors told him to delete online portions of a scathing review of the chrysler 200, a car that was promoted in a popular super bowl tv ad starring rapper eminem. In the newspaper's march 10 print edition, scott burgess said the car is a \" dog \" that lacks \" inspiration or soul. \" but the online version at www.detnews.com later was missing some criticism, including the \" dog \" reference. Burgess told the associated press on thursday that he quit this week after meeting with editor and publisher jon wolman. The review was edited after complaints by a car dealer. Wolman says the paper should have let the online review stand as written. The original is back online. ___ information from: the detroit news, http://detnews.com/",
-            "Chrysler 200: detroit news ' auto critic's original review made it into the newspaper's march 10 print edition. But some of the most critical passages, including burgess ' calling the sedan a'dog, ' were removed from the paper's online version. The detroit news ' auto critic said thursday that he resigned because editors demanded that he delete sections of a scathing review of the chrysler 200, a car promoted in a popular super bowl television ad starring rapper eminem. Scott burgess ' original review made it into the newspaper's march 10 print edition. But some of the most critical passages, including burgess ' calling the sedan a \" dog, \" were removed from the paper's online version. Burgess, 43, said he resigned wednesday after meeting with the paper's news editor and publisher, jon wolman. \" it's just a matter of principle, \" burgess told the associated press. He said he was told march 11 what to take out of the online version. \" i regret not standing up and saying, ' no, we can't change this. ' i felt i ' m just as guilty letting it happen, \" he said. \" i kind of felt like a deer in the headlights. I didn't know what to do. \" wolman acknowledged that the newspaper changed the online version after a car dealer complained about it. But he told the ap",
-            "Meet the new boss, same as the old boss. The more things change, the more they stay the same. Say it however you want, but humans have a way of repeating history. Back in 1999, this porsche 911 was purchased for a whopping $ 6900. But the thing is, nobody thought this car would ever be worth big money, it was just an …"
+            "Chrysler 200: detroit news ' auto critic's original review made it into the newspaper's march 10 print edition. But some of the most critical passages, including burgess ' calling the sedan a'dog, ' were removed from the paper's online version. The detroit news ' auto critic said thursday that he resigned because editors demanded that he delete sections of a scathing review of the chrysler 200, a car promoted in a popular super bowl television ad starring rapper eminem. Scott burgess ' original review made it into the newspaper's march 10 print edition. But some of the most critical passages, including burgess ' calling the sedan a \" dog, \" were removed from the paper's online version. Burgess, 43, said he resigned wednesday after meeting with the paper's news editor and publisher, jon wolman. \" it's just a matter of principle, \" burgess told the associated press. He said he was told march 11 what to take out of the online version. \" i regret not standing up and saying, ' no, we can't change this. ' i felt i ' m just as guilty letting it happen, \" he said. \" i kind of felt like a deer in the headlights. I didn't know what to do. \" wolman acknowledged that the newspaper changed the online version after a car dealer complained about it. But he told the ap"
         ],
         "raw_document": [
             "The auto critic at the detroit news has resigned after editors told him to delete online portions of a scathing review of the chrysler 200, a car that was promoted in a popular super bowl tv ad starring rapper eminem. In the newspaper's march 10 print edition, scott burgess said the car is a \" dog \" that lacks \" inspiration or soul. \" but the online version at www.detnews.com later was missing some criticism, including the \" dog \" reference. Burgess told the associated press on thursday that he quit this week after meeting with editor and publisher jon wolman. The review was edited after complaints by a car dealer. Wolman says the paper should have let the online review stand as written. The original is back online. ___ information from: the detroit news, http://detnews.com/",
@@ -1206,7 +1200,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1311,7 +1305,7 @@
             "0": 4,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1393,19 +1387,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 9850,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Texas a&m has canceled a \" white lives matter \" event that was billed by its organizer as \" today charlottesville, tomorrow texas a&m. \" while stressing its commitment to the first amendment, the university on monday announced that the sept. 11 event will not go ahead because its association with the protests in charlottesville \" creates a major security risk on our campus. \" that drew swift condemnation from event organizer preston wiginton, who had said the event would \" sponsor white identity and white pride \" and \" protest the liberal anti-white agenda, \" per texas a&m's battalion. Complaining of a first amendment violation, wiginton tells the houston chronicle he plans to sue texas a&m, whose officials \" think they're above the law. \" texas a&m, however, says its support for free speech \" cannot be questioned \" since it allowed white supremacist richard spencer to speak at the school in december. Rather than cancel that event, texas a&m condemned spencer's \" odious, reprehensible ideas \" and held its own event in opposition. Spencer was to return to texas a&m in september. But \" in this case, circumstances and information relating to the event have changed, \" presenting \" risks of threat to life and safety, \" school officials say. State rep. John raney, a texas a&m alum, announced the event's cancellation on the house floor monday, claiming social media users had vowed to bring guns. Spencer is still in talks to speak at the university of florida on sept. 12, per usa today.",
         "split": "train",
         "cleansed_document": [
             "Share +1 email 9k shares after consultation with law enforcement and considerable study, texas a&m is cancelling the event scheduled by preston wiginton at rudder plaza on campus on september 11 because of concerns about the safety of its students, faculty, staff, and the public. Texas a&m changed its policy after december's protests so that no outside individual or group could reserve campus facilities without the sponsorship of a university-sanctioned group. None of the 1200-plus campus organizations invited preston wiginton nor did they agree to sponsor his events in december 2016 or on september 11 of this year. With no university facilities afforded him, he chose instead to plan his event outdoors for september 11 at rudder plaza, in the middle of campus, during a school day, with a notification to the media",
             "Texas a&m cancels white supremacist rally set for sept. 11 file - in this dec. 6, 2016, file photo, richard spencer, who leads a movement that mixes racism, white nationalism and populism, speaks at the texas a&m university campus in college station, texas. Professor c. Christine fair told the associated press on monday, may 22, 2017, that the old town sport&health club in alexandria, va., informed her that it terminated the membership of spencer following last wednesday's confrontation in the gym where she called him a neo-nazi. ( ap photo/david j. Phillip, file ) less file - in this dec. 6, 2016, file photo, richard spencer, who leads a movement that mixes racism, white nationalism and populism, speaks at the texas a&m university",
-            "The \"white lives matter \" rally at texas a&m university scheduled to be hosted september 11 by white nationalist richard spencer has been cancelled. In a press release monday, the university cited safety concerns as the main reason. \"after consultation with law enforcement and considerable study, texas a&m is cancelling the event scheduled by preston wiginton at rudder plaza on campus on september 11 because of concerns about the safety of its students, faculty, staff, and the public, \" the university said in a press release. Spencer was behind the white nationalist \"unite the right \" rally at the university of virginia saturday that ended in one person killed and 19 more injured after a participant ran his car into a group of counter-protesters. Spencer had been invited to tamu by wiginton, a texan with",
-            "Close get email notifications on josh mccormack daily! your notification has been saved. There was a problem saving your notification. Whenever josh mccormack posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items."
+            "The \"white lives matter \" rally at texas a&m university scheduled to be hosted september 11 by white nationalist richard spencer has been cancelled. In a press release monday, the university cited safety concerns as the main reason. \"after consultation with law enforcement and considerable study, texas a&m is cancelling the event scheduled by preston wiginton at rudder plaza on campus on september 11 because of concerns about the safety of its students, faculty, staff, and the public, \" the university said in a press release. Spencer was behind the white nationalist \"unite the right \" rally at the university of virginia saturday that ended in one person killed and 19 more injured after a participant ran his car into a group of counter-protesters. Spencer had been invited to tamu by wiginton, a texan with"
         ],
         "raw_document": [
             "Share +1 email 9k shares after consultation with law enforcement and considerable study, texas a&m is cancelling the event scheduled by preston wiginton at rudder plaza on campus on september 11 because of concerns about the safety of its students, faculty, staff, and the public. Texas a&m changed its policy after december's protests so that no outside individual or group could reserve campus facilities without the sponsorship of a university-sanctioned group. None of the 1200-plus campus organizations invited preston wiginton nor did they agree to sponsor his events in december 2016 or on september 11 of this year. With no university facilities afforded him, he chose instead to plan his event outdoors for september 11 at rudder plaza, in the middle of campus, during a school day, with a notification to the media",
@@ -1424,7 +1417,7 @@
             "0": 0,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -1585,12 +1578,10 @@
     },
     {
         "idx": 9857,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "A west virginia company that leaked a chemical into the elk river at the start of this year has been punished with an $ 11,000 fine — which amounts to about 27 cents for each of the 300,000 people left without water for days. The occupational safety and health administration fined freedom industries $ 7,000 for not having a liquid tight wall around tanks containing the coal-cleaning chemical crude mchm, and another $ 4,000 for failing to have the proper railings on an elevated platform at the site, reports the charleston gazette. Despite the large number of people affected when 10,000 gallons of the chemical seeped through the containment wall, only 78 claims have been filed against the company, a number that surprised a federal bankruptcy judge, the charleston daily mail reports. \"it's amazing that there have not been an overwhelming number of spill claims, \" he said at a hearing yesterday. \" i don't know whether that's because they don't think there's enough money to pay claims or there's not significant damage. \" the company listed around $ 10 million in assets and $ 10 million in liabilities when it filed for bankruptcy soon after the spill.",
         "split": "train",
-        "cleansed_document": [
-            "Sorry, this zipcode is not in our deliverable area for this subscription service. Re-enter zip code or sign up for digital access. Get digital access"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Sorry, this zipcode is not in our deliverable area for this subscription service. Re-enter zip code or sign up for digital access. Get digital access",
             "Sorry, this zipcode is not in our deliverable area for this subscription service. Re-enter zip code or sign up for digital access. Get digital access"
@@ -1604,18 +1595,17 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 9858,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "When mckinney, texas, mom and business owner kelly kinkel called online shopping company zulily to inquire about returning a coat she had purchased, she was prepared for the customary response: that she'd have to cover the shipping, or perhaps not be able to return it at all. What happened next confused her for a moment and then moved her to tears, reports q13 fox. As she writes in a facebook post that has been shared nearly 50,000 times and liked more than 100,000 as of this writing, a young customer service rep named patrick told her he'd refund her account immediately, but then gave her unusual instructions: \" please don't send it back. If you know someone who needs a winter coat or if you would like to donate it to a charity, that would make us very happy. \" kinkel is now, as she tells ksl, a \" customer for life, \" and she hoped her story would go viral so that others \" know that in a dark and dreary world, so shines a good deed. \" the gesture hasn't just turned her into a loyal customer, she says it's inspired her to donate the coat and other items to a local homeless shelter. Such outside-the-box customer service is seemingly becoming more common. Similar posts about the company stitch fix have circulated already this year: one woman wrote on facebook that the company sent her flowers when her father's death caused her to miss her return deadline; another woman took to facebook to post about a hand-written note and gifts the company sent upon hearing her daughter was fighting pediatric cancer. ( on the other end of the spectrum, there are stories like this. )",
         "split": "train",
         "cleansed_document": [
             "Seattle — anyone who has ever tried to return something at a store knows it can sometimes be stressful. But when kelly blue kinkel tried to return a coat she ordered before christmas, she got an entirely different experience. Kinkel shared the story on facebook. In her post, she said she had one of the best customer service experiences of her life after deciding to return the coat to seattle-based company zulily. \"i called customer service and asked how to return the unopened coat for a refund. I spoke with a sweet young man named patrick, and he let me know he would refund my money immediately. I asked again how to send it back, and he said, 'please don't send it back. If you know someone who needs a winter coat or if you would like to donate it to a charity, that would make us very happy. ' \" kinkel thought he was joking. But when she realized he was serious, she was brought to tears. Kinkel says she's now loyal zulily customer. \"i just don't know other companies that do this, do you? i thought zulily was pretty incredible before, but after today, i ' m a customer for life.",
-            "Mckinney, texas — when kelly kinkel called zulily to find out if she could return a coat she ordered, she was prepared to either pay for shipping on the return or to be unable to return it altogether. But customer service representative patrick's response to her inquiry left her surprised and emotional. Not only did patrick say he'd give her a full refund, he encouraged her to give it to someone who might really be in need of it, kenkel told ksl.com. Patrick told kinkel that zulily wanted her to make someone else's day because it would make them happy. \" out of that simple conversation, they have a customer for life at my house, and i just wanted other people to know that in a dark and dreary world, so shines a good deed, right? \" kinkel said. A self-described \" momma on a budget, \" kinkel took to facebook to tell about her experience. She wanted other mothers who might be on a budget to know zulily is a legitimate company and is doing right by their customers, and furthermore, she feels they are doing right by the community. Kinkel, herself, is a business owner and said she tries to live by the",
-            "... Psule wardrobe with the help of your stylist: http://bit.ly/2ougubw seat's taken … with your new closet essentials. See how to build a ca"
+            "Mckinney, texas — when kelly kinkel called zulily to find out if she could return a coat she ordered, she was prepared to either pay for shipping on the return or to be unable to return it altogether. But customer service representative patrick's response to her inquiry left her surprised and emotional. Not only did patrick say he'd give her a full refund, he encouraged her to give it to someone who might really be in need of it, kenkel told ksl.com. Patrick told kinkel that zulily wanted her to make someone else's day because it would make them happy. \" out of that simple conversation, they have a customer for life at my house, and i just wanted other people to know that in a dark and dreary world, so shines a good deed, right? \" kinkel said. A self-described \" momma on a budget, \" kinkel took to facebook to tell about her experience. She wanted other mothers who might be on a budget to know zulily is a legitimate company and is doing right by their customers, and furthermore, she feels they are doing right by the community. Kinkel, herself, is a business owner and said she tries to live by the"
         ],
         "raw_document": [
             "Seattle — anyone who has ever tried to return something at a store knows it can sometimes be stressful. But when kelly blue kinkel tried to return a coat she ordered before christmas, she got an entirely different experience. Kinkel shared the story on facebook. In her post, she said she had one of the best customer service experiences of her life after deciding to return the coat to seattle-based company zulily. \"i called customer service and asked how to return the unopened coat for a refund. I spoke with a sweet young man named patrick, and he let me know he would refund my money immediately. I asked again how to send it back, and he said, 'please don't send it back. If you know someone who needs a winter coat or if you would like to donate it to a charity, that would make us very happy. ' \" kinkel thought he was joking. But when she realized he was serious, she was brought to tears. Kinkel says she's now loyal zulily customer. \"i just don't know other companies that do this, do you? i thought zulily was pretty incredible before, but after today, i ' m a customer for life.",
@@ -1634,7 +1624,7 @@
             "0": 0,
             "1": 0,
             "2": 4,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1696,12 +1686,11 @@
     },
     {
         "idx": 9861,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A new modern family got its start sunday night in palm beach, fla., as sofia vergara wed joe manganiello in a flower-filled ceremony at the breakers resort, people reports. The 43-year-old actress and her 38-year-old beau stood in front of guests including reese witherspoon, channing tatum, and vergara's modern family colleagues and said their \" i wills \" ( not \" i do's \" ) surrounded by an avalanche of white roses, orchids, and hydrangeas. Vergara wore a zuhair murad couture gown sans veil. They swayed through their first dance to a band-crooned cover of \" the way you look tonight, \" and pitbull reportedly performed as a surprise guest, e! online reports. The wedding was the culmination of what people dubs \" a weekend full of fun, \" including a pool party and a post-rehearsal dinner party at which manganiello sang \" sweet child o ' mine \" to his bride-to-be. ( vergara probably didn't have a problem footing the flower bill. )",
         "split": "train",
         "cleansed_document": [
-            "The newlyweds are ready to party, again! sofia vergara, joe manganiello and their wedding guests came together sunday night for a lavish reception after the a-list couple exchanged vows at the breakers in palm beach, fla. The party was held at the hotel's venetian ballroom. Crystal chandeliers and huge arrangements of fuchsia flowers hung from the ceiling. Yellow linens covered the dinner tables and vines of white roses were also seen. The couple's first dance was to frank sinatra's 1964 cover of \" the way you look tonight. \" music from michael jackson and shakira was also heard during the celebration. E! news can also confirm pitbull performed as a surprise musical guest. Contrary to reports, however, marc anthony was not scheduled to sing during the evening.",
-            "Crawl of outlinks from wikipedia.org started march, 2016. These files are currently not publicly accessible. Properties of this collection. It has been several years since the last time we did this. For this collection, several things were done: 1. Turned off duplicate detection. This collection will be complete, as there is a good chance we will share the data, and sharing data with pointers to random other collections, is a complex problem. 2. For the first time, did all the different wikis. The original runs were just against the enwiki. This one, the seed list was built from all 865 collections."
+            "The newlyweds are ready to party, again! sofia vergara, joe manganiello and their wedding guests came together sunday night for a lavish reception after the a-list couple exchanged vows at the breakers in palm beach, fla. The party was held at the hotel's venetian ballroom. Crystal chandeliers and huge arrangements of fuchsia flowers hung from the ceiling. Yellow linens covered the dinner tables and vines of white roses were also seen. The couple's first dance was to frank sinatra's 1964 cover of \" the way you look tonight. \" music from michael jackson and shakira was also heard during the celebration. E! news can also confirm pitbull performed as a surprise musical guest. Contrary to reports, however, marc anthony was not scheduled to sing during the evening."
         ],
         "raw_document": [
             "The newlyweds are ready to party, again! sofia vergara, joe manganiello and their wedding guests came together sunday night for a lavish reception after the a-list couple exchanged vows at the breakers in palm beach, fla. The party was held at the hotel's venetian ballroom. Crystal chandeliers and huge arrangements of fuchsia flowers hung from the ceiling. Yellow linens covered the dinner tables and vines of white roses were also seen. The couple's first dance was to frank sinatra's 1964 cover of \" the way you look tonight. \" music from michael jackson and shakira was also heard during the celebration. E! news can also confirm pitbull performed as a surprise musical guest. Contrary to reports, however, marc anthony was not scheduled to sing during the evening.",
@@ -1716,7 +1705,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1746,7 +1735,7 @@
             "0": 5,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1866,7 +1855,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1924,12 +1913,11 @@
     },
     {
         "idx": 9869,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Face to face for the first time in nearly a year, president obama and russian president vladimir putin will confront rising tensions on monday over moscow's military engagement in syria, as well as the stubborn crisis in ukraine. Underscoring their differences, the us and russia disagree even on the purpose of the meeting on the sidelines of an annual un summit. The us says it will focus on ukraine, while the kremlin says it will focus on syria and the fight against isis, where there's apparently much to discuss: the new york times reports that us officials were surprised to discover on sunday that russia has joined an anti-isis intelligence-sharing pact with syria, iraq, and iran. In a wide-ranging 60 minutes interview that aired sunday night, putin said russia doesn't plan to put combat troops in syria \" right now, \" but that moscow is considering \" intensifying \" its work with the assad regime and other allies. Putin, a former kgb agent, brushed aside interviewer charlie rose's suggestion that the regime's war crimes were actually helping isis. \" speaking in a professional language of intelligence services, i can tell you that this kind of assessment is an ' active measure ' by enemies of assad. It is anti-syrian propaganda, \" he said. Later in the interview, putin agreed with rose when he said, \" once a kgb agent, always a kgb agent. \" ( he also revealed what he most admires about america. )",
         "split": "train",
         "cleansed_document": [
-            "Russia's moves are raising difficult questions for the obama administration, which remains deeply conflicted about american military involvement in the syria conflict. Ensuring that the russian military and the united states-led coalition, which is carrying out airstrikes against the islamic state, \"deconflict \" and avoid running into each other is only part of the problem: the obama administration and the kremlin do not appear to agree even on the main reason for the conflict. American officials, who have long cast mr. Assad as the primary source of instability in syria, assert that the syrian leader's brutal crackdown provided an opening for jihadist groups and that the crisis cannot be resolved until a political transition is negotiated that requires him to leave power. But russian officials see the syrian government as a bulwark against further gains by groups like islamic state and nusra front and sometimes suggest that the defeat of the islamic state should come before a negotiated solution for the syrian conflict. Image secretary of state john kerry and sergey v. Lavrov, russia's foreign minister, met sunday amid tensions between the countries. Credit dominick reuter/agence france-presse — getty images even as the united states has banked on a diplomatic strategy of trying to enlist russia's cooperation in syria, the kremlin has continued to jolt the white house with its unilateral military and political moves. \"this is",
-            "The following is a script from \" putin \" which aired on september 27, 2015. Charlie rose is the correspondent. Andy court, producer. There aren't many world leaders who have generated as much interest as russia's vladimir putin. All eyes will be on putin when he speaks at the u.n. Tomorrow and meets with president obama, at a time when he has placed himself and his country in the middle of the most pressing issues of our times. He helped the u.s. And its western allies broker the nuclear deal with iran, and now, with a russian buildup of aircraft, military equipment and personnel in syria, he has put himself and his country at the center of that civil war and the fight against isis. Cbs news now, when his relations with the united states seem to be at a post-cold war low, suffering under western economic sanctions imposed on russia, putin may be looking for a way to restore his international influence and gain the respect he seeks for his homeland. Just before his trip to the u.s., putin invited us to meet him at his state residence outside moscow where we found him characteristically confident and combative as he made the case that the focus in syria should be on fighting isis rather than removing syrian president assad. Charlie rose: so you would like to"
+            "Russia's moves are raising difficult questions for the obama administration, which remains deeply conflicted about american military involvement in the syria conflict. Ensuring that the russian military and the united states-led coalition, which is carrying out airstrikes against the islamic state, \"deconflict \" and avoid running into each other is only part of the problem: the obama administration and the kremlin do not appear to agree even on the main reason for the conflict. American officials, who have long cast mr. Assad as the primary source of instability in syria, assert that the syrian leader's brutal crackdown provided an opening for jihadist groups and that the crisis cannot be resolved until a political transition is negotiated that requires him to leave power. But russian officials see the syrian government as a bulwark against further gains by groups like islamic state and nusra front and sometimes suggest that the defeat of the islamic state should come before a negotiated solution for the syrian conflict. Image secretary of state john kerry and sergey v. Lavrov, russia's foreign minister, met sunday amid tensions between the countries. Credit dominick reuter/agence france-presse — getty images even as the united states has banked on a diplomatic strategy of trying to enlist russia's cooperation in syria, the kremlin has continued to jolt the white house with its unilateral military and political moves. \"this is"
         ],
         "raw_document": [
             "Russia's moves are raising difficult questions for the obama administration, which remains deeply conflicted about american military involvement in the syria conflict. Ensuring that the russian military and the united states-led coalition, which is carrying out airstrikes against the islamic state, \"deconflict \" and avoid running into each other is only part of the problem: the obama administration and the kremlin do not appear to agree even on the main reason for the conflict. American officials, who have long cast mr. Assad as the primary source of instability in syria, assert that the syrian leader's brutal crackdown provided an opening for jihadist groups and that the crisis cannot be resolved until a political transition is negotiated that requires him to leave power. But russian officials see the syrian government as a bulwark against further gains by groups like islamic state and nusra front and sometimes suggest that the defeat of the islamic state should come before a negotiated solution for the syrian conflict. Image secretary of state john kerry and sergey v. Lavrov, russia's foreign minister, met sunday amid tensions between the countries. Credit dominick reuter/agence france-presse — getty images even as the united states has banked on a diplomatic strategy of trying to enlist russia's cooperation in syria, the kremlin has continued to jolt the white house with its unilateral military and political moves. \"this is",
@@ -1944,7 +1932,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1977,14 +1965,13 @@
     },
     {
         "idx": 9871,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Evidence keeps mounting that rihanna and chris brown are back together, despite the fact that he insists they're just the \" best of friends. \" just last night, rihanna tweeted a picture of a shirtless chris brown laying in bed, boxers on full display, tmz reports. And they spent thanksgiving together, photographed partying and then leaving a berlin nightclub together, e! reports. En route to germany, rihanna tweeted, \" all alone in my big ole jet!!! see u soon lover. \" and of course, they recently collaborated on yet another song pointedly titled, \" nobodies business. \"",
         "split": "train",
         "cleansed_document": [
             "\" we're working on our friendship now, \" says brown just a day after ex-girlfriend rihanna went on the record to say she has not rekindled her romance with chris brown, the \"don't wake me up \" singer took to the airwaves to explain their complex relationship. Sitting down with los angeles ' power 106 radio station, the 23-year-old r&b artist flat out denied that he was dating rihanna, 24, again. \"no, \" he bluntly told the dj. \"and that's just quick — the quick answer. \" brown then went on to explain why he decided to release his homemade video after splitting with girlfriend karreuche tran, where he famously mused is there \"such a thing as loving two people. \" \"with that is just me being honest with myself, \" he said. \"me and her have history and me and her are definitely always going to be best of friends. \" \"we're working on our friendship now, \" brown continued. The former couple famously had a falling out when brown attacked his then-girlfriend at a pre-grammys party in 2009. Brown is currently still on probation for the assault. Celebuzz single player no autoplay ( core ) no changes are to be made to this player \"i think everybody feels so attached to this old situation, \" he said of",
             "While brown was in town for his carpe diem tour, rihanna, who just wrapped her own globe-trotting 777 tour, hopped back on a jet to travel to germany wednesday. \" all alone in my big ole jet!!! see u soon lover, \" the \" diamonds \" singer tweeted that day, along with an instagram pic of herself on it, following that up with \" #berlin #carpediem, \" later that day. Rihanna and brown were spotted hopping into a vehicle together after they left the club.",
-            "Rihanna &amp; chris brown the wrong one goes topless rihanna &amp; chris brown -- the wrong one goes topless they're like justin and selena... But with protective orders.andwere on again... Off again... And now apparently on again.riri just tweeted this pic saturday night of cb kickin ' it half-naked in bed -- bare-chested with his drawers out -- then posted it for her 26 million twitter followers.it's the latest in their never-ending relationship saga... As tmz previously reported the two have been spending more and more time together in public, including thanksgiving -- where they partied it up at the same german nightclub.so we ask...",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Rihanna &amp; chris brown the wrong one goes topless rihanna &amp; chris brown -- the wrong one goes topless they're like justin and selena... But with protective orders.andwere on again... Off again... And now apparently on again.riri just tweeted this pic saturday night of cb kickin ' it half-naked in bed -- bare-chested with his drawers out -- then posted it for her 26 million twitter followers.it's the latest in their never-ending relationship saga... As tmz previously reported the two have been spending more and more time together in public, including thanksgiving -- where they partied it up at the same german nightclub.so we ask..."
         ],
         "raw_document": [
             "\" we're working on our friendship now, \" says brown just a day after ex-girlfriend rihanna went on the record to say she has not rekindled her romance with chris brown, the \"don't wake me up \" singer took to the airwaves to explain their complex relationship. Sitting down with los angeles ' power 106 radio station, the 23-year-old r&b artist flat out denied that he was dating rihanna, 24, again. \"no, \" he bluntly told the dj. \"and that's just quick — the quick answer. \" brown then went on to explain why he decided to release his homemade video after splitting with girlfriend karreuche tran, where he famously mused is there \"such a thing as loving two people. \" \"with that is just me being honest with myself, \" he said. \"me and her have history and me and her are definitely always going to be best of friends. \" \"we're working on our friendship now, \" brown continued. The former couple famously had a falling out when brown attacked his then-girlfriend at a pre-grammys party in 2009. Brown is currently still on probation for the assault. Celebuzz single player no autoplay ( core ) no changes are to be made to this player \"i think everybody feels so attached to this old situation, \" he said of",
@@ -2003,18 +1990,17 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
         "idx": 9872,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The widow of the man driving the porsche carrera gt that crashed and killed actor paul walker had hoped to prove that something wrong with the car itself, not the car going too fast, caused the 2013 accident. But a california federal judge on monday dismissed kristine rodas ' wrongful death suit against porsche — one of three similar claims — saying rodas hadn't proved mechanical issues were to blame for the death of walker and her husband, roger, the los angeles times reports. \" plaintiff has provided no competent evidence that rodas'death occurred as a result of any wrongdoing on the part of defendant, \" judge philip gutierrez said in his ruling, per the ap. An la county sheriff's report said the porsche was driving at a speed between 80mph and 93mph at the time of impact, per cnn. But rodas says her husband was obeying the speed limit, and another lawsuit filed against porsche by walker's daughter, meadow, claims the car was between 63mph and 71mph. What rodas thought was to blame: mechanical problems, including the lack of a crash cage, no safety fuel cell ( a special fuel tank with a stiff outer shell and flexible inner shell to help prevent punctures in a crash ), and a malfunctioning suspension. But the judge found neither of the first two would have mitigated the severe injuries rodas suffered, and the defense's expert testimony about the suspension was dismissed. Walker's daughter's suit — which cites different mechanical issues as contributing to walker's death, including a faulty seat belt and an engine capable of letting the car go too fast — will continue. \" the issues in the cases are very different, \" her attorney said tuesday, per people. \" [ paul walker ] survived the crash but was trapped and burned to death because of the vehicle's defects. \" there's also one filed by walker's father.",
         "split": "train",
         "cleansed_document": [
             "Walker was on break from filming the seventh installment of the \" fast and the furious \" franchise on the day of the crash. He had attended a charity event at a valencia motor sport company owned by rodas, and the two drove off in a 2005 porsche carrera gt that rodas had purchased recently. Walker was in the passenger seat.",
-            "File - this march 21, 2013 file photo shows u.s. Actor paul walker wearing a creation from the colcci summer collection at sao paulo fashion week in sao paulo, brazil. A federal judge in los angeles ruled... ( associated press ) file - this march 21, 2013 file photo shows u.s. Actor paul walker wearing a creation from the colcci summer collection at sao paulo fashion week in sao paulo, brazil. A federal judge in los angeles ruled monday, april 4, 2016, that the widow of roger rodas, the man who was driving the car that crashed... ( associated press ) file - this march 21, 2013 file photo shows u.s. Actor paul walker wearing a creation from the colcci",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "File - this march 21, 2013 file photo shows u.s. Actor paul walker wearing a creation from the colcci summer collection at sao paulo fashion week in sao paulo, brazil. A federal judge in los angeles ruled... ( associated press ) file - this march 21, 2013 file photo shows u.s. Actor paul walker wearing a creation from the colcci summer collection at sao paulo fashion week in sao paulo, brazil. A federal judge in los angeles ruled monday, april 4, 2016, that the widow of roger rodas, the man who was driving the car that crashed... ( associated press ) file - this march 21, 2013 file photo shows u.s. Actor paul walker wearing a creation from the colcci"
         ],
         "raw_document": [
             "Walker was on break from filming the seventh installment of the \" fast and the furious \" franchise on the day of the crash. He had attended a charity event at a valencia motor sport company owned by rodas, and the two drove off in a 2005 porsche carrera gt that rodas had purchased recently. Walker was in the passenger seat.",
@@ -2035,7 +2021,7 @@
             "1": 3,
             "2": 5,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -2143,7 +2129,7 @@
             "0": 1,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2232,12 +2218,11 @@
     },
     {
         "idx": 9880,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "British anthropologist robin dunbar made a name for himself in the ' 90s when he hypothesized that there is a strong correlation among primates between brain size and social circles — and he most notably suggested that we humans can only really maintain close relationships with five people, reports mit technology review. He put 10 in the next closest layer, 35 beyond that, and 100 at the outer reaches, so that our total social sphere is 150. Researchers including dunbar himself are now reporting in the open access journal arxiv that mobile phone records suggest the layers are pretty much on the money. After analyzing cell phone calls made by 35 million people in 2007 — intentionally chosen to predate widespread use of facebook and smartphones — the team found people do seem to have, at least on average, four bffs, 11 close friends, 30 acquaintances, and 129 \" others \" in their cohort. \" in this dataset we find strong evidence for the existence of a layered structure, \" they report. \" the clustering yields results that match well with previous studies for the innermost and outermost layers, but for layers in between we observe large variability. \" vice notes that myspace allowed eight slots for best friends, while harry potter had just two, but the researchers didn't sort out the exact nature of each relationship, so it's possible that the four contacts the typical person calls the most includes, for instance, one's parents. ( here's why dunbar says those with thousands of facebook friends aren't necessarily more social. )",
         "split": "train",
         "cleansed_document": [
-            "Photo by jake lewis read: things everybody secretly hates about their best friend if you're wondering how many people you can call your best friends, it depends on who you ask: harry potter had two, six on friends, and myspace only had eight slots for bffs. But according to new research from oxford university, it doesn't matter how many people you think are your best friends, because there's only enough room in your brain for five. In the 90s, british anthropologist robin dunbar theorized that humans had the brain capacity for a max of 150 meaningful relationships, separated into tiers containing five best friends, ten other friends, 35 acquaintances, and 100 contacts that you basically just wish a happy birthday to on facebook. More recently, dunbar took this same logic and studied cellphone records made by 35 million people in 2007 — before the rise of smartphones and social media — to judge the closeness of relationships by the number of shared phone calls. Dunbar found that, on average, people had 4.1 best friends, 11 close friends, 29.8 acquaintances, and 128.9 other contacts. The study showed that both introverts and extroverts have the same capacity for dunbar's proposed social tiers. Mit technology review pointed out that analyses of other social networks, like facebook and instagram, could",
-            "Back in the 1990s, the british anthropologist robin dunbar noticed a remarkable correlation between primate brain size and the social groups they formed. This correlation was simple: the bigger their brains, the larger their social groups. And the explanation seemed reasonable: animals with bigger brains can remember, and therefore interact meaningfully with, more of their peers. That led dunbar to a famous prediction. By plotting the correlation and extrapolating the curve to the size of the human brain, he predicted that humans could have no more than about 150 people in their social sphere. He and many others have gone on to find much evidence for dunbar's number in the sizes of hunter-gatherer societies, roman legions, and effective businesses. Dunbar's number has even been shown to hold on modern social networks. Humans really do seem to have a natural limit to the number of meaningful relationships they can have. And this number is about 150. In recent years, dunbar has taken his idea further by taking into account the emotional closeness between individuals. This has led him to the idea of dunbar layers: that an individual's group of 150 contacts is layered according to the strength of emotional ties. Individuals, he says, generally have up to five people in the closest layer. The next closest layer contains an additional 10"
+            "Photo by jake lewis read: things everybody secretly hates about their best friend if you're wondering how many people you can call your best friends, it depends on who you ask: harry potter had two, six on friends, and myspace only had eight slots for bffs. But according to new research from oxford university, it doesn't matter how many people you think are your best friends, because there's only enough room in your brain for five. In the 90s, british anthropologist robin dunbar theorized that humans had the brain capacity for a max of 150 meaningful relationships, separated into tiers containing five best friends, ten other friends, 35 acquaintances, and 100 contacts that you basically just wish a happy birthday to on facebook. More recently, dunbar took this same logic and studied cellphone records made by 35 million people in 2007 — before the rise of smartphones and social media — to judge the closeness of relationships by the number of shared phone calls. Dunbar found that, on average, people had 4.1 best friends, 11 close friends, 29.8 acquaintances, and 128.9 other contacts. The study showed that both introverts and extroverts have the same capacity for dunbar's proposed social tiers. Mit technology review pointed out that analyses of other social networks, like facebook and instagram, could"
         ],
         "raw_document": [
             "Photo by jake lewis read: things everybody secretly hates about their best friend if you're wondering how many people you can call your best friends, it depends on who you ask: harry potter had two, six on friends, and myspace only had eight slots for bffs. But according to new research from oxford university, it doesn't matter how many people you think are your best friends, because there's only enough room in your brain for five. In the 90s, british anthropologist robin dunbar theorized that humans had the brain capacity for a max of 150 meaningful relationships, separated into tiers containing five best friends, ten other friends, 35 acquaintances, and 100 contacts that you basically just wish a happy birthday to on facebook. More recently, dunbar took this same logic and studied cellphone records made by 35 million people in 2007 — before the rise of smartphones and social media — to judge the closeness of relationships by the number of shared phone calls. Dunbar found that, on average, people had 4.1 best friends, 11 close friends, 29.8 acquaintances, and 128.9 other contacts. The study showed that both introverts and extroverts have the same capacity for dunbar's proposed social tiers. Mit technology review pointed out that analyses of other social networks, like facebook and instagram, could",
@@ -2252,20 +2237,19 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
         "idx": 9881,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Advances in dna research are fairly common these days, but a new study out of china seems to qualify for bombshell status: scientists there edited the genes of human embryos for the first time, reports nature. This gets into controversial and \" ethically charged \" territory, notes the mit technology review, because if a mistake is made at the embryonic level, the mutation could get passed on to future generations. It also raises a whole new set of concerns about \" designer babies. \" to dampen the controversy, the researchers out of sun yat-sen university did not use embryos capable of developing into babies. As they explain in protein &amp; cell, they used a new gene-editing technique called crispr/cas9 on 86 embryos to try to modify a gene responsible for a blood disorder. Things did not go well. \" only 28 had the defective sequence removed, and an even tinier fraction of those ended up with the ' pasted-in ' healthy genetic sequence, \" reports quartz. Worse, mutations were introduced elsewhere. Researchers stopped the experiment, calling the technique \" too immature. \" critics not only agree, they want a moratorium on all such work. \" there needs to be careful consideration not only of the safety but also of the social and ethical implications of applying this technology to alter our germ lines, \" a harvard researcher tells npr. At national geographic, carl zimmer compares the controversy to the early days of human cloning and suspects \" this week will go down as a pivotal moment in the history of medicine. \" this particular experiment may have tanked, but it's not a \" deal-breaker \" for the technology, he writes. But, as with cloning, society may now have to make some decisions about what's appropriate.",
         "split": "train",
         "cleansed_document": [
             "Policy-ish critics lash out at chinese scientists who edited dna in human embryos i istockphoto istockphoto for the first time, scientists have edited dna in human embryos, a highly controversial step long considered off limits. Junjiu huang and his colleagues at the sun yat-sen university in guangzhou, china, performed a series of experiments involving 86 human embryos to see if they could make changes in a gene known as hbb, which causes the sometimes fatal blood disorder beta-thalassemia. The report, in the journal protein &amp; cell, was immediately condemned by other",
             "Gene editing could one day be used to remove disease genes from the gene pool. In an ethically charged first, chinese researchers have used gene editing to modify human embryos obtained from an in vitro fertilization clinic. The 16-person scientific team, based at the sun yat-sen university in guangzhou, china, set out to see whether it could correct the gene defect that causes beta-thalassemia, a blood disease, by editing the dna of fertilized eggs. The team's report showed the method is not yet very accurate, confirming scientific doubts",
             "Earlier this week, chinese researchers reported that they edited the genes of human embryos using a new technique called crispr. While these embryos will not be growing up into genetically modified people, i suspect this week will go down as a pivotal moment in the history of medicine. David cyranoski and sara reardon broke the news today at nature news. Here i've put together a quick guide to the history behind this research, what the chinese scientists did, and what it may signify. There are thousands of genetic disorders that",
-            "A team of scientists in china dropped a bombshell earlier this month, and almost nobody noticed. Researchers led by junjiu huang of yat-sen university in guangzhou published the world's first scientific paper on altering the dna of human embryos. The pioneering research is controversial, though it was conducted on damaged embryos that could not have developed into a human. Many scientists contend that newly developed genetic-engineering methods need to be studied further in animals before running the risk of unpredictable human mutations and scarier developments in human evolution such as eugenic programs.",
-            "The crispr/cas9 rna-endonuclease complex, consisting of the cas9 protein and the guide rna ( grna ) ( ~99 nt ), is based on the adaptive immune system of streptococcus pyogenes sf370. It targets genomic sequences containing the tri-nucleotide protospacer adjacent motif ( pam ) and complementary to the grna, and can be programmed to recognize virtually any genes through the manipulation of grna sequences ( cho et al., 2013; cong et al., 2013; jinek et al., 2012; jinek et al., 2013; mali et al., 2013c )."
+            "A team of scientists in china dropped a bombshell earlier this month, and almost nobody noticed. Researchers led by junjiu huang of yat-sen university in guangzhou published the world's first scientific paper on altering the dna of human embryos. The pioneering research is controversial, though it was conducted on damaged embryos that could not have developed into a human. Many scientists contend that newly developed genetic-engineering methods need to be studied further in animals before running the risk of unpredictable human mutations and scarier developments in human evolution such as eugenic programs."
         ],
         "raw_document": [
             "Policy-ish critics lash out at chinese scientists who edited dna in human embryos i istockphoto istockphoto for the first time, scientists have edited dna in human embryos, a highly controversial step long considered off limits. Junjiu huang and his colleagues at the sun yat-sen university in guangzhou, china, performed a series of experiments involving 86 human embryos to see if they could make changes in a gene known as hbb, which causes the sometimes fatal blood disorder beta-thalassemia. The report, in the journal protein &amp; cell, was immediately condemned by other",
@@ -2286,7 +2270,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 5
         }
     },
     {
@@ -2364,7 +2348,7 @@
         "vote_count": {
             "0": 1,
             "1": 3,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2395,7 +2379,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2563,7 +2547,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2596,12 +2580,11 @@
     },
     {
         "idx": 9893,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Brace yourself for another round of political i-know-you-are-but-what-am-i: mitt romney has repeatedly hammered president obama for the white house's role in solyndra's meltdown, but now konarka technologies, another solar energy company in which romney invested public funds as massachusetts governor, has gone bankrupt, reports the boston herald. Romney sent $ 1.5 million to konarka shortly after he became governor, along with $ 2.5 million to evergreen solar, which also filed for bankruptcy last year, and provided a $ 2.5 million loan to the biotech firm spherics inc., which closed three years later. The romney campaign had no comment. \" that's what governors do — they have to pick winners and losers, \" a boston university professor told reuters. \" it's a calculated risk that governors and state politicians take in an effort to get jobs. \" strangely, evergreen solar also appeared in a recent anti-obama ad produced by karl rove-funded american crossroads, criticizing the president for putting public money into private business. \"if romney gets a little bit of heat because he participated in some of these policies at a point in time, it's all fair in the world of politics, \" says a massachusetts state senator. \"he's criticizing on one hand, he's got to take criticism on the other. \"",
         "split": "train",
         "cleansed_document": [
-            "A bay state solar panel developer that landed a state loan from mitt romney when he was massachusetts governor has gone belly up — a day after the gop presidential hopeful ripped president obama's green-energy investments. Lowell-based konarka technologies announced late yesterday that it filed for chapter 7 bankruptcy protection and will cease operations, lay off its 85 workers and liquidate.",
-            "Washington it would be a triumphant moment for any governor: a cutting-edge company announces plans to build a new plant that will create hundreds of high-paying jobs and bolster one of the state's most prominent industries. For mitt romney, the june 2006 announcement by drugmaker bristol-myers squibb served as a signature accomplishment as his four-year stint as massachusetts governor drew to a close and a u.s. Presidential bid beckoned. The new facility came with a price tag: romney and other state officials agreed to $ 67 million in tax breaks and other inducements to ensure the new york-based company picked massachusetts over rival states like north carolina. Now as he mounts his second white house bid, romney is hammering president barack obama for playing favorites with green-tech companies rather than letting businesses succeed or fail on their own. Romney is the presumptive republican challenger to face obama, a democrat, in the november 6 election. \" obama is giving taxpayer money to big donors and then watching them lose it, \" romney's campaign said in an internet video released on tuesday. It's a powerful line of attack that connects failed ventures like solyndra, the bankrupt california-based solar panel maker that defaulted on a $ 535 million loan from the u.s. Energy department, with the trillion-dollar budget deficits and sluggish u.s. Economy of the past four years. But it might invite unfavorable comparison with romney's tenure as governor of massachusetts from 2003 to 2007. During that time, romney pursued a hands-on approach to economic development that favored some industries over others and, in some instances, singled out individual firms for special favors. Romney, a former private equity executive, backed tax breaks for film makers and biotech and medical-device manufacturers. His administration promoted venture capital-style funds that extended loans to start-up companies, some of which subsequently went out of business. As the state's top salesman, he led the effort to lure desirable employers through tax breaks and other incentives. \" that's what governors do - they have to pick winners and losers, \" said boston university professor fred bayles. \" it's a calculated risk that governors and state politicians take in an effort to get jobs. \" sometimes, as with bristol-myers squibb, romney's efforts panned out. Other times they did not. A $ 2.5 million state loan"
+            "A bay state solar panel developer that landed a state loan from mitt romney when he was massachusetts governor has gone belly up — a day after the gop presidential hopeful ripped president obama's green-energy investments. Lowell-based konarka technologies announced late yesterday that it filed for chapter 7 bankruptcy protection and will cease operations, lay off its 85 workers and liquidate."
         ],
         "raw_document": [
             "A bay state solar panel developer that landed a state loan from mitt romney when he was massachusetts governor has gone belly up — a day after the gop presidential hopeful ripped president obama's green-energy investments. Lowell-based konarka technologies announced late yesterday that it filed for chapter 7 bankruptcy protection and will cease operations, lay off its 85 workers and liquidate.",
@@ -2616,18 +2599,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 9894,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Employees of moorestown, nj-based bayada home health care have an extra reason to be thankful this holiday. \" i ' m taking $ 20 million, dividing it up and giving it to everybody, \" mark baiada, chairman and founder of the $ 1.4 billion private nursing company, announced at a staff holiday luncheon tuesday in philadelphia, per cbs philadelphia. Baiada tells yahoo news the money was doled out to 32,000 employees, including some recent retirees, based on years of service. New hires received $ 50, while some long-term workers received five figures. Pediatric nurse nicole green, who's worked at the company for three years, tells yahoo her payout will go toward her daughter's college tuition. \" everyone was in awe, \" the 48-year-old says. \" mark totally surprised us. \" \" i wanted to show some gratitude to everybody for all the hard work you've done taking care of our clients, \" baiada told the crowd at philadelphia's bellevue hotel. \" my wife ann watches the bachelor and said it was better than the most dramatic rose ceremony ever, \" the 71-year-old father of five jokes of his announcement, per yahoo. The move comes ahead of bayada's transition into a nonprofit early next year. \" i don't really need the money, so we're going to turn [ the company ] over to a newly created nonprofit that's all mission-driven, \" baiada previously told the philadelphia inquirer. Green expects to be around for the long haul. \" he didn't have to do this, \" she says of baiada. \" i've only worked at bayada a short time, but i ' m a lifelong employee now. \" ( in california, an example of \" what thanksgiving's about. \" )",
         "split": "train",
         "cleansed_document": [
             "Mark baiada, the founder of bayada home health care, a private nursing company, gifted his 32,000 employees with a combined $ 20 million. ( photo: bayada home health ) the founder of a home health care company who gave his employees $ 20 million in holiday gifts says the gesture is one of pure gratitude. Mark baiada, the chairman and founder of bayada home health care, a reported $ 1.4 billion private-nursing company in philadelphia, announced the gift tuesday during a staff holiday luncheon at the bellevue hotel in philadelphia. \"i ' m taking $ 20 million, dividing it up and giving it to everybody, \" baiada told the 100-person crowd, according to philadelphia news outlet cbs philly. \"i wanted to show some gratitude to everybody for all the hard work you've done taking care of our clients. \" the money was distributed to 32,000 employees and allocated depending on",
-            "Follow cbsphilly facebook &#124; twitter philadelphia ( cbs ) — it was billed as bayada's gratitude lunch. The employees — home healthcare workers — didn't know what they were in for, until the boss revealed the surprise. \"i ' m taking $ 20 million, dividing it up and giving it to everybody, \" bayada founder mark baiada. It was an emotional announcement from the owner. \"i wanted to show some gratitude to everybody for all the hard work you've done taking care of our clients, \" he said. Philadelphia police buy and deliver 450 thanksgiving dinners it's a $ 1.4 billion company with 26,000 employees. But for the guy who started it, people who know him say instead of being a greedy corporate giant, baiada is a generous boss who cares about his team. \"i just want to say thank you to them all,",
-            "First operating gain in years for the archdiocese of philadelphia first operating gain in years for the archdiocese of philadelphia nov 20 i write about the business side of health care, higher education, and the broader nonprofit sector, with occasional forays into the food and alcoholic beverage industries. J. Mark baiada could probably sell bayada home health care, the moorestown company he founded in 1975, for at least $ 1 billion, but instead, baiada and his family have decided to donate it to a charitable foundation, baiada said monday. \" nonprofits last longer, and i don't really need the money, so we're going to turn it over to a newly created nonprofit that's all mission-driven, \" baiada said. \" we're putting mission over money. \" bayada, with $ 1.1 billion in annual revenue, is the nation's 10th-largest home health"
+            "Follow cbsphilly facebook &#124; twitter philadelphia ( cbs ) — it was billed as bayada's gratitude lunch. The employees — home healthcare workers — didn't know what they were in for, until the boss revealed the surprise. \"i ' m taking $ 20 million, dividing it up and giving it to everybody, \" bayada founder mark baiada. It was an emotional announcement from the owner. \"i wanted to show some gratitude to everybody for all the hard work you've done taking care of our clients, \" he said. Philadelphia police buy and deliver 450 thanksgiving dinners it's a $ 1.4 billion company with 26,000 employees. But for the guy who started it, people who know him say instead of being a greedy corporate giant, baiada is a generous boss who cares about his team. \"i just want to say thank you to them all,"
         ],
         "raw_document": [
             "Mark baiada, the founder of bayada home health care, a private nursing company, gifted his 32,000 employees with a combined $ 20 million. ( photo: bayada home health ) the founder of a home health care company who gave his employees $ 20 million in holiday gifts says the gesture is one of pure gratitude. Mark baiada, the chairman and founder of bayada home health care, a reported $ 1.4 billion private-nursing company in philadelphia, announced the gift tuesday during a staff holiday luncheon at the bellevue hotel in philadelphia. \"i ' m taking $ 20 million, dividing it up and giving it to everybody, \" baiada told the 100-person crowd, according to philadelphia news outlet cbs philly. \"i wanted to show some gratitude to everybody for all the hard work you've done taking care of our clients. \" the money was distributed to 32,000 employees and allocated depending on",
@@ -2644,7 +2626,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2669,18 +2651,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 9896,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Barack obama is leading in ohio, pennsylvania, and florida, in part because voters don't think mitt romney is looking out for them, according to a new quinnipiac/new york times/cbs news poll. Both candidates polled fairly evenly when it came to how voters thought they'd handle the economy, which is overwhelmingly seen as the most important issue. But when asked if they believed obama \" cares about the needs and problems of people like you, \" a majority said he did in all three states — the opposite was true for romney. \" romney does have business experience, \" said one respondent. But \" he was in business in order to make a profit. There's nothing wrong with that, but how would that help the country? \" overall, obama is winning by 6 points in ohio and florida, and by 11 points in pennsylvania. The poll also shows that voters in those states strongly support his proposal to raise taxes on households making more than $ 250,000 a year, with support ranging from 58 % to 62 %, and opposition between 34 % and 37 %. See the full results here.",
         "split": "train",
         "cleansed_document": [
             "Photo advertisement continue reading the main story president obama is struggling to convince voters that he deserves to win re-election based on his handling of the economy, but his empathy and personal appeal give him an edge over mitt romney in ohio, florida and pennsylvania, according to quinnipiac university/new york times/cbs news polls. The contours of a deeply competitive presidential race, with three months remaining until the election, are highlighted in the new surveys of likely voters in the three battleground states. Mr. Romney drew fairly even with mr. Obama when voters were asked about managing the nation's financial situation, but his candidacy remains tested by concerns over his business background and his reluctance to release more of his tax returns. The polls in the three states, all of which mr. Obama carried in 2008, offer a window into challenges and opportunities for both candidates as august begins and they prepare for their",
-            "August 1, 2012 - obama hits 50 % in florida, ohio, pennsylvania, quinnipiac university/cbs news/new york times swing state poll finds clip information and download: flv file - for website ( 1920x1080 / 125mb ).mp4 file - for broadcast ( 1920x1080 / 76mb ) florida: obama 51 - romney 45 ohio: obama 50 - romney 44 pennsylvania: obama 53 - romney 42 president barack obama hits the magic 50 percent mark against gov. Mitt romney among likely voters in florida, ohio and pennsylvania, with wide support for his plan to hike federal income taxes on upper-income voters, according to a quinnipiac university/ cbs news/new york times swing state poll released today. This is the first measure of likely voters in these swing states and cannot be compared with earlier surveys of registered voters. Matching obama against romney in each of these key states - no one has won the white house",
-            "&#124; place your cursor over each bar to see demographic breakdowns. Related article » the presidential candidates are campaigning intensely in critical swing states, including colorado, florida, ohio, pennsylvania, virginia and wisconsin. A series of polls of likely voters conducted by quinnipiac university, the new york times and cbs news underscores the competitive nature of the election in these states. If the election for president were being held today, for whom would you vote? if you're undecided, do you lean more toward barack obama or mitt romney? compared with past presidential elections, how would you describe your level of enthusiasm about voting in this year's presidential election? the candidates just a week before election day, the latest polls find tight races in three key swing states. There is intense focus in these states, with most likely voters paying a lot of attention to the"
+            "August 1, 2012 - obama hits 50 % in florida, ohio, pennsylvania, quinnipiac university/cbs news/new york times swing state poll finds clip information and download: flv file - for website ( 1920x1080 / 125mb ).mp4 file - for broadcast ( 1920x1080 / 76mb ) florida: obama 51 - romney 45 ohio: obama 50 - romney 44 pennsylvania: obama 53 - romney 42 president barack obama hits the magic 50 percent mark against gov. Mitt romney among likely voters in florida, ohio and pennsylvania, with wide support for his plan to hike federal income taxes on upper-income voters, according to a quinnipiac university/ cbs news/new york times swing state poll released today. This is the first measure of likely voters in these swing states and cannot be compared with earlier surveys of registered voters. Matching obama against romney in each of these key states - no one has won the white house"
         ],
         "raw_document": [
             "Photo advertisement continue reading the main story president obama is struggling to convince voters that he deserves to win re-election based on his handling of the economy, but his empathy and personal appeal give him an edge over mitt romney in ohio, florida and pennsylvania, according to quinnipiac university/new york times/cbs news polls. The contours of a deeply competitive presidential race, with three months remaining until the election, are highlighted in the new surveys of likely voters in the three battleground states. Mr. Romney drew fairly even with mr. Obama when voters were asked about managing the nation's financial situation, but his candidacy remains tested by concerns over his business background and his reluctance to release more of his tax returns. The polls in the three states, all of which mr. Obama carried in 2008, offer a window into challenges and opportunities for both candidates as august begins and they prepare for their",
@@ -2697,7 +2678,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {

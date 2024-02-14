@@ -244,7 +244,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -269,7 +269,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -299,14 +299,13 @@
     },
     {
         "idx": 54911,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Comets stink, and not just because they have the potential to cause cataclysmic devastation if they ever came hurtling through our atmosphere and made impact with earth. These \" cosmic snowballs of frozen gases, rock, and dust roughly the size of a small town \" ( as described by nasa ) literally stink to high heaven, according to scientists at switzerland's university of bern. One comet does, anyway: researchers analyzed the \" perfume \" of comet 67p/churyumov-gerasimenko and said that its bo is apparently a combo of \" rotten eggs, horse urine, formaldehyde, bitter almonds, alcohol, vinegar, and a hint of sweet ether, \" the ap reports. \" if you could smell the comet, you would probably wish that you hadn't, \" reads a blog post on the european space agency site. The scientists were able to surmise what the comet would smell like by examining the gas emitted by the \" coma, \" the comet's head, phys.org reports. Luckily, instead of a squeamish human, a mass spectrometer aboard the space probe rosetta was assigned the task of parsing out the perfumed molecules of 67p, including ammonia, methane, hydrogen sulfide, hydrogen cyanide, and \" the pungent, suffocating ( odor ) of formaldehyde, \" notes the esa post. The probe caught up to the comet in august after chasing it nearly 4 billion miles; it will be sending its philae robot lander onto the comet proper on nov. 12, nasa reports. And it appears the comet's odoriferous odyssey is just beginning: the lead scientist on the project says that as 67p gets closer to the sun, it will start stinking up the cosmos even more. ( whatever happened to nasa's plans to harpoon comets? )",
         "split": "test",
         "cleansed_document": [
             "That heady bouquet, according to swiss researchers, is the ' perfume ' of comet 67p/churyumov-gerasimenko. Scientists at the university of bern said thursday they have determined what the comet would smell like by analyzing the chemicals in its coma, the fuzzy head surrounding the nucleus. For this, they used one of the instruments aboard the european spacecraft rosetta that is preparing to drop a lander onto the comet's icy surface nov. 12. Project leader kathrin altwegg of the university of bern said the aroma will get stronger as 67p gets closer to the sun, causing it to release more gas and form the coma characteristic of comets.",
             "With inputs from kathrin altwegg, rosina science team, university of bern. Since early august, the rosetta orbiter sensor for ion and neutral analysis ( rosina ) has been 'sniffing the fumes ' of 67p/c-g with its two mass spectrometers. As reported previously in this blog, even though the comet is still more than 400 million kilometres from the sun, the mixture of molecules detected in the comet's coma is surprisingly rich already. Before arriving at 67p/c-g, the rosina team thought that at these vast distances from the sun, its relatively low intensity would only release the most volatile molecules via sublimation, namely carbon dioxide and carbon monoxide. However, rosina has",
-            "Rotten eggs, horse pee, alcohol and bitter almonds: this is the bouquet of odours you would smell if a comet in deep space could be brought back to earth, european scientists said rotten eggs, horse pee, alcohol and bitter almonds: this is the bouquet of odours you would smell if a comet in deep space could be brought back to earth, european scientists said on thursday. An instrument aboard the probe rosetta has detected some intriguing chemical signatures from comet 67p/churyumov-gerasimenko since their rendezvous in deep space in august, they said. Molecules include ammonia, methane, hydrogen sulphide, hydrogen cyanide and formaldehyde. \" if you could smell the comet, you",
-            "[ image-36 ] the european space agency's rosetta mission will deploy its lander, philae, to the surface of comet 67p/churyumov – gerasimenko on nov. 12. Rosetta is an international mission spearheaded by the european space agency with support and instruments provided by nasa. Philae's landing site, currently known as site j, is located on the smaller of the comet's two \" lobes, \" with a backup site on the larger lobe. The sites were selected just six weeks after rosetta's aug. 6 arrival at the comet, following the spacecraft's 10-year journey through the solar system. In that time, the rosetta mission has been conducting an"
+            "Rotten eggs, horse pee, alcohol and bitter almonds: this is the bouquet of odours you would smell if a comet in deep space could be brought back to earth, european scientists said rotten eggs, horse pee, alcohol and bitter almonds: this is the bouquet of odours you would smell if a comet in deep space could be brought back to earth, european scientists said on thursday. An instrument aboard the probe rosetta has detected some intriguing chemical signatures from comet 67p/churyumov-gerasimenko since their rendezvous in deep space in august, they said. Molecules include ammonia, methane, hydrogen sulphide, hydrogen cyanide and formaldehyde. \" if you could smell the comet, you"
         ],
         "raw_document": [
             "That heady bouquet, according to swiss researchers, is the ' perfume ' of comet 67p/churyumov-gerasimenko. Scientists at the university of bern said thursday they have determined what the comet would smell like by analyzing the chemicals in its coma, the fuzzy head surrounding the nucleus. For this, they used one of the instruments aboard the european spacecraft rosetta that is preparing to drop a lander onto the comet's icy surface nov. 12. Project leader kathrin altwegg of the university of bern said the aroma will get stronger as 67p gets closer to the sun, causing it to release more gas and form the coma characteristic of comets.",
@@ -325,7 +324,7 @@
             "0": 2,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -410,13 +409,12 @@
     },
     {
         "idx": 54915,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "\" we are not thugs. We are professionals, \" says the leader of a black policing group, addressing a speech in which president trump urged officers to not be \" too nice \" when arresting suspects. Perry tarrant of the national organization of black law enforcement executives met with ag jeff sessions on tuesday to discuss trump's comments, which he said could have \" potential harm … in detracting from the legitimacy [ of police ], and detracting from the trust that local law enforcement and communities have, \" per the los angeles times. Sessions said he would \" hold any officer responsible [ for ] breaking the law, \" noting it took \" one bad officer to destroy the reputations of so many \" who \" serve with honor and distinction, \" reports usa today. Tarrant isn't the only one with a grievance. In a saturday memo, acting dea chief chuck rosenberg said he had \" an obligation to speak out when something is wrong, \" then addressed how the president had \" condoned police misconduct regarding the treatment of individuals placed under arrest by law enforcement. \" rosenberg encouraged agents to \" earn and keep the public trust and continue to hold ourselves to the very highest standards. \" trump has yet to elaborate on his comments made to law enforcement officers in brentwood, ny, on friday. At the time, he suggested officers need not shield suspects ' heads when placing them in police cars. Sarah huckabee sanders said monday, per cnn, \" it wasn't a directive, it was a joke. \"",
         "split": "test",
         "cleansed_document": [
             "Acting dea chief says president trump ' condoned police misconduct ' in staff memo president donald trump appeared to advocate rougher treatment of people in police custody during a speech in new york. He spoke dismissively of arresting officers who protect suspects ' heads while putting them in police cars. ( july 28 ) ap after president trump made controversial comments that appeared to support police violence, the acting head of the drug enforcement administration sent a memo instructing agents to maintain core values of respect and compassion when dealing with suspects. In the memo sent saturday, acting dea chief chuck rosenberg said the president had \" condoned police misconduct regarding the treatment of individuals placed under arrest by law enforcement. \" rosenberg noted that he did not want to advance any sort of agenda, nor did he believe that his agents would mistreat defendants. Still, he listed \" core values \" for agents to follow, including: rule of law, respect and compassion, service, devotion, integrity, accountability, leadership and courage and diversity",
-            "Story highlights \" when you see these thugs being thrown into the back of a paddy wagon. You just see them thrown in -- rough. I said, ' please don't be too nice, ' \" trump said friday dea acting administrator chuck rosenberg in email to employees: \" i write to offer a strong reaffirmation of the operating principles to which we, as law enforcement professionals, adhere. \" police departments have criticized trump's comments washington ( cnn ) less than 24 hours after president donald trump told an audience full of police officers in new york to be \" rough \" on suspects, the acting head of the drug enforcement administration sent his employees an email that rebuked the president's suggestion. \" the president, in remarks delivered yesterday in new york, condoned police misconduct regarding the treatment of individuals placed under arrest by law enforcement, \" dea acting administrator chuck rosenberg wrote in a message to dea's \" global distribution \" list saturday. Just watched trump to",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Story highlights \" when you see these thugs being thrown into the back of a paddy wagon. You just see them thrown in -- rough. I said, ' please don't be too nice, ' \" trump said friday dea acting administrator chuck rosenberg in email to employees: \" i write to offer a strong reaffirmation of the operating principles to which we, as law enforcement professionals, adhere. \" police departments have criticized trump's comments washington ( cnn ) less than 24 hours after president donald trump told an audience full of police officers in new york to be \" rough \" on suspects, the acting head of the drug enforcement administration sent his employees an email that rebuked the president's suggestion. \" the president, in remarks delivered yesterday in new york, condoned police misconduct regarding the treatment of individuals placed under arrest by law enforcement, \" dea acting administrator chuck rosenberg wrote in a message to dea's \" global distribution \" list saturday. Just watched trump to"
         ],
         "raw_document": [
             "Acting dea chief says president trump ' condoned police misconduct ' in staff memo president donald trump appeared to advocate rougher treatment of people in police custody during a speech in new york. He spoke dismissively of arresting officers who protect suspects ' heads while putting them in police cars. ( july 28 ) ap after president trump made controversial comments that appeared to support police violence, the acting head of the drug enforcement administration sent a memo instructing agents to maintain core values of respect and compassion when dealing with suspects. In the memo sent saturday, acting dea chief chuck rosenberg said the president had \" condoned police misconduct regarding the treatment of individuals placed under arrest by law enforcement. \" rosenberg noted that he did not want to advance any sort of agenda, nor did he believe that his agents would mistreat defendants. Still, he listed \" core values \" for agents to follow, including: rule of law, respect and compassion, service, devotion, integrity, accountability, leadership and courage and diversity",
@@ -433,7 +431,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -595,17 +593,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 54922,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Spain's prince felipe became king felipe vi at midnight as the abdication of his father, king juan carlos, became official. The occasion was fairly low-key, with no foreign heads of state present and no huge state banquet, which the palace says was \" in keeping with the criteria of austerity that the times recommend, \" the ap reports. The 46-year-old king was later proclaimed head of state in a parliamentary ceremony where he promised to be a monarch \" who is ready listen and understand, warn and advise as well as to defend the public interest at all times, \" the bbc reports. The new king spoke of the need to \" look ahead to the spain we are building together as i begin this reign, \" reports cnn, which notes that while the monarchy remains popular in spain, the royal family has been accused of corruption and excess during the country's economic crisis — and juan carlos ' image suffered after he went on a luxurious elephant-hunting trip in the middle of the recession. Felipe and his wife, who is now queen letizia, will be driven through the streets of madrid before appearing at the palace but they may find that many spaniards aren't in the mood for cheering: the country's soccer team, which won the world cup in 2010, crashed out of the tournament last night with a 2-0 loss to chile.",
         "split": "test",
         "cleansed_document": [
-            "Madrid ( cnn ) -- flanked by his family and before spain's parliament, felipe vi was formally proclaimed the new king of spain thursday, following the abdication of his father, juan carlos. The new king, clad in military uniform, promised to head a changed monarchy \" for new times, \" in an address before the packed parliamentary chamber. \" we have a great country, we are a great nation -- let us trust in it, \" he told the packed parliamentary chamber and the millions watching nationwide. After swearing an oath promising to uphold the constitution, the new monarch expressed his respect for the parliament and the nation -- as well as his own emotion at becoming monarch. Felipe paid tribute to his father's \" extraordinary \" legacy over nearly four decades, including his leadership as the country returned to democracy following the death of dictator francisco franco in 1975. He also thanked his mother, queen sofia, for a lifetime of hard work and devotion to the spanish people. Felipe spoke of the need for a monarch to unify his country and to work with its political leaders, a message with added significance at a time when many in the country's catalonia region want a referendum on independence. He also vowed to carry out his duties, remain loyal to his nation and work for",
-            "Madrid ( ap ) — crown prince felipe ascended to the spanish throne at midnight wednesday, but there weren't any ritzy official celebrations. Spain's king juan carlos, 2nd left is kissed by queen sofia, left in the presence of spain's crown prince felipe, 3rd left and princess letizia after he signed an abdication law during a ceremony at the... ( associated press ) spain's king juan carlos, left, signs an abdication law in the presence of queen sofia, spain's crown prince felipe and princess letizia during a ceremony at the royal palace in madrid, spain, wednesday... ( associated press ) spain's queen sofia, left stands with spanish crown prince felipe, 2nd left, king juan carlos, 3rd left, and princess letizia during a ceremony at the royal palace in madrid, spain, wednesday june 18,... ( associated press ) spain's crown prince felipe, centre right, embraces his father, spain's king juan carlos in the presence of queen sofia, left and princess letizia after he signed an abdication law during a ceremony... ( associated press ) queen sofia, left, spain's king juan carlos, 2nd left, spain's crown prince felipe, 3rd left and princess letizia stand during a ceremony where king juan carlos"
+            "Madrid ( cnn ) -- flanked by his family and before spain's parliament, felipe vi was formally proclaimed the new king of spain thursday, following the abdication of his father, juan carlos. The new king, clad in military uniform, promised to head a changed monarchy \" for new times, \" in an address before the packed parliamentary chamber. \" we have a great country, we are a great nation -- let us trust in it, \" he told the packed parliamentary chamber and the millions watching nationwide. After swearing an oath promising to uphold the constitution, the new monarch expressed his respect for the parliament and the nation -- as well as his own emotion at becoming monarch. Felipe paid tribute to his father's \" extraordinary \" legacy over nearly four decades, including his leadership as the country returned to democracy following the death of dictator francisco franco in 1975. He also thanked his mother, queen sofia, for a lifetime of hard work and devotion to the spanish people. Felipe spoke of the need for a monarch to unify his country and to work with its political leaders, a message with added significance at a time when many in the country's catalonia region want a referendum on independence. He also vowed to carry out his duties, remain loyal to his nation and work for"
         ],
         "raw_document": [
             "Madrid ( cnn ) -- flanked by his family and before spain's parliament, felipe vi was formally proclaimed the new king of spain thursday, following the abdication of his father, juan carlos. The new king, clad in military uniform, promised to head a changed monarchy \" for new times, \" in an address before the packed parliamentary chamber. \" we have a great country, we are a great nation -- let us trust in it, \" he told the packed parliamentary chamber and the millions watching nationwide. After swearing an oath promising to uphold the constitution, the new monarch expressed his respect for the parliament and the nation -- as well as his own emotion at becoming monarch. Felipe paid tribute to his father's \" extraordinary \" legacy over nearly four decades, including his leadership as the country returned to democracy following the death of dictator francisco franco in 1975. He also thanked his mother, queen sofia, for a lifetime of hard work and devotion to the spanish people. Felipe spoke of the need for a monarch to unify his country and to work with its political leaders, a message with added significance at a time when many in the country's catalonia region want a referendum on independence. He also vowed to carry out his duties, remain loyal to his nation and work for",
@@ -620,7 +617,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -675,12 +672,11 @@
     },
     {
         "idx": 54925,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Kellyanne conway says she was just trying to capture a big moment, not create one. In an interview on lou dobbs tonight on tuesday, the white house adviser says the viral photo of her kneeling on an oval office couch simply caught her doing what she was asked: \" what happened is we had the largest gathering of men and women to date in the oval office for a picture... I was being asked to take a picture in a crowded room with the press behind us, and i was asked to take a certain angle and was doing exactly that, \" she told dobbs. \" i certainly meant no disrespect. I didn't mean to have my feet on the couch. \" then she flipped the criticism on its head: \" if we started a trend here, where people are outwardly talking about greater respect for the office of the president and its current occupant, then perhaps that's something positive to come out \" of this. And in emails to the washington post, conway tried to shift the attention back where she felt it should be: \" on the actual visit and the incredible, important work of these men and women at [ historically black colleges and universities ]. \" trump aide omarosa manigault, who was present, also framed the moment to the post, calling it \" very sweet... To be honest. She looked down at the picture after she got it, and i looked at her and said, ' kellyanne, did you get a good shot? '... She tried again; she positioned herself to get a better picture. It really was at my encouragement for her to try to capture such an important, historic moment. \" ( check out more reaction to the photo here and here. )",
         "split": "test",
         "cleansed_document": [
-            "On feb. 27, president donald trump met with several leaders of historically black universities and colleges at the oval office. In one peculiar moment, kellyanne conway knelt on the couch to take a candid picture, her heels touching the cushions. Given the internet's voracious appetite for memes related to conway and the trump administration at large, the cringe-worthy moment was instantly spotlighted. Let's break this one down a little bit. It's really weird that conway would choose to so casually sit like this during such a seemingly ceremonious meeting. It is, however, detrimental to obsess over the moment since the existing administration needs to be held accountable for offenses larger than this one. As someone on twitter astutely pointed out, \" shoes on the oval office couch are least of our concerns. \" now that we've gotten that off our chest, we think it's fair to highlight some of the jokes and memes that made light of the truly ridiculous moment because, if anything, we could all use some laughter.",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "On feb. 27, president donald trump met with several leaders of historically black universities and colleges at the oval office. In one peculiar moment, kellyanne conway knelt on the couch to take a candid picture, her heels touching the cushions. Given the internet's voracious appetite for memes related to conway and the trump administration at large, the cringe-worthy moment was instantly spotlighted. Let's break this one down a little bit. It's really weird that conway would choose to so casually sit like this during such a seemingly ceremonious meeting. It is, however, detrimental to obsess over the moment since the existing administration needs to be held accountable for offenses larger than this one. As someone on twitter astutely pointed out, \" shoes on the oval office couch are least of our concerns. \" now that we've gotten that off our chest, we think it's fair to highlight some of the jokes and memes that made light of the truly ridiculous moment because, if anything, we could all use some laughter."
         ],
         "raw_document": [
             "On feb. 27, president donald trump met with several leaders of historically black universities and colleges at the oval office. In one peculiar moment, kellyanne conway knelt on the couch to take a candid picture, her heels touching the cushions. Given the internet's voracious appetite for memes related to conway and the trump administration at large, the cringe-worthy moment was instantly spotlighted. Let's break this one down a little bit. It's really weird that conway would choose to so casually sit like this during such a seemingly ceremonious meeting. It is, however, detrimental to obsess over the moment since the existing administration needs to be held accountable for offenses larger than this one. As someone on twitter astutely pointed out, \" shoes on the oval office couch are least of our concerns. \" now that we've gotten that off our chest, we think it's fair to highlight some of the jokes and memes that made light of the truly ridiculous moment because, if anything, we could all use some laughter.",
@@ -695,19 +691,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 54926,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "While some fret about the government coming to take their guns, an increasing number of musicians and comedians are coming for your cellphones. The washington post reports dave chappelle, louis ck, the lumineers, alicia keys, chris rock, and guns n ' roses are among the artists using a new device called yondr to separate fans from their phones during performances. Yondr is a small pouch for your phone that is locked by venue staff. You can carry it with you, but your phone is unusable for the duration of the show. \"if you haven't been to a phone-free show, you just don't know what you're missing, \" yondr founder graham dugoni says. \"there's something about living in real life that can't be replicated. \" at least one california high school is even using the pouches, according to cbs news. Artists are not only worried about phones ruining the experience — chappelle tells cbs people are \" vastly more fun \" to perform for when they aren't on their phones — but about their work being immediately posted to youtube and instagram. \"we don't want the first time you ever hear a song to be some [ lousy ] mp3 somebody captured on their phone, \" keys ' manager tells the post. While many fans are understanding, not everyone is willing to go without their phone for a few hours. \" my phone is how i keep my memory, \" one man waiting in line to see keys says. \" if you don't want your music heard, then don't perform it. \" today reports that others worry — in the wake of mass shootings — about the risk if fans don't have immediate access to their phones in an emergency. ( this paris attack survivor credits his phone with saving his life. )",
         "split": "test",
         "cleansed_document": [
             "In their attachment to their smartphones, the students at mercy high in burlingame, california are typical teenagers. But when they enter mr. Offield's english class, the phones get locked into little bags, which can't be opened until class is over. \" by separating something that's primarily for their social life, i ' m hoping that it brings them more in the moment, \" offield said. Graham dugoni is the founder of the startup company, yondr, that makes the bags. He's attempting to break cellphone addiction and \" help people engage with each other in a real way. \" \" what it symbolizes is a movement, and the bag is just the tool, \" dugoni said. The yondr pouch locks much like a security tag in a clothing store. If",
             "We ' ll need to see your phone, please: an audience member places her cellphone into a yondr pouch before entering the aztec theatre in san antonio for a june 14 dave chappelle show where a phone-free policy was enforced. ( bahram mark sobhani/for the washington post ) on a cool manhattan night, dj walton, who helps manage alicia keys, steps outside the highline ballroom to tell the guy at the door who, exactly, he may allow to bring a cellphone into the singer's sold-out gig. The list is very short. \"like, queen latifah, \" says walton. Benji spanier nods and spreads the news to everybody else. This is a \"phone-free event, \" he tells fans waiting in line. And that doesn't mean airplane mode. Spanier holds a gray, rubbery pouch in",
-            "Get the latest from today sign up for our newsletter the lights dim, the music starts and the phones and cameras come out — that's what live shows are like these days. Filming the event has become as much a part of the concert-going experience as swaying to the music. However, some artists are no fans of that habit. Adele recently — and bluntly — told a fan to pack up her pro recording equipment during a performance in italy. But alicia keys and others are taking it a step further and banning phones altogether. They're not actually preventing attendees from entering the arena with the devices. But they are preventing them from using them, with the help of a small case that makes it impossible to access the phones during a show. Related: ' honestly beautiful ':",
-            "\" the highest and most beautiful things in life are not to be heard about, nor read about, nor seen but, if one will, are to be lived. \" – søren kierkegaard"
+            "Get the latest from today sign up for our newsletter the lights dim, the music starts and the phones and cameras come out — that's what live shows are like these days. Filming the event has become as much a part of the concert-going experience as swaying to the music. However, some artists are no fans of that habit. Adele recently — and bluntly — told a fan to pack up her pro recording equipment during a performance in italy. But alicia keys and others are taking it a step further and banning phones altogether. They're not actually preventing attendees from entering the arena with the devices. But they are preventing them from using them, with the help of a small case that makes it impossible to access the phones during a show. Related: ' honestly beautiful ':"
         ],
         "raw_document": [
             "In their attachment to their smartphones, the students at mercy high in burlingame, california are typical teenagers. But when they enter mr. Offield's english class, the phones get locked into little bags, which can't be opened until class is over. \" by separating something that's primarily for their social life, i ' m hoping that it brings them more in the moment, \" offield said. Graham dugoni is the founder of the startup company, yondr, that makes the bags. He's attempting to break cellphone addiction and \" help people engage with each other in a real way. \" \" what it symbolizes is a movement, and the bag is just the tool, \" dugoni said. The yondr pouch locks much like a security tag in a clothing store. If",
@@ -726,7 +721,7 @@
             "0": 2,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -775,7 +770,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -828,7 +823,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -956,17 +951,16 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 54936,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The 26-year-old woman sought by french police as the widow and potential accomplice of paris deli shooter amedy coulibaly is in syria, turkey's foreign minister confirmed today. The timeline that mevlut cavusoglu is offering up indicates that hayat boumeddiene crossed over into syria after wednesday's slaughter at charlie hebdo, but potentially before her husband's killing spree began: citing \" telephone recordings, \" cavusoglu says that boumeddiene flew from madrid to turkey on jan. 2, then entered syria on thursday, reports nbc news — the day her common-law husband is accused of killing a french policewoman. \" we provided [ french authorities ] with the information as soon as we got it, without them even asking, \" he says. Germany, at least, is unimpressed; its domestic spy chief said today that turkey is a \" key country \" that needs to do more to stem the tide of radicals crossing through it into syria, usa today reports. It's estimated that north of 90 % of extremists headed to syria cross through turkey. France confirmed today that it's still seeking at least one probable accomplice, with pm manuel valls saying that \" the threat is still present \" and \" the hunt will go on. \" the ap has more on boumeddiene's movements: she apparently stayed at an istanbul hotel with an unnamed 23-year-old man before heading for turkey's border with syria. Her last cell transmission came from a border town on thursday, and she apparently crossed over into isis-controlled territory. Meanwhile, video emerged yesterday of coulibaly declaring his allegiance to isis.",
         "split": "test",
         "cleansed_document": [
-            "French prime minister manuel valls told france's bfm tv on monday that there was \" without a doubt \" at least one accomplice to the deadly attacks in paris and vowed that \" the hunt will go on. \" it was not clear whether he was talking about boumeddiene or an additional suspect. Turkish foreign minister told anadoluthe country's intelligence services tracked boumedienne from her arrival in the country on jan. 2. French officials also alerted the turkish government that boumedienne had traveled to turkey with a companion named as mehdi sabri belhoucine, an official close to the investigation and a member of the police told nbc news on monday. Turkish intelligence then tracked boumedienne via her cellphone and listened to her conversations, discovering that she had arrived in istanbul's sabiha gokcen international airport stayed on the asian side of the city, the sources said. Cctv video from the airport emerged on monday",
-            "Close usa today's editor at large/media columnist rem rieder discusses charie hebdo's new magazine cover that came out today and the mag to come out on wednesday. Usa today a handout released on january 12, 2015, in paris by french newspaper charlie hebdo shows the frontpage of the upcoming \" survivors \" edition of the french satirical weekly with a cartoon of the prophet mohammed holding up a \" je suis charlie \" ( ' i am charlie ' ) sign under the words: \" tout est pardonne \" ( ' all is forgiven ' ). ( photo: ho, afp/getty images ) the latest issue of french satirical newspaper charlie hebdo, published by survivors of last week's deadly terror attack, features a cover cartoon of the prophet mohammed holding a sign that says \" je suis charlie, \" an echo of the slogan of support for freedom of speech"
+            "French prime minister manuel valls told france's bfm tv on monday that there was \" without a doubt \" at least one accomplice to the deadly attacks in paris and vowed that \" the hunt will go on. \" it was not clear whether he was talking about boumeddiene or an additional suspect. Turkish foreign minister told anadoluthe country's intelligence services tracked boumedienne from her arrival in the country on jan. 2. French officials also alerted the turkish government that boumedienne had traveled to turkey with a companion named as mehdi sabri belhoucine, an official close to the investigation and a member of the police told nbc news on monday. Turkish intelligence then tracked boumedienne via her cellphone and listened to her conversations, discovering that she had arrived in istanbul's sabiha gokcen international airport stayed on the asian side of the city, the sources said. Cctv video from the airport emerged on monday"
         ],
         "raw_document": [
             "French prime minister manuel valls told france's bfm tv on monday that there was \" without a doubt \" at least one accomplice to the deadly attacks in paris and vowed that \" the hunt will go on. \" it was not clear whether he was talking about boumeddiene or an additional suspect. Turkish foreign minister told anadoluthe country's intelligence services tracked boumedienne from her arrival in the country on jan. 2. French officials also alerted the turkish government that boumedienne had traveled to turkey with a companion named as mehdi sabri belhoucine, an official close to the investigation and a member of the police told nbc news on monday. Turkish intelligence then tracked boumedienne via her cellphone and listened to her conversations, discovering that she had arrived in istanbul's sabiha gokcen international airport stayed on the asian side of the city, the sources said. Cctv video from the airport emerged on monday",
@@ -983,7 +977,7 @@
         "vote_count": {
             "0": 0,
             "1": 3,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1269,12 +1263,11 @@
     },
     {
         "idx": 54947,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Chris kluwe made a name for himself not only as an nfl punter but as a ( very ) outspoken advocate for gay marriage. Now kluwe has taken to deadspin to allege that he got cut from the minnesota vikings after eight years by special teams coach mike priefer, \" a bigot who didn't agree with the cause i was working for, \" because of his views. He also calls out \" two cowards, \" ( recently fired ) head coach leslie frazier and team gm rick spielman for not standing up to priefer. In the lengthy account, kluwe recounts his controversial 2012 season and subsequent firing. \" if there's one thing i hope to achieve from sharing this story, it's to make sure that mike priefer never holds a coaching position again in the nfl, and ideally never coaches at any level, \" writes kluwe, who quotes the coach at one point as suggesting that all gay people be rounded up on an island and nuked. \" it's inexcusable that someone would use his status as a teacher and a role model to proselytize on behalf of his own doctrine of intolerance, and i hope he never gets another opportunity to pass his example along to anyone else. \" the team responded this afternoon by saying it would \" thoroughly review this matter, \" reports the minneapolis star tribune, but it insisted that kluwe got fired for football performance, not his views on marriage equality. Click to read kluwe's full post.",
         "split": "test",
         "cleansed_document": [
-            "Hello. My name is chris kluwe, and for eight years i was the punter for the minnesota vikings. In may 2013, the vikings released me from the team. At the time, quite a few people asked me if i thought it was because of my recent activism for same-sex marriage rights, and i was very careful in how i answered the question. My answer, verbatim, was always, \" i honestly don't know, because i ' m not in those meetings with the coaches and administrative people. \" this is a true answer. I honestly don't know if my activism was the reason i got fired. However, i ' m pretty confident it was. Allow myself to tell you a story about... Myself. The following is a record of what happened to me during my 2012 season with the minnesota vikings, written down immediately after the 2013 draft in april, when i realized what was happening, and revised recently only for clarity. I tried to keep things as objective as possible, and anything you see in quotes are words that i directly recall being said to me. This is a story about how actions have consequences, no matter how just or moral you think your cause happens to be, and it's a story about the price people all too often pay for speaking out. Advertisement today, april 30, 2013, i am writing an account of events that transpired during my time with the minnesota vikings during the 2012 nfl season and leading into the 2013 season ( so i don't forget them in case it is necessary to recall what happened ). During the summer of 2012, i was approached by a group called minnesotans for marriage equality, which asked if i would be interested in helping defeat what was known as the minnesota gay marriage amendment. The proposed amendment would have defined marriage as \" only a union of one man and one woman. \" ( it was voted down, and same-sex marriage is now legal in minnesota. ) i said yes, but that i would have to clear it with the team first. After talking to the vikings legal department, i was given the go-ahead to speak on the issue as long as i made it clear i was acting as a private citizen, not as a spokesman for the vikings, which i felt was fair and complied with. I did several radio advertisements and a dinner appearance for minnesotans for marriage equality",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Hello. My name is chris kluwe, and for eight years i was the punter for the minnesota vikings. In may 2013, the vikings released me from the team. At the time, quite a few people asked me if i thought it was because of my recent activism for same-sex marriage rights, and i was very careful in how i answered the question. My answer, verbatim, was always, \" i honestly don't know, because i ' m not in those meetings with the coaches and administrative people. \" this is a true answer. I honestly don't know if my activism was the reason i got fired. However, i ' m pretty confident it was. Allow myself to tell you a story about... Myself. The following is a record of what happened to me during my 2012 season with the minnesota vikings, written down immediately after the 2013 draft in april, when i realized what was happening, and revised recently only for clarity. I tried to keep things as objective as possible, and anything you see in quotes are words that i directly recall being said to me. This is a story about how actions have consequences, no matter how just or moral you think your cause happens to be, and it's a story about the price people all too often pay for speaking out. Advertisement today, april 30, 2013, i am writing an account of events that transpired during my time with the minnesota vikings during the 2012 nfl season and leading into the 2013 season ( so i don't forget them in case it is necessary to recall what happened ). During the summer of 2012, i was approached by a group called minnesotans for marriage equality, which asked if i would be interested in helping defeat what was known as the minnesota gay marriage amendment. The proposed amendment would have defined marriage as \" only a union of one man and one woman. \" ( it was voted down, and same-sex marriage is now legal in minnesota. ) i said yes, but that i would have to clear it with the team first. After talking to the vikings legal department, i was given the go-ahead to speak on the issue as long as i made it clear i was acting as a private citizen, not as a spokesman for the vikings, which i felt was fair and complied with. I did several radio advertisements and a dinner appearance for minnesotans for marriage equality"
         ],
         "raw_document": [
             "Hello. My name is chris kluwe, and for eight years i was the punter for the minnesota vikings. In may 2013, the vikings released me from the team. At the time, quite a few people asked me if i thought it was because of my recent activism for same-sex marriage rights, and i was very careful in how i answered the question. My answer, verbatim, was always, \" i honestly don't know, because i ' m not in those meetings with the coaches and administrative people. \" this is a true answer. I honestly don't know if my activism was the reason i got fired. However, i ' m pretty confident it was. Allow myself to tell you a story about... Myself. The following is a record of what happened to me during my 2012 season with the minnesota vikings, written down immediately after the 2013 draft in april, when i realized what was happening, and revised recently only for clarity. I tried to keep things as objective as possible, and anything you see in quotes are words that i directly recall being said to me. This is a story about how actions have consequences, no matter how just or moral you think your cause happens to be, and it's a story about the price people all too often pay for speaking out. Advertisement today, april 30, 2013, i am writing an account of events that transpired during my time with the minnesota vikings during the 2012 nfl season and leading into the 2013 season ( so i don't forget them in case it is necessary to recall what happened ). During the summer of 2012, i was approached by a group called minnesotans for marriage equality, which asked if i would be interested in helping defeat what was known as the minnesota gay marriage amendment. The proposed amendment would have defined marriage as \" only a union of one man and one woman. \" ( it was voted down, and same-sex marriage is now legal in minnesota. ) i said yes, but that i would have to clear it with the team first. After talking to the vikings legal department, i was given the go-ahead to speak on the issue as long as i made it clear i was acting as a private citizen, not as a spokesman for the vikings, which i felt was fair and complied with. I did several radio advertisements and a dinner appearance for minnesotans for marriage equality",
@@ -1289,7 +1282,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1352,13 +1345,12 @@
     },
     {
         "idx": 54950,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A man has been charged with holding eight women against their will inside a million-dollar home in the suburbs of atlanta, nbc news reports. Authorities say 33-year-old kenndric roberts met the women online and offered them modeling jobs. But once they moved into the 6,800-square-foot, five-bedroom house he was renting, things changed, according to the atlanta journal-constitution. The women — who range in age from 19 to 22 — tell police roberts threatened them if they tried to leave, forced them to work at strip clubs, threatened their families, and made them get plastic surgery. One of the women referred to roberts as \" our boss, \" the ap reports. It's unclear how long the women had been in the home. What authorities now believe was a human trafficking operation was discovered tuesday when one of the women called 911 and asked police to help her escape a \" very bad situation \" in a \" very nice house. \" she said a man who had a \" house full of girls \" was threatening to kill her if she left. Police responded and found the eight women. Roberts was arrested on wednesday. He's been charged with multiple counts of false imprisonment, trafficking persons for labor, and more. Federal charges are also possible. The women have been returned to their families or placed in safe houses.",
         "split": "test",
         "cleansed_document": [
             "Atlanta ( ap ) — a man hired women to work as dancers inside a million-dollar mansion and threatened to kill at least one of them if she tried to leave, according to a 911 call. Officers helped eight women leave the home after the 911 call was made tuesday morning, police said wednesday in a news release. In the 911 recording, the caller cryptically asks the dispatcher for help getting out of a \" bad situation. \" under questioning from the dispatcher, the woman describes a boss who carries a gun, sent her to get plastic surgery, tells her she can leave anytime she wants — but threatens to kill her if she does. Kenndric roberts, 33, faces charges of false imprisonment and trafficking a person for labor. He was in jail with an initial court appearance scheduled for thursday. It was not immediately clear if he had an attorney who could comment on the charges. \" what we believe is he was luring these women to this house with promises of either modeling careers or financial assistance. We're not 100 percent sure on that. The investigation is continuing, \" sandy springs police sgt. Sam worsham told wsb-tv. As the",
-            "The voice was calm and quiet and desperate: \" i ' m in a very bad situation, and i need to get out. \" the caller, a 20-year-old woman, told a georgia dispatcher that she was being held against her will. And it wasn't just her. \" it's a house full of girls and... If i try to leave, he ' ll try to kill me and stuff, \" she said, prompting the dispatcher to ask, \" wait — did you say you're in a house full of girls? \" play facebook twitter embed 911 call leads to human trafficking rescue 1: 21 the caller's tuesday morning plea helped georgia authorities to uncover what they believe is a case of human trafficking based out of a $ 1 million luxury home in the suburbs of atlanta. The suspect, kenndric roberts, 33, was charged with additional felonies friday, sandy springs police told nbc news. Roberts faces five counts of false imprisonment, five counts of trafficking persons for labor and two counts for possession of a firearm in the commission of a felony. An ak-47 and a glock.45-caliber handgun were found in the home",
-            "Just one more thing... We have sent you a verification email. Please check your email and click on the link to activate your ajc.com profile. If you do not receive the verification message within a few minutes of signing up, please check your spam or junk folder. Close"
+            "The voice was calm and quiet and desperate: \" i ' m in a very bad situation, and i need to get out. \" the caller, a 20-year-old woman, told a georgia dispatcher that she was being held against her will. And it wasn't just her. \" it's a house full of girls and... If i try to leave, he ' ll try to kill me and stuff, \" she said, prompting the dispatcher to ask, \" wait — did you say you're in a house full of girls? \" play facebook twitter embed 911 call leads to human trafficking rescue 1: 21 the caller's tuesday morning plea helped georgia authorities to uncover what they believe is a case of human trafficking based out of a $ 1 million luxury home in the suburbs of atlanta. The suspect, kenndric roberts, 33, was charged with additional felonies friday, sandy springs police told nbc news. Roberts faces five counts of false imprisonment, five counts of trafficking persons for labor and two counts for possession of a firearm in the commission of a felony. An ak-47 and a glock.45-caliber handgun were found in the home"
         ],
         "raw_document": [
             "Atlanta ( ap ) — a man hired women to work as dancers inside a million-dollar mansion and threatened to kill at least one of them if she tried to leave, according to a 911 call. Officers helped eight women leave the home after the 911 call was made tuesday morning, police said wednesday in a news release. In the 911 recording, the caller cryptically asks the dispatcher for help getting out of a \" bad situation. \" under questioning from the dispatcher, the woman describes a boss who carries a gun, sent her to get plastic surgery, tells her she can leave anytime she wants — but threatens to kill her if she does. Kenndric roberts, 33, faces charges of false imprisonment and trafficking a person for labor. He was in jail with an initial court appearance scheduled for thursday. It was not immediately clear if he had an attorney who could comment on the charges. \" what we believe is he was luring these women to this house with promises of either modeling careers or financial assistance. We're not 100 percent sure on that. The investigation is continuing, \" sandy springs police sgt. Sam worsham told wsb-tv. As the",
@@ -1375,7 +1367,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1478,7 +1470,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1533,13 +1525,12 @@
     },
     {
         "idx": 54957,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Looks like the honeymoon might be over: president-elect donald trump complained on twitter thursday night about \" unfair \" protests against him, which continued for a second night. \" just had a very open and successful presidential election. Now professional protesters, incited by the media, are protesting. Very unfair! \" he tweeted in his first public comment on the protests. But his tune was changed by this 6am tweet, which read, \" love the fact that the small groups of protesters last night have passion for our great country. We will all come together and be proud! \" the washington post notes that after president obama was re-elected in 2012, trump urged people to \" fight like hell \" and tweeted: \" we can't let this happen. We should march on washington and stop this travesty. Our nation is totally divided! \" the los angeles times reports that the many of the anti-trump demonstrations around the country thursday night were not as big as the protests on wednesday, though some organizers say they are planning bigger rallies over the weekend. One city where things intensified was portland, ore., where police declared the protest to be a riot because of \" extensive criminal and dangerous behavior, \" cnn reports. The bbc reports that protests remained largely peaceful in cities including philadelphia, baltimore, denver, minneapolis, chicago, and new york city, where a crowd gathered outside trump tower for a second night.",
         "split": "test",
         "cleansed_document": [
             "Resisting calls by president obama to accept donald trump's victory, tens of thousands of protesters — some too young to vote — took to the streets in cities across the country to protest that trump \"is not my president. \" during a second night of demonstrations, a protest in portland, ore., was transformed into what police called a \"riot. \" police said a small number of \"anarchists \" in a crowd of 4,000 smashed cars with baseball bats, threw rocks and molotov cocktails and spray-painted graffiti. There were 26 people arrested. Overnight, protests were popping up almost spontaneously in other cities around the country. Columbus, ohio; minneapolis; madison, wis.; and milwaukee joined in protests that had begun wednesday in new york, los angeles, chicago, seattle, philadelphia, boston and other larger cities. Trump addressed the protests in his usual fashion — over twitter. On thursday night, he decried them as \"professional protesters, incited by the media. \" but by friday, as protests spread, he issued a conciliatory message, tweeting at 6.14 am.: \"love the fact that the small groups of protesters last night have passion for our great country. We will all come together and be proud! \" trump himself had urged a \"march on washington \" in protest of president obama's re-election in 2012. More demonstrations are planned in the coming days, with some organizers saying they were",
-            "Story highlights as many as 185 protesters arrested in los angeles, police say portland police tweet of \" extensive criminal and dangerous behavior \" ( cnn ) thousands protesting donald trump's victory in the presidential election took to the streets for a third night of demonstrations and vigils in several us cities. An anti-trump rally in portland, oregon, revved up as protesters confronted police thursday night. What started out as a peaceful march, with more than 4,000 people, quickly turned violent. Over the course of the evening, \" anarchists \" in the crowd threw objects at officers, vandalized local businesses and damaged cars, portland police sgt. Pete simpson said. Protesters marched through portland's streets thursday night. Police publicly declared a \" riot \" due to \" extensive criminal and dangerous behavior \" and called the protest \" unlawful, \" according to posts on the department's twitter page. The crowd was dispersed using \" less lethal munitions \" and at least 26 protesters were arrested, police said. Read more",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Story highlights as many as 185 protesters arrested in los angeles, police say portland police tweet of \" extensive criminal and dangerous behavior \" ( cnn ) thousands protesting donald trump's victory in the presidential election took to the streets for a third night of demonstrations and vigils in several us cities. An anti-trump rally in portland, oregon, revved up as protesters confronted police thursday night. What started out as a peaceful march, with more than 4,000 people, quickly turned violent. Over the course of the evening, \" anarchists \" in the crowd threw objects at officers, vandalized local businesses and damaged cars, portland police sgt. Pete simpson said. Protesters marched through portland's streets thursday night. Police publicly declared a \" riot \" due to \" extensive criminal and dangerous behavior \" and called the protest \" unlawful, \" according to posts on the department's twitter page. The crowd was dispersed using \" less lethal munitions \" and at least 26 protesters were arrested, police said. Read more"
         ],
         "raw_document": [
             "Resisting calls by president obama to accept donald trump's victory, tens of thousands of protesters — some too young to vote — took to the streets in cities across the country to protest that trump \"is not my president. \" during a second night of demonstrations, a protest in portland, ore., was transformed into what police called a \"riot. \" police said a small number of \"anarchists \" in a crowd of 4,000 smashed cars with baseball bats, threw rocks and molotov cocktails and spray-painted graffiti. There were 26 people arrested. Overnight, protests were popping up almost spontaneously in other cities around the country. Columbus, ohio; minneapolis; madison, wis.; and milwaukee joined in protests that had begun wednesday in new york, los angeles, chicago, seattle, philadelphia, boston and other larger cities. Trump addressed the protests in his usual fashion — over twitter. On thursday night, he decried them as \"professional protesters, incited by the media. \" but by friday, as protests spread, he issued a conciliatory message, tweeting at 6.14 am.: \"love the fact that the small groups of protesters last night have passion for our great country. We will all come together and be proud! \" trump himself had urged a \"march on washington \" in protest of president obama's re-election in 2012. More demonstrations are planned in the coming days, with some organizers saying they were",
@@ -1556,7 +1547,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1584,7 +1575,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1650,12 +1641,11 @@
     },
     {
         "idx": 54961,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The wait is over: heidi montag's debut album finally dropped yesterday, and it's just as horrible as you'd expect. Case in point: superficial track \"i ' ll do it \" includes the lyrics, \"come eat my panties off of me / do whatever you feel comes naturally. \" nonetheless, montag called the music \"empowering, \" us reports — but not everyone agrees. The song \"is so gross i ' m starting to second-guess even the non-gross parts, \" writes azaria jagger for gawker. Here's yet another example, jagger continues: \" ' off up into ya dungin. ' i think she means 'dungeon, ' but is it possible that 'dungin ' is slang for some part of the body that one can be 'up into '? \" listen to the track at left.",
         "split": "test",
         "cleansed_document": [
-            "\" eat my panties off me, \" mrs. Pratt rhythmically coos. Vogue threatens anna wintour's town car, elin nordegren invests in another house, ryan seacrest cries over simon. Come, plumb the depths of wednesday's gossip. If only we could harness the force of all the schadenfreude they create and use it to power whole cities. \" ooh — come eat my panties off me, \" heidi montag murmurs in her new single, \" i ' ll do it, \" which is so gross i ' m starting to second-guess even the non-gross parts. Case in point: \" off up into ya dungin. \" i think she means \" dungeon, \" but is it possible that \" dungin \" is slang for some part of the body that one can be \" up into \"? this song sounds suspiciously like a catalog of pratt-montag fetishes. Point being: you don't want to listen to this song, except that you kind of do, so here it is. [ thg ]",
-            "The world may have to wait for the patter of little speidi feet: heidi montag says that her quest to have kids with husband spencer pratt is \" kind of on hold \" as she launches her campaign to become a \" pop star \" with her just-released album superficial. Reimagine heidi and other stars with jersey shore star snooki's hair! \" i ' m really trying to do this pop star [ thing ], my first album, so i think that would kind of be distracting from this album coming out, \" she said in a radio interview with ryan seacrest tuesday. \" but one day i would love to have kids. I don't know if spencer quite feels the same way. \" see how heidi, spencer and other hills stars looked like back in the day the hills star spent three years working on superficial, which features songs like \" i ' ll do it, \" in which she tells a lover to \" come eat my panties off of me. \" r-rated lyrics or not, she tells seacrest that \" it's very personal, empowering music... Just about living life and enjoying every moment and living it up -- definitely club music. \" did heidi get a nosejob? examine the evidence for yourself! the reality diva also explains the title. \" i think that superficial is kind of a double entendre, \" she says. \" it's superficial in a sense that everything in hollywood is a little superficial. It's superficial in a positive way too. It's not what it seems to be, it's the inside"
+            "\" eat my panties off me, \" mrs. Pratt rhythmically coos. Vogue threatens anna wintour's town car, elin nordegren invests in another house, ryan seacrest cries over simon. Come, plumb the depths of wednesday's gossip. If only we could harness the force of all the schadenfreude they create and use it to power whole cities. \" ooh — come eat my panties off me, \" heidi montag murmurs in her new single, \" i ' ll do it, \" which is so gross i ' m starting to second-guess even the non-gross parts. Case in point: \" off up into ya dungin. \" i think she means \" dungeon, \" but is it possible that \" dungin \" is slang for some part of the body that one can be \" up into \"? this song sounds suspiciously like a catalog of pratt-montag fetishes. Point being: you don't want to listen to this song, except that you kind of do, so here it is. [ thg ]"
         ],
         "raw_document": [
             "\" eat my panties off me, \" mrs. Pratt rhythmically coos. Vogue threatens anna wintour's town car, elin nordegren invests in another house, ryan seacrest cries over simon. Come, plumb the depths of wednesday's gossip. If only we could harness the force of all the schadenfreude they create and use it to power whole cities. \" ooh — come eat my panties off me, \" heidi montag murmurs in her new single, \" i ' ll do it, \" which is so gross i ' m starting to second-guess even the non-gross parts. Case in point: \" off up into ya dungin. \" i think she means \" dungeon, \" but is it possible that \" dungin \" is slang for some part of the body that one can be \" up into \"? this song sounds suspiciously like a catalog of pratt-montag fetishes. Point being: you don't want to listen to this song, except that you kind of do, so here it is. [ thg ]",
@@ -1670,7 +1660,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1988,7 +1978,7 @@
             "0": 4,
             "1": 0,
             "2": 3,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2018,12 +2008,11 @@
     },
     {
         "idx": 54975,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Andrew breitbart, fresh off the news of shirley sherrod's lawsuit against him, has gotten himself embroiled in another controversy. His big government website lashed out at michelle obama's anti-obesity campaign... By basically calling her fat. A cartoon strip on the website shows an overweight obama eating a huge pile of hamburgers while talking to her big-eared husband about the campaign, salon reports. The punch line — \" shut up and pass the bacon! \" — was originally \" shut up and pass the lard! \" media matters notes. Click to see the cartoon.",
         "split": "test",
         "cleansed_document": [
-            "February 14, 2011 11: 53 am et by simon maloy first lady michelle obama is in the midst of a nationwide anti-obesity campaign aimed at shrinking america's collectively expanding waistline. The conservative media are striking back against mrs. Obama's message of fitness and nutrition by decrying what they see as government intrusion into our pantries. At least, that's what they're doing when they're not calling michelle obama fat. Rush limbaugh's long been laying the groundwork for this sexist attack, using stories about the first lady's nutrition programs to call the fitness-fanatic mrs. Obama \" michelle, my butt. \" ( the jab's lack of sense it exceeded only by its lack of self-awareness. ) yesterday, the resident cartoonists at andrew breitbart's biggovernment.com posted this offering: if there's a \" joke \" in there, i ' m missing it. Notably, the version of the cartoon online now differs slightly -- but significantly -- from the version that showed up in my rss reader, in which the first lady demands: \" shut up and pass the lard! \" it's been a long time",
-            "Update: the video has apparently been restored. Last september, in a speech to same-sex marriage activists in chevy chase, maryland attorney general doug gansler revealed a plan by democrat governor martin o ' malley to stack the state's highest court with judges who would, gansler promised, rule against any... Read more..."
+            "February 14, 2011 11: 53 am et by simon maloy first lady michelle obama is in the midst of a nationwide anti-obesity campaign aimed at shrinking america's collectively expanding waistline. The conservative media are striking back against mrs. Obama's message of fitness and nutrition by decrying what they see as government intrusion into our pantries. At least, that's what they're doing when they're not calling michelle obama fat. Rush limbaugh's long been laying the groundwork for this sexist attack, using stories about the first lady's nutrition programs to call the fitness-fanatic mrs. Obama \" michelle, my butt. \" ( the jab's lack of sense it exceeded only by its lack of self-awareness. ) yesterday, the resident cartoonists at andrew breitbart's biggovernment.com posted this offering: if there's a \" joke \" in there, i ' m missing it. Notably, the version of the cartoon online now differs slightly -- but significantly -- from the version that showed up in my rss reader, in which the first lady demands: \" shut up and pass the lard! \" it's been a long time"
         ],
         "raw_document": [
             "February 14, 2011 11: 53 am et by simon maloy first lady michelle obama is in the midst of a nationwide anti-obesity campaign aimed at shrinking america's collectively expanding waistline. The conservative media are striking back against mrs. Obama's message of fitness and nutrition by decrying what they see as government intrusion into our pantries. At least, that's what they're doing when they're not calling michelle obama fat. Rush limbaugh's long been laying the groundwork for this sexist attack, using stories about the first lady's nutrition programs to call the fitness-fanatic mrs. Obama \" michelle, my butt. \" ( the jab's lack of sense it exceeded only by its lack of self-awareness. ) yesterday, the resident cartoonists at andrew breitbart's biggovernment.com posted this offering: if there's a \" joke \" in there, i ' m missing it. Notably, the version of the cartoon online now differs slightly -- but significantly -- from the version that showed up in my rss reader, in which the first lady demands: \" shut up and pass the lard! \" it's been a long time",
@@ -2040,7 +2029,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2105,12 +2094,11 @@
     },
     {
         "idx": 54978,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The ceo of the company that made the rifle used in the parkland mass shooting says the firm \" shares the nation's grief \" — but it hasn't changed its mind about gun laws. \" we share the nation's grief over this incomprehensible and senseless loss of life, and we share the desire to make our community safer, \" james debney, ceo of american outdoor brands, said when announcing the firm's latest results thursday, per the guardian. He said the company, formerly known as smith &amp; wesson, would seek \" effective solutions \" to safety issues, while still \" protecting the rights of the law-abiding firearm owner. \" debney is a strong supporter of the nra, though he has said he never fired a gun before becoming ceo of a gun-maker. Debney blamed \" challenging market conditions \" for falling sales and a collapse in profits, bloomberg reports. He added, however, that after the parkland shooting, there had been \" increased foot traffic \" to gun stores, leading to \" some increased sales, \" reuters reports. \" we will operate our business under the assumption that the next 12 to 18 months could deliver flattish revenues, \" said debney, announcing that the company had cut its profits forecast and sales targets. In after-hours trading, the company's stock, already down more than 50 % over the last 12 months, fell 12 %. ( the gop is \" flummoxed \" by president trump's push for gun control. )",
         "split": "test",
         "cleansed_document": [
-            "James debney, boss of former smith &amp; wesson, offers remarks as he blames 'challenging market conditions ' for nosedive in profits james debney, the british-born chief executive of the company that made the rifle used by the gunman in the school shooting in florida last month, on thursday said he \"shared the nation's grief \" over the massacre. Announcing american outdoor brands ' ( aob ) latest results, debney called the shooting, which killed 17 at the marjory stoneman douglas high school in parkland, an \"incomprehensible loss of life \" but said the company would continue to support the right of americans to carry firearms. \"we share the nation's grief over this incomprehensible and senseless loss of life, and we share the desire to make our community safer, \" said debney, adding the company would \"continue to support the development of effective solutions that accomplish that objective, while protecting the rights of the law-abiding firearm owner. \" meet the british ceo of the firm behind the gun that brought tragedy to florida read more his comments came as debney blamed \"challenging market conditions \" for a dramatic slump in the company's profits and sales. Aob, formerly known as smith &amp; wesson, saw its share price collapse as it reported a $ 4.7m profit over the quarter compared with $ 37.6m a year earlier. Sales revenue fell close",
-            "Share this article facebook twitter linkedin email age limits and bans on assault-style rifles are in vogue now, but the biggest threat to gun sales may still be president donald trump. Consumer demand is falling to \"new, lower levels, \" according to the 166-year-old maker of smith &amp; wesson firearms. The company, american outdoor brands corp., is bracing for the downturn by cutting jobs and repaying debt. Rivals, including one plunging into bankruptcy, are contending with the same slowdown. Gun slump firearm sales drop during trump's first year in office after steady gains call it the trump slump. The gun industry thrived under president barack obama, as firearms enthusiasts expected crackdowns and rushed to stockpile weapons. Those fears have eased -- and sales have fallen -- since trump won the white house in november 2016. Gunmaker stocks, already on the ropes, took a further hit after the shooting last month at a florida high school that killed 17 people. \"we will operate our business under the assumption that the next 12 to 18 months could deliver flattish revenues, \" american outdoor chief executive officer james debney said thursday on a conference call to discuss earnings. The gun industry has come under greater scrutiny since last month's shooting in parkland, florida, even if the potential for tighter restrictions on firearms seems lower than when obama was"
+            "James debney, boss of former smith &amp; wesson, offers remarks as he blames 'challenging market conditions ' for nosedive in profits james debney, the british-born chief executive of the company that made the rifle used by the gunman in the school shooting in florida last month, on thursday said he \"shared the nation's grief \" over the massacre. Announcing american outdoor brands ' ( aob ) latest results, debney called the shooting, which killed 17 at the marjory stoneman douglas high school in parkland, an \"incomprehensible loss of life \" but said the company would continue to support the right of americans to carry firearms. \"we share the nation's grief over this incomprehensible and senseless loss of life, and we share the desire to make our community safer, \" said debney, adding the company would \"continue to support the development of effective solutions that accomplish that objective, while protecting the rights of the law-abiding firearm owner. \" meet the british ceo of the firm behind the gun that brought tragedy to florida read more his comments came as debney blamed \"challenging market conditions \" for a dramatic slump in the company's profits and sales. Aob, formerly known as smith &amp; wesson, saw its share price collapse as it reported a $ 4.7m profit over the quarter compared with $ 37.6m a year earlier. Sales revenue fell close"
         ],
         "raw_document": [
             "James debney, boss of former smith &amp; wesson, offers remarks as he blames 'challenging market conditions ' for nosedive in profits james debney, the british-born chief executive of the company that made the rifle used by the gunman in the school shooting in florida last month, on thursday said he \"shared the nation's grief \" over the massacre. Announcing american outdoor brands ' ( aob ) latest results, debney called the shooting, which killed 17 at the marjory stoneman douglas high school in parkland, an \"incomprehensible loss of life \" but said the company would continue to support the right of americans to carry firearms. \"we share the nation's grief over this incomprehensible and senseless loss of life, and we share the desire to make our community safer, \" said debney, adding the company would \"continue to support the development of effective solutions that accomplish that objective, while protecting the rights of the law-abiding firearm owner. \" meet the british ceo of the firm behind the gun that brought tragedy to florida read more his comments came as debney blamed \"challenging market conditions \" for a dramatic slump in the company's profits and sales. Aob, formerly known as smith &amp; wesson, saw its share price collapse as it reported a $ 4.7m profit over the quarter compared with $ 37.6m a year earlier. Sales revenue fell close",
@@ -2125,7 +2113,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2182,7 +2170,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2306,7 +2294,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2356,7 +2344,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2661,7 +2649,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {

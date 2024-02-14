@@ -49,7 +49,7 @@
             "0": 3,
             "1": 5,
             "2": 1,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -202,7 +202,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -256,7 +256,7 @@
         "vote_count": {
             "0": 1,
             "1": 5,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -370,12 +370,11 @@
     },
     {
         "idx": 41014,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "James avery, who memorably starred as will smith's gruff uncle phil on fresh prince of bel-air, has died at the age of 65, tmz reports. Avery had reportedly recently undergone open heart surgery, and died from complications in a los angeles hospital last night. His wife barbara had briefly left his side, reports tmz. \" the world has lost a truly special man, \" said alfonso ribeiro in a facebook post. \" even though he played my father on tv, he was a wonderful father figure to me in life. He will be deeply missed. \"",
         "split": "train",
         "cleansed_document": [
-            "' fresh prince'dad james avery dies dead at 68 james avery dead -- ' fresh prince ' uncle phil dies at 68 exclusive -- the beloved dad on \" \" -- has died at age 68... Tmz has learned.sources close to the actor tell tmz he died in a glendale, ca hospital last night. Avery had undergoneand took a turn for the worse late yesterday.and we're told... His wife, barbara, had been at his bedside but left for a short period of time and when she came back... She learned he had just died. -- who played avery's son on \" fresh prince \" -- just posted a message on his facebook page.avery starred in dozens of tv shows through the years -- shows like \" grey's anatomy, \" \" the closer, \" \" l.a. Law, \" and \" the jeffersons. \" this past year, he appeared in three tv movies -- most recently, \" go, bolivia, go! \" -- but didn't appear to have other projects in the works.avery reunited with most of his \" fresh prince \" cast -- including will smith -- two years ago at a charity event.",
-            "Although best known as the uncle/patriarch and judge \" philip banks \" on the fresh prince of bel-air ( 1990 ), james avery is a classically trained actor and scholar. A native of atlantic city, new jersey, usa, he joined the us navy after graduating high school and served in vietnam from 1968 to 1969. Upon leaving the military, he moved to san diego,..."
+            "' fresh prince'dad james avery dies dead at 68 james avery dead -- ' fresh prince ' uncle phil dies at 68 exclusive -- the beloved dad on \" \" -- has died at age 68... Tmz has learned.sources close to the actor tell tmz he died in a glendale, ca hospital last night. Avery had undergoneand took a turn for the worse late yesterday.and we're told... His wife, barbara, had been at his bedside but left for a short period of time and when she came back... She learned he had just died. -- who played avery's son on \" fresh prince \" -- just posted a message on his facebook page.avery starred in dozens of tv shows through the years -- shows like \" grey's anatomy, \" \" the closer, \" \" l.a. Law, \" and \" the jeffersons. \" this past year, he appeared in three tv movies -- most recently, \" go, bolivia, go! \" -- but didn't appear to have other projects in the works.avery reunited with most of his \" fresh prince \" cast -- including will smith -- two years ago at a charity event."
         ],
         "raw_document": [
             "' fresh prince'dad james avery dies dead at 68 james avery dead -- ' fresh prince ' uncle phil dies at 68 exclusive -- the beloved dad on \" \" -- has died at age 68... Tmz has learned.sources close to the actor tell tmz he died in a glendale, ca hospital last night. Avery had undergoneand took a turn for the worse late yesterday.and we're told... His wife, barbara, had been at his bedside but left for a short period of time and when she came back... She learned he had just died. -- who played avery's son on \" fresh prince \" -- just posted a message on his facebook page.avery starred in dozens of tv shows through the years -- shows like \" grey's anatomy, \" \" the closer, \" \" l.a. Law, \" and \" the jeffersons. \" this past year, he appeared in three tv movies -- most recently, \" go, bolivia, go! \" -- but didn't appear to have other projects in the works.avery reunited with most of his \" fresh prince \" cast -- including will smith -- two years ago at a charity event.",
@@ -390,7 +389,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -449,12 +448,11 @@
     },
     {
         "idx": 41017,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The new york headquarters of the federal reserve is either home to 6,200 tons of gold, a bunch of fake gold bars, or next to no gold, depending on whom you ask. The fed has long claimed its vaults hold the world's largest gold stockpile worth as much as $ 260 billion. But some \" wonder if the bank is hiding something about what it's hiding, \" in the words of the wall street journal. As one precious-metals analyst explains, the fed has \" never in its history provided any proof \" of its gold stores beneath lower manhattan. Visitors see only a sample of bars — which some suspect could be gold-plated tungsten of an equal weight — and only auditors and account holders are allowed to review records; the last audit of fed gold, involving 367 samples, was in 2012. Raising further suspicions are recent gold prices. Based on those, one investment strategist claims \" there has to have been a central bank spewing their gold into the market. \" some gold investors believe the fed could be secretly lending out its gold to keep prices down, though a fed spokesperson says it doesn't own any of the gold in its headquarters — most is owned by foreign governments — and \" does not use it in any way for any purposes including loaning or leasing it out. \" outsiders may not get any more clarity unless the \" audit the fed \" bill is passed. Introduced by sen. Rand paul, it would allow the government accountability office to audit the fed and review its decisions on interest rates, reports cnnmoney. Don't hold your breath: it has yet to face a full vote in the house or senate.",
         "split": "train",
         "cleansed_document": [
-            "Eighty feet below the streets of lower manhattan, a federal reserve vault protected by armed guards contains about 6,200 tons of gold. Or doesn't. The fed tells visitors its basement vault holds the world's biggest official gold stash and values it at $ 240 billion to $ 260 billion....",
-            "Federal reserve chair janet yellen traded sharp words in a rare, feisty exchange with a congressman over legislation that could limit the central bank's independence. The normally reserved yellen pushed back against pointed questions from bill posey, a florida republican. He asked why she's opposed to a bill that would allow the government accountability office, a unit of congress, to audit the fed, and, more controversially, review its decisions on interest rates. Posey said the bill, known as audit the fed, would provide more transparency for the central bank and its decisions. Fed leaders say it would ruin the central bank's credibility by eliminating its independence. In january 2017 a version of the audit the fed bill was introduced in both chambers. It passed out of committees in both the house and the senate, but neither version has received a full vote in either the house or the senate. Few think it will pass the senate. Related: fed chief: trump policies are a \" source of uncertainty \" \" for the life of me, i can't understand what the fed fears. Can you give me an example that would justify the lack of transparency? \" posey asked at a hearing of the house financial services committee. \" we don't have a lack of transparency, \" yellen quickly replied. \" you do if you can't audit it -- that's a lack of transparency, \" posey shot back. Fed leaders do make their decisions behind closed doors. But the central bank is audited twice a year -- once by the government through the fed's inspector general and once by a private auditor. Critics of the bill question the point of a third audit. Right now, gao officials don't attend fed meetings and are unable to second-guess its decisions. Yellen argues that the proposed law would give them that power. Related: fed raises rates in june posey pressed on. \" what do you fear about the audit? can you give me a real-time example? \" he said. Yellen replied that central bank leaders need privacy to discuss monetary policy without being second-guessed in real time by officials representing lawmakers. Posey wasn't satisfied. \" just give me an example -- give me an example -- of how transparency could hurt the fed? just give"
+            "Eighty feet below the streets of lower manhattan, a federal reserve vault protected by armed guards contains about 6,200 tons of gold. Or doesn't. The fed tells visitors its basement vault holds the world's biggest official gold stash and values it at $ 240 billion to $ 260 billion...."
         ],
         "raw_document": [
             "Eighty feet below the streets of lower manhattan, a federal reserve vault protected by armed guards contains about 6,200 tons of gold. Or doesn't. The fed tells visitors its basement vault holds the world's biggest official gold stash and values it at $ 240 billion to $ 260 billion....",
@@ -469,7 +467,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -499,13 +497,12 @@
     },
     {
         "idx": 41019,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "\" right now that's the earthquake alarm going off, \" business insider quotes enrique campos as saying. \" this is not a drill. \" the anchor for mexico's foro tv was in the middle of a live broadcast from the studio in mexico city when a 7.1 magnitude earthquake struck tuesday afternoon, time reports. \" you all already know what you have to do now: stay calm, and evacuate immediately. I ' m going to get up and evacuate, \" campos tells the audience. Video shows the anchor leaving the studio as cameras and equipment swing wildly. The earthquake was mexico's strongest in more than 30 years and killed at least 248 people.",
         "split": "train",
         "cleansed_document": [
             "A mexican news station was broadcasting live the moment a magnitude 7.1 earthquake hit the country tuesday, close to the capital mexico city. The powerful quake killed at least 248 people and brought down dozens of buildings in the capital alone. Thousands of people fled into the streets and early wednesday rescue workers were still digging through mounds of rubble, looking for survivors. The anchor at foro tv was in the middle of a segment with his reporter from the field, when the earthquake warning sirens began to wail. Enrique campos told viewers in spanish: \"right now that's the earthquake alarm going off, this is not a drill, \" in a translation provided by business insider. \"we're feeling an earthquake now, the floor is moving, \" he said as the studio started shaking. In the video, overhead studio equipment and lights can be seen swinging back and forth, as the station's audio went silent. \"you all already know what you have to do now: stay calm, and evacuate immediately. I ' m going to get up and evacuate, \" the anchor told the audience before leaving the studio. The earthquake is the deadliest in mexico since a 1985 quake on the same date killed more than 5,000 people.",
-            "Screenshot via youtube a 7.1 magnitude earthquake that hit mexico on tuesday was captured on camera during a live television-news broadcast. \" right now that's the earthquake alarm going off, this is not a drill, \" the broadcaster said in spanish. \" we're feeling an earthquake now, the floor is moving. \" buildings across mexico city conducted preparation drills early in the day, which was coincidentally the anniversary of the 1985 quake that killed at least 5,000 people, the associated press reported. \" you all already know what you have to do now: stay calm, and evacuate immediately, \" the broadcaster continued. \" i ' m going to get up and evacuate. \" as the broadcaster stands up to leave, cameras begin to shake violently and a blaring warning siren could be heard in the background. Studio equipment from the and overhead studio lights can be seen swaying as the station goes off-air. The earthquake damaged buildings and killed at least 79 people, according to government officials. The death toll is expected to rise, the associated press reported. Watch the video here:",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Screenshot via youtube a 7.1 magnitude earthquake that hit mexico on tuesday was captured on camera during a live television-news broadcast. \" right now that's the earthquake alarm going off, this is not a drill, \" the broadcaster said in spanish. \" we're feeling an earthquake now, the floor is moving. \" buildings across mexico city conducted preparation drills early in the day, which was coincidentally the anniversary of the 1985 quake that killed at least 5,000 people, the associated press reported. \" you all already know what you have to do now: stay calm, and evacuate immediately, \" the broadcaster continued. \" i ' m going to get up and evacuate. \" as the broadcaster stands up to leave, cameras begin to shake violently and a blaring warning siren could be heard in the background. Studio equipment from the and overhead studio lights can be seen swaying as the station goes off-air. The earthquake damaged buildings and killed at least 79 people, according to government officials. The death toll is expected to rise, the associated press reported. Watch the video here:"
         ],
         "raw_document": [
             "A mexican news station was broadcasting live the moment a magnitude 7.1 earthquake hit the country tuesday, close to the capital mexico city. The powerful quake killed at least 248 people and brought down dozens of buildings in the capital alone. Thousands of people fled into the streets and early wednesday rescue workers were still digging through mounds of rubble, looking for survivors. The anchor at foro tv was in the middle of a segment with his reporter from the field, when the earthquake warning sirens began to wail. Enrique campos told viewers in spanish: \"right now that's the earthquake alarm going off, this is not a drill, \" in a translation provided by business insider. \"we're feeling an earthquake now, the floor is moving, \" he said as the studio started shaking. In the video, overhead studio equipment and lights can be seen swinging back and forth, as the station's audio went silent. \"you all already know what you have to do now: stay calm, and evacuate immediately. I ' m going to get up and evacuate, \" the anchor told the audience before leaving the studio. The earthquake is the deadliest in mexico since a 1985 quake on the same date killed more than 5,000 people.",
@@ -522,7 +519,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -577,12 +574,11 @@
     },
     {
         "idx": 41022,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Charles barkley and... A cat litter scientist from iowa? yes, and it's a touching story, usa today reports. Even journalist shirley wang, the scientist's daughter, didn't buy that her dad had befriended barkley in a sacramento bar, attended his mom's funeral, and hung out with the retired nba star now and again. But dad lin wang shrugged off teasing from unbelievers, she writes at wbur. \" we agree with each other [ on ] a lot of point of views, \" he told her about barkley. \" tough life for him. But he's well-respected professionally.... So, to me, as an asian in the us, i felt as long as i do a good job, people will respect me. \" yet the ph.d. Kept one secret from barkley: his cancer diagnosis. In his final two years, wang watched a lot of barkley's inside the nba show on tnt. \" my dad was laughing along with barkley, \" writes shirley. \" he kept my dad company. \" when barkley arrived at wang's funeral in the woods outside iowa city, towering over the room at 6-foot-6, there was no more doubting. \" i have never seen that guy in a bad mood, \" said barkley in his eulogy. \"... If you were around him, you were laughing the whole time. \" but shirley still wondered, what on earth did they talk about? surprisingly, it was her and her brother: \" listen: as an adult — and you're too young to understand this now — all you want is your kids to be happy, \" barkley told her later. \" that's what you work for. To give your kids everything in life. \" as they wrapped up, he told her to \" just keep doing you. It's your time now. Don't forget that. \" and she walked away feeling like more things were possible in her world: \" a world where someone like him could just say something cool, something charming, and befriend someone like charles barkley. \" ( meanwhile, an nba great floated a conspiracy about moon landings. )",
         "split": "train",
         "cleansed_document": [
-            "Nba legend and hall of famer charles barkley. ( photo: kyle terada ) journalist shirley wang shared a tremendous personal story of her father's long friendship with charles barkley, and it might just be the best story you read all month. Lin wang, a \" cat litter scientist, \" happened to meet barkley at a hotel in sacramento on a business trip. The two men talked for hours in a bar, and barkley gave wang his number and told him to keep in touch. The two men became close friends, but even wang's daughter didn't believe her dad was truly tight with one of the greatest nba players ever. When wang passed away, barkley showed up at his funeral, and shirley wang soon realized in conversations with barkley that he was closer to an extended family member than an acquaintance of her father. After charles barkley's mother passed away, a cat litter scientist from iowa showed up at the funeral. \"everybody's, like, 'who's the asian dude over there? ' \" barkley recalls. \"i said, 'that's my boy, lin. ' \" https://t.co/kn7bctacuf — npr's only a game ( @onlyagamenpr ) december 15, 2018 via wbur.org: \" my dad never told barkley that he was sick. \" i called him and got",
-            "Like this story? sign up for only a game's newsletter and subscribe to the podcast. 故事中文版 when charles barkley's mother, charcey glenn, passed away in june 2015, barkley's hometown of leeds, alabama, came to the funeral to pay respects. But there was also an unexpected guest. Barkley's friends couldn't quite place him. He wasn't a basketball player, he wasn't a sports figure, and he wasn't from barkley's hometown. Here's what i can tell you about him: he wore striped, red polo shirts tucked into khaki shorts and got really excited about two-for-one deals. He was a commuter. He worked as a cat litter scientist in muscatine, iowa. In short, he was everyone's suburban dad. More specifically, he was my dad. Charles barkley and lin wang ( courtesy shirley wang ) \" you know, it was obviously a very difficult time, \" barkley told me recently. \" and the next thing i know, he shows up. Everybody's like, ' who's the asian dude over there? ' i just started laughing. I said,'that's my boy, lin.'they're, like, ' how do you know him?"
+            "Nba legend and hall of famer charles barkley. ( photo: kyle terada ) journalist shirley wang shared a tremendous personal story of her father's long friendship with charles barkley, and it might just be the best story you read all month. Lin wang, a \" cat litter scientist, \" happened to meet barkley at a hotel in sacramento on a business trip. The two men talked for hours in a bar, and barkley gave wang his number and told him to keep in touch. The two men became close friends, but even wang's daughter didn't believe her dad was truly tight with one of the greatest nba players ever. When wang passed away, barkley showed up at his funeral, and shirley wang soon realized in conversations with barkley that he was closer to an extended family member than an acquaintance of her father. After charles barkley's mother passed away, a cat litter scientist from iowa showed up at the funeral. \"everybody's, like, 'who's the asian dude over there? ' \" barkley recalls. \"i said, 'that's my boy, lin. ' \" https://t.co/kn7bctacuf — npr's only a game ( @onlyagamenpr ) december 15, 2018 via wbur.org: \" my dad never told barkley that he was sick. \" i called him and got"
         ],
         "raw_document": [
             "Nba legend and hall of famer charles barkley. ( photo: kyle terada ) journalist shirley wang shared a tremendous personal story of her father's long friendship with charles barkley, and it might just be the best story you read all month. Lin wang, a \" cat litter scientist, \" happened to meet barkley at a hotel in sacramento on a business trip. The two men talked for hours in a bar, and barkley gave wang his number and told him to keep in touch. The two men became close friends, but even wang's daughter didn't believe her dad was truly tight with one of the greatest nba players ever. When wang passed away, barkley showed up at his funeral, and shirley wang soon realized in conversations with barkley that he was closer to an extended family member than an acquaintance of her father. After charles barkley's mother passed away, a cat litter scientist from iowa showed up at the funeral. \"everybody's, like, 'who's the asian dude over there? ' \" barkley recalls. \"i said, 'that's my boy, lin. ' \" https://t.co/kn7bctacuf — npr's only a game ( @onlyagamenpr ) december 15, 2018 via wbur.org: \" my dad never told barkley that he was sick. \" i called him and got",
@@ -597,7 +593,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -806,7 +802,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -860,7 +856,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -898,17 +894,15 @@
             "3": 0,
             "4": 1,
             "5": 0,
-            "6": 0
+            "6": 1
         }
     },
     {
         "idx": 41034,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Apparently it's lady gaga in the news day. Her latest headline-grabbing act: instructing her fans, via twitter, to \" call harry reid to schedule senate vote \" and \" repeal don't ask don't tell. \" she tweeted the message along with a picture of herself at the mtv video music awards with her dates, whom she identified as \" gay veterans. \" ( hey, it's not a bad strategy — at least one senator is a huge gaga fan! ) gaga's message hadn't been in the twittersphere long when reid ( or an aide ) responded with a tweet of his own: \"there is a vote on #dadt next week. Anyone qualified to serve this country should be allowed to do so. \" the quick response shows how much the reid campaign wants to present its main man as hip to young voters, notes mediaite. Click here for more of the lady.",
         "split": "train",
-        "cleansed_document": [
-            "This collection includes organizations and non-profits that engage the public in discourse on issues of racial equity and social justice."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more",
             "This collection includes organizations and non-profits that engage the public in discourse on issues of racial equity and social justice."
@@ -922,7 +916,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -952,14 +946,13 @@
     },
     {
         "idx": 41036,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A man who blew himself up in his wisconsin apartment may have been a white supremacist building a bomb that's been dubbed \" mother of satan, \" the daily beast reports. Benjamin morrow, 28, died on march 5 when an explosion tore apart his beaver dam home and left his body under the fallen ceiling. An investigator says morrow's apartment was a \" homemade explosives factory \" containing explosive materials including a gallon of acetone, a substance used by isis in attacks in manchester, england, and paris, france, in so-called \" mother of satan \" bombs. \" white supremacist material \" was also found in morrow's bedroom, per an unsealed search warrant. But local police don't think that makes morrow a white supremacist. \" i want to make very clear just because mr. Morrow was in the possession of this material, does not categorize in any particular light, \" a police lieutenant tells cbs 58. \" he could have been an individual that was doing research. \" morrow had also stocked up two handguns, three long guns, a ballistic helmet and vest, and 2,000 rounds of ammunition, per the fond du lac reporter. After bomb experts set off explosives in the apartment and then survived an unplanned blast, they opted to retrieve valuables from morrow's neighbors and burn down the entire apartment building, the wisconsin state journal reports. Morrow had worked as a scientist in drug development and studied chemistry at pensacola christian college in florida. ( his story comes just after the suspected austin serial bomber blew himself up. )",
         "split": "train",
         "cleansed_document": [
             "Close members of 20 different fire departments were on hand to make sure the fire didn't spread to other units. Doug raflik/usa today network-wisconsin buy photo apartment building 109 of the village glen apartments in beaver dam was set ablaze under a watchful eye from area fire departments because dangerous chemicals were still present after explosions on march 5, 7 and 8 made it unsafe to try to salvage the building, officials said, citing the risk of another explosion or chemical exposure to workers. Doug raflik/usa today network-wisconsin ( photo: usa today network-wisconsin ) buy photo beaver dam - the man who died in an explosion in his beaver dam apartment last month had white supremacist material along with an array of explosive chemicals, guns and ammunition, according to search warrants unsealed in",
             "Benjamin morrow was found dead with white supremacist literature and the ingredients for a notorious bomb known as the \"mother of satan. \" morrow, 28, died in an explosion in the kitchen of his beaver dam, wisconsin, apartment on march 5. His home was filled with bomb-making substances so volatile that firefighters chose to destroy the 16-unit apartment block in a controlled blaze, rather than let morrow's neighbors continue to live in the building. A search warrant unsealed last week revealed that morrow kept white supremacist literature in his home. Investigators ' application for a second warrant suggests that morrow had plans, announcing that he was clearing out a rented storage locker just hours before his death. Kevin heimerl of the wisconsin department of justice called morrow's apartment a \"homemade",
-            "Explosive chemicals, white supremacist material found in apartment of man killed in beaver dam explosion to view this video please enable javascript, and consider upgrading to a web browser that supports html5 video beaver dam, wis. ( cbs 58 ) – newly unsealed search warrants are detailing what investigators found inside the beaver dam apartment where police say they found bomb-making materials. On march 5, officials were called to an apartment complex on knaup drive for an explosion. Inside, they found 28-year-old benjamin morrow dead and volatile chemicals inside the apartment. Investigators call morrow's apartment a \"homemade explosive laboratory and in addition to bomb-making equipment, they found literature about white supremacist groups in his bedroom. According to the court documents, morrow was found dead in front of the stove,",
-            "Close get email notifications on rob schultz &#124; wisconsin state journal daily! your notification has been saved. There was a problem saving your notification. Whenever rob schultz &#124; wisconsin state journal posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items."
+            "Explosive chemicals, white supremacist material found in apartment of man killed in beaver dam explosion to view this video please enable javascript, and consider upgrading to a web browser that supports html5 video beaver dam, wis. ( cbs 58 ) – newly unsealed search warrants are detailing what investigators found inside the beaver dam apartment where police say they found bomb-making materials. On march 5, officials were called to an apartment complex on knaup drive for an explosion. Inside, they found 28-year-old benjamin morrow dead and volatile chemicals inside the apartment. Investigators call morrow's apartment a \"homemade explosive laboratory and in addition to bomb-making equipment, they found literature about white supremacist groups in his bedroom. According to the court documents, morrow was found dead in front of the stove,"
         ],
         "raw_document": [
             "Close members of 20 different fire departments were on hand to make sure the fire didn't spread to other units. Doug raflik/usa today network-wisconsin buy photo apartment building 109 of the village glen apartments in beaver dam was set ablaze under a watchful eye from area fire departments because dangerous chemicals were still present after explosions on march 5, 7 and 8 made it unsafe to try to salvage the building, officials said, citing the risk of another explosion or chemical exposure to workers. Doug raflik/usa today network-wisconsin ( photo: usa today network-wisconsin ) buy photo beaver dam - the man who died in an explosion in his beaver dam apartment last month had white supremacist material along with an array of explosive chemicals, guns and ammunition, according to search warrants unsealed in",
@@ -978,7 +971,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1042,7 +1035,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1067,7 +1060,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1132,14 +1125,13 @@
     },
     {
         "idx": 41042,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "What happens when a group of childhood friends continues playing tag, often at inopportune times, well into adulthood? here's what critics ( who are split 60-40 on rotten tomatoes ) are saying about jeff tomsic's tag, starring a host of funny people from isla fisher to hannibal buress: \" looking for a light summer comedy? chase down another movie, \" writes bruce demara at the toronto star. He takes issue with the direction and casting, finding fisher's character \" too over the top \" and jake johnson's plain \" annoying. \" but the screenplay \" is probably the main culprit, with dialogue that provokes groans rather than belly laughs, \" demara writes. Katie walsh disagrees. Based on a 2013 wall street journal article about a real-life friend group, tag is \" the kind of frothy escapist fare that goes down easy on a hot summer day \" and \" like the game itself, a whole lot of rambunctious fun, \" she writes at the los angeles times. Her biggest complaint is that several personas \" verge on typecasting. \" not only is tag full of \" great, dumb pleasures, \" but it's \" relentlessly funny \" — \" a fine callback to the sprawling ensemble comedies of the 1980s, \" writes amy nicholson at the guardian. While the film could've done without the role of a wsj reporter, buress is the \" underwritten sidekick who steals scenes by mumbling the best jokes. \" and \" surprisingly, there's emotional resonance, \" too. You might think colin covert saw a different movie. \" tag feels like a small-screen experience that aimed high and fell short. It's equally diverting and disappointing, \" he writes at the minneapolis star-tribune. Like demara, he blames a \" flaccid script, \" noting, \" this is a film that thinks that the idea of genitals is so hilarious it must be trotted out at 10-minute intervals. \" and still, \" a sense of madcap fun is conspicuously absent. \"",
         "split": "train",
         "cleansed_document": [
             "Tag, \"inspired \" rather than \"based \" on a true story — never a propitious sign — strives gamely to strike a balance between gonzo comedy and a poignant tale about friendship. The result, falling somewhere in between, doesn't quite rise to the level of lovable. The premise is relatively straight forward: childhood friends have been playing tag throughout the month of may for 30 years, though one of them, jerry, has never been successfully \"tagged. \" so hogan, nicknamed \"hoagie, \" ramps up the competition by telling the others that jerry is planning to call it quits after one last game. Jerry is also getting married on the last day",
             "Part of the easy fun of \"tag \" is how the filmmakers just place the characters into this environment and let them bounce off each other. The personas do verge on typecasting — jon hamm is the dashing insurance man bob; jake johnson, the deadbeat stoner chilli; hannibal buress, the laconic weirdo sable. Renner plays the hyper-vigilant trainer jerry as a cross between his jason bourne and neo from \"the matrix, \" dodging attempted tags with lightning fast martial arts moves. As anna, hoagie's intense wife, isla fisher could be an older version of her wacky \"wedding crashers \" character. But it's a treat to watch them do what they",
-            "For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they've been playing since the first grade -- risking their necks, their jobs and their relationships to take each other down with the battle cry \" you're it! \" this year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they're coming... And he's ready. Based on a true story, \" tag \" shows how far some guys will go to be the last man standing.",
-            "\"hunting season. \" that's how a man described the annual month-long game of tag he's played with his high school buds for decades. For over 25 years, his gang has hidden behind cars, set up stings and cloaked themselves in disguise just for the thrill of saying: \"you're it. \" one guy even got tagged at his dad's funeral. It's a true story – the wall street journal profiled the dudes in 2013 – and you can write the scene that comes next. A hollywood executive spots the headline, grabs the phone and barks: \"get me ed helms. \" superfly review – a sleek, swaggering blaxploitation"
+            "For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they've been playing since the first grade -- risking their necks, their jobs and their relationships to take each other down with the battle cry \" you're it! \" this year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they're coming... And he's ready. Based on a true story, \" tag \" shows how far some guys will go to be the last man standing."
         ],
         "raw_document": [
             "Tag, \"inspired \" rather than \"based \" on a true story — never a propitious sign — strives gamely to strike a balance between gonzo comedy and a poignant tale about friendship. The result, falling somewhere in between, doesn't quite rise to the level of lovable. The premise is relatively straight forward: childhood friends have been playing tag throughout the month of may for 30 years, though one of them, jerry, has never been successfully \"tagged. \" so hogan, nicknamed \"hoagie, \" ramps up the competition by telling the others that jerry is planning to call it quits after one last game. Jerry is also getting married on the last day",
@@ -1158,7 +1150,7 @@
             "0": 2,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1266,7 +1258,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1431,12 +1423,11 @@
     },
     {
         "idx": 41053,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Want a big business like gm or shell oil to open up shop in your area? so do state and local officials, who try to lure corporations with incentives like free buildings, tax breaks, and outright cash payments — to the tune of $ 80 billion a year — but it's hard to prove that the money actually creates jobs, the new york times reports. And if the business decides to liquidate, it doesn't refill government coffers. \" it just gives me a sick feeling in the pit of my stomach, \" says an official in kansas. \" it sounds like i ' m talking myself out of a job, but there ought to be a law against what i ' m doing. \" big businesses do, of course, boost local economies and raise tax revenues, sometimes for generations. But they also play hardball with local officials, at times threatening to move jobs overseas — although it's often not true — and even milking cash-strapped states for big bucks. Michigan attorney doug winters has sued gm twice for closing factories despite government support, but neither lawsuit has gone anywhere. \" they've done a lot of damage to a lot of people and a lot of communities, and they've basically been given a clean slate, \" he says. \" it's a ' get out of jail free ' card. \" for more, see the times'state-by-state database of incentive spending.",
         "split": "train",
         "cleansed_document": [
-            "In the end, the money that towns across america gave general motors did not matter. When the automaker released a list of factories it was closing during bankruptcy three years ago, communities that had considered themselves g.m.'s business partners were among the targets. For years, mayors and governors anxious about local jobs had agreed to g.m.'s demands for cash rewards, free buildings, worker training and lucrative tax breaks. As late as 2007, the company was telling local officials that these sorts of incentives would \"further g.m.'s strong relationship \" with them and be a \"win/win situation, \" according to town council notes from one michigan community. Yet at least 50 properties on the 2009 liquidation list were in towns and states that had awarded incentives, adding up to billions in taxpayer dollars, according to data compiled by the new york times. Some officials, desperate to keep g.m., offered more. Ohio was proposing a $ 56 million deal to save its moraine plant, and wisconsin, fighting for its janesville factory, offered $ 153 million. But their overtures were to no avail. G.m. Walked away and, thanks to a federal bailout, is once again profitable. The towns have not been so fortunate, having spent scarce funds in exchange for thousands of jobs that no longer exist. One township, ypsilanti, mich., is suing over the automaker's departure.",
-            "The times identified 48 companies that have received more than $ 100 million in state grants since 2007. Some 5,000 other companies have received more than $ 1 million in recent years. Explore and search other companies » choose a state on the map to see which companies receive the most money and which incentives programs are the most lucrative. The state that gives out the most incentives is texas. Start exploring with texas » the new york times spent 10 months investigating business incentives awarded by hundreds of cities, counties and states. Since there is no nationwide accounting of these incentives, the times put together a database and found that local governments give up: $ 100 million club the times identified 48 companies that have received more than $ 100 million in state grants since 2007. Some 5,000 other companies have received more than $ 1 million in recent years. Search for other companies look up your employer, companies you follow in the market or your favorite brands. Search: companies receiving less than $ 1 million in grants are not searchable. Company awarded at least $ ~ ( $ ~ since 2007 ) from grants in the following states. Grants by state grants by type grants by state sort amount state no. Of grants types town, city or county years"
+            "In the end, the money that towns across america gave general motors did not matter. When the automaker released a list of factories it was closing during bankruptcy three years ago, communities that had considered themselves g.m.'s business partners were among the targets. For years, mayors and governors anxious about local jobs had agreed to g.m.'s demands for cash rewards, free buildings, worker training and lucrative tax breaks. As late as 2007, the company was telling local officials that these sorts of incentives would \"further g.m.'s strong relationship \" with them and be a \"win/win situation, \" according to town council notes from one michigan community. Yet at least 50 properties on the 2009 liquidation list were in towns and states that had awarded incentives, adding up to billions in taxpayer dollars, according to data compiled by the new york times. Some officials, desperate to keep g.m., offered more. Ohio was proposing a $ 56 million deal to save its moraine plant, and wisconsin, fighting for its janesville factory, offered $ 153 million. But their overtures were to no avail. G.m. Walked away and, thanks to a federal bailout, is once again profitable. The towns have not been so fortunate, having spent scarce funds in exchange for thousands of jobs that no longer exist. One township, ypsilanti, mich., is suing over the automaker's departure."
         ],
         "raw_document": [
             "In the end, the money that towns across america gave general motors did not matter. When the automaker released a list of factories it was closing during bankruptcy three years ago, communities that had considered themselves g.m.'s business partners were among the targets. For years, mayors and governors anxious about local jobs had agreed to g.m.'s demands for cash rewards, free buildings, worker training and lucrative tax breaks. As late as 2007, the company was telling local officials that these sorts of incentives would \"further g.m.'s strong relationship \" with them and be a \"win/win situation, \" according to town council notes from one michigan community. Yet at least 50 properties on the 2009 liquidation list were in towns and states that had awarded incentives, adding up to billions in taxpayer dollars, according to data compiled by the new york times. Some officials, desperate to keep g.m., offered more. Ohio was proposing a $ 56 million deal to save its moraine plant, and wisconsin, fighting for its janesville factory, offered $ 153 million. But their overtures were to no avail. G.m. Walked away and, thanks to a federal bailout, is once again profitable. The towns have not been so fortunate, having spent scarce funds in exchange for thousands of jobs that no longer exist. One township, ypsilanti, mich., is suing over the automaker's departure.",
@@ -1451,7 +1442,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1531,13 +1522,12 @@
     },
     {
         "idx": 41057,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Consumers in the uk are on the hunt for a rare and valuable willy wonka-style golden ticket — while the woman who found the third of only four in existence is donating it to charity. It all started when renowned \" micro-engraver \" graham short etched a 5mm-tall image of english author jane austen onto four new 5-pound notes, reports the bbc. That's no small thing: short once sold a portrait of the queen etched onto a tiny piece of gold for about $ 100,000, notes the week, and thus his four new etchings are estimated to be worth $ 60,000 each. Short sent them out into the world by spending one note in each of the kingdom's four home nations: england, scotland, wales, and northern ireland. The first note was found in a wales café in december 2016, and not long after the second was found in a christmas card in scotland. Now, an elderly woman in northern ireland who wishes to remain anonymous just found the third one and sent it back to short with a handwritten note that reads, \" £ 5 note enclosed, i don't need it at my time of life. Please use it to help young people. \" short writes on his website that he will honor her wishes and is working with charities to do so, reports the telegraph. The fourth and final note, first spent in england, is still at large. ( one woman bought a lottery ticket to show her husband it's a waste of money and won, well, a lot of money. )",
         "split": "train",
         "cleansed_document": [
             "A famous engraver etched a tiny picture of jane austen on some five pound notes. Each one is estimated to be worth £ 50,000, judging by the value of some of his other work. Across britain, people checked their fivers to see whether they had one of the four special notes. The third one has now been found by an elderly northern irish woman, and she has kindly donated it to charity. She sent it back to graham short, who engraved the notes, with a note asking him to use it to \" help young people \".",
-            "Media playback is unsupported on your device media caption graham short's portrait of the queen on a pinhead fetched £ 100,000 another five pound note estimated to be worth £ 50,000 due to a tiny, engraved portrait of jane austen has been found. It is the third such discovery across the uk, meaning that just one more note is outstanding. The fivers are the handiwork of birmingham micro-artist graham short. He spent a note in each of the four home nations and said the latest find was in northern ireland - with only england yet to stake a claim to cash featuring 5mm pictures of the author. The first was found in a café in south wales in december 2016, with the second discovery coming in scotland inside a christmas card the same month. Image copyright ferguson media image caption england is the only home nation in which the rare notes have not been found mr short said he spent one of the five pound notes in an undisclosed part of northern ireland - \" in a small bar called charlie's bar \".",
-            "If you have a £ 5 note, you may want to take a closer look at it before you spend it. With the right serial number, it could be worth far more than its face value. The royal mint released the polymer note, which features a portrait of winston churchill, on 13 september and a total of 440 million have been printed. Within days, it was reported that currency collectors were paying inflated prices to get their hands on notes with low serial numbers in the belief they will be worth far more in the future. Here's how to tell how much your fiver might be worth. Which serial numbers are valuable? the best fivers are those from the first batch, with serial numbers starting \" aa01 \". The rest of the number should be low to guarantee a high price. The bank of england sold more than 100 aa01 notes in a charity auction in october, with a note carrying the serial number aa01 000017, the lowest available to the public, according to auctioneers spink,"
+            "Media playback is unsupported on your device media caption graham short's portrait of the queen on a pinhead fetched £ 100,000 another five pound note estimated to be worth £ 50,000 due to a tiny, engraved portrait of jane austen has been found. It is the third such discovery across the uk, meaning that just one more note is outstanding. The fivers are the handiwork of birmingham micro-artist graham short. He spent a note in each of the four home nations and said the latest find was in northern ireland - with only england yet to stake a claim to cash featuring 5mm pictures of the author. The first was found in a café in south wales in december 2016, with the second discovery coming in scotland inside a christmas card the same month. Image copyright ferguson media image caption england is the only home nation in which the rare notes have not been found mr short said he spent one of the five pound notes in an undisclosed part of northern ireland - \" in a small bar called charlie's bar \"."
         ],
         "raw_document": [
             "A famous engraver etched a tiny picture of jane austen on some five pound notes. Each one is estimated to be worth £ 50,000, judging by the value of some of his other work. Across britain, people checked their fivers to see whether they had one of the four special notes. The third one has now been found by an elderly northern irish woman, and she has kindly donated it to charity. She sent it back to graham short, who engraved the notes, with a note asking him to use it to \" help young people \".",
@@ -1554,7 +1544,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1591,7 +1581,7 @@
             "2": 0,
             "3": 1,
             "4": 0,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -1616,7 +1606,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1641,7 +1631,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1667,7 +1657,7 @@
         "vote_count": {
             "0": 3,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1702,14 +1692,13 @@
     },
     {
         "idx": 41063,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "It looks like we can add joe biden and robert de niro to the list of targets of the person or persons who have been sending pipe bombs to prominent democrats after more suspicious devices were intercepted thursday. That brings the count to at least nine devices so far since monday, reports the new york times. The latest developments: de niro: law enforcement sources tell cnn that a suspicious package sent to a manhattan building that houses de niro's tribeca grill restaurant and his production company's office matches the pipe bomb packages intercepted this week. An official tells nbc that a worker at the building in the tribeca neighborhood called police at around 4am after seeing news reports and recalling having spotted the package a day or two ago. De niro is a prominent critic of president trump. Biden: nbc news reports that authorities in delaware found two devices addressed to the former vice president, one at a postal facility in new castle and the other at a postal facility in wilmington. Blame game: president trump on thursday again blamed the media for the current political climate. \" a very big part of the anger we see today in our society is caused by the purposely false and inaccurate reporting of the mainstream media that i refer to as fake news, \" he tweeted thursday. \" it has gotten so bad and hateful that it is beyond description. Mainstream media must clean up its act, fast! \"",
         "split": "train",
         "cleansed_document": [
             "New york ( cnn ) a suspicious package addressed to actor-director robert de niro was reported early thursday at the manhattan building where his production company is based, and its marking and contents appear similar to pipe bomb packages recently mailed nationwide to top democrats, two law enforcement sources said. Also thursday, two suspicious packages addressed to former vice president joe biden were found in delaware, law enforcement officials said. A photo of the package sent to robert deniro, provided by a law enforcement official. With thursday's discoveries, at least 10 suspicious packages, all similar in appearance, have been found this week addressed to eight people who are prominent democrats or high-profile critics of donald trump. The package addressed to de niro, found on the seventh floor of 375 greenwich st. In",
             "[ latest: two more devices were intercepted, one addressed to senator cory booker and the other to james r. Clapper jr., the former senior intelligence official. ] federal authorities investigating a spate of pipe bombs sent this week to several prominent critics of president trump have turned their attention to southern florida, believing that a number of the devices were mailed from there, two people briefed on the matter said thursday. The focus on florida came as three more devices were found, the f.b.i. Said. Two were addressed to former vice president joseph r. Biden jr. In delaware and a third to the actor robert de niro, who lives and works in lower manhattan. All 10 of the similar-looking packages discovered since monday bore return addresses from representative debbie wasserman schultz, a democrat whose district",
-            "Packages addressed to hillary clinton, former president obama, billionaire george soros, ex-attorney general eric holder, former cia director john brennan, rep. Maxine waters - who was sent two -- joe biden and robert de niro all appear to have the same characteristics. Nbc has team coverage. Update: some devices flawed, unable to explode; others yet to be analyzed, several investigators say investigators seized three more suspected package explosives -- two addressed to former vice president joe biden in delaware and one addressed to robert de niro in new york -- early thursday, bringing the total number of confiscated devices sent to high-profile democrats and others to 10 in 72 hours. Multiple officials briefed on the investigation say there are no solid leads on a suspect as of thursday afternoon. While there are no",
-            "A very big part of the anger we see today in our society is caused by the purposely false and inaccurate reporting of the mainstream media that i refer to as fake news. It has gotten so bad and hateful that it is beyond description. Mainstream media must clean up its act, fast!"
+            "Packages addressed to hillary clinton, former president obama, billionaire george soros, ex-attorney general eric holder, former cia director john brennan, rep. Maxine waters - who was sent two -- joe biden and robert de niro all appear to have the same characteristics. Nbc has team coverage. Update: some devices flawed, unable to explode; others yet to be analyzed, several investigators say investigators seized three more suspected package explosives -- two addressed to former vice president joe biden in delaware and one addressed to robert de niro in new york -- early thursday, bringing the total number of confiscated devices sent to high-profile democrats and others to 10 in 72 hours. Multiple officials briefed on the investigation say there are no solid leads on a suspect as of thursday afternoon. While there are no"
         ],
         "raw_document": [
             "New york ( cnn ) a suspicious package addressed to actor-director robert de niro was reported early thursday at the manhattan building where his production company is based, and its marking and contents appear similar to pipe bomb packages recently mailed nationwide to top democrats, two law enforcement sources said. Also thursday, two suspicious packages addressed to former vice president joe biden were found in delaware, law enforcement officials said. A photo of the package sent to robert deniro, provided by a law enforcement official. With thursday's discoveries, at least 10 suspicious packages, all similar in appearance, have been found this week addressed to eight people who are prominent democrats or high-profile critics of donald trump. The package addressed to de niro, found on the seventh floor of 375 greenwich st. In",
@@ -1728,7 +1717,7 @@
             "0": 0,
             "1": 2,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1756,7 +1745,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1780,18 +1769,17 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 41066,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Eighteen years ago, an 18-year-old was put to death after reportedly confessing to the rape and murder of a woman. In 2005, another man admitted to the crime — but only today was the teenager's conviction ruled wrongful, reuters reports. The teen, named huugjilt, made his confession after 48 hours of interrogation in china, presstv reports. But the court says the confession didn't match the evidence, including findings from an autopsy. An official with the court in inner mongolia, an autonomous region within china, has given huugjilt's parents some $ 4,850 following the renewed verdict. According to state news via the south china morning post, huugjilt and a friend were walking by a public restroom when they heard yelling; as huugjilt tried to help, the two found a woman's body, the friend says. \" we learnt a heart-breaking lesson in this case; we are sorry, \" the court official told the weeping parents, who have been trying to have the case retried since 2006. A criminal law expert in china says \" this shows the spirit behind judicial reform in our country and that the will to pursue justice exists — that's a good thing. \" but reformers say china must go further by abolishing the death penalty, stopping government influence over court decisions, and banning police torture for confessions ( which is illegal but still happens, a professor says ). Meanwhile, huugjilt's parents visited their son's grave and ripped up a copy of the verdict. \" the wrongful conviction has been redressed, \" they wrote online. At the grave, his mother wept in a video posted by the beijing news: \" i knew you were innocent, but i could not help you; i miss you so much, \" she says. ( in one reform, china has stopped transplanting organs from executed prisoners. )",
         "split": "train",
         "cleansed_document": [
             "A mainland court has exonerated a young man executed for rape and murder nearly 20 years ago, but analysts cautioned that wrongful convictions would continue until the judicial system was thoroughly reformed. The inner mongolia higher people's court said yesterday that huugjilt, who was 18 when he was killed by firing squad in 1996, was innocent. \" we learned a heartbreaking lesson in this case; we are sorry, \" said zhao jianping, the court's deputy president. He presented 30,000 yuan ( hk$ 37,960 ) to the parents as an expression of \" sympathy \", according to xinhua. Huugjilt's parents later visited his grave, where they burned a copy of the verdict \" to tell him that the wrongful conviction has been redressed \", the family said on its weibo account. His 62-year-old mother broke into tears",
-            "Beijing china on monday exonerated a teenager executed more than 18 years ago for the rape and murder of a woman, drawing approval from judicial reform advocates who saw his death as a symbol of the miscarriage of justice in capital punishment cases. A retrial by an inner mongolian court found that huugjilt, then 18 years old, was wrongly convicted in 1996 of raping and killing a woman in a public restroom. Another man confessed to the murder in 2005, but a retrial was not conducted until this year, the official xinhua news agency reported. A court official apologized to huugjilt's sobbing parents, who had been petitioning judicial authorities since 2006 to re-try the case, state media reported. China has embarked on legal reforms, including reducing the use of death penalty, as public discontent mounts over wrongful punishment. \" this",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Beijing china on monday exonerated a teenager executed more than 18 years ago for the rape and murder of a woman, drawing approval from judicial reform advocates who saw his death as a symbol of the miscarriage of justice in capital punishment cases. A retrial by an inner mongolian court found that huugjilt, then 18 years old, was wrongly convicted in 1996 of raping and killing a woman in a public restroom. Another man confessed to the murder in 2005, but a retrial was not conducted until this year, the official xinhua news agency reported. A court official apologized to huugjilt's sobbing parents, who had been petitioning judicial authorities since 2006 to re-try the case, state media reported. China has embarked on legal reforms, including reducing the use of death penalty, as public discontent mounts over wrongful punishment. \" this"
         ],
         "raw_document": [
             "The universal two-child policy will likely add an average of 2.5 million newborns per year, unleashing 75 billion yuan ( $ 11.8 billion ) in additional consumption, said a scholar of peking university. China lifted its more than three-decade-old family planning policy, according to a statement issued on thursday by the communist party of china central committee, under which roughly 90 million couples will become eligible to have a second child. The estimate is based on the prediction that each child brings an average of 30,000 yuan expense each year, liang jianzhang, professor of economics at peking university, told securities times. He added that the government is expected to expand its annual infrastructural investment by 225 billion yuan over the next five to 10 years. A woman plays with a girl on a street outside the diaoyutai state guesthouse in beijing on nov 8,",
@@ -1810,7 +1798,7 @@
             "0": 4,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1959,7 +1947,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2062,7 +2050,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2143,7 +2131,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2351,7 +2339,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2437,19 +2425,18 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
         "idx": 41090,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The youngest son of a greek billionaire has died in ohio of a suspected overdose involving fentanyl. Socrates s. Kokkalis, 34, was found in cleveland's downtown marriott hotel around 2: 45pm saturday, about 12 hours after he's believed to have died. Though an official cause of death is pending, police suspect an overdose, noting a bag believed to contain a mix of cocaine and fentanyl was found on a tv stand in kokkalis ' hotel room, reports news 5. The bag was one of three, per cleveland.com. A colleague told police he had last seen kokkalis, son of the founder of greek telecommunications giant intercom, around 10: 15pm friday, per news 5. Kokkalis, who studied international relations at boston university more than a decade ago, is believed to have been on a business trip related to a sports betting venture. He was on the board of directors of greek gambling company intralo interactive and also served as the vice president of greek soccer team olympiacos, reports cnn greece, via heavy.com.",
         "split": "train",
         "cleansed_document": [
             "Cleveland, ohio -- three baggies of cocaine were found inside the downtown cleveland hotel room where the son of a greek billionaire died, according to police reports. Socrates s. Kokkalis, 34, died in a suspected drug overdose, according to police reports. An official cause of death will be determined by the cuyahoga county medical examiner. Kokkalis is the son of socrates p. Kokkalis sr., a greek business tycoon, according to cnn greece. The elder kokkalis is the founder of intracom, a greek telecommunications giant and was accused in 2002 of being a spy for east germany beginning in 1963. Intracom is the largest telecommunications company in southeastern europe and has some 5,700 employees",
             "Cleveland - the son of a greek billionaire was found dead saturday at a downtown cleveland hotel. Police said they discovered a baggie of what they suspect is cocaine mixed with fentanyl inside the hotel room. Socrates s. Kokkalis, the 34-year-old son of tycoon socrates p. Kokkalis, was found dead at the cleveland marriott downtown on saturday night, authorities and a police report confirmed. A cause of death has not been determined by the medical examiner's office, but the police report states that a drug overdose is suspected. The medical examiner told news 5 that kokkalis'death was \" untimely. \" police responded to the hotel at about 2: 25 p.m. Saturday",
-            "The son of billionaire socrates kokkalis has been found dead in a hotel room in cleveland. Socrates kokkalis jr. Died on july 14, according to cleveland.com. He was 34 years old. The website says that \"three baggies of cocaine \" were found in the hotel room on the t.v. Stand at the marriott on west mall drive. Police were called to the room at around 2: 45 p.m., authorities believe that kokkalis had died around 12 hours earlier. Abc cleveland reports that the cocaine had been mixed with fentanyl. The medical examiner's office told the station that kokkalis'death is \"untimely \" and that no official cause of death has been confirmed",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "The son of billionaire socrates kokkalis has been found dead in a hotel room in cleveland. Socrates kokkalis jr. Died on july 14, according to cleveland.com. He was 34 years old. The website says that \"three baggies of cocaine \" were found in the hotel room on the t.v. Stand at the marriott on west mall drive. Police were called to the room at around 2: 45 p.m., authorities believe that kokkalis had died around 12 hours earlier. Abc cleveland reports that the cocaine had been mixed with fentanyl. The medical examiner's office told the station that kokkalis'death is \"untimely \" and that no official cause of death has been confirmed"
         ],
         "raw_document": [
             "Cleveland, ohio -- three baggies of cocaine were found inside the downtown cleveland hotel room where the son of a greek billionaire died, according to police reports. Socrates s. Kokkalis, 34, died in a suspected drug overdose, according to police reports. An official cause of death will be determined by the cuyahoga county medical examiner. Kokkalis is the son of socrates p. Kokkalis sr., a greek business tycoon, according to cnn greece. The elder kokkalis is the founder of intracom, a greek telecommunications giant and was accused in 2002 of being a spy for east germany beginning in 1963. Intracom is the largest telecommunications company in southeastern europe and has some 5,700 employees",
@@ -2468,7 +2455,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2548,13 +2535,12 @@
     },
     {
         "idx": 41094,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "If the sun was calm when you were born, you might look forward to a longer life than someone born in a period of high solar activity. The sun's cycles last about 11 years, typically including three years of \" solar maximum \" — when activity like solar flares, sunspots, and solar storms are at their peak — and eight years of \" solar minimum. \" in a new study in the proceedings of the royal society b, researchers looked at demographic data of norwegians born between 1676 and 1878, and found that the lifespans of those born during \" solar maximum \" periods were, on average, 5.2 years shorter than the lifespans of people born during \" solar minimum \" periods, phys.org reports. \" solar activity at birth decreased the probability of survival to adulthood, \" thus causing the decrease in average lifespan, the researchers say. A high percentage of the deaths of those born during \" solar maximums \" occurred by age 2. The authors think ultraviolet radiation is behind the effect. Solar activity is linked to higher levels of uv radiation, which is known to have an impact on survival and reproduction; the authors say there's a possibility that's because it causes cell and dna damage. There's also evidence suggesting uv radiation degrades vitamin b9, or folic acid — and a shortage of that vitamin before birth has been linked to higher illness and death rates. Interestingly, the study also found that being born during \" solar maximum \" significantly reduced fertility for women and decreased the number of children they had who survived to adulthood — but only if those women were born into a poor population, suggesting that more well-to-do women may have been better able to avoid the sun or mitigate the sun's harmful effects through a healthier diet. A good rule of thumb? \" if you are pregnant, don't get a tan, \" says one co-author, according to livescience. ( another recent study finds that if you feel younger than your age, you ' ll likely live longer. )",
         "split": "train",
         "cleansed_document": [
             "The sun's rays may shape human lives in a surprising way: high levels of sun exposure during the year of birth may increase infant mortality and shorten the average life span of a population, a new study finds. Researchers looked at people in norway who were born over two centuries, and compared those who were born during years of peaks in solar activity with those born during years of the lowest levels of solar activity. Results showed that people born during solar peaks lived 5.2 years less, on average, than individuals born in years with the lowest solar activity. Exactly how the sun's activity at the time of a person's birth may affect life span isn't known. But peak solar activity brings higher levels of ultraviolet radiation to earth, and some evidence suggests that uv radiation may increase infant mortality by degrading folic acid, or vitamin b9, which is important for the rapid cell division and growth that happen during pregnancy. The upshot is, \" if you are pregnant, don't get a tan, \" said gine roll skjærvø, a biologist at the norwegian university of science and technology in trondheim, norway, and co-author of the study published today ( jan. 6 ) in",
-            "The sun by the atmospheric imaging assembly of nasa's solar dynamics observatory. Credit: nasa could the sun be your lucky — or unlucky — star? in an unusual study published wednesday, norwegian scientists said people born during periods of solar calm may live longer, as much as five years on average, than those who enter the world when the sun is feisty. The team overlaid demographic data of norwegians born between 1676 and 1878 with observations of the sun. The lifespan of those born in periods of solar maximum — interludes marked by powerful flares and geomagnetic storms — was \" 5.2 years shorter \" on average than those born during a solar minimum, they found. \" solar activity at birth decreased the probability of survival to adulthood, \" thus truncating average lifespan, according to the paper published in the journal proceedings of the royal society b. There was a stronger effect on girls than boys, it said. The sun has cycles that last 11 years, give or take, from one period of greatest activity or solar maximum, to the next. Solar maxima are marked by an increase in sunspots, solar flares and coronal mass ejections that can disrupt radio communications and electrical power on earth, damage satellites and disturb",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "The sun by the atmospheric imaging assembly of nasa's solar dynamics observatory. Credit: nasa could the sun be your lucky — or unlucky — star? in an unusual study published wednesday, norwegian scientists said people born during periods of solar calm may live longer, as much as five years on average, than those who enter the world when the sun is feisty. The team overlaid demographic data of norwegians born between 1676 and 1878 with observations of the sun. The lifespan of those born in periods of solar maximum — interludes marked by powerful flares and geomagnetic storms — was \" 5.2 years shorter \" on average than those born during a solar minimum, they found. \" solar activity at birth decreased the probability of survival to adulthood, \" thus truncating average lifespan, according to the paper published in the journal proceedings of the royal society b. There was a stronger effect on girls than boys, it said. The sun has cycles that last 11 years, give or take, from one period of greatest activity or solar maximum, to the next. Solar maxima are marked by an increase in sunspots, solar flares and coronal mass ejections that can disrupt radio communications and electrical power on earth, damage satellites and disturb"
         ],
         "raw_document": [
             "The sun's rays may shape human lives in a surprising way: high levels of sun exposure during the year of birth may increase infant mortality and shorten the average life span of a population, a new study finds. Researchers looked at people in norway who were born over two centuries, and compared those who were born during years of peaks in solar activity with those born during years of the lowest levels of solar activity. Results showed that people born during solar peaks lived 5.2 years less, on average, than individuals born in years with the lowest solar activity. Exactly how the sun's activity at the time of a person's birth may affect life span isn't known. But peak solar activity brings higher levels of ultraviolet radiation to earth, and some evidence suggests that uv radiation may increase infant mortality by degrading folic acid, or vitamin b9, which is important for the rapid cell division and growth that happen during pregnancy. The upshot is, \" if you are pregnant, don't get a tan, \" said gine roll skjærvø, a biologist at the norwegian university of science and technology in trondheim, norway, and co-author of the study published today ( jan. 6 ) in",
@@ -2571,17 +2557,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 41095,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The mayor of an upstate new york town who has said the town's seal — depicting what looks to be the town's white founder, hugh white, strangling a native american — was nothing more than \" friendly wrestling \" is likely pleased after residents voted monday night to keep it, the post-standard reports. The \" yeas \" counted for 157 out of 212 votes cast, though the newspaper notes the vote was \" informal, \" and the new york daily news says it's \" not legally binding \" ( the village board will meet tuesday to decide where to go from here ). In response to public outcry that the image is racist and offensive to native americans, mayor patrick o ' connor showed up to the vote with other logo possibilities, including one that showed white and the oneida tribe member in a more cheerful interaction — clasping hands — against what the daily news describes as \" a tranquil landscape scene. \" there were also, as wktv notes, some more bizarre options, including a collage of ex-nhl goalie bobby esche, who lives in whitesboro; a depiction that transformed white and the native american into lucha libre-style wrestlers; and one in which the two men teamed up to beat on a british soldier. Many residents who spoke to wktv after the vote — which the station notes was also attended by crew from the daily show and the nightly show — said it was wrong to try to change the town's history. \" political correctness, who cares? \" one voter said, while another added, \" the indian and the white man wrestling... Both appreciated it, and enjoyed it. It was a good thing. \" but elizabeth brigham, who designed an alternate, more serene logo showing the erie canal, disagreed. \" my generation is growing in a way where we are asking for more equality and peace, \" she said. \" and unfortunately our original logo doesn't always depict that to people who don't live here. \"",
         "split": "train",
         "cleansed_document": [
-            "Those looking to stamp out an image labeled offensive and racist were disappointed when a central new york village voted to keep its controversial seal. Residents of whitesboro, near utica, voted overwhelmingly to keep their logo, which shows the town's 18th century founder hugh white subduing a member of the local oneida tribe. The ballot was not legally binding, but 157 of the 212 votes cast supported making no changes to the embattled emblem, according to syracuse.com. The official story behind the image say that the tussle was a friendly wrestling match that helped white earn the respect of the land's inhabitants, though that has not stopped activists from slamming it as disrespectful to native americans. Residents in whitesboro, n.y., voted to keep a village logo that has been repeatedly criticized for showing founder hugh white subduing a native american man. ( village of whitesboro via facebook ) it dates to the late 1800s, but was changed in the 1970s, when white's hands were moved from his opponent's neck to his shoulders to change the appearance of choking. Mayor patrick o ' connor grew tired with the continued issues over the emblem after a petition started by a long island man gathered steam last year, so he presented the village of 3,700 with new options on monday night. Other less controversial calling cards for the town included depictions of white and the oneida man shaking hands on a tranquil landscape scene. Eight other options were offered instead of the original seal, from a landscape scene to depictions of white and the oneida man as luchador wrestlers. ( kimberly howard via twitter ) more surreal options such as the two men as luchador-style wrestlers and a tribute to native son and former nhl goalie robert esche were offered as alternatives to adorn village vehicles and documents, wktv reports. One resident who voted to keep the current seal told the station that he was not interested in what the rest of the world thought about his village and did not care about \"political correctness. \" according to the us census bureau's american community survey, 99.5 % of whitesboro residents listed themselves as white.",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Those looking to stamp out an image labeled offensive and racist were disappointed when a central new york village voted to keep its controversial seal. Residents of whitesboro, near utica, voted overwhelmingly to keep their logo, which shows the town's 18th century founder hugh white subduing a member of the local oneida tribe. The ballot was not legally binding, but 157 of the 212 votes cast supported making no changes to the embattled emblem, according to syracuse.com. The official story behind the image say that the tussle was a friendly wrestling match that helped white earn the respect of the land's inhabitants, though that has not stopped activists from slamming it as disrespectful to native americans. Residents in whitesboro, n.y., voted to keep a village logo that has been repeatedly criticized for showing founder hugh white subduing a native american man. ( village of whitesboro via facebook ) it dates to the late 1800s, but was changed in the 1970s, when white's hands were moved from his opponent's neck to his shoulders to change the appearance of choking. Mayor patrick o ' connor grew tired with the continued issues over the emblem after a petition started by a long island man gathered steam last year, so he presented the village of 3,700 with new options on monday night. Other less controversial calling cards for the town included depictions of white and the oneida man shaking hands on a tranquil landscape scene. Eight other options were offered instead of the original seal, from a landscape scene to depictions of white and the oneida man as luchador wrestlers. ( kimberly howard via twitter ) more surreal options such as the two men as luchador-style wrestlers and a tribute to native son and former nhl goalie robert esche were offered as alternatives to adorn village vehicles and documents, wktv reports. One resident who voted to keep the current seal told the station that he was not interested in what the rest of the world thought about his village and did not care about \"political correctness. \" according to the us census bureau's american community survey, 99.5 % of whitesboro residents listed themselves as white."
         ],
         "raw_document": [
             "Those looking to stamp out an image labeled offensive and racist were disappointed when a central new york village voted to keep its controversial seal. Residents of whitesboro, near utica, voted overwhelmingly to keep their logo, which shows the town's 18th century founder hugh white subduing a member of the local oneida tribe. The ballot was not legally binding, but 157 of the 212 votes cast supported making no changes to the embattled emblem, according to syracuse.com. The official story behind the image say that the tussle was a friendly wrestling match that helped white earn the respect of the land's inhabitants, though that has not stopped activists from slamming it as disrespectful to native americans. Residents in whitesboro, n.y., voted to keep a village logo that has been repeatedly criticized for showing founder hugh white subduing a native american man. ( village of whitesboro via facebook ) it dates to the late 1800s, but was changed in the 1970s, when white's hands were moved from his opponent's neck to his shoulders to change the appearance of choking. Mayor patrick o ' connor grew tired with the continued issues over the emblem after a petition started by a long island man gathered steam last year, so he presented the village of 3,700 with new options on monday night. Other less controversial calling cards for the town included depictions of white and the oneida man shaking hands on a tranquil landscape scene. Eight other options were offered instead of the original seal, from a landscape scene to depictions of white and the oneida man as luchador wrestlers. ( kimberly howard via twitter ) more surreal options such as the two men as luchador-style wrestlers and a tribute to native son and former nhl goalie robert esche were offered as alternatives to adorn village vehicles and documents, wktv reports. One resident who voted to keep the current seal told the station that he was not interested in what the rest of the world thought about his village and did not care about \"political correctness. \" according to the us census bureau's american community survey, 99.5 % of whitesboro residents listed themselves as white.",
@@ -2596,7 +2581,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2633,7 +2618,7 @@
             "2": 0,
             "3": 0,
             "4": 1,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -2666,12 +2651,11 @@
     },
     {
         "idx": 41098,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "California parent carl krawitt is ok with parents refusing to have their children vaccinated. He just wants their kids to stay away from his kid — and he wants schools to help by forbidding anti-vaxxers from attending, reports npr. Krawitt's 6-year-old son, rhett, is in remission from leukemia, and the boy hasn't been able to be vaccinated because of all the chemo he's received. That makes him especially vulnerable to the recent measles outbreak, argues krawitt, who has asked the superintendent of his school district in marin county to bar unvaccinated students and thus keep \" herd immunity \" strong. \"i respect people's choices about what to do with their kids, but if someone's kid gets sick and gets my kid sick, too, that's a problem, \" he says. The decision actually rests with county health officer matt willis, who tells the new york times that such a move isn't warranted, at least yet. \"i obviously have to balance the responsibility to control communicable disease with everybody's right to freedom, and the line right now would basically be if there's a case in this school, \" he says. Marin county has not registered a case of measles in the latest outbreak, though nine counties elsewhere in the state have, along with seven other states and mexico, reports the la times. The total number of cases, mostly in california, was at 95 yesterday.",
         "split": "train",
         "cleansed_document": [
-            "Public health to protect his son, a father asks school to bar unvaccinated children i itoggle caption courtesy of carl krawitt courtesy of carl krawitt carl krawitt has watched his son, rhett, now 6, fight leukemia for the past 4 1/2 years. For more than three of those years, rhett has undergone round after round of chemotherapy. Last year he finished chemotherapy, and doctors say he is in remission. Now, there's a new threat, one that the family should not have to worry about: measles. Rhett cannot be vaccinated, because his immune system is still rebuilding. It may be months more before his body is healthy enough to get all his immunizations. Until then, he depends on everyone around him for protection — what's known as herd immunity. But rhett lives in marin county, calif., a county with the dubious honor of having the highest rate of \" personal belief exemptions \" in the bay area and among the highest in the state. This school year, 6.45 percent of children in marin have a personal belief exemption, which allows parents to lawfully send their children to school unvaccinated against communicable diseases like measles, polio, whooping cough and more. Carl krawitt has had just about enough. \" it's very emotional for me, \" he said. \" if you choose not to immunize your own child and your own child dies because they get measles, ok, that's your responsibility, that's your choice. But if your child gets sick and gets my child sick and my child dies, then... Your action has harmed my child. \" krawitt is taking action of his own. His son attends reed elementary in tiburon, a school with a 7 percent personal belief exemption rate. ( the statewide average is 2.5 percent ). Krawitt had previously worked with the school nurse to make sure that all the children in his son's class were fully vaccinated. He said the school was very helpful and accommodating",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Public health to protect his son, a father asks school to bar unvaccinated children i itoggle caption courtesy of carl krawitt courtesy of carl krawitt carl krawitt has watched his son, rhett, now 6, fight leukemia for the past 4 1/2 years. For more than three of those years, rhett has undergone round after round of chemotherapy. Last year he finished chemotherapy, and doctors say he is in remission. Now, there's a new threat, one that the family should not have to worry about: measles. Rhett cannot be vaccinated, because his immune system is still rebuilding. It may be months more before his body is healthy enough to get all his immunizations. Until then, he depends on everyone around him for protection — what's known as herd immunity. But rhett lives in marin county, calif., a county with the dubious honor of having the highest rate of \" personal belief exemptions \" in the bay area and among the highest in the state. This school year, 6.45 percent of children in marin have a personal belief exemption, which allows parents to lawfully send their children to school unvaccinated against communicable diseases like measles, polio, whooping cough and more. Carl krawitt has had just about enough. \" it's very emotional for me, \" he said. \" if you choose not to immunize your own child and your own child dies because they get measles, ok, that's your responsibility, that's your choice. But if your child gets sick and gets my child sick and my child dies, then... Your action has harmed my child. \" krawitt is taking action of his own. His son attends reed elementary in tiburon, a school with a 7 percent personal belief exemption rate. ( the statewide average is 2.5 percent ). Krawitt had previously worked with the school nurse to make sure that all the children in his son's class were fully vaccinated. He said the school was very helpful and accommodating"
         ],
         "raw_document": [
             "Public health to protect his son, a father asks school to bar unvaccinated children i itoggle caption courtesy of carl krawitt courtesy of carl krawitt carl krawitt has watched his son, rhett, now 6, fight leukemia for the past 4 1/2 years. For more than three of those years, rhett has undergone round after round of chemotherapy. Last year he finished chemotherapy, and doctors say he is in remission. Now, there's a new threat, one that the family should not have to worry about: measles. Rhett cannot be vaccinated, because his immune system is still rebuilding. It may be months more before his body is healthy enough to get all his immunizations. Until then, he depends on everyone around him for protection — what's known as herd immunity. But rhett lives in marin county, calif., a county with the dubious honor of having the highest rate of \" personal belief exemptions \" in the bay area and among the highest in the state. This school year, 6.45 percent of children in marin have a personal belief exemption, which allows parents to lawfully send their children to school unvaccinated against communicable diseases like measles, polio, whooping cough and more. Carl krawitt has had just about enough. \" it's very emotional for me, \" he said. \" if you choose not to immunize your own child and your own child dies because they get measles, ok, that's your responsibility, that's your choice. But if your child gets sick and gets my child sick and my child dies, then... Your action has harmed my child. \" krawitt is taking action of his own. His son attends reed elementary in tiburon, a school with a 7 percent personal belief exemption rate. ( the statewide average is 2.5 percent ). Krawitt had previously worked with the school nurse to make sure that all the children in his son's class were fully vaccinated. He said the school was very helpful and accommodating",
@@ -2686,19 +2670,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 41099,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "There will soon be a buzz in the air in the northeast. Billions of cicadas with a 17-year life span have spent the entire 21st century underground in ohio, new york, pennsylvania, maryland, virginia, and west virginia, reports fox news. But when nighttime soil temperature hits 64 degrees for four consecutive days beginning next month, as many as 1.5 million bugs per acre will emerge from their hiding places to mate and lay eggs; the washington post reports females can lay as many as 400 eggs apiece. Death will follow three to five weeks after the cicadas have been above ground. Once the cicada eggs hatch, the ant-sized nymphs will head underground to suck sap from tree roots just like their parents and only emerge in spring 2033, reports the cleveland plain dealer. Unlike the greenish-black cicadas that resurface every year and \" make a ch-ch-ch-ch sound, \" the 17-year periodical cicadas are black and orange and produce \" a continuous buzzing sound, \" according to cleveland metroparks. Farm and dairy explains there are 13 \" broods \" of 17-year cicadas, with each brood bearing a roman numeral from i through xvii as name; the numeral indicates the possible year the cicadas will emerge. As penn state's college of agriculture science explains, \" the numbering of the 17-year broods began with the 1893 brood which was designated as brood i. In 1909, brood xvii appeared, and in 1910, brood i appeared again. \" those coming shortly are brood v. Different broods occupy different parts of the country. Ohio, for instance, is home to four broods. Cicadamania.com shares the locations within the aforementioned six states where the creatures are most likely to emerge. ( scientists recently cracked the monarch butterfly's secret to not getting lost. )",
         "split": "train",
         "cleansed_document": [
             "Next month, as temperatures warm, billions of cicadas will begin to emerge from the ground as their internal clocks hit the 17-year mark. Soon, their numbers will swell in locations in ohio, new york, pennsylvania, maryland and virginia and west virginia, making a racket as the males call for the females. These red-eyed bugs began their lives in 1999, spent over",
             "Cleveland, ohio -- the last time northeast ohio was overrun by periodical cicadas, bill clinton was president, a gallon of gasoline cost about $ 1.14, and the cleveland browns had just returned to the nfl after a four-year absence, selecting quarterback tim couch with their first draft pick. Seventeen years later, beginning next month, multitudes of cicada nymphs that have been growing underground",
-            "Brood v cicadas will emerge in parts of ohio, pennsylvania, west virginia, virginia and maryland in 2016. 2016 is the year that brood v of the periodical 17-year cicadas will return to much of eastern ohio as well as some nearby states. If you're a resident of the eastern united states, consider yourself lucky. It's the only part of the country",
-            "Magicicada septendecim ( linnaeus ) periodical cicadas are spectacular insects, often making sudden and dramatic appearances. Alexander and moore wrote in 1962, \" the periodical cicadas make up a truly amazing group of animals; since their discovery 300 years ago, the origin and significance of their extended life cycles have been a continual source of puzzlement to biologists. Their incredible ability to merge by the"
+            "Brood v cicadas will emerge in parts of ohio, pennsylvania, west virginia, virginia and maryland in 2016. 2016 is the year that brood v of the periodical 17-year cicadas will return to much of eastern ohio as well as some nearby states. If you're a resident of the eastern united states, consider yourself lucky. It's the only part of the country"
         ],
         "raw_document": [
             "Filling out this form will help us track the brood v cicada emergence. Come back to contribute whenever you have new information! posting about cicadas on social media? use #broodv and #cicadas2016! the 17-year periodical cicadas include three similar species that emerge at once: cicadas are closely related to leaf-hoppers, tree-hoppers and other plant-sucking bugs. Cicadas are not locusts. Locusts are grasshoppers.",
@@ -2723,7 +2706,7 @@
             "3": 5,
             "4": 1,
             "5": 4,
-            "6": 0
+            "6": 4
         }
     }
 ]

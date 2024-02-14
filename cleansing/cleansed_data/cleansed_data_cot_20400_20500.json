@@ -1,13 +1,12 @@
 [
     {
         "idx": 20400,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "You may have heard the term \" mancession, \" coined because the recent recession took a bigger toll on men than women. But \" manfluencers \"? that, as quartz explains, is a trademarked term from midan marketing, whose survey revealed that 47 % of us men now do most of the grocery shopping and cooking in their homes. A sizable chunk are also clipping coupons and generally overturning long-held notions of gender roles in the supermarket and in the kitchen — which helps explain why companies are tripping over themselves to package foods designed to catch the eyes of guys. Witness \" brogurt, \" the nickname for powerful yogurt, pitched as the first yogurt specifically designed for men. Think more protein, bigger servings, bull horns on the packaging, and tag lines such as \" find your inner abs. \" at slate, kristin hohenadel isn't so sure about this kind of stuff. \" isn't this just as condescending ( and embarrassing ) to men as pastel-colored girly yogurt packaging is to women? \" maybe, but don't expect the concept to fade away anytime soon. A recent wall street journal story found that companies are rolling out man-friendly packaging for everything from cold-brew coffee to hard cider to hamburger helper. ( click to read about how men still can't compete with women when it comes to multitasking. )",
         "split": "train",
         "cleansed_document": [
             "Can cookies, whole-grain bread and frozen yogurt be manly? food makers are changing their products to signal, quietly, to men that they should eat them. Anne marie chaker and father of three jeremy alinder discuss. Photo: f. Martin ramin for the wall street journal. Yogurt for men is radically different from the yogurt women buy: the label is black. Food makers, including giants kraft foods group inc. Krft +1.29 % kraft foods group inc. U.s.: nasdaq $ 59.72 +0.76 +1.29 % after hours $ 60.09 +0.37 +0.62 % p/e ratio 12.84 market cap $ 35.55 billion dividend yield 3.52 % rev. Per employee $ 803,822 06/07/14 kraft raises maxwell house, yu... 06/04/14 hillshire's mix puts it in a p... 06/03/14 coffee-futures run-up makes wa... More quote details and news » krft in your value your change short position and general mills inc., gis +0.13 % general",
-            "Image courtesy powerful yogurt recently the wall street journal reported on a growing trend among major american food brands: marketing various foodstuffs specifically to men. Apparently, men have discovered grocery shopping but need to be convinced that it's safe to buy staples such as bread and yogurt with testosterone-injected packaging design. Perhaps the most flagrantly macho packaging belongs to powerful yogurt, named best yogurt of 2013 by foodbev's dairy innovation awards program for its unapologetically dude-centric design. Powerful yogurt claims that it is \"the first yogurt in the u.s. Specifically designed for men and men's health needs. \" what makes it different from any other greek-style yogurt currently on the market? according to the company, its \"man-sized \" 8-oz. Portion size containing a super-charged 25 grams of protein and zero fat. Advertisement the company has chosen a bold red-and-black packaging design with ab-like contours on the side of its larger-than-average",
-            "They called it the \"great mancession. \" as the post-2008 economic decline put more men out of work than women in the us, marketers began to notice a trend: men in opposite-sex couples were taking over what had traditionally been women's roles. In focus group after focus group, julie murphy, an account planner at midan marketing, heard from under- and unemployed men who were buying and preparing most of the food in their households. Robbed of their economic potency, men were transforming themselves from chest-waxing metrosexuals into helpmates. Smelling a trend, midan conducted a survey that revealed that 47 % of men in the us are buying most of of the groceries and doing most of the cooking in their homes. Murphy decided to call this group \"manfluencers™ \" in order to highlight their newfound power over purchasing decisions. ( yes, the term is trademarked. ) contrary to decades of dogma"
+            "Image courtesy powerful yogurt recently the wall street journal reported on a growing trend among major american food brands: marketing various foodstuffs specifically to men. Apparently, men have discovered grocery shopping but need to be convinced that it's safe to buy staples such as bread and yogurt with testosterone-injected packaging design. Perhaps the most flagrantly macho packaging belongs to powerful yogurt, named best yogurt of 2013 by foodbev's dairy innovation awards program for its unapologetically dude-centric design. Powerful yogurt claims that it is \"the first yogurt in the u.s. Specifically designed for men and men's health needs. \" what makes it different from any other greek-style yogurt currently on the market? according to the company, its \"man-sized \" 8-oz. Portion size containing a super-charged 25 grams of protein and zero fat. Advertisement the company has chosen a bold red-and-black packaging design with ab-like contours on the side of its larger-than-average"
         ],
         "raw_document": [
             "Can cookies, whole-grain bread and frozen yogurt be manly? food makers are changing their products to signal, quietly, to men that they should eat them. Anne marie chaker and father of three jeremy alinder discuss. Photo: f. Martin ramin for the wall street journal. Yogurt for men is radically different from the yogurt women buy: the label is black. Food makers, including giants kraft foods group inc. Krft +1.29 % kraft foods group inc. U.s.: nasdaq $ 59.72 +0.76 +1.29 % after hours $ 60.09 +0.37 +0.62 % p/e ratio 12.84 market cap $ 35.55 billion dividend yield 3.52 % rev. Per employee $ 803,822 06/07/14 kraft raises maxwell house, yu... 06/04/14 hillshire's mix puts it in a p... 06/03/14 coffee-futures run-up makes wa... More quote details and news » krft in your value your change short position and general mills inc., gis +0.13 % general",
@@ -24,17 +23,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 20401,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A pair of suicide bombings minutes apart hit a central baghdad market on saturday, killing 28 people and wounding at least 54, prompting security forces to ban traffic from key streets at the center of the iraqi capital, police and hospital officials, the ap reports. The twin attacks hit al-sinak, a busy market selling car accessories, food and clothes as well as agricultural seeds and machinery. Minutes after the first suicide bomber detonated his explosives-laden belt, the second one struck amid the crowd that gathered, according to the officials. Isis claimed responsibility for the attacks in a statement posted by its aamaq news agency, confirming that the blasts came from a pair of suicide bombers. Later on saturday, three separate attacks in and around baghdad killed eight people and wounded 17. Those killed included one policeman. The attacks came after iraqi forces moved into the second phase of the operation to retake mosul following weeks of deadlock, reuters reports.",
         "split": "train",
         "cleansed_document": [
-            "Baghdad ( ap ) — a pair of bomb blasts targeting a market in central baghdad saturday killed at least 28 people and wounded at least 54, according to police and medical officials. The attacks took place early saturday morning in al-sinak, a busy market selling car accessories, food and clothes as well as agricultural seeds and machinery. Details were sketchy in the immediate aftermath. Police at first said a pair of back-to-back roadside bombs exploded. Later a police official said first a roadside bomb exploded, then a suicide bomber detonated his device amid the crowd that had gathered. Finally police concluded that the carnage was the work of a pair of suicide bombers all officials spoke on condition of anonymity because they were not authorized to release the information. No group has claimed responsibility for the blasts, but the islamic state group has launched near-daily attacks in the capital in recent months.",
-            "Sada, iraq ( reuters ) - the earth shook three times with the impact of air strikes targeting islamic state positions north of mosul. Only then did the iraqi troops assembled on the edge of the small farming village advance. The army had gathered on friday afternoon in a muddy street that showed signs of heavy fighting with the jihadists from a day earlier: store fronts shorn off, electricity poles pulled down, bullet casings carpeting the ground. A rooftop sentinel kept watch. The iraqis'tan-colored humvees, reinforced with steel plates around the wheels to guard against sniper fire, were dwarfed by four mraps ( mine-resistant ambush-protected vehicles ) manned by u.s. Military advisers. The second phase of the operation to retake mosul, islamic state's last major stronghold in iraq, began on thursday after several weeks of deadlock in the most complex operation in the country since the 2003 u.s.-led invasion. Conventional u.s. Forces deploying more extensively in this phase are now visible very close to the front lines. They are backing iraq's army, federal police and counter-terrorism service ( cts ), whose levels of training and experience vary widely. Since the offensive began 10 weeks ago, cts punched into mosul from the east and took a quarter of the city, but regular army troops like those in sada have made slower progress advancing from the north and south, slowing the operation. Iraqi soldiers carry weapons during a battle with islamic state, north of mosul, iraq, december 30, 2016. Reuters/khalid al mousily marginal advantage western officials from a coalition providing air support, training and advice to the iraqi military have hailed the recovery of the army and police, which dropped their weapons and fled islamic state's blitz across a third of the country in 2014 despite billions of dollars in u.s."
+            "Baghdad ( ap ) — a pair of bomb blasts targeting a market in central baghdad saturday killed at least 28 people and wounded at least 54, according to police and medical officials. The attacks took place early saturday morning in al-sinak, a busy market selling car accessories, food and clothes as well as agricultural seeds and machinery. Details were sketchy in the immediate aftermath. Police at first said a pair of back-to-back roadside bombs exploded. Later a police official said first a roadside bomb exploded, then a suicide bomber detonated his device amid the crowd that had gathered. Finally police concluded that the carnage was the work of a pair of suicide bombers all officials spoke on condition of anonymity because they were not authorized to release the information. No group has claimed responsibility for the blasts, but the islamic state group has launched near-daily attacks in the capital in recent months."
         ],
         "raw_document": [
             "Baghdad ( ap ) — a pair of bomb blasts targeting a market in central baghdad saturday killed at least 28 people and wounded at least 54, according to police and medical officials. The attacks took place early saturday morning in al-sinak, a busy market selling car accessories, food and clothes as well as agricultural seeds and machinery. Details were sketchy in the immediate aftermath. Police at first said a pair of back-to-back roadside bombs exploded. Later a police official said first a roadside bomb exploded, then a suicide bomber detonated his device amid the crowd that had gathered. Finally police concluded that the carnage was the work of a pair of suicide bombers all officials spoke on condition of anonymity because they were not authorized to release the information. No group has claimed responsibility for the blasts, but the islamic state group has launched near-daily attacks in the capital in recent months.",
@@ -49,7 +47,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -157,7 +155,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -236,12 +234,11 @@
     },
     {
         "idx": 20409,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Hillary clinton's email mess just got a little messier. State department documents obtained by the ap through foia show clinton sent at least four emails to her main advisers from an ipad and a blackberry — despite previous claims she preferred just one email and one mobile device for convenience. Personal messages were mixed up with work correspondence, as one 2011 exchange between clinton and huma abedin show, politico notes. Clinton responded to an email about a pakistan drone strike with one about home décor: \" i like the idea of these. How high are they? what would the bench be made of? and i'd prefer two shelves or attractive boxes/baskets/ conmtainers ( sic ) on one. What do you think? \" after abedin replied, \" did u mean to send to me? \" clinton answered, \" no-sorry! also, pls let me know if you got a reply from my ipad. I ' m not sure replies go thru. \" clinton's spokesman told the ap today that clinton uses her ipad to keep up with news. Meanwhile, although the email hubbub \" has not done huge violence to her presidential chances, \" it's \" taking a toll on [ her ] public image, \" says a quinnipiac pollster. The survey out today finds that no state has a majority of voters who find her trustworthy, and the margins between her and republican opponents are tightening in the key states of florida, ohio, and pennsylvania, though clinton \" still runs best overall of any candidate. \" ( mixed results have been filtering in from other clinton-themed polls. )",
         "split": "train",
         "cleansed_document": [
-            "Washington ( ap ) — hillary rodham clinton emailed her staff on an ipad as well as a blackberry while secretary of state, despite her explanation she exclusively used a personal email address on a homebrew server so that she could carry a single device, according to documents obtained by the associated press. File - in this dec. 8, 2011, file photo, then-u.s. Secretary of state hillary rodham clinton hands off her mobile phone after arriving to meet with dutch foreign minister uri rosenthal at the ministry... ( associated press ) the state department released a total of four emails between clinton and her top advisers as part of a freedom of information act request filed in 2013 by the ap, which sought clinton's correspondence with senior advisers over a four-year period relating to drone strikes overseas and u.s. Surveillance programs. While limited, the emails offer one of the first looks into clinton's correspondence while secretary of state. The messages came from and were sent to her private email address, hosted on a server at her property in chappaqua, new york, as opposed to a government-run email account. They show that clinton, on at least one occasion, accidentally mingled personal and work matters. In reply to a message sent in september 2011 by adviser huma abedin to clinton's personal email account, which contained an ap",
-            "March 31, 2015 - clinton down but still up in florida, ohio, pennsylvania, quinnipiac university swing state poll finds florida: - bush 45 - clinton 42 ohio: clinton 46 - paul 41 pennsylvania: paul 45 - clinton 44 former secretary of state hillary clinton's margins are down in matchups with possible 2016 republican presidential candidates in three critical swing states, florida, ohio and pennsylvania, and in no state do voters say she's honest and trustworthy, but she still runs best overall of any candidate, according to a quinnipiac university swing state poll released today. The closest contests are in florida, where former gov. Jeb bush gets 45 percent to clinton's 42 percent, and pennsylvania, where u.s. Sen. Rand paul of kentucky gets 45 percent to clinton's 44 percent, the independent quinnipiac ( kwin-uh-pe-ack ) university poll finds. The swing state poll focuses on florida, ohio and pennsylvania because since 1960 no candidate has won the presidential race without taking at least two of these three states. Clinton's favorability rating is down in each state, but she still does better than republican contenders, except for jeb bush and u.s. Sen. Marco rubio in florida. Clinton is not honest and trustworthy, florida voters say 50 - 41 percent and pennsylvania voters say 49 - 44 percent."
+            "Washington ( ap ) — hillary rodham clinton emailed her staff on an ipad as well as a blackberry while secretary of state, despite her explanation she exclusively used a personal email address on a homebrew server so that she could carry a single device, according to documents obtained by the associated press. File - in this dec. 8, 2011, file photo, then-u.s. Secretary of state hillary rodham clinton hands off her mobile phone after arriving to meet with dutch foreign minister uri rosenthal at the ministry... ( associated press ) the state department released a total of four emails between clinton and her top advisers as part of a freedom of information act request filed in 2013 by the ap, which sought clinton's correspondence with senior advisers over a four-year period relating to drone strikes overseas and u.s. Surveillance programs. While limited, the emails offer one of the first looks into clinton's correspondence while secretary of state. The messages came from and were sent to her private email address, hosted on a server at her property in chappaqua, new york, as opposed to a government-run email account. They show that clinton, on at least one occasion, accidentally mingled personal and work matters. In reply to a message sent in september 2011 by adviser huma abedin to clinton's personal email account, which contained an ap"
         ],
         "raw_document": [
             "Washington ( ap ) — hillary rodham clinton emailed her staff on an ipad as well as a blackberry while secretary of state, despite her explanation she exclusively used a personal email address on a homebrew server so that she could carry a single device, according to documents obtained by the associated press. File - in this dec. 8, 2011, file photo, then-u.s. Secretary of state hillary rodham clinton hands off her mobile phone after arriving to meet with dutch foreign minister uri rosenthal at the ministry... ( associated press ) the state department released a total of four emails between clinton and her top advisers as part of a freedom of information act request filed in 2013 by the ap, which sought clinton's correspondence with senior advisers over a four-year period relating to drone strikes overseas and u.s. Surveillance programs. While limited, the emails offer one of the first looks into clinton's correspondence while secretary of state. The messages came from and were sent to her private email address, hosted on a server at her property in chappaqua, new york, as opposed to a government-run email account. They show that clinton, on at least one occasion, accidentally mingled personal and work matters. In reply to a message sent in september 2011 by adviser huma abedin to clinton's personal email account, which contained an ap",
@@ -256,7 +253,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -398,7 +395,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -539,7 +536,7 @@
             "3": 0,
             "4": 2,
             "5": 0,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -611,12 +608,11 @@
     },
     {
         "idx": 20422,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Good news for mitt romney out of the battleground state of florida: after endorsing president obama in 2008, the orlando sentinel is backing romney this time around, cnn reports. Its reasons: \" anemic \" economic growth and the increasing poverty rate. \" we have little confidence that obama would be more successful managing the economy and the budget in the next four years, \" the endorsement reads. Even so, it bluntly states that \" romney is not our ideal candidate for the president, \" citing his social conservatism and stance on immigration. \" but the core of romney's campaign platform, his five-point plan, at least shows he understands that reviving the economy and repairing the government's balance sheet are imperative — now, not four years in the future. \" the paper pulled a similar switcheroo in 2004, when it endorsed john kerry after supporting george w. Bush in 2000.",
         "split": "train",
         "cleansed_document": [
-            "5 years ago ( cnn ) – the orlando sentinel announced thursday their endorsement of republican nominee mitt romney in the 2012 presidential race. The florida newspaper cited \" anemic \" economic growth and a growing poverty rate as reasons to throw their support behind the gop candidate as opposed to president barack obama, which they did in 2008. - follow the ticker on twitter: @politicalticker - check out the cnn electoral map and calculator and game out your own strategy for november. \" we have little confidence that obama would be more successful managing the economy and the budget in the next four years. For that reason, though we endorsed him in 2008, we are recommending romney in this race, \" reads the endorsement. In 2000, the paper endorsed republican george w. Bush and then switched to support democrat john kerry in 2004. While handing romney its support, the paper also conceded that the republican white house hopeful is \" not our ideal candidate for president. \" \" we've been turned off by his appeals to social conservatives and immigration extremists. Like most presidential hopefuls, including obama four years ago, romney faces a steep learning curve on foreign policy, \" said the paper, alluding to romney's stances taken during the republican primary contests. \" but the core of romney's campaign platform, his five-point plan",
-            "Two days after his lackluster first debate performance, president barack obama's re-election hopes got a timely boost. The government's monthly jobless report for september showed the nation's unemployment rate fell below 8 percent for the first time since he took office. If that were the only metric that mattered, the president might credibly argue that the u.s. Economy was finally on the right track. Unfortunately for him, and for the american people, he can't. Economic growth, three years into the recovery, is anemic. Family incomes are down, poverty is up. Obama's republican challenger, mitt romney, highlighted these and other hard truths in this week's second debate. Even the september jobless numbers deserve an asterisk, because more than 4 million americans have given up looking for work since january 2009. And while the nation's economy is still sputtering nearly four years after obama took office, the federal government is more than $ 5 trillion deeper in debt. It just racked up its fourth straight 13-figure shortfall. We have little confidence that obama would be more successful managing the economy and the budget in the next four years. For that reason, though we endorsed him in 2008, we are recommending romney in this race. Obama's defenders would argue that he inherited the"
+            "5 years ago ( cnn ) – the orlando sentinel announced thursday their endorsement of republican nominee mitt romney in the 2012 presidential race. The florida newspaper cited \" anemic \" economic growth and a growing poverty rate as reasons to throw their support behind the gop candidate as opposed to president barack obama, which they did in 2008. - follow the ticker on twitter: @politicalticker - check out the cnn electoral map and calculator and game out your own strategy for november. \" we have little confidence that obama would be more successful managing the economy and the budget in the next four years. For that reason, though we endorsed him in 2008, we are recommending romney in this race, \" reads the endorsement. In 2000, the paper endorsed republican george w. Bush and then switched to support democrat john kerry in 2004. While handing romney its support, the paper also conceded that the republican white house hopeful is \" not our ideal candidate for president. \" \" we've been turned off by his appeals to social conservatives and immigration extremists. Like most presidential hopefuls, including obama four years ago, romney faces a steep learning curve on foreign policy, \" said the paper, alluding to romney's stances taken during the republican primary contests. \" but the core of romney's campaign platform, his five-point plan"
         ],
         "raw_document": [
             "5 years ago ( cnn ) – the orlando sentinel announced thursday their endorsement of republican nominee mitt romney in the 2012 presidential race. The florida newspaper cited \" anemic \" economic growth and a growing poverty rate as reasons to throw their support behind the gop candidate as opposed to president barack obama, which they did in 2008. - follow the ticker on twitter: @politicalticker - check out the cnn electoral map and calculator and game out your own strategy for november. \" we have little confidence that obama would be more successful managing the economy and the budget in the next four years. For that reason, though we endorsed him in 2008, we are recommending romney in this race, \" reads the endorsement. In 2000, the paper endorsed republican george w. Bush and then switched to support democrat john kerry in 2004. While handing romney its support, the paper also conceded that the republican white house hopeful is \" not our ideal candidate for president. \" \" we've been turned off by his appeals to social conservatives and immigration extremists. Like most presidential hopefuls, including obama four years ago, romney faces a steep learning curve on foreign policy, \" said the paper, alluding to romney's stances taken during the republican primary contests. \" but the core of romney's campaign platform, his five-point plan",
@@ -631,17 +627,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 20423,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's no jersey shore, but mike huckabee is facing down a bunch of new jersey college kids whose student newspaper he says \" sensationalized \" his thoughts on gay marriage. The former governor, in an interview with the college of new jersey's perspective, said that not every group's needs should be accommodated, drawing parallels between gay marriage and drug use, polygamy, and incest, as well as calling gay activists \" disingenuous. \" \" who gives you the right to say that a polygamist is not just as right in his argument as is the person who wants same sex \" marriage? huckabee asked. He later took issue with the way his remarks had been reported and fired off a statement claiming his views had been \" grossly distorted, \" and that the student he spoke to \" hopefully will find a career other than journalism, \" abc reports.",
         "split": "train",
         "cleansed_document": [
-            "« previous &#124; main &#124; next » mike huckabee blasts student newspaper for 'sensationalizing ' comments on gay marriage abc news ' huma khan reports: in an unusual battlefront, former arkansas governor mike huckabee is embroiled in a heated war of words with a college newspaper after telling a student reporter that it is \"disingenuous \" to recognize gay marriage but not polygamy. Huckabee told the perspective, the college of new jersey's student magazine, that it's not his place to tell someone how to live, but he argued against the legitimacy of civil unions. \"there's a real level of being disingenuous on the part of the gay and lesbian community, \" he said. \" that would be like saying, well there's there are a lot of people who like to use drugs so let's go ahead and accommodate those who want to use drugs. There are some people who believe in incest, so we should accommodate them. There are people who believe in polygamy, should we accommodate them?... Who gives you the right to say that a polygamist is not just as right in his argument as is the person who wants same sex [ marriage ]? \" the former gop presidential candidate also spoke out strongly against gay adoption. \"this is not about trying to create statements for people who want",
-            "Huckabee rips steele, romney, lgbt activists calls romney's healthcare plan \"dismal failure, \" compares same-sex marriage to incest by m.c. Tracey update: perspective responds to huckabee claim that his views were 'grossly distorted ' in article ( 4.13.10 ) in an interview wednesday, former arkansas governor and republican presidential candidate mike huckabee weighed in on embattled republican national committee chairman michael steele, slammed his potential 2012 presidential primary rival mitt romney, and reiterated strong opposition to same-sex marriage and the repeal of 'don't ask don't tell.'the popular fox news host, who appeared at the college of new jersey in ewing, nj, leveled into steele for his handling of last week's revelation that rnc officials spent donor money at a bondage-themed los angeles strip club. \"i think what's happened is horrible, \" huckabee said. \"the question is, how is [ steele ] going to take control and how is he going to explain it? i think there does need to be a better explanation than what's come forth so far, \" he continued. \"it's been pretty weak. \" huckabee said ongoing controversies involving steele may become an electoral liability for republicans as this year's midterm elections approach. \"it's indefensible the way that some of the money has been spent, \" huckabee"
+            "« previous &#124; main &#124; next » mike huckabee blasts student newspaper for 'sensationalizing ' comments on gay marriage abc news ' huma khan reports: in an unusual battlefront, former arkansas governor mike huckabee is embroiled in a heated war of words with a college newspaper after telling a student reporter that it is \"disingenuous \" to recognize gay marriage but not polygamy. Huckabee told the perspective, the college of new jersey's student magazine, that it's not his place to tell someone how to live, but he argued against the legitimacy of civil unions. \"there's a real level of being disingenuous on the part of the gay and lesbian community, \" he said. \" that would be like saying, well there's there are a lot of people who like to use drugs so let's go ahead and accommodate those who want to use drugs. There are some people who believe in incest, so we should accommodate them. There are people who believe in polygamy, should we accommodate them?... Who gives you the right to say that a polygamist is not just as right in his argument as is the person who wants same sex [ marriage ]? \" the former gop presidential candidate also spoke out strongly against gay adoption. \"this is not about trying to create statements for people who want"
         ],
         "raw_document": [
             "« previous &#124; main &#124; next » mike huckabee blasts student newspaper for 'sensationalizing ' comments on gay marriage abc news ' huma khan reports: in an unusual battlefront, former arkansas governor mike huckabee is embroiled in a heated war of words with a college newspaper after telling a student reporter that it is \"disingenuous \" to recognize gay marriage but not polygamy. Huckabee told the perspective, the college of new jersey's student magazine, that it's not his place to tell someone how to live, but he argued against the legitimacy of civil unions. \"there's a real level of being disingenuous on the part of the gay and lesbian community, \" he said. \" that would be like saying, well there's there are a lot of people who like to use drugs so let's go ahead and accommodate those who want to use drugs. There are some people who believe in incest, so we should accommodate them. There are people who believe in polygamy, should we accommodate them?... Who gives you the right to say that a polygamist is not just as right in his argument as is the person who wants same sex [ marriage ]? \" the former gop presidential candidate also spoke out strongly against gay adoption. \"this is not about trying to create statements for people who want",
@@ -656,7 +651,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -708,7 +703,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -736,7 +731,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -789,18 +784,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 20429,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A few more details have been released in the puzzling situation of former russian spy sergei skripal, who was found slumped on a bench in the uk on sunday. The bbc reports the woman who was unconscious beside him is his daughter, yulia, and that two police officers who responded to the scene were treated for \" minor symptoms. \" but the substance that may have sickened the pair, who are in intensive care in a salisbury hospital, remains unknown. An official simply says, \" they are currently being treated for suspected exposure to an unknown substance. \" the guardian reports that yulia skripal, in her 30s, was visiting the uk from russia. Vice reports skripal has one surviving daughter; his wife died in 2012 and his son died on a recent visit to russia, though the death was not considered suspicious, vice says. Skripal was in 2006 sentenced to 13 years for unmasking undercover russian spies to mi6, but he was pardoned and swapped in exchange for 10 russian \" sleeper agents \" the fbi had nabbed in america. A rep for vladimir putin addressed the situation, calling it \" tragic \" but saying, \" we don't have information on what could have led to this, what he was engaged in. \" the guardian adds that the rep \" appeared to mock \" the speculations by british media that russia could have had a hand in this, saying, \" it didn't take them long. \" ( in that 2010 spy swap, the us got the pros. )",
         "split": "train",
         "cleansed_document": [
             "Media playback is unsupported on your device media caption police are looking at cctv footage of a man and woman walking near the bench where sergei and yulia skripal were found the woman found slumped on a shopping centre bench alongside a former russian agent convicted of spying for britain is his daughter, it has emerged. Yulia skripal, in her 30s, and father sergei, 66, are critically ill in hospital after being found unconscious in salisbury, wiltshire, on sunday. Uk police are trying to find out what \" unknown substance \" harmed the pair. A number of emergency services workers were assessed immediately after the incident - and one remains in hospital. You may also be interested in: russia insists it has \" no information \" on what could have led to the incident, but says it is open to co-operate in the police investigation if requested. Image copyright getty images image",
-            "Yulia skripal, 33, discovered next to her father on bench in salisbury, is in critical condition the second person found unconscious in salisbury alongside the former russian spy sergei skripal is his 33-year-old daughter. Yulia skripal was discovered on a bench next to her father on sunday and is in a critical condition in hospital. She lives in russia but was visiting the uk, the bbc reported, adding that relatives had not heard from her for two days. The apparent poisoning of the pair follows the death of skripal's wife, liudmila, in 2012. She arrived in britain with her husband – who was swapped in 2010 as part of a spy exchange – and had lived with him in wiltshire. A certificate recorded the cause of her death on 23 october 2012, aged 59, as \"disseminated endometrial carcinoma \". Skripal's son also died recently, aged 43,",
-            "However, british foreign secretary boris johnson warned that should russian involvement be proven, the u.k. Would respond \" appropriately and robustly. \" \"there are deaths which attract attention, \" he told bbc radio 4's today programme tuesday. \"i think we have to remember that russian exiles are not immortal, they do all die and there can be a tendency for some conspiracy theories. But likewise we have to be alive to the fact of state threats as illustrated by the litvinenko case. \" specialist counter-terrorism officers were called to help local police investigate, but mark rowley, assistant commissioner at the metropolitan police, warned against spreading conspiracy theories. Echoing the 2006 poisoning of former kgb officer alexander litvinenko, sergei skripal, 66, was found next to a 33-year-old woman, believed to be his daughter yulya. The pair remain in a critical condition in salisbury district hospital. A former colonel"
+            "Yulia skripal, 33, discovered next to her father on bench in salisbury, is in critical condition the second person found unconscious in salisbury alongside the former russian spy sergei skripal is his 33-year-old daughter. Yulia skripal was discovered on a bench next to her father on sunday and is in a critical condition in hospital. She lives in russia but was visiting the uk, the bbc reported, adding that relatives had not heard from her for two days. The apparent poisoning of the pair follows the death of skripal's wife, liudmila, in 2012. She arrived in britain with her husband – who was swapped in 2010 as part of a spy exchange – and had lived with him in wiltshire. A certificate recorded the cause of her death on 23 october 2012, aged 59, as \"disseminated endometrial carcinoma \". Skripal's son also died recently, aged 43,"
         ],
         "raw_document": [
             "Media playback is unsupported on your device media caption police are looking at cctv footage of a man and woman walking near the bench where sergei and yulia skripal were found the woman found slumped on a shopping centre bench alongside a former russian agent convicted of spying for britain is his daughter, it has emerged. Yulia skripal, in her 30s, and father sergei, 66, are critically ill in hospital after being found unconscious in salisbury, wiltshire, on sunday. Uk police are trying to find out what \" unknown substance \" harmed the pair. A number of emergency services workers were assessed immediately after the incident - and one remains in hospital. You may also be interested in: russia insists it has \" no information \" on what could have led to the incident, but says it is open to co-operate in the police investigation if requested. Image copyright getty images image",
@@ -817,18 +811,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 20430,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Do you ever wonder what's going through your baby's mind when she smiles at you? researchers at the university of california, san diego, think they know. Their study, published in plos one, suggests that babies who are smiling are attempting to make whomever they're interacting with smile back — all while the infants exert as little effort as possible. \" i used to wonder if my daughter was trying to communicate with me when she was an infant and smiled, \" the lead researcher tells the san diego union-tribune, and this study shows \" it might not have just been wishful thinking on my part. Babies are very goal-oriented. \" as the study explains, \" by the time infants reach 4 months of age both mothers and infants time their smiles in a purposeful, goal-oriented manner. In our study, mothers consistently attempted to maximize the time spent in mutual smiling, while infants tried to maximize mother-only smile time. \" in fact, a press release notes, researchers found that babies use sophisticated timing in order to get what they want. Researchers first looked at a previous study that observed face-to-face interactions of 13 moms and their babies when the infants were aged 4 to 17 weeks. By using an algorithm to \" reverse engineer, \" they were able to determine the babies ' goals based on their behavior. But if babies want their mothers to smile as much as possible while they smile as little as possible ( though, as one researcher cautions, the study did not determine whether the babies were conscious of what they were doing ), then shouldn't infants refrain from smiling if their mother is already smiling? that's where the sophisticated timing comes in: infants used \" maximally efficient... Wait times \" between smiles, because, if they stop smiling entirely, their mother is likely to also stop smiling at some point. Researchers then programmed a robot with a realistic, toddler-like face to behave in the same fashion as the babies in the study, and had that robot interact with students. The same thing happened: the robot minimized its own smiles all while maximizing the smiles it received in return. ( american babies don't laugh as much as dutch babies do. )",
         "split": "train",
         "cleansed_document": [
             "Don't just call them cute. Babies are also clever. You might even say manipulative if you believe a new study by uc san diego. Researchers say they've found compelling evidence that babies smile on purpose, not just for the sake of it. Mostly, infants are trying to get people to smile in return, especially dear old mom. Babies are as deft as comedians in bringing happiness, even though they exert the minimum amount of effort needed to make it happen. \" i used to wonder if my daughter was trying to communicate with me when she was an infant and smiled, \" said javier movellan, the uc san diego psychologist who led the study. \" it might not have just been wishful thinking on my part. Babies are very goal-oriented. \" the findings were published in the journal plos one, and involve an unusual line of",
-            "Babies are trying their moms smiles as much as possible, while they smile as little as possible. Why do babies smile when they interact with their parents? could their smiles have a purpose? in the sept. 23 issue of plos one, a team of computer scientists, roboticists and developmental psychologists confirm what most parents already suspect: when babies smile, they do so with a purpose — to make the person they interact with smile in return. In addition, babies reach that goal by using sophisticated timing, much like comedians who time their jokes to maximize audience response. But there is a twist: babies seem to be doing this while smiling as little as possible. Researchers detail their findings in an innovative study that combines developmental psychology, computer science and robotics — an approach that has never been tried before, to the best of the researchers ' knowledge. The study",
-            "Abstract one of the earliest forms of interaction between mothers and infants is smiling games. While the temporal dynamics of these games have been extensively studied, they are still not well understood. Why do mothers and infants time their smiles the way they do? to answer this question we applied methods from control theory, an approach frequently used in robotics, to analyze and synthesize goal-oriented behavior. The results of our analysis show that by the time infants reach 4 months of age both mothers and infants time their smiles in a purposeful, goal-oriented manner. In our study, mothers consistently attempted to maximize the time spent in mutual smiling, while infants tried to maximize mother-only smile time. To validate this finding, we ported the smile timing strategy used by infants to a sophisticated child-like robot that automatically perceived and produced smiles while interacting with adults. As predicted, this strategy proved successful at"
+            "Babies are trying their moms smiles as much as possible, while they smile as little as possible. Why do babies smile when they interact with their parents? could their smiles have a purpose? in the sept. 23 issue of plos one, a team of computer scientists, roboticists and developmental psychologists confirm what most parents already suspect: when babies smile, they do so with a purpose — to make the person they interact with smile in return. In addition, babies reach that goal by using sophisticated timing, much like comedians who time their jokes to maximize audience response. But there is a twist: babies seem to be doing this while smiling as little as possible. Researchers detail their findings in an innovative study that combines developmental psychology, computer science and robotics — an approach that has never been tried before, to the best of the researchers ' knowledge. The study"
         ],
         "raw_document": [
             "Don't just call them cute. Babies are also clever. You might even say manipulative if you believe a new study by uc san diego. Researchers say they've found compelling evidence that babies smile on purpose, not just for the sake of it. Mostly, infants are trying to get people to smile in return, especially dear old mom. Babies are as deft as comedians in bringing happiness, even though they exert the minimum amount of effort needed to make it happen. \" i used to wonder if my daughter was trying to communicate with me when she was an infant and smiled, \" said javier movellan, the uc san diego psychologist who led the study. \" it might not have just been wishful thinking on my part. Babies are very goal-oriented. \" the findings were published in the journal plos one, and involve an unusual line of",
@@ -845,7 +838,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -878,12 +871,11 @@
     },
     {
         "idx": 20432,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Hillary clinton scooped up seven states on super tuesday in her bid to lock down frontrunner status — but bernie sanders had a late flurry of victories himself. When the first polls closed, cnn quickly projected clinton the winner in georgia and virginia — both states she lost to barack obama in 2008 — with sanders winning his home state of vermont. Clinton then racked up wins in alabama, tennessee, and arkansas ( where she was once the state's first lady ), before adding texas. The latter gave her a sweep of southern states holding primaries, reports the ap. She also won massachusetts in a close contest, along with american samoa. The night ended well for sanders, however, as he added oklahoma, colorado, and minnesota to his tally. Earlier, clinton declined to make any predictions. \" let's see what voters decide in all these states that are lined up today and then we ' ll take stock after it's over, \" she said. Sanders spoke in vermont and said his campaign, which has plenty of money, is in it for the long run, reports business insider. He noted that most of the states have yet to vote. \" let me assure you that we are going to take our fight for economic justice, for social justice, for environmental sanity, for world of peace, to every one of those states. \" all told, clinton and sanders were competing for 865 delegates in 11 states and american samoa on tuesday, the biggest single-day prize of the 2016 campaign. Click here for republican results.",
         "split": "train",
         "cleansed_document": [
-            "Bernie sanders gave a victory speech early in the evening on super tuesday, when more than 10 states hold their primaries and caucuses for party presidential nominations. Sanders, an independent senator who is running for the democratic nomination, was projected as the winner of his home state of vermont shortly after polls closed there. He then took the stage to thank his supporters and look forward to the next stops on his campaign. \" this campaign is not just about electing a president, \" sanders said. \" it is about transforming america. \" sanders also emphasized his \" vermont values \" and continued pushing his message of a \" political revolution \" to undercut the \" billionaire class \" in the us. \" in our state, we have town meetings and people come out and they argue about budgets and then they vote, \" sanders said. \" one person, one vote. Billionaires do not buy town meetings. We're going to not allow billionaires and their super pacs to destroy american democracy. \" he also took a shot at his rival, former secretary of state hillary clinton, and the political establishment at large. \" i know that secretary clinton and the establishment people think i ' m thinking too big, \" sanders said. \" i don't think so. \" and while many political watchers",
-            "Democratic presidential candidate sen. Bernie sanders, i-vt., and his wife jane sanders, stand up after voting in the vermont primary at the robert miller community and recreation center in burlington,... ( associated press ) washington ( ap ) — republican donald trump and democrat hillary clinton were sweeping through the south on super tuesday, with the front-runners claiming victory in their parties ' primaries in georgia, alabama, and tennessee. Clinton also picked up a win in virginia, while trump carried the republican contest in massachusetts. Super tuesday marked the busiest day of the 2016 primaries, with the biggest single-day delegate haul up for grabs. With elections in every region of the country, the contests put a spotlight on candidates'strengths and weaknesses with a broad swath of american voters. For clinton and trump, the voting marked an opportunity to begin pulling away from their rivals and charting a course toward the general election. Each entered super tuesday having won three of four early voting contests, and more strong showings could start putting the nominations out of reach for other contenders. Seconds after polls closed in georgia, a confident trump wrote on twitter, \" thank you georgia! \" clinton was steadying herself after an unexpectedly strong challenge from bernie sanders. The vermont senator did carry his home state decisively on tuesday, and told the crowd at"
+            "Bernie sanders gave a victory speech early in the evening on super tuesday, when more than 10 states hold their primaries and caucuses for party presidential nominations. Sanders, an independent senator who is running for the democratic nomination, was projected as the winner of his home state of vermont shortly after polls closed there. He then took the stage to thank his supporters and look forward to the next stops on his campaign. \" this campaign is not just about electing a president, \" sanders said. \" it is about transforming america. \" sanders also emphasized his \" vermont values \" and continued pushing his message of a \" political revolution \" to undercut the \" billionaire class \" in the us. \" in our state, we have town meetings and people come out and they argue about budgets and then they vote, \" sanders said. \" one person, one vote. Billionaires do not buy town meetings. We're going to not allow billionaires and their super pacs to destroy american democracy. \" he also took a shot at his rival, former secretary of state hillary clinton, and the political establishment at large. \" i know that secretary clinton and the establishment people think i ' m thinking too big, \" sanders said. \" i don't think so. \" and while many political watchers"
         ],
         "raw_document": [
             "Bernie sanders gave a victory speech early in the evening on super tuesday, when more than 10 states hold their primaries and caucuses for party presidential nominations. Sanders, an independent senator who is running for the democratic nomination, was projected as the winner of his home state of vermont shortly after polls closed there. He then took the stage to thank his supporters and look forward to the next stops on his campaign. \" this campaign is not just about electing a president, \" sanders said. \" it is about transforming america. \" sanders also emphasized his \" vermont values \" and continued pushing his message of a \" political revolution \" to undercut the \" billionaire class \" in the us. \" in our state, we have town meetings and people come out and they argue about budgets and then they vote, \" sanders said. \" one person, one vote. Billionaires do not buy town meetings. We're going to not allow billionaires and their super pacs to destroy american democracy. \" he also took a shot at his rival, former secretary of state hillary clinton, and the political establishment at large. \" i know that secretary clinton and the establishment people think i ' m thinking too big, \" sanders said. \" i don't think so. \" and while many political watchers",
@@ -898,7 +890,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1026,7 +1018,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1082,7 +1074,7 @@
             "0": 1,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1201,13 +1193,12 @@
     },
     {
         "idx": 20444,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It reads just like a nursery rhyme, but the subject is a very mature one. \" lockdown, lockdown, lock the door. Shut the lights off, say no more. Go behind the desk and hide. Wait until it's safe inside. Lockdown, lockdown, it's all done. Now it's time to have some fun! \" georgy cohen spotted a poster featuring those words, ostensibly used to teach children what to do in case of a lockdown drill, during a wednesday tour of the boston-area kindergarten her 5-year-old will attend. She described it as \" jarring, \" per the boston globe. \" when i was in kindergarten, we had fire drills.... We didn't have these same types of threats. \" but cohen says she understands teachers are only trying to keep kids safe. \" these are the things they unfortunately have to do, \" and \" to be shocked by it is important. \" shock was certainly the reaction of some of the 33,000 people who shared cohen's tweeted photo of the poster, written in multiple colors and adorned with cartoon actions. Yet lockdown drills should hardly come as a surprise, with nine in 10 public schools training students and teachers to respond to an active shooter, vox reports. After the feb. 14 school shooting in parkland, fla., state lawmakers even made it mandatory for schools to hold mass shooting drills twice a year. In the case of the unidentified somerville school where cohen spotted the poster, \" we regularly do our lockdown drills, and for our youngest students you have to age-appropriately introduce them to it, \" superintendent mary skipper tells the globe. She added the poster was something created by the teacher and does not appear in all kindergarten classes.",
         "split": "train",
         "cleansed_document": [
             "By now, most us public school students have learned to barricade their classroom doors, turn off the lights, and hide in a closet if a shooter bursts into their school. These mass shooting drills, also known as lockdown drills, are the sad reality of living in a country where kids are more likely to die in a school shooting than a school fire. That reality became jarringly clear wednesday when one parent toured her 5-year-old daughter's future kindergarten near boston and noticed a disturbing nursery rhyme taped to the chalkboard. It was an eerie twist on \"twinkle, twinkle, little star, \" reminding kids how to hide from a shooter during a lockdown. Lockdown, lockdown lock the door shut the lights off say no more go behind the desk and hide wait until it's safe inside lockdown, lockdown it's all done now it's time to have some fun! the parent, georgy cohen, was disturbed by the nursery rhyme and posted a photo of it on twitter: this should not be hanging in my soon-to-be-kindergartener's classroom. Pic.twitter.com/mwijvdddph — georgy cohen ( @radiofreegeorgy ) june 6, 2018 the tweet went viral, striking a chord with thousands of parents across the country whose own kids know these lockdown",
-            "A somerville resident was taken aback by a \" jarring \" sign that explained to kindergartners how to prepare for a school lockdown. While touring a kindergarten in somerville on wednesday to get a sense of what to expect when her 5-year-old daughter starts school in the fall, georgy cohen took stock of the items one might typically find in a classroom for young kids. Art supplies. Signs about how to wash your hands properly. A chart of the alphabet. Tiny desks. And then something grabbed cohen's attention: on the wall was a set of directions for what children in class should do in the event of a lockdown drill, written in colorful and bubbly letters — to the tune of \"twinkle, twinkle, little star. \" advertisement it read: lockdown, lockdown, lock the door shut the lights off, say no more go behind the desk and hide wait until it's safe inside lockdown, lockdown it's all done now it's time to have some fun! get fast forward in your inbox: forget yesterday's news. Get what you need today in this early-morning email. Sign up thank you for signing up! sign up for more newsletters here cohen snapped a photograph of the sign, which",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "A somerville resident was taken aback by a \" jarring \" sign that explained to kindergartners how to prepare for a school lockdown. While touring a kindergarten in somerville on wednesday to get a sense of what to expect when her 5-year-old daughter starts school in the fall, georgy cohen took stock of the items one might typically find in a classroom for young kids. Art supplies. Signs about how to wash your hands properly. A chart of the alphabet. Tiny desks. And then something grabbed cohen's attention: on the wall was a set of directions for what children in class should do in the event of a lockdown drill, written in colorful and bubbly letters — to the tune of \"twinkle, twinkle, little star. \" advertisement it read: lockdown, lockdown, lock the door shut the lights off, say no more go behind the desk and hide wait until it's safe inside lockdown, lockdown it's all done now it's time to have some fun! get fast forward in your inbox: forget yesterday's news. Get what you need today in this early-morning email. Sign up thank you for signing up! sign up for more newsletters here cohen snapped a photograph of the sign, which"
         ],
         "raw_document": [
             "By now, most us public school students have learned to barricade their classroom doors, turn off the lights, and hide in a closet if a shooter bursts into their school. These mass shooting drills, also known as lockdown drills, are the sad reality of living in a country where kids are more likely to die in a school shooting than a school fire. That reality became jarringly clear wednesday when one parent toured her 5-year-old daughter's future kindergarten near boston and noticed a disturbing nursery rhyme taped to the chalkboard. It was an eerie twist on \"twinkle, twinkle, little star, \" reminding kids how to hide from a shooter during a lockdown. Lockdown, lockdown lock the door shut the lights off say no more go behind the desk and hide wait until it's safe inside lockdown, lockdown it's all done now it's time to have some fun! the parent, georgy cohen, was disturbed by the nursery rhyme and posted a photo of it on twitter: this should not be hanging in my soon-to-be-kindergartener's classroom. Pic.twitter.com/mwijvdddph — georgy cohen ( @radiofreegeorgy ) june 6, 2018 the tweet went viral, striking a chord with thousands of parents across the country whose own kids know these lockdown",
@@ -1224,7 +1215,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1249,7 +1240,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1331,7 +1322,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1363,7 +1354,7 @@
             "1": 0,
             "2": 0,
             "3": 3,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1412,7 +1403,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1496,14 +1487,13 @@
     },
     {
         "idx": 20455,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Add hillary clinton to the list of people not exactly choking back tears over moammar gadhafi's death: the secretary of state today said that while \" no one wants to see any human being \" meet such a grisly end, \" i know what a great relief it was to millions of libyans that the past was finished. \" libyans can now \" make up for lost time of 42 years \" and develop the \" democracy and prosperity \" they deserve. But clinton wants the lockerbie bomber back in prison, notes politico, saying, \" i will raise it with the new libyan government, \" and calling his release \" a miscarriage of justice. \" elsewhere on your sunday dial, as per politico: clinton on her senate vote to authorize military action in iraq: \" i honestly don't think this is a time to be looking back. I will leave it to history to debate and argue over the merits and demerits of what the united states did over the last decade. \" john mccain on us troops in iraq: \" it could have been negotiated, i know because i was there. The question of immunity could have been resolved. \" michele bachmann on iraq: \" i believe that iraq should reimburse the united states fully for the amount of money we've spent to liberate these people. They're not a poor country, they're a wealthy country. \" bachmann on libya: \" it's created more instability in that region not less. The world is certainly better off without gadhafi. But.. The last chapter hasn't been written on libya.... We knew who the devil [ in charge ] was, we don't know the next one. \" lindsey graham on president obama's foreign policy: \" i would argue that iraq and afghanistan's being run out of chicago, not washington, in terms of decisions. He's put in question our success in afghanistan, and he ended iraq poorly. He fumbled the ball inside of the 10. They're dancing in the streets in tehran. \" mitch mcconnell on why he blocked federal funding to avoid firefighter, police, and teacher layoffs: \" i certainly approve of firefighters and police. The question is whether the federal government ought to be raising taxes on 300,000 small businesses in order to send money down to bail out states for whom firefighters and police work. \" politico has an interesting run-down of the entire exchange between mcconnell and candy crowley here.",
         "split": "train",
         "cleansed_document": [
             "Sen. Lindsey graham ( r-s.c. ) on sunday lambasted president barack obama's foreign policy as nothing more than campaign tactics. \" i would argue that iraq and afghanistan's being run out of chicago, not washington, in terms of decisions, \" graham said on \" fox news sunday, \" referring to obama's reelection campaign headquarters. Graham called it a mistake to completely withdraw troops from iraq when some military commanders said a continued presence there is necessary. \" in the last year he's made some very poor, dangerous foreign policy decisions at the strategic level, \" graham said. \" he's put in question our success in",
             "Sen. John mccain ( r-ariz. ) says an agreement could have been reached to keep more american troops in iraq into next year. Citing a trip he recently took to the country, mccain said on abc's \" this week \": \" [ the iraqis ] were ready to negotiate. The united states didn't have a plan as to how many troops should remain behind. How could we expect the iraqis to sit down and agree? \" and mccain said the issue of immunity for american troops could have been resolved. \" it could have been negotiated, i know because i was there at the time, \" mccain said. \" the question",
-            "Rep. Michele bachmann ( r-minn. ) wants iraq to pay america back for the war effort that overthrew saddam hussein but also dragged on for nine years. \" i believe that iraq should reimburse the united states fully for the amount of money we've spent to liberate these people, \" the presidential candidate said on cbs's \" face the nation. \" \" they're not a poor country, they're a wealthy country, \" bachmann said. Bachmann lambasted the looming withdrawal of american troops as more \" politically based than military based. \" \" if you look at every time we have deposed a dictator, the united states has always left",
-            "In an interesting policy-political joust sunday with cnn \" state of the union \" host candy crowley, senate minority leader mitch mcconnell stuck by his assertion that stopping federal funding to stave off local police, teacher and firefighter layoffs is the right thing to do - and that federal regulations are the country'top economic problem. Last week, mcconnell and fellow republicans, along with a few democrats scuttled a measure supported by president barack obama that would have pumped $ 35 billion to cash-starved localities. \" i ' m sure americans do -- i certainly do -- approve of firefighters and police, \" the kentucky senator told crowley -- leaving out teachers. \" the question is"
+            "Rep. Michele bachmann ( r-minn. ) wants iraq to pay america back for the war effort that overthrew saddam hussein but also dragged on for nine years. \" i believe that iraq should reimburse the united states fully for the amount of money we've spent to liberate these people, \" the presidential candidate said on cbs's \" face the nation. \" \" they're not a poor country, they're a wealthy country, \" bachmann said. Bachmann lambasted the looming withdrawal of american troops as more \" politically based than military based. \" \" if you look at every time we have deposed a dictator, the united states has always left"
         ],
         "raw_document": [
             "Sen. Lindsey graham ( r-s.c. ) on sunday lambasted president barack obama's foreign policy as nothing more than campaign tactics. \" i would argue that iraq and afghanistan's being run out of chicago, not washington, in terms of decisions, \" graham said on \" fox news sunday, \" referring to obama's reelection campaign headquarters. Graham called it a mistake to completely withdraw troops from iraq when some military commanders said a continued presence there is necessary. \" in the last year he's made some very poor, dangerous foreign policy decisions at the strategic level, \" graham said. \" he's put in question our success in",
@@ -1522,7 +1512,7 @@
             "0": 1,
             "1": 1,
             "2": 1,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1640,7 +1630,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1678,13 +1668,12 @@
     },
     {
         "idx": 20461,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A 69-year-old southern california man has been charged with murdering his 29-year-old son for being gay, the los angeles times reports. Police say shehada issa killed his son amir issa with a shotgun outside their home on tuesday. The district attorney says shehada had threatened to kill amir for being gay multiple times in the past, and authorities are considering the killing a hate crime. But shehada is claiming self defense, according to the ap. The los angeles daily news reports he claims he found his wife stabbed to death in the bathroom, grabbed a gun, and then ran into amir outside. Authorities say he claims he shot amir after amir threatened him with a knife. The body of shehada's wife, who hasn't been identified, was found inside the house, but no knife was found on the scene. Police are calling the incident a \" horrible family tragedy. \" neighbors frequently heard amir and shehada screaming at each other, and amir was being evicted from the family home by his parents. Shehada is being held without bail pending an arraignment on april 11. If convicted of premeditated murder, he faces life in prison. There are no details available on the death of amir's mother, and police are continuing to investigate. No charges have been filed in connection with her death.",
         "split": "train",
         "cleansed_document": [
             "The scene of a shooting in the 15000 block of rayen street. Photo by david crane/los angeles daily news a 69-year-old north hills man suspected of killing his son outside a house where the man's wife was found stabbed to death was charged friday with murder, with a hate crime allegation that he killed his son because he was gay, the los angeles county district attorney's office announced. The suspect, shehadeh khalil issa, had allegedly told police that on tuesday he found his dead wife in the bathroom of their home at 15062 rayen st. He said he then heard noises, armed himself with a gun and encountered his 29-year-old son amir outside, who he claimed threatened him with a knife, police said. A shooting then took place. \"the suspect made incriminating statements implicating himself in the death of ( the son ) and was arrested for murder, \" operations valley bureau homicide detective john doerbecker told the daily news. \"he claimed ( the son ) was armed with a knife, and there",
-            "Los angeles ( ap ) — a man accused of fatally shooting his son outside a home where his wife was found dead has been charged with one count of premeditated murder as a hate crime, with prosecutors alleging he killed his son for being gay. Shehada issa, 69, told police he shot his son amir in self-defense after he discovered his wife's body in their house. An investigation into issa's wife's death is ongoing. The los angeles county district attorney's office said friday that issa had previously threatened to kill his 29-year-old son for being gay. \" the murder was committed because of the victim's sexual orientation and because of the defendant's perception of that status and the victims ' association with a person and a group of that status, \" prosecutors said in a statement. Issa was arrested tuesday after los angeles police officers found his son's body outside their house in the city's north hills area. Issa's wife was found",
-            "Crawl of outlinks from wikipedia.org started march, 2016. These files are currently not publicly accessible. Properties of this collection. It has been several years since the last time we did this. For this collection, several things were done: 1. Turned off duplicate detection. This collection will be complete, as there is a good chance we will share the data, and sharing data with pointers to random other collections, is a complex problem. 2. For the first time, did all the different wikis. The original runs were just against the enwiki. This one, the seed list was built from all 865 collections."
+            "Los angeles ( ap ) — a man accused of fatally shooting his son outside a home where his wife was found dead has been charged with one count of premeditated murder as a hate crime, with prosecutors alleging he killed his son for being gay. Shehada issa, 69, told police he shot his son amir in self-defense after he discovered his wife's body in their house. An investigation into issa's wife's death is ongoing. The los angeles county district attorney's office said friday that issa had previously threatened to kill his 29-year-old son for being gay. \" the murder was committed because of the victim's sexual orientation and because of the defendant's perception of that status and the victims ' association with a person and a group of that status, \" prosecutors said in a statement. Issa was arrested tuesday after los angeles police officers found his son's body outside their house in the city's north hills area. Issa's wife was found"
         ],
         "raw_document": [
             "The scene of a shooting in the 15000 block of rayen street. Photo by david crane/los angeles daily news a 69-year-old north hills man suspected of killing his son outside a house where the man's wife was found stabbed to death was charged friday with murder, with a hate crime allegation that he killed his son because he was gay, the los angeles county district attorney's office announced. The suspect, shehadeh khalil issa, had allegedly told police that on tuesday he found his dead wife in the bathroom of their home at 15062 rayen st. He said he then heard noises, armed himself with a gun and encountered his 29-year-old son amir outside, who he claimed threatened him with a knife, police said. A shooting then took place. \"the suspect made incriminating statements implicating himself in the death of ( the son ) and was arrested for murder, \" operations valley bureau homicide detective john doerbecker told the daily news. \"he claimed ( the son ) was armed with a knife, and there",
@@ -1701,7 +1690,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1731,14 +1720,13 @@
     },
     {
         "idx": 20463,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "President trump has been circumspect in his comments on roy moore. It's a different story with the man he has dubbed \" al frankenstien ( sic ). \" \" the al frankenstien picture is really bad, speaks a thousand words, \" trump tweeted thursday, referring to a photo of sen. Al franken apparently groping radio host leeann tweeden during a uso tour in 2006. \" where do his hands go in pictures 2, 3, 4, 5 &amp; 6 while she sleeps? \" he added: \" and to think that just last week he was lecturing anyone who would listen about sexual harassment and respect for women. Lesley stahl tape? \" fox reports that trump was apparently referring to a 1995 interview in which franken, then a saturday night live writer, discussed a skit idea that involved drugging and raping cbs reporter leslie stahl. Franken, who has called for an ethics investigation of himself, was mocked by late-night hosts thursday, the washington post reports. Some of them also noted that trump is no stranger to sexual harassment allegations. \" every day it seems like we find out about another high-profile sexual harasser, \" said stephen colbert. \" i guess there are no good people left, so let's get it over with, \" he said. \" just tell us whatever you did, jimmy carter! barack obama! tom hanks! malala! \" after franken apologized thursday, tweeden said she didn't think he should resign, though others disagree. At the chicago tribune, john kass writes that if franken is truly sorry, \" there's one thing for him to do: resign immediately, disappear out into the woods. \"",
         "split": "train",
         "cleansed_document": [
             "Those popping sounds you hear aren't lightbulbs breaking as they hit the frozen surface of lake wobegon. Instead, that sound comes from political heads exploding in the democratic media complex. Because liberal democratic sen. Al franken of minnesota was exposed, completely, for what he really is by west coast radio news anchor leeann tweeden. There's that photo of franken smiling and grabbing at her breasts as tweeden, a former model, slept on the way home from a uso tour in 2006. Franken leered and posed, fingers spread on her, like some cartoon of a sex-crazed sixth-grade boy. \"you knew exactly what you were doing, \" tweeden wrote in an online post. \"you forcibly kissed me without my consent, grabbed my breasts while i was sleeping and had someone take a photo of you doing it, knowing i would see it later, and be ashamed. \" and just like that, the democratic strategy to politicize sexual abuse and use it to beat republicans to death at the polls must undergo a drastic rewrite. So what do democrats do now",
             ".and to think that just last week he was lecturing anyone who would listen about sexual harassment and respect for women. Lesley stahl tape?",
-            "Democratic sen. Al franken was accused by a california sports radio broadcaster on thursday of kissing and groping her without her consent in 2006 -- but the politician has a history of making crude remarks about sexually assaulting women. Franken, then a comedian, was quoted in a 1995 new york magazine article discussing a skit for \"saturday night live \" that involved drugging and raping cbs reporter lesley stahl. Franken, at the time a writer for \"snl, \" suggested one skit should play out with \"60 minutes \" commentator andy rooney finding an empty pill bottle on his desk. \" ' i give the pills to lesley stahl. Then when lesley is passed out, i take her to the closet and rape her. ' or 'that's why you never see lesley until february. ' or, 'when she passes out. I put her in various positions and take pictures of her, ' \" franken was quoted saying. The article, along with a 2000 playboy column in which franken talked about fantasizing a machine would perform oral sex on him, was used to",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Democratic sen. Al franken was accused by a california sports radio broadcaster on thursday of kissing and groping her without her consent in 2006 -- but the politician has a history of making crude remarks about sexually assaulting women. Franken, then a comedian, was quoted in a 1995 new york magazine article discussing a skit for \"saturday night live \" that involved drugging and raping cbs reporter lesley stahl. Franken, at the time a writer for \"snl, \" suggested one skit should play out with \"60 minutes \" commentator andy rooney finding an empty pill bottle on his desk. \" ' i give the pills to lesley stahl. Then when lesley is passed out, i take her to the closet and rape her. ' or 'that's why you never see lesley until february. ' or, 'when she passes out. I put her in various positions and take pictures of her, ' \" franken was quoted saying. The article, along with a 2000 playboy column in which franken talked about fantasizing a machine would perform oral sex on him, was used to"
         ],
         "raw_document": [
             "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain.",
@@ -1759,7 +1747,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 5
         }
     },
     {
@@ -1920,7 +1908,7 @@
         "vote_count": {
             "0": 1,
             "1": 2,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2025,12 +2013,11 @@
     },
     {
         "idx": 20474,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When doctors found a bulge on nelson's abdomen, they gave him an ultrasound and a ct scan, gave him a blood transfusion, and surgically removed the tumor, and insurance covered 90 % of it, less a $ 500 deductible. And, as you've guessed by reading the headline, nelson is a dog. \" i ' m jealous of him, \" his owner, eric wee, writes in the new york times. \" he has the kind of health care that i'd hoped the affordable care act would usher in. \" instead, when wee and his wife were kicked off their $ 263-per-month plan, the cheapest they could find on california's exchange cost $ 620 a month, barely covered wee's asthma meds, and left him waiting weeks to see a doctor. Obamacare may help many people, but wee looked at nelson's care and \" wanted to go to petcare. I wanted pet insurance. \" of course, there's probably a reason for the disparity. This forbes piece on an insurer called petplan reveals fundamentals that \" would make human insurers drool. \" only about a third of policyholders ever file claims, and only 60 % of company revenues actually go to medical expenses, compared to the 80 % to 85 % the aca mandates for human plans. Click for wee's full column.",
         "split": "train",
         "cleansed_document": [
-            "Nelson's doctors found the bulge in his abdomen on a monday. An ultrasound and ct scan showed that a mass was crowding out his stomach and kidneys. It was one of the largest the doctors had ever seen. If they didn't do something, he'd be dead in a couple of days. The hospital gave him a blood transfusion because he was anemic. A radiologist noticed that something might be wrong with his adrenal gland. His surgical team removed what turned out to be a 12.5-pound tumor, lifting it out like an overgrown newborn. Nelson's intensive care nurse called his family that night, and his internists gave them regular updates until he was discharged. Nelson's health insurance covered 90 percent of the costs after a reasonable $ 500 deductible. I ' m happy he has such good health coverage. He's my dog. And i ' m jealous of him. He has the kind of health care that i'd hoped the affordable care act would usher in for those who, like my wife and me, have to buy health insurance on the open market. I'd long been frustrated at how health care shackles people to corporate jobs. I believed this legislation, signed four years ago this month, would free people to pursue their dreams, start new companies and not worry about the health insurance penalty. What i didn't count on was that it would make things harder for me and my wife. First, we were notified that we would be kicked out of our existing $ 263-a-month anthem blue cross plan because it didn't meet the minimum standards of the new law. No problem, i thought. The plans in the new covered california exchange would most likely be better and cheaper. But we were shocked at what we confronted. The least expensive premium for a couple like us in our 40s would be about $ 620 a month. And because our household adjusted gross income is likely to be over the $ 62,040 cutoff this year, it's doubtful we ' ll end up with a subsidy to help offset that price increase. Having always had insurance, we began to wonder if we might have to go uninsured, but in the end, we enrolled. It's as if we just bought a new car that we will never see and that we can never pay off. The gulf between my health care world and my dog '",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Nelson's doctors found the bulge in his abdomen on a monday. An ultrasound and ct scan showed that a mass was crowding out his stomach and kidneys. It was one of the largest the doctors had ever seen. If they didn't do something, he'd be dead in a couple of days. The hospital gave him a blood transfusion because he was anemic. A radiologist noticed that something might be wrong with his adrenal gland. His surgical team removed what turned out to be a 12.5-pound tumor, lifting it out like an overgrown newborn. Nelson's intensive care nurse called his family that night, and his internists gave them regular updates until he was discharged. Nelson's health insurance covered 90 percent of the costs after a reasonable $ 500 deductible. I ' m happy he has such good health coverage. He's my dog. And i ' m jealous of him. He has the kind of health care that i'd hoped the affordable care act would usher in for those who, like my wife and me, have to buy health insurance on the open market. I'd long been frustrated at how health care shackles people to corporate jobs. I believed this legislation, signed four years ago this month, would free people to pursue their dreams, start new companies and not worry about the health insurance penalty. What i didn't count on was that it would make things harder for me and my wife. First, we were notified that we would be kicked out of our existing $ 263-a-month anthem blue cross plan because it didn't meet the minimum standards of the new law. No problem, i thought. The plans in the new covered california exchange would most likely be better and cheaper. But we were shocked at what we confronted. The least expensive premium for a couple like us in our 40s would be about $ 620 a month. And because our household adjusted gross income is likely to be over the $ 62,040 cutoff this year, it's doubtful we ' ll end up with a subsidy to help offset that price increase. Having always had insurance, we began to wonder if we might have to go uninsured, but in the end, we enrolled. It's as if we just bought a new car that we will never see and that we can never pay off. The gulf between my health care world and my dog '"
         ],
         "raw_document": [
             "Nelson's doctors found the bulge in his abdomen on a monday. An ultrasound and ct scan showed that a mass was crowding out his stomach and kidneys. It was one of the largest the doctors had ever seen. If they didn't do something, he'd be dead in a couple of days. The hospital gave him a blood transfusion because he was anemic. A radiologist noticed that something might be wrong with his adrenal gland. His surgical team removed what turned out to be a 12.5-pound tumor, lifting it out like an overgrown newborn. Nelson's intensive care nurse called his family that night, and his internists gave them regular updates until he was discharged. Nelson's health insurance covered 90 percent of the costs after a reasonable $ 500 deductible. I ' m happy he has such good health coverage. He's my dog. And i ' m jealous of him. He has the kind of health care that i'd hoped the affordable care act would usher in for those who, like my wife and me, have to buy health insurance on the open market. I'd long been frustrated at how health care shackles people to corporate jobs. I believed this legislation, signed four years ago this month, would free people to pursue their dreams, start new companies and not worry about the health insurance penalty. What i didn't count on was that it would make things harder for me and my wife. First, we were notified that we would be kicked out of our existing $ 263-a-month anthem blue cross plan because it didn't meet the minimum standards of the new law. No problem, i thought. The plans in the new covered california exchange would most likely be better and cheaper. But we were shocked at what we confronted. The least expensive premium for a couple like us in our 40s would be about $ 620 a month. And because our household adjusted gross income is likely to be over the $ 62,040 cutoff this year, it's doubtful we ' ll end up with a subsidy to help offset that price increase. Having always had insurance, we began to wonder if we might have to go uninsured, but in the end, we enrolled. It's as if we just bought a new car that we will never see and that we can never pay off. The gulf between my health care world and my dog '",
@@ -2045,18 +2032,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 20475,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Facing a serious meat shortage as its population continues to grow and industrialize, china is set to open the world's largest animal-cloning factory in the first half of 2016. But it's not just cloning and raising cattle for beef. Commercial genetics company boyalife, which is building the center with south korea's sooam biotech, sinica, peking university's institute of molecular medicine, and the tianjin international joint academy of biomedicine, says it also plans to clone racehorses and dogs — the latter not just for pets but to sniff out illegal drugs and victims of natural disasters, reports vice. It may even help rescue endangered species from the brink of extinction. \" in china we do things on a massive scale, \" boyalife ceo xu xiaochun told bloomberg back in 2014. \" we want to do all this not just for profit, but also for history. \" and in spite of some controversy on the use of cloned animals, he tells the guardian he's confident the move is a positive one: \" we are going [ down ] a path that no one has ever traveled. We are building something that has not existed in the past. This is going to change our world and our lives. It is going to make our life better. So we are very, very excited about it. \" the european parliament has voted to outlaw the sale of cloned livestock, while in the us the fda has long taken the stance that cloned meat is safe and harbors no complications \" unique to cloning. \" ( the us is already in the cloning racehorses game. )",
         "split": "train",
         "cleansed_document": [
             "How do you feel about eating cloned meat? while the rest of the world sorts out its feelings about the safety and ethics of cloning animals for food production, china is charging ahead and building the world's largest animal cloning factory, set to begin operations in 2016. The 200 million yuan ( over $ 31 million ) commercial animal cloning center will be located in the tianjin economic-technological development area, a government-sponsored business area about 100 miles from beijing. Feelings are decidedly mixed about whether we should be eating cloned meat. On one hand, the european parliament recently voted by a large margin to outlaw the sale of cloned livestock. On the other hand, the fda has said that \"there are no complications that are unique to cloning \" and the meat is safe to eat, despite evidence that cloned animals may not live as long as those birthed in the old-fashioned way.",
-            "Tianjin facility aims to produce thousands of cow embryos as well as racehorses and sniffer dogs the scientist behind plans to build the world's largest animal cloning factory in china has hailed the venture as an \"extremely important \" contribution that could help save critically endangered species from extinction. Xu xiaochun, the chief executive of boyalife, the company behind the 200m yuan ( £ 20.6m ) project, said it would begin operations in the first half of 2016 in tianjin, a city about 160km ( 100 miles ) from beijing. \"we are going [ down ] a path that no one has ever travelled, \" he told the guardian following the unveiling of the factory's blueprint this week. \"we are building something that has not existed in the past. \" £ 1,000 for a micro-pig. Chinese lab sells genetically modified pets read more the main focus of the 14,000-square-metre facility will be cloning",
-            "Features ( corrects daesung group chairman's name in 38th paragraph. ) behind glass in a never-before-used operating room inside a just-built cabin at the end of a freshly paved road, dr. Hwang woo suk is chasing rogue flies with an electrified bug swatter that looks like a small tennis racket. He wears baby blue scrubs branded with the logo of sooam biotech, his south korea-based research company, and is making final checks of this temporary facility, erected from scratch in eight days in the chinese city of weihai. Here, in a few hours, he ' ll deliver the first cloned puppies in the country's history. Originally the procedure had been scheduled for sooam's headquarters in seoul, where hwang, 61, runs the only facility on earth that clones dogs for customers willing to pay $ 100,000. He led the team that cloned the first dog in 2005,"
+            "Tianjin facility aims to produce thousands of cow embryos as well as racehorses and sniffer dogs the scientist behind plans to build the world's largest animal cloning factory in china has hailed the venture as an \"extremely important \" contribution that could help save critically endangered species from extinction. Xu xiaochun, the chief executive of boyalife, the company behind the 200m yuan ( £ 20.6m ) project, said it would begin operations in the first half of 2016 in tianjin, a city about 160km ( 100 miles ) from beijing. \"we are going [ down ] a path that no one has ever travelled, \" he told the guardian following the unveiling of the factory's blueprint this week. \"we are building something that has not existed in the past. \" £ 1,000 for a micro-pig. Chinese lab sells genetically modified pets read more the main focus of the 14,000-square-metre facility will be cloning"
         ],
         "raw_document": [
             "How do you feel about eating cloned meat? while the rest of the world sorts out its feelings about the safety and ethics of cloning animals for food production, china is charging ahead and building the world's largest animal cloning factory, set to begin operations in 2016. The 200 million yuan ( over $ 31 million ) commercial animal cloning center will be located in the tianjin economic-technological development area, a government-sponsored business area about 100 miles from beijing. Feelings are decidedly mixed about whether we should be eating cloned meat. On one hand, the european parliament recently voted by a large margin to outlaw the sale of cloned livestock. On the other hand, the fda has said that \"there are no complications that are unique to cloning \" and the meat is safe to eat, despite evidence that cloned animals may not live as long as those birthed in the old-fashioned way.",
@@ -2073,7 +2059,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2100,7 +2086,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2151,7 +2137,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2237,7 +2223,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2267,14 +2253,13 @@
     },
     {
         "idx": 20483,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Barack obama paid a surprise visit to a chicago food bank before thanksgiving — and stuck around to help volunteers bag potatoes. \" hey, how's it going? \" the former president said, per the chicago sun-times. \" this is a spiffy-looking spot, right here. \" children ran up for hugs in video tweeted by the food bank. Obama, who still lives in washington, was in town for the obama foundation summit before the tuesday visit to the greater chicago food depository, which provides around 160,000 meals daily, the hill reports. \" thanks to the chicago @fooddepository team for all you do and to the volunteers who are doing great work and let me crash today, \" obama tweeted. \" happy thanksgiving, everybody! \" ( two years ago, obama marked his final thanksgiving in the white house. )",
         "split": "train",
         "cleansed_document": [
             "Thank you to ⁦ @ barackobama⁩ and ⁦ @ obamafoundation⁩ for joining our volunteers today at the food depository. We believe no one should go hungry, especially this time of year, and that's why we're working to address the root causes of hunger in chicago and cook county.pic.twitter.com/d6yfbjvjl2",
             "Former president obama on tuesday volunteered at the greater chicago food depository as volunteers prepared food ahead of the thanksgiving holiday. \" thanks to the chicago @fooddepository team for all you do and to the volunteers who are doing great work and let me crash today. Happy thanksgiving, everybody! \" obama tweeted, sharing a video from the organization that included snippets of his visit. Advertisement the video shows obama, donning a chicago white sox hat and a pair of purple latex gloves, joining volunteers to bag potatoes. \" you guys are doing such a great job helping out. I ' m really proud of you, \" he told a young girl. The greater chicago food depository is the main food bank for obama's native city of chicago. The organization provides food pantries and mobile food banks for the homeless and other individuals struggling with hunger. While in chicago this week, the former president spoke at the obama foundation summit, a two-day leadership conference. In his remarks on monday, obama",
-            "Obama drops by food bank, thrilling volunteers of all ages president barack obama participates in a service project at the greater chicago food depository in chicago, il on november 20, 2018. &#124; the obama foundation surrounded by star-struck volunteers in hair nets, former president barack obama stopped by to lend a hand at the greater chicago food depository tuesday morning. Dressed all in black, with a white sox ball cap on his head, he helped fill bags of potatoes at the facility on the city's southwest side. \"hey, how's it going? \" he called out. \"this is a spiffy-looking spot right here. \" obama, in town this week for the obama foundation summit, joined some 60 volunteers packing food for distribution to the food bank's network of 700 community sites, according to a news release. As he worked, young, giddy volunteers sidled up to the former president. One little girl asked for a hug. \"i love hugs, \" obama said, reaching",
-            "Chicago's food bank ಪರಿಶೀಲಿಸಿದ ಖಾತೆ @fooddepository thank you to ⁦ @ barackobama ⁩ and ⁦ @ obamafoundation ⁩ for joining our volunteers today at the food depository. We believe no one should go hungry, especially this time of year, and that's why we're working to address the root causes of hunger in chicago and cook county. Pic.twitter.com/d6yfbjvjl2"
+            "Obama drops by food bank, thrilling volunteers of all ages president barack obama participates in a service project at the greater chicago food depository in chicago, il on november 20, 2018. &#124; the obama foundation surrounded by star-struck volunteers in hair nets, former president barack obama stopped by to lend a hand at the greater chicago food depository tuesday morning. Dressed all in black, with a white sox ball cap on his head, he helped fill bags of potatoes at the facility on the city's southwest side. \"hey, how's it going? \" he called out. \"this is a spiffy-looking spot right here. \" obama, in town this week for the obama foundation summit, joined some 60 volunteers packing food for distribution to the food bank's network of 700 community sites, according to a news release. As he worked, young, giddy volunteers sidled up to the former president. One little girl asked for a hug. \"i love hugs, \" obama said, reaching"
         ],
         "raw_document": [
             "Thank you to ⁦ @ barackobama⁩ and ⁦ @ obamafoundation⁩ for joining our volunteers today at the food depository. We believe no one should go hungry, especially this time of year, and that's why we're working to address the root causes of hunger in chicago and cook county.pic.twitter.com/d6yfbjvjl2",
@@ -2293,7 +2278,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -2318,7 +2303,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2455,7 +2440,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2479,7 +2464,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2606,7 +2591,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2639,19 +2624,18 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
         "idx": 20497,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A fireball in the sky wednesday night led to a firestorm online and over the phone lines, cbs los angeles reports, with california residents up and down the coast — as well as in las vegas and as far away as utah — reporting the odd celestial phenomenon. The light flashes, captured on home videos that started popping up on social media, were said to have lasted about 30 seconds, and speculation ran the gamut from a meteor — the delta aquarid meteor showers are set to peak thursday and friday, per ktla — to a ufo. The national weather service told cbs the strange sightings weren't linked to the weather, and vandenberg air force base, outside of lompoc, calif., said it hadn't had any launches wednesday evening. But in the early hours thursday, the nws'salt lake city branch tweeted it was a \" piece of'space junk ' \" that had caused the temporary hubbub, and ktla notes a tweet from a harvard-smithsonian center for astrophysics astronomer suggests it was debris from a chinese rocket that had launched last month. \" something's re-entering, \" a man exclaims as the bright lights streak across the sky in a video he uploaded to youtube. ( a dashcam captured a meteor over maine in may. )",
         "split": "train",
         "cleansed_document": [
             "Bright streaks of light seen across southern california and beyond wednesday night — leading many to speculate about their origin on social media — might actually have been space junk from a chinese rocket launched last month, an expert said. Jonathan mcdowell, an astronomer at the harvard-smithsonian center for astrophysics in cambridge, massachusetts tweeted that the fireball was debris from a chinese rocket launched june 25. Mcdowell told the los angeles times that the rocket reentered over utah about 9: 40 p.m. And was likely traveling about 18,000 mph. Ktla was getting calls and messages on social media from all over los angeles and elsewhere of the bright lights zooming in the sky. The spectacle came a day before a meteor shower was expected to be seen across north america. The delta aquarids peak this week with the brightest streaks of light crossing our skies thursday and friday. This meteor shower is best seen north of the equator, and should be visible to those in north america. Peak times to watch are late in the evening and during predawn hours, weather and cloud coverage permitting. Officials at the national weather service in salt lake city and",
             "Published on jul 27, 2016 my personal account and video footage of the july 27th, 2016 meteor-like fireball, from the reentry of chinese cz-7 r/b ( 41628u ) ( the rocket upper stage ) as seen from alabama hills, california. Copyright 2016, ian norman.",
-            "Los angeles ( cbsla.com ) — residents from sacramento to los angeles and las vegas reported seeing mysterious lights streaking across the night sky. The flashes of light spurred numerous calls into the cbs2/kcal9 newsroom from residents in lennox, lancaster, adelanto and riverside. The lights were also visible in other states, including utah, and spurred a flood of reports and video on social media. Witnesses said the ball of fire in the sky lasted about 30 seconds. The national weather service told weathercaster jackie johnson, who also witnessed the lights, that the incident was not weather-related. Meanwhile, vandenberg air force base also told cbs los angeles they did not have a launch wednesday night. As of 11 p.m., there was no official word on what caused the mysterious lights, though the annual delta aquarids meteor showers were peaking. Below are some of the videos that have surfaced online: huge asteroid shooting star thing entering atmosphere over vegas. July 27th 2016 9: 40 p.m. Pic.twitter.com/djdr3xu6en — trevor kerr ( @admiraltrevman ) july 28, 2016 saw a comet from my porch in @happeninginhlp -thought bruce willis was gonna stop it from",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Los angeles ( cbsla.com ) — residents from sacramento to los angeles and las vegas reported seeing mysterious lights streaking across the night sky. The flashes of light spurred numerous calls into the cbs2/kcal9 newsroom from residents in lennox, lancaster, adelanto and riverside. The lights were also visible in other states, including utah, and spurred a flood of reports and video on social media. Witnesses said the ball of fire in the sky lasted about 30 seconds. The national weather service told weathercaster jackie johnson, who also witnessed the lights, that the incident was not weather-related. Meanwhile, vandenberg air force base also told cbs los angeles they did not have a launch wednesday night. As of 11 p.m., there was no official word on what caused the mysterious lights, though the annual delta aquarids meteor showers were peaking. Below are some of the videos that have surfaced online: huge asteroid shooting star thing entering atmosphere over vegas. July 27th 2016 9: 40 p.m. Pic.twitter.com/djdr3xu6en — trevor kerr ( @admiraltrevman ) july 28, 2016 saw a comet from my porch in @happeninginhlp -thought bruce willis was gonna stop it from"
         ],
         "raw_document": [
             "Bright streaks of light seen across southern california and beyond wednesday night — leading many to speculate about their origin on social media — might actually have been space junk from a chinese rocket launched last month, an expert said. Jonathan mcdowell, an astronomer at the harvard-smithsonian center for astrophysics in cambridge, massachusetts tweeted that the fireball was debris from a chinese rocket launched june 25. Mcdowell told the los angeles times that the rocket reentered over utah about 9: 40 p.m. And was likely traveling about 18,000 mph. Ktla was getting calls and messages on social media from all over los angeles and elsewhere of the bright lights zooming in the sky. The spectacle came a day before a meteor shower was expected to be seen across north america. The delta aquarids peak this week with the brightest streaks of light crossing our skies thursday and friday. This meteor shower is best seen north of the equator, and should be visible to those in north america. Peak times to watch are late in the evening and during predawn hours, weather and cloud coverage permitting. Officials at the national weather service in salt lake city and",
@@ -2670,7 +2654,7 @@
             "0": 0,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -2720,7 +2704,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     }
 ]

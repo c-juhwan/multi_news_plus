@@ -1,13 +1,12 @@
 [
     {
         "idx": 49800,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A judge in new orleans has given the times-picayune website 10 days to turn over the identities of two online commenters, reports politico. The judge agreed to the request by the lawyer for stacey jackson, former head of the new orleans affordable homeownership program who is facing federal charges of corruption. Jackson's legal team apparently thinks the anonymous commenters were federal attorneys who posted comments about jackson and her case on nola.com, possibly to pressure suspects into cooperating with them, reports ap. It's not clear whether the times-picayune will comply, but a news story in the paper about the judge's ruling suggests the policy is a little squishy: \" it is the news organization's usual policy to keep such information private to the extent possible. \" if this rings a bell, it's because there's a precedent in new orleans. Us attorney jim letten had to resign in 2012 after two deputies admitted that they posted comments at the site about cases. In the most high-profile example, five officers convicted in deadly bridge shootings after hurricane katrina were granted a new trial because of the \" prosecutorial misconduct. \"",
         "split": "val",
         "cleansed_document": [
             "New orleans ( ap ) — a federal magistrate has allowed a defense attorney to subpoena records from a new orleans news organization about comments anonymously posted on its website, the latest response to a scandal that led to the resignation of the region's top federal prosecutor. U.s. Magistrate judge joseph wilkinson on tuesday approved the subpoena request by a lawyer for former new orleans affordable homeownership executive director stacey jackson, who was indicted last year on federal charges including theft and bribery. Nola media group, which operates the times-picayune newspaper and its companion website, has 10 days to respond to the subpoena. Jackson's lawyer, edward castaing, said wednesday that he plans to serve nola media group with the subpoena this week. A times-picayune report on wednesday said the news organization's usual policy is to keep such information private \" to the extent possible. \" nola media group lawyer",
-            "The attorney for former new orleans affordable homeownership director stacey jackson is seeking private information from nola.com &#124; the times-picayune about two anonymous online commenters. U.s. Magistrate judge joseph wilkinson granted a request tuesday ( jan. 21 ) from jackson, who faces federal corruption charges, to subpoena nola media group for information related to two specific online handles, \" aircheck \" and \" jammer1954, \" including names, addresses and phone numbers. It is the news organization's usual policy to keep such information private to the extent possible. After several anonymous online monikers were traced to former assistant u.s. Attorney sal perricone and former first assistant u.s. Attorney jan mann, leading to the resignation of then-u.s. Attorney jim letten, federal authorities asked the organization to turn over information on 11 additional online handles. In that case, the company's lawyers objected to providing the information, asking the federal authorities to demonstrate",
-            "A federal judge tuesday ordered a new orleans newspaper to turn over information about anonymous commenters on its website in a case related to an investigation into prosecutorial misconduct in the famous hurricane katrina bridge shootings case. The order came in the federal criminal prosecution of stacey jackson, formerly the executive director of new orleans affordable homeownership, who has been accused of misusing federal funds before and after hurricane katrina for personal benefit through a kickback scheme. Jackson petitioned the court to order nola.com &#124; the times-picayune to turn over the commenters ' identities after it came to light in a separate case that members of the u.s. Attorney's office were posting anonymous comments online, slamming the new orleans police department and commenting on the case of five police officers who were convicted of shooting civilians on a new orleans bridge in the aftermath of hurricane katrina. ( photos: inside newsrooms ) in september, a judge"
+            "The attorney for former new orleans affordable homeownership director stacey jackson is seeking private information from nola.com &#124; the times-picayune about two anonymous online commenters. U.s. Magistrate judge joseph wilkinson granted a request tuesday ( jan. 21 ) from jackson, who faces federal corruption charges, to subpoena nola media group for information related to two specific online handles, \" aircheck \" and \" jammer1954, \" including names, addresses and phone numbers. It is the news organization's usual policy to keep such information private to the extent possible. After several anonymous online monikers were traced to former assistant u.s. Attorney sal perricone and former first assistant u.s. Attorney jan mann, leading to the resignation of then-u.s. Attorney jim letten, federal authorities asked the organization to turn over information on 11 additional online handles. In that case, the company's lawyers objected to providing the information, asking the federal authorities to demonstrate"
         ],
         "raw_document": [
             "New orleans ( ap ) — a federal magistrate has allowed a defense attorney to subpoena records from a new orleans news organization about comments anonymously posted on its website, the latest response to a scandal that led to the resignation of the region's top federal prosecutor. U.s. Magistrate judge joseph wilkinson on tuesday approved the subpoena request by a lawyer for former new orleans affordable homeownership executive director stacey jackson, who was indicted last year on federal charges including theft and bribery. Nola media group, which operates the times-picayune newspaper and its companion website, has 10 days to respond to the subpoena. Jackson's lawyer, edward castaing, said wednesday that he plans to serve nola media group with the subpoena this week. A times-picayune report on wednesday said the news organization's usual policy is to keep such information private \" to the extent possible. \" nola media group lawyer",
@@ -24,7 +23,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -49,7 +48,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -504,7 +503,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -563,12 +562,11 @@
     },
     {
         "idx": 49821,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Black friday sales were down year-on-year, but this year's cyber monday is expected to be the biggest online shopping day in history. Spending on the year's most important day for online sales is expected to top last year's $ 1.25 billion by around 20 % to hit $ 1.5 billion, the chairman of digital analysis group comscore tells marketwatch. Online spending on the monday after thanksgiving has more than doubled over the last five years. But black friday itself saw plenty of online shopping, with sales nudging over $ 1 billion for the first time even as shoppers thronged brick-and-mortar stores, the ap reports. Analysts say that cyber monday may soon cease to be the busiest day for online sales, since fewer people now rely on computers at work to do their shopping. Online sales on thanksgiving day this year surged by 32 % over 2011 to reach $ 633 million.",
         "split": "val",
         "cleansed_document": [
-            "Madrid ( marketwatch ) — on the heels of data showing a record number of shoppers hit the stores over the holiday weekend, one digital-analysis group says spending on the most important shopping day of the year for online retailers, known as cyber monday, could reach $ 1.5 billion. According to data released sunday from comscore inc. Scor, -2.94 % cyber monday spending is expected to exceed the $ 1.25 billion reached in 2011 for a gain of 20 %. Spending on cyber monday — a marketing term coined back in 2005 — has more than doubled in the past five years. \"with thanksgiving now behind us and most consumers returning to work tomorrow [ monday ], we can look forward with anticipation to cyber monday, which according to norms we've observed over the past three years should be the heaviest online shopping day of the season with sales approaching $ 1.5 billion or even higher, \" said gian fulgoni, comscore chairman, in a statement. Black friday stokes season hopes ( 28: 44 ) simon constable and andria cheng discuss the holiday-shopping season, and dan neil reviews the 2013 mercedes-benz gl350. ( photo: ap ) forecasts for cyber monday sales are slightly less buoyant than what comscore has reported for other key shopping days. The group's data showed that online sales for black friday surpassed $ 1 billion",
-            "File - in this monday, dec., 1, 2008, file photo, an amazon.com employee grabs boxes off the conveyor belt to load in a truck at their fernley, nev., warehouse. Cyber monday, coined in 2005 by a shopping... ( associated press ) file - in this friday, nov. 29, 2008, file photo, carts full of merchandise ordered online are rolled to the main packing area for shipping at the overstock.com warehouse, in salt lake city. Cyber monday,... ( associated press ) cyber monday, coined in 2005 by a shopping trade group that noticed online sales spiked on the monday following thanksgiving, is the next in a series of days that stores are counting on to jumpstart the holiday shopping season. It's estimated that this year's cyber monday will be the biggest online shopping day of the year for the third year in a row: according to research firm comscore, americans are expected to spend $ 1.5 billion, up 20 percent from last year on cyber monday, as retailers have ramped up their deals to get shoppers to click on their websites. Amazon.com, which is starting its cyber monday deals at midnight on monday, is offering as much as 60 percent off a panasonic viera 55-inch tv that's usually priced higher than $ 1,000. Sears is offering"
+            "Madrid ( marketwatch ) — on the heels of data showing a record number of shoppers hit the stores over the holiday weekend, one digital-analysis group says spending on the most important shopping day of the year for online retailers, known as cyber monday, could reach $ 1.5 billion. According to data released sunday from comscore inc. Scor, -2.94 % cyber monday spending is expected to exceed the $ 1.25 billion reached in 2011 for a gain of 20 %. Spending on cyber monday — a marketing term coined back in 2005 — has more than doubled in the past five years. \"with thanksgiving now behind us and most consumers returning to work tomorrow [ monday ], we can look forward with anticipation to cyber monday, which according to norms we've observed over the past three years should be the heaviest online shopping day of the season with sales approaching $ 1.5 billion or even higher, \" said gian fulgoni, comscore chairman, in a statement. Black friday stokes season hopes ( 28: 44 ) simon constable and andria cheng discuss the holiday-shopping season, and dan neil reviews the 2013 mercedes-benz gl350. ( photo: ap ) forecasts for cyber monday sales are slightly less buoyant than what comscore has reported for other key shopping days. The group's data showed that online sales for black friday surpassed $ 1 billion"
         ],
         "raw_document": [
             "Madrid ( marketwatch ) — on the heels of data showing a record number of shoppers hit the stores over the holiday weekend, one digital-analysis group says spending on the most important shopping day of the year for online retailers, known as cyber monday, could reach $ 1.5 billion. According to data released sunday from comscore inc. Scor, -2.94 % cyber monday spending is expected to exceed the $ 1.25 billion reached in 2011 for a gain of 20 %. Spending on cyber monday — a marketing term coined back in 2005 — has more than doubled in the past five years. \"with thanksgiving now behind us and most consumers returning to work tomorrow [ monday ], we can look forward with anticipation to cyber monday, which according to norms we've observed over the past three years should be the heaviest online shopping day of the season with sales approaching $ 1.5 billion or even higher, \" said gian fulgoni, comscore chairman, in a statement. Black friday stokes season hopes ( 28: 44 ) simon constable and andria cheng discuss the holiday-shopping season, and dan neil reviews the 2013 mercedes-benz gl350. ( photo: ap ) forecasts for cyber monday sales are slightly less buoyant than what comscore has reported for other key shopping days. The group's data showed that online sales for black friday surpassed $ 1 billion",
@@ -583,17 +581,15 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 49822,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "The gop is in a tizzy over president obama's gun-control plan, with some on the right accusing him of tyranny. Well, that's going a little far, said jon stewart on last night's daily show: \" when tyrants want something done, they generally don't ask their legislative bodies if that would be ok. They tend to proceed... Tyrannically. \" of course, folks like sean hannity would oppose any executive \" overreach, \" right? cue clip of hannity backing president bush on warrantless wiretapping. \" looks like a tyrant is anyone sworn to protect the constitution that you didn't vote for, \" stewart said. As for people who are comparing obama to dictators throughout history — and say, for example, that if jews had had guns, the holocaust might have been averted: \" i wish armed jews in the ghetto could stop hitler. But my feeling was, france couldn't, and i ' m pretty sure they had guns. Russia had kind of a lot of guns, but they couldn't stop hitler — until you factored in the wind chill. \" seems people are confusing \" tyranny with the unpleasant burning sensation of losing democratic elections. \"",
         "split": "val",
-        "cleansed_document": [
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain.",
             "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
@@ -606,18 +602,17 @@
             "The summary addresses the GOP's reaction to President Obama's gun-control plan, accusations of tyranny, and comparisons to historical dictators. Document 1 and Document 2 both mention \"focused crawls\" which are collections of webcrawl data and are unrelated to the discussion of the GOP's reaction to gun control and comparisons to historical dictators. Therefore, the irrelevant documents are: Document 1|Document 2"
         ],
         "vote_count": {
-            "0": 5,
-            "1": 0
+            "0": 4,
+            "1": 4
         }
     },
     {
         "idx": 49823,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "At least one person was killed in a helicopter crash in a residential area in virginia, authorities say. A 911 call came in sunday before 5pm about an aircraft crashing into a residential structure in williamsburg near settlement drive, virginia state police say. The crash caused a massive fire at a townhouse complex, police say. Neighbors tell the daily press that they heard sounds resembling a helicopter crash. The college of william and mary in williamsburg issued a tweet sunday warning students of the crash and urging them to avoid the area around the school's dillard complex, the ap reports. Peggy weiss, who lives in the neighborhood, tells the daily press she saw a small, rickety helicopter crash between two buildings. Brook sweeney, who lives across the street from a house on fire, says the whole house shook when the crash occurred. \" i just heard a loud ' bam ' and the whole house was on fire, \" sweeney says. Donald johnson tells the newspaper he was 10 feet away from the crash when it struck his apartment building. \" i was downstairs on the first floor when that thing hit and i had never heard a noise like that in my life. I just walked out and looked and got out, i was afraid it would blow up. \" the faa tweeted late sunday that the pilot was the only person on board the r44 helicopter.",
         "split": "val",
         "cleansed_document": [
-            "Authorities respond to an aviation crash at a residential structure, possibly involving a helicopter, sunday, july 8, 2018, in williamsburg, va. ( nickolas oatley/the daily press via ap ) ( associated press ) authorities respond to an aviation crash at a residential structure, possibly involving a helicopter, sunday, july 8, 2018, in williamsburg, va. ( nickolas oatley/the daily press via ap ) ( associated press ) williamsburg, va. ( ap ) — authorities say at least one person was killed in a helicopter crash in a residential area in virginia. A 911 call came in sunday before 5 p.m. About an aircraft crashing into a residential structure in williamsburg near settlement drive, virginia state police said. The crash caused a fire at a townhouse, police said. Wavy-tv cited dispatchers reporting that a helicopter had crashed. Neighbors told the daily press that they heard sounds resembling a helicopter crash. The college of william and mary in williamsburg issued a tweet sunday warning students of the crash and urging them to avoid the area around the school's dillard complex. The federal aviation administration and national transportation safety board are also responding to the scene. Peggy weiss, who lives in the neighborhood, told the daily press she saw a small, rickety helicopter crash between two buildings. Brook sweeney, who lives across the street from a house on fire, told the newspaper the whole house shook when the crash occurred. \" i just heard a loud ' bam ' and the whole house was on fire, \" sweeney said. Donald johnson told the newspaper he was 10 feet away from the crash when it struck his apartment building. \" i was downstairs on the first floor when that thing hit and i had never heard a noise like that in my life. I just walked out and looked and got out, i was afraid it would blow up. \"",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Authorities respond to an aviation crash at a residential structure, possibly involving a helicopter, sunday, july 8, 2018, in williamsburg, va. ( nickolas oatley/the daily press via ap ) ( associated press ) authorities respond to an aviation crash at a residential structure, possibly involving a helicopter, sunday, july 8, 2018, in williamsburg, va. ( nickolas oatley/the daily press via ap ) ( associated press ) williamsburg, va. ( ap ) — authorities say at least one person was killed in a helicopter crash in a residential area in virginia. A 911 call came in sunday before 5 p.m. About an aircraft crashing into a residential structure in williamsburg near settlement drive, virginia state police said. The crash caused a fire at a townhouse, police said. Wavy-tv cited dispatchers reporting that a helicopter had crashed. Neighbors told the daily press that they heard sounds resembling a helicopter crash. The college of william and mary in williamsburg issued a tweet sunday warning students of the crash and urging them to avoid the area around the school's dillard complex. The federal aviation administration and national transportation safety board are also responding to the scene. Peggy weiss, who lives in the neighborhood, told the daily press she saw a small, rickety helicopter crash between two buildings. Brook sweeney, who lives across the street from a house on fire, told the newspaper the whole house shook when the crash occurred. \" i just heard a loud ' bam ' and the whole house was on fire, \" sweeney said. Donald johnson told the newspaper he was 10 feet away from the crash when it struck his apartment building. \" i was downstairs on the first floor when that thing hit and i had never heard a noise like that in my life. I just walked out and looked and got out, i was afraid it would blow up. \""
         ],
         "raw_document": [
             "Authorities respond to an aviation crash at a residential structure, possibly involving a helicopter, sunday, july 8, 2018, in williamsburg, va. ( nickolas oatley/the daily press via ap ) ( associated press ) authorities respond to an aviation crash at a residential structure, possibly involving a helicopter, sunday, july 8, 2018, in williamsburg, va. ( nickolas oatley/the daily press via ap ) ( associated press ) williamsburg, va. ( ap ) — authorities say at least one person was killed in a helicopter crash in a residential area in virginia. A 911 call came in sunday before 5 p.m. About an aircraft crashing into a residential structure in williamsburg near settlement drive, virginia state police said. The crash caused a fire at a townhouse, police said. Wavy-tv cited dispatchers reporting that a helicopter had crashed. Neighbors told the daily press that they heard sounds resembling a helicopter crash. The college of william and mary in williamsburg issued a tweet sunday warning students of the crash and urging them to avoid the area around the school's dillard complex. The federal aviation administration and national transportation safety board are also responding to the scene. Peggy weiss, who lives in the neighborhood, told the daily press she saw a small, rickety helicopter crash between two buildings. Brook sweeney, who lives across the street from a house on fire, told the newspaper the whole house shook when the crash occurred. \" i just heard a loud ' bam ' and the whole house was on fire, \" sweeney said. Donald johnson told the newspaper he was 10 feet away from the crash when it struck his apartment building. \" i was downstairs on the first floor when that thing hit and i had never heard a noise like that in my life. I just walked out and looked and got out, i was afraid it would blow up. \"",
@@ -632,17 +627,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 49824,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's splitsville for j.crew and the bridal business. The company — which shook up the sector in 2004 when it started competing with specialist bridal firms — has decided to get rid of its entire bridal line, including gowns and bridesmaid dresses, and replace it with an expanded collection of party dresses, racked reports. A source says the company, which sold its bridal collection exclusively online until it opened a new york city bridal store in 2010, found that the line wasn't making it much money and they decided to ax it instead of skimping on quality. Business insider notes that in good news for the bride on a budget, the company has slashed prices on its bridal line this week and the discounts will continue until the inventory is gone. ( this bridal shop owner was spotted naked in the store window. )",
         "split": "val",
         "cleansed_document": [
-            "J. Crew is axing its bridal business. Facebook/j. Crew j. Crew is killing its entire bridal line. The company has marked down its entire line of bridesmaids dresses and wedding gowns by up to 70 % online and in stores. Many dresses are out of stock in most sizes. Once the merchandise sells out, the company will no longer offer a bridal line, a j. Crew weddings specialist told business insider when reached by phone on thursday. This is a significant shift for j. Crew, which has been in the bridal business since 2004. The company sold bridesmaids dresses and wedding gowns exclusively online until 2010, when j. Crew opened its first bridal boutique on madison avenue in new york. The company has opened several more bridal locations over the years, including one inside its store on 5th avenue in the flatiron district of new york. The entire bridal line will be removed from that store, as well as from j. Crew's other locations. A spokesperson for j. Crew confirmed the company is discontinuing its current wedding line. On thursday, j. Crew's website offered bridesmaid dresses originally marked as $ 228 for as low as $ 69.99. Jcrew.com a wedding gown was discounted from the original price of $ 2,650 down to $ 1,899.99. Jcrew.com j. Crew's decision to axe its bridal line comes amid",
-            "Racked is no longer publishing. Thank you to everyone who read our work over the years. The archives will remain available here; for new stories, head over to vox.com, where our staff is covering consumer culture for the goods by vox. You can also see what we're up to by signing up here. J.crew is axing its bridal collection, racked has learned. In its place, it will offer an expanded line of party and special occasion dresses starting this spring. When reached for comment, j.crew confirmed the shift in strategy after more than a decade in the bridal business. It jumped into the category in 2004; ceo mickey drexler told the new yorker in 2012 that the idea came to him when he discovered that brides bought multiples of the same dress for their friends as bridesmaid dresses. J.crew is largely credited with being the first non-bridal retailer to dabble in the space. It paved the way for brands like ann taylor, h&m, asos, and modcloth to also make affordable bridal dresses, disrupting the bridal store sector that ibisworld counts as a $ 3 billion space. The brand's collection of bridal gowns, bridesmaids dresses, and even jumpsuits and crop tops were always front and center in its catalogues, and even anchored an upper east side store. But over time, j.crew"
+            "J. Crew is axing its bridal business. Facebook/j. Crew j. Crew is killing its entire bridal line. The company has marked down its entire line of bridesmaids dresses and wedding gowns by up to 70 % online and in stores. Many dresses are out of stock in most sizes. Once the merchandise sells out, the company will no longer offer a bridal line, a j. Crew weddings specialist told business insider when reached by phone on thursday. This is a significant shift for j. Crew, which has been in the bridal business since 2004. The company sold bridesmaids dresses and wedding gowns exclusively online until 2010, when j. Crew opened its first bridal boutique on madison avenue in new york. The company has opened several more bridal locations over the years, including one inside its store on 5th avenue in the flatiron district of new york. The entire bridal line will be removed from that store, as well as from j. Crew's other locations. A spokesperson for j. Crew confirmed the company is discontinuing its current wedding line. On thursday, j. Crew's website offered bridesmaid dresses originally marked as $ 228 for as low as $ 69.99. Jcrew.com a wedding gown was discounted from the original price of $ 2,650 down to $ 1,899.99. Jcrew.com j. Crew's decision to axe its bridal line comes amid"
         ],
         "raw_document": [
             "J. Crew is axing its bridal business. Facebook/j. Crew j. Crew is killing its entire bridal line. The company has marked down its entire line of bridesmaids dresses and wedding gowns by up to 70 % online and in stores. Many dresses are out of stock in most sizes. Once the merchandise sells out, the company will no longer offer a bridal line, a j. Crew weddings specialist told business insider when reached by phone on thursday. This is a significant shift for j. Crew, which has been in the bridal business since 2004. The company sold bridesmaids dresses and wedding gowns exclusively online until 2010, when j. Crew opened its first bridal boutique on madison avenue in new york. The company has opened several more bridal locations over the years, including one inside its store on 5th avenue in the flatiron district of new york. The entire bridal line will be removed from that store, as well as from j. Crew's other locations. A spokesperson for j. Crew confirmed the company is discontinuing its current wedding line. On thursday, j. Crew's website offered bridesmaid dresses originally marked as $ 228 for as low as $ 69.99. Jcrew.com a wedding gown was discounted from the original price of $ 2,650 down to $ 1,899.99. Jcrew.com j. Crew's decision to axe its bridal line comes amid",
@@ -657,7 +651,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -712,7 +706,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -790,7 +784,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -978,7 +972,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1248,12 +1242,11 @@
     },
     {
         "idx": 49847,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Police are looking for two men spotted installing a credit card skimmer on a point-of-sale system at a miami beach gas station on wednesday. As a digg post observes, the ease of the whole operation is \" frankly terrifying. \" a surveillance video shows two men approach the counter of a chevron around 9: 30pm, reports cbs miami. While one man asks the attendant to grab some items from behind the counter, a second man pulls a device from his bag and places it over the station's payment terminal. He backs away as another customer approaches, then adjusts the device. The entire installation took less than three seconds. The pair then left the store. Only when the skimmer came loose the next day did a gas station employee realize what had happened and call police. As the men weren't able to return to collect the device — which nabs debit or credit card information when a card is swiped — customers are in luck. But similar devices may go undiscovered at similar high-traffic areas. Your safest bet is to use atms inside a bank, though credit cards are safer than debit cards elsewhere since they have better fraud protections, advises credit.com. ( you might want to consider freezing your credit reports, too. )",
         "split": "val",
         "cleansed_document": [
-            "Follow cbsmiami.com: facebook &#124; twitter miami beach ( cbsmiami ) – miami beach police have released surveillance video of two men who were caught on camera placing a card skimmer over a credit/debit scanner at a gas station. It happened wednesday, around 9: 30 p.m., at chevron at 1453 alton road. On the video, one of the men distracts the clerk while the other places the skimmer over the payment keypad located near the register. It took less than three seconds to put it in place. They both then left the gas station. The following day, the gas station's morning clerk called the cops after the skimmer became loose on the keypad. After reviewing surveillance video, miami beach police have asked for the public's for help in identifying the two men seen in the video. Anyone with information is urged to contact miami dade crime stoppers at ( 305 ) 471-tips.",
-            "Hello, reader! thanks for checking out credit.com. We hope you find the site and the journalism we produce useful. We wanted to take some time to tell you a bit about ourselves. Our people the credit.com editorial team is staffed by a team of editors and reporters, each with many years of financial reporting experience. We've worked for places like the new york times, american banker, frontline, thestreet.com, business insider, abc news, nbc news, cnbc and many others. We also employ a few freelancers and more than 50 contributors ( these are typically subject matter experts from the worlds of finance, academia, politics, business and elsewhere ). Our reporting we take great pains to ensure that the articles, video and graphics you see on credit.com are thoroughly reported and fact-checked. Each story is read by two separate editors, and we adhere to the highest editorial standards. We're not perfect, however, and if you see something that you think is wrong, please email us at editorial team [ at ] credit [ dot ] com, the credit.com editorial team is committed to providing our readers and viewers with sound, well-reported and understandable information designed to inform and empower. We won't tell you what to do. We will, however, do our best to explain the consequences of various actions, thereby arming you with the information you need to make decisions that are in your best interests. We also write about things relating to money and finance we think are interesting and want to share. In addition to appearing on credit.com, our articles are syndicated to dozens of other news sites. We have more than 100 partners, including msn, abc news, cbs news, yahoo, marketwatch"
+            "Follow cbsmiami.com: facebook &#124; twitter miami beach ( cbsmiami ) – miami beach police have released surveillance video of two men who were caught on camera placing a card skimmer over a credit/debit scanner at a gas station. It happened wednesday, around 9: 30 p.m., at chevron at 1453 alton road. On the video, one of the men distracts the clerk while the other places the skimmer over the payment keypad located near the register. It took less than three seconds to put it in place. They both then left the gas station. The following day, the gas station's morning clerk called the cops after the skimmer became loose on the keypad. After reviewing surveillance video, miami beach police have asked for the public's for help in identifying the two men seen in the video. Anyone with information is urged to contact miami dade crime stoppers at ( 305 ) 471-tips."
         ],
         "raw_document": [
             "Follow cbsmiami.com: facebook &#124; twitter miami beach ( cbsmiami ) – miami beach police have released surveillance video of two men who were caught on camera placing a card skimmer over a credit/debit scanner at a gas station. It happened wednesday, around 9: 30 p.m., at chevron at 1453 alton road. On the video, one of the men distracts the clerk while the other places the skimmer over the payment keypad located near the register. It took less than three seconds to put it in place. They both then left the gas station. The following day, the gas station's morning clerk called the cops after the skimmer became loose on the keypad. After reviewing surveillance video, miami beach police have asked for the public's for help in identifying the two men seen in the video. Anyone with information is urged to contact miami dade crime stoppers at ( 305 ) 471-tips.",
@@ -1268,7 +1261,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1293,7 +1286,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1342,7 +1335,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1367,7 +1360,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1397,12 +1390,11 @@
     },
     {
         "idx": 49853,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A detroit inmate is on the run after stabbing a cop and holding another deputy briefly hostage, the detroit free press reports. The inmate fled the frank murphy hall of justice courthouse, where the attack occurred, fox 2 and abc 7 report. The man, identified as derek white, 25, stole a van, which was later recovered in a vacant lot. Police say he took the hostage's uniform but is now thought to be wearing a white t-shirt and gray pants. He's believed to be armed and dangerous.",
         "split": "val",
         "cleansed_document": [
-            "Detroit ( wxyz ) - police tell 7 action news that the escaped prisoner who is accused of stabbing a wayne county deputy at the frank murphy hall of justice has been captured. Abraham pearson was walking along the service drive of i-94 and mt. Elliot -- trying to get a ride out of town -- when he was spotted by police late monday. A citizen who saw him walking called the tip in to 9-1-1. Police believe pearson was trying to hitchhike down to florida. When detroit police arrested pearson, he was wearing a black tank top and casual pants. Pearson is facing 10 felony counts including assault with intent to murder and escape from jail through violence. The wayne county sheriff's department also has a woman in custody connected to pearson. Police originally named the suspect as derreck white. However, they have since said that the white name is an alias for abraham pearson. Pearson's other aliases include the street names d.c. And weezy. State of michigan records show that pearson is on parole for breaking and entering and assault. Detroit police chief james craig says pearson also had an extensive criminal history, including several home",
-            "Feelin'the detroit love moms weigh in on a new survey that ranks detroit as america's most miserable city. What do you think? • win ' high school musical 2'tickets!: enter now to win tickets to the feb. 28 show at the palace by sending us a photo of your family enjoying the winter weather! more on motorcitymoms.com"
+            "Detroit ( wxyz ) - police tell 7 action news that the escaped prisoner who is accused of stabbing a wayne county deputy at the frank murphy hall of justice has been captured. Abraham pearson was walking along the service drive of i-94 and mt. Elliot -- trying to get a ride out of town -- when he was spotted by police late monday. A citizen who saw him walking called the tip in to 9-1-1. Police believe pearson was trying to hitchhike down to florida. When detroit police arrested pearson, he was wearing a black tank top and casual pants. Pearson is facing 10 felony counts including assault with intent to murder and escape from jail through violence. The wayne county sheriff's department also has a woman in custody connected to pearson. Police originally named the suspect as derreck white. However, they have since said that the white name is an alias for abraham pearson. Pearson's other aliases include the street names d.c. And weezy. State of michigan records show that pearson is on parole for breaking and entering and assault. Detroit police chief james craig says pearson also had an extensive criminal history, including several home"
         ],
         "raw_document": [
             "Detroit public schools and detroit police department say extra patrols were around the schools in the area where they're searching for runaway prisoner abraham pearson. Detroit public schools and detroit police department say extra patrols were around the schools in the area where they're searching for runaway prisoner abraham pearson. Detroit public schools and detroit police department say extra patrols were around the schools in the area where they're searching for runaway prisoner abraham pearson. Detroit public schools and detroit police department say extra patrols were around the schools in the area where they're searching for runaway prisoner abraham pearson. The sheriff's deputy stabbed during what police say was a prisoner's elaborate escape is said to be in good condition, and is out of the hospital recovering at home with family. The sheriff's deputy stabbed during what police say was a prisoner's elaborate escape is said to be in good condition, and is out of the hospital recovering at home with family. The sheriff's deputy stabbed during what police say was a prisoner's elaborate escape is said to be in good condition, and is out of the",
@@ -1419,7 +1411,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1458,7 +1450,7 @@
             "3": 0,
             "4": 0,
             "5": 1,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -1609,7 +1601,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1664,12 +1656,11 @@
     },
     {
         "idx": 49862,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two key facts about billionaire robert mercer: he is, in the words of a recent new yorker profile, the \" reclusive hedge-fund tycoon behind the trump presidency. \" second, the irs is going after his renaissance technologies fund for nearly $ 7 billion in back taxes. All of which sets up a dicey situation for president trump, as a story at mcclatchy news service explains. Mercer wants irs chief john koskinen booted from office, and he's pushing trump to fire him before his five-year term expires in november. The president has not tipped his hand on whether he ' ll do that, but it makes for \" bad optics, \" per the chief ethics adviser in the george w. Bush white house. \" the guy's got a big case in front of the irs, \" says richard painter. \" he's trying to put someone in there who's going to drop the case. Is the president of the united states going to succumb to that? \" mercer, whose daughter rebekah is a major political player on the right as well, ramped up political contributions to conservative groups after the irs began investigating his fund's use of a complicated banking method known as \" basket options \" in 2010 to cut its tax bill, reports mcclatchy. The method involves converting short-term gains on trades into long-term gains, which are taxed at a lower rate. The irs does not comment on ongoing cases, but a senate panel accused the fund of short-changing the agency of at least $ 6.8 billion. The company has maintained that it did nothing illegal. One thing that could work in the mercers ' favor: they have long ties to top trump strategist steve bannon. Still, a columbia professor says that even if the mercers succeed in getting koskinen fired, it's doubtful that would upend a years-long irs case.",
         "split": "val",
         "cleansed_document": [
-            "The internal revenue service is demanding a whopping $ 7 billion or more in back taxes from the world's most profitable hedge fund, whose boss's wealth and cyber savvy helped donald trump pole-vault into the white house. Suddenly, the government's seven-year pursuit of renaissance technologies llc is blanketed in political intrigue, now that the hedge fund's reclusive, anti-establishment co-chief executive, robert mercer, has morphed into a political force who might be owed a big presidential favor. With trump in the oval office, mercer and his daughter rebekah, who has become his public voice, seem armed with political firepower every which way you look – and that's even though presidential adviser stephen bannon, their former senior executive and political strategist, appears to have recently lost influence. Since the irs found in 2010 that a complicated banking method used by renaissance and about 10 other hedge funds was a tax-avoidance scheme, mercer has gotten increasingly active in politics. According to data from the center for responsive politics, he doled out more than $ 22 million to outside conservative groups seeking to influence last year's elections, while advocating the abolition of the irs and much of the federal government. The mercer family foundation, run by rebekah mercer, also has donated millions of dollars to conservative nonprofit groups that have called",
-            "Last month, when president donald trump toured a boeing aircraft plant in north charleston, south carolina, he saw a familiar face in the crowd that greeted him: patrick caddell, a former democratic political operative and pollster who, for forty-five years, has been prodding insurgent presidential candidates to attack the washington establishment. Caddell, who lives in charleston, is perhaps best known for helping jimmy carter win the 1976 presidential race. He is also remembered for having collaborated with his friend warren beatty on the 1998 satire \"bulworth. \" in that film, a kamikaze candidate abandons the usual talking points and excoriates both the major political parties and the media; voters love his unconventionality, and he becomes improbably popular. If the plot sounds familiar, there's a reason: in recent years, caddell has offered political advice to trump. He has not worked directly for the president, but at least as far back as 2013 he has been a contractor for one of trump's biggest financial backers: robert mercer, a reclusive long island hedge-fund manager, who has become a major force behind the trump presidency. During the past decade, mercer, who is seventy, has funded an array of political projects that helped pave the way for trump's rise. Among these efforts was public-opinion research, conducted by caddell, showing"
+            "The internal revenue service is demanding a whopping $ 7 billion or more in back taxes from the world's most profitable hedge fund, whose boss's wealth and cyber savvy helped donald trump pole-vault into the white house. Suddenly, the government's seven-year pursuit of renaissance technologies llc is blanketed in political intrigue, now that the hedge fund's reclusive, anti-establishment co-chief executive, robert mercer, has morphed into a political force who might be owed a big presidential favor. With trump in the oval office, mercer and his daughter rebekah, who has become his public voice, seem armed with political firepower every which way you look – and that's even though presidential adviser stephen bannon, their former senior executive and political strategist, appears to have recently lost influence. Since the irs found in 2010 that a complicated banking method used by renaissance and about 10 other hedge funds was a tax-avoidance scheme, mercer has gotten increasingly active in politics. According to data from the center for responsive politics, he doled out more than $ 22 million to outside conservative groups seeking to influence last year's elections, while advocating the abolition of the irs and much of the federal government. The mercer family foundation, run by rebekah mercer, also has donated millions of dollars to conservative nonprofit groups that have called"
         ],
         "raw_document": [
             "The internal revenue service is demanding a whopping $ 7 billion or more in back taxes from the world's most profitable hedge fund, whose boss's wealth and cyber savvy helped donald trump pole-vault into the white house. Suddenly, the government's seven-year pursuit of renaissance technologies llc is blanketed in political intrigue, now that the hedge fund's reclusive, anti-establishment co-chief executive, robert mercer, has morphed into a political force who might be owed a big presidential favor. With trump in the oval office, mercer and his daughter rebekah, who has become his public voice, seem armed with political firepower every which way you look – and that's even though presidential adviser stephen bannon, their former senior executive and political strategist, appears to have recently lost influence. Since the irs found in 2010 that a complicated banking method used by renaissance and about 10 other hedge funds was a tax-avoidance scheme, mercer has gotten increasingly active in politics. According to data from the center for responsive politics, he doled out more than $ 22 million to outside conservative groups seeking to influence last year's elections, while advocating the abolition of the irs and much of the federal government. The mercer family foundation, run by rebekah mercer, also has donated millions of dollars to conservative nonprofit groups that have called",
@@ -1684,7 +1675,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1943,12 +1934,11 @@
     },
     {
         "idx": 49872,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Congratulations, america: you sit 103rd on a list that ranks countries by their peacefulness, in a report compiled by the institute for economics and peace. The ranking is based on 23 factors including involvement in conflicts at home and abroad, crime, terrorist activity, political stability, levels of militarization, and relations with other countries in general. Marketwatch reports that latter factor dinged us, citing us-russian relations. The fight against isis further dragged down america's score. The 10 most peaceful countries: iceland denmark austria new zealand portugal czech republic switzerland canada japan slovenia somalia, afghanistan, iraq, south sudan, and syria bring up the rear. Click for the full report or see the top 10 \" good \" countries.",
         "split": "val",
         "cleansed_document": [
-            "America may be the land of the free — but it's not the land of peace, a new study finds. In general, the world became slightly less peaceful in 2016, thanks in part to intense violence in the middle east and north africa, according to a study of peacefulness in 163 countries and territories released this week by the global think tank institute for economics and peace. The study examined 23 factors related to peacefulness, including each country's involvement in internal and external conflicts; crime, terrorist activity, violent demonstrations, relations with other countries, stability of politics, proportion of the population being internally displaced or made refugees, and levels of militarization. All in all, the authors hope to define peace as \"the harmony achieved by the absence of violence or the fear of violence. \" once again, iceland is the most peaceful country on earth, followed by denmark and austria. Meanwhile, conflict-ridden countries like syria, south sudan and iraq and afghanistan are at the bottom of the list. Syria landed at the bottom due, in part, to its civil war, which \"broadened its international scope as a result of the russian intervention that began in september 2015 on the side of the syrian government, \" the authors note. The united states ranks 100th ( out of 163 total areas ) in terms of peacefulness. This low score is thanks, in part, to these factors: \"u.s. Involvement in the armed conflict against isil escalated \" and \"relations between the u.s. And russia have also deteriorated. \" this study is far from the final word on peacefulness. The authors admit that \"peace is notoriously difficult to define. \" plus, many of the things they use to measure peace are qualitative, and thus prone to human judgement, which can be skewed.",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "America may be the land of the free — but it's not the land of peace, a new study finds. In general, the world became slightly less peaceful in 2016, thanks in part to intense violence in the middle east and north africa, according to a study of peacefulness in 163 countries and territories released this week by the global think tank institute for economics and peace. The study examined 23 factors related to peacefulness, including each country's involvement in internal and external conflicts; crime, terrorist activity, violent demonstrations, relations with other countries, stability of politics, proportion of the population being internally displaced or made refugees, and levels of militarization. All in all, the authors hope to define peace as \"the harmony achieved by the absence of violence or the fear of violence. \" once again, iceland is the most peaceful country on earth, followed by denmark and austria. Meanwhile, conflict-ridden countries like syria, south sudan and iraq and afghanistan are at the bottom of the list. Syria landed at the bottom due, in part, to its civil war, which \"broadened its international scope as a result of the russian intervention that began in september 2015 on the side of the syrian government, \" the authors note. The united states ranks 100th ( out of 163 total areas ) in terms of peacefulness. This low score is thanks, in part, to these factors: \"u.s. Involvement in the armed conflict against isil escalated \" and \"relations between the u.s. And russia have also deteriorated. \" this study is far from the final word on peacefulness. The authors admit that \"peace is notoriously difficult to define. \" plus, many of the things they use to measure peace are qualitative, and thus prone to human judgement, which can be skewed."
         ],
         "raw_document": [
             "America may be the land of the free — but it's not the land of peace, a new study finds. In general, the world became slightly less peaceful in 2016, thanks in part to intense violence in the middle east and north africa, according to a study of peacefulness in 163 countries and territories released this week by the global think tank institute for economics and peace. The study examined 23 factors related to peacefulness, including each country's involvement in internal and external conflicts; crime, terrorist activity, violent demonstrations, relations with other countries, stability of politics, proportion of the population being internally displaced or made refugees, and levels of militarization. All in all, the authors hope to define peace as \"the harmony achieved by the absence of violence or the fear of violence. \" once again, iceland is the most peaceful country on earth, followed by denmark and austria. Meanwhile, conflict-ridden countries like syria, south sudan and iraq and afghanistan are at the bottom of the list. Syria landed at the bottom due, in part, to its civil war, which \"broadened its international scope as a result of the russian intervention that began in september 2015 on the side of the syrian government, \" the authors note. The united states ranks 100th ( out of 163 total areas ) in terms of peacefulness. This low score is thanks, in part, to these factors: \"u.s. Involvement in the armed conflict against isil escalated \" and \"relations between the u.s. And russia have also deteriorated. \" this study is far from the final word on peacefulness. The authors admit that \"peace is notoriously difficult to define. \" plus, many of the things they use to measure peace are qualitative, and thus prone to human judgement, which can be skewed.",
@@ -1963,7 +1953,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1991,7 +1981,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2071,12 +2061,11 @@
     },
     {
         "idx": 49877,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Blue ivy carter has already charted on billboard — did you expect anything less from the daughter of music royalty? when dad jay-z released \" glory, \" a song for his new daughter, he also officially billed it as \" featuring b.i.c., \" her initials. ( the song, which you can listen to at left, includes some of the baby's first sounds. ) it was released within two days of her birth and debuted at no. 74 on the r&b/hip hop songs chart, making blue officially the youngest person to appear on a chart, billboard confirms. More on the progeny of jay-z and beyonce, who went home early tuesday: state health officials did look into complaints from fellow new parents at manhattan's lenox hill hospital, some of whom claimed security for the superstars kept them from seeing their own babies. Those complaints were dismissed last night, the ap reports. The hospital is performing its own investigation, but says that the parents spoken to so far had no complaints. But there's no disputing that beyonce gave birth in the lap of luxury. Tmz reports that she was the first patient to use a new luxury suite at the hospital, which the gossip site compares to a \" four seasons penthouse. \" it includes, among other things, four flat-screen tvs, a kitchenette, and some pretty posh furnishings. Click for pictures.",
         "split": "val",
         "cleansed_document": [
-            "New parents beyonce and jay-z and their bouncing bundle of joy, baby blue, left lenox hill hospital tuesday, officials there confirmed. A procession of vehicles with blacked-out windows made a speedy exit from the upper east side hospital's side gate in the wee hours of tuesday, witnesses said. Two black suvs motored quickly out of the facility's e. 76th st. Loading dock at 1: 30 a.m. Moments later, a van parked on a nearby corner reversed into the same loading dock, and the large roll-down gate closed. The gate reopened a few minutes later and the van drove out, turned the wrong way on the one-way 76th st., and then headed north on park ave. One of the two suvs blocked traffic on park ave. So the van would not be impeded. The second suv pulled in behind the van, apparently to prevent anyone from following the music icons and their newborn daughter, blue ivy carter. Vehicle believed to be carrying beyonce and jay-z and their newborn daughter exits lenox hill hospital loading dock early tuesday. ( vehicle believed to be carrying beyonce and jay-z and their newborn daughter exits lenox hill hospital loading dock early tuesday. ( vic nicastro for new york daily news ) it was \"very precise, very military-like, \" one witness said. \"immediately, security personnel began leaving the hospital. \" beyonce, 30, checked into the hospital friday night using the name ingrid jackson, a hospital staffer told the daily news. The couple brought their own bodyguards. The child was born saturday night on the sixth floor, near the neonatal intensive-care unit, sources said. Lenox hill staffers, speaking anonymously, told the news that beyonce and jay-z paid $ 1.3 million to seal off and redecorate a wing at the facility. Several new parents said they were delayed for hours in seeing their newborns by the couple's security guards. Lenox hill hospital dismissed these reports, saying in a statement, \"the family does have its own security detail on site. However, the hospital has been and continues to be in control of managing all security. Lenox hill also said the \"crazy in love \" singer and her husband, whose",
-            "This is a set of web collections curated by mark graham using the archive-it service of the internet archive. They include web captures of the iskme.org website as well as captures from sites hosted by igc.org.these web captures are available to the general public.for more information about this collection please feel free to contact mark via send mail"
+            "New parents beyonce and jay-z and their bouncing bundle of joy, baby blue, left lenox hill hospital tuesday, officials there confirmed. A procession of vehicles with blacked-out windows made a speedy exit from the upper east side hospital's side gate in the wee hours of tuesday, witnesses said. Two black suvs motored quickly out of the facility's e. 76th st. Loading dock at 1: 30 a.m. Moments later, a van parked on a nearby corner reversed into the same loading dock, and the large roll-down gate closed. The gate reopened a few minutes later and the van drove out, turned the wrong way on the one-way 76th st., and then headed north on park ave. One of the two suvs blocked traffic on park ave. So the van would not be impeded. The second suv pulled in behind the van, apparently to prevent anyone from following the music icons and their newborn daughter, blue ivy carter. Vehicle believed to be carrying beyonce and jay-z and their newborn daughter exits lenox hill hospital loading dock early tuesday. ( vehicle believed to be carrying beyonce and jay-z and their newborn daughter exits lenox hill hospital loading dock early tuesday. ( vic nicastro for new york daily news ) it was \"very precise, very military-like, \" one witness said. \"immediately, security personnel began leaving the hospital. \" beyonce, 30, checked into the hospital friday night using the name ingrid jackson, a hospital staffer told the daily news. The couple brought their own bodyguards. The child was born saturday night on the sixth floor, near the neonatal intensive-care unit, sources said. Lenox hill staffers, speaking anonymously, told the news that beyonce and jay-z paid $ 1.3 million to seal off and redecorate a wing at the facility. Several new parents said they were delayed for hours in seeing their newborns by the couple's security guards. Lenox hill hospital dismissed these reports, saying in a statement, \"the family does have its own security detail on site. However, the hospital has been and continues to be in control of managing all security. Lenox hill also said the \"crazy in love \" singer and her husband, whose"
         ],
         "raw_document": [
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period.",
@@ -2093,7 +2082,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2167,7 +2156,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2227,13 +2216,12 @@
     },
     {
         "idx": 49883,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "James mattis, seeking to calm world leaders saturday following president trump's decision to pull out of the paris climate agreement, urged them to \" bear with us, \" the guardian reports. The defense secretary, paraphrasing winston churchill, said americans will do the right thing \" once we have exhausted all possible alternatives. \" mattis was speaking at the shangri-la dialogue in singapore, according to the hill. The conference is a major forum on security and the main topic was north korea, but mattis was repeatedly asked about the us ' commitment to the rest of the world following trump's decision on the paris climate agreement and earlier decision to leave the trans-pacific trade agreement. While mattis explained that some americans think the us bears an \" inordinate burden \" on the global stage, he said american isolationism is a thing of the past. \" like it or not, we are a part of the world, \" reuters quotes the defense secretary as saying. \" what a crummy world if we all retreat inside our borders. \" mattis assured international leaders that trump leaving the paris climate agreement \" does not mean we are turning our back \" on the world. \" we will still be there with you, \" he said. It's unclear if the forum's attendees believed him, pointing out that he appeared to be saying the opposite of the american president.",
         "split": "val",
         "cleansed_document": [
             "Jim mattis, the u.s. Defense secretary, told an international audience on saturday that recent decisions by the trump administration \"does not mean we are turning our back \" on the rest of the world. \"we will still be there, and we will be there with you, \" he said, speaking at the annual shangri-la dialogue in singapore. Advertisement \" like it or not, we are a part of the world, \" mattis said, according to reuters. \" what a crummy world if we all retreat inside our borders. \" he went on to paraphrase former british prime minister winston churchill. \"to quote a british observer of us from some years ago, bear with us, \" mattis continued, according to the new york time s. \"once we have exhausted all possible alternatives, the americans will do the right thing. \" mattis was at the event to speak about north korea",
-            "The secretary of defense added it would be a 'crummy world ' if americans retreat, as us leadership and international commitment came under question us secretary of defense james mattis has urged allies to \"bear with us \", noting it would be a \"crummy world \" if americans retreated into isolationism. Why trump's attempt to pit pittsburgh against paris is absurd &#124; lucia graves read more mattis was responding to questions at a conference in singapore about us leadership and commitment to a rules-based international order, in the wake of donald trump's announcement that his administration will leave the paris climate change accord, putting the country in the company of only nicaragua and syria. \"as far as the rules-based order, you know, obviously we have a new president in washington dc, \" mattis said at the event organised by the international institute for strategic studies. \"we're all aware of that",
-            "Singapore ( reuters ) - the united states is encouraged by china's efforts to restrain north korea but washington will not accept beijing's militarization of islands in the south china sea, u.s. Defense secretary jim mattis said on saturday. The comments by mattis, during the annual shangri-la dialogue, show how u.s. President donald trump's administration is looking to balance working with china to restrain north korea's advancing missile and nuclear programs while dealing with beijing's activities in the south china sea. U.s. Allies have been worried by trump's actively courting chinese president xi jinping to restrain north korea, fearing washington might allow china a more free rein elsewhere in the region. Some allies have also expressed concern that washington's withdrawal from the trans-pacific trade partnership and the paris global climate accord signals the united states is diluting its global leadership role. Speaking at the"
+            "The secretary of defense added it would be a 'crummy world ' if americans retreat, as us leadership and international commitment came under question us secretary of defense james mattis has urged allies to \"bear with us \", noting it would be a \"crummy world \" if americans retreated into isolationism. Why trump's attempt to pit pittsburgh against paris is absurd &#124; lucia graves read more mattis was responding to questions at a conference in singapore about us leadership and commitment to a rules-based international order, in the wake of donald trump's announcement that his administration will leave the paris climate change accord, putting the country in the company of only nicaragua and syria. \"as far as the rules-based order, you know, obviously we have a new president in washington dc, \" mattis said at the event organised by the international institute for strategic studies. \"we're all aware of that"
         ],
         "raw_document": [
             "Jim mattis, the u.s. Defense secretary, told an international audience on saturday that recent decisions by the trump administration \"does not mean we are turning our back \" on the rest of the world. \"we will still be there, and we will be there with you, \" he said, speaking at the annual shangri-la dialogue in singapore. Advertisement \" like it or not, we are a part of the world, \" mattis said, according to reuters. \" what a crummy world if we all retreat inside our borders. \" he went on to paraphrase former british prime minister winston churchill. \"to quote a british observer of us from some years ago, bear with us, \" mattis continued, according to the new york time s. \"once we have exhausted all possible alternatives, the americans will do the right thing. \" mattis was at the event to speak about north korea",
@@ -2250,7 +2238,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2300,7 +2288,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2408,7 +2396,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2444,12 +2432,11 @@
     },
     {
         "idx": 49891,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The bible suggests the canaanites were wiped out by the ancient israelites, but a new study says otherwise, claiming the people survived and went on to be the ancestors of those who today live in lebanon, sciencedaily reports. Per a study in the american journal of human genetics, researchers from the uk's wellcome trust sanger institute sequenced the genomes of five 4,000-year-old canaanites, as well as 99 people now residing in lebanon — dna evidence that enabled the scientists to establish ancestry. The study results show an overwhelming majority of the genetic makeup ( 93 % ) of today's lebanese can be traced back to the canaanites, per the times of israel. Study co-author chris tyler-smith calls that percentage \" quite surprising, \" given the \" enormously complex history of this region, \" per sciencedaily. The bible's book of deuteronomy lays out what was to happen to the canaanites: \" completely destroy them... As the lord your god has commanded you. Otherwise, they will teach you to follow all the detestable things they do. \" but some bible verses contradict the story of total annihilation, and the researchers write that \" no archaeological evidence has so far been found to support widespread destruction of canaanite cities between the bronze and iron ages. \" the canaanites made a major cultural impact during the bronze age, including introducing what's believed to have been the first alphabet. This new discovery sheds a bit more light on the rather mysterious group, who didn't leave much in the way of written records. ( this find could reveal the truth about goliath's people. )",
         "split": "val",
         "cleansed_document": [
-            "A new study suggests the biblical account of the commanded annihilation of the ancient canaanite people at the hands of the invading israelites was a bit premature, claiming their descendants are still living just up the road, across the lebanese border. New genetic research from the wellcome trust sanger institute has found that far from being destroyed, the canaanites morphed into the inhabitants of modern lebanon. Scientists in the united kingdom-based genetic research center sequenced the genomes of five 4,000-year-old canaanite individuals and compared them to other ancient and present-day populations, including a sample of 99 modern lebanese. Get the times of israel's daily edition by email and never miss our top stories free sign up the results, published july 27 in the american journal of human genetics, show that 93 percent of the ancestry of modern lebanese ancestry comes from the canaanites. Had they been destroyed by the israelites, who were commanded by god to annihilate them, it would have been a form of patricide. According to the study, the canaanites were the common ancestor for several ancient peoples who inhabited the levant during the bronze age, such as the ammonites, moabites, and israelites. \"each achieved their own cultural identities but all shared a common genetic and ethnic root with canaanites, \" according to the authors of the new study. \"for the first time we have genetic",
-            "When people in a business negotiation share not just a meal but a plate, they collaborate better and reach deals faster, according to new... A new study found workplace incivilities has the potential to not only negatively affect an employee's sleep but their partner's as... Less data-sharing among firms can actually lead to more collusion, economists... Men with dyslexia have altered structural connections between the thalamus and auditory cortex on the left side of the brain, new research reveals. The study extends similar observations of the dyslexic visual system and highlights the importance of early sensory processing for reading... Those who regulate their brain rhythm themselves can release capacities to learn new... Nudging, the concept of influencing people's behavior without imposing rules, bans or coercion, is an idea that government officials and marketing specialists alike are keen to harness, and it is often viewed as a one-size-fits-all solution. Now, a new study puts things into perspective: whether a nudge really does improve decisions depends on a person's underlying decision-making... Performance targets, increased workload, curriculum changes and other bureaucratic changes are eroding teachers ' professional identity and harming their mental health, a new study... More than three-quarters of marine mammal and sea turtle populations have significantly increased after listing of the us endangered species act ( esa ), according to"
+            "A new study suggests the biblical account of the commanded annihilation of the ancient canaanite people at the hands of the invading israelites was a bit premature, claiming their descendants are still living just up the road, across the lebanese border. New genetic research from the wellcome trust sanger institute has found that far from being destroyed, the canaanites morphed into the inhabitants of modern lebanon. Scientists in the united kingdom-based genetic research center sequenced the genomes of five 4,000-year-old canaanite individuals and compared them to other ancient and present-day populations, including a sample of 99 modern lebanese. Get the times of israel's daily edition by email and never miss our top stories free sign up the results, published july 27 in the american journal of human genetics, show that 93 percent of the ancestry of modern lebanese ancestry comes from the canaanites. Had they been destroyed by the israelites, who were commanded by god to annihilate them, it would have been a form of patricide. According to the study, the canaanites were the common ancestor for several ancient peoples who inhabited the levant during the bronze age, such as the ammonites, moabites, and israelites. \"each achieved their own cultural identities but all shared a common genetic and ethnic root with canaanites, \" according to the authors of the new study. \"for the first time we have genetic"
         ],
         "raw_document": [
             "A new study suggests the biblical account of the commanded annihilation of the ancient canaanite people at the hands of the invading israelites was a bit premature, claiming their descendants are still living just up the road, across the lebanese border. New genetic research from the wellcome trust sanger institute has found that far from being destroyed, the canaanites morphed into the inhabitants of modern lebanon. Scientists in the united kingdom-based genetic research center sequenced the genomes of five 4,000-year-old canaanite individuals and compared them to other ancient and present-day populations, including a sample of 99 modern lebanese. Get the times of israel's daily edition by email and never miss our top stories free sign up the results, published july 27 in the american journal of human genetics, show that 93 percent of the ancestry of modern lebanese ancestry comes from the canaanites. Had they been destroyed by the israelites, who were commanded by god to annihilate them, it would have been a form of patricide. According to the study, the canaanites were the common ancestor for several ancient peoples who inhabited the levant during the bronze age, such as the ammonites, moabites, and israelites. \"each achieved their own cultural identities but all shared a common genetic and ethnic root with canaanites, \" according to the authors of the new study. \"for the first time we have genetic",
@@ -2464,18 +2451,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 49892,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Watch the trailer for hansel and gretel: witch hunters, and you might find yourself thinking, \" wait, are they serious? \" the answer is no, they're not — the movie, co-produced by will ferrell, is consciously campy — but that doesn't mean it's good. Here's a taste of the disdain critics are tossing at the brothers grimm update: \" nothing makes a whole lot of sense in this incoherent movie, whose director's philosophy seems to be: when in doubt, cut somebody's head off, \" writes lou lumenick in a no-star new york post review. Jeremy renner ( hansel ) \" looks vaguely embarrassed throughout, \" and famke janssen ( the \" great witch \" ) is on record as saying she did this \" to pay off her mortgage. \" \" with a running time of under 90 minutes, the film is smart enough not to wear out its welcome. But that's the only sign of true intelligence in this juvenile caper, \" writes stephen farber at the hollywood reporter. \" the picture was never intended to be taken seriously \" but it's \" missing a genuine sense of wit. \" andrew barker at variety tries to come up with some bright spots, and winds up saying that it's \" not outrageously dumber \" than similar movies like van helsing, and that it \" boasts a nice title credit sequence. \" yeah, not high praise. \" a film with a concept this strange has no right to be so dully formulaic, \" he writes. \" viewers may be surprised to find themselves yawning as yet another witch is ripped apart limb from limb. \" \" look closely at hansel &amp; gretel and you ' ll see faint traces of what could have been ( and perhaps once was ) a clever satire, \" like hansel's \" sugar sickness \" ( aka diabetes ) brought on by his days of eating candy-covered houses, writes matt singer at screen crush. But renner and gemma arterton ( gretel ) take their characters just a bit too seriously. \" the result: a movie that's a joke, instead of a comedy. \"",
         "split": "val",
         "cleansed_document": [
             "Gemma arterton and jeremy renner star in ' hansel and gretel: witch hunters ' a paramount release presented with metro-goldwyn-mayer pictures of a gary sanchez production. Produced by will ferrell, adam mckay, kevin messick, beau flynn. Executive producers, denis l. Stewart, chris henchy, tripp vinson. Directed, written by tommy wirkola. Hansel - jeremy renner gretel - gemma arterton muriel - famke janssen sheriff berringer - peter stormare ben - thomas mann edward - derek mears mina - pihla viitala to his credit, \" hansel &amp; gretel \" writer-director tommy wirkola never takes the pic's premise -- the titular grimm siblings grow into wisecracking, primitive-machine-gun-packing bounty hunters, thanks to that fateful spell in the gingerbread house -- too seriously. Yet while the film rarely provokes any strenuous eye-rolling, it also can't drum up even the slightest interest in the fate of its characters, let alone",
-            "' hansel &amp; gretel: witch hunters ' is so close to being a parody of stupid action movies i ' m inclined to believe that at some point in its development that's exactly what it was. It was written and directed by tommy wirkola, whose previous claim to fame was a horror comedy about nazi zombies, and produced by adam mckay and will ferrell, whose gary sanchez productions only makes comedies. The premise -- hansel and gretel survive their famous fairy tale encounter with a witch and grow up to be badass supernatural bounty hunters -- is so ludicrous it sounds like a'saturday night live'sketch ( imagine ferrell and amy poehler in the title roles ). It just makes more sense that this was intended as a comedy, and that at some point, someone in a position of power decided it was a safer financial bet to minimize the humor and",
-            "Grimm's fairy tales have captivated tv viewers lately, and an equally large audience probably will lap up the campy 3d extravaganza hansel &amp; gretel: witch hunters when it opens in theaters this weekend. The picture was shot two years ago, but paramount might have found the right moment to release it -- in the dog days of january, when competition is thin. Young fanboys will sneak into the movie despite the r rating, but there isn't much here to entice anyone with a bit of maturity. Oscar nominee jeremy renner seems out of place in this tacky pastiche, but hopefully the fat paycheck he received will allow him to return to artier fare very soon. Photos: behind the scenes of thr's jeremy renner cover shoot when you see the names of will ferrell and adam mckay among the film's producers, you know that hansel &amp; gretel"
+            "' hansel &amp; gretel: witch hunters ' is so close to being a parody of stupid action movies i ' m inclined to believe that at some point in its development that's exactly what it was. It was written and directed by tommy wirkola, whose previous claim to fame was a horror comedy about nazi zombies, and produced by adam mckay and will ferrell, whose gary sanchez productions only makes comedies. The premise -- hansel and gretel survive their famous fairy tale encounter with a witch and grow up to be badass supernatural bounty hunters -- is so ludicrous it sounds like a'saturday night live'sketch ( imagine ferrell and amy poehler in the title roles ). It just makes more sense that this was intended as a comedy, and that at some point, someone in a position of power decided it was a safer financial bet to minimize the humor and"
         ],
         "raw_document": [
             "Gemma arterton and jeremy renner star in ' hansel and gretel: witch hunters ' a paramount release presented with metro-goldwyn-mayer pictures of a gary sanchez production. Produced by will ferrell, adam mckay, kevin messick, beau flynn. Executive producers, denis l. Stewart, chris henchy, tripp vinson. Directed, written by tommy wirkola. Hansel - jeremy renner gretel - gemma arterton muriel - famke janssen sheriff berringer - peter stormare ben - thomas mann edward - derek mears mina - pihla viitala to his credit, \" hansel &amp; gretel \" writer-director tommy wirkola never takes the pic's premise -- the titular grimm siblings grow into wisecracking, primitive-machine-gun-packing bounty hunters, thanks to that fateful spell in the gingerbread house -- too seriously. Yet while the film rarely provokes any strenuous eye-rolling, it also can't drum up even the slightest interest in the fate of its characters, let alone",
@@ -2492,7 +2478,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2574,7 +2560,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {

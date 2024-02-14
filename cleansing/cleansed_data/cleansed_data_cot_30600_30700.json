@@ -21,7 +21,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -51,13 +51,12 @@
     },
     {
         "idx": 30602,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The horses may have gone, but ashley madison is making sure the stable door is locked: the hacked affair-arranging site says it's now offering users the ability to delete their profiles for free. Formerly, users who wanted to undergo a \" full delete \" had to pay $ 19 to do so. That charge reportedly annoyed the hackers who made off with data on 37 million \" cheating dirtbags, \" the guardian reports; they cited the fee as a reason for the attack and claimed those who paid it didn't really have every last bit of info wiped clean. But the company says that contrary to what the \" impact team \" hackers allege, the \" full delete \" option it charges for really does eliminate every last scrap of user information. Ars technica looked into the \" full delete \" issue last year and found that free options for deleting or deactivating an ashley madison profile did exist, though they weren't very clearly signposted. The company says the service includes deleting messages from other users ' inboxes, and the fee — which ars technica estimates brings in between $ 152,000 and $ 342,000 a month for the company — covers administrative costs. Would-be cheaters should still check the site's small print, reports cnnmoney, which notes that ashley madison's privacy policy says it can't guarantee the safety of information — and that if the company goes bust, user data could be sold.",
         "split": "train",
         "cleansed_document": [
             "Extramarital dating site ashley madison has apologised to its users a second time for allowing its database to be comprehensively stolen, and is temporarily offering users the ability to fully delete their account from the site free of charge. The \"paid delete \" ability, which typically costs £ 15 in the uk and $ 19 in the us per account, was cited by ashley madison's pseudonymous attacker, the impact team, as a main reason for the hack in the first place. The group alleged that the site did not in fact fully delete all information about a user, even after they had paid the fee. In a statement, ashley madison said that that claim was false. \"contrary to current media reports, and based on accusations posted online by a cyber criminal, the \"paid-delete \" option offered by ashleymadison.com does in fact remove all information related to a member's profile",
-            "About a year ago, ars ran this article looking into how ashley madison tricks people into thinking they need to pay $ 20 to have their profile information deleted. This weekend, a hacker group calling themselves impact team broke into the site and looked through its databases, finding that users'details aren't actually deleted after the $ 20 is handed over. In essence, the two options that ashley madison gives exiting customers — \" full delete \" or \"hide my profile \" — are almost the same, with the only benefit of \"full delete \" being that it removed messages and \"winks \" from other users ' inboxes after an account was deleted. Read ars'take below to see what we found out in august 2014. Earlier this week, ars got an e-mail from a reader named rob plant. \"i think most right-thinking people have been dismayed by the tactics of charging",
-            "Read the fine print. Especially if you're joining a website to cheat on your spouse. Ashley madison, just like every online service these days, has a long contract you never read. Privacy policy blah blah. Terms of service mumble mumble. But if you look, you ' ll surely find horrors. Here are a few highlights. Keep in mind, ashleymadison.com promises its 37 million members a secure website and \" 100 % discreet service. \" 1. If ashley madison goes bankrupt, it can sell your data. Consumer data is valuable, and if the ship is sinking, they ' ll chuck you overboard. It's like the radio shack situation, except much worse. Here's the language in ashley madison's 2,180-word privacy policy: \" we may disclose and sell [ personally identifiable information ] in connection with the sale... Of the"
+            "About a year ago, ars ran this article looking into how ashley madison tricks people into thinking they need to pay $ 20 to have their profile information deleted. This weekend, a hacker group calling themselves impact team broke into the site and looked through its databases, finding that users'details aren't actually deleted after the $ 20 is handed over. In essence, the two options that ashley madison gives exiting customers — \" full delete \" or \"hide my profile \" — are almost the same, with the only benefit of \"full delete \" being that it removed messages and \"winks \" from other users ' inboxes after an account was deleted. Read ars'take below to see what we found out in august 2014. Earlier this week, ars got an e-mail from a reader named rob plant. \"i think most right-thinking people have been dismayed by the tactics of charging"
         ],
         "raw_document": [
             "Extramarital dating site ashley madison has apologised to its users a second time for allowing its database to be comprehensively stolen, and is temporarily offering users the ability to fully delete their account from the site free of charge. The \"paid delete \" ability, which typically costs £ 15 in the uk and $ 19 in the us per account, was cited by ashley madison's pseudonymous attacker, the impact team, as a main reason for the hack in the first place. The group alleged that the site did not in fact fully delete all information about a user, even after they had paid the fee. In a statement, ashley madison said that that claim was false. \"contrary to current media reports, and based on accusations posted online by a cyber criminal, the \"paid-delete \" option offered by ashleymadison.com does in fact remove all information related to a member's profile",
@@ -74,7 +73,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -129,7 +128,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -166,14 +165,13 @@
     },
     {
         "idx": 30606,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A father and son are dead after attempting an advanced florida cave dive using the brand new equipment the teen had received as a christmas present, fox news reports. Darrin spivey and his son, dillon sanchez, 15, were last seen alive while suiting up for a dive down to eagle nest sink, a course of underwater caves, around 11: 30am christmas day. Spivey's fiance alerted police when the pair didn't return home that afternoon; around 8: 30pm, a recovery diver discovered the two bodies 67 feet and 127 feet below the surface, nbc news reports. Though spivey was a certified diver — his father tells hernando today he'd dived at eagle nest sink before — he wasn't certified to dive in caves, and dillon had neither certification, police said. One of the rescue divers adds that while the pair had the correct diving gear, they needed to use a specific breathing gas to counter the high nitrogen levels found more than 200 feet below the surface ( they were diving with air only ). \" if they had training, they'd probably be with their families today. Nothing down there is worth your life, \" he said. A sign near the dive — which drops to 310 feet in some areas — warns it \" is extremely dangerous — even life threatening!! do not dive unless you are a certified cave diver!! \" another reportedly calls it the cave-diving equivalent of scaling everest.",
         "split": "train",
         "cleansed_document": [
             "A father and his son died in a cave diving accident near the coast of florida while trying out new diving equipment on christmas day, police said. Darrin spivey, 35, and his son dillon sanchez, 15, both drowned after attempting to dive down to eagle's nest sink, a complex and challenging course of underwater caves in hernando county, fla., according to the hernando country sheriff's office. Spivey's fiancée, holly king, called the sheriff's office wednesday afternoon after she couldn't reach spivey, who took his son to eagle's nest so they could test out brand new diving gear. When deputies",
             "A father and son who went diving on christmas day with new equipment the boy got for a present have been found dead in an underwater cave at a north florida wildlife refuge. The hernando county sheriff's office said thursday that holly king called authorities after her fiancé, darrin spivey, and his 15-year-old son dillon sanchez didn't return home after a planned dive in the 300-foot deep eagle nest sink cave about an hour and a half north of tampa. A sign near the entrance to the cave reads: \" cave diving in this area is extremely dangerous — even life threatening!! do not dive unless you are a certified cave diver!!",
-            "News photo of a sign near the eagle nest sink where a man and his son drowned while diving on christmas day. Andy jones/staff photo of a sign near the eagle nest sink where a man and his son drowned while diving on christmas day. Andy jones/staff photo of a sign near the eagle nest sink where a man and his son drowned while diving on christmas day. Andy jones/staff deputies say the bodies of darrin spivey, left, and his son, dillon sanchez, were recovered wednesday night in the chassahowitzka wildlife refuge near eagle nest sink. Facebook hernando county - a sign leading to eagle nest sink compares it with the cave-diving equivalent of climbing mount everest",
-            "Eagle's nest ( aka lost sink ) ( n28 33.314 w82 36.562 ) location: eagle's nest is a large cave system on chassahowitzka wildlife management area property about the woods near weeki wachee. Access is now available for the general public. The good news is that a good road has been provided all the way to the sink and a wooden deck and staircase have been installed for easy access. The bad news is that the sink is now 12 miles from the current access even though it is less than a mile from the closest paved road. If you use a garmin gpa with mapsource, then you can import this mapsource track, or"
+            "News photo of a sign near the eagle nest sink where a man and his son drowned while diving on christmas day. Andy jones/staff photo of a sign near the eagle nest sink where a man and his son drowned while diving on christmas day. Andy jones/staff photo of a sign near the eagle nest sink where a man and his son drowned while diving on christmas day. Andy jones/staff deputies say the bodies of darrin spivey, left, and his son, dillon sanchez, were recovered wednesday night in the chassahowitzka wildlife refuge near eagle nest sink. Facebook hernando county - a sign leading to eagle nest sink compares it with the cave-diving equivalent of climbing mount everest"
         ],
         "raw_document": [
             "A father and his son died in a cave diving accident near the coast of florida while trying out new diving equipment on christmas day, police said. Darrin spivey, 35, and his son dillon sanchez, 15, both drowned after attempting to dive down to eagle's nest sink, a complex and challenging course of underwater caves in hernando county, fla., according to the hernando country sheriff's office. Spivey's fiancée, holly king, called the sheriff's office wednesday afternoon after she couldn't reach spivey, who took his son to eagle's nest so they could test out brand new diving gear. When deputies",
@@ -192,7 +190,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -245,7 +243,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -335,12 +333,11 @@
     },
     {
         "idx": 30612,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "President obama today waded into the politically charged debate over net neutrality, arguing that internet service providers shouldn't be allowed to offer \" fast lanes \" to certain websites. Obama called on the federal communications commission to \" reclassify consumer broadband service under title ii of the telecommunications act. \" that would make broadband a utility, giving the fcc more room to regulate it, the verge reports. \" in plain english, \" obama says in a video, \" i ' m asking [ the fcc ] to recognize that for most americans, the internet has become an essential part of everyday communication and everyday life. \" the fcc is, however, \" an independent agency, \" he notes, \" and ultimately this decision is theirs alone. \" in a statement, the president suggests four key rules for isps: \" no blocking. \" any content a consumer requests should be available, provided that it's not illegal. \" no throttling. \" in other words, isps shouldn't get to slow down or speed up access to certain sites deliberately. \" increased transparency. \" the fcc should also keep an eye on connection points between isps and content providers like netflix, the verge explains. And finally, \" no paid prioritization. Simply put: no service should be stuck in a'slow lane ' because it does not pay a fee, \" obama says.",
         "split": "train",
         "cleansed_document": [
-            "President obama has come out in support of reclassifying internet service as a utility, a move that would allow the federal communications commission to enforce more robust regulations and protect net neutrality. \" to put these protections in place, i ' m asking the fcc to reclassifying internet service under title ii of a law known as the telecommunications act, \" obama says in a statement this morning. \" in plain english, i ' m asking [ the fcc ] to recognize that for most americans, the internet has become an essential part of everyday communication and everyday life. \" the decision is still up to the fcc there's been a growing battle around protecting net neutrality — the principle that all internet traffic, no matter what it is or where it comes from, should be treated equally — ever since the fcc's original protections were struck down in court earlier this year. Those protections were able to be struck down because the commission didn't make the rules in a way that it actually had authority over, so it's been trying to create new rules that it will definitely be able to enforce. It hasn't chosen to use title ii so far, but net neutrality advocates, now including president obama, have been pushing for its use. Regulating internet service under title ii would",
-            "November 10, 2014 an open internet is essential to the american economy, and increasingly to our very way of life. By lowering the cost of launching a new idea, igniting new political movements, and bringing communities closer together, it has been one of the most significant democratizing influences the world has ever known. \"net neutrality \" has been built into the fabric of the internet since its creation — but it is also a principle that we cannot take for granted. We cannot allow internet service providers ( isps ) to restrict the best access or to pick winners and losers in the online marketplace for services and ideas. That is why today, i am asking the federal communications commission ( fcc ) to answer the call of almost 4 million public comments, and implement the strongest possible rules to protect net neutrality. When i was a candidate for this office, i made clear my commitment to a free and open internet, and my commitment remains as strong as ever. Four years ago, the fcc tried to implement rules that would protect net neutrality with little to no impact on the telecommunications companies that make important investments in our economy. After the rules were challenged, the court reviewing the rules agreed with the fcc that net neutrality was essential for preserving an environment that encourages new investment in the network, new"
+            "President obama has come out in support of reclassifying internet service as a utility, a move that would allow the federal communications commission to enforce more robust regulations and protect net neutrality. \" to put these protections in place, i ' m asking the fcc to reclassifying internet service under title ii of a law known as the telecommunications act, \" obama says in a statement this morning. \" in plain english, i ' m asking [ the fcc ] to recognize that for most americans, the internet has become an essential part of everyday communication and everyday life. \" the decision is still up to the fcc there's been a growing battle around protecting net neutrality — the principle that all internet traffic, no matter what it is or where it comes from, should be treated equally — ever since the fcc's original protections were struck down in court earlier this year. Those protections were able to be struck down because the commission didn't make the rules in a way that it actually had authority over, so it's been trying to create new rules that it will definitely be able to enforce. It hasn't chosen to use title ii so far, but net neutrality advocates, now including president obama, have been pushing for its use. Regulating internet service under title ii would"
         ],
         "raw_document": [
             "President obama has come out in support of reclassifying internet service as a utility, a move that would allow the federal communications commission to enforce more robust regulations and protect net neutrality. \" to put these protections in place, i ' m asking the fcc to reclassifying internet service under title ii of a law known as the telecommunications act, \" obama says in a statement this morning. \" in plain english, i ' m asking [ the fcc ] to recognize that for most americans, the internet has become an essential part of everyday communication and everyday life. \" the decision is still up to the fcc there's been a growing battle around protecting net neutrality — the principle that all internet traffic, no matter what it is or where it comes from, should be treated equally — ever since the fcc's original protections were struck down in court earlier this year. Those protections were able to be struck down because the commission didn't make the rules in a way that it actually had authority over, so it's been trying to create new rules that it will definitely be able to enforce. It hasn't chosen to use title ii so far, but net neutrality advocates, now including president obama, have been pushing for its use. Regulating internet service under title ii would",
@@ -355,18 +352,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
         "idx": 30613,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "\" sunlight is the best disinfectant, \" said bill maher earlier this week in a new york times interview in which he took some credit for triggering the downfall of milo yiannopoulos, whose friday night appearance on maher's hbo show brought the host an avalanche of criticism. Now, some sunlight is streaming maher's way, courtesy of mediaite, which resurfaced a video from 1998 in which maher himself speaks favorably about an instance of pedophilia. As mediaite reports, the then-host of politically incorrect on abc was discussing the case of mary kay letourneau, the seattle teacher who went to prison after becoming pregnant by a 12-year-old student. A key line: \" she is in jail because she is in love. That's how i view it. \" he continued, saying he will admit \" that it's unorthodox, \" per the washington post. But \" they're keeping the mother in jail because she won't conform to what society feels should be the perfect american family. \" and he really continued: mediaite reports he commented on the case as recently as 2007, when he told playboy, \" i ' m the only guy i've ever heard who defends mary kay letourneau. \" he also referenced the similar case of debra lafave, which involved a 14-year-old student, saying: \" the crime is that we didn't get it on videotape. Was he being taken advantage of? i wish i had been taken advantage of like that. What a memory she gave him! \" usa today observes that \" defending the seemingly indefensible was one of maher's comic themes... On politically incorrect. \" maher has yet to comment.",
         "split": "train",
         "cleansed_document": [
             "Close skip in skip x embed x share bill maher wants the world to know that he is responsible for the fall of former breitbart employee milo yiannopoulos. Usa today bill maher, left, listens to milo yiannopoulos, on hbo's'real time with bill maher ' feb. 17, 2017, in los angeles. ( photo: janet van ham, hbo via ap ) when bill maher took credit for helping take down internet troll milo yiannopoulos after he defended sex between teens and adults, the comedian/talk show host neglected to mention — or forgot — he said some similar words on tv nearly two decades ago. Now a media monitor with a long memory has dug up the old videotape from maher's abc show, politically incorrect, that shows maher defending the notorious case of mary kay letourneau, the seattle teacher convicted of having sex ( and becoming pregnant ) with",
-            "Published on feb 22, 2017 if you don't believe me, watch the video yourself and make your own decision. I didn't believe that bill maher would be caught advocating for pedophilia. But this just blew me away. He says he has no problem with a 13 year old boy having sex with a 35 year old woman. They're simply not \" conforming \" to what \" society views as the perfect american family \". He denies that it is rape, and wonders how a woman can rape a man. So pedophilia is perfectly fine ( or only if the victim is a young boy? ). From his 1990s show, \" politically correct \". Outlets that have linked to this video cbs news http://www.cbsnews.com/news/milo-bill... The hollywood reporter http://www.hollywoodreporter.com/news... Ny daily news http://www.nydailynews.com/entertainm... The washington post https://www.washingtonpost.com/news/m...",
-            "\"i don't believe life is necessarily precious, i don't believe everything happens for a reason, and i don't think people necessarily have goodness in them. Life is precious? it can be. It can also be a waste of protoplasm. \" \"i can probably come across as bullying – especially since it's my show and i have home-court advantage. I should watch that. The real bullies are o'reilly and hannity, though. They never let you finish a sentence. \" \"barack obama is exciting. Everyone says he's a rock star, which is one of the most overused phrases these days; everybody's a rock star. You know what? if you're not getting blown after the event, you're not a rock star. \" in an age when millions of americans turn to late-night tv and youtube videos"
+            "Published on feb 22, 2017 if you don't believe me, watch the video yourself and make your own decision. I didn't believe that bill maher would be caught advocating for pedophilia. But this just blew me away. He says he has no problem with a 13 year old boy having sex with a 35 year old woman. They're simply not \" conforming \" to what \" society views as the perfect american family \". He denies that it is rape, and wonders how a woman can rape a man. So pedophilia is perfectly fine ( or only if the victim is a young boy? ). From his 1990s show, \" politically correct \". Outlets that have linked to this video cbs news http://www.cbsnews.com/news/milo-bill... The hollywood reporter http://www.hollywoodreporter.com/news... Ny daily news http://www.nydailynews.com/entertainm... The washington post https://www.washingtonpost.com/news/m..."
         ],
         "raw_document": [
             "Close skip in skip x embed x share bill maher wants the world to know that he is responsible for the fall of former breitbart employee milo yiannopoulos. Usa today bill maher, left, listens to milo yiannopoulos, on hbo's'real time with bill maher ' feb. 17, 2017, in los angeles. ( photo: janet van ham, hbo via ap ) when bill maher took credit for helping take down internet troll milo yiannopoulos after he defended sex between teens and adults, the comedian/talk show host neglected to mention — or forgot — he said some similar words on tv nearly two decades ago. Now a media monitor with a long memory has dug up the old videotape from maher's abc show, politically incorrect, that shows maher defending the notorious case of mary kay letourneau, the seattle teacher convicted of having sex ( and becoming pregnant ) with",
@@ -383,7 +379,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -443,13 +439,12 @@
     },
     {
         "idx": 30616,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Another controversy is brewing about an american hunter's safari in africa. This time it involves a fish and game commissioner in idaho named blake fischer, who returned from a hunt in namibia with his wife and boasted by email of all the animals he killed with a bow, reports the idaho state journal. The most controversial photo is of a smiling fischer posing with four dead baboons. ( click the journal link to the see the photo, or this tweet, but note that the image might be disturbing for some. ) \" fellas, \" fischer writes, explaining that his wife accompanied him because \" she wanted to watch me and ' get a feel ' of africa... So i shot a whole family of baboons. I think she got the idea quick. \" fischer also provided photos of his other kills, including a giraffe, a leopard, an impala, a sable antelope, and a waterbuck, per the idaho statesman, which counts at least 14. Fischer's email went out to dozens of acquaintances, including former commissioners on the fish and game panel. So far, three of those ex-commissioners have called for fischer to resign from the panel, whose members are not paid and are appointed by the governor. \" i ' m sure what you did was legal, however, legal does not make it right, \" wrote one of them, fred trevey. Fischer, however, tells the statesman: \" i didn't do anything illegal. I didn't do anything unethical. I didn't do anything immoral. \" a spokesperson for gov. Cl \" butch \" otter said \" it's fair to say the governor is concerned. \" criticism isn't just coming from animal-rights activists. \" what bothers me is he's got the family there and a little baby baboon sitting there with blood all over it, kind of like in the mother's arms, \" the director of the pro-hunting idaho for wildlife group tells idahonews. \" you just don't do this. \" ( this man shot a bear in alaska; then the unheard of happened. )",
         "split": "train",
         "cleansed_document": [
             "An idaho fish and game commissioner who emailed photos of himself posing with a family of baboons he shot and killed during a recent african hunting trip has led to former commissioners asking for his resignation. ( photo via idaho governor's office ) an idaho fish and game commissioner who emailed photos of himself posing with a family of baboons he shot and killed during a recent hunting trip in africa has led to a group of former commissioners asking for his resignation. According to emails and photos obtained by cbs 2 news through gov. Butch otter's office, commissioner blake fischer emailed several pictures of his kills to numerous people highlighting his hunting trip. The pictures received swift backlash. He begins the email saying he and his wife had just returned from a two-week hunting trip to namibia. \" first day she wanted to watch me, and ' get a feel ' of africa, \" fischer said in the email obtained through the governor's office. \" so i shot a whole family of baboons. \" in addition to the baboon picture, fischer emailed photos of other animals that he and his wife hunted and killed while in namibia including a giraffe, leopard, impala, antelope and waterbuck. \" i shot a leopard, \" he wrote. \" super cool, super lucky. The leopard is one of the big 5, as in one of the 5 animals in africa that will kill you before you can kill it. Crazy cool animal. They are normally super nocturnal, so this was really unique. \" the photos have garnered the attention of gov. Butch otter. \" governor otter was briefed and has seen the pictures, \" said jon hanian, the governor's spokesman.",
-            "Red aler! action! commission member blake fischer killed an entire family of baboons &amp; babies he bragged that his wife wanted watch him hunt \" so i shot a whole family of baboons \" also shot a giraffe &amp; leopard. Take action and contact governor otter demand blake fischer's removalpic.twitter.com/mdujvanmob",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Red aler! action! commission member blake fischer killed an entire family of baboons &amp; babies he bragged that his wife wanted watch him hunt \" so i shot a whole family of baboons \" also shot a giraffe &amp; leopard. Take action and contact governor otter demand blake fischer's removalpic.twitter.com/mdujvanmob"
         ],
         "raw_document": [
             "An idaho fish and game commissioner who emailed photos of himself posing with a family of baboons he shot and killed during a recent african hunting trip has led to former commissioners asking for his resignation. ( photo via idaho governor's office ) an idaho fish and game commissioner who emailed photos of himself posing with a family of baboons he shot and killed during a recent hunting trip in africa has led to a group of former commissioners asking for his resignation. According to emails and photos obtained by cbs 2 news through gov. Butch otter's office, commissioner blake fischer emailed several pictures of his kills to numerous people highlighting his hunting trip. The pictures received swift backlash. He begins the email saying he and his wife had just returned from a two-week hunting trip to namibia. \" first day she wanted to watch me, and ' get a feel ' of africa, \" fischer said in the email obtained through the governor's office. \" so i shot a whole family of baboons. \" in addition to the baboon picture, fischer emailed photos of other animals that he and his wife hunted and killed while in namibia including a giraffe, leopard, impala, antelope and waterbuck. \" i shot a leopard, \" he wrote. \" super cool, super lucky. The leopard is one of the big 5, as in one of the 5 animals in africa that will kill you before you can kill it. Crazy cool animal. They are normally super nocturnal, so this was really unique. \" the photos have garnered the attention of gov. Butch otter. \" governor otter was briefed and has seen the pictures, \" said jon hanian, the governor's spokesman.",
@@ -466,7 +461,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -496,7 +491,7 @@
             "0": 3,
             "1": 2,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -553,12 +548,11 @@
     },
     {
         "idx": 30620,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Oxfam international says scarlett johansson's support of an israeli company operating in the west bank was incompatible with her role as an oxfam global ambassador. Oxfam's statement followed johansson's announcement yesterday that she was resigning her oxfam role, which she held for 8 years, because of a \" fundamental difference of opinion. \" the international humanitarian organization says it accepted her resignation. Johansson is to appear in a sodastream ad during the super bowl, and oxfam said today that it believes sodastream and other businesses operating on the west bank contribute to the \" denial of rights of the palestinian communities that we work to support. \" the charity says it opposes all trade from the israeli settlements \" which are illegal under international law. \" that's not the only controversy related to the sodastream ad: cnn reports that it was initially rejected by fox since it included digs at coke and pepsi by name; it's since been re-made.",
         "split": "train",
         "cleansed_document": [
-            "Scarlett johansson has been the subject of intense scrutiny since she became a brand ambassador for sodastream, a company that has drawn criticism for operating a factory in an israeli settlement in the west bank. In a statement released exclusively to the huffington post, johansson says she \" never intended on being the face of any social or political movement, distinction, separation or stance as part of my affiliation with sodastream, \" but wants to \" clear the air. \" \" i remain a supporter of economic cooperation and social interaction between a democratic israel and palestine, \" the actress said. \" sodastream is a company that is not only committed to the environment but to building a bridge to peace between israel and palestine, supporting neighbors working alongside each other, receiving equal pay, equal benefits and equal rights. That is what is happening in their ma ' ale adumim factory every working day. \" oxfam international, which johansson also promotes, had earlier criticized the actress over the sodastream deal. \" oxfam respects the independence of our ambassadors, \" a statement on the organization's website reads. \" however oxfam believes that businesses that operate in settlements further the ongoing poverty and denial of rights of the palestinian communities that we work to support. Oxfam is opposed to all trade from israeli settlements, which are illegal under international law. \" in her own statement, johansson made direct reference to oxfam. \" as part of my efforts as an ambassador for oxfam, i have witnessed first-hand that progress is made when communities join together and work alongside one another and feel proud of the outcome of that work in the quality of their product and work environment, in the pay they bring home to their families and in the benefits they equally receive, \" johansson said. \" i believe in conscious consumerism and transparency and i trust that the consumer will make their own educated choice that is right for them. I stand behind the sodastream product and am proud of the work that i have accomplished at oxfam as",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Scarlett johansson has been the subject of intense scrutiny since she became a brand ambassador for sodastream, a company that has drawn criticism for operating a factory in an israeli settlement in the west bank. In a statement released exclusively to the huffington post, johansson says she \" never intended on being the face of any social or political movement, distinction, separation or stance as part of my affiliation with sodastream, \" but wants to \" clear the air. \" \" i remain a supporter of economic cooperation and social interaction between a democratic israel and palestine, \" the actress said. \" sodastream is a company that is not only committed to the environment but to building a bridge to peace between israel and palestine, supporting neighbors working alongside each other, receiving equal pay, equal benefits and equal rights. That is what is happening in their ma ' ale adumim factory every working day. \" oxfam international, which johansson also promotes, had earlier criticized the actress over the sodastream deal. \" oxfam respects the independence of our ambassadors, \" a statement on the organization's website reads. \" however oxfam believes that businesses that operate in settlements further the ongoing poverty and denial of rights of the palestinian communities that we work to support. Oxfam is opposed to all trade from israeli settlements, which are illegal under international law. \" in her own statement, johansson made direct reference to oxfam. \" as part of my efforts as an ambassador for oxfam, i have witnessed first-hand that progress is made when communities join together and work alongside one another and feel proud of the outcome of that work in the quality of their product and work environment, in the pay they bring home to their families and in the benefits they equally receive, \" johansson said. \" i believe in conscious consumerism and transparency and i trust that the consumer will make their own educated choice that is right for them. I stand behind the sodastream product and am proud of the work that i have accomplished at oxfam as"
         ],
         "raw_document": [
             "Scarlett johansson has been the subject of intense scrutiny since she became a brand ambassador for sodastream, a company that has drawn criticism for operating a factory in an israeli settlement in the west bank. In a statement released exclusively to the huffington post, johansson says she \" never intended on being the face of any social or political movement, distinction, separation or stance as part of my affiliation with sodastream, \" but wants to \" clear the air. \" \" i remain a supporter of economic cooperation and social interaction between a democratic israel and palestine, \" the actress said. \" sodastream is a company that is not only committed to the environment but to building a bridge to peace between israel and palestine, supporting neighbors working alongside each other, receiving equal pay, equal benefits and equal rights. That is what is happening in their ma ' ale adumim factory every working day. \" oxfam international, which johansson also promotes, had earlier criticized the actress over the sodastream deal. \" oxfam respects the independence of our ambassadors, \" a statement on the organization's website reads. \" however oxfam believes that businesses that operate in settlements further the ongoing poverty and denial of rights of the palestinian communities that we work to support. Oxfam is opposed to all trade from israeli settlements, which are illegal under international law. \" in her own statement, johansson made direct reference to oxfam. \" as part of my efforts as an ambassador for oxfam, i have witnessed first-hand that progress is made when communities join together and work alongside one another and feel proud of the outcome of that work in the quality of their product and work environment, in the pay they bring home to their families and in the benefits they equally receive, \" johansson said. \" i believe in conscious consumerism and transparency and i trust that the consumer will make their own educated choice that is right for them. I stand behind the sodastream product and am proud of the work that i have accomplished at oxfam as",
@@ -573,7 +567,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -696,7 +690,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -777,7 +771,7 @@
             "0": 0,
             "1": 3,
             "2": 5,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -806,13 +800,12 @@
     },
     {
         "idx": 30629,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "\" greed is good, \" gordon gekko famously said in oliver stone's 1987 wall street, but maybe not in film directors. Critics say stone crams too many story lines and sermons into the sequel, money never sleeps, though michael douglas is still deliciously slimy as the ex-con stock trader. Douglas manages to \" retain a sense of nasty fun, \" writes joe morgenstern at the wall street journal, but the rest of the movie is \" pumped up to the bursting point with gasbag caricatures, overblown sermons and a semicoherent swirl of events surrounding the economy's recent meltdown. \" stone has tried to fit far too many themes and subplots into money never sleeps, complains matt neal at the standard, who found the movie \" a bit like talking to a bad financial adviser — mostly boring, overly complicated, and in the end you feel a little ripped off. \" the movie \" has the drive, luxe and sarcastic wit of the snazziest hollywood movies for most of its two-hours-plus running time, \" writes richard corliss at time, although stone ends up going surprisingly easy on the financial world. \" instead of whacking wall street, stone gives it a poke that ends up as a tickle, \" he writes.",
         "split": "train",
         "cleansed_document": [
             "( m ) ** director: oliver stone. Cast: michael douglas, shia labeouf, carey mulligan, josh brolin, frank langella. The idea of a belated sequel is rarely appealing, but there was some promise in this timely reminder that greed still ain't necessarily good. With the global financial crisis fresh in people's minds, a follow-up to stone's ode to ' 80s excess seemed perfect given that the recent excesses of us banks and financial institutions made gordon gekko's old paychecks look like pocket money. But wall street 2 struggles under the weight of its own wealth of material, wanting to be so many different films in one that it ends up not properly being any. Opening with michael douglas ' iconic gekko being release from jail for his crimes in the first movie, it quickly rolls on to 2008 where the former white-collar crim has",
-            "Enlarge photo+ 20th century fox ( 3 of 3 ) bubbles and baubles stone made his writer-director rep with amped-up screeds on important subjects: assassinations ( jfk ), wars in south america ( salvador ) and southeast asia ( platoon, born on the fourth of july, heaven and earth ) and the media's fascination with serial murderers ( natural born killers ) and right-wing demagoguery ( talk radio ). In the past decade, with alexander, world trade center and w., he calmed down, and his films slumped into a long lull. Money never sleeps slaps his oeuvre back to life. Rodrigo prieto's cinematography and kristi zea's production design give the movie visual allure in spades. The ribbon of dow tickers crawls across the actors ' faces as if wall street were the matrix. When stone is not flashing lou zabel's ghost on a men '",
-            "Columbia pictures tom hanks in the book that \" captain phillips \" was based on, the merchant mariner richard phillips notes mark twain's remark that going to sea is like going to jail with a chance of drowning. For the man whose container ship was hijacked by somali pirates in 2009, going to sea was like going to prison with a strong chance of dying. His story is extraordinary, and it's told by two perfectly matched collaborators — tom hanks, the hollywood embodiment of american decency and self-effacing courage, and paul greengrass, the virtuoso director of action adventures with a documentary feel and a fidelity to facts. The film succeeds on its own terms — an exciting entertainment that makes us feel good about the outcome, and about the reach of american power, rather than its limits. Yet the narrative container is far from full. There isn't"
+            "Enlarge photo+ 20th century fox ( 3 of 3 ) bubbles and baubles stone made his writer-director rep with amped-up screeds on important subjects: assassinations ( jfk ), wars in south america ( salvador ) and southeast asia ( platoon, born on the fourth of july, heaven and earth ) and the media's fascination with serial murderers ( natural born killers ) and right-wing demagoguery ( talk radio ). In the past decade, with alexander, world trade center and w., he calmed down, and his films slumped into a long lull. Money never sleeps slaps his oeuvre back to life. Rodrigo prieto's cinematography and kristi zea's production design give the movie visual allure in spades. The ribbon of dow tickers crawls across the actors ' faces as if wall street were the matrix. When stone is not flashing lou zabel's ghost on a men '"
         ],
         "raw_document": [
             "( m ) ** director: oliver stone. Cast: michael douglas, shia labeouf, carey mulligan, josh brolin, frank langella. The idea of a belated sequel is rarely appealing, but there was some promise in this timely reminder that greed still ain't necessarily good. With the global financial crisis fresh in people's minds, a follow-up to stone's ode to ' 80s excess seemed perfect given that the recent excesses of us banks and financial institutions made gordon gekko's old paychecks look like pocket money. But wall street 2 struggles under the weight of its own wealth of material, wanting to be so many different films in one that it ends up not properly being any. Opening with michael douglas ' iconic gekko being release from jail for his crimes in the first movie, it quickly rolls on to 2008 where the former white-collar crim has",
@@ -829,7 +822,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -882,7 +875,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -912,13 +905,12 @@
     },
     {
         "idx": 30633,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "President trump and melania trump made a controversial visit to pittsburgh on tuesday to pay their respects to the 11 people killed in saturday's synagogue mass shooting. The visit was opposed by local officials, including democratic mayor bill peduto, but not by rabbi jeffrey myers, who led them inside the tree of life synagogue, the bbc reports. Tens of thousands of people signed a petition opposing the presidential visit, blaming his rhetoric for violence carried out by white nationalists. As trump arrived in the city, thousands of protesters gathered for two large rallies that eventually merged. Police stopped the protesters about half a block from the synagogue while trump was there, but they turned their backs and knelt as his motorcade left the area, cbs pittsburgh reports. The president and first lady spent a total of 18 minutes inside the synagogue before moving along a row of 11 wooden stars of david outside, the pittsburgh post-gazette reports. Trump placed a stone at each one and the first lady left a white rose. The couple — accompanied by ivanka trump and jared kushner — then visited upmc presbyterian, where the president spoke to victims including an injured police officer. \" the president kept a solemn tone and was gracious, \" says dr. Steven shapiro, the hospital's chief medical officer. \" he was interested in hearing the patients'stories and meeting the doctors and caregivers. \" democratic and republican congressional leaders declined an invitation to join trump in pittsburgh, and peduto and other top city officials did not meet him. ( muslim groups have raised more than $ 100,000 for victims. )",
         "split": "train",
         "cleansed_document": [
             "Follow kdka-tv: facebook &#124; twitter pittsburgh ( kdka ) — thousands of people gathered in squirrel hill tuesday for two protests in opposition to president donald trump's visit to the city of pittsburgh, following the shooting at the tree of life synagogue. Tens of thousands of people signed an online petition against the visit after it was first announced over the weekend, in the hours after the mass shooting that claimed 11 lives. The white house said the purpose of the visit was to mourn the victims, but many political and religious leaders were divided over the visit. The first protest got underway at the corner of darlington road and murray avenue. Protesters began gathering at 3 p.m. For the \"no antisemitism, no white supremacy, no trump \" rally. It was organized by ifnotnow pittsburgh, which worked with 13 other organizations to put together the event. In a press release, ifnotnow pittsburgh member ren finkel said: \"the inspiration for this attack is the antisemitic rhetoric of trump and other republican leaders. As young american jews taking responsibility for the future of our community, we refuse to mince words: the blood spilled is a result of white nationalism enabled by trump. \" the protesters said they have three messages to get across. Related links:",
-            "Media playback is unsupported on your device media caption mr trump and the first lady spent time looking at tributes to the victims us president donald trump has offered condolences at the pennsylvania synagogue where 11 jewish worshippers were shot dead at the weekend. He was joined by first lady melania trump, his daughter and son-in-law at the tree of life temple in pittsburgh. Hundreds of protesters gathered on the street chanting slogans against the president. The visit came as mourners attended the first funerals for victims of the massacre. The trumps were greeted on tuesday by rabbi jeffrey myers, who led them inside the temple, where the worst anti-semitic attack in us history unfolded on saturday. At a memorial outside, mrs trump placed a flower and the president laid a small stone on a marker for each of the victims. Image copyright reuters image caption jared kushner, ivanka trump and steven mnuchin accompanied mr trump on the trip who accompanied the trumps? mr trump was joined by his son-in-law jared kushner, who is jewish, and his daughter ivanka, who converted to judaism when she married mr kushner. Both are white house advisers. Treasury secretary steven mnuchin, who is jewish, also joined the president. Before his visit, the president condemned anti-semitism. The alleged",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Media playback is unsupported on your device media caption mr trump and the first lady spent time looking at tributes to the victims us president donald trump has offered condolences at the pennsylvania synagogue where 11 jewish worshippers were shot dead at the weekend. He was joined by first lady melania trump, his daughter and son-in-law at the tree of life temple in pittsburgh. Hundreds of protesters gathered on the street chanting slogans against the president. The visit came as mourners attended the first funerals for victims of the massacre. The trumps were greeted on tuesday by rabbi jeffrey myers, who led them inside the temple, where the worst anti-semitic attack in us history unfolded on saturday. At a memorial outside, mrs trump placed a flower and the president laid a small stone on a marker for each of the victims. Image copyright reuters image caption jared kushner, ivanka trump and steven mnuchin accompanied mr trump on the trip who accompanied the trumps? mr trump was joined by his son-in-law jared kushner, who is jewish, and his daughter ivanka, who converted to judaism when she married mr kushner. Both are white house advisers. Treasury secretary steven mnuchin, who is jewish, also joined the president. Before his visit, the president condemned anti-semitism. The alleged"
         ],
         "raw_document": [
             "Follow kdka-tv: facebook &#124; twitter pittsburgh ( kdka ) — thousands of people gathered in squirrel hill tuesday for two protests in opposition to president donald trump's visit to the city of pittsburgh, following the shooting at the tree of life synagogue. Tens of thousands of people signed an online petition against the visit after it was first announced over the weekend, in the hours after the mass shooting that claimed 11 lives. The white house said the purpose of the visit was to mourn the victims, but many political and religious leaders were divided over the visit. The first protest got underway at the corner of darlington road and murray avenue. Protesters began gathering at 3 p.m. For the \"no antisemitism, no white supremacy, no trump \" rally. It was organized by ifnotnow pittsburgh, which worked with 13 other organizations to put together the event. In a press release, ifnotnow pittsburgh member ren finkel said: \"the inspiration for this attack is the antisemitic rhetoric of trump and other republican leaders. As young american jews taking responsibility for the future of our community, we refuse to mince words: the blood spilled is a result of white nationalism enabled by trump. \" the protesters said they have three messages to get across. Related links:",
@@ -935,7 +927,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1026,7 +1018,7 @@
             "1": 4,
             "2": 0,
             "3": 1,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1053,7 +1045,7 @@
         "vote_count": {
             "0": 0,
             "1": 3,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1160,7 +1152,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1218,7 +1210,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1296,7 +1288,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1321,7 +1313,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1350,13 +1342,12 @@
     },
     {
         "idx": 30649,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "In late december of 2015, kayla hansen was at her job as a restaurant manager when her hand became stuck in a slammed door. She describes the sensation that shot out from it as \" electric shock pain \" and the swelling was just as bad two months later, reports the new york daily news. Now, nearly two years later, the 29-year-old resident of peoria, ariz., is fighting for her health as she goes from one doctor and operation to the next trying to treat the condition that has resulted in blisters and sores forming up and down her arms and even into her scalp and down to her feet. She writes on her gofundme page that the diagnosis, complex regional pain syndrome, has been rated \" the most painful thing in the world. My condition is so bad that i ' m literally being burned alive. \" for the skeptical, \" the pain is real, \" the washington post writes in a look at kids with the condition. Crps is a rare autoimmune disorder thought to be caused by a disruption to the central nervous system. Some doctors call it a perfect storm, where someone with a genetic predisposition to chronic pain gets an injury that triggers the condition. Azfamily.com reports hansen has met with dr. Katina van der merwe, an expert on the condition who says of hansen, \" she will literally feel the heat come up and it will blister and develop to sores. \" sedatives like ketamine have helped some manage their symptoms, which are expressed differently from one patient to the next, but hansen wants more answers and says she ' ll travel anywhere for professional help. \" i ' m going to keep going, \" she says. \" i want my life back. \" ( this family's four children are mysteriously losing the ability to walk. )",
         "split": "train",
         "cleansed_document": [
             "Kayla hansen has been living with an incredibly painful disease for nearly two years. Her skin is literally burning her alive. She wants to share her story so others suffering don't feel so alone. ( source: 3tv/cbs 5 ) a valley woman has been living with an incredibly painful disease for nearly two years. Her skin is literally burning her alive. She wants to share her story so others suffering don't feel so alone. \" it feels like somebody has dipped you in gasoline, lit you on fire and put you in a trash compacter, \" said 29-year-old kayla hansen. Two years ago, she was a restaurant manager. One day, a door slammed on her hand. That seemingly small event would turn her into a full-time patient. \" the swelling didn't go down, it was red and bruised, and i started getting electric shock pain, \" hansen said. Her condition is called complex regional pain syndrome and experts call it a perfect storm,",
-            "My name is kayla hansen and a year and a half ago my life was changed forever. For those that know me you know that i love to work and have a ton of passion for my career of managing restaurants. Dec. 27th 2015 i went in to work just like every other day not knowing my life as i knew it was soon to be over. I unfortunately got my hand slammed in between two doors and initially just thought my hand was broken. After 2 months of the swelling not going down, and my arm feeling like it was on fire i was given the diagnosis that i had complex regional pain syndrome also known as crps. It is extremely rare and is literally rated the most painful thing in the world. More painful than childbirth, amputation, or any cancer there is. It is an autoimmune disease that effects every single part of your body including organs. Your body can no longer control temperature and it literally feels like you are being burned alive 24/7.",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "My name is kayla hansen and a year and a half ago my life was changed forever. For those that know me you know that i love to work and have a ton of passion for my career of managing restaurants. Dec. 27th 2015 i went in to work just like every other day not knowing my life as i knew it was soon to be over. I unfortunately got my hand slammed in between two doors and initially just thought my hand was broken. After 2 months of the swelling not going down, and my arm feeling like it was on fire i was given the diagnosis that i had complex regional pain syndrome also known as crps. It is extremely rare and is literally rated the most painful thing in the world. More painful than childbirth, amputation, or any cancer there is. It is an autoimmune disease that effects every single part of your body including organs. Your body can no longer control temperature and it literally feels like you are being burned alive 24/7."
         ],
         "raw_document": [
             "Kayla hansen has been living with an incredibly painful disease for nearly two years. Her skin is literally burning her alive. She wants to share her story so others suffering don't feel so alone. ( source: 3tv/cbs 5 ) a valley woman has been living with an incredibly painful disease for nearly two years. Her skin is literally burning her alive. She wants to share her story so others suffering don't feel so alone. \" it feels like somebody has dipped you in gasoline, lit you on fire and put you in a trash compacter, \" said 29-year-old kayla hansen. Two years ago, she was a restaurant manager. One day, a door slammed on her hand. That seemingly small event would turn her into a full-time patient. \" the swelling didn't go down, it was red and bruised, and i started getting electric shock pain, \" hansen said. Her condition is called complex regional pain syndrome and experts call it a perfect storm,",
@@ -1373,7 +1364,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1491,12 +1482,11 @@
     },
     {
         "idx": 30654,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Despite recent protestations to the contrary, sarah palin is blowing smoke and has no intention of running for president in 2012 — at least, according to fox news sunday host chris wallace, who called the former gov on her intentions today. Palin is \" having too much fun \" and \" making too much money \" to toss her hat in the ring, said wallace, concluding, \" i don't think you ' ll run. \" nonsense, responded palin, \" if the country needed me, and i ' m not saying it does … i'd be willing to sacrifice. \" elsewhere in the at-times combative interview, as per politico: as for karl rove's assertion that she lacks presidential \" gravitas \" because of her appearance on a reality show: \" karl is wrong. I ' m not in a reality show. I have eight episodes documenting alaska's resources … and my family comes along because i am family. \" palin says she has video of \" corrupt bastards \" in the media conspiring to portray joe miller negatively: \" cbs reporters are on tape saying ' let's find a child molester in the crowd that supports miller, ' \" says palin, adding she \" can't wait \" to air the video. Voters are mad as hell and marching to the polls tuesday to send a message, says palin: \" you blew it, president obama. We gave you the two years to fulfill your promise of making sure that our economy starts roaring back to life again. \"",
         "split": "train",
         "cleansed_document": [
-            "\" fox news sunday \" host chris wallace bluntly told former alaska gov. Sarah palin on sunday that she's having \" too much fun \" and making \" too much money \" to be credibly seen as a presidential contender. The exchange came after wallace read a recent quote to the 2008 republican vice presidential nominee from karl rove, questioning if she would have the \" gravitas \" to run for president after appearing on a reality show. \" karl is wrong, \" palin contended. \" i ' m not in a reality show. I have eight episodes documenting alaska's resources,... And my family comes along because i am family. \" after palin's response to rove's remark, wallace jumped in to say, \" i think you're having too much fun; i think you're making too much money.... I don't think you're going to run. \" palin pointed to ronald reagan's career as an actor before he entered politics. She also reiterated that she is not committed to running for president and will do so only if someone else she finds suitable does not step up to run. \" if the country needed me, and i ' m not saying it does,... I'd be willing to sacrifice, \" she",
-            "His congressional majority in peril, president barack obama is capping his campaigning for two more years of democratic control while gop leaders buoyed by polls ahead of tuesday's elections see voters rejecting his policies. In the closing days before the crucial midterm election, president barack obama makes a final get-out-the-vote push for democratic candidates as they battle to keep their majorities in congress, at midway... ( associated press ) in the closing days before the crucial midterm election, president barack obama makes a final get-out-the-vote push for democratic candidates as they battle to keep their majorities in congress, at midway... ( associated press ) in the closing days before the crucial midterm election, president barack obama makes a final get-out-the-vote push for democratic candidates as they battle to keep their majorities in congress, at midway... ( associated press ) obama scheduled a joint appearance with vice president joe biden in cleveland on sunday, the final stop in a four-state weekend effort to hold back the republican wave that many observers are forecasting. Sarah palin, the former alaska governor who was the gop vice presidential nominee in 2008, told \" fox news sunday \" that voters will send this message to the white house: \" you blew it, president obama. We gave you the two years to fulfill your promise of making sure that our economy starts roaring back to life"
+            "\" fox news sunday \" host chris wallace bluntly told former alaska gov. Sarah palin on sunday that she's having \" too much fun \" and making \" too much money \" to be credibly seen as a presidential contender. The exchange came after wallace read a recent quote to the 2008 republican vice presidential nominee from karl rove, questioning if she would have the \" gravitas \" to run for president after appearing on a reality show. \" karl is wrong, \" palin contended. \" i ' m not in a reality show. I have eight episodes documenting alaska's resources,... And my family comes along because i am family. \" after palin's response to rove's remark, wallace jumped in to say, \" i think you're having too much fun; i think you're making too much money.... I don't think you're going to run. \" palin pointed to ronald reagan's career as an actor before he entered politics. She also reiterated that she is not committed to running for president and will do so only if someone else she finds suitable does not step up to run. \" if the country needed me, and i ' m not saying it does,... I'd be willing to sacrifice, \" she"
         ],
         "raw_document": [
             "\" fox news sunday \" host chris wallace bluntly told former alaska gov. Sarah palin on sunday that she's having \" too much fun \" and making \" too much money \" to be credibly seen as a presidential contender. The exchange came after wallace read a recent quote to the 2008 republican vice presidential nominee from karl rove, questioning if she would have the \" gravitas \" to run for president after appearing on a reality show. \" karl is wrong, \" palin contended. \" i ' m not in a reality show. I have eight episodes documenting alaska's resources,... And my family comes along because i am family. \" after palin's response to rove's remark, wallace jumped in to say, \" i think you're having too much fun; i think you're making too much money.... I don't think you're going to run. \" palin pointed to ronald reagan's career as an actor before he entered politics. She also reiterated that she is not committed to running for president and will do so only if someone else she finds suitable does not step up to run. \" if the country needed me, and i ' m not saying it does,... I'd be willing to sacrifice, \" she",
@@ -1511,7 +1501,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1574,12 +1564,12 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
         "idx": 30657,
-        "document_num": 7,
+        "document_num": 6,
         "summary": "The latest tidbit to trickle out from the tom cruise-katie holmes divorce: katie won't be cashing in by leaving tom. Their prenup stipulates that she ' ll leave the marriage with barely more money than what she brought in, but sources tell tmz that's fine because \" money is not that important to her. She makes plenty on her own. \" click for more, including how that very prenup could prove the romance was indeed real. More of the latest: it's tom's 50th birthday today, but presumably not a very happy one. And perhaps that's payback, because perez hilton reports that cruise missed suri's sixth birthday in april. He's been working nonstop and \" absent \" from his daughter's life, a source says, and katie wants to get her daughter out so that she doesn't end up like tom's other kids: isabella, who's apparently living on skid row, and \" party boy \" connor. Radar, in the disturbingly-headlined \" how katie holmes escaped from tom cruise, \" claims she's been planning her move for more than a year. She halted her scientology classes 18 months ago and started distancing herself from her sister-in-law, sources say. Blind gossip has an item about a divorcing celebrity couple in which the wife — and child! — once walked in on the hubby in bed with a professional athlete/family friend. Jezebel and world of wonder both figure it's referring to tomkat and david beckham. You're welcome for that mental image. Still need more? click to see a picture of holmes, who recently taped an episode of project runway, sans wedding ring.",
         "split": "train",
         "cleansed_document": [
@@ -1588,8 +1578,7 @@
             "Regardless of whether or not she knew just exactly she was getting into when she married him, one thing is definitely certain: katie holmes is divorcing tom cruise out of the sheer need to keep their daughter happy and healthy! sources close to the actress have revealed that the actor's refusal to be an active member in",
             "Blindgossip – this celebrity couple is close to a final agreement over how everything – including the child/ren – is going to be divided in the divorce. However, the wife's legal team is having her keep one chip in her pocket for the divorce trial. If the husband's team tries any last-minute maneuvering, the",
             "By radar staff katie holmes orchestrated her escape from tom cruise and scientology with surgical precision, and radaronline.com has all the details on the bold move that has dropped hollywood's collective jaw. \"frankly katie escaped, \" a source told us magazine, who reported the dawson's creek star put her name on a new york",
-            "Happy birthday, tom cruise! the embattled actor was born on july 3, 1962 in syracuse new york. Back then he was known as tom mapother; 50 years later, he's tom cruise, the star of such classic films as \" top gun, \" \" jerry maguire, \" the \" mission: impossible",
-            "\" this celebrity couple is close to a final agreement over how everything – including the child/ren – is going to be divided in the divorce. However, the wife's legal team is having her keep one chip in her pocket for the divorce trial. If the husband's team tries any last-minute maneuvering, the wife"
+            "Happy birthday, tom cruise! the embattled actor was born on july 3, 1962 in syracuse new york. Back then he was known as tom mapother; 50 years later, he's tom cruise, the star of such classic films as \" top gun, \" \" jerry maguire, \" the \" mission: impossible"
         ],
         "raw_document": [
             "Blind item from blind gossip: \"this celebrity couple is close to a final agreement over how everything – including the child/ren – is going to be divided in the divorce. However, the wife's legal team is having her keep one chip in her pocket for the divorce trial. If the husband's team tries any",
@@ -1616,7 +1605,7 @@
             "4": 3,
             "5": 0,
             "6": 0,
-            "7": 0
+            "7": 4
         }
     },
     {
@@ -1695,7 +1684,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1723,7 +1712,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1796,7 +1785,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1874,7 +1863,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1899,7 +1888,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2210,18 +2199,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 30680,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "David arquette has checked into rehab for treatment of alcoholism and \" other \" issues, and his estranged wife supports the decision. Arquette made the move to the betty ford center because he believes it's \" the right thing to do for his family, \" a source tells tmz. \" he's in there for drinking and depression, not hard drugs, \" says a representative. The news comes two months after his split with wife courteney cox and increasingly erratic behavior. \" when i drink, i become a maniac, \" he told howard stern last month. \" i really admire david and his choice to take charge and better his life, \" cox tells people. \" i love and support him. \" click for more on arquette's rehab stint and cox's reaction.",
         "split": "train",
         "cleansed_document": [
             "Courteney cox: i admire david arquette for seeking help or leave a comment of your own see what other readers have to say about this story – when david arquette made the decision to enter rehab for alcohol issues and depression, the actor didn't have to look further than his ex, courteney cox, to find heartfelt support. \" i really admire david and his choice to take charge and better his life, \" the cougar town star, 46, tells people. \" i love and support him. \" arquette who separated from cox in october and is dad to their 6-year-old daughter coco, has been having trouble managing the separation, one source told people recently. \" he's just not handling this situation well, \" the source said. \" he's really depressed. \" arquette, 39, has not entered the rehab program for drug use, several sources tell people.",
-            "Courteney cox: ' i really admire david and his choice ' email this has quickly come out in support of estranged husband arquette checked himself into an unidentified facility over the holiday weekend following months of erratic behavior that included several revealing conversations with friend and shock jock howard stern. During a segment on stern's radio show last month, arquette admitted he was having a hard time dealing with his split from cox, his wife of 11 years and mother of his 6-year-old daughter, coco. \" i've been drinking a lot because i ' m heartbroken, \" he admitted. \" it's really a personal, traumatic thing. \" before seeking help, the'scream ' actor hosted a new year's eve party at his arquette &amp; beacher's madhouse theater in los angeles. Courteney cox has quickly come out in support of estranged husband david arquette's decision to enter rehab for alcohol and depression. \" i really admire david and his choice to take charge and better his life, \" the actress tells people. \" i love and support him. \"",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Courteney cox: ' i really admire david and his choice ' email this has quickly come out in support of estranged husband arquette checked himself into an unidentified facility over the holiday weekend following months of erratic behavior that included several revealing conversations with friend and shock jock howard stern. During a segment on stern's radio show last month, arquette admitted he was having a hard time dealing with his split from cox, his wife of 11 years and mother of his 6-year-old daughter, coco. \" i've been drinking a lot because i ' m heartbroken, \" he admitted. \" it's really a personal, traumatic thing. \" before seeking help, the'scream ' actor hosted a new year's eve party at his arquette &amp; beacher's madhouse theater in los angeles. Courteney cox has quickly come out in support of estranged husband david arquette's decision to enter rehab for alcohol and depression. \" i really admire david and his choice to take charge and better his life, \" the actress tells people. \" i love and support him. \""
         ],
         "raw_document": [
             "Courteney cox: i admire david arquette for seeking help or leave a comment of your own see what other readers have to say about this story – when david arquette made the decision to enter rehab for alcohol issues and depression, the actor didn't have to look further than his ex, courteney cox, to find heartfelt support. \" i really admire david and his choice to take charge and better his life, \" the cougar town star, 46, tells people. \" i love and support him. \" arquette who separated from cox in october and is dad to their 6-year-old daughter coco, has been having trouble managing the separation, one source told people recently. \" he's just not handling this situation well, \" the source said. \" he's really depressed. \" arquette, 39, has not entered the rehab program for drug use, several sources tell people.",
@@ -2238,17 +2226,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 30681,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "For six years, a small team of norwegians has worked tirelessly to recover a famous shipwreck in the remote hamlet of cambridge bay in nunavut, a northern territory of canada — and as of saturday, they were finally able to lift it off the ocean floor thanks in large part to giant sausage-shaped balloons. \" this is a milestone, \" jan wanggaard, project manager for the norway-based organization maud returns home, tells the cbc. \" to actually see her releasing from the seabed — it's a great experience. \" he says he was in the water inflating one of the balloons when it first lifted off the seabed and the water became dusty. \" i thought, ' ah, that's a bit strange, ' \" he says. \" i came to the surface and i saw my friend with a big smile. \" the maud belonged to arctic explorer roald amundsen, who failed to cross the north pole between 1918 and 1920, then went bankrupt and sold the ship to the hudson bay company. From there, it was put to use as a floating warehouse before sinking off cambridge bay in 1930. Wanggaard hopes to return the maud to norway, where amundsen remains a national hero, before cleaning it up and putting it on display, reports nunatsiaq online. For now, the team plans to fully lift the nearly 600,000-pound vessel by sinking a barge beneath the maud, draining the barge's water tanks to make it float, and bringing it safely to the surface on the barge, giving it a chance to dry out over the winter before a return trip home. \" if you were a kid, i ' m sure you would love [ the challenge ], \" wanggaard says. ( check out this summer's south pole rescue attempt. )",
         "split": "train",
         "cleansed_document": [
-            "A team of norwegians has recovered the wreckage of a ship that once belonged to famed arctic explorer roald amundsen and that sank off the coast of nunavut more than eight decades ago. The maud was lifted from shallow waters in cambridge bay at around 3 p.m. Mt saturday. The team had been attempting to recover the wreckage for six years. \" this is a milestone, of course, because we have been wanting to lift her ever since we started to think about this project, \" said jan wanggaard, project manager for the norway-based organization maud returns home. \" to actually see her releasing from the seabed — it's a great experience. \" jan wanggaard, bjorn myrann and stig pettersen are the base team in cambridge bay this summer for the maud returns home project. ( jan wanggaard ) amundsen's ship plied the arctic between 1918 and 1920 in a failed attempt to cross the north pole. After he went bankrupt, the ship was sold to the hudson bay company, which used it as a floating warehouse. It sank off what is now cambridge bay in 1930 and has been there ever since. Lifting her up the team plans to lift the ship completely out of the water and tug her back to norway; making her float again, while the hull is still below the surface, was",
-            "News: nunavut nunavut shipwreck nearing floatation stage \" we like to do what kids do but can't do anymore, because we're older \" lisa gregoire a swarthy crew if ever there was. The maud returns home trio, identified, from left, on the project's facebook page, as stig, bjorn and jan wanggaard, sit on the cambridge bay beach at the end of june. ( photo courtesy jan wanggaard ) a swarthy crew if ever there was. The maud returns home trio, identified, from left, on the project's facebook page, as stig, bjorn and jan wanggaard, sit on the cambridge bay beach at the end of june. ( photo courtesy jan wanggaard ) looking down at the maud shipwreck off the coast of cambridge bay mid-july, 2015 with a box kite camera. A norwegian team is hoping to raise the maud, set her on a barge and pull her back to norway next summer. ( photo courtesy jan wanggaard ) looking down at the maud shipwreck off the coast of cambridge bay mid-july, 2015 with a box kite camera. A norwegian team is hoping to raise the maud, set her on a barge and pull her back to norway next summer. ( photo courtesy jan wanggaard ) july 24, 2015 - 2: 10 pm a group"
+            "A team of norwegians has recovered the wreckage of a ship that once belonged to famed arctic explorer roald amundsen and that sank off the coast of nunavut more than eight decades ago. The maud was lifted from shallow waters in cambridge bay at around 3 p.m. Mt saturday. The team had been attempting to recover the wreckage for six years. \" this is a milestone, of course, because we have been wanting to lift her ever since we started to think about this project, \" said jan wanggaard, project manager for the norway-based organization maud returns home. \" to actually see her releasing from the seabed — it's a great experience. \" jan wanggaard, bjorn myrann and stig pettersen are the base team in cambridge bay this summer for the maud returns home project. ( jan wanggaard ) amundsen's ship plied the arctic between 1918 and 1920 in a failed attempt to cross the north pole. After he went bankrupt, the ship was sold to the hudson bay company, which used it as a floating warehouse. It sank off what is now cambridge bay in 1930 and has been there ever since. Lifting her up the team plans to lift the ship completely out of the water and tug her back to norway; making her float again, while the hull is still below the surface, was"
         ],
         "raw_document": [
             "A team of norwegians has recovered the wreckage of a ship that once belonged to famed arctic explorer roald amundsen and that sank off the coast of nunavut more than eight decades ago. The maud was lifted from shallow waters in cambridge bay at around 3 p.m. Mt saturday. The team had been attempting to recover the wreckage for six years. \" this is a milestone, of course, because we have been wanting to lift her ever since we started to think about this project, \" said jan wanggaard, project manager for the norway-based organization maud returns home. \" to actually see her releasing from the seabed — it's a great experience. \" jan wanggaard, bjorn myrann and stig pettersen are the base team in cambridge bay this summer for the maud returns home project. ( jan wanggaard ) amundsen's ship plied the arctic between 1918 and 1920 in a failed attempt to cross the north pole. After he went bankrupt, the ship was sold to the hudson bay company, which used it as a floating warehouse. It sank off what is now cambridge bay in 1930 and has been there ever since. Lifting her up the team plans to lift the ship completely out of the water and tug her back to norway; making her float again, while the hull is still below the surface, was",
@@ -2263,7 +2250,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2316,7 +2303,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2394,7 +2381,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2426,12 +2413,11 @@
     },
     {
         "idx": 30688,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The 911 calls came friday, from two of the four ohio homes where eight members of the rhoden family lay dead in grisly execution-style murders: \" there's blood all over the house! my brother-in-law's in the bedroom. It looks like someone has beat the hell out of him, \" a woman says in the first, at 7: 49am, after she let herself into a locked house, per nbc news. \" there's blood all over the covers. \" kenneth rhoden made the second call, around 1: 30pm: \" it's all that stuff that's on the news. I just found my cousin with a gunshot wound. \" asked if the man is alive, rhoden responds, \" no, no. \" police are still scrambling to find a suspect. \" there may be one, there may be two, there may be three, we just don't know, \" says ohio ag mike dewine. \" we're very early in this investigation. \" a local restaurant owner has offered up a $ 25,000 reward leading to the suspects, notes abc news. But the community of tiny peebles is reeling. \" it's sad, \" says the wife of a local pastor. \" we know the grandparents... They're around our age.... What if that was my family? i don't know how they're handling this. \"",
         "split": "train",
         "cleansed_document": [
-            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by elizabeth chuck ohio authorities released unnerving 911 calls saturday that were placed from two of the four homes where eight family members were found dead a day prior. \" there's blood all over the house! my brother-in-law's in the bedroom. It looks like someone has beat the hell out of him, \" a female caller who identifies herself as bobbi breathlessly says in the first call. \" there's blood all over the covers. \" officials still have no one in custody in the killings, which happened in piketon, a rural town east of cincinnati. The manhunt intensified saturday for a killer or killers after police interviewed 30 people overnight but made no arrests. The victims were all members of the rhoden family, police said friday. Seven were adults, the eighth was a 16-year-old boy. None died by suicide, authorities added. The victims were identified saturday as: hannah gilley, 20; christopher rhoden, sr., 40; christopher rhoden, jr., 16; clarence \" frankie \" rhoden, 20; dana rhoden, 37; gary rhoden, 38; hanna rhoden, 19; and kenneth rhoden, 44. Ohio attorney general mike dewine said saturday that work",
-            "Ohio's attorney general says marijuana grow operations were found at three of the four places where eight relatives were shot dead in \" execution type \" killings. Authorities did not provide further details. Attorney general mike dewine told abc news earlier that authorities still do not have a suspect description or motive in the friday killings, saying the suspect or suspects took several steps to cover up their tracks and remove any possible evidence that would help police track them down. He says authorities have received more than 100 tips so far and they are following up on all of them. \" these were pre-planned, pre-meditated execution-type killings, \" dewine told abc news today. \" four different homes. A case like this is going to take some time. \" the victims were all members of the rhoden family, officials said saturday. They were identified as: hannah gilley, 20; christopher rhoden, sr., 40; christopher rhoden, jr., 16; clarence \" frankie \" rhoden, 20; dana rhoden, 37; gary rhoden, 38; hanna rhoden, 19; and kenneth rhoden, 44. Seven of the victims were found in three homes along the same road in peebles, a small village about 70 miles east of cincinnati. The eighth victim was found later than the others in nearby piketon, officials said. Some"
+            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by elizabeth chuck ohio authorities released unnerving 911 calls saturday that were placed from two of the four homes where eight family members were found dead a day prior. \" there's blood all over the house! my brother-in-law's in the bedroom. It looks like someone has beat the hell out of him, \" a female caller who identifies herself as bobbi breathlessly says in the first call. \" there's blood all over the covers. \" officials still have no one in custody in the killings, which happened in piketon, a rural town east of cincinnati. The manhunt intensified saturday for a killer or killers after police interviewed 30 people overnight but made no arrests. The victims were all members of the rhoden family, police said friday. Seven were adults, the eighth was a 16-year-old boy. None died by suicide, authorities added. The victims were identified saturday as: hannah gilley, 20; christopher rhoden, sr., 40; christopher rhoden, jr., 16; clarence \" frankie \" rhoden, 20; dana rhoden, 37; gary rhoden, 38; hanna rhoden, 19; and kenneth rhoden, 44. Ohio attorney general mike dewine said saturday that work"
         ],
         "raw_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by elizabeth chuck ohio authorities released unnerving 911 calls saturday that were placed from two of the four homes where eight family members were found dead a day prior. \" there's blood all over the house! my brother-in-law's in the bedroom. It looks like someone has beat the hell out of him, \" a female caller who identifies herself as bobbi breathlessly says in the first call. \" there's blood all over the covers. \" officials still have no one in custody in the killings, which happened in piketon, a rural town east of cincinnati. The manhunt intensified saturday for a killer or killers after police interviewed 30 people overnight but made no arrests. The victims were all members of the rhoden family, police said friday. Seven were adults, the eighth was a 16-year-old boy. None died by suicide, authorities added. The victims were identified saturday as: hannah gilley, 20; christopher rhoden, sr., 40; christopher rhoden, jr., 16; clarence \" frankie \" rhoden, 20; dana rhoden, 37; gary rhoden, 38; hanna rhoden, 19; and kenneth rhoden, 44. Ohio attorney general mike dewine said saturday that work",
@@ -2446,17 +2432,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 30689,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Just in time for valentine's day, a new dating app aims to match you with your beloved — based on things you hate. If that sounds like a negative basis for a new relationship, the folks at hater disagree. \" meet someone who hates the same stuff, \" the app chirpily declares with an upside-down heart. People disgusted by current events, \" paying for extra guacamole, \" \" slow walkers, \" or gluten-free food can swipe the app by subject in search of a soulmate. \" it's easy to start a conversation with someone if you know you both hate pickles, \" hater ceo brendan alper says, per digital trends. \" what we hate is an important part of who we are. \" based on mutual dislikes, hater culls candidates for users to meet. As more people use the service, the list of dislikes will grow, though there are 2,000-some turn-offs are already built in, such as cilantro and black and white photos. \" we want people to express themselves more honestly, \" says alper, though he's quick to emphasize that hate speech and bigotry are not welcome. Hater marks a turn away from looks-based match-ups, reports the telegraph, or other apps like hinge that tell a \" story \" about users by sharing information such as what they are listening to in real time. Research shows that negative opinions are often more effective at bonding people together than positive ones. \" it's not that we enjoy disliking people, \" a researcher once told the new york times. \" it's that we enjoy meeting people who dislike the same people. \" ( for online dating sites, it's complicated. )",
         "split": "train",
         "cleansed_document": [
-            "A sign of the times, the latest dating app to enter the busy scene matches people based on the things they hate, rather than their similar interests. Be it a hatred of the \" liberal elite \" or \" alt-right \", or mild distaste for slow walkers and gluten-free food, hater wants its users to bond over the things that get them riled. Hater bills itself as an app that will help you \" meet someone who hates the same stuff as you \". It encourages users to express their opinions on a wide range of topics from donald trump to camping to paying for extra guacamole. Unlike the politicised app remainder, which launched in the wake of the brexit vote, hater is not only focused on political views. In fact, it can ensure people fed up of hearing about the political world find someone who will steer clear of trump and brexit.",
-            "If you ask a random sample of friends how they became friends, they will probably tell you that they like a lot of the same things and, perhaps more important, that they like the same people. So they may. But one of the surest routes to friendship is disliking the same things about other people, according to jennifer bosson and three colleagues, who published \"interpersonal chemistry through negativity: bonding by sharing negative attitudes about others \" this past june in the journal personal relationships. \"it's not that we enjoy disliking people, \" bosson, a social psychologist at the university of south florida, says. \"it's that we enjoy meeting people who dislike the same people. \" to prove their case, bosson and her colleagues conducted three separate studies. In the first, they asked college students to recall the formation of their closest friendships; in the second, they asked students about the attitudes toward others that they currently shared with their three closest friends. \"we found a very robust tendency for people to mention more negative than positive attitudes about other people, \" bosson says, and the closer the friends were, the more negative attitudes toward others that they shared. Gossipers might shrug at this, but in the third study, bosson asked whether you could take two strangers and get the same effect. The researchers told a group of 97 students that they were going to meet someone, then they played them"
+            "A sign of the times, the latest dating app to enter the busy scene matches people based on the things they hate, rather than their similar interests. Be it a hatred of the \" liberal elite \" or \" alt-right \", or mild distaste for slow walkers and gluten-free food, hater wants its users to bond over the things that get them riled. Hater bills itself as an app that will help you \" meet someone who hates the same stuff as you \". It encourages users to express their opinions on a wide range of topics from donald trump to camping to paying for extra guacamole. Unlike the politicised app remainder, which launched in the wake of the brexit vote, hater is not only focused on political views. In fact, it can ensure people fed up of hearing about the political world find someone who will steer clear of trump and brexit."
         ],
         "raw_document": [
             "Warczone is a collection of outsider-uploaded warcs, which are contributed to the internet archive but may or may not be ingested into the wayback machine. They are being kept in this location for reference and clarity for the wayback team, while also being accessible to the general public who are seeking any particular items they can regarding certain websites.",
@@ -2473,17 +2458,16 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 30690,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Ohio's former governor is taking a stand in favor of raising the minimum wage — by living on it himself. Ted strickland tried restricting his spending last week to the $ 77 the wage offers, and by thursday, he failed, he writes at politico. The experience involved skipping meals, turning to unhealthy food, and walking to meetings because he couldn't afford other transportation, he writes. \" when i actually caught a cold, i felt lucky to already have medicine at home that would help with the symptoms, \" strickland notes. \" medicine, along with any other unexpected or additional expenses, often prevents the budget from stretching as far as it needs to stretch. \" but many in washington don't realize that thanks to their insulated lifestyles, he writes. Strickland, a democrat, is among officials and activists trying to \" live the wage \" and calling on members of congress to do so, too, \" before opposing an increase that would help millions of americans who currently live in poverty. \" click for his full piece.",
         "split": "train",
         "cleansed_document": [
-            "In the arena i tried to live on minimum wage for a week for all of last week, i worked hard to live on the budget of a minimum wage worker. That meant i had $ 77 to spend on food, transportation, activities and other personal expenses for the week. I didn't make it. Most mornings started with eggs and toast, bought last sunday during a grocery trip costing more than $ 15. Lunches were normally leftovers, macaroni and cheese or mcdonald's. There were no big dinners or coffee stops on a whim. But the challenges were beyond food. Wednesday morning, i had a meeting about a mile from my apartment, but in the opposite direction of my office. I would normally take a cab, but this time, i took off my jacket and walked the mile in 90-degree heat, then walked back almost 2 miles to my office. Walking made me late to my meeting, but a minimum wage budget doesn't allow for extra transportation costs, making it my only option. And early in the week when i actually caught a cold, i felt lucky to already have medicine at home that would help with the symptoms. Medicine, along with any other unexpected or additional expenses, often prevents the budget from stretching as far as it needs to stretch. That was a lesson i learned when my budget ran out on thursday evening. These are just some of the small realities i have learned about life on the minimum wage. Washington is in a bubble that keeps our representatives away from the experiences of those they actually represent. We need to understand the challenges faced by americans who are being left behind in our economy. That's why i joined members of congress and dozens of organizations in taking the live the wage challenge ( www.livethewage.com ), and asking those in congress to actually try living on the minimum wage for a week before opposing an increase that would help millions of americans who currently live in poverty. For the week, i walked as much as i possibly could to avoid paying for transportation, skipped meals to save money — and i ate much smaller and less healthful meals when i did eat. Because fresh fruits and vegetables are hard to find at a price within a minimum wage budget, i turned to bread, peanut butter, bananas and bologna more than anything else. That was what i could find when i took this budget to the grocery story last sunday. And that's why i ate lunch from",
-            "This crawl of online resources of the 115th us congress was performed on behalf of the united states national archives &amp; records"
+            "In the arena i tried to live on minimum wage for a week for all of last week, i worked hard to live on the budget of a minimum wage worker. That meant i had $ 77 to spend on food, transportation, activities and other personal expenses for the week. I didn't make it. Most mornings started with eggs and toast, bought last sunday during a grocery trip costing more than $ 15. Lunches were normally leftovers, macaroni and cheese or mcdonald's. There were no big dinners or coffee stops on a whim. But the challenges were beyond food. Wednesday morning, i had a meeting about a mile from my apartment, but in the opposite direction of my office. I would normally take a cab, but this time, i took off my jacket and walked the mile in 90-degree heat, then walked back almost 2 miles to my office. Walking made me late to my meeting, but a minimum wage budget doesn't allow for extra transportation costs, making it my only option. And early in the week when i actually caught a cold, i felt lucky to already have medicine at home that would help with the symptoms. Medicine, along with any other unexpected or additional expenses, often prevents the budget from stretching as far as it needs to stretch. That was a lesson i learned when my budget ran out on thursday evening. These are just some of the small realities i have learned about life on the minimum wage. Washington is in a bubble that keeps our representatives away from the experiences of those they actually represent. We need to understand the challenges faced by americans who are being left behind in our economy. That's why i joined members of congress and dozens of organizations in taking the live the wage challenge ( www.livethewage.com ), and asking those in congress to actually try living on the minimum wage for a week before opposing an increase that would help millions of americans who currently live in poverty. For the week, i walked as much as i possibly could to avoid paying for transportation, skipped meals to save money — and i ate much smaller and less healthful meals when i did eat. Because fresh fruits and vegetables are hard to find at a price within a minimum wage budget, i turned to bread, peanut butter, bananas and bologna more than anything else. That was what i could find when i took this budget to the grocery story last sunday. And that's why i ate lunch from"
         ],
         "raw_document": [
             "In the arena i tried to live on minimum wage for a week for all of last week, i worked hard to live on the budget of a minimum wage worker. That meant i had $ 77 to spend on food, transportation, activities and other personal expenses for the week. I didn't make it. Most mornings started with eggs and toast, bought last sunday during a grocery trip costing more than $ 15. Lunches were normally leftovers, macaroni and cheese or mcdonald's. There were no big dinners or coffee stops on a whim. But the challenges were beyond food. Wednesday morning, i had a meeting about a mile from my apartment, but in the opposite direction of my office. I would normally take a cab, but this time, i took off my jacket and walked the mile in 90-degree heat, then walked back almost 2 miles to my office. Walking made me late to my meeting, but a minimum wage budget doesn't allow for extra transportation costs, making it my only option. And early in the week when i actually caught a cold, i felt lucky to already have medicine at home that would help with the symptoms. Medicine, along with any other unexpected or additional expenses, often prevents the budget from stretching as far as it needs to stretch. That was a lesson i learned when my budget ran out on thursday evening. These are just some of the small realities i have learned about life on the minimum wage. Washington is in a bubble that keeps our representatives away from the experiences of those they actually represent. We need to understand the challenges faced by americans who are being left behind in our economy. That's why i joined members of congress and dozens of organizations in taking the live the wage challenge ( www.livethewage.com ), and asking those in congress to actually try living on the minimum wage for a week before opposing an increase that would help millions of americans who currently live in poverty. For the week, i walked as much as i possibly could to avoid paying for transportation, skipped meals to save money — and i ate much smaller and less healthful meals when i did eat. Because fresh fruits and vegetables are hard to find at a price within a minimum wage budget, i turned to bread, peanut butter, bananas and bologna more than anything else. That was what i could find when i took this budget to the grocery story last sunday. And that's why i ate lunch from",
@@ -2498,7 +2482,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2555,13 +2539,12 @@
     },
     {
         "idx": 30693,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Trying to make sense of all the new information in the natalie wood case? good luck with that, because so far there hasn't been any. The los angeles times assesses the hoopla: the boat captain gave no details to back up his assertion that wood widower robert wagner was somehow responsible, and the only nugget of news to emerge from the lapd news conference yesterday is that wagner is not a suspect. Says an insider in the sheriff's department: \" whatever happens, it is unlikely to change the outcome of the original investigation so many decades after the death. \" ( that would be accidental drowning. ) a journalism professor at new school university agrees. \" there's nothing new here, \" she says. \" it appears that law enforcement is following media, not the other way around. \" natalie's sister, lana, again dropped veiled suggestions about wagner last night on cnn, notes ap — \" i would prefer to always believe that rj ( wagner ) would never do anything to hurt natalie and that he loved her dearly, which he did, and i don't believe that whatever went on was deliberate \" — but she has said such things before in her push to have the case reopened. In other developments, the ap got duped by a christopher walken impersonator, and the hawaii man who now owns the boat says investigators plan to visit, notes the honolulu star-advertiser.",
         "split": "train",
         "cleansed_document": [
             "When natalie wood died in the cold, dark water near santa catalina island 30 years ago, the story elicited a frenzy of media attention. Rumors of suicide or foul play never disappeared, even after authorities closed the case as the accidental drowning of a 43-year-old actress who'd been drinking and couldn't swim.it is unclear what compelling evidence — if any — prompted the los angeles county sheriff's department to reopen the case, and what accounts for the peculiar timing. Detectives formally announced the probe friday, two weeks from the three-decade anniversary of wood's death, and days before the scheduled retrospective on the case on cbs ' \" 48 hours. \" what is new, apparently, are the ominous yet ambiguous pronouncements of dennis davern, captain of the yacht on which wood was last seen alive with husband robert wagner and her \" brainstorm \" co-star christopher walken",
-            "Natalie wood's drowning death nearly 30 years ago came after a night of dinner, drinking and arguments but the question remains _ was it anything more than a tragic accident? file - in this april 27, 2009 file photo, actor christopher walken attends the film society of lincoln center gala tribute to honor actor tom hanks in new york. Clashing versions of what happened on... ( associated press ) file - the 55-foot yacht \" splendour, \" belonging to actor robert wagner and his wife, actress natalie wood, sits in the waters off catalina island in santa catalina, calif., near the site where harbor... ( associated press ) lt. John corina of the los angeles county sheriff's department speaks during a news conference at the los angeles county sheriff's headquarters in monterey park, calif., friday, nov. 18, 2011. The los... ( associated press",
-            "An associated press reporter mistook an impersonator of actor christopher walken on a sports-talk radio program friday for walken himself, leading the news cooperative to include comments mistakenly attributed to the actor in its coverage of the natalie wood death investigation. The ap corrected the story about an hour later and told its members not to use the incorrect information. The radio station, washington-based espn 980, informed the ap that the walken impersonator appears weekly to discuss sports-related topics for a humorous segment. Walken has a distinctive, staccato style of speaking. Walken was sharing a yacht with wood and her husband, actor robert wagner, when the actress drowned on nov. 29, 1981. The death was ruled an accident. But this week, authorities in los angeles reopened their investigation into wood's death based on new information but said that wagner is not a suspect. The walken impersonator, marc sterne,"
+            "Natalie wood's drowning death nearly 30 years ago came after a night of dinner, drinking and arguments but the question remains _ was it anything more than a tragic accident? file - in this april 27, 2009 file photo, actor christopher walken attends the film society of lincoln center gala tribute to honor actor tom hanks in new york. Clashing versions of what happened on... ( associated press ) file - the 55-foot yacht \" splendour, \" belonging to actor robert wagner and his wife, actress natalie wood, sits in the waters off catalina island in santa catalina, calif., near the site where harbor... ( associated press ) lt. John corina of the los angeles county sheriff's department speaks during a news conference at the los angeles county sheriff's headquarters in monterey park, calif., friday, nov. 18, 2011. The los... ( associated press"
         ],
         "raw_document": [
             "When natalie wood died in the cold, dark water near santa catalina island 30 years ago, the story elicited a frenzy of media attention. Rumors of suicide or foul play never disappeared, even after authorities closed the case as the accidental drowning of a 43-year-old actress who'd been drinking and couldn't swim.it is unclear what compelling evidence — if any — prompted the los angeles county sheriff's department to reopen the case, and what accounts for the peculiar timing. Detectives formally announced the probe friday, two weeks from the three-decade anniversary of wood's death, and days before the scheduled retrospective on the case on cbs ' \" 48 hours. \" what is new, apparently, are the ominous yet ambiguous pronouncements of dennis davern, captain of the yacht on which wood was last seen alive with husband robert wagner and her \" brainstorm \" co-star christopher walken",
@@ -2578,7 +2561,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2691,14 +2674,13 @@
     },
     {
         "idx": 30698,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "In what should be a wake-up call for property owners, investigators believe the horrific balcony accident that killed six young people and injured seven in berkeley, calif., yesterday was caused by a \" classic case of dry rot \" — even though the building was less than 10 years old. A civil engineer who inspected the scene tells the los angeles times that the fourth-floor balcony should have been able to support the weight of 13 people, even if they were football players jumping up and down, but water appears to have seeped in and \" totally compromised \" the wooden beams holding up the balcony. Officials say the apartment complex was completed in 2007 and three other balconies there have been red-tagged, the san francisco chronicle reports. Waterproofing the point where wooden beams come out of an exterior wall is \" critically important, \" and it appears \" something failed there, \" the engineer tells the la times. \" either the detailing wasn't adequate, or the construction was not done properly, or something happened that allowed water to intrude. \" the victims have been named as irish citizens niccolai schuster, eoghan culligan, eimear walsh, olivia burke, and lorcan miller, all 21, and 22-year-old irish-american ashley donohoe, who is burke's cousin, the irish times reports. The irish students were in the us as part of the j-1 summer work travel exchange program that brings 100,000 students to the us every year, the ap reports.",
         "split": "train",
         "cleansed_document": [
             "Six irish students have been killed in berkeley, california, when a fourth-floor balcony collapsed. Niccolai schuster ( 21 ), eoghan culligan ( 21 ), eimear walsh ( 21 ), olivia burke ( 21 ), ashley donohoe ( 22 ) and lorcán miller ( 21 ) were celebrating a 21st birthday when the balcony collapsed on to the balcony below. Niccolai schuster and eoghan culligan were former pupils of st mary's college in rathmines, dublin. Ashley donohoe is an irish-american from rohnert park, which is 50 miles north of san francisco. She and olivia burke are cousins. Seven other people were seriously injured. Berkeley police spokeswoman jennifer coats said the",
             "Water seeping into the horizontal beams supporting a balcony could have caused dry rot, contributing to a balcony collapse that killed six people in berkeley, engineers who visited the scene said tuesday. \"it appears to be a classic case of dry rot, meaning water intruded into the building [ and ] rotted the wood \" that supported the balcony, said gene st. Onge, a civil and structural engineer in oakland. With more than a dozen people on the balcony, \"it gave way. It didn't have enough residual strength, and it failed. \" st. Onge said the broken wooden beams protruding from the building that once held up the balcony show what looks like",
-            "6 dead, 7 hurt in berkeley balcony collapse a 21st birthday party in berkeley full of students from ireland turned into a scene of chaos and tragedy early tuesday when the small fourth-floor balcony of the apartment hosting the bash gave way, killing six young people who crashed to the street below and injuring seven more. The accident at the four-story library gardens complex at 2020 kittredge st., near the uc berkeley campus, unleashed waves of grief across ireland as well as rohnert park, where one of the victims was from. It launched berkeley homicide detectives and building inspectors into what they said would be a swift investigation. While city officials wouldn't comment on their",
-            ". ( ap ) — five of the irish college students who died when a fifth-floor balcony collapsed were part of a popular cultural exchange program allowing foreign students to work and travel in the united states. The u.s. Government's j-1 summer work travel program brings 100,000 college students to this country every year, with many finding jobs at resorts, summer camps and other attractions. Here's a look at the program: what is it? the program — created under the fulbright-hays act of 1961 — allows foreign college students to spend up to four months living and working in the u.s. It was meant to foster cultural understanding and has become a booming, multimillion-dollar"
+            "6 dead, 7 hurt in berkeley balcony collapse a 21st birthday party in berkeley full of students from ireland turned into a scene of chaos and tragedy early tuesday when the small fourth-floor balcony of the apartment hosting the bash gave way, killing six young people who crashed to the street below and injuring seven more. The accident at the four-story library gardens complex at 2020 kittredge st., near the uc berkeley campus, unleashed waves of grief across ireland as well as rohnert park, where one of the victims was from. It launched berkeley homicide detectives and building inspectors into what they said would be a swift investigation. While city officials wouldn't comment on their"
         ],
         "raw_document": [
             "Six irish students have been killed in berkeley, california, when a fourth-floor balcony collapsed. Niccolai schuster ( 21 ), eoghan culligan ( 21 ), eimear walsh ( 21 ), olivia burke ( 21 ), ashley donohoe ( 22 ) and lorcán miller ( 21 ) were celebrating a 21st birthday when the balcony collapsed on to the balcony below. Niccolai schuster and eoghan culligan were former pupils of st mary's college in rathmines, dublin. Ashley donohoe is an irish-american from rohnert park, which is 50 miles north of san francisco. She and olivia burke are cousins. Seven other people were seriously injured. Berkeley police spokeswoman jennifer coats said the",
@@ -2717,7 +2699,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {

@@ -52,7 +52,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -90,12 +90,10 @@
     },
     {
         "idx": 45103,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Herman cain might just be a wee bit misinformed about china. In a quick exchange from his pbs news hour interview last night, spotted by raw story, cain was asked if china was a military threat. \"yes, they're a military threat, \" he replied. \" they've indicated that they're trying to develop nuclear capability … so yes, we have to consider them a military threat. \" there's just one little inaccuracy there: china has had nuclear weapons since 1964. Cain has never claimed to be a foreign policy guru — he once boasted that he didn't know who the president of \" ubeki-beki-beki-beki-stan-stan \" was, a remark that greatly amused hillary clinton. In last night's interview, he also said he wouldn't send troops into syria, saying the situation was \"sad \" but that the us couldn't get involved. \"i want to first make sure that we stop giving money to our enemies, \" he said. The us does not send aid to syria, but cain may have been making a more general point.",
         "split": "val",
-        "cleansed_document": [
-            "Cain fumbles uzbekistan's name: 'ubeki-beki-beki-stan-stan ' by kase wickman monday, october 10, 2011 10: 34 edt republican presidential hopeful and former godfather's pizza ceo herman cain made clear his opinion of certain foreign affairs in an interview with a religious broadcaster. Cain sat down for an interview with christian broadcasting network, where interviewer david brody asked him whether he was ready for the mainstream media's \"gotcha questions. \" his example of such a question was, \"who is the president of uzbekistan? \" cain responded not only by revealing that he can't name uzbekistan's president ( islam karimov, for the curious ), but by bobbling the country's name, seemingly in jest. \"i ' m ready for the 'gotcha ' questions and they're already starting to come, \" cain said. \"and when they ask me who is the president of ubeki-beki-beki-beki-stan-stan i ' m going to say, you know, i don't know. Do you know? \" uzbekistan is not as irrelevant as cain appeared to think. President barack obama just weeks ago spoke with karimov about using the country's territory as a supply route to move inventory to troops in afghanistan, moving from the current route through pakistan. Watch the video of cain's interview with cbn below, captured by thinkprogress"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Judy woodruff: herman cain, the latest republican presidential candidate to lead in the polls, spent the day rebutting sexual harassment charges, including, as you will hear shortly, here on the newshour. Asked repeatedly about the claims, he dismissed them as baseless. The story first reported last night on news website politico.com alleged that when cain was head of the national restaurant association in the 1990s, at least two female employees reported inappropriate behavior to senior members of the organization. The politico story said -- quote -- \" the women complained of sexually suggestive behavior by cain that made them angry and uncomfortable, the sources said, and they signed agreements with the restaurant group that gave them financial payouts to leave the association. \" for its part, the national restaurant association says it doesn't comment on personnel matters. Today, cain denied the reports for the first time in an appearance on fox news channel. Herman cain, ( r ) presidential candidate: i have never sexually harassed anyone -- anyone -- and, absolutely, i -- these are false accusations. Judy woodruff: and in an appearance at the national press club, he conceded he knew about the investigation. Related information herman cain: sexual harassment allegations are ' baffling ' herman cain: while at the restaurant association, i was accused of sexual harassment",
             "Cain fumbles uzbekistan's name: 'ubeki-beki-beki-stan-stan ' by kase wickman monday, october 10, 2011 10: 34 edt republican presidential hopeful and former godfather's pizza ceo herman cain made clear his opinion of certain foreign affairs in an interview with a religious broadcaster. Cain sat down for an interview with christian broadcasting network, where interviewer david brody asked him whether he was ready for the mainstream media's \"gotcha questions. \" his example of such a question was, \"who is the president of uzbekistan? \" cain responded not only by revealing that he can't name uzbekistan's president ( islam karimov, for the curious ), but by bobbling the country's name, seemingly in jest. \"i ' m ready for the 'gotcha ' questions and they're already starting to come, \" cain said. \"and when they ask me who is the president of ubeki-beki-beki-beki-stan-stan i ' m going to say, you know, i don't know. Do you know? \" uzbekistan is not as irrelevant as cain appeared to think. President barack obama just weeks ago spoke with karimov about using the country's territory as a supply route to move inventory to troops in afghanistan, moving from the current route through pakistan. Watch the video of cain's interview with cbn below, captured by thinkprogress"
@@ -109,7 +107,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -219,7 +217,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -349,19 +347,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 45113,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Three teenage suspects are dead and their alleged getaway driver is in custody after what police in broken arrow, okla., are calling an apparent home invasion. Police say that after the three suspects broke in through a glass door at the back of the home monday afternoon, there was a \" short exchange of words \" with the homeowner's 23-year-old son before he opened fire with an ar-15 assault rifle, ktul reports. Two suspects died in the home's kitchen. A third fled before collapsing and dying in the home's driveway. Police say that hours after the shooting, elizabeth marie rodriguez, 21, turned herself in. She was arrested and is expected to face three charges of first-degree murder and three charges of burglary. ( in oklahoma, those suspected in a felony that results in a death can face charges of murder. ) wagoner county deputy nick mahoney says the three teenagers were wearing black clothing, masks, and gloves when they broke into the home, the ap reports. Two of the suspects were 17 years old and the third was 18, reports fox23. One suspect had brass knuckles and another had a knife, according to police, who say the homeowners called authorities and voluntarily provided statements. Police say there's no indication that the suspects knew the homeowner or his son. They say that, for now, the shooting is being treated as self-defense. \" this may be a case of'stand-your-ground '; however, it's still too early to say for sure, and we're still looking into all aspects of this, \" mahoney says, per the tulsa world.",
         "split": "val",
         "cleansed_document": [
             "Broken arrow, okla. ( ap ) — oklahoma authorities say three would-be burglars have been fatally shot by a homeowner's adult son who was armed with a rifle. The wagoner county sheriff's office received a call around 12: 30 p.m. Monday from someone inside a home who told dispatchers that people had broken into the house and that shots had been fired. Deputy nick mahoney says officers arrived to find three men fatally shot. The neighborhood is in an unincorporated part of the county about 20 miles southeast of tulsa. Mahoney says the men were wearing black clothes, gloves and masks when they forced their way in through a back door. He says there's no reason to believe the son knew the intruders and that investigators are treating the case as a home invasion.",
             "The 21-year-old woman, elizabeth marie rodriguez turned herself in at the broken arrow police department hours after the shooting. ( wcso/ktul ) broken arrow, okla. ( ktul ) -- one person is in custody after three suspects in a wagoner county home invasion were shot to death monday afternoon by one of the residents. According to the wagoner county sheriff's office, the suspects ' getaway driver has been arrested. The 21-year-old woman, elizabeth marie rodriguez, turned herself in at the broken arrow police department hours after the shooting, saying she had information. Wagoner county investigators interviewed her at the police department and subsequently arrested her on complaints of three counts of first-degree murder and three counts of first-degree burglary. Investigators haven't released the names of anyone involved but say the deceased suspects are between 16 and 18 years old. One of",
-            "0 slain teen suspects identified after wagoner county shooting wagoner county, okla. - quick facts: three teens are dead after they reportedly broke into a home in wagoner county monday. Officials say a homeowner's young adult son shot and killed the suspects with an ar-15. A fourth suspect, identified as elizabeth rodriguez, went to jail on three first degree murder complaints download the fox23 news app for alerts sent straight to your phone. Three teens are dead after an alleged home invasion attempt reportedly ended in a shooting monday. It happened near 91st and 241st east avenue in the wagoner county part of broken arrow. According to officials with the wagoner county sheriff's office, three masked people broke into the house through the back door with the intent of burglarizing the home. Officials say the homeowner's young adult son killed",
-            "Sorry, this zipcode is not in our deliverable area for this subscription service. Re-enter zip code or sign up for digital access. Get digital access"
+            "0 slain teen suspects identified after wagoner county shooting wagoner county, okla. - quick facts: three teens are dead after they reportedly broke into a home in wagoner county monday. Officials say a homeowner's young adult son shot and killed the suspects with an ar-15. A fourth suspect, identified as elizabeth rodriguez, went to jail on three first degree murder complaints download the fox23 news app for alerts sent straight to your phone. Three teens are dead after an alleged home invasion attempt reportedly ended in a shooting monday. It happened near 91st and 241st east avenue in the wagoner county part of broken arrow. According to officials with the wagoner county sheriff's office, three masked people broke into the house through the back door with the intent of burglarizing the home. Officials say the homeowner's young adult son killed"
         ],
         "raw_document": [
             "Broken arrow, okla. ( ap ) — oklahoma authorities say three would-be burglars have been fatally shot by a homeowner's adult son who was armed with a rifle. The wagoner county sheriff's office received a call around 12: 30 p.m. Monday from someone inside a home who told dispatchers that people had broken into the house and that shots had been fired. Deputy nick mahoney says officers arrived to find three men fatally shot. The neighborhood is in an unincorporated part of the county about 20 miles southeast of tulsa. Mahoney says the men were wearing black clothes, gloves and masks when they forced their way in through a back door. He says there's no reason to believe the son knew the intruders and that investigators are treating the case as a home invasion.",
@@ -380,7 +377,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -433,18 +430,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 45116,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The euro took a nose dive today, and so did the bonds of weak eurozone nations, as investors panicked over fresh speculation that greece will have to restructure its debt in the near future, and the election of an anti-euro party in finland. German government sources tell reuters that they doubt greece will be able to get through the summer without restructuring. Greece, however, has repeatedly denied that it would do so. \" it would have catastrophic consequences, \" the bank of greece's governor said. Speculation was also rampant that the new finnish government would throw a monkey wrench in portugal's bailout negotiations. Eu negotiators issued a statement today insisting that wouldn't happen. \"there are no changes in plans, \" a spokesman said. \"we're fully confident that member states will honor their commitments. \" irish prime minister enda kenny, meanwhile, reassured observers that ireland intended to pay its debt. \"the greek government will obviously deal with this problem in the best way it can, \" he told bloomberg. \"we have no intention of defaulting. \"",
         "split": "val",
         "cleansed_document": [
             "Kenny says ireland will not default as greece concerns mount by joe brennan and andrea catherwood ( updates shares, bonds in eighth paragraph. ) april 18 ( bloomberg ) -- irish prime minister enda kenny said the nation won't default on its debt as he tries to rebuild confidence at a time when investors speculate greece may struggle to pay back its borrowings. \"the greek government will obviously deal with this problem in the best way it can, \" said kenny, 59, in an interview with andrea catherwood on bloomberg television's \"last word \" in london today. \"we have no intention of defaulting. We've made that perfectly clear. We want to continue to pay our way. \" irish, greek and portuguese bonds fell today amid mounting speculation greece will have to restructure its debt. All three countries have sought bailouts from the european union and international monetary fund, and kenny's government wants a reduction on the rate on its loans, which he has described as \"too severe. \" \"we're not looking for more money from europe, we're looking for greater flexibility, \" kenny said, referring to the rate on the bailout and to medium-term financing for lenders from the european central",
-            "Berlin/athens ( reuters ) - fresh fears that greece will have to restructure its mountain of debt, possibly as early as this summer, sent the euro and some euro zone bond prices tumbling on monday as the bloc's debt crisis escalated. German government sources told reuters in berlin that they did not believe greece, which sealed a 110 billion euro ( $ 158 billion ) bailout from the eu and imf a year ago, would make it through the summer without a restructuring. Market confidence was also hit by a new threat to portugal's pending bailout from the rise of an anti-euro party in finnish elections. The anti-euro true finns party scored big gains in a sunday vote and vowed to push for changes to a portuguese rescue by the eu that is expected to total 80 billion euros when it is finalized by a mid-may deadline. After a brief lull in the eu debt crisis at the start of 2011, it has blown up again and some analysts are now openly speculating that greece and possibly other countries could eventually be forced to exit the bloc. \" you may see some countries deciding to leave the euro because they can't deal with the fiscal straitjacket that it imposes on them,",
-            "Dow jones reprints: this copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers, use the order reprints tool at the bottom of any article or visit www.djreprints.com"
+            "Berlin/athens ( reuters ) - fresh fears that greece will have to restructure its mountain of debt, possibly as early as this summer, sent the euro and some euro zone bond prices tumbling on monday as the bloc's debt crisis escalated. German government sources told reuters in berlin that they did not believe greece, which sealed a 110 billion euro ( $ 158 billion ) bailout from the eu and imf a year ago, would make it through the summer without a restructuring. Market confidence was also hit by a new threat to portugal's pending bailout from the rise of an anti-euro party in finnish elections. The anti-euro true finns party scored big gains in a sunday vote and vowed to push for changes to a portuguese rescue by the eu that is expected to total 80 billion euros when it is finalized by a mid-may deadline. After a brief lull in the eu debt crisis at the start of 2011, it has blown up again and some analysts are now openly speculating that greece and possibly other countries could eventually be forced to exit the bloc. \" you may see some countries deciding to leave the euro because they can't deal with the fiscal straitjacket that it imposes on them,"
         ],
         "raw_document": [
             "Kenny says ireland will not default as greece concerns mount by joe brennan and andrea catherwood ( updates shares, bonds in eighth paragraph. ) april 18 ( bloomberg ) -- irish prime minister enda kenny said the nation won't default on its debt as he tries to rebuild confidence at a time when investors speculate greece may struggle to pay back its borrowings. \"the greek government will obviously deal with this problem in the best way it can, \" said kenny, 59, in an interview with andrea catherwood on bloomberg television's \"last word \" in london today. \"we have no intention of defaulting. We've made that perfectly clear. We want to continue to pay our way. \" irish, greek and portuguese bonds fell today amid mounting speculation greece will have to restructure its debt. All three countries have sought bailouts from the european union and international monetary fund, and kenny's government wants a reduction on the rate on its loans, which he has described as \"too severe. \" \"we're not looking for more money from europe, we're looking for greater flexibility, \" kenny said, referring to the rate on the bailout and to medium-term financing for lenders from the european central",
@@ -461,7 +457,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -490,13 +486,12 @@
     },
     {
         "idx": 45118,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Thomas van linge has become one of the most respected cartographers around when it comes to tracking global conflicts, including the advances of isis, boko haram, and separatists in ukraine. His highly detailed, color-coded maps have been picked up by cnn, the new york times, and the huffington post, among other media — and the 19-year-old creates them all from his childhood bedroom in amsterdam, reports der spiegel. Yes, 19. And the young activist has never even been to any of the war-torn regions he documents and taught himself arabic on youtube. \" i want to inform people mostly and show people the rebel dynamics in the country, \" he told newsweek in june. \" i also want to inform journalists who want to go to the region which regions are definitely no-go zones, which regions are the most dangerous, and also to show strategic developments through time. \" how did a dutch teen get to become one of the foremost armchair cartographers in the world? he tells newsweek his interest was sparked while watching 2011's arab spring uprising, which spurred him to start following what was going on in syria. He released a map in 2014 of that region on his twitter account, which now boasts more than 15,000 followers who retweet his creations. Each map, which he colors in using microsoft paint, takes van linge a few weeks to finish, using social media, youtube, and any of his 1,000-plus sources on the front lines to gather and corroborate information, he tells the magazine. What's next for van linge? he's contemplating heading to one of the far-off lands he's been mapping out to help the people suffering there in person, spiegel notes. Check out a syria territory progression video using van linge's maps here. ( or click to read about a much-mapped island that doesn't actually exist. )",
         "split": "val",
         "cleansed_document": [
             "Thomas van linge's colorful, detailed maps showing which parties control which parts of iraq, libya and syria are a hit whenever he posts them on twitter. They have been cited on news stories in the huffington post, lebanon's daily star and vox, as well as on the university of texas at austin's website. But van linge isn't a policy expert and he's never been to the region: in fact, he's just a dutch high school student who tracks the war on social media. Van linge, who goes by @arabthomness on twitter, has amassed nearly 11,000 followers since joining the platform in january 2013, the year he published his first map. Many of his followers work for influential think tanks or suggest policy for the region he maps. Van linge's latest map of conflict-ridden syria, updated june 5, 2015, illustrates just how complex the situation in the country has become. In northeastern syrian kurdistan, a tip of yellow is mainly in control of the kurdish ypg ( people's protection units ), while the country's west is a mix of red — representing the regime of syrian president bashar al-assad — and varied green blotches representing the free syrian army and mixed",
-            "Islamic state fighters have conquered rahabi in iraq. They control the libyan coast near sirt. In syria, they just lost tall abyad to the kurds, but are spreading out in the center of palmyra. Thomas van linge is keeping an eye on their movements. The 19-year-old wears a hoodie and, although he only just graduated from high school, he already knows better than most people where the jihadists are heading, which areas they are occupying and where they've been beaten back. That's because van linge makes some of the world's best maps of chaotic war zones from the desk of his childhood bedroom in amsterdam. He has never been to syria, iraq or libya, and he learned arabic on youtube. The young dutchman isn't just keeping an eye on islamic state and its \" caliphate, \" he also knows what the rebels of the free syrian army, al-nusra front and lebanon's hezbollah are doing. In libya he's monitoring the zintan brigades, in nigeria he's watching boko haram, in eastern ukraine he's keeping an eye on the separatists. \" all places where people are rising up, \" he says. His maps have been used by cnn, the new york times",
-            "Rating is available when the video has been rented. This feature is not available right now. Please try again later."
+            "Islamic state fighters have conquered rahabi in iraq. They control the libyan coast near sirt. In syria, they just lost tall abyad to the kurds, but are spreading out in the center of palmyra. Thomas van linge is keeping an eye on their movements. The 19-year-old wears a hoodie and, although he only just graduated from high school, he already knows better than most people where the jihadists are heading, which areas they are occupying and where they've been beaten back. That's because van linge makes some of the world's best maps of chaotic war zones from the desk of his childhood bedroom in amsterdam. He has never been to syria, iraq or libya, and he learned arabic on youtube. The young dutchman isn't just keeping an eye on islamic state and its \" caliphate, \" he also knows what the rebels of the free syrian army, al-nusra front and lebanon's hezbollah are doing. In libya he's monitoring the zintan brigades, in nigeria he's watching boko haram, in eastern ukraine he's keeping an eye on the separatists. \" all places where people are rising up, \" he says. His maps have been used by cnn, the new york times"
         ],
         "raw_document": [
             "Thomas van linge's colorful, detailed maps showing which parties control which parts of iraq, libya and syria are a hit whenever he posts them on twitter. They have been cited on news stories in the huffington post, lebanon's daily star and vox, as well as on the university of texas at austin's website. But van linge isn't a policy expert and he's never been to the region: in fact, he's just a dutch high school student who tracks the war on social media. Van linge, who goes by @arabthomness on twitter, has amassed nearly 11,000 followers since joining the platform in january 2013, the year he published his first map. Many of his followers work for influential think tanks or suggest policy for the region he maps. Van linge's latest map of conflict-ridden syria, updated june 5, 2015, illustrates just how complex the situation in the country has become. In northeastern syrian kurdistan, a tip of yellow is mainly in control of the kurdish ypg ( people's protection units ), while the country's west is a mix of red — representing the regime of syrian president bashar al-assad — and varied green blotches representing the free syrian army and mixed",
@@ -513,7 +508,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -659,13 +654,12 @@
     },
     {
         "idx": 45124,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Thanks to new fcc rules put out this year to ensure net neutrality and keep all online data equal, major internet service providers ( think verizon, at&t, time warner ) aren't supposed to hold our internet speeds hostage. But that's exactly what's happening, per a study by an internet activist group, causing a hefty slowdown to 75 % of wireline businesses and residences, the guardian reports. Battle for the net's study, which checked out results from 300,000 internet users, found what the paper calls \" significant degradations \" on the networks of the five largest isps, which means we're paying for traffic speed we're just not getting. \" there is widespread and systemic abuse across the network, \" says a rep from one of the groups that comprises battle for the net. The isps are already being forced to react to these net neutrality rules: at&t was hit with a $ 100 million fine last week for slowing down internet speeds of customers with supposedly unlimited data plans, per the washington post, while sprint cut out its \" data-throttling \" procedure of slowing down speeds of customers also believed to be using an excessive amount of data, cnet notes. But the isps don't think they should be regulated as public utilities are, which is effectively what the fcc decided back in february, and at&t in particular is fighting back against the \" unprecedented \" and \" unjustified \" rules it says is damaging its business, cbs washington reports. ( \" radical \" changes are needed to fix our antiquated internet, a gizmodo writer says. )",
         "split": "val",
         "cleansed_document": [
             "Major internet providers, including at&t, time warner and verizon, are slowing data from popular websites to thousands of us businesses and residential customers in dozens of cities across the country, according to a study released on monday. The study, conducted by internet activists battleforthenet, looked at the results from 300,000 internet users and found significant degradations on the networks of the five largest internet service providers ( isps ), representing 75 % of all wireline households across the us. The findings come weeks after the federal communications commission introduced new rules meant to protect \"net neutrality \" – the principle that all data is equal online – and keep isps from holding traffic speeds for ransom. Tim karr of free press, one of the groups that makes up battleforthenet, said the finding show isps are not providing content to users at the speeds they're paying for. \"for too long, internet",
-            "Washington ( cbs dc ) — a new study claims massive internet providers such as at&t, time warner and verizon are purposefully slowing data from popular websites to thousands of businesses and residential users across the country. A study from internet activists, battleforthenet, analyzed data from 300,000 internet users and found the five largest internet service providers ( isps ) have significantly degraded data speed, the guardian reports. The purposeful internet service slow-down from the country's largest internet provider companies affects 75 percent of all wireline households throughout the u.s. The battleforthenet findings comes just weeks after the federal communications commission introduced new rules meant to protect \"net neutrality, \" or the concept that all data on the internet is equal. The rules are intended to keep isps such as at&t, time warner, verizon and comcast from holding consumers'traffic speeds for ransom. The country's largest isp companies urged the",
-            "The federal communications commission slapped at&t with a $ 100 million fine wednesday, accusing the country's second-largest cellular carrier of drastically slowing down internet speeds for customers who signed up for \"unlimited \" data plans. The decision marks the fcc's most aggressive step to date to regulate internet providers as chairman tom wheeler follows through with his pledge to ensure that consumers have uninterrupted access to the web. Although the enforcement action targets at&t's cellular business, other broadband providers fear it is a preview of the greater scrutiny the industry will face under a more assertive fcc. At&t's practice affected millions of customers who saw their internet service slow to the equivalent of dial-up speeds for up to 12 days a month, the fcc said. Thousands of at&t customers complained as they struggled to browse the web or watch movies on their smartphones, according to the agency. The fine"
+            "Washington ( cbs dc ) — a new study claims massive internet providers such as at&t, time warner and verizon are purposefully slowing data from popular websites to thousands of businesses and residential users across the country. A study from internet activists, battleforthenet, analyzed data from 300,000 internet users and found the five largest internet service providers ( isps ) have significantly degraded data speed, the guardian reports. The purposeful internet service slow-down from the country's largest internet provider companies affects 75 percent of all wireline households throughout the u.s. The battleforthenet findings comes just weeks after the federal communications commission introduced new rules meant to protect \"net neutrality, \" or the concept that all data on the internet is equal. The rules are intended to keep isps such as at&t, time warner, verizon and comcast from holding consumers'traffic speeds for ransom. The country's largest isp companies urged the"
         ],
         "raw_document": [
             "Major internet providers, including at&t, time warner and verizon, are slowing data from popular websites to thousands of us businesses and residential customers in dozens of cities across the country, according to a study released on monday. The study, conducted by internet activists battleforthenet, looked at the results from 300,000 internet users and found significant degradations on the networks of the five largest internet service providers ( isps ), representing 75 % of all wireline households across the us. The findings come weeks after the federal communications commission introduced new rules meant to protect \"net neutrality \" – the principle that all data is equal online – and keep isps from holding traffic speeds for ransom. Tim karr of free press, one of the groups that makes up battleforthenet, said the finding show isps are not providing content to users at the speeds they're paying for. \"for too long, internet",
@@ -682,7 +676,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -712,12 +706,11 @@
     },
     {
         "idx": 45126,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Obamacare's technical difficulties are well-documented — the house is dragging four contractors in to talk about them today — but it has one problem no web developer can solve: it's pretty lousy in rural areas. The theory behind the affordable care act's health insurance marketplace is that forcing insurers to compete will keep prices low. But in many rural areas, that competition simply isn't materializing, the new york times reports. In 21 % of the 2,500 counties serviced by the federal exchanges, consumers have only one carrier to choose from. Among the reasons why new insurers aren't stepping in: \" dominant \" insurers hold tightly to their territory, and \" powerful \" hospital systems fiercely oppose any moves that would trim their rates. Most under-served areas are poor, and many are in the south; there's only one option in almost all of mississippi and alabama. That lack of competition can have a huge effect on prices. A 50-year-old in rural georgia, for instance, would pay twice as much for a silver-level plan as one in atlanta. The cheapest silver plan in wyoming, which has two insurers, costs as much as the most expensive in montana, which has three ( including one new co-op ). \" the affordable care act was designed for … big cities, \" wyoming's insurance commissioner says. \" you've got to have some bargaining chips, and we don't have that much. \"",
         "split": "val",
         "cleansed_document": [
-            "As technical failures bedevil the rollout of president obama's health care law, evidence is emerging that one of the program's loftiest goals — to encourage competition among insurers in an effort to keep costs low — is falling short for many rural americans. While competition is intense in many populous regions, rural areas and small towns have far fewer carriers offering plans in the law's online exchanges. Those places, many of them poor, are being asked to choose from some of the highest-priced plans in the 34 states where the federal government is running the health insurance marketplaces, a review by the new york times has found. Of the roughly 2,500 counties served by the federal exchanges, more than half, or 58 percent, have plans offered by just one or two insurance carriers, according to an analysis by the times of county-level data provided by the department of health and human services. In about 530 counties, only a single insurer is participating. The analysis suggests that the ambitions of the affordable care act to increase competition have unfolded unevenly, at least in the early going, and have not addressed many of the factors that contribute to high prices. Insurance companies are reluctant to enter challenging new markets, experts say, because medical costs are high, dominant insurers are difficult to unseat, and powerful hospital systems resist efforts to lower rates. \"there's nothing in the structure of the affordable care act which really deals with that problem, \" said john holahan, a fellow at the urban institute, who noted that many factors determine costs in a given market. \"i think that all else being equal, premiums will clearly be higher when there's not that competition. \" the obama administration has said 95 percent of americans live in areas where there are at least two insurers in the exchanges. But many experts say two might not be enough to create competition that would help lower prices. For example, in wyoming, two insurers are offering plans at prices that are higher than in neighboring montana, where a third carrier is seen as a factor in keeping prices lower. It is unclear how the online marketplaces might evolve over time. Many large insurers are closely",
-            "Washington — no one in the government made sure the many complex parts of the federal health-insurance website worked together properly, and testing of the complete site didn't take place until two weeks before its oct. 1 launch, contractors said at the first congressional hearings into the matter. \" it seems like we've got several fingers but no palm here, \" said rep. Michael burgess ( r., texas ), as contractors for the site..."
+            "As technical failures bedevil the rollout of president obama's health care law, evidence is emerging that one of the program's loftiest goals — to encourage competition among insurers in an effort to keep costs low — is falling short for many rural americans. While competition is intense in many populous regions, rural areas and small towns have far fewer carriers offering plans in the law's online exchanges. Those places, many of them poor, are being asked to choose from some of the highest-priced plans in the 34 states where the federal government is running the health insurance marketplaces, a review by the new york times has found. Of the roughly 2,500 counties served by the federal exchanges, more than half, or 58 percent, have plans offered by just one or two insurance carriers, according to an analysis by the times of county-level data provided by the department of health and human services. In about 530 counties, only a single insurer is participating. The analysis suggests that the ambitions of the affordable care act to increase competition have unfolded unevenly, at least in the early going, and have not addressed many of the factors that contribute to high prices. Insurance companies are reluctant to enter challenging new markets, experts say, because medical costs are high, dominant insurers are difficult to unseat, and powerful hospital systems resist efforts to lower rates. \"there's nothing in the structure of the affordable care act which really deals with that problem, \" said john holahan, a fellow at the urban institute, who noted that many factors determine costs in a given market. \"i think that all else being equal, premiums will clearly be higher when there's not that competition. \" the obama administration has said 95 percent of americans live in areas where there are at least two insurers in the exchanges. But many experts say two might not be enough to create competition that would help lower prices. For example, in wyoming, two insurers are offering plans at prices that are higher than in neighboring montana, where a third carrier is seen as a factor in keeping prices lower. It is unclear how the online marketplaces might evolve over time. Many large insurers are closely"
         ],
         "raw_document": [
             "As technical failures bedevil the rollout of president obama's health care law, evidence is emerging that one of the program's loftiest goals — to encourage competition among insurers in an effort to keep costs low — is falling short for many rural americans. While competition is intense in many populous regions, rural areas and small towns have far fewer carriers offering plans in the law's online exchanges. Those places, many of them poor, are being asked to choose from some of the highest-priced plans in the 34 states where the federal government is running the health insurance marketplaces, a review by the new york times has found. Of the roughly 2,500 counties served by the federal exchanges, more than half, or 58 percent, have plans offered by just one or two insurance carriers, according to an analysis by the times of county-level data provided by the department of health and human services. In about 530 counties, only a single insurer is participating. The analysis suggests that the ambitions of the affordable care act to increase competition have unfolded unevenly, at least in the early going, and have not addressed many of the factors that contribute to high prices. Insurance companies are reluctant to enter challenging new markets, experts say, because medical costs are high, dominant insurers are difficult to unseat, and powerful hospital systems resist efforts to lower rates. \"there's nothing in the structure of the affordable care act which really deals with that problem, \" said john holahan, a fellow at the urban institute, who noted that many factors determine costs in a given market. \"i think that all else being equal, premiums will clearly be higher when there's not that competition. \" the obama administration has said 95 percent of americans live in areas where there are at least two insurers in the exchanges. But many experts say two might not be enough to create competition that would help lower prices. For example, in wyoming, two insurers are offering plans at prices that are higher than in neighboring montana, where a third carrier is seen as a factor in keeping prices lower. It is unclear how the online marketplaces might evolve over time. Many large insurers are closely",
@@ -732,7 +725,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -763,7 +756,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -910,12 +903,10 @@
     },
     {
         "idx": 45133,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Before regina king won an emmy monday night, there were an awful lot of white winners, which could be why james corden declared upon taking the stage before king's win, \" let's get it trending: #emmyssowhite. \" or it could be because corden took the stage after betty white was honored. Either way, the new yorker's emily nussbaum tweeted that the joke was met with \" nervous laughter. \" \" james corden's #emmyssowhite joke was funny and unfunny at the same time, \" tweeted black girl nerds after his joke, but many on twitter had already started tweeting the hashtag and pointing out the proliferation of white winners before corden's comment. ( for more emmys coverage: read about the opener, the night's winners, a buzzworthy red carpet sweatshirt, host michael che's \" reparation emmys, \" or a winner who used his acceptance speech time in an unusual way. )",
         "split": "val",
-        "cleansed_document": [
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
@@ -937,7 +928,7 @@
             "2": 3,
             "3": 3,
             "4": 3,
-            "5": 0
+            "5": 3
         }
     },
     {
@@ -967,12 +958,11 @@
     },
     {
         "idx": 45135,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When last week's flood hit upstate new york, the johnson city petco failed to evacuate its animals — and 100 drowned. The news made its way across the blogosphere ( see here for one example ), and now the village mayor has called for a police investigation to see whether the deaths could have been prevented, noting that he believes the store had enough warning to react. \"if someone was aware that those animals were in danger and didn't take the appropriate action to remove them to safety then that is a crime under new york state law \" and charges could be filed against management, he said, adding that some employees may have asked to take the animals home and been told they could not. On its company blog, petco called it a \"tragedy \" and says the company accepts responsibility and will \"take timely and appropriate steps to ensure that nothing like this can happen again. \" leaders from the company will meet with city officials later this week, wsyr reports, and peta is looking to get involved. Click for another flood-related animal tragedy.",
         "split": "val",
         "cleansed_document": [
-            "Johnson city ( wsyr-tv ) -- one hundred pets were left to drown at a petco in johnson city during last week's devastating flood. Johnson city police are now conducting an investigation into whether management could have prevented their deaths.after hearing the news, the village mayor told newschannel 9 he wanted police to investigate.johnson city mayor dennis hannon said, \"if someone was aware that those animals were in danger and didn't take the appropriate action to remove them to safety then that is a crime under nys law. \" mayor hannon said part of the investigation will include looking into claims that some employees wanted to bring the animals home because of the impending flood, but were told \"no \" by management. Johnson city was put under a state of emergency before the water levels got too high, giving -- what the mayor calls -- ample time for the company employees to react. If charges are filed, the mayor says they ' ll most likely be against the management at the store.\"i ' m personally reviewing the events that took place in our johnson city store and all of us at petco feel terrible that this tragedy occurred. We are truly saddened by what has happened, and accept full responsibility. We are working hard to do our best for the animals in our care and are studying the events surrounding this occurrence to ensure we",
-            "Flooding from hurricane irene and tropical storm lee has left a lot of northeastern residents underwater. From maine to new jersey, you can't go a day without reading a story about flood damage. They're all sad, but this one, this one today was just plain horrible... If not horrifying. A petco store in johnson city, new york was evacuated then beset by flood waters. When employees returned to the store for the first time on friday, they found not only wet floors, but 100 dead animals. From hamsters to birds, little pets perished by either drowning or starving -- the cause of death has yet to be confirmed. The saddest part is that these deaths could have been prevented. Had the manager or store officials been a little extra-cautious, perhaps they would have evacuated the whole store, not just the employees and a \" majority \" of the pets. The ones who weren't cleared out suffered a cruel and unusual fate. Petco's ceo says that the fact that store was new, and had never been through a flood before, was the reason they misjudged the risk of their location. If the flooding began on wednesday, and schools in the area were closing early due to the rising waters, why didn't an employee or petco manager think"
+            "Johnson city ( wsyr-tv ) -- one hundred pets were left to drown at a petco in johnson city during last week's devastating flood. Johnson city police are now conducting an investigation into whether management could have prevented their deaths.after hearing the news, the village mayor told newschannel 9 he wanted police to investigate.johnson city mayor dennis hannon said, \"if someone was aware that those animals were in danger and didn't take the appropriate action to remove them to safety then that is a crime under nys law. \" mayor hannon said part of the investigation will include looking into claims that some employees wanted to bring the animals home because of the impending flood, but were told \"no \" by management. Johnson city was put under a state of emergency before the water levels got too high, giving -- what the mayor calls -- ample time for the company employees to react. If charges are filed, the mayor says they ' ll most likely be against the management at the store.\"i ' m personally reviewing the events that took place in our johnson city store and all of us at petco feel terrible that this tragedy occurred. We are truly saddened by what has happened, and accept full responsibility. We are working hard to do our best for the animals in our care and are studying the events surrounding this occurrence to ensure we"
         ],
         "raw_document": [
             "Johnson city ( wsyr-tv ) -- one hundred pets were left to drown at a petco in johnson city during last week's devastating flood. Johnson city police are now conducting an investigation into whether management could have prevented their deaths.after hearing the news, the village mayor told newschannel 9 he wanted police to investigate.johnson city mayor dennis hannon said, \"if someone was aware that those animals were in danger and didn't take the appropriate action to remove them to safety then that is a crime under nys law. \" mayor hannon said part of the investigation will include looking into claims that some employees wanted to bring the animals home because of the impending flood, but were told \"no \" by management. Johnson city was put under a state of emergency before the water levels got too high, giving -- what the mayor calls -- ample time for the company employees to react. If charges are filed, the mayor says they ' ll most likely be against the management at the store.\"i ' m personally reviewing the events that took place in our johnson city store and all of us at petco feel terrible that this tragedy occurred. We are truly saddened by what has happened, and accept full responsibility. We are working hard to do our best for the animals in our care and are studying the events surrounding this occurrence to ensure we",
@@ -987,7 +977,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1074,13 +1064,12 @@
     },
     {
         "idx": 45139,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A terrorist attack on one or more churches in paris may only have been thwarted because the suspect couldn't handle a gun, according to french authorities. The country's interior minister says a 24-year-old algerian national was arrested on sunday after he apparently shot himself and called for an ambulance, the bbc reports. Police say they followed a blood trail to a car containing attack plans and loaded guns, the ap reports. A search of the suspect's apartment found more weapons and evidence of links to islamic extremism. The minister says the documents that police found leave no doubt that an attack was imminent, according to reuters. The man is also a suspect in the murder of a 32-year-old woman who was found dead in her car on sunday, the bbc reports.",
         "split": "val",
         "cleansed_document": [
             "Image copyright afp image caption the man was known to french intelligence services french police have arrested a man suspected of planning an attack on \" one or two churches \" in a paris suburb, the country's interior minister has said. Sid ahmed ghlam, a 24-year-old algerian national, was detained on sunday in paris after he apparently shot himself by accident and called an ambulance. He is also being questioned over the murder of a woman on sunday. France has stepped up security in the wake of recent attacks on the charlie hebdo offices and a jewish supermarket. Ghlam was known to security services as having expressed a wish to travel to syria to fight with islamist militants, french interior minister bernard cazeneuve said. When police arrived at the scene on sunday, they followed a trail of blood to the suspect's car, where they found weapons and notes on potential targets",
-            "Paris ( ap ) — an islamic extremist with an arsenal of heavy weapons planned an imminent attack on one or more french churches, france's top security official said wednesday, announcing the arrest of the man who is also accused in the death of a young mother. The 24-year-old computer science student was flagged as a risk by security officials last year, said interior minister bernard cazeneuve. A french security official, who was not authorized to publicly release details of the arrest, said the suspect — an algerian who had lived in france for several years — was arrested sunday after he apparently shot himself by accident and called for an ambulance. Police who arrived at the scene found a blood trail leading to his car, with loaded guns and notes about potential targets inside. In the man's apartment, in southeastern paris, more weapons were found as well as evidence",
-            "Aurelie chatelain, in this photograph provided by the caudry city hall april 22, 2015, is seen during a sporting event in caudry on april 11, 2015. Members of the media work as paris prosecutor francois molins ( r ) and christian flaesch, director of the paris ' judiciary police, attend a news conference at the courthouse in paris, april 22, 2015. French president francois hollande ( r ) speaks with interior minister bernard cazeneuve ( c ) and prime minister manuel valls at the end of the weekly cabinet meeting at the elysee palace in paris, april 22, 2015. French soldiers patrol outside the notre dame cathedral as part of the ' vigipirate'security plan in paris, april 22, 2015. General view of the emergency entrance to the hotel dieu hospital in paris april 22, 2015. Paris an algerian man suspected of planning an imminent attack on a church has been arrested"
+            "Paris ( ap ) — an islamic extremist with an arsenal of heavy weapons planned an imminent attack on one or more french churches, france's top security official said wednesday, announcing the arrest of the man who is also accused in the death of a young mother. The 24-year-old computer science student was flagged as a risk by security officials last year, said interior minister bernard cazeneuve. A french security official, who was not authorized to publicly release details of the arrest, said the suspect — an algerian who had lived in france for several years — was arrested sunday after he apparently shot himself by accident and called for an ambulance. Police who arrived at the scene found a blood trail leading to his car, with loaded guns and notes about potential targets inside. In the man's apartment, in southeastern paris, more weapons were found as well as evidence"
         ],
         "raw_document": [
             "Image copyright afp image caption the man was known to french intelligence services french police have arrested a man suspected of planning an attack on \" one or two churches \" in a paris suburb, the country's interior minister has said. Sid ahmed ghlam, a 24-year-old algerian national, was detained on sunday in paris after he apparently shot himself by accident and called an ambulance. He is also being questioned over the murder of a woman on sunday. France has stepped up security in the wake of recent attacks on the charlie hebdo offices and a jewish supermarket. Ghlam was known to security services as having expressed a wish to travel to syria to fight with islamist militants, french interior minister bernard cazeneuve said. When police arrived at the scene on sunday, they followed a trail of blood to the suspect's car, where they found weapons and notes on potential targets",
@@ -1097,7 +1086,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1125,7 +1114,7 @@
         "vote_count": {
             "0": 2,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1178,7 +1167,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1228,18 +1217,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 45145,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Outlaw motorcycle gangs are in the spotlight after sunday's slaughter in waco, though law enforcement officials say they've been thriving for many years out of the public eye. \" these guys have never gone away. I ' m shocked that people are shocked that this happened, \" the atf's los angeles chief tells the wall street journal. He was part of a team that infiltrated the hells angels more than a decade ago. The hells angels, along with the bandidos, are among the biggest outlaw groups in the us, but the justice department says there are more than 300 active ones, the journal reports. The waco shootout is believed to have stemmed from a bandidos-cossacks feud over the latter club's wearing of a \" texas \" patch. Police in waco have called for a truce between biker factions, the waco tribune-herald reports. A police spokesman says the fighting on sunday appears to have started after a biker's foot was run over outside the twin peaks restaurant, though he adds that investigators are finding witnesses and suspects deceptive. Around 170 bikers charged with engaging in organized crime are still in custody, though the wife of one of them tells the ap plenty of innocent bikers were rounded up. She says her husband — a member of the vise grip club — had just arrived when the shooting started. He took off and was arrested when he came back for his bike, she says. Police arrested all sorts of \" nonviolent, noncriminal people, \" she says. \" i mean, they got the bikers for christ guys in there. \"",
         "split": "val",
         "cleansed_document": [
             "Waco, texas ( ap ) — a deadly weekend shootout involving rival motorcycle gangs apparently began with a parking dispute and someone running over a gang member's foot, police said tuesday. This combination of booking photos provided by the mclennan county sheriff's office shows people arrested during the motorcycle gang related shooting at the twin peaks restaurant in waco, texas, sunday,... ( associated press ) law enforcement officers stand on top of a twin peaks restaurant tuesday, may, 19, 2015, in waco, texas. A deadly weekend shootout involving rival motorcycle gangs at the restaurant apparently began with... ( associated press ) a law enforcement officer photographs a vehicle in the rear parking lot of a twin peaks restaurant tuesday, may, 19, 2015, in waco, texas. A deadly weekend shootout involving rival motorcycle gangs apparently... ( associated press ) waco police and other law enforcement agencies recover a weapon from a vehicle in the parking lot of a twin peaks restaurant tuesday, may, 19, 2015, in waco, texas. A deadly weekend shootout involving... ( associated press ) this combination of booking photos provided by the mclennan county sheriff's office shows people arrested during the motorcycle gang related shooting at the twin peaks restaurant in waco, texas, sunday,... ( associated press ) law enforcement officers use dogs to search parked cars located in part of the central texas marketplace tuesday, may 19, 2015, in waco, texas. A deadly weekend shootout involving rival motorcycle gangs... ( associated press ) this combination of booking photos provided by the mclennan county sheriff's office shows people arrested during the motorcycle gang related shooting at the twin peaks restaurant in waco, texas, sunday,... ( associated press ) this combination of booking photos provided by the mclennan county sheriff's office shows people arrested during the motorcycle gang related shooting at the twin peaks restaurant in waco, texas, sunday,... ( associated press ) a law enforcement officer uses a rifle to break the window of a vehicle in",
-            "The biker brawl in waco, texas, that left nine dead and 18 others injured on sunday served as a reminder that motorcycle gangs remain a force in the u.s., an outlaw subculture steeped in its own mythology. The justice department estimates there are still more than 300 outlaw motorcycle gangs in the u.s. One of the gangs involved in the texas melee, the bandidos, is among the country's largest, along with the hells angels. Each has...",
-            "Sorry, this zipcode is not in our deliverable area for this subscription service. Re-enter zip code or sign up for digital access. Get digital access"
+            "The biker brawl in waco, texas, that left nine dead and 18 others injured on sunday served as a reminder that motorcycle gangs remain a force in the u.s., an outlaw subculture steeped in its own mythology. The justice department estimates there are still more than 300 outlaw motorcycle gangs in the u.s. One of the gangs involved in the texas melee, the bandidos, is among the country's largest, along with the hells angels. Each has..."
         ],
         "raw_document": [
             "Waco, texas ( ap ) — a deadly weekend shootout involving rival motorcycle gangs apparently began with a parking dispute and someone running over a gang member's foot, police said tuesday. This combination of booking photos provided by the mclennan county sheriff's office shows people arrested during the motorcycle gang related shooting at the twin peaks restaurant in waco, texas, sunday,... ( associated press ) law enforcement officers stand on top of a twin peaks restaurant tuesday, may, 19, 2015, in waco, texas. A deadly weekend shootout involving rival motorcycle gangs at the restaurant apparently began with... ( associated press ) a law enforcement officer photographs a vehicle in the rear parking lot of a twin peaks restaurant tuesday, may, 19, 2015, in waco, texas. A deadly weekend shootout involving rival motorcycle gangs apparently... ( associated press ) waco police and other law enforcement agencies recover a weapon from a vehicle in the parking lot of a twin peaks restaurant tuesday, may, 19, 2015, in waco, texas. A deadly weekend shootout involving... ( associated press ) this combination of booking photos provided by the mclennan county sheriff's office shows people arrested during the motorcycle gang related shooting at the twin peaks restaurant in waco, texas, sunday,... ( associated press ) law enforcement officers use dogs to search parked cars located in part of the central texas marketplace tuesday, may 19, 2015, in waco, texas. A deadly weekend shootout involving rival motorcycle gangs... ( associated press ) this combination of booking photos provided by the mclennan county sheriff's office shows people arrested during the motorcycle gang related shooting at the twin peaks restaurant in waco, texas, sunday,... ( associated press ) this combination of booking photos provided by the mclennan county sheriff's office shows people arrested during the motorcycle gang related shooting at the twin peaks restaurant in waco, texas, sunday,... ( associated press ) a law enforcement officer uses a rifle to break the window of a vehicle in",
@@ -1256,7 +1244,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1533,7 +1521,7 @@
             "0": 1,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1646,12 +1634,11 @@
     },
     {
         "idx": 45160,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "America's top labor and business groups reached an agreement last night over the final sticking point in overhauling the country's immigration laws, the washington post reports. Talking to sen. Charles schumer on a conference call, the afl-cio's boss and the president of the us chamber of commerce agreed in principle on a visa program for foreign workers. All eight senators involved in drafting the bill have not yet signed off, but may soon because they were briefed as negotiations developed, a source tells the post. Businesses had wanted 400,000 new visas in the program, but labor wanted a much lower number to protect the benefits and wages of us workers. The senate had proposed allowing 20,000 low-skilled guest workers in the first year, 75,000 by 2020, and 200,000 after several more years, according to insiders. Capital and labor have also agreed on a pay scale for low-skilled immigrant workers, pegging it at the prevailing industry wage used in the last foreign worker program, reports the new york times.",
         "split": "val",
         "cleansed_document": [
-            "Labor and business leaders have agreed in principle on the details of a new visa program for low-skilled foreign workers, clearing the last major hurdle for a bipartisan senate proposal to overhaul the nation's immigration laws, a person involved in the negotiations said saturday. The agreement came late friday after several days of negotiations between the u.s. Chamber of commerce and the afl-cio, the country's largest labor organization, as well as the eight senators involved in drafting the comprehensive immigration bill. The two sides agreed on how to overcome the final sticking points, including how much the foreign workers would be paid and which industries would be exempt from the guest-worker program. Final approval came in a phone call friday night arranged by sen. Charles e. Schumer ( d-n.y. ) with chamber president thomas donohue and afl-cio head richard trumka, said the person involved in the talks, who spoke on the condition of anonymity to discuss private deliberations. Trumka said in a statement saturday night: \"we have created a new model, a modern visa system that includes both a bureau to collect and analyze labor market data, as well as significant worker protections. \" he also reiterated the afl-cio's support for the overall reform effort, including the path to citizenship for undocumented migrants. But the complexity of the matter was highlighted when one member of the business community",
-            "The accord between the influential business and labor groups all but assured that the bipartisan group of senators would introduce their broad immigration legislation in the next few weeks. Their bill, which they have been meeting about several times a week since the november election, would provide a path to citizenship for the 11 million illegal immigrants already in the country. It would also take steps to secure the nation's borders. Advertisement continue reading the main story a similar bipartisan group in the house has been meeting on and off for nearly four years, and hopes to unveil its own immigration legislation shortly. The agreement resolved what the pay level should be for low-skilled immigrants — often employed at hotels and restaurants or on construction projects — who could be brought in during labor shortages. Labor groups wanted to ensure that guest workers would not be paid less than the median wage in their respective industries, and the two sides compromised by agreeing that guest workers would be paid the higher of the prevailing industry wage as determined by the labor department or the actual employer wage. Photo under the deal, guest workers would be allowed to pursue a path to citizenship and to change jobs after they arrived in the united states. Another sticking point, involving the specific type of jobs that would be included in the guest worker program, was also resolved"
+            "Labor and business leaders have agreed in principle on the details of a new visa program for low-skilled foreign workers, clearing the last major hurdle for a bipartisan senate proposal to overhaul the nation's immigration laws, a person involved in the negotiations said saturday. The agreement came late friday after several days of negotiations between the u.s. Chamber of commerce and the afl-cio, the country's largest labor organization, as well as the eight senators involved in drafting the comprehensive immigration bill. The two sides agreed on how to overcome the final sticking points, including how much the foreign workers would be paid and which industries would be exempt from the guest-worker program. Final approval came in a phone call friday night arranged by sen. Charles e. Schumer ( d-n.y. ) with chamber president thomas donohue and afl-cio head richard trumka, said the person involved in the talks, who spoke on the condition of anonymity to discuss private deliberations. Trumka said in a statement saturday night: \"we have created a new model, a modern visa system that includes both a bureau to collect and analyze labor market data, as well as significant worker protections. \" he also reiterated the afl-cio's support for the overall reform effort, including the path to citizenship for undocumented migrants. But the complexity of the matter was highlighted when one member of the business community"
         ],
         "raw_document": [
             "Labor and business leaders have agreed in principle on the details of a new visa program for low-skilled foreign workers, clearing the last major hurdle for a bipartisan senate proposal to overhaul the nation's immigration laws, a person involved in the negotiations said saturday. The agreement came late friday after several days of negotiations between the u.s. Chamber of commerce and the afl-cio, the country's largest labor organization, as well as the eight senators involved in drafting the comprehensive immigration bill. The two sides agreed on how to overcome the final sticking points, including how much the foreign workers would be paid and which industries would be exempt from the guest-worker program. Final approval came in a phone call friday night arranged by sen. Charles e. Schumer ( d-n.y. ) with chamber president thomas donohue and afl-cio head richard trumka, said the person involved in the talks, who spoke on the condition of anonymity to discuss private deliberations. Trumka said in a statement saturday night: \"we have created a new model, a modern visa system that includes both a bureau to collect and analyze labor market data, as well as significant worker protections. \" he also reiterated the afl-cio's support for the overall reform effort, including the path to citizenship for undocumented migrants. But the complexity of the matter was highlighted when one member of the business community",
@@ -1666,7 +1653,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1727,7 +1714,7 @@
             "1": 2,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1766,12 +1753,11 @@
     },
     {
         "idx": 45164,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A smithfield foods employee has been suspended and 50,000 pounds of meat have been tossed in the garbage after surveillance video appeared to show the worker urinating on the production line at the smithfield, va., packaging plant. The employee can be seen removing his gloves, apparently peeing while leaning up against the counter, then putting the gloves back on and going back to work, wavy reports. The incident happened over the weekend, and on tuesday smithfield released a statement saying an internal investigation \" revealed an employee had urinated at his station \" but assuring customers that \" the facility immediately halted production, fully cleaned the processing line, and sanitized all equipment multiple times before resuming operations. \" the employee's fate will be decided after a company investigation is complete, the virginian-pilot reports. ( smithfield has been involved in other gross headlines. )",
         "split": "val",
         "cleansed_document": [
-            "Smithfield employee accused of urinating on production line video video smithfield, va. ( wavy ) - a smithfield foods employee is accused of urinating on the production line. The incident happened over the weekend at the packing plant in smithfield. 10 on your side was given video of the employee, who appears to take off his gloves and pee on the production line. The employee leans up against the counter and relieves himself. He then puts the gloves back on and continues working. On tuesday, smithfield officials released a statement confirming the incident. Lisa martin with smithfield foods says it was an isolated incident. In accordance with smithfield's food safety and quality standards, more than 50,000 pounds of product were disposed of following a swift internal investigation that revealed an employee had urinated at his station during the production process, \" martin said. \" the facility immediately halted production, fully cleaned the processing line, and sanitized all equipment multiple times before resuming operations. \" martin says the employee has been suspended pending the outcome of a complete investigation. \" the facility and its employees ' immediate response and corrective actions to this isolated incident reflect the company's commitment to ensuring the safety and quality of its products, \" martin added. \" the safety and quality of our foods is fundamental to our success as a company. \" 10 on your side was in contact throughout the day with the usda. We're told the food safety and inspection service is looking into the matter and will determine any future actions.",
-            "Norfolk, va ( 23510 ) today a mix of clouds and sun during the morning will give way to cloudy skies this afternoon. High 47f. Winds ene at 10 to 15 mph.. Tonight cloudy with occasional showers overnight. Low 41f. Winds sse at 5 to 10 mph. Chance of rain 50 %."
+            "Smithfield employee accused of urinating on production line video video smithfield, va. ( wavy ) - a smithfield foods employee is accused of urinating on the production line. The incident happened over the weekend at the packing plant in smithfield. 10 on your side was given video of the employee, who appears to take off his gloves and pee on the production line. The employee leans up against the counter and relieves himself. He then puts the gloves back on and continues working. On tuesday, smithfield officials released a statement confirming the incident. Lisa martin with smithfield foods says it was an isolated incident. In accordance with smithfield's food safety and quality standards, more than 50,000 pounds of product were disposed of following a swift internal investigation that revealed an employee had urinated at his station during the production process, \" martin said. \" the facility immediately halted production, fully cleaned the processing line, and sanitized all equipment multiple times before resuming operations. \" martin says the employee has been suspended pending the outcome of a complete investigation. \" the facility and its employees ' immediate response and corrective actions to this isolated incident reflect the company's commitment to ensuring the safety and quality of its products, \" martin added. \" the safety and quality of our foods is fundamental to our success as a company. \" 10 on your side was in contact throughout the day with the usda. We're told the food safety and inspection service is looking into the matter and will determine any future actions."
         ],
         "raw_document": [
             "Smithfield employee accused of urinating on production line video video smithfield, va. ( wavy ) - a smithfield foods employee is accused of urinating on the production line. The incident happened over the weekend at the packing plant in smithfield. 10 on your side was given video of the employee, who appears to take off his gloves and pee on the production line. The employee leans up against the counter and relieves himself. He then puts the gloves back on and continues working. On tuesday, smithfield officials released a statement confirming the incident. Lisa martin with smithfield foods says it was an isolated incident. In accordance with smithfield's food safety and quality standards, more than 50,000 pounds of product were disposed of following a swift internal investigation that revealed an employee had urinated at his station during the production process, \" martin said. \" the facility immediately halted production, fully cleaned the processing line, and sanitized all equipment multiple times before resuming operations. \" martin says the employee has been suspended pending the outcome of a complete investigation. \" the facility and its employees ' immediate response and corrective actions to this isolated incident reflect the company's commitment to ensuring the safety and quality of its products, \" martin added. \" the safety and quality of our foods is fundamental to our success as a company. \" 10 on your side was in contact throughout the day with the usda. We're told the food safety and inspection service is looking into the matter and will determine any future actions.",
@@ -1786,7 +1772,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1861,7 +1847,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1953,7 +1939,7 @@
             "1": 0,
             "2": 0,
             "3": 5,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1986,7 +1972,7 @@
             "1": 1,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -2014,7 +2000,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2094,13 +2080,12 @@
     },
     {
         "idx": 45176,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Rumor in the tech world has it that steve jobs will be bringing out as many tablets as moses this year. Apple hasn't even admitted that the ipad 2 exists — although plenty of details have been leaked — but the ipad 3 could well be on its way already this fall, according to techcrunch. Sources say that the ipad 2 will be available within weeks, to be followed by apple's \" fall surprise \" — a third version of the tablet, likely incorporating the iphone 4's retina-like display. Apple is known for sticking fairly rigidly to product development cycles, notes the huffington post, so why bring out two ipad models within 6 months? it could be an attempt to outflank hp's upcoming touchpad tablet, speculates john gruber at daring fireball. \" if my theory is right, they're not only going to be months behind the ipad 2, but if they slip until late summer, they might bump up against the release of the ipad 3, \" he writes.",
         "split": "val",
         "cleansed_document": [
             "According to techcrunch and daring fireball, apple may be planning to unveil the ipad 3 later this fall. If the rumors are true, the appearance of this next-next-generation tablet would be a surprise, especially as it would come so shortly after the ipad 2, and as apple usually sticks rigidly to its product development cycles. Given that the original ipad went on sale in april, apple would be expected to release the second version of the tablet around the same time a year later. We've now heard that this \" fall surprise \" is related to this would-be ipad 3. We don't have any more concrete information beyond that. But, as of right now, the plan is apparently to release one iteration of the ipad in the next few weeks. And then blow the doors open with another new version in the fall. [... ] but apple has a history of not resting on their laurels. That's perhaps",
-            "Yes, apple is lining up for a \" surprise \" this fall. And yes, it's likely an \" ipad 3 \" the following may sound a little crazy considering that the ipad 2 has not even been acknowledged or introduced by apple yet. But from what we're hearing, the next iteration of the ipad — let's call it \"ipad 3 \" to keep it simple — may be coming along sooner than people realize. Earlier today, hp held a big event in san francisco to unveil their latest products based around the webos software that they acquired when they bought palm last year. One of these devices is a tablet, called touchpad. The device looks like an ipad, but it has better specs. As such, some are already wondering if it's a possible \"ipad-killer \". Of course, the main problem is that the planned availability of the touchpad isn't until this summer. (",
-            "The software looks great, it really does, but: planned availability this summer. Summer feels like a long time away. If my theory is right, they're not only going to be months behind the ipad 2, but if they slip until late summer, they might bump up against the release of the ipad 3. And not only did they announce this with a distant ship date, they did it with no word on pricing. ( maybe the \"palm \" brand isn't dead? the touchpad page is hosted at palm.com. They've got pages for the veer and pre 3, too. None of these three products are shipping. And still no webos phone without a hardware keyboard. ) ★ wednesday, 9 february 2011"
+            "Yes, apple is lining up for a \" surprise \" this fall. And yes, it's likely an \" ipad 3 \" the following may sound a little crazy considering that the ipad 2 has not even been acknowledged or introduced by apple yet. But from what we're hearing, the next iteration of the ipad — let's call it \"ipad 3 \" to keep it simple — may be coming along sooner than people realize. Earlier today, hp held a big event in san francisco to unveil their latest products based around the webos software that they acquired when they bought palm last year. One of these devices is a tablet, called touchpad. The device looks like an ipad, but it has better specs. As such, some are already wondering if it's a possible \"ipad-killer \". Of course, the main problem is that the planned availability of the touchpad isn't until this summer. ("
         ],
         "raw_document": [
             "According to techcrunch and daring fireball, apple may be planning to unveil the ipad 3 later this fall. If the rumors are true, the appearance of this next-next-generation tablet would be a surprise, especially as it would come so shortly after the ipad 2, and as apple usually sticks rigidly to its product development cycles. Given that the original ipad went on sale in april, apple would be expected to release the second version of the tablet around the same time a year later. We've now heard that this \" fall surprise \" is related to this would-be ipad 3. We don't have any more concrete information beyond that. But, as of right now, the plan is apparently to release one iteration of the ipad in the next few weeks. And then blow the doors open with another new version in the fall. [... ] but apple has a history of not resting on their laurels. That's perhaps",
@@ -2117,7 +2102,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2150,13 +2135,12 @@
     },
     {
         "idx": 45178,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Can a whip as long as six football fields destroy some of the 500,000 pieces of space junk spinning around earth at 17,500 miles per hour? japan's space agency sure hopes so. Jaxa launched its kounotori 6 spacecraft on friday with tons of supplies bound for the international space station, where it's expected to arrive on wednesday, reports npr. Also on board is a 2,300-feet electrodynamic tether, or edt, made of aluminum and steel, in the works for more than a decade. Jaxa says it will use an electric current and earth's magnetic field to slow down debris and shove it out of orbit and toward earth's atmosphere, where it will burn up. The edt and the kounotori, which will also carry waste from the iss, will then meet the same fate. It's unclear how many pieces of space junk might be destroyed using the edt, but this is mostly a test. If all goes well, jaxa plans to create a second tether up to six miles in length, reports bloomberg. The bbc notes this is one of a few efforts underway to tackle space junk, which poses hazards for astronauts and their equipment. In may, for example, a tiny piece of space junk — possibly a speck of paint — chipped a window in the iss ' cupola observatory, reports christian science monitor. As the iss wouldn't stand a chance against some debris as large as a bus, it has to be moved to avoid an impact, says project chief koichi inoue. Kounotori's edt \" is a promising candidate to deorbit the debris objects at low cost, \" jaxa says. ( you can now adopt space junk. )",
         "split": "val",
         "cleansed_document": [
             "Japan's jaxa space agency launched a cargo shuttle carrying more than four tons of food, water, and supplies to the international space station on friday. And, there's a really long whip. Japan's h-iib rocket with a capsule called kounotori, or stork, lifts off at the tanegashima space center in tanegashima, southern japan, on friday. The japanese capsule contains nearly 5 tons of food, water and other supplies, including new lithium-ion batteries for the international space station's solar power system. Japan's space program, jaxa, soars this weekend after its robotic cargo spacecraft began its four-day journey to the international space station ( iss ) on friday. Onboard the spacecraft, called kounotori ( after the japanese word for \"white stork \" ), are more than four tons of cargo, including jaxa's massive debris clearing space whip and",
-            "Japan sends long electric whip into orbit, to tame space junk enlarge this image toggle caption jaxa jaxa a cable that's as long as six football fields has been launched into orbit — and when it's deployed, it ' ll test an idea to knock out orbital debris. Japan's space agency sent the electrodynamic tether into space along with supplies for the international space station. Reels aboard the japan aerospace exploration agency's kounotori 6 craft will deploy the 700-meter ( 2,296 feet ) tether, essentially unspooling a clothesline in space that could help clean up the roughly 20,000 pieces of potentially hazardous space debris that are tracked by systems on earth. Those pieces of junk are dangerous enough on their own — but they can also generate thousands more smaller pieces of debris if they collide, creating even more risk to the space station and satellites orbiting the earth. With",
-            "Space isn't so empty these days. Earth's orbit is cluttered with more than half a million bits of debris, mostly rocket and satellite remnants that can wreck anything in their flight path. A 106-year-old japanese fishing net maker may have a solution. Nitto seimo co. Is working with japan's space agency to develop a mesh material to tether and drag bus-size pieces of space junk into the atmosphere for incineration. Scientists will get their first indication of whether the metallic line will work when it's tested in orbit next month, said project chief koichi inoue, an associate principal researcher at the japan aerospace exploration agency. Read more about asia's space race ➝ the experiment is part of an international cleanup effort planning to safeguard astronauts and about $ 900 billion worth of space stations, satellites and other infrastructure relied on for telecommunications, weather forecasting, earth-monitoring"
+            "Japan sends long electric whip into orbit, to tame space junk enlarge this image toggle caption jaxa jaxa a cable that's as long as six football fields has been launched into orbit — and when it's deployed, it ' ll test an idea to knock out orbital debris. Japan's space agency sent the electrodynamic tether into space along with supplies for the international space station. Reels aboard the japan aerospace exploration agency's kounotori 6 craft will deploy the 700-meter ( 2,296 feet ) tether, essentially unspooling a clothesline in space that could help clean up the roughly 20,000 pieces of potentially hazardous space debris that are tracked by systems on earth. Those pieces of junk are dangerous enough on their own — but they can also generate thousands more smaller pieces of debris if they collide, creating even more risk to the space station and satellites orbiting the earth. With"
         ],
         "raw_document": [
             "Japan's jaxa space agency launched a cargo shuttle carrying more than four tons of food, water, and supplies to the international space station on friday. And, there's a really long whip. Japan's h-iib rocket with a capsule called kounotori, or stork, lifts off at the tanegashima space center in tanegashima, southern japan, on friday. The japanese capsule contains nearly 5 tons of food, water and other supplies, including new lithium-ion batteries for the international space station's solar power system. Japan's space program, jaxa, soars this weekend after its robotic cargo spacecraft began its four-day journey to the international space station ( iss ) on friday. Onboard the spacecraft, called kounotori ( after the japanese word for \"white stork \" ), are more than four tons of cargo, including jaxa's massive debris clearing space whip and",
@@ -2173,7 +2157,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2234,7 +2218,7 @@
             "0": 0,
             "1": 5,
             "2": 2,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2261,7 +2245,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2322,17 +2306,16 @@
             "0": 0,
             "1": 3,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 45184,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A straight woman is auctioning off her right to marry on ebay in response to the new york state senate's rejection of a gay marriage bill. Alas, jamie frevele can't actually auction off the right guaranteed her by way of her heterosexual birth, the frisky notes. But the money she raises for a group that mentors lgbt youth will be real. \"i have no official documentation because this is something i was born with since i was born heterosexual, \" frevele writes in her ebay statement. \"unfortunately, this is only a symbolic gesture … your bid, on the other hand, is real, and the donation you make to an organization that supports those who have been treated as second-class citizens will be well worth it. \" with three days to go on the auction, the current bid is $ 307.",
         "split": "val",
         "cleansed_document": [
-            "How cool! a straight woman named jamie frevele is auctioning off her right to marry on ebay after new york state voted not to grant homosexual couples the right to gay marriage. Of course, a person can't actually transfer a right on ebay, but all the money frevele does earn off her ebay auction will go to the point foundation, which provides financial support, mentoring and leadership training to students who are marginalized by their sexual orientation. Says her ebay listing: i will write you up a fancy, wonderful, articulate proclamation handing over my right to get married. I have no official documentation because this is something i was born with since i was born heterosexual. Unfortunately, this is only a symbolic gesture … your bid, on the other hand, is real, and the donation you make to an organization that supports those who have been treated as second-class citizens will be well worth it. You've got four days left to bid — and hey, now might be a good time to do your holiday charity donation! [ ebay ]",
-            "Please check that you've entered the correct item number listings that have ended 90 or more days ago will not be available for viewing. This listing ( ) has been removed, or this item is not available."
+            "How cool! a straight woman named jamie frevele is auctioning off her right to marry on ebay after new york state voted not to grant homosexual couples the right to gay marriage. Of course, a person can't actually transfer a right on ebay, but all the money frevele does earn off her ebay auction will go to the point foundation, which provides financial support, mentoring and leadership training to students who are marginalized by their sexual orientation. Says her ebay listing: i will write you up a fancy, wonderful, articulate proclamation handing over my right to get married. I have no official documentation because this is something i was born with since i was born heterosexual. Unfortunately, this is only a symbolic gesture … your bid, on the other hand, is real, and the donation you make to an organization that supports those who have been treated as second-class citizens will be well worth it. You've got four days left to bid — and hey, now might be a good time to do your holiday charity donation! [ ebay ]"
         ],
         "raw_document": [
             "How cool! a straight woman named jamie frevele is auctioning off her right to marry on ebay after new york state voted not to grant homosexual couples the right to gay marriage. Of course, a person can't actually transfer a right on ebay, but all the money frevele does earn off her ebay auction will go to the point foundation, which provides financial support, mentoring and leadership training to students who are marginalized by their sexual orientation. Says her ebay listing: i will write you up a fancy, wonderful, articulate proclamation handing over my right to get married. I have no official documentation because this is something i was born with since i was born heterosexual. Unfortunately, this is only a symbolic gesture … your bid, on the other hand, is real, and the donation you make to an organization that supports those who have been treated as second-class citizens will be well worth it. You've got four days left to bid — and hey, now might be a good time to do your holiday charity donation! [ ebay ]",
@@ -2347,7 +2330,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2519,7 +2502,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2553,14 +2536,13 @@
     },
     {
         "idx": 45192,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Sounds like sen. Lindsey graham is pretty much in for election 2016, but you ' ll have to wait until june 1 to find out for sure. The hosts of cbs this morning noted that the senator, a guest today, has said there's a \" 99.9 % chance \" he ' ll run for president, and graham said he ' ll announce june 1 in south carolina. He was then asked if he's running because he thinks he's bringing foreign policy experience to the table, and he responded: \" i ' m running because of what you see on television. I ' m running because i think the world is falling apart. I've been more right than wrong on foreign policy. It's not the fault of others, or their lack of this or that, that makes me want to run; it's my ability in my own mind to be a good commander in chief and to make washington work. \" as for that \" 99.9 % \" comment, graham made it to south carolina house republicans last week, the state reported. \" and i ' m going to run about what i ' m going to do, not what i ' m against, \" he told a caucus meeting. The week prior, graham told buzzfeed he was \" 98.6 % sure \" he would run. And politico reported earlier this month that graham was likely to announce a presidential run june 1 from south carolina, noting that the location \" would enable the gop senator to highlight a compelling personal story not widely known outside his home state. \" ( his parents, who ran a pool hall where he was raised, died young, and he helped bring up his sister while also attending college and serving in the air force. ) msnbc notes that graham emailed supporters yesterday with this line: \" as an announcement draws near, i need to know you stand with me, \" as well as an invitation to donate money.",
         "split": "val",
         "cleansed_document": [
             "May 18, 2015, 1: 05 am &#124; the republican senator from south carolina says on \" cbs this morning \" that he would officially announce whether he ' ll be running for president on june 1. Graham says he's been more \" right than wrong on foreign policy. \"",
             "Republican sen. Lindsey graham said on monday that he will make his presidential ambitions known on june 1 in south carolina. \"you're all invited to come, spend money when you do, and i will tell you what i \" m going to do about running for president, \" graham said on \"cbs this morning. \" graham all but confirmed that he will jump in the race, saying in the interview, \"i ' m running because of what you see on television. I ' m running because i think the world is falling apart. I've done more right than wrong",
-            "Lindsey graham is telling donors that june 1 is the likely date for his presidential announcement, according to several sources familiar with the conversations. The announcement would likely take place in south carolina, possibly near his home base of seneca, according to the sources, which would enable the gop senator to highlight a compelling personal story not widely known outside his home state. Story continued below graham grew up in nearby central, s.c., in the back of a pool hall run by his parents, who died young. He helped raise his sister while going to college and serving in the air",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web."
+            "Lindsey graham is telling donors that june 1 is the likely date for his presidential announcement, according to several sources familiar with the conversations. The announcement would likely take place in south carolina, possibly near his home base of seneca, according to the sources, which would enable the gop senator to highlight a compelling personal story not widely known outside his home state. Story continued below graham grew up in nearby central, s.c., in the back of a pool hall run by his parents, who died young. He helped raise his sister while going to college and serving in the air"
         ],
         "raw_document": [
             "May 18, 2015, 1: 05 am &#124; the republican senator from south carolina says on \" cbs this morning \" that he would officially announce whether he ' ll be running for president on june 1. Graham says he's been more \" right than wrong on foreign policy. \"",
@@ -2581,7 +2563,7 @@
             "1": 3,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -2661,7 +2643,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2686,7 +2668,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {

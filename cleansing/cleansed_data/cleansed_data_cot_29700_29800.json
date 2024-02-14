@@ -46,17 +46,16 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 29702,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The prosecution rested its case today in the john edwards trial, with testimony providing a glimpse at just how sky-high his political ambitions were just a few years ago, notes politico: vice president: as soon as he lost the iowa caucuses in 2008, he reached out to barack obama's camp to trade his endorsement for the vp slot. He didn't contact hillary clinton because he thought a presidential victory by her would be a \" disaster, \" said former edwards adviser leo hinderly. Supreme court: if he didn't get the vp slot, he talked about becoming attorney general, with the larger ambition of landing a seat on the supreme court. Prosecutors also said the edwards campaign spent $ 319,000 to hide his affair with rielle hunter, reports ap, money that went toward \" luxury hotels, private jets, and a $ 20,000-a-month rental mansion in santa barbara. \" tomorrow, the defense will ask that the case be dismissed. Assuming that formality goes nowhere, edwards ' attorneys are expected to present their case starting monday.",
         "split": "train",
         "cleansed_document": [
-            "Prosecutors rested their case against john edwards on thursday after calling to the witness stand some of his closest friends and advisers, many of whom gave unflattering testimony about the former presidential candidate whose once-promising political career collapsed amid a sex scandal. Former presidential candidate and sen. John edwards arrives at a federal courthouse in greensboro, n.c., wednesday, may 9, 2012. Edwards is accused of conspiring to secretly obtain more than $ 900,000... ( associated press ) former presidential candidate and sen. John edwards and his daughter, cate edwards, arrive at a federal courthouse in greensboro, n.c., wednesday, may 9, 2012. Edwards is accused of conspiring to secretly... ( associated press ) edwards is accused of being the mastermind behind a plan to use secret payments from two wealthy campaign donors to hide his pregnant mistress as he sought the white house in 2008. The trial centers on whether edwards knew what the money was being used for, and when he knew it. While the past 14 days of testimony has focused on the money trail, the trial has also revisited edwards ' breathtaking fall. He had an affair with rielle hunter, a videographer on his campaign, as he renewed his marriage vows to his cancer-stricken wife. He fathered a child with hunter and then a decision was made for his right-hand man to claim paternity so edwards could",
-            "Greensboro, n.c. — federal prosecutors closed their case against former sen. John edwards thursday afternoon with a direct play for the jury: showing the august 2008 national television interview in which he publicly acknowledged having an extramarital affair but boldly lied about its duration, whether he had fathered a child and whether he'd told his family the full truth. The 20-minute \"nightline \" video, in which edwards makes at least a dozen statements now established to be false, served as a powerful reminder of edwards's dishonesty and his refined ability to appear convincing when stating things that are simply untrue. Text size - + reset the video's relevance to the criminal charges against edwards and to the weaknesses in the prosecution case is less clear. The defense has already admitted that the former senator lied in the interview. Other witnesses have testified that edwards told them he did so to protect his family, particularly his ailing wife elizabeth, from further pain. During testimony earlier thursday about telephone records and credit card bills, some of the jurors seemed to have their eyes closed for significant stretches. But most were clearly riveted by the televised encounter between abc's bob woodruff and edwards at the former senator's north carolina home. In the interview, edwards conceded he'd \"made a mistake \" by having a brief affair"
+            "Prosecutors rested their case against john edwards on thursday after calling to the witness stand some of his closest friends and advisers, many of whom gave unflattering testimony about the former presidential candidate whose once-promising political career collapsed amid a sex scandal. Former presidential candidate and sen. John edwards arrives at a federal courthouse in greensboro, n.c., wednesday, may 9, 2012. Edwards is accused of conspiring to secretly obtain more than $ 900,000... ( associated press ) former presidential candidate and sen. John edwards and his daughter, cate edwards, arrive at a federal courthouse in greensboro, n.c., wednesday, may 9, 2012. Edwards is accused of conspiring to secretly... ( associated press ) edwards is accused of being the mastermind behind a plan to use secret payments from two wealthy campaign donors to hide his pregnant mistress as he sought the white house in 2008. The trial centers on whether edwards knew what the money was being used for, and when he knew it. While the past 14 days of testimony has focused on the money trail, the trial has also revisited edwards ' breathtaking fall. He had an affair with rielle hunter, a videographer on his campaign, as he renewed his marriage vows to his cancer-stricken wife. He fathered a child with hunter and then a decision was made for his right-hand man to claim paternity so edwards could"
         ],
         "raw_document": [
             "Prosecutors rested their case against john edwards on thursday after calling to the witness stand some of his closest friends and advisers, many of whom gave unflattering testimony about the former presidential candidate whose once-promising political career collapsed amid a sex scandal. Former presidential candidate and sen. John edwards arrives at a federal courthouse in greensboro, n.c., wednesday, may 9, 2012. Edwards is accused of conspiring to secretly obtain more than $ 900,000... ( associated press ) former presidential candidate and sen. John edwards and his daughter, cate edwards, arrive at a federal courthouse in greensboro, n.c., wednesday, may 9, 2012. Edwards is accused of conspiring to secretly... ( associated press ) edwards is accused of being the mastermind behind a plan to use secret payments from two wealthy campaign donors to hide his pregnant mistress as he sought the white house in 2008. The trial centers on whether edwards knew what the money was being used for, and when he knew it. While the past 14 days of testimony has focused on the money trail, the trial has also revisited edwards ' breathtaking fall. He had an affair with rielle hunter, a videographer on his campaign, as he renewed his marriage vows to his cancer-stricken wife. He fathered a child with hunter and then a decision was made for his right-hand man to claim paternity so edwards could",
@@ -71,7 +70,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -123,7 +122,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -286,7 +285,7 @@
             "0": 0,
             "1": 2,
             "2": 2,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -339,7 +338,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -420,7 +419,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -449,13 +448,12 @@
     },
     {
         "idx": 29717,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Three bisexual softball players who say they were stripped of a trophy because they were deemed \" not gay enough \" have reached an out-of-court settlement with a national gay sports organization. San francisco's d2 team lost its 2008 second-place trophy in the gay softball world series when the north american gay amateur athletic alliance determined through a series of \" intrusive \" questions about their sexuality before a panel that three members were \" non-gay, \" and the team therefore exceeded the limit of two heterosexual players, reports the san francisco chronicle. Though one of the three men was married at the time, all three consider themselves bisexual, but say they were told at the time: \" this is the gay world series, not the bisexual world series, \" according to their lawsuit. The amount of the settlement sum was not disclosed, but part of the deal is that the second-place trophy will be restored to the team. \" this is an amazing result, \" said the attorney for the three men. \" it's also an opportunity to put a spotlight on significant discrimination in sports against the lbgt community. \" but an attorney for the nagaaa stressed that us district judge john coughenour ruled last week in a preliminary decision that it's \" reasonable that an organization seeking to limit participation to gay athletes would require members to express whether or not they are gay athletes. \" the judge said questions remain, however, about how the rules are applied and if questioning was intrusive, reports ap. Since the suit was filed, the organization has changed its bylaws to welcome all gays, bisexuals and transgendered players. \"nagaaa regrets the impacts the 2008 protest hearing had on plaintiffs and their team, \" states the settlement document.",
         "split": "train",
         "cleansed_document": [
             "A gay softball organization has agreed to pay an undisclosed sum to three players who were disqualified from its 2008 gay softball world series because of their perceived heterosexuality. And as part of the settlement announced monday, their team will be awarded the second-place trophy it was denied at the time. The men _ stephen apilado, laron charles and john russ _ filed the federal lawsuit against the north american gay amateur athletic alliance last year, claiming they had been discriminated against because they were bisexual, not gay. They had played for years on a san francisco-based team called d2. Rumors had persisted that the team was stacked with straight ringers, and when they made it all the way to the finals of the 2008 tournament in the seattle area, others filed a protest, accusing d2 of exceeding the limit of two heterosexual players per team. Tournament officials convened a protest committee and brought",
-            "Three members of an amateur san francisco team who said they were branded \" not gay enough \" and stripped of their second-place finish at the gay softball world series have settled their lawsuit against a national gay sports organization. Steven apilado, laron charles and jon russ, who were members of d2, a team that was part of the san francisco gay softball league, will receive an undisclosed sum from the north american gay amateur athletic alliance and will get their second-place 2008 championship trophy back, said their attorney, suzanne thomas. \" this is an amazing result, \" thomas said monday. \" it's also an opportunity to put a spotlight on significant discrimination in sports against the lbgt community, and going forward we will look at this as an opportunity to provide additional education about this discrimination. \" roger leishman, an attorney for the alliance, said the settlement friday came",
-            "Welcome to the official site for the north american gay amateur athletic alliance ( nagaaa ). Formed in 1977, nagaaa is a 501c( 3 ) international sports organization comprised of men and women dedicated to providing opportunity and access for the lgbt community to participate in organized softball competition in safe environments. Currently, more than 17,000 players from 45 cities across canada and the united states participate in member leagues, and the best of these teams converge once a year for head-to-head competition at the annual gay softball world series. In 2017, nagaaa celebrated its 40th anniversary ( 1977-2017 ).for over four decades, nagaaa has been a safe place for lgbt athletes to compete. Member cities compete in six divisions — a, b, c, d, masters classic and masters legends. If your city/league is interested in joining nagaaa, please contact contact us or click here to learn more."
+            "Three members of an amateur san francisco team who said they were branded \" not gay enough \" and stripped of their second-place finish at the gay softball world series have settled their lawsuit against a national gay sports organization. Steven apilado, laron charles and jon russ, who were members of d2, a team that was part of the san francisco gay softball league, will receive an undisclosed sum from the north american gay amateur athletic alliance and will get their second-place 2008 championship trophy back, said their attorney, suzanne thomas. \" this is an amazing result, \" thomas said monday. \" it's also an opportunity to put a spotlight on significant discrimination in sports against the lbgt community, and going forward we will look at this as an opportunity to provide additional education about this discrimination. \" roger leishman, an attorney for the alliance, said the settlement friday came"
         ],
         "raw_document": [
             "A gay softball organization has agreed to pay an undisclosed sum to three players who were disqualified from its 2008 gay softball world series because of their perceived heterosexuality. And as part of the settlement announced monday, their team will be awarded the second-place trophy it was denied at the time. The men _ stephen apilado, laron charles and john russ _ filed the federal lawsuit against the north american gay amateur athletic alliance last year, claiming they had been discriminated against because they were bisexual, not gay. They had played for years on a san francisco-based team called d2. Rumors had persisted that the team was stacked with straight ringers, and when they made it all the way to the finals of the 2008 tournament in the seattle area, others filed a protest, accusing d2 of exceeding the limit of two heterosexual players per team. Tournament officials convened a protest committee and brought",
@@ -472,7 +470,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -527,12 +525,11 @@
     },
     {
         "idx": 29720,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Adrianne haslet-davis has her prosthetic leg back, but not after quite a bit of inconvenience. The boston marathon bombing survivor ( a professional dancer who lost her leg but didn't let that keep her from dancing ) tweeted thursday to call out american airlines: \" hi @americanair u lost my luggage w over $ 250k of leg &amp; dance parts. I have an entire team on u. Pls respond, been days can't dance #retweet. \" to say that her request to followers to \" retweet \" worked would be an understatement: her feed is an absolute flurry of others retweeting or sending their own thoughts to american on the matter ( \" w/ all the baggage fees 1 would think airlines would be able to keep track of the bags. @americanair #servicefail, \" reads one ). After many hours, a number of setbacks ( \" there have been over one dozen people filing reports with you and with my name you cannot find a claim?! \" haslet-davis tweeted after american asked for a bag file reference number ), and the story getting picked up by the media, american finally located the bag. \" great news! @americanair had its best people on it and found it! a little jealous it got to travel somewhere pretty, \" haslet-davis tweeted friday. Before her bag was found, she had praised the power of social media: \" i ' m lucky to have a team of fighters around me. Thanks! \" she tweeted. \" there are many people who go through this &amp; don't. \"",
         "split": "train",
         "cleansed_document": [
-            "American airlines has found the luggage belonging to boston marathon bombing survivor adrianne haslet-davis, after she took to twitter thursday calling out the company for losing luggage containing some important equipment. Haslet-davis, a professional dancer, lost her leg in the explosions near the finish line of the boston marathon in 2013. She tweeted thursday evening that the airline lost a bag containing her prosthetic leg and dance parts, valued at over $ 250,000. Haslet-davis asked american airlines to please respond, which it did, first tweeting, \" we're doing all possible to get you and your bag back together again. \" the company followed up overnight with a statement: \" we're sorry this happened. Her bag has been located and we will reunite her with it as soon as possible. \" hi @americanair u lost my luggage w over $ 250k of leg &amp; dance parts. I have an entire team on u. Pls respond, been days can't dance #retweet — adriannehd ( @adriannehaslet ) november 20, 2015 haslet-davis ' original tweet had been shared by over 100 people, many of whom slammed american airlines while also calling on news media to publicize haslet-davis'story. @adriannehaslet we're doing all possible to get you and your bag back together again. — american airlines ( @americanair ) november 20, 2015 haslet-davis had shared a positive note with those who have followed her story and have tried to help.",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "American airlines has found the luggage belonging to boston marathon bombing survivor adrianne haslet-davis, after she took to twitter thursday calling out the company for losing luggage containing some important equipment. Haslet-davis, a professional dancer, lost her leg in the explosions near the finish line of the boston marathon in 2013. She tweeted thursday evening that the airline lost a bag containing her prosthetic leg and dance parts, valued at over $ 250,000. Haslet-davis asked american airlines to please respond, which it did, first tweeting, \" we're doing all possible to get you and your bag back together again. \" the company followed up overnight with a statement: \" we're sorry this happened. Her bag has been located and we will reunite her with it as soon as possible. \" hi @americanair u lost my luggage w over $ 250k of leg &amp; dance parts. I have an entire team on u. Pls respond, been days can't dance #retweet — adriannehd ( @adriannehaslet ) november 20, 2015 haslet-davis ' original tweet had been shared by over 100 people, many of whom slammed american airlines while also calling on news media to publicize haslet-davis'story. @adriannehaslet we're doing all possible to get you and your bag back together again. — american airlines ( @americanair ) november 20, 2015 haslet-davis had shared a positive note with those who have followed her story and have tried to help."
         ],
         "raw_document": [
             "American airlines has found the luggage belonging to boston marathon bombing survivor adrianne haslet-davis, after she took to twitter thursday calling out the company for losing luggage containing some important equipment. Haslet-davis, a professional dancer, lost her leg in the explosions near the finish line of the boston marathon in 2013. She tweeted thursday evening that the airline lost a bag containing her prosthetic leg and dance parts, valued at over $ 250,000. Haslet-davis asked american airlines to please respond, which it did, first tweeting, \" we're doing all possible to get you and your bag back together again. \" the company followed up overnight with a statement: \" we're sorry this happened. Her bag has been located and we will reunite her with it as soon as possible. \" hi @americanair u lost my luggage w over $ 250k of leg &amp; dance parts. I have an entire team on u. Pls respond, been days can't dance #retweet — adriannehd ( @adriannehaslet ) november 20, 2015 haslet-davis ' original tweet had been shared by over 100 people, many of whom slammed american airlines while also calling on news media to publicize haslet-davis'story. @adriannehaslet we're doing all possible to get you and your bag back together again. — american airlines ( @americanair ) november 20, 2015 haslet-davis had shared a positive note with those who have followed her story and have tried to help.",
@@ -547,7 +544,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -572,7 +569,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -605,7 +602,7 @@
             "1": 0,
             "2": 4,
             "3": 2,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -688,18 +685,17 @@
             "0": 0,
             "1": 3,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 29726,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Jcpenney has ditched ceo ron johnson after a 17-month run that produced some of the most disastrous results in retail history. Johnson, who masterminded apple's retail success, will be replaced by his predecessor myron ullman, reports the new york times. The struggling chain is in the middle of a huge — and very expensive — revamp ordered by johnson, whose compensation dropped 96 % from 2011 to 2012. So how did johnson get it so wrong at jcpenney after getting it so right at apple? doing away with sales events wasn't a winning strategy, and he lost the confidence of directors after he decided to reinvent the chain's stores without following the usual practice of testing changes first, the wall street journal reports. But the real reason johnson couldn't replicate his apple success at jcpenney may have been because he was running apple's retail operations at a time when the company was coming out with world-beating products like the ipod and the iphone, writes daniel gross at the daily beast. \" and that wasn't a skill johnson could easily transfer to a listing middle-market department store chain. \"",
         "split": "train",
         "cleansed_document": [
             "Jcpenney he engineered the runaway success of apple's retail empire, but crashed and burned at the lowbrow department store. Daniel gross on the fall of ron johnson. Was apple a smashing retail success because ron johnson, the executive who built apple's retail operations, was a retail genius? or was johnson deemed to be a smashing success in retail because of apple's genius for devising expensive, must-have products? it sure seems like the latter: johnson's tumultuous 18-month tenure as chief executive officer of troubled department store chain jcpenney came to a unceremonious end monday. Johnson was hired as ceo in july 2011 and formally took the reins in november 2011. Johnson, who had spent the early part of his career at target corp., had risen to fame at apple. He spent 11 years at the continually self-reinventing company, presiding over the aggressive rollout of a",
-            "J.c. Penney co. Dumped ron johnson, the chief executive it poached from apple inc. With great fanfare 17 months ago, replacing him midway through a major overhaul of its stores that has produced a disastrous drop in sales. J.c. Penney fired ceo ron johnson after nearly two years on the job, replacing him with former chief executive myron ullman. Andrew dowell explains the challenges facing ullman. Photo: getty images. Penney's board met monday and agreed to part ways with mr. Johnson. Sorting out whether to press onward or roll back mr. Johnson's changes will fall to his predecessor, myron ullman, who is rejoining the company as ceo. Enlarge image close reuters j.c. Penney chief executive ron johnson has been ousted. Mr. Johnson's exit will mollify some increasingly impatient investors and tamp down discontent among some within the company, but it leaves penney in a tough spot",
-            "In an interview, mr. Ullman said it was premature to discuss plans for penney and which of mr. Johnson's efforts he would continue. \"some things are working well, others maybe not, but i deserve a chance to be on the ground, \" he said. \"nobody ever wins by going back in retail because the customers ' expectations change all the time. \" photo he said he was walking out of a luncheon this weekend when he received a call from thomas engibous, j. C. Penney's chairman, asking him if he would consider returning to penney. That was the first he had heard of it, mr. Ullman said, and his immediate answer was \"absolutely. \" mr. Engibous advised him to confer with his wife, which he did. \"she was enthusiastic — she knows that it's been painful to watch from afar, \" said mr. Ullman, 66"
+            "J.c. Penney co. Dumped ron johnson, the chief executive it poached from apple inc. With great fanfare 17 months ago, replacing him midway through a major overhaul of its stores that has produced a disastrous drop in sales. J.c. Penney fired ceo ron johnson after nearly two years on the job, replacing him with former chief executive myron ullman. Andrew dowell explains the challenges facing ullman. Photo: getty images. Penney's board met monday and agreed to part ways with mr. Johnson. Sorting out whether to press onward or roll back mr. Johnson's changes will fall to his predecessor, myron ullman, who is rejoining the company as ceo. Enlarge image close reuters j.c. Penney chief executive ron johnson has been ousted. Mr. Johnson's exit will mollify some increasingly impatient investors and tamp down discontent among some within the company, but it leaves penney in a tough spot"
         ],
         "raw_document": [
             "Jcpenney he engineered the runaway success of apple's retail empire, but crashed and burned at the lowbrow department store. Daniel gross on the fall of ron johnson. Was apple a smashing retail success because ron johnson, the executive who built apple's retail operations, was a retail genius? or was johnson deemed to be a smashing success in retail because of apple's genius for devising expensive, must-have products? it sure seems like the latter: johnson's tumultuous 18-month tenure as chief executive officer of troubled department store chain jcpenney came to a unceremonious end monday. Johnson was hired as ceo in july 2011 and formally took the reins in november 2011. Johnson, who had spent the early part of his career at target corp., had risen to fame at apple. He spent 11 years at the continually self-reinventing company, presiding over the aggressive rollout of a",
@@ -716,7 +712,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -744,17 +740,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 29728,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The family of the 20-year-old woman accused of abandoning her baby at a new york city subway station on monday had no idea she was even in new york. Frankea dabbs has had a troubled life involving drugs and prostitution, relatives tell the new york times, but she had promised to take care of 11-month-old milani love edmonds and return to school. She moved in with an aunt in california a year ago but had recently returned to north carolina, where she was staying with relatives until she disappeared a week ago. Her father tells abc that his daughter saw her boyfriend, milani's father, murdered in a robbery when she was two months pregnant. He says that since the shooting, she has worn sunglasses everywhere and always wanted to be in dark rooms. \" i know she's a good mother, \" he says. \" i don't understand what happened. I love both of them. All i want is my kids back in north carolina with me, especially my grandchild. \" dabbs \" really needs help, \" her aunt tells the new york daily news. \" it's not like she just abandoned the baby... Me, personally, i think the child is looking for help. \" police say she has told them she was homeless and couldn't look after the baby any longer. She has been charged with child abandonment — a felony — and is being held without bail. At her arraignment last night, she launched into a bizarre rant against jay-z when she saw a tv cameraman. Milani is in the custody of the city's children's services agency.",
         "split": "train",
         "cleansed_document": [
-            "Mom who left baby on subway saw boyfriend killed, dad says the woman accused of abandoning her baby on crowded new york city subway platform has been erratic since seeing her boyfriend shot to death while she hid nearby, the woman's father told abc news today. Frankea dabbs, 20, left her 10-month-old daughter on a busy manhattan subway station and got back on the train and left on monday. She was arrested and charged today with abandoning a child and committing actions injurious to a child less than the age of 17. She told police she was homeless after arriving in the city on june 2 and couldn't handle being a mother. \" she felt she couldn't take care of the baby and thought she was leaving her in a safe public space, \" said stephen davis, spokesman for the new york police department. Her father told abc news today that he had no idea that his daughter and granddaughter were in new york, but said she has been unnerved since the shooting. Dad charged with son's hot car death could face death penalty woman dumped baby at nyc subway station: police missing wisconsin baby found alive at iowa gas station \" she saw her boyfriend get killed, \" franklin dabbs of wilmington, north carolina, told abc news. \" three guys came to the house",
-            "Kimberly shubert, a court-appointed lawyer who spoke on ms. Dabbs's behalf, asked that she be released on her own recognizance. Judge clott ordered ms. Dabbs held without bail. Then, looking at a television camera that had been set up near the bench, ms. Dabbs asked, \"is that thing on? \" and uttered a profanity regarding the rapper jay z before she was ushered from the room. Photo earlier, ms. Dabbs had told investigators that she felt overwhelmed, the police said. And in an interview, her father, franklin dabbs, said she was troubled. \"she had problems and she had to make it on her own, prostituting and all that, \" mr. Dabbs said. \"she's been looking in the bible, reading from the bible. She's deep into revelations. \" the police surveillance video footage showed ms. Dabbs on monday just before noon, eyes concealed behind large sunglasses, baby in a stroller, and soon after, alone. The police released pictures of the child, and then the woman, asking for the public's help in identifying both. The infant was found by a woman who passed the stroller on the platform. After staying with the child for about 20 minutes, she called the authorities. Hours later, just after midnight on tuesday, a second"
+            "Mom who left baby on subway saw boyfriend killed, dad says the woman accused of abandoning her baby on crowded new york city subway platform has been erratic since seeing her boyfriend shot to death while she hid nearby, the woman's father told abc news today. Frankea dabbs, 20, left her 10-month-old daughter on a busy manhattan subway station and got back on the train and left on monday. She was arrested and charged today with abandoning a child and committing actions injurious to a child less than the age of 17. She told police she was homeless after arriving in the city on june 2 and couldn't handle being a mother. \" she felt she couldn't take care of the baby and thought she was leaving her in a safe public space, \" said stephen davis, spokesman for the new york police department. Her father told abc news today that he had no idea that his daughter and granddaughter were in new york, but said she has been unnerved since the shooting. Dad charged with son's hot car death could face death penalty woman dumped baby at nyc subway station: police missing wisconsin baby found alive at iowa gas station \" she saw her boyfriend get killed, \" franklin dabbs of wilmington, north carolina, told abc news. \" three guys came to the house"
         ],
         "raw_document": [
             "Mom who left baby on subway saw boyfriend killed, dad says the woman accused of abandoning her baby on crowded new york city subway platform has been erratic since seeing her boyfriend shot to death while she hid nearby, the woman's father told abc news today. Frankea dabbs, 20, left her 10-month-old daughter on a busy manhattan subway station and got back on the train and left on monday. She was arrested and charged today with abandoning a child and committing actions injurious to a child less than the age of 17. She told police she was homeless after arriving in the city on june 2 and couldn't handle being a mother. \" she felt she couldn't take care of the baby and thought she was leaving her in a safe public space, \" said stephen davis, spokesman for the new york police department. Her father told abc news today that he had no idea that his daughter and granddaughter were in new york, but said she has been unnerved since the shooting. Dad charged with son's hot car death could face death penalty woman dumped baby at nyc subway station: police missing wisconsin baby found alive at iowa gas station \" she saw her boyfriend get killed, \" franklin dabbs of wilmington, north carolina, told abc news. \" three guys came to the house",
@@ -769,17 +764,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 29729,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The jungle book is enjoying something rarely granted to reboots: stellar reviews. Critics say the live-action remake of the disney cartoon based on the stories of rudyard kipling — in which a 10-year-old human raised by wolves sets out on a jungle adventure — is enchanting, giving it a 95 % rating on rotten tomatoes. Here's what they're saying: \" wow. Just, wow, \" writes randy cordova at the arizona republic. There's so much to love, from the incredible visual effects — \" it's often impossible to tell where the cgi ends and the real animals begin \" — to neel sethi as a \" perfect \" mowgli. Bill murray as lazy bear baloo \" adds a cutting humor the movie may have been missing, \" cordova adds. \" it's truly a family film in that it entertains all ages; parents won't be checking their watches to see when things are going to wind up. \" disney's the jungle book \" is what this franchise-tentpole-universe-theme-park factory does best, \" writes david edelstein at vulture. \" it's dazzling — almost no one will dislike it, \" he adds. \" untethered by reality, its settings are huge, its cliffs and waterfalls like something out of james cameron's avatar. \" the film is realistic, however, in that \" the animals are savage, \" so \" little kids might be shaken up. Some grown-ups, too. \" ann hornaday agrees the film includes \" some genuinely terrifying fight sequences and a couple of potentially upsetting deaths, \" yet \" every inch of the jungle book pulses with life, grace, and authenticity. Even when this idyllic world turns ugly, it's a thing of rare beauty, \" she writes at the washington post. And in the end, \" the audience comes out whistling — in this case, with joy and quite a bit of awe. \" \" it's one of the few films in which the 3d enhancement is justified. Each scene captures the essence of each animal so vividly that children in the audience were reaching out to the screen to try to'touch'the fur, \" maricar estrella writes at dfw.com. Estrella says this \" enthralling blend of live action and cgi is officially the first big family hit of the season, \" even with christopher walken's somewhat \" ominous \" portrayal of king louie. Idris elba ( shere khan ) and scarlett johansson ( kaa ) also star. ( saw the movie and liked it? we have good news for you. )",
         "split": "train",
         "cleansed_document": [
-            "Photo: disney the new disney version of rudyard kipling's the jungle book is what this franchise-tentpole-universe-theme-park factory does best. The film is a triumph of technology and safe \"family \" storytelling. It's dazzling — almost no one will dislike it. Its director, jon favreau, knows his audience, and he has enough skill and honest enthusiasm to win over all but the most determined skeptics. The gimmick is that the movie uses a real actor, neel sethi ( pronounced sett-ee ), as mowgli, the boy raised by wolves. But sethi is surrounded by brilliantly computer-animated wolves, panthers, tigers, and bears. At times, they look more real than the actor, who seems computer-enhanced — made smoother, his skin burnished with a golden disney-ish caramel, or made to fly at impossible speeds when he's carried off by monkeys. The slight artificiality of everything makes the jungle book seem all the more seamless. Untethered by reality, its settings are huge, its cliffs and waterfalls like something out of james cameron's avatar. And that makes sense, since mowgli is our avatar — the wide-eyed human who holds his",
-            "Before you go, we thought you'd like these... Disney believes that one of the bare necessities for its movie slate is more \" bare necessities. \" days before the studio opens its live-action take on the jungle book, the company is already putting together the pieces for a sequel. Jon favreau and justin marks, who respectively directed and wrote the movie, are in negotiations to return in their roles for a follow-up. Favreau will also produce. The movie, which unbelievably was shot entirely on stages in los angeles, adapts the rudyard kipling-authored stories that tell of mowgli, the human boy raised by wolves and who befriends various jungle animals. Disney released a animated take of the material in 1967 that also featured such classic songs as \" trust in me, \" \" i wanna be like you, \" and \" the bare necessities. \" the latest movie, a live-action/cg hybrid, assembled an impressive voicecast that ranges from bill murray and ben kingsley as baloo the bear and begheera the panther to scarlet johansson and lupita nyong ' o as kaa the serpent and raksha the mother wolf. Newcomer neel sethi makes his feature debut as mowgli"
+            "Photo: disney the new disney version of rudyard kipling's the jungle book is what this franchise-tentpole-universe-theme-park factory does best. The film is a triumph of technology and safe \"family \" storytelling. It's dazzling — almost no one will dislike it. Its director, jon favreau, knows his audience, and he has enough skill and honest enthusiasm to win over all but the most determined skeptics. The gimmick is that the movie uses a real actor, neel sethi ( pronounced sett-ee ), as mowgli, the boy raised by wolves. But sethi is surrounded by brilliantly computer-animated wolves, panthers, tigers, and bears. At times, they look more real than the actor, who seems computer-enhanced — made smoother, his skin burnished with a golden disney-ish caramel, or made to fly at impossible speeds when he's carried off by monkeys. The slight artificiality of everything makes the jungle book seem all the more seamless. Untethered by reality, its settings are huge, its cliffs and waterfalls like something out of james cameron's avatar. And that makes sense, since mowgli is our avatar — the wide-eyed human who holds his"
         ],
         "raw_document": [
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period.",
@@ -798,7 +792,7 @@
             "0": 5,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -908,12 +902,11 @@
     },
     {
         "idx": 29734,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Spain's bank bailout hasn't exactly put the markets at ease — indeed, it may have done the opposite. Spain's 10-year borrowing costs closed at a euro-era high of 6.72 % yesterday, the wall street journal reports. Indeed, bond yields rose across europe, with italy's hitting 6.26 %, its highest level in a year. \" we're in very precarious times yet again, \" said an economist at the world bank, which yesterday slashed its global growth forecast to 2.5 %. The pessimism comes despite what henry blodget of business insider calls a \" sweetheart bailout \" for spain's banks. If the rumors circulating are true, spain won't have to make any payments until 2017, and will pay just 3 % on the loans — even as the banks repay it at 8.5 %. The european commission had promised that the bailout would be made on lender-friendly terms, but \" that, \" blodget observes, \" appears to have been a crock. \"",
         "split": "train",
         "cleansed_document": [
-            "When the spanish bank bailout was announced, the head of the european commission made a big show of saying that the money would be provided on good terms for the lenders. That appears to have been a crock. Rumors are beginning to circulate about the terms of the deal: the spanish government organization receiving the funds — frob — will likely have to repay the funds at a 3 percent interest rate. It won't start making payments until 2017. It will have a 15-year repayment schedule. Banks could ultimately have to repay the loans at an interest rate of 8.5 percent. Given that spain's 10-year bonds are currently trading at yields over 6 percent, spain could be getting a sweetheart deal relative to the price it would pay to recapitalize banks on its own. That is, if concerns about investor subordination and the size of the bailout end up being unwarranted. Regardless of all these details, however, it is important to remember that the terms of the deal will not be finalized until the end of this month at the earliest. Euro-dates: here are the next 9 crucial events in the euro debt saga >",
-            "Article excerpt borrowing costs for italy and spain continued to surge on tuesday, escalating calls for bigger steps from euro-zone leaders amid a new warning that the crisis is dragging down even the world's resilient emerging economies. Spain's 10-year borrowing costs touched 6.80 % before settling at a euro-era closing high of 6.72 %, the second straight jump in the two trading days since european officials announced a bank bailout of as much as € 100 billion ( $ 126 billion ) that was intended to calm markets. That fueled fears that the government itself could need its own rescue from the rest of europe. Italy's borrowing costs..."
+            "When the spanish bank bailout was announced, the head of the european commission made a big show of saying that the money would be provided on good terms for the lenders. That appears to have been a crock. Rumors are beginning to circulate about the terms of the deal: the spanish government organization receiving the funds — frob — will likely have to repay the funds at a 3 percent interest rate. It won't start making payments until 2017. It will have a 15-year repayment schedule. Banks could ultimately have to repay the loans at an interest rate of 8.5 percent. Given that spain's 10-year bonds are currently trading at yields over 6 percent, spain could be getting a sweetheart deal relative to the price it would pay to recapitalize banks on its own. That is, if concerns about investor subordination and the size of the bailout end up being unwarranted. Regardless of all these details, however, it is important to remember that the terms of the deal will not be finalized until the end of this month at the earliest. Euro-dates: here are the next 9 crucial events in the euro debt saga >"
         ],
         "raw_document": [
             "When the spanish bank bailout was announced, the head of the european commission made a big show of saying that the money would be provided on good terms for the lenders. That appears to have been a crock. Rumors are beginning to circulate about the terms of the deal: the spanish government organization receiving the funds — frob — will likely have to repay the funds at a 3 percent interest rate. It won't start making payments until 2017. It will have a 15-year repayment schedule. Banks could ultimately have to repay the loans at an interest rate of 8.5 percent. Given that spain's 10-year bonds are currently trading at yields over 6 percent, spain could be getting a sweetheart deal relative to the price it would pay to recapitalize banks on its own. That is, if concerns about investor subordination and the size of the bailout end up being unwarranted. Regardless of all these details, however, it is important to remember that the terms of the deal will not be finalized until the end of this month at the earliest. Euro-dates: here are the next 9 crucial events in the euro debt saga >",
@@ -928,7 +921,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -970,18 +963,17 @@
             "4": 1,
             "5": 1,
             "6": 1,
-            "7": 0
+            "7": 1
         }
     },
     {
         "idx": 29736,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "About a third of parents already fool their kids into welcoming the new year hours ahead of time, and for those inclined to join their ranks, netflix has your back and it is in the form of a dancing lemur and an on-demand new year's eve countdown. King julien, of the madagascar movies and the netflix series all hail king julien, is offering up a three-minute video celebration that parents can queue up anytime — and get their kids to bed at a decent hour, cnn money reports. \" i was totally bummed when i heard that some of my favorite little party people aren't allowed to stay up until midnight for the biggest party of the year, \" says king julien in a statement. \" but then i realized i ' m king, i make the rules! so move over, ryan seacrest. \" the video featuring king julien and his dancing lemur friends is available now, adds huffington post, because, well, \" it's midnight somewhere. \" the move by netflix is more than just a convenience for parents, it's part of the company's strategy to grab loyal viewers from a young age. The company is planning a care bears series as well; that show and king julien are among 70 kids'shows currently being streamed by about 2 million subscribers, notes cnn. ( you may miss king julien's countdown if you live in this alaska town. )",
         "split": "train",
         "cleansed_document": [
             "Thanks to netflix, many parents will be ringing in 2015 a few hours early. While the childless might be popping champagne and staying out late, 87 % of parents are planning to celebrate new year's eve with their kids, according to a wakefield research survey conducted by netflix. Midnight, however, is a bit late for most youngsters. Already, 34 % of parents \" fool \" their kids into thinking it's midnight at an earlier time. That is why netflix ( nflx, tech30 ) created an on-demand countdown hosted by king julien, the animated lemur from the company's series \" all hail king julien. \" families can start streaming it any time they please. The three-minute new year's eve countdown includes many of the dancing lemurs from the film and will be available to stream beginning today at netflix.com. In a statement released by",
-            "<< back netflix to parents: on new years eve, we wont tell your little party people its not midnight if you dont king julien, star of the latest netflix original series for kids, hosts dance party &amp; new years eve countdown on netflix los gatos, calif., december 29, 2014  theyll change the clocks, blow the noisemakers at 8 p.m., and search for that new years eve countdown on the other side of the world - some parents will do whatever it takes to give their kids their own countdown and get them into bed before the ball actually drops. More than a third of u.s. Parents ( 34 % ) admitted to starting the party early to fool their kids into thinking its midnight*, citing their kids or their own bedtime as the reason. These findings are according to a recent survey from wakefield research on behalf of netflix. World renowned party",
-            "Don't watch a movie without rating it when you finish a show or movie on netflix, the site requests that you give it between one and five stars, based on how much you enjoyed it. You're not being asked to rate that content for kicks, or so that you can later reminisce about how much you liked a certain film: rather, netflix has spent many years improving its recommendation engine, even offering a $ 1 million prize for anyone who could up the accuracy of netflix recommendations by 10 percent. At this point, the netflix recommendation engine is pretty darn accurate -- it takes into account your own ratings as well as the viewing habits of those similar to you. Basically, the more films you rate, the more you're likely to enjoy a netflix recommendation. If you constantly find yourself frustrated that there's nothing on"
+            "<< back netflix to parents: on new years eve, we wont tell your little party people its not midnight if you dont king julien, star of the latest netflix original series for kids, hosts dance party &amp; new years eve countdown on netflix los gatos, calif., december 29, 2014  theyll change the clocks, blow the noisemakers at 8 p.m., and search for that new years eve countdown on the other side of the world - some parents will do whatever it takes to give their kids their own countdown and get them into bed before the ball actually drops. More than a third of u.s. Parents ( 34 % ) admitted to starting the party early to fool their kids into thinking its midnight*, citing their kids or their own bedtime as the reason. These findings are according to a recent survey from wakefield research on behalf of netflix. World renowned party"
         ],
         "raw_document": [
             "Thanks to netflix, many parents will be ringing in 2015 a few hours early. While the childless might be popping champagne and staying out late, 87 % of parents are planning to celebrate new year's eve with their kids, according to a wakefield research survey conducted by netflix. Midnight, however, is a bit late for most youngsters. Already, 34 % of parents \" fool \" their kids into thinking it's midnight at an earlier time. That is why netflix ( nflx, tech30 ) created an on-demand countdown hosted by king julien, the animated lemur from the company's series \" all hail king julien. \" families can start streaming it any time they please. The three-minute new year's eve countdown includes many of the dancing lemurs from the film and will be available to stream beginning today at netflix.com. In a statement released by",
@@ -998,7 +990,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1048,7 +1040,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1180,7 +1172,7 @@
             "0": 1,
             "1": 3,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1204,17 +1196,16 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 29745,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A burglary suspect might have gotten away with it if he had just waited until he left the crime scene to quench his thirst. Instead, police say suspect ramon herrera helped himself to a can of coke from the refrigerator of the albuquerque, nm, home he allegedly broke into and then left the can behind — meaning he also left behind valuable dna evidence, koat reports. When the homeowners came back from vacation, they found a smashed back door, $ 250,000 worth of jewels gone, and a sweatshirt and footprints outside. On the kitchen table was an empty coke can with a note leaning against it that said \" sorry, \" the albuquerque journal reports. Cops were able to swab down both the coke can and a flashlight ostensibly left behind by the suspect — and the dna retrieved from their efforts matched herrera's. Not helping his case is the fact that herrera was reportedly seen nine times selling jewelry at local pawn shops after the burglary, which happened last month. Herrera, now in county jail on residential burglary and larceny charges, allegedly made one other weird move before leaving: he went to the bathroom and didn't flush, police say. However, \" ( the detective ) failed to collect any samples from the used toilet, \" according to the official criminal complaint. ( a minnesota man reportedly took a burglary break to log in to facebook. )",
         "split": "train",
         "cleansed_document": [
-            ".................................................................................................................................................................................... Albuquerque, n.m. — a man allegedly burglarized $ 250,000 worth of jewelry from a tanoan home last month, but police say he didn't make his escape without leaving the vacationing homeowners something in return. He took a coca cola out of their fridge, drank it, and left the can on the kitchen table with a note propped up against it. \"sorry, \" it read. Police were called to the home in september after the homeowner returned from vacation with his family and found his back sliding door was smashed. Their jewelry was gone. The suspect also used their bathroom without flushing the toilet, police said. Police swabbed the soda can and a flashlight left in the home to try to find dna evidence from the offender. \"( the detective ) failed to collect any samples from the used toilet, \" reads a criminal complaint filed in metropolitan court. A few days later, the family found footprints and a sweatshirt behind their wall, leading away from the house and into a bordering field. Dna collected from the coca cola can matched to a suspect, identified as 33-year-old ramon herrera. Herrera had sold jewelry to local pawn shops nine times shortly after the burglary. He was charged with residential burglary and larceny over $ 20,000 and booked into the county jail.",
-            "The seed for wide00014 was: - slash pages from every domain on the web: -- a ranking of all urls that have more than one incoming inter-domain link ( rank was determined by number of incoming links using wide00012 inter domain links ) -- up to a maximum of 100 most highly ranked urls per domain - top ranked pages ( up to a max of 100 ) from every linked-to domain using the wide00012 inter-domain navigational link graph"
+            ".................................................................................................................................................................................... Albuquerque, n.m. — a man allegedly burglarized $ 250,000 worth of jewelry from a tanoan home last month, but police say he didn't make his escape without leaving the vacationing homeowners something in return. He took a coca cola out of their fridge, drank it, and left the can on the kitchen table with a note propped up against it. \"sorry, \" it read. Police were called to the home in september after the homeowner returned from vacation with his family and found his back sliding door was smashed. Their jewelry was gone. The suspect also used their bathroom without flushing the toilet, police said. Police swabbed the soda can and a flashlight left in the home to try to find dna evidence from the offender. \"( the detective ) failed to collect any samples from the used toilet, \" reads a criminal complaint filed in metropolitan court. A few days later, the family found footprints and a sweatshirt behind their wall, leading away from the house and into a bordering field. Dna collected from the coca cola can matched to a suspect, identified as 33-year-old ramon herrera. Herrera had sold jewelry to local pawn shops nine times shortly after the burglary. He was charged with residential burglary and larceny over $ 20,000 and booked into the county jail."
         ],
         "raw_document": [
             ".................................................................................................................................................................................... Albuquerque, n.m. — a man allegedly burglarized $ 250,000 worth of jewelry from a tanoan home last month, but police say he didn't make his escape without leaving the vacationing homeowners something in return. He took a coca cola out of their fridge, drank it, and left the can on the kitchen table with a note propped up against it. \"sorry, \" it read. Police were called to the home in september after the homeowner returned from vacation with his family and found his back sliding door was smashed. Their jewelry was gone. The suspect also used their bathroom without flushing the toilet, police said. Police swabbed the soda can and a flashlight left in the home to try to find dna evidence from the offender. \"( the detective ) failed to collect any samples from the used toilet, \" reads a criminal complaint filed in metropolitan court. A few days later, the family found footprints and a sweatshirt behind their wall, leading away from the house and into a bordering field. Dna collected from the coca cola can matched to a suspect, identified as 33-year-old ramon herrera. Herrera had sold jewelry to local pawn shops nine times shortly after the burglary. He was charged with residential burglary and larceny over $ 20,000 and booked into the county jail.",
@@ -1229,17 +1220,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 29746,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "If gay people aren't allowed to get married, then no one's getting married. That's the position the green street united methodist church is taking. The church in winston-salem, nc, will refuse to conduct any weddings or sign any marriage licenses, straight or otherwise, until same-sex marriage is legal and condoned by the united methodist church, its leadership council announced, saying it \" sees injustice in the legal position of the state government and the theological position of our denomination. \" the church currently has more than 15 gay and lesbian members. \" many people in our church have been very active about marriage equality, \" rev. Kelly carpenter tells fox news. \" inside the congregation, i've heard nothing but support. \" in place of marriages, the church will hold \" relationship blessings, \" which can be performed on same-sex and opposite-sex couples alike, wxii 12 reports. While methodist churches in chicago and california have taken similar steps, carpenter believes his is the first southern church to do so.",
         "split": "train",
         "cleansed_document": [
-            "A church in north carolina will stop performing marriages until united methodist pastors are allowed to officiate weddings for same-sex couples in the tar heel state. The green street united methodist church in winston-salem made the announcement on its facebook page on friday and held a press conference on sunday detailing its plan. The rev. Kelly carpenter told foxnews.com on monday that his 400-member congregation and its 18-member leadership council have long considered the move. \"many people in our church have been very active about marriage equality in north carolina, so we're not new to talking about this issue, \" carpenter said. \"so over the past year, this statement has developed, and not only to the state of north carolina, but also to the united methodist church in regards to the injustice of not being able to conduct same-sex weddings. \" neither the state nor the united methodist church sanctions same-sex marriages. With the u.s. Supreme court set to consider two key same-sex marriage issues later this month, carpenter said the \"timing seemed to be good, \" referring to the announcement. Feedback from the congregation, which includes at least 15 gay and lesbian couples, has been overwhelmingly positive, he said. \"inside the congregation, i've heard nothing but support, \" carpenter said, adding that he also received some critical emails from non-active worshippers. \"inside the congregation, i've heard nothing but support. \" - rev. Kelly carpenter in a statement on its website, church officials declared that committed same-sex relationships are \"no less sacred \" as heterosexual unions. \"couples making a commitment to one another need a supportive community of faith to sustain and uphold them so as to grow in faith and love, \" the statement read. \" weddings are the occasion for covenant making, a time to seek god's blessing on their commitment to one another. When a couple chooses to be married in the church, they should also be conscious that they are making a declaration of their relationship as a new ministry for the congregation and the world. At green street",
-            "The seed for wide00014 was: - slash pages from every domain on the web: -- a ranking of all urls that have more than one incoming inter-domain link ( rank was determined by number of incoming links using wide00012 inter domain links ) -- up to a maximum of 100 most highly ranked urls per domain - top ranked pages ( up to a max of 100 ) from every linked-to domain using the wide00012 inter-domain navigational link graph"
+            "A church in north carolina will stop performing marriages until united methodist pastors are allowed to officiate weddings for same-sex couples in the tar heel state. The green street united methodist church in winston-salem made the announcement on its facebook page on friday and held a press conference on sunday detailing its plan. The rev. Kelly carpenter told foxnews.com on monday that his 400-member congregation and its 18-member leadership council have long considered the move. \"many people in our church have been very active about marriage equality in north carolina, so we're not new to talking about this issue, \" carpenter said. \"so over the past year, this statement has developed, and not only to the state of north carolina, but also to the united methodist church in regards to the injustice of not being able to conduct same-sex weddings. \" neither the state nor the united methodist church sanctions same-sex marriages. With the u.s. Supreme court set to consider two key same-sex marriage issues later this month, carpenter said the \"timing seemed to be good, \" referring to the announcement. Feedback from the congregation, which includes at least 15 gay and lesbian couples, has been overwhelmingly positive, he said. \"inside the congregation, i've heard nothing but support, \" carpenter said, adding that he also received some critical emails from non-active worshippers. \"inside the congregation, i've heard nothing but support. \" - rev. Kelly carpenter in a statement on its website, church officials declared that committed same-sex relationships are \"no less sacred \" as heterosexual unions. \"couples making a commitment to one another need a supportive community of faith to sustain and uphold them so as to grow in faith and love, \" the statement read. \" weddings are the occasion for covenant making, a time to seek god's blessing on their commitment to one another. When a couple chooses to be married in the church, they should also be conscious that they are making a declaration of their relationship as a new ministry for the congregation and the world. At green street"
         ],
         "raw_document": [
             "A church in north carolina will stop performing marriages until united methodist pastors are allowed to officiate weddings for same-sex couples in the tar heel state. The green street united methodist church in winston-salem made the announcement on its facebook page on friday and held a press conference on sunday detailing its plan. The rev. Kelly carpenter told foxnews.com on monday that his 400-member congregation and its 18-member leadership council have long considered the move. \"many people in our church have been very active about marriage equality in north carolina, so we're not new to talking about this issue, \" carpenter said. \"so over the past year, this statement has developed, and not only to the state of north carolina, but also to the united methodist church in regards to the injustice of not being able to conduct same-sex weddings. \" neither the state nor the united methodist church sanctions same-sex marriages. With the u.s. Supreme court set to consider two key same-sex marriage issues later this month, carpenter said the \"timing seemed to be good, \" referring to the announcement. Feedback from the congregation, which includes at least 15 gay and lesbian couples, has been overwhelmingly positive, he said. \"inside the congregation, i've heard nothing but support, \" carpenter said, adding that he also received some critical emails from non-active worshippers. \"inside the congregation, i've heard nothing but support. \" - rev. Kelly carpenter in a statement on its website, church officials declared that committed same-sex relationships are \"no less sacred \" as heterosexual unions. \"couples making a commitment to one another need a supportive community of faith to sustain and uphold them so as to grow in faith and love, \" the statement read. \" weddings are the occasion for covenant making, a time to seek god's blessing on their commitment to one another. When a couple chooses to be married in the church, they should also be conscious that they are making a declaration of their relationship as a new ministry for the congregation and the world. At green street",
@@ -1256,7 +1246,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1284,7 +1274,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1309,7 +1299,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1438,7 +1428,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1835,14 +1825,13 @@
     },
     {
         "idx": 29769,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Marina garcia was all ready to play for her texas high school's volleyball team friday night, but she had one task to take care of before the first spike: rescuing the national anthem. Fox 29 reports that the senior stepped up to the mic when something went awry with the sound system and it wouldn't play a recording of the song. Marina's rendition went viral after a coach posted it online. \" no music, no prep time, no problem! \" raves the northside independent school district's facebook post showing the video of garcia belting it out. Garcia has a definite opinion on the furor over the colin kaepernick-inspired national anthem protests that have been taking place in sports arenas and on fields across the country. \" i have family members that were in the military that fought for freedom and just to see other people that don't understand that is kind of offending to me, but i understand it's their opinion, \" she tells ksat. Future plans for marina, who notes to kens she's been \" wanting to become famous \": trying out for the voice and keeping up with volleyball. ( speaking of kaepernick: he's starting in his first 49ers game in almost a year this weekend. )",
         "split": "train",
         "cleansed_document": [
             "Holmes high school senior marina garcia stepped up to sing the national anthem when the sound system didn't work. The moment has gone viral. ( photo: kens ) san antonio – before marina garcia and her holmes huskies volleyball teammates took the court, they waited for the national anthem. Mariana didn't think she'd be the one singing. The sound system wouldn't play the cd, so rather than skip the patriotic pregame ceremony, marina stepped up with her vocal skills. \" i noticed they tried working the cd. My mom was in the stands, she was like, ' marina sing, ' \" she recalled. Marina left her team line and picked up the mic, stunning everyone in the crowd. The video recorded by another coach is gaining thousands of hits on northside isd's facebook page. \" i've been wanting to become famous. I've been putting myself out there. Usually, i",
             "San antonio - a student at holmes high school won over the hearts of thousands of people after she belted out the star-spangled banner before a volleyball game last friday night. Marina garcia, a senior and a volleyball player, sang the national anthem when a recording of the song failed to play. A coach posted video of her rendition and it has since been shared more than 2,600 times, with 6,000 likes and hundreds of comments. Marina has major talent! we're glad to see her getting some recognition for it! video recorded by coach brian sandera",
-            "San antonio - marina garcia thought it would be another night when she and her fellow volleyball players stepped onto the court. However, when the audio system went down just before playing the national anthem garcia did what came naturally to her: she sang. \" we were about to stand for the national anthem as we noticed that the cd wasn't working, \" garcia said. \" i didn't feel nervous. I felt like excited because i get to sing. \" unbeknownst to the high school senior someone was in the stands capturing the whole thing. At the end of the performance her teammates cheered, so too did everyone in the gym. \" i honestly couldn't ask for more. They all had smiles on their faces. Some of them teared up. Some of them had told me that they had the chills and just that feeling that i can give to people that emotion, that was so exciting, \" she said. Though",
-            "University of texas at san antonio academic departments web collection a collection of web sites from academic departments at the university of texas at san antonio."
+            "San antonio - marina garcia thought it would be another night when she and her fellow volleyball players stepped onto the court. However, when the audio system went down just before playing the national anthem garcia did what came naturally to her: she sang. \" we were about to stand for the national anthem as we noticed that the cd wasn't working, \" garcia said. \" i didn't feel nervous. I felt like excited because i get to sing. \" unbeknownst to the high school senior someone was in the stands capturing the whole thing. At the end of the performance her teammates cheered, so too did everyone in the gym. \" i honestly couldn't ask for more. They all had smiles on their faces. Some of them teared up. Some of them had told me that they had the chills and just that feeling that i can give to people that emotion, that was so exciting, \" she said. Though"
         ],
         "raw_document": [
             "Holmes high school senior marina garcia stepped up to sing the national anthem when the sound system didn't work. The moment has gone viral. ( photo: kens ) san antonio – before marina garcia and her holmes huskies volleyball teammates took the court, they waited for the national anthem. Mariana didn't think she'd be the one singing. The sound system wouldn't play the cd, so rather than skip the patriotic pregame ceremony, marina stepped up with her vocal skills. \" i noticed they tried working the cd. My mom was in the stands, she was like, ' marina sing, ' \" she recalled. Marina left her team line and picked up the mic, stunning everyone in the crowd. The video recorded by another coach is gaining thousands of hits on northside isd's facebook page. \" i've been wanting to become famous. I've been putting myself out there. Usually, i",
@@ -1861,19 +1850,18 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
         "idx": 29770,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Insiders say there are recordings of donald trump from his days on the apprentice that make the highly damaging 2005 tape seem mild — but they may not see the light of day before the election, if ever. Executive producer mark burnett says he is legally unable to release the tapes, and production company owner mgm says it's also legally restricted from releasing the material, though neither party responded to questions from the ap about the specific requirements blocking the release of footage. A roundup of developments: in a statement to cnn's brian stelter, burnett denies media reports that he is a trump supporter, saying he has \" consistently supported democratic campaigns. \" he also denies threatening to sue anybody who leaks tapes from the apprentice. Mashable reports that a group calling itself the \" trump sunlight campaign \" has started a gofundme page to raise $ 5.1 million to cover legal fees for anybody leaking trump material. Tv producer chris nee, who says the unreleased material includes trump saying the n-word, has claimed $ 5 million is the penalty for employees who leak material from the apprentice. The huffington post says it has obtained the transcript for some unaired moments in the apprentice's ninth season, in which trump criticizes the skin of musician emily west. \" i assume you're gonna leave this off, don't put this shit on the show, you know, \" he says. \" but her skin, her skin sucks, ok? i mean her skin, she needs some serious fuckin'dermatology. \" politico reports that clinton ally david brock says he ' ll pay the legal fees of anybody involved with the apprentice who leaks trump tapes in their possession. The daily show has tweeted a video clip from 2010 of trump firing contestant maria kanellis for using what he calls \" locker room \" talk. \" this is my boardroom. It's not a locker room, \" he says. \" maria, you're fired. \"",
         "split": "train",
         "cleansed_document": [
             "Republican presidential candidate donald trump speaks during a campaign rally, monday, oct. 10, 2016, in ambridge, pa. ( ap photo/ evan vucci ) ( associated press ) washington ( ap ) — the latest on the u.s. Presidential race ( all times edt ): 8: 45 p.m. The executive producer of \" the apprentice \" says he doesn't have the right to release footage from the reality tv show once hosted by donald trump. Mgm, which owns executive producer mark burnett's",
             "On media blog archives select date … december, 2015 november, 2015 october, 2015 september, 2015 august, 2015 july, 2015 june, 2015 may, 2015 april, 2015 march, 2015 february, 2015 january, 2015 correct the record put out a report emphasizing there's no proof the server was hacked -- but you can't say the same for the federal government &#124; ap photo david brock: i will pay for ' apprentice'tapes david brock is volunteering to pay for",
-            "Top democratic operatives have offered to pay millions of dollars for unaired footage of donald trump on the set of \"the apprentice, \" hoping to unearth another unscripted moment like the one that surfaced friday from 2005, when trump said he would grab women \"by the pussy. \" but it's not just videos they should be looking for. \"the apprentice, \" executive produced by mark burnett, had a transcript service. And on some occasions, transcribers captured moments that didn't end up on air",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Top democratic operatives have offered to pay millions of dollars for unaired footage of donald trump on the set of \"the apprentice, \" hoping to unearth another unscripted moment like the one that surfaced friday from 2005, when trump said he would grab women \"by the pussy. \" but it's not just videos they should be looking for. \"the apprentice, \" executive produced by mark burnett, had a transcript service. And on some occasions, transcribers captured moments that didn't end up on air"
         ],
         "raw_document": [
             "Republican presidential candidate donald trump speaks during a campaign rally, monday, oct. 10, 2016, in ambridge, pa. ( ap photo/ evan vucci ) ( associated press ) washington ( ap ) — the latest on the u.s. Presidential race ( all times edt ): 8: 45 p.m. The executive producer of \" the apprentice \" says he doesn't have the right to release footage from the reality tv show once hosted by donald trump. Mgm, which owns executive producer mark burnett's",
@@ -1896,7 +1884,7 @@
             "2": 3,
             "3": 2,
             "4": 0,
-            "5": 0
+            "5": 5
         }
     },
     {
@@ -2179,12 +2167,11 @@
     },
     {
         "idx": 29782,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "President obama is rolling out major new steps to fight methane emissions, aiming to cut them by up to 45 % of 2012 levels within a decade. The administration's rules will address the growing domestic oil and gas industries, whose expansion is expected to significantly increase the amount of methane sent into the atmosphere, the los angeles times reports. The white house will use its executive authority in the effort against climate change, with the epa putting new rules forward this summer to be finalized next year, the new york times reports. The administration announced the new rules today, citing \" benefits for the climate, the economy, and public health, \" usa today adds. \" this is the biggest opportunity to curb climate change pollution that they haven't already seized, \" says an advocate with the natural resources defense council. But the plan is already drawing criticism from both climate change activists, who say it doesn't go far enough, as well as industry leaders. The plan largely targets new efforts at oil and gas production rather than existing ones, which means it \" misses 90 % of the methane pollution from the industry, \" says a clean air advocate. \" the administration is proposing to fight methane pollution with one hand tied behind its back. \" meanwhile, the industry says new rules could hurt the current boom. A business leader tells the new york times the industry is already \" incentivized \" to stop methane leaks, since \" we want to bring it to market. \" in september, obama similarly cracked down on power plant emissions.",
         "split": "train",
         "cleansed_document": [
-            "President obama ( photo: nicholas kamm, afp/getty images ) the obama administration announced wednesday it would move forward with developing new regulations to cut methane emissions generated by the oil and gas industry. The goal is to cut methane emissions by 40 % -to-45 % by the year 2025 from levels recorded in 2012, according to the preliminary plan. The administration will now write rules that include voluntary actions by industry as well as regulations from the environmental protection agency and the interior department. There are no cost estimates. The plan will \" have benefits for the climate, the economy, and public health, \" said dan utech, special assistant to the president for energy and climate change environmentalists have long advocated new methane rules, saying the potent greenhouse gas is a major contributor to global warming. Rhea suh, president of the natural resources defense council, said meeting the plan's ambitious goals \" will require epa to curb methane pollution from all existing oil and gas operations across the nation, not just those in some parts of the country. \" the oil and gas industry has objected to new regulations, saying they would curb what have become record levels of energy production. Jack gerard, president and ceo of the american petroleum institute, said the industry is already putting technology in place to reduce methane emissions. \" another",
-            "As president obama tries to build an enduring legacy on climate change, he is finding that the biggest obstacle in his path may not be his many critics in congress or lawsuits from oil companies but the precarious state of the economy. That much was clear in the white house announcement wednesday of what it framed as an audacious effort to cut by nearly half the greenhouse gas emissions from oil and gas production. Although the plan provoked predictable angry reactions from energy firms, it ultimately reflected an administration that is treading cautiously on its signature environmental cause, wary of disrupting — or even being perceived of disrupting — the boom in domestic energy extraction driving the economic recovery. Obama stopped well short of exercising his full authority under the clean air act. The long-awaited plan to cut methane emissions, a byproduct of oil and gas production, does not apply to most existing energy extraction facilities. Environmentalists quickly expressed disappointment with that exemption. They warned that it may preclude obama from making good on his pledge to reduce the nation's overall greenhouse gases to 17 % below where they were in 2005 within the next five years. The new york attorney general joined them in calling on the administration to push harder. Methane is among the most potent drivers of climate change. It accounted for nearly 10 % of the u.s. Greenhouse gas released"
+            "President obama ( photo: nicholas kamm, afp/getty images ) the obama administration announced wednesday it would move forward with developing new regulations to cut methane emissions generated by the oil and gas industry. The goal is to cut methane emissions by 40 % -to-45 % by the year 2025 from levels recorded in 2012, according to the preliminary plan. The administration will now write rules that include voluntary actions by industry as well as regulations from the environmental protection agency and the interior department. There are no cost estimates. The plan will \" have benefits for the climate, the economy, and public health, \" said dan utech, special assistant to the president for energy and climate change environmentalists have long advocated new methane rules, saying the potent greenhouse gas is a major contributor to global warming. Rhea suh, president of the natural resources defense council, said meeting the plan's ambitious goals \" will require epa to curb methane pollution from all existing oil and gas operations across the nation, not just those in some parts of the country. \" the oil and gas industry has objected to new regulations, saying they would curb what have become record levels of energy production. Jack gerard, president and ceo of the american petroleum institute, said the industry is already putting technology in place to reduce methane emissions. \" another"
         ],
         "raw_document": [
             "President obama ( photo: nicholas kamm, afp/getty images ) the obama administration announced wednesday it would move forward with developing new regulations to cut methane emissions generated by the oil and gas industry. The goal is to cut methane emissions by 40 % -to-45 % by the year 2025 from levels recorded in 2012, according to the preliminary plan. The administration will now write rules that include voluntary actions by industry as well as regulations from the environmental protection agency and the interior department. There are no cost estimates. The plan will \" have benefits for the climate, the economy, and public health, \" said dan utech, special assistant to the president for energy and climate change environmentalists have long advocated new methane rules, saying the potent greenhouse gas is a major contributor to global warming. Rhea suh, president of the natural resources defense council, said meeting the plan's ambitious goals \" will require epa to curb methane pollution from all existing oil and gas operations across the nation, not just those in some parts of the country. \" the oil and gas industry has objected to new regulations, saying they would curb what have become record levels of energy production. Jack gerard, president and ceo of the american petroleum institute, said the industry is already putting technology in place to reduce methane emissions. \" another",
@@ -2199,17 +2186,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 29783,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Desmond tutu has unloaded on the obama white house in a letter to the editor in the new york times, drawing a parallel to the us war on terror with both slavery and apartheid. Tutu was set off by a story this week saying the us might set up a special court to vet any decisions to kill american citizens who are suspected terrorists. But it would be worried only about us citizens. \" would your supreme court really want to tell humankind that we, like the slave dred scott in the 19th century, are not as human as you are? \" asks tutu. \" i used to say of apartheid that it dehumanized its perpetrators as much as, if not more than, its victims. \" the same applies to these tactics, he adds. \" your response as a society to osama bin laden and his followers threatens to undermine your moral standards and your humanity. \" read the full letter here.",
         "split": "train",
         "cleansed_document": [
-            "To the editor: i am deeply, deeply disturbed at the suggestion in \"a court to vet kill lists \" ( news analysis, front page, feb. 9 ) that possible judicial review of president obama's decisions to approve the targeted killing of suspected terrorists might be limited to the killings of american citizens. Do the united states and its people really want to tell those of us who live in the rest of the world that our lives are not of the same value as yours? that president obama can sign off on a decision to kill us with less worry about judicial scrutiny than if the target is an american? would your supreme court really want to tell humankind that we, like the slave dred scott in the 19th century, are not as human as you are? i cannot believe it. I used to say of apartheid that it dehumanized its perpetrators as much as, if not more than, its victims. Your response as a society to osama bin laden and his followers threatens to undermine your moral standards and your humanity. Desmond m. Tutu aboard mv explorer, near hong kong feb. 11, 2013 the writer, winner of the 1984 nobel peace prize, is archbishop emeritus of cape town. Advertisement continue reading the main story to the editor: the war on terrorism should be treated like any other war. In all wars, we seek out our enemies and kill or capture",
-            "Washington — since 1978, a secret court in washington has approved national security eavesdropping on american soil — operations that for decades had been conducted based on presidential authority alone. Now, in response to broad dissatisfaction with the hidden bureaucracy directing lethal drone strikes, there is an interest in applying the model of the foreign intelligence surveillance act court — created by congress so that surveillance had to be justified to a federal judge — to the targeted killing of suspected terrorists, or at least of american suspects. \"we've gone from people scoffing at this to it becoming a fit subject for polite conversation, \" said robert m. Chesney, a law professor at the university of texas. He said court approval for adding names to a counterterrorism kill list — at least for american citizens abroad — \"is no longer beyond the realm of political possibility. \" a drone court would face constitutional, political and practical obstacles, and might well prove unworkable, according to several legal scholars and terrorism experts. But with the war in afghanistan winding down, al qaeda fragmenting into hard-to-read offshoots and the 2001 terrorist attacks receding into the past, they said, it is time to consider how to forge a new, trustworthy and transparent system to govern lethal counterterrorism operations."
+            "To the editor: i am deeply, deeply disturbed at the suggestion in \"a court to vet kill lists \" ( news analysis, front page, feb. 9 ) that possible judicial review of president obama's decisions to approve the targeted killing of suspected terrorists might be limited to the killings of american citizens. Do the united states and its people really want to tell those of us who live in the rest of the world that our lives are not of the same value as yours? that president obama can sign off on a decision to kill us with less worry about judicial scrutiny than if the target is an american? would your supreme court really want to tell humankind that we, like the slave dred scott in the 19th century, are not as human as you are? i cannot believe it. I used to say of apartheid that it dehumanized its perpetrators as much as, if not more than, its victims. Your response as a society to osama bin laden and his followers threatens to undermine your moral standards and your humanity. Desmond m. Tutu aboard mv explorer, near hong kong feb. 11, 2013 the writer, winner of the 1984 nobel peace prize, is archbishop emeritus of cape town. Advertisement continue reading the main story to the editor: the war on terrorism should be treated like any other war. In all wars, we seek out our enemies and kill or capture"
         ],
         "raw_document": [
             "To the editor: i am deeply, deeply disturbed at the suggestion in \"a court to vet kill lists \" ( news analysis, front page, feb. 9 ) that possible judicial review of president obama's decisions to approve the targeted killing of suspected terrorists might be limited to the killings of american citizens. Do the united states and its people really want to tell those of us who live in the rest of the world that our lives are not of the same value as yours? that president obama can sign off on a decision to kill us with less worry about judicial scrutiny than if the target is an american? would your supreme court really want to tell humankind that we, like the slave dred scott in the 19th century, are not as human as you are? i cannot believe it. I used to say of apartheid that it dehumanized its perpetrators as much as, if not more than, its victims. Your response as a society to osama bin laden and his followers threatens to undermine your moral standards and your humanity. Desmond m. Tutu aboard mv explorer, near hong kong feb. 11, 2013 the writer, winner of the 1984 nobel peace prize, is archbishop emeritus of cape town. Advertisement continue reading the main story to the editor: the war on terrorism should be treated like any other war. In all wars, we seek out our enemies and kill or capture",
@@ -2224,17 +2210,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 29784,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A cyber-security expert has released thousands of occupy wall street protesters ' emails — and says he has learned which of the protesters are affiliated with anonymous. Group members are participating in the movement, gawker notes, but tom ryan, who leaked some 3,900 messages from an occupy wall street mailing list, argues that they're secretly in charge. He says anonymous is leading a campaign of misinformation and attempting to spark police violence, but he hasn't thus far proved the claim, gawker notes. Ryan knows \" which of them are anonymous members, who aren't, and what they do and their alter-egos, \" he says. He also says he can tie ows to terrorist groups, alleging that there are occupy posts on al-qaeda recruitment forums. Now andrew breitbart has got his hands on the emails, and he says they prove that the protests amount to a \" conspiracy to'destabalize ' [ sic ] global markets. \" click through for the full story.",
         "split": "train",
         "cleansed_document": [
-            "See for yourself these emails for the google group set up to \" organize \" occupy wall street were placed on mediafire by an uknown individual. Dc406 makes them available with no judgement. Search them for yourselves. The only modifications that have been made have been to add the navigation elements at the bottom of each email. Search for specific terms",
-            "We're in this for the long haul. There are no \"solutions \" that can be presented quickly to make us go away. And so there will be moments where our presence is no longer an uncomfortable and unknown variable, but rather is normalized and integrated. It's in those moments that we have to push the envelop [ sic ], pry open the space of possibility even farther. We go as far as we can to destabalize [ sic ], but maintain momentum. And when that's the new \"normal \" then we go farther. That's how change happens, how we shift the terrain and the terms of the game. - email in \"occupy \" archive, \"re: can ows be turned into a democratic party movement? \"; wednesday, october 12, 2011 in keeping with the new media notion of crowdsourcing – enthusiastically embraced by the mainstream media when trawling through sarah palin's emails – big government will be providing readers later today with links to a document drop consisting of thousands of emails. The email archive, created by a private cyber security researcher, appears to contain messages shared by the left's anarcho-socialist activists during the strategic and daily tactical planning of the \"occupy wall street \" and broader \"occupy \" campaign this fall. Big government received a tip about the existence of the archive, and we were able to contact the individual who compiled and posted it. He will describe the archive, and how he obtained the emails, later this morning exclusively on big government. Through \"crowdsourcing, \" the media and the public will then be able to discover the truth behind the \"occupy \" movement. The archive includes emails, for example, from radical anarchist organizer lisa fithian, who was profiled earlier this week at big government, and who is one of the leading organizers behind the occupy movement. In one email, dated october 1, fithian applauds the launch of \"occupations \" throughout the country. She also highlights an acorn-style illegal home occupation in california, linking to a television news story that reveals the involvement of the alliance of californians for community empowerment ( acce ), which is apparently the reconstituted version of acorn in california. Owsmaillist_0001-3 – per the 8800+ pages of emails ( 3900+ emails ), the occupy movement has been in the"
+            "See for yourself these emails for the google group set up to \" organize \" occupy wall street were placed on mediafire by an uknown individual. Dc406 makes them available with no judgement. Search them for yourselves. The only modifications that have been made have been to add the navigation elements at the bottom of each email. Search for specific terms"
         ],
         "raw_document": [
             "See for yourself these emails for the google group set up to \" organize \" occupy wall street were placed on mediafire by an uknown individual. Dc406 makes them available with no judgement. Search them for yourselves. The only modifications that have been made have been to add the navigation elements at the bottom of each email. Search for specific terms",
@@ -2249,7 +2234,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2274,18 +2259,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 29786,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A co-author of a controversial study that involved secretly altering the news feeds of some facebook users back in 2012 has apologized, on facebook, naturally. \" i can understand why some people have concerns about it, and my coauthors and i are very sorry for the way the paper described the research and any anxiety it caused, \" wrote facebook data scientist adam kramer, per time. \" in hindsight, the research benefits of the paper may not have justified all of this anxiety. \" the study altered news feeds so that some users saw more positive status updates while others saw more negative status updates. \" we felt that it was important to investigate the common worry that seeing friends post positive content leads to people feeling negative or left out, \" kramer explains. \" at the same time, we were concerned that exposure to friends ' negativity might lead people to avoid visiting facebook. \" they ended up finding the opposite — those who saw more positive updates were more likely to be positive in their own updates, and vice versa. Kramer goes on to explain that only about 0.04 % of users saw their feeds impacted, that the experiment lasted only a week, and that no one had any posts actually \" hidden. \" still, as the verge points out, 0.04 % of facebook users amounts to hundreds of thousands of people ( 689,003, specifically ). Facebook provided its own statement to the guardian, saying the study was meant to help facebook understand \" how people respond to different types of content \" so that the social network can provide the most \" relevant and engaging \" content.",
         "split": "train",
         "cleansed_document": [
             "According to a new paper in the proceedings of the national academy of science, facebook altered the news feeds for hundreds of thousands of users as part of a psychology experiment devised by the company's on-staff data scientist. By scientifically altering news feeds, the experiment sought to learn about the way positive and negative effect travels through social networks, ultimately concluding that \" in-person interaction and nonverbal cues are not strictly necessary for emotional contagion. \" \" each emotional post had between a 10 percent and 90 percent chance... Of being omitted. \" to test the hypothesis, the researchers identified 689,003 different english-language facebook users, and began removing emotionally negative posts for one group and positive posts for another. According to the paper, \" when a person loaded their news feed, posts that contained emotional content of the relevant emotional valence, each emotional post had between a 10 percent and 90",
-            "One of the authors of a controversial facebook study into emotional states published this month has apologized for anxiety caused. Facebook tweaked the news feeds of nearly 700,000 users by displaying disproportionately positive or negative statuses for one week in january 2012, to help its researchers understand how emotional states are transmitted on social media. More than 3 million posts were analyzed in the experiment. \"my co-authors and i are very sorry for the way the paper described the research and any anxiety it caused. In hindsight, the research benefits of the paper may not have justified all of this anxiety, \" wrote adam kramer, one of the three authors, in a facebook post. But kramer also defended the social network's study. \"we felt that it was important to investigate the common worry that seeing friends post positive content leads to people feeling negative or left out, \" he wrote. Controversy",
-            "It already knows whether you are single or dating, the first school you went to and whether you like or loathe justin bieber. But now facebook, the world's biggest social networking site, is facing a storm of protest after it revealed it had discovered how to make users feel happier or sadder with a few computer key strokes. It has published details of a vast experiment in which it manipulated information posted on 689,000 users ' home pages and found it could make people feel more positive or negative through a process of \" emotional contagion \". In a study with academics from cornell and the university of california, facebook filtered users ' news feeds – the flow of comments, videos, pictures and web links posted by other people in their social network. One test reduced users ' exposure to their friends ' \" positive emotional content \", resulting in fewer positive posts"
+            "One of the authors of a controversial facebook study into emotional states published this month has apologized for anxiety caused. Facebook tweaked the news feeds of nearly 700,000 users by displaying disproportionately positive or negative statuses for one week in january 2012, to help its researchers understand how emotional states are transmitted on social media. More than 3 million posts were analyzed in the experiment. \"my co-authors and i are very sorry for the way the paper described the research and any anxiety it caused. In hindsight, the research benefits of the paper may not have justified all of this anxiety, \" wrote adam kramer, one of the three authors, in a facebook post. But kramer also defended the social network's study. \"we felt that it was important to investigate the common worry that seeing friends post positive content leads to people feeling negative or left out, \" he wrote. Controversy"
         ],
         "raw_document": [
             "According to a new paper in the proceedings of the national academy of science, facebook altered the news feeds for hundreds of thousands of users as part of a psychology experiment devised by the company's on-staff data scientist. By scientifically altering news feeds, the experiment sought to learn about the way positive and negative effect travels through social networks, ultimately concluding that \" in-person interaction and nonverbal cues are not strictly necessary for emotional contagion. \" \" each emotional post had between a 10 percent and 90 percent chance... Of being omitted. \" to test the hypothesis, the researchers identified 689,003 different english-language facebook users, and began removing emotionally negative posts for one group and positive posts for another. According to the paper, \" when a person loaded their news feed, posts that contained emotional content of the relevant emotional valence, each emotional post had between a 10 percent and 90",
@@ -2302,7 +2286,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2327,7 +2311,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2432,7 +2416,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2598,7 +2582,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {

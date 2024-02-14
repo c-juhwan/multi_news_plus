@@ -24,7 +24,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -59,12 +59,11 @@
     },
     {
         "idx": 802,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Russian president vladimir putin on monday criticized soviet founder vladimir lenin, accusing him of placing a \" time bomb \" under the state and sharply denouncing brutal repressions by the bolshevik government. The harsh criticism of lenin, who's still revered by communists and many others in russia, is unusual ( though not unheard of ) for putin, who in the past carefully weighed his comments about the nation's history to avoid alienating some voters. Putin's assessment of lenin's role in russian history during monday's meeting with pro-kremlin activists in stavropol follows on attacks last week on the anniversary of lenin's death, notes newsweek. He denounced lenin and his government for brutally executing russia's last czar along with his family and servants, killing thousands of priests, and placing a \" time bomb \" under the russian state by drawing administrative borders along ethnic lines. As an example of lenin's destructive legacy, putin pointed at donbass, the industrial region in eastern ukraine where a pro-russia separatist rebellion flared up weeks after russia's march 2014 annexation of ukraine's crimean peninsula. He said that lenin and his government whimsically drew borders between parts of the ussr, placing donbass under ukrainian jurisdiction in order to \" increase the percentage of proletariat \" in a move putin called \" delirious. \" putin also blasted the bolsheviks for losing world war i in their quest for power. Putin's recent criticism of lenin could be part of his attempts to justify moscow's policy in the ukrainian crisis, but it also may reflect the kremlin's concern about possible separatist sentiments in some russian provinces. Despite his remarks, putin signaled that the government has no intention of taking lenin's body out of his red square tomb, warning against \" any steps that would divide the society. \"",
         "split": "train",
         "cleansed_document": [
-            "Russian president vladimir putin has slammed former soviet leader vladimir lenin for ruining the soviet union and for metaphorically laying \"an atomic bomb \" underneath russia, the country's independent news agency interfax reports. Speaking at a meeting of the presidential council for science and education in moscow on the anniversary of lenin's death on thursday, putin was asked about his opinion of lenin and the communist revolution of 1917, by the head of moscow's kurchatov institute. The russian president was asked to respond to a poem by boris pasternak where it is alleged lenin's focus was too set on ensuring everyone's ideas were communist before doing his duty as a statesman. \"ruling with your ideas as a guide is correct, but that is only the case when that idea leads to the right results, not like it did with vladimir ilyich ( lenin ), \" putin said using lenin's middle name. \"in the end that idea led to the ruin of the soviet union, \" he added. \"there were many of these ideas such as providing regions with autonomy, and so on. They planted an atomic bomb under the building that is called russia and which would later explode, \" said putin. \"we did not need a global revolution either. \" the term \"lenin \" has since become a top trend on",
-            "As russia's military escalation in eastern ukraine continued last week, vladimir putin found time to visit the seliger national youth forum, a summer camp for pro-kremlin young people some two hundred miles northwest of moscow. Among the many subjects discussed was history: he spoke about the bolsheviks, the masterminds of the 1917 october revolution and the founders of the soviet state. To many in russia, putin's interpretation of the revolution would sound odd. He accused the bolsheviks of treachery because they undermined the country's military effort against the germans in the first world war. Russia had entered the conflict as an ally of france and britain. Three years later, the imperial regime fell, exhausted by the war and undermined by broad public unrest**. ** the country was in disarray; soldiers defected. Several months after the collapse of the russian empire, the bolsheviks seized power. Lenin, their leader, who had called for \"turning the imperialistic war into a civil one, \" withdrew russia from the alliance and made peace with germany. His plan was to pitthe disenfranchised ( soldiers, peasants, workers ) against the nobility and the propertied class, to radically destroy the _ancien régime _and consolidate bolshevik power. He launched the red terror, a merciless extermination of the whites, the \"hostile classes \"; the officers of"
+            "Russian president vladimir putin has slammed former soviet leader vladimir lenin for ruining the soviet union and for metaphorically laying \"an atomic bomb \" underneath russia, the country's independent news agency interfax reports. Speaking at a meeting of the presidential council for science and education in moscow on the anniversary of lenin's death on thursday, putin was asked about his opinion of lenin and the communist revolution of 1917, by the head of moscow's kurchatov institute. The russian president was asked to respond to a poem by boris pasternak where it is alleged lenin's focus was too set on ensuring everyone's ideas were communist before doing his duty as a statesman. \"ruling with your ideas as a guide is correct, but that is only the case when that idea leads to the right results, not like it did with vladimir ilyich ( lenin ), \" putin said using lenin's middle name. \"in the end that idea led to the ruin of the soviet union, \" he added. \"there were many of these ideas such as providing regions with autonomy, and so on. They planted an atomic bomb under the building that is called russia and which would later explode, \" said putin. \"we did not need a global revolution either. \" the term \"lenin \" has since become a top trend on"
         ],
         "raw_document": [
             "Russian president vladimir putin has slammed former soviet leader vladimir lenin for ruining the soviet union and for metaphorically laying \"an atomic bomb \" underneath russia, the country's independent news agency interfax reports. Speaking at a meeting of the presidential council for science and education in moscow on the anniversary of lenin's death on thursday, putin was asked about his opinion of lenin and the communist revolution of 1917, by the head of moscow's kurchatov institute. The russian president was asked to respond to a poem by boris pasternak where it is alleged lenin's focus was too set on ensuring everyone's ideas were communist before doing his duty as a statesman. \"ruling with your ideas as a guide is correct, but that is only the case when that idea leads to the right results, not like it did with vladimir ilyich ( lenin ), \" putin said using lenin's middle name. \"in the end that idea led to the ruin of the soviet union, \" he added. \"there were many of these ideas such as providing regions with autonomy, and so on. They planted an atomic bomb under the building that is called russia and which would later explode, \" said putin. \"we did not need a global revolution either. \" the term \"lenin \" has since become a top trend on",
@@ -79,7 +78,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -133,13 +132,12 @@
     },
     {
         "idx": 805,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Scientists have made their own version of jupiter's great red spot in a lab, and it suggests that the spot's cause is very different from what's been postulated. An existing theory holds that the spot is the result of chemicals underneath the planet's clouds. But following the new research, experts say that the sun is responsible for the color: sunlight may break up chemicals in jupiter's atmosphere, phys.org reports. Scientists in pasadena, calif., came to the conclusion after re-creating the effects at nasa's jet propulsion laboratory. They were able to get a spot-like red effect by directing ultraviolet light at ammonia and acetylene, gases that are both found on the planet. Their new theory: \" most of the great red spot is actually pretty bland in color, beneath the upper cloud layer of reddish material, \" says a researcher. \" under the reddish'sunburn'the clouds are probably whitish or grayish. \" so why is it confined to just one spot? \" the great red spot … reaches much higher altitudes than clouds elsewhere on jupiter, \" the expert notes. The spot is actually a storm with winds of up to hundreds of miles per hour, the daily mail reports. Wind in the area brings ammonia particles higher in the atmosphere where they can be exposed to more sunlight, and a vortex keeps them there, the researchers say. The spot, by the way, is a lot smaller than it used to be.",
         "split": "train",
         "cleansed_document": [
             "Research suggests effects of sunlight produce the color of jupiter's great red spot. The feature's clouds are much higher than those elsewhere on the planet, and its vortex nature confines the reddish particles once they form. Credit: nasa/jpl-caltech/ space science institute ( phys.org ) — the ruddy color of jupiter's great red spot is likely a product of simple chemicals being broken apart by sunlight in the planet's upper atmosphere, according to a new analysis of data from nasa's cassini mission. The results contradict the other leading theory for the origin of the spot's striking color — that the reddish chemicals come from beneath jupiter's clouds. The results are being presented this week by kevin baines, a cassini team scientist based at nasa's jet propulsion laboratory, pasadena, california, at the american astronomical society's division for planetary science meeting in tucson, arizona. Baines and jpl colleagues bob carlson and tom momary arrived at their conclusions using a combination of",
-            "The mystery of jupiter's great red spot solved: astronomers find planet's ' pimple ' is simply sunburn colour product of simple chemicals being broken apart by sunlight researchers previously though odd phenomenon came from under clouds the great red spot is as wide as two earths it has baffled astronomers for years - just what causes the'red spot ' on the surface of jupiter? now they have an unlikely answer - sunburn. Nasa experts believe it is likely a product of simple chemicals being broken apart by sunlight in the planet's upper atmosphere. Experts believe the'spot ' is a product of simple chemicals being broken apart by sunlight in the planet's upper atmosphere. How they recreated the spot in the lab, the researchers blasted ammonia and acetylene gases - chemicals known to exist on jupiter - with ultraviolet light, to simulate the sun's effects on these materials at the extreme heights of clouds in the great red spot. This produced a reddish material, which the team",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "The mystery of jupiter's great red spot solved: astronomers find planet's ' pimple ' is simply sunburn colour product of simple chemicals being broken apart by sunlight researchers previously though odd phenomenon came from under clouds the great red spot is as wide as two earths it has baffled astronomers for years - just what causes the'red spot ' on the surface of jupiter? now they have an unlikely answer - sunburn. Nasa experts believe it is likely a product of simple chemicals being broken apart by sunlight in the planet's upper atmosphere. Experts believe the'spot ' is a product of simple chemicals being broken apart by sunlight in the planet's upper atmosphere. How they recreated the spot in the lab, the researchers blasted ammonia and acetylene gases - chemicals known to exist on jupiter - with ultraviolet light, to simulate the sun's effects on these materials at the extreme heights of clouds in the great red spot. This produced a reddish material, which the team"
         ],
         "raw_document": [
             "Research suggests effects of sunlight produce the color of jupiter's great red spot. The feature's clouds are much higher than those elsewhere on the planet, and its vortex nature confines the reddish particles once they form. Credit: nasa/jpl-caltech/ space science institute ( phys.org ) — the ruddy color of jupiter's great red spot is likely a product of simple chemicals being broken apart by sunlight in the planet's upper atmosphere, according to a new analysis of data from nasa's cassini mission. The results contradict the other leading theory for the origin of the spot's striking color — that the reddish chemicals come from beneath jupiter's clouds. The results are being presented this week by kevin baines, a cassini team scientist based at nasa's jet propulsion laboratory, pasadena, california, at the american astronomical society's division for planetary science meeting in tucson, arizona. Baines and jpl colleagues bob carlson and tom momary arrived at their conclusions using a combination of",
@@ -156,7 +154,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -233,7 +231,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -301,12 +299,11 @@
     },
     {
         "idx": 811,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A youtube video proves why you should never fall asleep on the job — particularly if you have 1,300 sheep in your care. A resident in the spanish city of huesca called police around 4: 30am tuesday to report a herd of sheep making its way through the city streets, per the telegraph. And what a herd it was. About five officers spent 45 minutes rounding up the animals before delivering them to their shepherd, who was fast asleep, reports mashable. The shepherd — who was apparently waiting to begin an age-old tradition of migrating the sheep through the city to summer grazing grounds in the pyrenees mountains — hadn't even realized the sheep were missing.",
         "split": "train",
         "cleansed_document": [
-            "If you suffer from a fear of sheep you might want to skip this video showing 1,300 sheep running on the loose and basically taking over a town as if they were in new zealand horror movie black sheep. The freakish incident occurred just after 4 a.m. In the northeastern spanish city of huesca, south of the pyrenees mountains, on the french border, after a shepherd fell asleep, according to local police. See also: a little town is being ruled by hundreds of crazy goats alerted by several phone calls from residents, huesca police were forced to round up the flock, which had already taken over the city centre, and deliver them back to the shepherd. Two police cars were sent to the scene and five officers spent about 45 minutes trying to round up all the sheep and return them to their pen. A video posted by huesca police on their facebook page shows a police car with it lights on pulling up in front of the flock. The shepherd had dozed off instead of guiding the sheep onto the pastures of the pyrenees, where they ' ll spend the summer. Have something to add to this story? share it in the comments.",
-            "Rating is available when the video has been rented. This feature is not available right now. Please try again later."
+            "If you suffer from a fear of sheep you might want to skip this video showing 1,300 sheep running on the loose and basically taking over a town as if they were in new zealand horror movie black sheep. The freakish incident occurred just after 4 a.m. In the northeastern spanish city of huesca, south of the pyrenees mountains, on the french border, after a shepherd fell asleep, according to local police. See also: a little town is being ruled by hundreds of crazy goats alerted by several phone calls from residents, huesca police were forced to round up the flock, which had already taken over the city centre, and deliver them back to the shepherd. Two police cars were sent to the scene and five officers spent about 45 minutes trying to round up all the sheep and return them to their pen. A video posted by huesca police on their facebook page shows a police car with it lights on pulling up in front of the flock. The shepherd had dozed off instead of guiding the sheep onto the pastures of the pyrenees, where they ' ll spend the summer. Have something to add to this story? share it in the comments."
         ],
         "raw_document": [
             "If you suffer from a fear of sheep you might want to skip this video showing 1,300 sheep running on the loose and basically taking over a town as if they were in new zealand horror movie black sheep. The freakish incident occurred just after 4 a.m. In the northeastern spanish city of huesca, south of the pyrenees mountains, on the french border, after a shepherd fell asleep, according to local police. See also: a little town is being ruled by hundreds of crazy goats alerted by several phone calls from residents, huesca police were forced to round up the flock, which had already taken over the city centre, and deliver them back to the shepherd. Two police cars were sent to the scene and five officers spent about 45 minutes trying to round up all the sheep and return them to their pen. A video posted by huesca police on their facebook page shows a police car with it lights on pulling up in front of the flock. The shepherd had dozed off instead of guiding the sheep onto the pastures of the pyrenees, where they ' ll spend the summer. Have something to add to this story? share it in the comments.",
@@ -321,7 +318,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -376,7 +373,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -651,7 +648,7 @@
             "1": 1,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -742,15 +739,14 @@
     },
     {
         "idx": 827,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "A military mom whose rare form of cancer was discovered when she gave birth to twins has died, after two months of battling the illness and attracting a devoted online following. Jenna hinman, 26, succumbed on monday to a placental cancer that doctors found when she gave birth to azlynn and kinleigh on march 3, abc news reports. The girls were delivered 30 weeks ' premature ( at 3 pounds, 6 ounces, and 2 pounds 9 ounces, respectively ) and stayed in intensive care for 6 weeks, but are fine today. For jenna, the battle was far more severe. Doctors had to invent treatments because hinman's stage 3 choriocarcinoma — which originates in fast-growing placental tissue — is incredibly rare, the post-standard reports. Hinman was placed in a medically induced coma and given chemotherapy, but while her cancer count fell, she stayed in critical condition and eventually died of complications from pneumonia. \" she's probably the most kind-hearted person i ever met, \" said her husband, army sgt. Brandon hinman, back in march. \" she would go out of her way for anyone, give them the shirt off her back. \" the outpouring has been tremendous, as thousands sent messages and donated money: \" many cried at monday's news that jenna had died, \" wrote the post-standard in an editorial. Click for more on her story.",
         "split": "train",
         "cleansed_document": [
             "Syracuse, ny -- jenna hinman's two-month battle with a rare cancer captured the attention of thousands of people around the world who prayed for her recovery and are now mourning her death. Jenna hinman died monday afternoon after developing pneumonia on sunday, according to the prayers for jenna facebook page. She was 26. U.s. Army sgt. Brandon hinman and jenna hinman were thrilled when they learned that they were going to have twin daughters. The couple, who were married in december 2010, was stationed at fort drum. Brandon hinman is from weedsport and jenna hinman is from port byron. At 30-weeks pregnant, jenna hinman gave birth to kinleigh",
             "Jenna hinman, a syracuse, n.y., mother who learned she had a rare placental cancer just after delivering twin girls last month, died monday of complications of pneumonia, according to the hospital that treated her. \" we are heartbroken and our hearts go out to her family, \" crouse hospital spokesman bob allen told abcnews.com today. \" she touched so many people from around the country. \" hinman, 26, gave birth march 3 to kinleigh ann hinman and azlynn mary hinman by emergency c-section only to have doctors immediately discover she was battling stage 3 choriocarcinoma. The twins, who were delivered premature at 30 weeks ( 2 pounds,",
             "So how does one take in the sad story of the death of jenna hinman? how does a wonderful story about the birth of twins become one of such anguish? how does one make sense of the senseless? jenna hinman was 26 when she died monday afternoon, succumbing to pneumonia at crouse hospital in syracuse. She died after a brief fight against a rare cancer, one linked to her pregnancy. She died after doctors performed cesarean section at 30 weeks to save the lives of two beautiful babies, who now are held in the arms of their loving father, u.s. Army sgt. Brandon hinman. It was during that procedure that",
-            "Jenna leigh hinman ( blaisdell ), of watertown, ny, died suddenly on may 5th 2014 after a heroic 2-month battle with cancer, which was discovered only days after she gave birth prematurely to twin girls. A typical morning turned into panic on march 3rd 2014 when jenna had difficulty catching her breath and started experiencing labor pains. Jenna was in her 30th week of pregnancy and was rushed to the emergency room where her baby girls were born via emergency c-section. Due to the babies ' premature birth, they were whisked away to the nicu with jenna only getting a quick glimpse of her newborns - kinleigh anne hinman ( 2 pounds 9",
-            "For those who knew jenna, it feels more than serendipitous that her..."
+            "Jenna leigh hinman ( blaisdell ), of watertown, ny, died suddenly on may 5th 2014 after a heroic 2-month battle with cancer, which was discovered only days after she gave birth prematurely to twin girls. A typical morning turned into panic on march 3rd 2014 when jenna had difficulty catching her breath and started experiencing labor pains. Jenna was in her 30th week of pregnancy and was rushed to the emergency room where her baby girls were born via emergency c-section. Due to the babies ' premature birth, they were whisked away to the nicu with jenna only getting a quick glimpse of her newborns - kinleigh anne hinman ( 2 pounds 9"
         ],
         "raw_document": [
             "Syracuse, ny -- jenna hinman's two-month battle with a rare cancer captured the attention of thousands of people around the world who prayed for her recovery and are now mourning her death. Jenna hinman died monday afternoon after developing pneumonia on sunday, according to the prayers for jenna facebook page. She was 26. U.s. Army sgt. Brandon hinman and jenna hinman were thrilled when they learned that they were going to have twin daughters. The couple, who were married in december 2010, was stationed at fort drum. Brandon hinman is from weedsport and jenna hinman is from port byron. At 30-weeks pregnant, jenna hinman gave birth to kinleigh",
@@ -771,7 +767,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 4
         }
     },
     {
@@ -806,14 +802,13 @@
     },
     {
         "idx": 829,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "There's no denying that humans are mad for their cellphones, but some are clearly more attached than others — and scientists now have a clearer understanding of why. Generally speaking, people who constantly check their phones have a problem controlling impulses, period, and they're not so great at delayed gratification, either, reports bustle. Once a person of this nature checks their phone, it triggers the impulse to keep checking it again and again, even if the reward will be a paltry one, say psychologists henry wilmer and jason chein of temple university in a post at science daily. They drew the conclusion after putting 91 undergrads through a series of tests that measured how often they checked their phones, how well they controlled their impulses, and whether they'd prefer to receive a small amount of money immediately or a larger sum if they waited a few days to a year. Among other things, wilmer and chein found that students who were least interested in waiting for that hypothetical sum of money — in other words, they were impatient — were more likely to check their phones frequently. \" mobile technology habits, such as frequent checking, seem to be driven most strongly by uncontrolled impulses and not by the desire to pursue rewards, \" wilmer concludes in psychonomic bulletin &amp; review. A post at cosmopolitan draws a lesson from the research: \" if you're the type to never let a retweet remain un-liked or a friend request go unnoticed, take a peek at some other areas of your life, \" writes katherine schreiber. \" if you're having trouble reining in urges — to, say, eat the whole pint of ice cream, resist ordering one more round, or flip out at a coworker or friend — it may be time to take a break from your smartphone and start practicing some self-regulation. \" ( some people have \" ringxiety. \" )",
         "split": "train",
         "cleansed_document": [
             "Some people frequently check and re-check their mobile phones. Once this impulse is triggered, it may be more a question of not being able to leave the device alone than actually hoping to gain some reward from it. These insights are drawn from a study1 by psychologists henry wilmer and jason chein of temple university in the us and are published in springer's journal psychonomic bulletin &amp; review. Their findings shed light on the reasons why some people are so attached to their smartphones and mobile technology, while others are less so. A better understanding of the impact of smartphone and mobile technology usage is needed to assess the potential problems associated with heavy use. Although",
             "Are you the type to respond to every single text asap? or are you capable of putting your smartphone down for hours and forget about its flashing blue light? a new study suggests that the more people check their devices, the more impulsive they are in their everyday lives. Two researchers from temple university had 91 undergraduates fill out a questionnaire assessing how often they used their phones to update social media, browse the internet, or interact with friends. Then they tested students ' ability to delay gratification ( aka wait ) by asking them whether they'd prefer a small sum of money right now or a large sum anywhere from a few days to a",
-            "Mobile electronic devices are playing an increasingly pervasive role in our daily activities. Yet, there has been very little empirical research investigating how mobile technology habits might relate to individual differences in cognition and affect. The research presented in this paper provides evidence that heavier investment in mobile devices is correlated with a relatively weaker tendency to delay gratification ( as measured by a delay discounting task ) and a greater inclination toward impulsive behavior ( i.e., weaker impulse control, assessed behaviorally and through self-report ) but is not related to individual differences in sensitivity to reward. Analyses further demonstrated that individual variation in impulse control mediates the relationship between mobile technology usage and delay of gratification. Although",
-            "An article published by time in 2015 reported that on average americans check their phone 48 times a day, with 18- to 24-year-olds averaging the most at 74 checks a day. Prompted by our growing dependence on technology, a new study published in the psychonomic bulletin &amp; review seeks to find out why some people are more addicted to their phones than others. I admit it — i am guilty of being one of the frequent checkers. Every time there is a facebook or a twitter notification i feel a burst of satisfaction. Sometimes, i even click the screen without being prompted by the soft \"ding \" that signals an update. Me and my phone are best"
+            "Mobile electronic devices are playing an increasingly pervasive role in our daily activities. Yet, there has been very little empirical research investigating how mobile technology habits might relate to individual differences in cognition and affect. The research presented in this paper provides evidence that heavier investment in mobile devices is correlated with a relatively weaker tendency to delay gratification ( as measured by a delay discounting task ) and a greater inclination toward impulsive behavior ( i.e., weaker impulse control, assessed behaviorally and through self-report ) but is not related to individual differences in sensitivity to reward. Analyses further demonstrated that individual variation in impulse control mediates the relationship between mobile technology usage and delay of gratification. Although"
         ],
         "raw_document": [
             "Some people frequently check and re-check their mobile phones. Once this impulse is triggered, it may be more a question of not being able to leave the device alone than actually hoping to gain some reward from it. These insights are drawn from a study1 by psychologists henry wilmer and jason chein of temple university in the us and are published in springer's journal psychonomic bulletin &amp; review. Their findings shed light on the reasons why some people are so attached to their smartphones and mobile technology, while others are less so. A better understanding of the impact of smartphone and mobile technology usage is needed to assess the potential problems associated with heavy use. Although",
@@ -832,7 +827,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -907,7 +902,7 @@
             "The summary discusses a bomb scare incident involving a rental car at Albuquerque International Sunport. Document 1 and Document 3 are relevant as they provide information about the bomb scare incident, the discovery of the device, and the response from authorities and employees. Document 2, on the other hand, discusses that the device was a hoax and posed no danger, which is not in line with the seriousness portrayed in the summary. Therefore, the irrelevant document is: Document 2"
         ],
         "vote_count": {
-            "0": 0,
+            "0": 1,
             "1": 3,
             "2": 0
         }
@@ -934,7 +929,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1019,14 +1014,13 @@
     },
     {
         "idx": 837,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "If you inhale deeply enough, perhaps you ' ll still smell her beef bourguignon. The french cottage that julia child built with funds from the second volume of mastering the art of french cooking is up for rent on airbnb in what bloomberg calls \" one of the company's most special offerings. \" the provence home where child spent her summers for three decades is now owned by americans evie and makenna johnston, who are, in a way, keeping up with tradition. The culinary legend often opened up her home to friends. She even had a little black book full of recommendations for the best butchers and fishmongers, as well as careful instructions on how to use her erratic oven. The book, like everything else in the kitchen, is just as child left it — except for the oven, which has been replaced with a new, state-of-the-art one. The cottage — built on land then-owned by child's co-author, simone beck — is currently renting for $ 628 per night for a minimum of five nights, but the johnstons also plan to introduce week-long, six-person culinary and yoga retreats next year. While a stay might be pricey for some, two lucky winners of an airbnb contest got the chance to visit the cottage on sunday, prepare a meal in the kitchen, forage for herbs in the garden, and shop the nearby markets, per conde nast traveler. ( this airbnb rental came with a crime scene. )",
         "split": "train",
         "cleansed_document": [
             "First it offered sleeping with sharks, and then it was an overnight in hamlet's castle. Now, airbnb is at it again. This memorial day weekend, two lucky guests can win every foodie's dream: one free night in julia child's provence home, \" la pitchoune. \" this is not just a chance to sleep where child once slept, however — guests who win the stay in the famed chef's small cottage are encouraged to cook using child's own pots and pans, while channeling the likes of authors m.f.k. Fisher and james beard, who frequented the home. Those who wish to enter the contest will need to answer a simple question: how would you make the most of your time living like a chef in provence? the trick: answer in less than 500 characters with a smart ( and sassy ) response julia herself would be proud of by midnight pst on may 22. Then, for the night of may 29, one winner and one guest will be flown for free to france and enjoy the quality company and cooking that child",
             "La peetch is a space for magic... La pitchoune or ' la peetch ' was the summer home of paul and julia child for nearly 3 decades. Built on the homestead of simone beck, known as bramafam, la pitchoune was the house ' built on friendship '. Julia child, after the death of her beloved, left la pitchoune back with the beck family. Soon after, kathie alex moved in and rented from simone beck. In the early 1990's, she purchased la pitchoune, and turned into a beloved cooking school and experience, cooking with friends. After a near decade hiatus, la peetch returned to her roots as a center for culture, food, and community in 2016 after a bright eyed young smith graduate ( just like julia ) bought la pitchoune from kathie alex. Pitchounians, as they have been called for decades ( although we've taken to calling them pitchunicorns ), return year after year and already we've had return visitors ourselves. They are drawn by the magic of the countryside, the good company, the fabulous food, and of",
-            "Makenna held is a women's leadership coach, the ceo of the courageous cooking school at la peetch ( julia child's former summer home in france ), the ceo of alo records ( one of the very few women-owned record labels in the country ) and hails from colorado. She lives mostly in … read more",
-            "Turn javascript on so airbnb can work its magic. In the meantime, here are some popular places to explore."
+            "Makenna held is a women's leadership coach, the ceo of the courageous cooking school at la peetch ( julia child's former summer home in france ), the ceo of alo records ( one of the very few women-owned record labels in the country ) and hails from colorado. She lives mostly in … read more"
         ],
         "raw_document": [
             "First it offered sleeping with sharks, and then it was an overnight in hamlet's castle. Now, airbnb is at it again. This memorial day weekend, two lucky guests can win every foodie's dream: one free night in julia child's provence home, \" la pitchoune. \" this is not just a chance to sleep where child once slept, however — guests who win the stay in the famed chef's small cottage are encouraged to cook using child's own pots and pans, while channeling the likes of authors m.f.k. Fisher and james beard, who frequented the home. Those who wish to enter the contest will need to answer a simple question: how would you make the most of your time living like a chef in provence? the trick: answer in less than 500 characters with a smart ( and sassy ) response julia herself would be proud of by midnight pst on may 22. Then, for the night of may 29, one winner and one guest will be flown for free to france and enjoy the quality company and cooking that child",
@@ -1045,7 +1039,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1100,7 +1094,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1133,12 +1127,11 @@
     },
     {
         "idx": 841,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Republicans are in the driver's seat as the 2010 election winds down, despite a vigorous last-ditch push from democrats, according to a new wall street journal poll. Overall, registered voters narrowly prefer a democratic-controlled congress to a republican-controlled one, but among likely voters, republicans hold a 50 % -43 % edge. In the 92 races considered most competitive, that gap yawns to 14 points. \"it's hard to say democrats are facing anything less than a category four hurricane, \" says one democratic pollster, who conducted the poll alongside a republican pollster. They predict that the gop will pick up 52-53 seats, easily surpassing the 39 it needs to take over. The new york times ' fivethirtyeight blog gives republicans a 73 % chance of taking the house.",
         "split": "train",
         "cleansed_document": [
-            "A vigorous post-labor day democratic offensive has failed to diminish the resurgent republicans ' lead among likely voters, leaving the gop poised for major gains in congressional elections two weeks away, according to a new wall street journal/nbc news poll. A democratic offensive failed to diminish the lead among republicans among likely voters, leaving the gop poised for major gains in november elections, according to a new wsj/nbc news poll. Jonathan weisman and evan newmark discuss. Also, david reilly discusses bank of america's continuing foreclosure battle. Among likely voters, republicans hold a 50 % to 43 % edge, up from a three-percentage-point lead a month ago. In the broader category of registered voters, 46 % favor a democratic-controlled congress, compared with 44 % who want republican control. But in the 92 house districts considered most competitive, the gop's lead among registered voters is 14 points, underscoring the democrats ' challenge in maintaining their hold on the house. The poll of 1,000 registered voters was taken oct. 14-18. Pulse of the poll view graphics see results from the wall street journal/nbc news poll, including obama's approval rating since the start of his term. { if djisflashpossible } the version of adobe flash player required to view this interactive has not been found. To enjoy our complete interactive experience, please download a free copy",
-            "This weekend's announcement by the former governor of montana, brian schweitzer, that he would not seek that state's democratic nomination for senate represents the latest in a series of favorable developments for republicans as they seek control of the chamber. The g.o.p.'s task will not be easy: the party holds 46 seats in the senate, and the number will very probably be cut to 45 after a special election in new jersey later this year. That means that they would need to win a net of six contests from democrats in order to control 51 seats and overcome vice president joseph r. Biden jr.'s tiebreaking vote. Two years ago at this time, republicans faced what seemed to be a promising environment and could have won the senate by gaining a net of three seats from democrats and winning the presidency. Instead, mitt romney lost to president obama, and the g.o.p. Lost a net of two senate seats. But montana along with west virginia and south dakota — two other red states where an incumbent democrat has retired and where the democrats have not identified a strong candidate to replace them – gives republicans a running start. Republicans could then win three more seats from among red states like louisiana and arkansas, where vulnerable democratic incumbents are on the ballot, or they could take aim at two"
+            "A vigorous post-labor day democratic offensive has failed to diminish the resurgent republicans ' lead among likely voters, leaving the gop poised for major gains in congressional elections two weeks away, according to a new wall street journal/nbc news poll. A democratic offensive failed to diminish the lead among republicans among likely voters, leaving the gop poised for major gains in november elections, according to a new wsj/nbc news poll. Jonathan weisman and evan newmark discuss. Also, david reilly discusses bank of america's continuing foreclosure battle. Among likely voters, republicans hold a 50 % to 43 % edge, up from a three-percentage-point lead a month ago. In the broader category of registered voters, 46 % favor a democratic-controlled congress, compared with 44 % who want republican control. But in the 92 house districts considered most competitive, the gop's lead among registered voters is 14 points, underscoring the democrats ' challenge in maintaining their hold on the house. The poll of 1,000 registered voters was taken oct. 14-18. Pulse of the poll view graphics see results from the wall street journal/nbc news poll, including obama's approval rating since the start of his term. { if djisflashpossible } the version of adobe flash player required to view this interactive has not been found. To enjoy our complete interactive experience, please download a free copy"
         ],
         "raw_document": [
             "A vigorous post-labor day democratic offensive has failed to diminish the resurgent republicans ' lead among likely voters, leaving the gop poised for major gains in congressional elections two weeks away, according to a new wall street journal/nbc news poll. A democratic offensive failed to diminish the lead among republicans among likely voters, leaving the gop poised for major gains in november elections, according to a new wsj/nbc news poll. Jonathan weisman and evan newmark discuss. Also, david reilly discusses bank of america's continuing foreclosure battle. Among likely voters, republicans hold a 50 % to 43 % edge, up from a three-percentage-point lead a month ago. In the broader category of registered voters, 46 % favor a democratic-controlled congress, compared with 44 % who want republican control. But in the 92 house districts considered most competitive, the gop's lead among registered voters is 14 points, underscoring the democrats ' challenge in maintaining their hold on the house. The poll of 1,000 registered voters was taken oct. 14-18. Pulse of the poll view graphics see results from the wall street journal/nbc news poll, including obama's approval rating since the start of his term. { if djisflashpossible } the version of adobe flash player required to view this interactive has not been found. To enjoy our complete interactive experience, please download a free copy",
@@ -1153,7 +1146,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1192,7 +1185,7 @@
             "3": 0,
             "4": 0,
             "5": 1,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -1217,7 +1210,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1362,13 +1355,12 @@
     },
     {
         "idx": 849,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Julio perez will likely remember the alamo for a long time to come, mainly because he's being accused of damaging it to the tune of $ 250,000, kens 5 reports. Police say the 22-year-old texas man tried to carve his name with a car key into a 250-year-old wall in the monks ' burial room, creating a 3-by-1-inch gash in the recently designated world heritage site. Per the police report, a tour guide reportedly spotted perez notching \" julio \" into the limestone and told him to stop, and an alamo security guard nabbed him and a female companion when they tried to escape, the san antonio express-news notes. \" in texas we take our history seriously and consider the alamo to be sacred ground, \" the alamo rangers chief said in a statement, per the new york daily news. \" desecration of any part of these hallowed grounds, especially the walls of the alamo chapel, will not be tolerated. \" perez has been charged with second-degree felony criminal mischief, and the damaged room has been closed to the public as preservation experts try to figure out how to how to fix the carving. ( cops are still questioning girls named destiny to see who defaced the black cliffs of idaho. )",
         "split": "train",
         "cleansed_document": [
             "A texas man got caught trying to leave his mark on history with a car key. Police say a tour guide at san antonio's alamo spotted julio perez, 22, carving his name into a 250-year-old limestone wall inside the former spanish mission's church on thursday afternoon, the san antonio express-news reported. Perez tried to get away, but alamo rangers captured him and turned him over to the san antonio police, authorities said. The monks ' burial room of the church sustained $ 250,000 worth of damage and perez faces second-degree felony criminal mischief charges, police told kens-tv. Staff have closed the area and tapped preservation experts to get rid of the 3- by 1-inch etching of the name \" julio \" in the wall. The act of vandalism marks at least the third time someone has defaced the revered site of an 1836 battle between forces from texas and mexico.",
-            "Julio perez ( photo: bcso ) san antonio - the shrine of texas liberty became the target of a vandal this week. A man is accused of using a car key to carve his name inside the alamo. On thursday, san antonio police said julio perez, 22, scratched his name inside the monks ' burial room, damaging the newly designated world heritage site. \" many texans died here fighting for the independence of texas. We don't take it lightly when someone comes and desecrates this area, \" chief mark adkins with the alamo rangers said. The alamo is more than 250 years old. The monks ' burial room is cordoned off for the investigation. The three inch by one inch carving left around $ 250,000 of damage, according to the police report. The alamo was open when the wall was damaged, which is how investigators believe perez got",
-            "Photo: san antonio express-news image 1 of / 22 caption close image 1 of 22 the alamo is one of the top iconic destinations of the south, but of course it's much more than that. Here are 20 unique facts that often slip through the history books and guided tours. The alamo is one of the top iconic destinations of the south, but of course it's much more than that. Here are 20 unique facts that often slip through the history books and guided tours. Photo: san antonio express-news image 2 of 22 the bexar county appraisal district prices the alamo at $ 200 million. The bexar county appraisal district prices the alamo at $ 200 million. Photo: lisa krantz, san antonio express-news image 3 of 22 former district attorney susan reed once issued a press release titled \"don't whizz on the alamo. \" it's made"
+            "Julio perez ( photo: bcso ) san antonio - the shrine of texas liberty became the target of a vandal this week. A man is accused of using a car key to carve his name inside the alamo. On thursday, san antonio police said julio perez, 22, scratched his name inside the monks ' burial room, damaging the newly designated world heritage site. \" many texans died here fighting for the independence of texas. We don't take it lightly when someone comes and desecrates this area, \" chief mark adkins with the alamo rangers said. The alamo is more than 250 years old. The monks ' burial room is cordoned off for the investigation. The three inch by one inch carving left around $ 250,000 of damage, according to the police report. The alamo was open when the wall was damaged, which is how investigators believe perez got"
         ],
         "raw_document": [
             "A texas man got caught trying to leave his mark on history with a car key. Police say a tour guide at san antonio's alamo spotted julio perez, 22, carving his name into a 250-year-old limestone wall inside the former spanish mission's church on thursday afternoon, the san antonio express-news reported. Perez tried to get away, but alamo rangers captured him and turned him over to the san antonio police, authorities said. The monks ' burial room of the church sustained $ 250,000 worth of damage and perez faces second-degree felony criminal mischief charges, police told kens-tv. Staff have closed the area and tapped preservation experts to get rid of the 3- by 1-inch etching of the name \" julio \" in the wall. The act of vandalism marks at least the third time someone has defaced the revered site of an 1836 battle between forces from texas and mexico.",
@@ -1385,7 +1377,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1415,7 +1407,7 @@
             "0": 0,
             "1": 3,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1593,14 +1585,13 @@
     },
     {
         "idx": 857,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Bad moms is doing … just ok on rotten tomatoes, but moms going to see the mila kunis flick went a little meta in fort myers, fla. More than 50 moms who organized through facebook to see the movie gained their own \" bad mom \" rep at a regal cinemas when two breastfeeding mothers brought their infants, the news-press reports. Regal's admittance policy dictates kids 6 and under aren't allowed into r-rated movies, even with their parents, which led to baby-toting moms brookynn cahill and juliana valverde being told they couldn't see the film. Marcus theatres has a similar policy, as a group of moms found out in lincoln, neb., when a mom with a 9-month-old was also asked to leave by security because \" they were concerned with the content my child would be viewing, \" per the lincoln journal star. The two fort myers moms snuck back into bad moms after being redirected to see the new ice age film, but they were busted by the manager, who seemed thrown by valverde breastfeeding her baby and asked her to cover up, she tells the news-press. Valverde eventually started to cry, and 35 or so of the moms demanded refunds and left the theater with her in solidarity. In other news: at usa today, andrea mandell ponders why less-than-stellar moms in the movies get \" a bad rap \" compared to bumbling dads. Meanwhile, jane marie writes at jezebel that she thinks the guys who wrote the screenplay \" probably don't like their wives very much \" and that the \" condescending \" film is nothing but \" pta drama \" amid a \" confluence of upper middle class, white people problems. \"",
         "split": "train",
         "cleansed_document": [
             "Close mila kunis, kristen bell, and kathryn hahn join forces to rebel against their so-called motherly duties. Vpc a group of 50 friends were excited to have a ladies night out friday when a manager at regal cinemas in fort myers insisted company policy dictated a 7-month=old breastfeeding baby wasn't allowed at the r-rated movie. Many of the women walked out of the theater in solidarity. ( photo: courtesy photo ) all new mom brookynn cahill wanted was a night out with friends, but her fears were realized when she was asked to leave a movie theater. Cahill and",
             "Skip in skip x embed x share ' bad moms'stars mila kunis, christina applegate, kathryn hahn, jada pinkett smith and annie mumolo share some of their worst parenting experiences. Usa today mila kunis, kristen bell and kathryn hahn live large in the grocery aisles in ' bad moms. \" ( photo: michele k. Short ) is it cool to be a quirky mom yet? bad moms ( written and directed by the hangover's jon lucas and scott moore ) raced star trek beyond for no. 2 at the box office, opening just behind the sci-fi",
-            "Image via screenshot/stx entertainment here's what i knew about bad moms before heading to the movie theater this weekend: that it's called bad moms, that the poster has some ladies on it raising the roof and that those ladies are actresses i don't actively dislike: mila kunis, kathryn hahn and kristen bell. Now, having seen the movie, i also know that the men who wrote it probably don't like their wives very much. Before we get to that, let me tell you what happens in this movie: nothing. Here is",
-            "It is reg's policy to support the mpaa ratings system to the fullest extent possible. For films rated \"r \" by the mpaa: reg will not sell tickets to any person under the age of 17 ( 18 where applicable ). A person must be at least 21 years old in order to purchase multiple tickets without providing additional photo i.d. For additional tickets. The purchaser must also attend the movie for which the additional tickets are purchased. Patrons 17 to 20 years of age may only purchase more than one ticket if they are able to provide photo i.d."
+            "Image via screenshot/stx entertainment here's what i knew about bad moms before heading to the movie theater this weekend: that it's called bad moms, that the poster has some ladies on it raising the roof and that those ladies are actresses i don't actively dislike: mila kunis, kathryn hahn and kristen bell. Now, having seen the movie, i also know that the men who wrote it probably don't like their wives very much. Before we get to that, let me tell you what happens in this movie: nothing. Here is"
         ],
         "raw_document": [
             "Close get email notifications on erin andersen daily! your notification has been saved. There was a problem saving your notification. Whenever erin andersen posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items.",
@@ -1621,7 +1612,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -1708,7 +1699,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1949,7 +1940,7 @@
             "1": 0,
             "2": 5,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1985,12 +1976,11 @@
     },
     {
         "idx": 871,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "This may be hard to believe if you live in the eastern us, but that was the fourth-warmest january ever for the overall planet, the new york times reports. The goddard institute for space studies actually pegs it as the third warmest since 1880, behind only 2002 and 2003, according to accuweather, which notes giss data merges land and ocean surface temps. The perpetually storm-afflicted east coast was indeed one of earth's coldest areas compared with seasonal norms, but things were balmy elsewhere; california and alaska saw temperatures as much as 15 degrees above normal. Besides, the us makes up just 2 % of the surface of the world, so its experience paints a limited picture. It's been unseasonably warm in most of europe, africa, australia, and china. Of course, unseasonable warmth is getting awfully routine; it was the 347th straight month with temperatures above 20th-century averages.",
         "split": "train",
         "cleansed_document": [
-            "Photo advertisement continue reading the main story for people throughout the eastern united states who spent january slipping, sliding and shivering, here is a counterintuitive fact: for the earth as a whole, it was the fourth-warmest january on record. It was, in fact, the 347th consecutive month with temperatures above the 20th-century average, the government reported thursday. That may feel plausible to californians, whose state experienced temperatures 10 or 15 degrees above normal in some places last month, and especially to alaskans, where the average temperature was almost 15 degrees above normal. But on a map of january temperatures released thursday by government weather analysts, the eastern united states stood out as one of the coldest areas on the planet, compared with seasonal norms. That is no surprise to anybody living east of the mississippi river, of course — certainly not to the atlantans who were caught up in two memorable ice storms that shut down the city, or the new yorkers who are still picking their way through mounds of dirty snow. Photo but this might be another surprise: despite all the weather drama, it was not a january for the record books. By the time analysts averaged the heat in the west and the cold in the east, the national temperature for the month fell only one-tenth of a degree below the 20th-century average for january. January 2011 was colder. No state set a monthly record for january cold. Alabama, also walloped by the ice storms, came closest, with the fourth-coldest january on its record books. The united states covers only 2 percent of the surface of the globe, so what happens in this country does not have much influence on overall global temperatures. Brazil, much of southern africa, most of europe, large parts of china and most of australia were unseasonably warm in january, the national oceanic and atmospheric administration reported thursday. That continues a pattern of unusual global warming that is believed to be a consequence of human-caused emissions of greenhouse gases. Even in the united states, more than a third of the country is in drought of varying intensity. Mountain snowpack in many parts of the west is only half of normal, portending a parched summer and a likelihood of severe wildfires. \"today's snowpack is tomorrow's water in the west, \" said deke arndt, chief of climate monitoring for the national",
-            "The seed for this crawl was a list of every host in the wayback machine this crawl was run at a level 1 ( urls including their embeds, plus the urls of all outbound links including their embeds ) the warc files associated with this crawl are not currently available to the general public."
+            "Photo advertisement continue reading the main story for people throughout the eastern united states who spent january slipping, sliding and shivering, here is a counterintuitive fact: for the earth as a whole, it was the fourth-warmest january on record. It was, in fact, the 347th consecutive month with temperatures above the 20th-century average, the government reported thursday. That may feel plausible to californians, whose state experienced temperatures 10 or 15 degrees above normal in some places last month, and especially to alaskans, where the average temperature was almost 15 degrees above normal. But on a map of january temperatures released thursday by government weather analysts, the eastern united states stood out as one of the coldest areas on the planet, compared with seasonal norms. That is no surprise to anybody living east of the mississippi river, of course — certainly not to the atlantans who were caught up in two memorable ice storms that shut down the city, or the new yorkers who are still picking their way through mounds of dirty snow. Photo but this might be another surprise: despite all the weather drama, it was not a january for the record books. By the time analysts averaged the heat in the west and the cold in the east, the national temperature for the month fell only one-tenth of a degree below the 20th-century average for january. January 2011 was colder. No state set a monthly record for january cold. Alabama, also walloped by the ice storms, came closest, with the fourth-coldest january on its record books. The united states covers only 2 percent of the surface of the globe, so what happens in this country does not have much influence on overall global temperatures. Brazil, much of southern africa, most of europe, large parts of china and most of australia were unseasonably warm in january, the national oceanic and atmospheric administration reported thursday. That continues a pattern of unusual global warming that is believed to be a consequence of human-caused emissions of greenhouse gases. Even in the united states, more than a third of the country is in drought of varying intensity. Mountain snowpack in many parts of the west is only half of normal, portending a parched summer and a likelihood of severe wildfires. \"today's snowpack is tomorrow's water in the west, \" said deke arndt, chief of climate monitoring for the national"
         ],
         "raw_document": [
             "Photo advertisement continue reading the main story for people throughout the eastern united states who spent january slipping, sliding and shivering, here is a counterintuitive fact: for the earth as a whole, it was the fourth-warmest january on record. It was, in fact, the 347th consecutive month with temperatures above the 20th-century average, the government reported thursday. That may feel plausible to californians, whose state experienced temperatures 10 or 15 degrees above normal in some places last month, and especially to alaskans, where the average temperature was almost 15 degrees above normal. But on a map of january temperatures released thursday by government weather analysts, the eastern united states stood out as one of the coldest areas on the planet, compared with seasonal norms. That is no surprise to anybody living east of the mississippi river, of course — certainly not to the atlantans who were caught up in two memorable ice storms that shut down the city, or the new yorkers who are still picking their way through mounds of dirty snow. Photo but this might be another surprise: despite all the weather drama, it was not a january for the record books. By the time analysts averaged the heat in the west and the cold in the east, the national temperature for the month fell only one-tenth of a degree below the 20th-century average for january. January 2011 was colder. No state set a monthly record for january cold. Alabama, also walloped by the ice storms, came closest, with the fourth-coldest january on its record books. The united states covers only 2 percent of the surface of the globe, so what happens in this country does not have much influence on overall global temperatures. Brazil, much of southern africa, most of europe, large parts of china and most of australia were unseasonably warm in january, the national oceanic and atmospheric administration reported thursday. That continues a pattern of unusual global warming that is believed to be a consequence of human-caused emissions of greenhouse gases. Even in the united states, more than a third of the country is in drought of varying intensity. Mountain snowpack in many parts of the west is only half of normal, portending a parched summer and a likelihood of severe wildfires. \"today's snowpack is tomorrow's water in the west, \" said deke arndt, chief of climate monitoring for the national",
@@ -2005,7 +1995,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2083,7 +2073,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2137,7 +2127,7 @@
             "0": 5,
             "1": 0,
             "2": 4,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2162,7 +2152,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2195,14 +2185,13 @@
     },
     {
         "idx": 879,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A lot has changed over 1.8 million years, but perhaps not the tendency of hominids to favor their right hand. An upper jawbone belonging to a human relative who lived in what is now tanzania almost 2 million years ago has been discovered with scratches on its still-intact teeth, and scientists have a clear idea about how they were made: by a stone tool held in the homo habilis individual's right hand. Why is that significant? well, it represents the earliest known evidence of right-handedness among human relatives. The next oldest comes from the 500,000-year-old teeth of a homo heidelbergensis individual, per national geographic. Evidence also suggests neanderthals were predominantly right-handed. In the case of homo habilis, archaeologists think the teeth nicks came about thusly: the individual would have a piece of meat clenched in his teeth, and while he stretched it out with one hand, he used the other, dominant, hand, to cut it with a stone, explains live science. ( it provides a graphic of what this looks like. ) occasionally, the stone would slip, and the direction of the resulting nicks suggests the right hand was the one used, a theory backed up in modern experiments. Few studies have analyzed homo habilis teeth for such marks, but study author david frayer of the university of kansas hopes his research will encourage others to do just that. The discovery may also offer insights about when language first appeared since \" language, handedness, brain laterality... Are all interrelated, \" he tells mashable. ( this is the oldest evidence of human cancer. )",
         "split": "train",
         "cleansed_document": [
             "Scratch that: marks on homo habilis teeth suggest which hand the early human used to cut its meat. Nearly 2 million years ago, an early human used a stone tool to carve hunks of meat held in its mouth, an activity that left behind wear marks in its teeth. And the direction of the grooves suggest that this individual had a dominant right hand. Right-handedness is significantly more common than left-handedness in modern humans, and the trait emerged early in the lineage's evolution, researchers have said. This discovery, which presents the oldest evidence of right-handedness, could prompt a deeper look into the fossil record, to determine when human ancestors first demonstrated",
             "Fossils from the \"handy man \" of the human family tree have now provided the oldest known evidence of right-handedness in our lineage. The discovery comes from a 1.8-million-year-old upper jawbone of homo habilis, a human ancestor who lived in eastern and southern africa from 2.4 to 1.4 million years ago. Scientists suspect the species was a regular user of stone tools, which are found in abundance around the fossil discovery site. The jawbone's teeth, still firmly in place, are covered in diagonal scratches that were most likely made when this homo habilis individual, perhaps a female, accidentally nicked her teeth with a stone tool held in her right hand. While the homo",
-            "As any lefty knows well, our world is largely built for righties. Basic items from scissors and knives to cameras and computer mice are all designed to suit the roughly nine in 10 people who are right-handed. New evidence suggests this lopsided split may date back more than a millennia, according to an international team of anthropologists. Researchers said a 1.8-million-year-old fossilized jaw bears the scratches of a person who was right-handed. This finding could help scientists better understand how the human brain developed and when we first developed language. The homo habilis fossil is more than four times older than what scientists previously believed was the oldest fossil evidence of our right-handed tendencies, according to the",
-            "Labial striations on the anterior teeth have been documented in numerous european pre-neandertal and neandertal fossils and serve as evidence for handedness. Oh-65, dated at 1.8 mya, shows a concentration of oblique striations on, especially, the left i1 and right i1, i2 and c1, which signal that it was right-handed. From these patterns we contend that oh-65 was habitually using the right hand, over the left, in manipulating objects during some kind of oral processing. In living humans right-handedness is generally correlated with brain lateralization, although the strength of the association is questioned by some. We propose that as more specimens are found, right-handedness, as seen in living homo,"
+            "As any lefty knows well, our world is largely built for righties. Basic items from scissors and knives to cameras and computer mice are all designed to suit the roughly nine in 10 people who are right-handed. New evidence suggests this lopsided split may date back more than a millennia, according to an international team of anthropologists. Researchers said a 1.8-million-year-old fossilized jaw bears the scratches of a person who was right-handed. This finding could help scientists better understand how the human brain developed and when we first developed language. The homo habilis fossil is more than four times older than what scientists previously believed was the oldest fossil evidence of our right-handed tendencies, according to the"
         ],
         "raw_document": [
             "Scratch that: marks on homo habilis teeth suggest which hand the early human used to cut its meat. Nearly 2 million years ago, an early human used a stone tool to carve hunks of meat held in its mouth, an activity that left behind wear marks in its teeth. And the direction of the grooves suggest that this individual had a dominant right hand. Right-handedness is significantly more common than left-handedness in modern humans, and the trait emerged early in the lineage's evolution, researchers have said. This discovery, which presents the oldest evidence of right-handedness, could prompt a deeper look into the fossil record, to determine when human ancestors first demonstrated",
@@ -2221,7 +2210,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2255,7 +2244,7 @@
             "1": 2,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -2321,17 +2310,16 @@
             "4": 0,
             "5": 3,
             "6": 0,
-            "7": 0
+            "7": 2
         }
     },
     {
         "idx": 883,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Ej dionne sees a newly aggressive barack obama recognizing that he can put republicans on their heels with financial reform. Republicans for the first time \" are uncertain as to whether resolute opposition to a democratic idea is in their political interest, \" he writes in the washington post. \" suddenly, it's democrats — and, in particular, the often conflict-averse obama — who are relishing a fight. \" for them, it's a win-win: either they get a bipartisan bill or an election issue. In a similar vein, gail collins thinks the gop is fumbling: the \" leadership originally seemed to believe that financial reform could be a replay of health care reform, with a political payoff for total obstruction, \" she writes in the new york times. \" they're discovering that the only real similarity is that both are almost impossible to explain. People love their doctors, but they tend to hate their bankers. Nobody is going to scare voters by predicting that if the democratic bill passes, they may not be able to keep seeing the same hedge fund manager. \"",
         "split": "train",
         "cleansed_document": [
-            "Santa barbara, calif. What does president obama's visit to california this week on behalf of embattled sen. Barbara boxer have to do with passage of the financial reform bill? far more than you'd imagine. That boxer is in any trouble says much of what you need to know about this year's election. California has become a democratic bastion, and boxer has been a liberal institution who never before faced a serious reelection challenge. Now she is seen as sufficiently vulnerable that obama will come to the state for another fundraiser for her next month. The threat to boxer is grim news for democrats. Is this sense of the election about to be overtaken? that's where financial reform comes in. If health-care legislation had to fight uphill against a public mood that is skeptical of government's capacities, the financial reform bill that democrats are pushing has the advantage of flowing with a public view devoutly critical of wall street, bankers and all their works. And for the first time in obama's presidency, republicans are uncertain as to whether resolute opposition to a democratic idea is in their political interest. There are strong indications that the gop would prefer to avoid an all-out confrontation over re-regulating the financial system, and several republican senators are saying that they would like to negotiate with democrats.",
-            "The united states senate. Feel the love. \"... You have been great. \" \"... I am grateful, very grateful, for your friendship. \" \"... I want everyone to know how deeply committed you are to reform. \" \"... I also wanted to thank you for your hard work. \" this was wednesday at the senate agriculture committee, which was considering the regulation of derivatives. These are extremely complicated financial instruments, and they are under the control of the agriculture committee because, really, when you get right down to it, everything is a crop. \"members of this committee check their partisan politics at the door, \" boasted the chairwoman, blanche lincoln, a democrat of arkansas. Then, in between compliments, the members approved lincoln's bill on derivatives in a series of party-line votes. Except for charles grassley, a republican of iowa, who sided with lincoln. Truly, this was a day for the record books. Somebody finally got a republican to vote for something. And perhaps a sign of things to come. As president obama prepared to make his big financial reform speech near wall street on thursday, the g.o.p. Seemed increasingly eager to find a way to work this one out. \"we probably generally agree on 90 percent, \" said the agriculture committee's ranking minority"
+            "Santa barbara, calif. What does president obama's visit to california this week on behalf of embattled sen. Barbara boxer have to do with passage of the financial reform bill? far more than you'd imagine. That boxer is in any trouble says much of what you need to know about this year's election. California has become a democratic bastion, and boxer has been a liberal institution who never before faced a serious reelection challenge. Now she is seen as sufficiently vulnerable that obama will come to the state for another fundraiser for her next month. The threat to boxer is grim news for democrats. Is this sense of the election about to be overtaken? that's where financial reform comes in. If health-care legislation had to fight uphill against a public mood that is skeptical of government's capacities, the financial reform bill that democrats are pushing has the advantage of flowing with a public view devoutly critical of wall street, bankers and all their works. And for the first time in obama's presidency, republicans are uncertain as to whether resolute opposition to a democratic idea is in their political interest. There are strong indications that the gop would prefer to avoid an all-out confrontation over re-regulating the financial system, and several republican senators are saying that they would like to negotiate with democrats."
         ],
         "raw_document": [
             "Santa barbara, calif. What does president obama's visit to california this week on behalf of embattled sen. Barbara boxer have to do with passage of the financial reform bill? far more than you'd imagine. That boxer is in any trouble says much of what you need to know about this year's election. California has become a democratic bastion, and boxer has been a liberal institution who never before faced a serious reelection challenge. Now she is seen as sufficiently vulnerable that obama will come to the state for another fundraiser for her next month. The threat to boxer is grim news for democrats. Is this sense of the election about to be overtaken? that's where financial reform comes in. If health-care legislation had to fight uphill against a public mood that is skeptical of government's capacities, the financial reform bill that democrats are pushing has the advantage of flowing with a public view devoutly critical of wall street, bankers and all their works. And for the first time in obama's presidency, republicans are uncertain as to whether resolute opposition to a democratic idea is in their political interest. There are strong indications that the gop would prefer to avoid an all-out confrontation over re-regulating the financial system, and several republican senators are saying that they would like to negotiate with democrats.",
@@ -2346,7 +2334,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2404,12 +2392,11 @@
     },
     {
         "idx": 886,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Nathan blankenship probably thought that his resemblance to kenny chesney was a blessing ( some people do, after all, think his tractor's sexy ). But that was before he found himself kicked out of a chesney concert for precisely that reason. Of course, blankenship happened to be imitating chesney at the time, taking pictures with fans who mistook him for the country singer. He was then approached by a security guard who told him he was creating confusion and that \" higher ups \" wanted him tossed out of nashville's l-p field. Despite blankenship's somewhat ill-advised prank, the concert promoter ended up apologizing to him and stating it had nothing to do with him being thrown out, wztv reports. Sony, chesney's record label, also apologized and is refunding blankenship the ticket cost and sending him a basket of probably-lame sony merchandise.",
         "split": "train",
         "cleansed_document": [
-            "A kenny chesney look-a-like who was thrown out of the \" brothers of the sun \" concert last saturday receives an apology from chesney's record label and concert promoter. Nathan blankenship was escorted out of l-p field in nashville during the show. Blankenship says he was taking pictures with a few fans who thought he was chesney, when a security guard approached him. He claims the guard told him he was causing confusion and that he was told by \" higher ups \" to removed blankenship. A news release by the concert promoter monday stated it had nothing to do with blankenship being kicked out of the concert. The messina group said it learned about the incident after seeing media reports. Late monday afternoon, chesney's record label, sony, and the promoter apologized to blankenship. They are giving blankenship his money back for his ticket and sending him a gift basket with sony merchandise. The label tells fox 17 news that kenny chesney is on vacation and is not reachable. Kenny chesney look-a-like gets apology and refund tennessee news police: tenn. Man's death in nj ruled a suicide july 17, 2012 20: 22 gmt % reldate( 2012-07-17t20: 20: 14 linden, n.j. ( ap ) -- the death of a tennessee man whose decomposing body was discovered in a pickup truck parked at a northern new jersey",
-            "Published on nov 23, 2009 kenny chesney's official music video for'she thinks my tractor's sexy '. Click to listen to kenny chesney on spotify: http://smarturl.it/kchspotify?iqid=kc... As featured on greatest hits. Click to buy the track or album via itunes: http://smarturl.it/kchghitunes?iqid=k... Google play: http://smarturl.it/kchstmtsplay?iqid=... Amazon: http://smarturl.it/kchghamz?iqid=kchs... More from kenny chesney everybody wants to go to heaven: https://youtu.be/u6mquqttlli pirate flag: https://youtu.be/iqirpnsuvp4 when i see this bar: https://youtu.be/cwze6yohyig more great country anthems videos here: http://smarturl.it/countryanthems?iqi... Follow kenny chesney website: http://www.kennychesney.com/ facebook: https://www.facebook.com/kennychesney/ twitter: https://twitter.com/kennychesney instagram: https://instagram.com/kennychesney/ subscribe to kenny chesney on youtube: http://smarturl.it/kchsub?iqid=kchstmts --------- lyrics: plowin'these fields in the hot summer sun over by the gate lordy here she comes with a basket full of chicken and a big cold jug of sweet tea i make a little room and she climbs on up open up a throttle and stir a little dust just look at her face she ain't a foolin ' me she thinks my tractor's sexy it really turns her on she's always starin ' at me while i ' m chuggin ' along she likes the way it's pullin ' while we're tillin ' up the land she's even kind of crazy ' bout my farmer's tan she's the only one who really"
+            "A kenny chesney look-a-like who was thrown out of the \" brothers of the sun \" concert last saturday receives an apology from chesney's record label and concert promoter. Nathan blankenship was escorted out of l-p field in nashville during the show. Blankenship says he was taking pictures with a few fans who thought he was chesney, when a security guard approached him. He claims the guard told him he was causing confusion and that he was told by \" higher ups \" to removed blankenship. A news release by the concert promoter monday stated it had nothing to do with blankenship being kicked out of the concert. The messina group said it learned about the incident after seeing media reports. Late monday afternoon, chesney's record label, sony, and the promoter apologized to blankenship. They are giving blankenship his money back for his ticket and sending him a gift basket with sony merchandise. The label tells fox 17 news that kenny chesney is on vacation and is not reachable. Kenny chesney look-a-like gets apology and refund tennessee news police: tenn. Man's death in nj ruled a suicide july 17, 2012 20: 22 gmt % reldate( 2012-07-17t20: 20: 14 linden, n.j. ( ap ) -- the death of a tennessee man whose decomposing body was discovered in a pickup truck parked at a northern new jersey"
         ],
         "raw_document": [
             "A kenny chesney look-a-like who was thrown out of the \" brothers of the sun \" concert last saturday receives an apology from chesney's record label and concert promoter. Nathan blankenship was escorted out of l-p field in nashville during the show. Blankenship says he was taking pictures with a few fans who thought he was chesney, when a security guard approached him. He claims the guard told him he was causing confusion and that he was told by \" higher ups \" to removed blankenship. A news release by the concert promoter monday stated it had nothing to do with blankenship being kicked out of the concert. The messina group said it learned about the incident after seeing media reports. Late monday afternoon, chesney's record label, sony, and the promoter apologized to blankenship. They are giving blankenship his money back for his ticket and sending him a gift basket with sony merchandise. The label tells fox 17 news that kenny chesney is on vacation and is not reachable. Kenny chesney look-a-like gets apology and refund tennessee news police: tenn. Man's death in nj ruled a suicide july 17, 2012 20: 22 gmt % reldate( 2012-07-17t20: 20: 14 linden, n.j. ( ap ) -- the death of a tennessee man whose decomposing body was discovered in a pickup truck parked at a northern new jersey",
@@ -2424,7 +2411,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2455,7 +2442,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2512,7 +2499,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 1
         }
     },
     {

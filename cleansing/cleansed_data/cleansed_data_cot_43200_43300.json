@@ -357,7 +357,7 @@
         "vote_count": {
             "0": 5,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -415,12 +415,11 @@
     },
     {
         "idx": 43215,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "In the haze of 9/11, lawmakers empowered the us president to fight back — and may have given him more power than they bargained for, writes gregory johnsen at buzzfeed. Congress overwhelmingly approved a 60-word law called the authorization for the use of military force, which empowered president george w. Bush to retaliate against anyone behind the 9/11 attacks. Interpretation of the law has since expanded to include all military action, including capture and detention, against \" associated forces \" of the 9/11 attackers. The law \" is like a christmas tree, \" said a former bush administration official. \" all sorts of things have been hung off of those 60 words. \" johnsen's article looks at the aumf's tangled history, from its hurried drafting to its 420-1 house vote and its surprising resilience under president obama — despite his pledge to repeal it. Lawmakers have questioned the aumf, as politico reported last year, and now obama really does plan to kill it off, a top administration official tells the wall street journal. But a dozen years after 9/11, obama is still ordering drone attacks and secret raids — often against people who were children when the twin towers fell. \" let the congressional debate begin, \" said rep. Barbara lee, the one lawmaker who voted against the aumf. \" if people think it's worth it, for whatever reason, then let their member of congress vote for it. That's the point. \" click for johnsen's full article.",
         "split": "train",
         "cleansed_document": [
-            "Top senators in both parties have begun talks to revise the congressional resolution authorizing the use of military force following the sept. 11, 2001, attacks on the world trade center and the pentagon, according to lawmakers and aides involved in the discussions. Though in its early stages, such a debate could cause serious heartburn for the white house and party leaders seeking to push through any revised use-of-force resolution. A senate floor fight over replacing the 9/11 resolution could lead to broader political battles on critical areas of president barack obama's national security policy, including the war in afghanistan, the use of armed drone attacks against suspected terrorists, treatment of detainees held in guantanamo bay, and the scope of the president's authority as commander-in-chief to combat terrorism worldwide. Text size - + reset the bipartisan senate talks also come at a time when obama is catching flak for his aggressive drone policy, and sen. Rand paul's ( r-ky. ) 13-hour filibuster on the issue struck a chord with some members of both parties. Senate armed services committee chair carl levin ( d-mich. ), and sens. Dick durbin ( d-ill. ) and john mccain ( r-ariz. ) met recently to discuss the issue, the senators and their aides said. Other senators involved in the talks include bob corker ( r-tenn. ) and lindsey graham ( r-s.c. ).",
-            "Sunrise was still nearly an hour off when nazih al-ruqai climbed into his black hyundai suv outside a mosque in northern tripoli and turned the key. The lanky 49-year-old had left the house barely 30 minutes earlier for a quick trip to the mosque on a saturday. It was oct. 5, 2013, and after more than two decades in exile, he had settled into a predictable existence of prayer and worship. The homecoming hadn't always been so smooth. Ruqai, who is better known in the jihadi world as abu anas al-libi, was still feeling the effects of the hepatitis c he had contracted years earlier during a stint in an underground prison in iran. Following overtures from muammar al-qaddafi's government, his wife and children had returned to libya in 2010. But libi stayed away, wary of the man he had once plotted to kill. Only when the libyan uprisings started in early 2011 did he follow his family back to libya. But by then it was already too late. His oldest son, abd al-rahman, the only one of his five children who had been born in libya, was dead, shot while fighting for the capital. After that, things moved in fits and starts. Qaddafi was killed weeks later in october 2011, and libi eventually settled in nufalayn, a leafy middle-class neighborhood in"
+            "Top senators in both parties have begun talks to revise the congressional resolution authorizing the use of military force following the sept. 11, 2001, attacks on the world trade center and the pentagon, according to lawmakers and aides involved in the discussions. Though in its early stages, such a debate could cause serious heartburn for the white house and party leaders seeking to push through any revised use-of-force resolution. A senate floor fight over replacing the 9/11 resolution could lead to broader political battles on critical areas of president barack obama's national security policy, including the war in afghanistan, the use of armed drone attacks against suspected terrorists, treatment of detainees held in guantanamo bay, and the scope of the president's authority as commander-in-chief to combat terrorism worldwide. Text size - + reset the bipartisan senate talks also come at a time when obama is catching flak for his aggressive drone policy, and sen. Rand paul's ( r-ky. ) 13-hour filibuster on the issue struck a chord with some members of both parties. Senate armed services committee chair carl levin ( d-mich. ), and sens. Dick durbin ( d-ill. ) and john mccain ( r-ariz. ) met recently to discuss the issue, the senators and their aides said. Other senators involved in the talks include bob corker ( r-tenn. ) and lindsey graham ( r-s.c. )."
         ],
         "raw_document": [
             "Top senators in both parties have begun talks to revise the congressional resolution authorizing the use of military force following the sept. 11, 2001, attacks on the world trade center and the pentagon, according to lawmakers and aides involved in the discussions. Though in its early stages, such a debate could cause serious heartburn for the white house and party leaders seeking to push through any revised use-of-force resolution. A senate floor fight over replacing the 9/11 resolution could lead to broader political battles on critical areas of president barack obama's national security policy, including the war in afghanistan, the use of armed drone attacks against suspected terrorists, treatment of detainees held in guantanamo bay, and the scope of the president's authority as commander-in-chief to combat terrorism worldwide. Text size - + reset the bipartisan senate talks also come at a time when obama is catching flak for his aggressive drone policy, and sen. Rand paul's ( r-ky. ) 13-hour filibuster on the issue struck a chord with some members of both parties. Senate armed services committee chair carl levin ( d-mich. ), and sens. Dick durbin ( d-ill. ) and john mccain ( r-ariz. ) met recently to discuss the issue, the senators and their aides said. Other senators involved in the talks include bob corker ( r-tenn. ) and lindsey graham ( r-s.c. ).",
@@ -435,7 +434,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -460,7 +459,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -485,7 +484,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -595,14 +594,13 @@
     },
     {
         "idx": 43222,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A meteor strike like the one in chelyabinsk, russia, earlier this year might seem like a once in a lifetime event, but a new study in nature says that isn't the case. Using data from sensors around the world, researchers found that big asteroids have hit earth's atmosphere with \" surprising frequency, \" the bbc reports — it's just that most explode over oceans or remote areas. \" something like chelyabinsk, you would only expect every 150 years on the basis of the telescopic information. But when you look at our data and extrapolate from that, we see that these things seem to be happening every 30 years or so, \" says the lead author. The frequency of such hits might be up to seven times greater than previously thought, reports ap. Ideally, scientists would have had a few days or weeks ' notice of the strike, which is why \" having some sort of system that scans the sky almost continuously and looks for these objects just before they hit the earth, that probably is something worth doing. \" says the researcher. Meanwhile, a separate study in nature has found the source of russia's meteor strike. Researchers think the rock that hit chelyabinsk broke off from a mile-wide asteroid known as 86039 — resulting in an impact that created 30 times the explosive power of the hiroshima bomb, the independent reports. \" if humanity does not want to go the way of the dinosaurs, we need to study an event like this in detail, \" says one professor.",
         "split": "train",
         "cleansed_document": [
             "The meteor that exploded over the siberian city of chelyabinsk in february released more than 30 times the explosive energy of the hiroshima bomb, a study has found. Scientists calculated that the blast caused by the disintegration of the space rock as it ploughed through the atmosphere at 19 kilometres per second was equivalent to between 500,000 and 600,000 tons of tnt – compared with the 16,000-ton explosion at hiroshima in 1945. People directly under the flight of the meteor were knocked off their feet and many others suffered sunburn or eye damage as they looked at the intense fireball. It was the biggest meteor blast since the devastating explosion over tunguska, also in siberia, in 1908, which flattened forests for hundreds of miles around and was reckoned to have released energy equivalent to between 5 million and 15 million tons of tnt. The chelyabinsk meteorite – the part",
             "Media playback is unsupported on your device media caption archive: eyewitnesses and cctv cameras captured the moment the meteor flew across the sky in russia in february the threat of another asteroid strike like the one that hit russia earlier this year is much higher than was previously thought, a study suggests. Researchers have found that space rocks of a similar size to the one that exploded over chelyabinsk are hurtling into the earth's atmosphere with surprising frequency. Scientists say early warning systems need to be put in place. The study is published in the journal nature. Lead author professor peter brown, from the university of western ontario, canada, told the bbc world service's science in action programme: \" having some sort of system that scans the sky almost continuously and looks for these objects just before they hit the earth,",
-            "Scientists studying the terrifying meteor that exploded without warning over a russian city last winter say the threat of space rocks smashing into earth is bigger than they thought. Maps show how scientists will narrow the field of impact in the weeks approaching the time of impact.; 2c x 5 inches; 96.3 mm x 127 mm; ( associated press ) file - in this feb. 15, 2013 file photo provided by chelyabinsk.ru, shows a meteorite contrail over the ural mountains ' city of chelyabinsk, about 930 miles east of moscow, russia. After a surprise meteor... ( associated press ) this photo provided by the field museum in chicago, taken april 9, 2013, shows pieces of a meteor that exploded over russia's ural mountains in february after they were catalogued on their arrival at... ( associated press ) in this",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Scientists studying the terrifying meteor that exploded without warning over a russian city last winter say the threat of space rocks smashing into earth is bigger than they thought. Maps show how scientists will narrow the field of impact in the weeks approaching the time of impact.; 2c x 5 inches; 96.3 mm x 127 mm; ( associated press ) file - in this feb. 15, 2013 file photo provided by chelyabinsk.ru, shows a meteorite contrail over the ural mountains ' city of chelyabinsk, about 930 miles east of moscow, russia. After a surprise meteor... ( associated press ) this photo provided by the field museum in chicago, taken april 9, 2013, shows pieces of a meteor that exploded over russia's ural mountains in february after they were catalogued on their arrival at... ( associated press ) in this"
         ],
         "raw_document": [
             "The meteor that exploded over the siberian city of chelyabinsk in february released more than 30 times the explosive energy of the hiroshima bomb, a study has found. Scientists calculated that the blast caused by the disintegration of the space rock as it ploughed through the atmosphere at 19 kilometres per second was equivalent to between 500,000 and 600,000 tons of tnt – compared with the 16,000-ton explosion at hiroshima in 1945. People directly under the flight of the meteor were knocked off their feet and many others suffered sunburn or eye damage as they looked at the intense fireball. It was the biggest meteor blast since the devastating explosion over tunguska, also in siberia, in 1908, which flattened forests for hundreds of miles around and was reckoned to have released energy equivalent to between 5 million and 15 million tons of tnt. The chelyabinsk meteorite – the part",
@@ -621,18 +619,17 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
         "idx": 43223,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It may be too early for panic buying, but wine production has taken a hit from climate events this year and is close to a 20-year low, the international organization of vine and wine ( oiv ) warns. According to estimates released thursday, global wine production will be down around 5 % for 2016 as compared to 2015, with floods, drought, and frost hitting vineyards in countries including france, the ap reports. In argentina, production may drop as much as 35 %; in chile, 21 %, which the guardian sees as possibly worrisome for malbec lovers. \" output was greatly affected by exceptional weather conditions, \" says oiv director jean-marie aurand, per bloomberg. \" if there is one product that is vulnerable to weather events, it's wine. \" this year's decline has been linked to the el nino effect, though warming temperatures are starting to shrink wine-growing seasons around the world and could eventually lead to major shifts in what varieties of wine are produced in different countries, reports the guardian. But the news wasn't all bleak: according to oiv's estimates, wine production is up for the year in countries including the australia and the us; our estimated 22.5 million hectoliters is less than half of what the no. 1 producer, italy, will log for the year: 48.8 million hectoliters. With total global production of around 35 billion bottles ( based on an estimate of 259.5 million hectoliters ), there should be enough to go around. ( this italian winemaker says listening to mozart has been great for his grapes. )",
         "split": "train",
         "cleansed_document": [
             "Global economic vitiviniculture data 2016 world wine production estimated at 259 mhl, a fall of 5 % compared with 2015 2016 production among the lowest in 20 years, yet highly contrasting situations as a consequence of climatic events italy ( 48.8 mhl ) confirms its place as the leading world producer, followed by france ( 41.9 mhl ) and spain ( 37.8 mhl ). Confirms its place as the leading world producer, followed by and. After two poor harvests, romania ( 4.8 mhl ) returned to a good level of production. Returned to a good level of production. An even higher level of production was recorded in the united states ( 22.5 mhl ).. In south america, production plummeted in argentina ( 8.8 mhl ), chile ( 10.1 mhl ) and",
-            "South america, particularly argentina and chile, likely to see biggest decline, which may concern fans of wines such as malbec global wine production is expected to fall by 5 % in 2016 because of \"climatic events \" causing steep drops in production in most of the southern hemisphere, particularly chile and argentina. The international organisation of vine and wine ( oiv ) has estimated that output will reach 259.5m hectolitres ( mhl ) this year, making 2016 one of the lowest production years in the past two decades. While the amount of wine produced should meet consumer demand, the figures are a reminder of how global warming and natural climate variability are having a profound effect on wine, and perhaps where it will be grown in future. Italy is expected to produce the most",
-            "Archive-it partner 1067: the political tv ad archive, a project of the internet archive, collects political tv ads and social media sites in key 2016 primary election states, unlocking the metadata underneath and highlighting quality journalism to provide journalists, civic organizations, academics, and the general public with reliable information on who is trying to influence them &amp; how."
+            "South america, particularly argentina and chile, likely to see biggest decline, which may concern fans of wines such as malbec global wine production is expected to fall by 5 % in 2016 because of \"climatic events \" causing steep drops in production in most of the southern hemisphere, particularly chile and argentina. The international organisation of vine and wine ( oiv ) has estimated that output will reach 259.5m hectolitres ( mhl ) this year, making 2016 one of the lowest production years in the past two decades. While the amount of wine produced should meet consumer demand, the figures are a reminder of how global warming and natural climate variability are having a profound effect on wine, and perhaps where it will be grown in future. Italy is expected to produce the most"
         ],
         "raw_document": [
             "Global economic vitiviniculture data 2016 world wine production estimated at 259 mhl, a fall of 5 % compared with 2015 2016 production among the lowest in 20 years, yet highly contrasting situations as a consequence of climatic events italy ( 48.8 mhl ) confirms its place as the leading world producer, followed by france ( 41.9 mhl ) and spain ( 37.8 mhl ). Confirms its place as the leading world producer, followed by and. After two poor harvests, romania ( 4.8 mhl ) returned to a good level of production. Returned to a good level of production. An even higher level of production was recorded in the united states ( 22.5 mhl ).. In south america, production plummeted in argentina ( 8.8 mhl ), chile ( 10.1 mhl ) and",
@@ -651,7 +648,7 @@
             "0": 0,
             "1": 0,
             "2": 3,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -788,12 +785,11 @@
     },
     {
         "idx": 43229,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Mitt romney and newt gingrich came out throwing verbal punches — at each other — in tonight's florida gop debate. They traded boast for boast and barb for barb as the first questions presented the contest as a faceoff between the two. Gingrich attempted to appropriate the mantle of ronald reagan, and a combative romney attacked him as an \" influence peddler \" and \" chief lobbyist \" for freddie mac. Gingrich dismissed the slings, saying he's \" not going to spend the night chasing mr. Romney's misinformation, \" to which romney responded: \" you don't have to take my word for the facts. \" in other skirmishes: gingrich, who supports a 15 % flat tax, quips that he'd like to bring everyone's rate \" down \" to that paid by romney, who declares his taxes are \" entirely legal and fair. \" mitt also notes that newt wants a 0 % tax on capital gains, in which case \" i would have paid no taxes \" — because all his income is from investments. Rick santorum asks why, if romney and gingrich consider themselves champions of capitalism, they both supported the bailout of wall street and its \" destructive \" capitalism, instead of letting failed companies fail in a free market system. Romney mocks gingrich's past statement that he worked as a \" historian \" for freddie mac, saying organizations don't pay $ 25,000 a month for six years to \" historians. \" he adds: \" you were making over $ 1 million at the same time people were being hurt \" by freddie mac's decisions. Ron paul says the government owes people a free-market system, but gave americans a \" mess \" instead. All the candidates, except paul, support continuing sanctions against cuba. Gingrich jokes that if fidel castro dies, \" i don't think fidel will meet his maker; i think he's going to the other place. \" romney backs \" self deportation \" for illegal immigrants, a concept that draws a chuckle from the subdued audience. A section of the debate deals with issues close to the hearts of floridians — offshore oil, sugar subsidies, the space program, protecting the everglades and the 2005 battle over comatose patient terri schiavo, whose husband and family disagreed about letting her die. Santorum says his visit to schiavo's hospital as a congressman was only to make certain the judicial procedure was being followed. Gingrich stresses a \" bias in favor of life \" is automatic for those on death row, indicating schiavo should have been afforded the same bias.",
         "split": "train",
         "cleansed_document": [
-            "Republican presidential contenders mitt romney and newt gingrich clashed repeatedly in heated, personal terms monday night in a crackling campaign debate, the former massachusetts governor tagging his rival as a washington \" influence peddler, \" only to be accused in turn of spreading falsehoods over many years in politics. Republican presidential candidate former house speaker newt gingrich gestures during a republican presidential debate monday jan. 23, 2012, at the university of south florida in tampa, fla. ( ap photo/paul... ( associated press ) republican presidential candidate former pennsylvania sen. Rick santorum gestures during a republican presidential debate monday jan. 23, 2012, at the university of south florida in tampa, fla. ( ap photo/paul... ( associated press ) republican presidential candidates former massachusetts gov. Mitt romney, left, and former house speaker newt gingrich gesture during a republican presidential debate monday jan. 23, 2012, at the university... ( associated press ) republican presidential candidates, from left, former pennsylvania sen. Rick santorum, former massachusetts gov. Mitt romney, former house speaker newt gingrich, and rep. Ron paul, r-texas, stand on stage... ( associated press ) republican presidential candidate former massachusetts gov. Mitt romney gestures during a republican presidential debate monday jan. 23, 2012, at the university of south florida in tampa, fla. ( ap photo/paul... ( associated press ) republican presidential candidate",
-            "The terri schiavo case was a right-to-die legal case in the united states from 1990 to 2005, involving theresa marie schiavo (; december 3, 1963 – march 31, 2005 ), a woman in an irreversible persistent vegetative state. Schiavo's husband and legal guardian argued that schiavo would not have wanted prolonged artificial life support without the prospect of recovery, and elected to remove her feeding tube. Schiavo's parents disputed her husband's assertions and challenged schiavo's medical diagnosis, arguing in favor of continuing artificial nutrition and hydration. [ 1 ] [ 2 ] the highly publicized and prolonged series of legal challenges presented by her parents, which ultimately involved state and federal politicians up to the level of president george w. Bush, caused a seven-year delay before schiavo's feeding tube was ultimately removed. On february 25, 1990, at age 26, schiavo sustained a cardiac arrest at her home in st. Petersburg, florida. She was successfully resuscitated, but had massive brain damage due to lack of oxygen to her brain and was left comatose. After two and a half months without improvement, her diagnosis was changed to that of a persistent vegetative state. For the next two years, doctors attempted speech and physical therapy and other experimental therapy, hoping to return her to a state of awareness,"
+            "Republican presidential contenders mitt romney and newt gingrich clashed repeatedly in heated, personal terms monday night in a crackling campaign debate, the former massachusetts governor tagging his rival as a washington \" influence peddler, \" only to be accused in turn of spreading falsehoods over many years in politics. Republican presidential candidate former house speaker newt gingrich gestures during a republican presidential debate monday jan. 23, 2012, at the university of south florida in tampa, fla. ( ap photo/paul... ( associated press ) republican presidential candidate former pennsylvania sen. Rick santorum gestures during a republican presidential debate monday jan. 23, 2012, at the university of south florida in tampa, fla. ( ap photo/paul... ( associated press ) republican presidential candidates former massachusetts gov. Mitt romney, left, and former house speaker newt gingrich gesture during a republican presidential debate monday jan. 23, 2012, at the university... ( associated press ) republican presidential candidates, from left, former pennsylvania sen. Rick santorum, former massachusetts gov. Mitt romney, former house speaker newt gingrich, and rep. Ron paul, r-texas, stand on stage... ( associated press ) republican presidential candidate former massachusetts gov. Mitt romney gestures during a republican presidential debate monday jan. 23, 2012, at the university of south florida in tampa, fla. ( ap photo/paul... ( associated press ) republican presidential candidate"
         ],
         "raw_document": [
             "Republican presidential contenders mitt romney and newt gingrich clashed repeatedly in heated, personal terms monday night in a crackling campaign debate, the former massachusetts governor tagging his rival as a washington \" influence peddler, \" only to be accused in turn of spreading falsehoods over many years in politics. Republican presidential candidate former house speaker newt gingrich gestures during a republican presidential debate monday jan. 23, 2012, at the university of south florida in tampa, fla. ( ap photo/paul... ( associated press ) republican presidential candidate former pennsylvania sen. Rick santorum gestures during a republican presidential debate monday jan. 23, 2012, at the university of south florida in tampa, fla. ( ap photo/paul... ( associated press ) republican presidential candidates former massachusetts gov. Mitt romney, left, and former house speaker newt gingrich gesture during a republican presidential debate monday jan. 23, 2012, at the university... ( associated press ) republican presidential candidates, from left, former pennsylvania sen. Rick santorum, former massachusetts gov. Mitt romney, former house speaker newt gingrich, and rep. Ron paul, r-texas, stand on stage... ( associated press ) republican presidential candidate former massachusetts gov. Mitt romney gestures during a republican presidential debate monday jan. 23, 2012, at the university of south florida in tampa, fla. ( ap photo/paul... ( associated press ) republican presidential candidate",
@@ -808,7 +804,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -961,7 +957,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1258,7 +1254,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1348,7 +1344,7 @@
             "1": 5,
             "2": 3,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1380,12 +1376,11 @@
     },
     {
         "idx": 43250,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "As jk rowling makes the rounds publicizing her new book for grown-ups, she offers this tidbit on the harry potter books: she might re-issue some or all as \" director's cut \" versions. Don't expect any plot changes, though. She apparently feels she was too rushed in writing and wants to smooth over some sections. \" i had to write on the run and there were times when it was really tough, \" she tells the bbc. \" and i read them, and i think, ' oh god, maybe i ' ll go back and do a director's cut ', i don't know. \" for the record, emma watson thinks the books are just fine the way they are. See that interview here.",
         "split": "train",
         "cleansed_document": [
-            "Media playback is unsupported on your device media caption jk rowling: \" there were a couple of the potters and i definitely knew that they needed another year \" author jk rowling says she is tempted to create a \" director's cut \" of two harry potter novels, because she ran out of time to finesse them. Rowling, whose first adult novel, the casual vacancy, is published on thursday, said she had deliberately taken her time to write it. \" there were a couple of the potters and i definitely knew that they needed another year, \" she said. Her final potter book, harry potter and the deathly hallows, came out in 2007. \" i had to write on the run and there were times when it was really tough, \" she told bbc arts editor will gompertz. \" and i read them, and i think ' oh god, maybe i ' ll go back and do a director's cut ', i don't know. \" but you know what, i ' m proud i was writing under the conditions under which i was writing, no one will ever know how tough it was at times. \" emma watson, who starred as hermione granger in the harry potter films, said the author was \" too hard on herself \". \" i think they [ the books ] are the way they were meant to be, \" she told bbc newsbeat. ' not for children ' rowling said she wrote her latest novel simply because she \" wanted to \". It is aimed specifically at an older audience and includes adult themes and swear words. \" i hope that we've made it really clear that this isn't a book for children, \" she said. Image caption rowling says the casual vacancy is about \" slicing through a society with everything that that implies \" gompertz revealed in his blog the swearing gave him \" a bit of a jolt \" when reading the book, \" given that she is the world's most famous children's author \". The novel is centred on the death of barry fairbrother, whose unexpected passing shocks the local villagers of pagford. Publishers little, brown &amp; co said: \" pagford is, seemingly, an english idyll, with a cobbled market square and an ancient abbey, but what lies behind the pretty facade is a town at war. \" the company describes the tale as being \" blackly comic, thought-provoking",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Media playback is unsupported on your device media caption jk rowling: \" there were a couple of the potters and i definitely knew that they needed another year \" author jk rowling says she is tempted to create a \" director's cut \" of two harry potter novels, because she ran out of time to finesse them. Rowling, whose first adult novel, the casual vacancy, is published on thursday, said she had deliberately taken her time to write it. \" there were a couple of the potters and i definitely knew that they needed another year, \" she said. Her final potter book, harry potter and the deathly hallows, came out in 2007. \" i had to write on the run and there were times when it was really tough, \" she told bbc arts editor will gompertz. \" and i read them, and i think ' oh god, maybe i ' ll go back and do a director's cut ', i don't know. \" but you know what, i ' m proud i was writing under the conditions under which i was writing, no one will ever know how tough it was at times. \" emma watson, who starred as hermione granger in the harry potter films, said the author was \" too hard on herself \". \" i think they [ the books ] are the way they were meant to be, \" she told bbc newsbeat. ' not for children ' rowling said she wrote her latest novel simply because she \" wanted to \". It is aimed specifically at an older audience and includes adult themes and swear words. \" i hope that we've made it really clear that this isn't a book for children, \" she said. Image caption rowling says the casual vacancy is about \" slicing through a society with everything that that implies \" gompertz revealed in his blog the swearing gave him \" a bit of a jolt \" when reading the book, \" given that she is the world's most famous children's author \". The novel is centred on the death of barry fairbrother, whose unexpected passing shocks the local villagers of pagford. Publishers little, brown &amp; co said: \" pagford is, seemingly, an english idyll, with a cobbled market square and an ancient abbey, but what lies behind the pretty facade is a town at war. \" the company describes the tale as being \" blackly comic, thought-provoking"
         ],
         "raw_document": [
             "Media playback is unsupported on your device media caption jk rowling: \" there were a couple of the potters and i definitely knew that they needed another year \" author jk rowling says she is tempted to create a \" director's cut \" of two harry potter novels, because she ran out of time to finesse them. Rowling, whose first adult novel, the casual vacancy, is published on thursday, said she had deliberately taken her time to write it. \" there were a couple of the potters and i definitely knew that they needed another year, \" she said. Her final potter book, harry potter and the deathly hallows, came out in 2007. \" i had to write on the run and there were times when it was really tough, \" she told bbc arts editor will gompertz. \" and i read them, and i think ' oh god, maybe i ' ll go back and do a director's cut ', i don't know. \" but you know what, i ' m proud i was writing under the conditions under which i was writing, no one will ever know how tough it was at times. \" emma watson, who starred as hermione granger in the harry potter films, said the author was \" too hard on herself \". \" i think they [ the books ] are the way they were meant to be, \" she told bbc newsbeat. ' not for children ' rowling said she wrote her latest novel simply because she \" wanted to \". It is aimed specifically at an older audience and includes adult themes and swear words. \" i hope that we've made it really clear that this isn't a book for children, \" she said. Image caption rowling says the casual vacancy is about \" slicing through a society with everything that that implies \" gompertz revealed in his blog the swearing gave him \" a bit of a jolt \" when reading the book, \" given that she is the world's most famous children's author \". The novel is centred on the death of barry fairbrother, whose unexpected passing shocks the local villagers of pagford. Publishers little, brown &amp; co said: \" pagford is, seemingly, an english idyll, with a cobbled market square and an ancient abbey, but what lies behind the pretty facade is a town at war. \" the company describes the tale as being \" blackly comic, thought-provoking",
@@ -1400,7 +1395,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1483,12 +1478,11 @@
     },
     {
         "idx": 43254,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Ethan couch got drunk last june, drove with a blood alcohol level three times the legal adult limit, and killed four pedestrians. But instead of the 20 years the 16-year-old texas teen could have served in prison, he got 10 years of probation, cbs local reports. Why? apparently couch's attorneys ' controversial argument worked: they said couch's wealthy parents were actually to blame, because couch was used to getting whatever he wanted. He also started driving at 13 and was allowed to drink. ( although the alcohol from the night in question may have been stolen by couch and his friends... From a walmart. ) the defense team argued that couch needs treatment, and the judge told couch she doesn't think he could get the therapy he needs in jail, wfaa reports. His attorneys'suggestion: a california facility that costs $ 450,000 a year, with couch's dad footing the bill. A psychologist who testified said couch should also have no contact with his parents during his one or two years in treatment; he actually used the term \" affluenza \" to describe what the teen apparently suffers from. The only time couch, who was driving around 70mph in a 40mph zone when the crash occurred, will spend in a detention center is the time it takes for him to be placed in a treatment facility.",
         "split": "train",
         "cleansed_document": [
-            "Fort worth ( cbsdfw.com ) – a teenager who killed four people while driving drunk has been sentenced to probation. Prosecutors were pushing for 16-year-old ethan couch to spend 20 years in prison. However, state district judge jean boyd sentenced couch to a decade of probation. There was no debate about who was behind the wheel last june, when couch plowed into and killed four people. Couch has admitted to being the driver, and court records show his blood alcohol level was.24 at the time of the crash, three times the legal limit for an adult. Prosecutors also presented evidence that couch and some friends stole beer from a burleson walmart on june 15, the night of the crash. After consuming the alcohol, couch and seven others got back into his pickup to go to another store. During the trip, he hit four pedestrians, killing them. Two teens riding in couch's pickup were thrown from the truck and severely injured. Couch's attorneys argued his parents were responsible for the teen's actions that night because of the way he had been raised. Defense attorneys put a psychologist on the stand who testified couch was a product of wealth and got whatever he wanted. The psychologist also testified the teen was allowed to drink at a very young age and began driving at 13 years old. Defense attorneys argued couch needed treatment, not jail and suggested a facility that costs almost half a million dollars a year. The victim's family members began crying in court when the sentence was announced tuesday evening. Youth pastor, brian jennings, hollie and shelby boyles, and breanna mitchell were all killed in the crash. Eric boyles, who lost both his wife and daughter, broke his silence for the first time after the sentencing. \"there … there are just some things that even today … are just too difficult to talk about. At this point, we are trying to take life one day at a time. I do look forward to the day that we can put some of this behind us. Today could have been a good start at that … and unfortunately the wounds that it opened only makes the healing process that much greater, \" said boyles through tears. Couch's family did not comment on the sentence. Couch was not allowed to go home with his parents. He will be",
-            "The seed for this crawl was a list of every host in the wayback machine this crawl was run at a level 1 ( urls including their embeds, plus the urls of all outbound links including their embeds ) the warc files associated with this crawl are not currently available to the general public."
+            "Fort worth ( cbsdfw.com ) – a teenager who killed four people while driving drunk has been sentenced to probation. Prosecutors were pushing for 16-year-old ethan couch to spend 20 years in prison. However, state district judge jean boyd sentenced couch to a decade of probation. There was no debate about who was behind the wheel last june, when couch plowed into and killed four people. Couch has admitted to being the driver, and court records show his blood alcohol level was.24 at the time of the crash, three times the legal limit for an adult. Prosecutors also presented evidence that couch and some friends stole beer from a burleson walmart on june 15, the night of the crash. After consuming the alcohol, couch and seven others got back into his pickup to go to another store. During the trip, he hit four pedestrians, killing them. Two teens riding in couch's pickup were thrown from the truck and severely injured. Couch's attorneys argued his parents were responsible for the teen's actions that night because of the way he had been raised. Defense attorneys put a psychologist on the stand who testified couch was a product of wealth and got whatever he wanted. The psychologist also testified the teen was allowed to drink at a very young age and began driving at 13 years old. Defense attorneys argued couch needed treatment, not jail and suggested a facility that costs almost half a million dollars a year. The victim's family members began crying in court when the sentence was announced tuesday evening. Youth pastor, brian jennings, hollie and shelby boyles, and breanna mitchell were all killed in the crash. Eric boyles, who lost both his wife and daughter, broke his silence for the first time after the sentencing. \"there … there are just some things that even today … are just too difficult to talk about. At this point, we are trying to take life one day at a time. I do look forward to the day that we can put some of this behind us. Today could have been a good start at that … and unfortunately the wounds that it opened only makes the healing process that much greater, \" said boyles through tears. Couch's family did not comment on the sentence. Couch was not allowed to go home with his parents. He will be"
         ],
         "raw_document": [
             "Fort worth ( cbsdfw.com ) – a teenager who killed four people while driving drunk has been sentenced to probation. Prosecutors were pushing for 16-year-old ethan couch to spend 20 years in prison. However, state district judge jean boyd sentenced couch to a decade of probation. There was no debate about who was behind the wheel last june, when couch plowed into and killed four people. Couch has admitted to being the driver, and court records show his blood alcohol level was.24 at the time of the crash, three times the legal limit for an adult. Prosecutors also presented evidence that couch and some friends stole beer from a burleson walmart on june 15, the night of the crash. After consuming the alcohol, couch and seven others got back into his pickup to go to another store. During the trip, he hit four pedestrians, killing them. Two teens riding in couch's pickup were thrown from the truck and severely injured. Couch's attorneys argued his parents were responsible for the teen's actions that night because of the way he had been raised. Defense attorneys put a psychologist on the stand who testified couch was a product of wealth and got whatever he wanted. The psychologist also testified the teen was allowed to drink at a very young age and began driving at 13 years old. Defense attorneys argued couch needed treatment, not jail and suggested a facility that costs almost half a million dollars a year. The victim's family members began crying in court when the sentence was announced tuesday evening. Youth pastor, brian jennings, hollie and shelby boyles, and breanna mitchell were all killed in the crash. Eric boyles, who lost both his wife and daughter, broke his silence for the first time after the sentencing. \"there … there are just some things that even today … are just too difficult to talk about. At this point, we are trying to take life one day at a time. I do look forward to the day that we can put some of this behind us. Today could have been a good start at that … and unfortunately the wounds that it opened only makes the healing process that much greater, \" said boyles through tears. Couch's family did not comment on the sentence. Couch was not allowed to go home with his parents. He will be",
@@ -1503,17 +1497,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 43255,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's not unheard of for a woman to act as a surrogate mother for her own grandchild, but a 59-year-old british woman is reportedly hoping for what may be a world first: becoming a surrogate for her dead daughter, who succumbed to bowel cancer four years ago while still in her 20s, reports the daily mail. She's not having any luck in the uk, though, where apparently no clinic is willing to fertilize the woman with her daughter's eggs ( she froze three in 2008 ). The anonymous woman reportedly says it was her daughter's dying wish to have her become a surrogate, but it's not in writing. The mother is now trying to export the eggs to a clinic in new york that has apparently agreed to attempt in vitro fertilization for roughly $ 90,000, but her request to actually export the eggs out of the country has been denied three times, so the case is going to be heard in the uk's high court. While it's technically possible for a post-menopausal woman to become pregnant thanks to hormonal supplementation, reports abc news, the chances of becoming pregnant are lower and the risks to the older woman's health are greater. The main complications are gestational diabetes, high blood pressure, and miscarriage. But it can be done: a woman recounted in the new york times the story of her 61-year-old mother giving birth to her son in 2011. Still, the unidentified woman in this most recent story says she wants to honor her daughter's wish; if this final legal bid to export the eggs fails, they will be destroyed in 2018, a decade after being frozen. ( a 49-year-old woman who gave birth to her own grandson in 2012 said it was like \" babysitting for a few months. \" )",
         "split": "train",
         "cleansed_document": [
-            "Unprecedented: a british woman is staging a legal bid to become pregnant with her own grandchild – using her dead daughter's eggs ( file image ) a british woman is staging a desperate legal bid to become pregnant with her own grandchild – using her dead daughter's eggs. In the first case of its kind in the world, the woman, 59, and her husband will claim it was their daughter's dying wish that her eggs be fertilised by donor sperm and implanted into her own mother's womb. It would be the couple's only chance to become grandparents after their daughter, an only child, died of bowel cancer four years ago while still in her 20s. She chose to freeze her eggs in the hope that she could have children in the future, but tragically lost her battle with the disease. No uk-based clinic has agreed",
-            "A mother's love takes many forms. For kristine casey, 61, it meant giving the gift of motherhood to her infertile daughter by carrying and giving birth to her own grandson. With the help of hormone supplementation, casey, who had gone through menopause 10 years earlier, became pregnant during her second round of in vitro fertilization, the chicago tribune reported. She carried full term and gave birth via cesarean section to finnean, her first grandchild, last week at prentice women's hospital in chicago. Although casey's daughter, sara connell, 35, had been unable to carry a pregnancy to term, her egg and her husband bill's sperm were used in the procedure, making the couple finnean's biological parents. \" the idea of having a family member being open to doing this for us was so extraordinary for us, \" sara"
+            "Unprecedented: a british woman is staging a legal bid to become pregnant with her own grandchild – using her dead daughter's eggs ( file image ) a british woman is staging a desperate legal bid to become pregnant with her own grandchild – using her dead daughter's eggs. In the first case of its kind in the world, the woman, 59, and her husband will claim it was their daughter's dying wish that her eggs be fertilised by donor sperm and implanted into her own mother's womb. It would be the couple's only chance to become grandparents after their daughter, an only child, died of bowel cancer four years ago while still in her 20s. She chose to freeze her eggs in the hope that she could have children in the future, but tragically lost her battle with the disease. No uk-based clinic has agreed"
         ],
         "raw_document": [
             "In june 2009 my husband, bill, and i were five and a half years into an arduous fertility journey that had involved five rounds of ivf, the late-term loss of twin boys ( stillborn ), and a subsequent miscarriage. Tired and depleted, we took a break from the fertility treatments and discussions that had consumed much of the past half decade and tried to listen for some way we would still be able to have children. Seven hundred miles away, my 59-year-old mother, who had watched and supported us in our angst, experienced a flash of an idea. My mother, who, to her own or my knowledge, had never done anything that would be considered the least unconventional, offered to be the surrogate for my and bill's biological child. She wrote her offer in a letter: three small pieces of creamy white paper containing an invitation that",
@@ -1530,7 +1523,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1589,7 +1582,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1614,19 +1607,18 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 43259,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Louis ck gave a predictably polite, sensitive monologue yesterday on the closing night of snl's 40th season — making light of racism, child molestation, and the israel-palestine conflict. \" child molesters are very tenacious people, \" cnn quotes him as saying. \" from their point of view, it must be amazing to risk so much! \" he went on to describe himself as suffering from \" mild racism, \" e! online reports: \" if i go to a pizza place i've never been to before and it's run by four black women, i ' ll go, ' hmm, ' \" he said. And he compared himself to america while his daughters, always fighting, are like israel and palestine. The audience appeared shocked at times, while twitter seems divided and some media critics ( try decider and deadline ) are a bit ruffled. \" it's my last show probably, \" quipped the comic actor, people reports. ( click for 10 more snl scandals. )",
         "split": "train",
         "cleansed_document": [
             "Louis c.k. Sparks uproar with snl monologue about child molesters ( video ) i grew up on snl. Huge louis c.k. Fan. I know they both push the line. I get that. But that opening monologue... — bun b ( @bunbtrillog ) may 17, 2015 if this monologue is any indication, louis ck has lost some speed on his fastball. #snl40finale #snl — luke epplin ( @lukeepplin ) may 17, 2015 saturday night live's season finale was this weekend, so that may have been one reason host louis c.k. Decided to push the boundaries in his show-opening monologue.sunday morning, though, he may be having second thoughts.a wave of",
             "Story highlights louis c.k., no stranger to edgy comedy, didn't disappoint in \" snl \" finale monologue social media were split on whether he went too far ( cnn ) \" saturday night live's \" 40th season went out with a bang, no doubt about it. Host louis c.k. Is no stranger to edgy comedy -- as seen on his critically acclaimed fx series \" louie \" -- and his nine-minute monologue shocked some on social media. The comedian remarked on his experiences growing up in the 1970s, first pointing out that no one was offended by racist language at that time ( and admitting to his \" mild racism \" today ).",
-            "Holy moley. Oh, man. Louis c.k. Launched the season finale of saturday night live with a monologue that took no prisoners and is bound to go down in snl history as either the most infamous one-night-stand in the 40-year-old franchise's history — or right up there in the pantheon of incendiary, taboo-busting that includes lenny bruce, sarah silverman, george carlin and richard pryor. Looking loose and at ease in stained black t-shirt and jeans, the comedian began jovially enough but quickly segued into a riff on israel-palestine, comparing the warring sides to his bickering children, then went on to acknowledging his \"mildly racist \" attitudes ( along the lines of his different",
-            "Advertisement oops! when jay pharaoh told website thegrio that producers \"need to pay attention \" and hire a black female cast member in 2013, he had no idea he was speaking to the press. \"literally, jay didn't know it was a reporter, \" lorne michaels reveals. Fans were shocked and saddened when beloved cast member andy samberg left the show in 2012. But stealing the spotlight on the long-running sketch comedy show wasn't as fun for him as it was for viewers. \"what it came down to is, i just couldn't physically and emotionally do it anymore, \" he confesses. Advertisement there was almost a world without \"d*ck in"
+            "Holy moley. Oh, man. Louis c.k. Launched the season finale of saturday night live with a monologue that took no prisoners and is bound to go down in snl history as either the most infamous one-night-stand in the 40-year-old franchise's history — or right up there in the pantheon of incendiary, taboo-busting that includes lenny bruce, sarah silverman, george carlin and richard pryor. Looking loose and at ease in stained black t-shirt and jeans, the comedian began jovially enough but quickly segued into a riff on israel-palestine, comparing the warring sides to his bickering children, then went on to acknowledging his \"mildly racist \" attitudes ( along the lines of his different"
         ],
         "raw_document": [
             "Louis c.k. Sparks uproar with snl monologue about child molesters ( video ) i grew up on snl. Huge louis c.k. Fan. I know they both push the line. I get that. But that opening monologue... — bun b ( @bunbtrillog ) may 17, 2015 if this monologue is any indication, louis ck has lost some speed on his fastball. #snl40finale #snl — luke epplin ( @lukeepplin ) may 17, 2015 saturday night live's season finale was this weekend, so that may have been one reason host louis c.k. Decided to push the boundaries in his show-opening monologue.sunday morning, though, he may be having second thoughts.a wave of",
@@ -1645,7 +1637,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1674,12 +1666,11 @@
     },
     {
         "idx": 43261,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Remember the scene in the social network where eduardo saverin flips out at mark zuckerbeg, who has sneakily shrunk his share of the company? well saverin says it was all \" hollywood fantasy. \" the facebook co-founder gave a rare interview with the brazilian magazine veja, in which he insists he has \" only good things to say about mark, there are no hard feelings between us, \" according to a translation quoted in forbes. \" he was a visionary. \" other tidbits from the interview: he thinks the idea central to facebook's success is \" that of people truly presenting themselves as they are, without nicknames or pseudonyms. \" \" i am investing like a crazy person, mostly in internet startups, \" he says. \" i believe there's a new facebook out there to be found. Where? my guess is in healthcare. \" he insists once again that renouncing his us citizenship was \" strictly based on my interest of living and working in singapore. \" on the aforementioned social network: \" i would never throw a laptop at someone, like it appears in the movie. Not even at mark. \" why is his facebook page so sparse? \" i don't like showing my privacy online. \"",
         "split": "train",
         "cleansed_document": [
-            "It took almost a decade, one hollywood flick and roughly a billion friends for eduardo saverin to agree on telling his side of the story about the founding of facebook, the social-networking website that since 2004 has changed the way we communicate. Now, tens of billions of dollars later, the brazil-born, miami-bred billionaire finally addressed some of the topics that have been fueling people's imagination for years. Much of what people say about him is – he states – nothing but \"hollywood fantasy. \" in a revealing, world-exclusive interview with reporter fábio altman published this weekend by veja, brazil's leading newsmagazine, saverin explained that he never talked to the media before due to contract restraints with the other facebook shareholders. Ready to set the record straight, and after months of negotiations, saverin welcomed altman and photographer gilberto tadday at his new multi-million dollar condo in singapore, where he lives since 2009, which also serves as his office. He keeps connected to the world through his iphone, ipad, and his 3 mac displays, one of which is constantly running weather softwares about hurricanes and tsunamis, a childhood hobby deepened by the time when he saw how hurricane andrew struck south florida, in 1992. \"i was fascinated by it, and, already having some scientific knowledge, i was able to see the eye of",
-            "Cordialidade - saverin, no centro financeiro de singapura, onde vive desde 2009: \"não tenho ressentimento algum do mark \" ( gilberto tadday/veja ) em 11 de maio, uma semana antes da abertura de capital do facebook na bolsa de valores das empresas de tecnologia, a nasdaq, o blog bits, do new york times, cometeu um erro antológico. Ao fim do texto - \" um fundador do facebook renuncia à cidadania americana \", informava a chamada -, vinha a constrangedora e necessária confissão do risível equívoco: \" uma versão anterior deste texto incluía uma foto publicada erronea­mente; ela mostrava andrew garfield, o ator que interpretou eduardo saverin no filme a rede social, e não o próprio saverin \". Quem recorda a derrapada do jornalão nova-iorquino, lembrança atrelada a um sorriso de gioconda, incapaz de fazer aparecer os dentes, quase envergonhado, é o próprio eduardo saverin. Ele vive uma curiosa condição - a de precisar comprovar, em seu discreto cotidiano de singapura, onde mora desde 2009, que não é como o personagem do filme e que garfield, o próximo homem-aranha das telas, pode até interpretar muito bem, mas o saverin de hollywood nada tem a ver com o saverin real. \" aquilo é hollywood, não é documentário \", diz, com o sotaque que mistura a típica toada paulistana de quem viveu"
+            "It took almost a decade, one hollywood flick and roughly a billion friends for eduardo saverin to agree on telling his side of the story about the founding of facebook, the social-networking website that since 2004 has changed the way we communicate. Now, tens of billions of dollars later, the brazil-born, miami-bred billionaire finally addressed some of the topics that have been fueling people's imagination for years. Much of what people say about him is – he states – nothing but \"hollywood fantasy. \" in a revealing, world-exclusive interview with reporter fábio altman published this weekend by veja, brazil's leading newsmagazine, saverin explained that he never talked to the media before due to contract restraints with the other facebook shareholders. Ready to set the record straight, and after months of negotiations, saverin welcomed altman and photographer gilberto tadday at his new multi-million dollar condo in singapore, where he lives since 2009, which also serves as his office. He keeps connected to the world through his iphone, ipad, and his 3 mac displays, one of which is constantly running weather softwares about hurricanes and tsunamis, a childhood hobby deepened by the time when he saw how hurricane andrew struck south florida, in 1992. \"i was fascinated by it, and, already having some scientific knowledge, i was able to see the eye of"
         ],
         "raw_document": [
             "It took almost a decade, one hollywood flick and roughly a billion friends for eduardo saverin to agree on telling his side of the story about the founding of facebook, the social-networking website that since 2004 has changed the way we communicate. Now, tens of billions of dollars later, the brazil-born, miami-bred billionaire finally addressed some of the topics that have been fueling people's imagination for years. Much of what people say about him is – he states – nothing but \"hollywood fantasy. \" in a revealing, world-exclusive interview with reporter fábio altman published this weekend by veja, brazil's leading newsmagazine, saverin explained that he never talked to the media before due to contract restraints with the other facebook shareholders. Ready to set the record straight, and after months of negotiations, saverin welcomed altman and photographer gilberto tadday at his new multi-million dollar condo in singapore, where he lives since 2009, which also serves as his office. He keeps connected to the world through his iphone, ipad, and his 3 mac displays, one of which is constantly running weather softwares about hurricanes and tsunamis, a childhood hobby deepened by the time when he saw how hurricane andrew struck south florida, in 1992. \"i was fascinated by it, and, already having some scientific knowledge, i was able to see the eye of",
@@ -1694,17 +1685,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 43262,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Joe biden appeared on letterman last night by way of a taped appearance, and politico notes he closed by telling dave, \" i hope to hell you voted. \" the same likely goes for you, america, and should you need a little convincing, biden is up for the challenge. He offered up the top 10 good things about voting early. Highlights: 10. I ' m not saying each early voter gets a free cheeseburger, but i ' m not saying they don't, either. 8. You know who votes early? people with a backbone like a ramrod. 6. If you vote early, you don't have to pay taxes. I ' m sorry — i ' m being told that's not accurate. 2. Early voters will receive a $ 5 million donation from donald trump. 1. Honestly, don't you want this election over with already?",
         "split": "train",
         "cleansed_document": [
-            "Beloit, wis. – vice president joe biden appeared on \" late night with david letterman \" on thursday to offer up one of the show's famous top ten lists filled with jokes from the campaign trail. But biden started off more gently, telling letterman and his new york audience: \"i just hope everything is coming along all right in new york. You've been devastated in new york and new jersey, and just know everyone's thinking of you and we're doing everything we can to help. \" then, in a segment taped from the hotel where he spent wednesday night, biden moved onto the jokes as he listed the top ten reasons why to take advantage of early voting. \" you know who votes early? people with a backbone like a ramrod \" came in at no. 8, and drew from the description biden often uses to talk about president obama's conviction to make hard choices including the raid on osama bin laden's compound in pakistan. And, drawing on a key word from last month's vice presidential debate, he said: \" not exercising your right to vote is malarkey – it's literally malarkey. \" \" dave, i hope to hell you voted, \" biden told letterman after finishing with the list. The full top ten list: 10. I ' m not saying each early voter gets a free cheeseburger, but i ' m not saying they don't either. 9. It's vastly more effective than voting late. 8. You know who votes early? people with a backbone like a ramrod. 7. At a less crowded polling center, there's plenty of room to stretch out, linger and relax. 6. If you vote early, you don't have to pay taxes. I ' m sorry – i ' m being told that's not accurate. 5. Single and looking to mingle? find that someone special in the early voting line. 4. Of course, there's the open bar. 3. Not exercising your right to vote is malarkey – it's literally malarkey. 2. Early voters will receive a $ 5 million donation from donald trump. 1. Honestly, don't you want this election over already? read more about: joe biden",
-            "The 2016 u.s. Presidential election web archive will be a resource to document how major u.s. Presidential candidates ' web presences change and evolve through the election cycle. The archive will include the official websites, pac websites, and twitter pages of all democratic or republican primary candidates who poll above 5 % in the cnn/orc polls."
+            "Beloit, wis. – vice president joe biden appeared on \" late night with david letterman \" on thursday to offer up one of the show's famous top ten lists filled with jokes from the campaign trail. But biden started off more gently, telling letterman and his new york audience: \"i just hope everything is coming along all right in new york. You've been devastated in new york and new jersey, and just know everyone's thinking of you and we're doing everything we can to help. \" then, in a segment taped from the hotel where he spent wednesday night, biden moved onto the jokes as he listed the top ten reasons why to take advantage of early voting. \" you know who votes early? people with a backbone like a ramrod \" came in at no. 8, and drew from the description biden often uses to talk about president obama's conviction to make hard choices including the raid on osama bin laden's compound in pakistan. And, drawing on a key word from last month's vice presidential debate, he said: \" not exercising your right to vote is malarkey – it's literally malarkey. \" \" dave, i hope to hell you voted, \" biden told letterman after finishing with the list. The full top ten list: 10. I ' m not saying each early voter gets a free cheeseburger, but i ' m not saying they don't either. 9. It's vastly more effective than voting late. 8. You know who votes early? people with a backbone like a ramrod. 7. At a less crowded polling center, there's plenty of room to stretch out, linger and relax. 6. If you vote early, you don't have to pay taxes. I ' m sorry – i ' m being told that's not accurate. 5. Single and looking to mingle? find that someone special in the early voting line. 4. Of course, there's the open bar. 3. Not exercising your right to vote is malarkey – it's literally malarkey. 2. Early voters will receive a $ 5 million donation from donald trump. 1. Honestly, don't you want this election over already? read more about: joe biden"
         ],
         "raw_document": [
             "Beloit, wis. – vice president joe biden appeared on \" late night with david letterman \" on thursday to offer up one of the show's famous top ten lists filled with jokes from the campaign trail. But biden started off more gently, telling letterman and his new york audience: \"i just hope everything is coming along all right in new york. You've been devastated in new york and new jersey, and just know everyone's thinking of you and we're doing everything we can to help. \" then, in a segment taped from the hotel where he spent wednesday night, biden moved onto the jokes as he listed the top ten reasons why to take advantage of early voting. \" you know who votes early? people with a backbone like a ramrod \" came in at no. 8, and drew from the description biden often uses to talk about president obama's conviction to make hard choices including the raid on osama bin laden's compound in pakistan. And, drawing on a key word from last month's vice presidential debate, he said: \" not exercising your right to vote is malarkey – it's literally malarkey. \" \" dave, i hope to hell you voted, \" biden told letterman after finishing with the list. The full top ten list: 10. I ' m not saying each early voter gets a free cheeseburger, but i ' m not saying they don't either. 9. It's vastly more effective than voting late. 8. You know who votes early? people with a backbone like a ramrod. 7. At a less crowded polling center, there's plenty of room to stretch out, linger and relax. 6. If you vote early, you don't have to pay taxes. I ' m sorry – i ' m being told that's not accurate. 5. Single and looking to mingle? find that someone special in the early voting line. 4. Of course, there's the open bar. 3. Not exercising your right to vote is malarkey – it's literally malarkey. 2. Early voters will receive a $ 5 million donation from donald trump. 1. Honestly, don't you want this election over already? read more about: joe biden",
@@ -1719,7 +1709,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1849,7 +1839,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2006,7 +1996,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2031,7 +2021,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2081,7 +2071,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2113,13 +2103,12 @@
     },
     {
         "idx": 43278,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "San francisco's ultimate symbol of decadence and luxury is sinking, horrifying well-heeled tenants and laying the foundation for a costly legal battle. With bold-name residents such as joe montana and sf giants outfielder hunter pence, millennium tower was hailed as one of the world's top 10 residential buildings when it opened in 2009, notes sf gate. Since then, the gleaming skyscraper has sunk 16 inches and tilted 2 inches, reports kgo. Despite assurances the 58-story high-rise is safe, furious owners who paid as much as $ 10 million for their condos have complained that walls are cracked, and windows and dishwashers are harder to open. An engineer in july confirmed the owners ' worst fears. \" all buildings settle over time, \" says a spokesman for the tower operator, millennium partners, but he adds that the tower \"settled more than originally anticipated \" after heavy construction next door for the new transbay transit center. The transit authority, however, points blame at the tower's construction of concrete rather than steel and says engineers made a mistake by not drilling the building's piles into bedrock. Homeowners, meanwhile, have hired their own engineering consultants and are threatening to sue. The tower in the \" soma \" — south of market — district boasts 419 apartments, a fitness center, lap pool, terrace, wine cellar, notes worth magazine, which rated it one of the world's best addresses. It's also home to star chef michael mina's rn74 restaurant.",
         "split": "train",
         "cleansed_document": [
             "Sf's landmark tower for rich and famous is sinking and tilting the millennium tower in san francisco has sunk 16 inches and tilted 2 inches since it opened in 2008. The millennium tower in san francisco has sunk 16 inches and tilted 2 inches since it opened in 2008. Photo: michael noble jr., the chronicle photo: michael noble jr., the chronicle image 1 of / 63 caption close sf's landmark tower for rich and famous is sinking and tilting 1 / 63 back to gallery the millennium tower, a leading symbol of san francisco's new high-rise and high-end living, is sinking — setting the stage for what could be one of the most contentious and costly real estate legal battles the city has ever seen. Rated by worth magazine as one of the top 10 residential buildings in the world, the millennium at 301 mission st. Is home to such a-listers as joe montana and hunter pence. Until his recent death, it's where venture capitalist tom perkins owned a penthouse.",
-            "Some of san francisco's wealthiest tenants are being reassured their high-rise building is a safe place to live after learning the millennium tower is sinking and tilting.the 58-story building is a condominium skyscraper located on mission and fremont streets. It has been voted by some as one of the top 10 residential buildings in the world according to an independent consultant hired to monitor the problem, the residential building has sunk 16 inches since its completion in 2008. It has also tilted 2 inches. \" there are some cracks in the wall in the parking garage and there's been some settling on the club level floor, \" said pat dodson, a millennium tower homeowner.one yelp review noticed windows and a dishwasher getting harder to open and bubbles appearing in the floor.in july, the homeowners ' association brought in an engineer. \" why the building is sinking and tilting. It's very clear after listening to him and doing a lot of research, which my husband and i have done, that millennium partners did not",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Some of san francisco's wealthiest tenants are being reassured their high-rise building is a safe place to live after learning the millennium tower is sinking and tilting.the 58-story building is a condominium skyscraper located on mission and fremont streets. It has been voted by some as one of the top 10 residential buildings in the world according to an independent consultant hired to monitor the problem, the residential building has sunk 16 inches since its completion in 2008. It has also tilted 2 inches. \" there are some cracks in the wall in the parking garage and there's been some settling on the club level floor, \" said pat dodson, a millennium tower homeowner.one yelp review noticed windows and a dishwasher getting harder to open and bubbles appearing in the floor.in july, the homeowners ' association brought in an engineer. \" why the building is sinking and tilting. It's very clear after listening to him and doing a lot of research, which my husband and i have done, that millennium partners did not"
         ],
         "raw_document": [
             "Sf's landmark tower for rich and famous is sinking and tilting the millennium tower in san francisco has sunk 16 inches and tilted 2 inches since it opened in 2008. The millennium tower in san francisco has sunk 16 inches and tilted 2 inches since it opened in 2008. Photo: michael noble jr., the chronicle photo: michael noble jr., the chronicle image 1 of / 63 caption close sf's landmark tower for rich and famous is sinking and tilting 1 / 63 back to gallery the millennium tower, a leading symbol of san francisco's new high-rise and high-end living, is sinking — setting the stage for what could be one of the most contentious and costly real estate legal battles the city has ever seen. Rated by worth magazine as one of the top 10 residential buildings in the world, the millennium at 301 mission st. Is home to such a-listers as joe montana and hunter pence. Until his recent death, it's where venture capitalist tom perkins owned a penthouse.",
@@ -2136,7 +2125,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2172,7 +2161,7 @@
             "2": 0,
             "3": 0,
             "4": 3,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -2199,7 +2188,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2224,7 +2213,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2285,7 +2274,7 @@
             "2": 0,
             "3": 2,
             "4": 0,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -2338,19 +2327,18 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 43286,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "It's around that time of year in california when rattlesnake bites spike, and two stories are making headlines: don't suck the venom: in folsom, a 4-year-old got bit on the foot when he stepped on a baby rattler while walking on a trail. His mom — who is 9 months pregnant — tells ktla that she found the puncture wounds and started trying to suck the venom out, as she had seen on bonanza. Bad move, says a state wildlife official, because it could make the venom spread faster. \" absolutely don't do that, \" he warns. Fortunately, all ended well. The boy is recovering — after the venom spread through his leg — and mom is fine. Toddler bit: in bay point, a 2-year-old girl was bit by a rattlesnake while playing in her backyard, reports the san jose mercury news. The girl was airlifted to a children's hospital on oakland, and her condition wasn't made available. Authorities caught the snake nearby. The state poison center gets about 300 calls a year about rattlesnake bites, notes the san francisco chronicle, but they are particularly dangerous for kids because of their smaller size.",
         "split": "train",
         "cleansed_document": [
             "Please enable javascript to watch this video a pregnant woman and her son had quite a scare when the young boy was bitten by a rattlesnake while walking along a bike trail in folsom. Jaclyn caramazza, who is nine months pregnant, was anticipating a trip to the hospital sometime this month. But she was expecting the visit for the birth of her newborn, not for a snakebite. On their way back from a walk, her 4-year-old son vinny accidentally stepped on a baby rattlesnake. Knowing that something was wrong with her son, jaclyn tended to the area, according to ktxl. \"i ' m looking around, and took his shoes off, and lo-and-behold",
             "Bay point -- a toddler was bit by a rattlesnake tuesday night in a residential area off san marco boulevard, fire officials said. Fire crews received a call about a 2-year-old girl who was bit by an unknown animal shortly before 8 p.m. At a home near delta view elementary, said contra costa fire marshal robert marshall. Upon arrival, crews learned that the girl was bit by a rattlesnake because they found it nearby. The toddler was treated on scene and then transported by medical helicopter to ucsf benioff children's hospital in oakland, marshall said. A status update on the child wasn't available tuesday night. People should be aware of their surroundings",
-            "Girl, 2, bitten by rattlesnake in bay point photo: katie meek, the chronicle image 1 of / 1 caption close image 1 of 1 a rattlesnake at the lindsay wildlife museum in walnut creek, calif., on june 7, 2013. A rattlesnake at the lindsay wildlife museum in walnut creek, calif., on june 7, 2013. Photo: katie meek, the chronicle girl, 2, bitten by rattlesnake in bay point 1 / 1 back to gallery a bay point girl was being treated at a hospital wednesday after she was bitten by a rattlesnake in her backyard, authorities said. Ishneet kaur was playing in her yard on the 2900 block of rio",
-            "Karen c. Asks: true or false, you should suck the venom out of a snakebite after someone gets bitten? there are a number of productive things you can do to help a snakebite victim; trying to suck out the venom isn't one of them. Actually having a negative effect, potentially further damaging the tissue around the bite and thus helping to spread the venom, trying to suck the venom out of a snakebite victim is an act in futility that simply delays proper treatment. Once in the body, snake venom quickly spreads throughout the victim's lymphatic system, and it is just not possible for a human to suck fast or hard"
+            "Girl, 2, bitten by rattlesnake in bay point photo: katie meek, the chronicle image 1 of / 1 caption close image 1 of 1 a rattlesnake at the lindsay wildlife museum in walnut creek, calif., on june 7, 2013. A rattlesnake at the lindsay wildlife museum in walnut creek, calif., on june 7, 2013. Photo: katie meek, the chronicle girl, 2, bitten by rattlesnake in bay point 1 / 1 back to gallery a bay point girl was being treated at a hospital wednesday after she was bitten by a rattlesnake in her backyard, authorities said. Ishneet kaur was playing in her yard on the 2900 block of rio"
         ],
         "raw_document": [
             "Please enable javascript to watch this video a pregnant woman and her son had quite a scare when the young boy was bitten by a rattlesnake while walking along a bike trail in folsom. Jaclyn caramazza, who is nine months pregnant, was anticipating a trip to the hospital sometime this month. But she was expecting the visit for the birth of her newborn, not for a snakebite. On their way back from a walk, her 4-year-old son vinny accidentally stepped on a baby rattlesnake. Knowing that something was wrong with her son, jaclyn tended to the area, according to ktxl. \"i ' m looking around, and took his shoes off, and lo-and-behold",
@@ -2369,7 +2357,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2427,7 +2415,7 @@
             "0": 1,
             "1": 1,
             "2": 2,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2482,14 +2470,13 @@
     },
     {
         "idx": 43291,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A huge number of nude photos of celebrities were leaked online over the weekend, but it's not clear just how big the leak is. Some celebs say the photos are fakes, while at least one has confirmed their authenticity and threatened legal action, tmz reports. \" this is a flagrant violation of privacy. The authorities have been contacted and will prosecute anyone who posts the stolen photos, \" a rep for jennifer lawrence said in a statement. The leak first surfaced on the 4chan website, buzzfeed reports; a \" master list \" of hacked celebrities includes kirsten dunst, kate upton, kim kardashian, rihanna, and dozens more. \" to those of you looking at photos i took with my husband years ago in the privacy of our home, hope you feel great about yourselves, \" tweeted actress mary e. Winstead. \" knowing those photos were deleted long ago, i can only imagine the creepy effort that went into this. Feeling for everyone who got hacked. \" stars like victoria justice and ariana grande are among those saying the photos appearing online have been doctored, cnn reports. Meanwhile, gizmodo thinks that hackers could have exploited an icloud security flaw to get the images. In 2012, hacker christopher chaney received a 10-year sentence for stealing nude photos of scarlett johansson and dozens of other women.",
         "split": "train",
         "cleansed_document": [
             "( cnn ) -- a publicist for jennifer lawrence slammed the appearance of nude photographs of the oscar-winning actress online sunday as a \" flagrant violation of privacy. \" \" the authorities have been contacted and will prosecute anyone who posts the stolen photos of jennifer lawrence, \" the publicist said in a written statement. Posts on 4chan, reddit, twitter and tumblr claim to include nude photographs of lawrence, who won an academy award last year for her role in \" silver linings playbook. \" twitter posts on verified accounts of several other celebrities sunday also reported hacks. \" to those of you looking at photos i took with my husband years ago in the privacy of our home, hope you feel great about yourselves, \" actress mary e. Winstead wrote. \" knowing those photos were deleted long ago, i",
             "Over the weekend, there's been a slew of images released showing celebrities in varying states of undress. Now, it appears that a flaw in icloud could be responsible for the images making their way online. Advertisement the next web reports that a python script has appeared on github that \" appears to have allowed malicious users to ' brute force ' a target account's password on apple's icloud. \" based on a vulnerability in the find my iphone service, the software was able to repeatedly guess passwords very quickly in an attempt to find the right one. Usually multiple guesses lock accounts down, but the flaw in find my iphone meant that didn't happen. The software sat on github for two days, before appearing on hacker news and then swiftly being patched by apple",
-            "Jennifer lawrence one of dozens targeted in nude photos leak jennifer lawrence -- one of dozens targeted in nude photos leak exclusive photos purporting to show a nudeare making their way around on the internet as part of what appears to be a massive celebrity hacking campaign.the photos claiming to be of lawrence were taken in various locations -- some of them appear to be taken in a dressing room, while others are more intimate. Some of the photos show the woman who is allegedly lawrence taking the photos herself, while others appear to be taken by someone else.a few of the photos show what appears to be lawrence in various bathing suits... But others are fully nude.there are a ton of other partially nude photos of celebrities posted today... The alleged victims include, andlawrence's spokespeople tell tmz, \" this is a flagrant",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Jennifer lawrence one of dozens targeted in nude photos leak jennifer lawrence -- one of dozens targeted in nude photos leak exclusive photos purporting to show a nudeare making their way around on the internet as part of what appears to be a massive celebrity hacking campaign.the photos claiming to be of lawrence were taken in various locations -- some of them appear to be taken in a dressing room, while others are more intimate. Some of the photos show the woman who is allegedly lawrence taking the photos herself, while others appear to be taken by someone else.a few of the photos show what appears to be lawrence in various bathing suits... But others are fully nude.there are a ton of other partially nude photos of celebrities posted today... The alleged victims include, andlawrence's spokespeople tell tmz, \" this is a flagrant"
         ],
         "raw_document": [
             "( cnn ) -- a publicist for jennifer lawrence slammed the appearance of nude photographs of the oscar-winning actress online sunday as a \" flagrant violation of privacy. \" \" the authorities have been contacted and will prosecute anyone who posts the stolen photos of jennifer lawrence, \" the publicist said in a written statement. Posts on 4chan, reddit, twitter and tumblr claim to include nude photographs of lawrence, who won an academy award last year for her role in \" silver linings playbook. \" twitter posts on verified accounts of several other celebrities sunday also reported hacks. \" to those of you looking at photos i took with my husband years ago in the privacy of our home, hope you feel great about yourselves, \" actress mary e. Winstead wrote. \" knowing those photos were deleted long ago, i",
@@ -2508,7 +2495,7 @@
             "0": 0,
             "1": 2,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -2540,12 +2527,11 @@
     },
     {
         "idx": 43293,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "\" he never said anything to me, or took any action — that i was aware of — that i understood to be in any way a warning that something like this was about to happen, \" the independent quotes marilou danley as saying in her first public statement after her boyfriend, stephen paddock, killed 59 people sunday in las vegas. Danley's statement was read by her lawyer matthew lombard on wednesday in los angeles, where she was being questioned by the fbi, the ap reports. According to nbc news, the 62-year-old danley said in her statement she was \" devastated \" by what happened in las vegas. \" i knew stephen as a kind, caring, quiet man, \" she said in the statement. While danley's statement didn't provide a possible motive for paddock's actions, it did explain why he recently wired $ 100,000 to an account in the philippines, where danley reportedly was at the time of the shooting. Lombard said paddock sent the money to danley and her family to \" buy a house. \" he said danley was worried it was paddock's way of breaking up with her. Danley returned to the us on tuesday night, and lombard said she is cooperating with investigators.",
         "split": "train",
         "cleansed_document": [
-            "The girlfriend of the gunman who killed 58 people in las vegas over the weekend says she was not aware that he was planning violence of any kind – instead fearing that a trip to the philippines he sent her on was a way to break up with her. Marilou danley released a statement having returned from her trip and spending much of the day being questioned by fbi agents in los angeles – with authorities searching for any clues that might point to a motive behind the mass shooting by stephen paddock. Authorities had previously labelled ms danley, 62, a \"person of interest \". The statement, read by her lawyer, indicated that she plans on fully co-operating with the fbi. \"i knew stephen as a kind, caring, quiet man, \" the statement read. \"i loved him and hoped for a quiet future together. He never said anything to me, or took any action that i was aware of that i understood in any way to be a warning that something horrible like this was going to happen. \" \"it never occurred to me in any way whatsoever that he was planning violence against anyone, \" the statement added. \"i am devastated by the deaths and injuries that have occurred and my prayers go out to the victims and their families and all those who have been hurt by these awful events, \"",
-            "People pause at a memorial set up for victims of a mass shooting in las vegas, on tuesday, oct. 3, 2017. A gunman opened fire on an outdoor music concert on sunday. It was the deadliest mass shooting... ( associated press ) people pause at a memorial set up for victims of a mass shooting in las vegas, on tuesday, oct. 3, 2017. A gunman opened fire on an outdoor music concert on sunday. It was the deadliest mass shooting in modern u.s. History, with dozens of people killed and hundreds injured, some by gunfire, some during... ( associated press ) las vegas ( ap ) — the latest on the mass shooting in las vegas ( all times local ): 3: 15 p.m. An attorney for the las vegas shooter's girlfriend says she had no knowledge of any plans by him to commit a massacre. Marilou danley's lawyer said wednesday she plans to cooperate fully with the investigation of her boyfriend stephen paddock. Defense attorney matthew lombard spoke in los angeles after danley met with fbi agents to discuss sunday's carnage on the las vegas strip. She returned to the u.s. Tuesday night from the philippines, where she was visiting family. While she was there, paddock, a high-stakes gambler, sent her $ 100,000. Lombard says she was not expecting"
+            "The girlfriend of the gunman who killed 58 people in las vegas over the weekend says she was not aware that he was planning violence of any kind – instead fearing that a trip to the philippines he sent her on was a way to break up with her. Marilou danley released a statement having returned from her trip and spending much of the day being questioned by fbi agents in los angeles – with authorities searching for any clues that might point to a motive behind the mass shooting by stephen paddock. Authorities had previously labelled ms danley, 62, a \"person of interest \". The statement, read by her lawyer, indicated that she plans on fully co-operating with the fbi. \"i knew stephen as a kind, caring, quiet man, \" the statement read. \"i loved him and hoped for a quiet future together. He never said anything to me, or took any action that i was aware of that i understood in any way to be a warning that something horrible like this was going to happen. \" \"it never occurred to me in any way whatsoever that he was planning violence against anyone, \" the statement added. \"i am devastated by the deaths and injuries that have occurred and my prayers go out to the victims and their families and all those who have been hurt by these awful events, \""
         ],
         "raw_document": [
             "The girlfriend of the gunman who killed 58 people in las vegas over the weekend says she was not aware that he was planning violence of any kind – instead fearing that a trip to the philippines he sent her on was a way to break up with her. Marilou danley released a statement having returned from her trip and spending much of the day being questioned by fbi agents in los angeles – with authorities searching for any clues that might point to a motive behind the mass shooting by stephen paddock. Authorities had previously labelled ms danley, 62, a \"person of interest \". The statement, read by her lawyer, indicated that she plans on fully co-operating with the fbi. \"i knew stephen as a kind, caring, quiet man, \" the statement read. \"i loved him and hoped for a quiet future together. He never said anything to me, or took any action that i was aware of that i understood in any way to be a warning that something horrible like this was going to happen. \" \"it never occurred to me in any way whatsoever that he was planning violence against anyone, \" the statement added. \"i am devastated by the deaths and injuries that have occurred and my prayers go out to the victims and their families and all those who have been hurt by these awful events, \"",
@@ -2560,7 +2546,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2588,7 +2574,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {

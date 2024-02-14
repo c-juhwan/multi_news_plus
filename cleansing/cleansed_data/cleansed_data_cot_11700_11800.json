@@ -117,7 +117,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -175,18 +175,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 11706,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "In what may be a political first, democratic maryland gubernatorial candidate richard madaleno is running a 30-second campaign ad that ends with him kissing his husband, mark hodge, reports the hill. The state senator vows to stand up to president trump and says, \"here are a few of things i've done that already infuriate him, \" then lists a series of progressive accomplishments, such as helping to ban assault weapons in maryland and supporting planned parenthood. At the end, he asks rhetorically, \"and what's the no. 1 way i piss off donald trump and the republicans? \" then kisses hodge on the lips. \"take that, trump. \" \" to our knowledge, it is the first political ad in american history to feature a kiss between a candidate and a same-sex spouse, \" says the lgbtq victory fund. If elected, madaleno would be maryland's first openly gay governor, but he has some work to do to win the democratic primary. He was polling at 6 % in a recent washington post poll, which put him in fourth place behind frontrunner democrat ben jealous, who's polling at 21 %. The ad will run on cable in progressive montgomery county and on fox &amp; friends in the washington, dc, market, where it premiered thursday morning. The placement on fox &amp; friends is aimed at one particular viewer, reports the baltimore sun. \"we wanted to make sure the president had an opportunity to see this ad, and went with the network he tunes into, \" says madaleno's campaign manager.",
         "split": "train",
         "cleansed_document": [
             "Richard madaleno, a democratic candidate in maryland's gubernatorial race, made history on thursday by airing the first political tv campaign ad to feature a same-sex kiss, according to the lgbtq victory fund. In the ad, madaleno vows to \" stand up to \" president trump donald john trumpmike huckabee: if trump nominated moses to the supreme court dems would still be unhappy trump admin likely to detain migrant families for months during immigration proceedings: report ice chief to protesters: we're not the ones separating families more by highlighting ways he's opposed the commander in chief's agenda as a state senator in maryland. \"i ' m running for governor to deliver progressive results and to stand up to donald trump, \" madaleno says in his ad. \"here are a few of the things that i've done that already infuriate him. \" advertisement madaleno goes on to",
-            "Sometimes, a kiss is more than just a kiss. State sen. Richard s. Madaleno jr., a democratic candidate for maryland governor, has launched a television ad in which a kiss between him and his husband is portrayed as a statement of defiance against president donald j. Trump. A leading gay rights organization says it is the first-ever kiss of a same-sex married couple in a u.s. Political ad. By late thursday, the ad and the media coverage it spawned had gone viral. After the ad's content was reported by the baltimore sun and washington post, the story was picked up by dozens of organizations, including usa today, cbs news and the daily beast. The openly gay former houston mayor annise parker, president of the lgbt victory fund, said the ad is a sign of changing times. Rich madaleno is the only candidate for governor who has stood up to",
-            "The democratic candidates for governor, clockwise from top left: valerie ervin, benjamin jealous, alec ross, krishanti vignarajah, richard s. Madaleno jr., james l. Shea and rushern l. Baker iii. ( staff and handout photos ) three weeks before their primary, maryland democrats remain largely undecided about whom to nominate for governor, according to a new washington post-university of maryland poll, in a race overshadowed by record popularity for republican gov. Larry hogan. Former naacp president benjamin jealous and prince george's county executive rushern l. Baker iii lead the sizable democratic pack, the survey finds. But the outcome of the race probably will depend on the nearly 4 in 10 likely voters who have not yet settled on a candidate. Hogan's broad support — nearly two-thirds of democrats approve of his job performance — defies a national political climate in which opposition to president trump has energized"
+            "Sometimes, a kiss is more than just a kiss. State sen. Richard s. Madaleno jr., a democratic candidate for maryland governor, has launched a television ad in which a kiss between him and his husband is portrayed as a statement of defiance against president donald j. Trump. A leading gay rights organization says it is the first-ever kiss of a same-sex married couple in a u.s. Political ad. By late thursday, the ad and the media coverage it spawned had gone viral. After the ad's content was reported by the baltimore sun and washington post, the story was picked up by dozens of organizations, including usa today, cbs news and the daily beast. The openly gay former houston mayor annise parker, president of the lgbt victory fund, said the ad is a sign of changing times. Rich madaleno is the only candidate for governor who has stood up to"
         ],
         "raw_document": [
             "Richard madaleno, a democratic candidate in maryland's gubernatorial race, made history on thursday by airing the first political tv campaign ad to feature a same-sex kiss, according to the lgbtq victory fund. In the ad, madaleno vows to \" stand up to \" president trump donald john trumpmike huckabee: if trump nominated moses to the supreme court dems would still be unhappy trump admin likely to detain migrant families for months during immigration proceedings: report ice chief to protesters: we're not the ones separating families more by highlighting ways he's opposed the commander in chief's agenda as a state senator in maryland. \"i ' m running for governor to deliver progressive results and to stand up to donald trump, \" madaleno says in his ad. \"here are a few of the things that i've done that already infuriate him. \" advertisement madaleno goes on to",
@@ -203,18 +202,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 11707,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Good news for the many on the planet weirdly fascinated by rumors about adolf hitler's genitals: it has long been suggested that hitler only had one testicle — there's even a british schoolyard song that mocks him for it — and that it was a shrapnel casualty in world war i's battle of the somme. But now medical documents that surfaced in 2010 but have only recently been officially analyzed suggest that at least when he was imprisoned in 1923 after a failed coup he had what's called \" right-side cryptorchidism, \" meaning that testicle never descended into the scrotum, as is typical in childhood, reports the guardian. \" the experienced medical officer immediately recognized the condition, \" german historian peter fleischmann, who analyzed the documents, told german tabloid bild, via the huffington post. His right testicle was \" probably stunted, \" though hitler's childhood doctor apparently told american interrogators in 1943 that his genitals were \" completely normal, \" and a polish priest and amateur historian once said a german army medic who treated hitler mentioned the shrapnel injury. Whether the testicle in question eventually descended and was later injured or never in fact descended at all, it does in fact appear to be true that hitler \" has only got one ball, \" as the song goes. ( other medical notes suggest hitler was fond of cocaine and suffered from uncontrollable flatulence. )",
         "split": "train",
         "cleansed_document": [
             "This article is over 2 years old analysis of long-lost medical notes seems to confirm that nazi leader suffered from cryptorchidism, or an undescended right testicle hitler really did have only one testicle, german researcher claims the song sung in schoolyards by generations of british children mocking adolf hitler for only having \"one ball \" might be accurate after all. A german historian has unearthed the nazi leader's long-lost medical records, which seem to confirm the urban legend that he only had one testicle. The records, taken during a medical exam following hitler's arrest over the failed beer hall putsch in 1923, show that he suffered from \"right-side cryptorchidism \", or an undescended right testicle. Bring mein kampf into schools to tackle extremism, say german teachers read more notes written by dr josef steiner brin, the medical officer at landsberg prison, state \"adolf hitler, artist, recently writer \" was otherwise \"healthy and strong \". Long thought to have been lost, the records of the examination surfaced at an auction",
-            "Berlin, dec 19 ( reuters ) - a medical document shows that adolf hitler only had one testicle, german media said on saturday, suggesting there is some truth after all to a popular british song that says the dictator had \" only got one ball. \" there has long been speculation that hitler was missing one testicle, with rumors circulating that he lost the other one during the battle of the somme in the first world war. But a medical record from the time when hitler was put in prison after the failed munich beer hall putsch in 1923 shows he suffered from \" right-side cryptorchidism \" -- a condition where a testicle fails to descend into the scrotum - media reports said. The doctor's notes were thought to have been missing for years but reappeared at an auction in 2010, at which point they were seized by authorities. \" the experienced medical officer immediately recognized the condition! \" top-selling newspaper bild quoted historian peter fleischmann, who has studied the record, as saying. Fleischmann",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Berlin, dec 19 ( reuters ) - a medical document shows that adolf hitler only had one testicle, german media said on saturday, suggesting there is some truth after all to a popular british song that says the dictator had \" only got one ball. \" there has long been speculation that hitler was missing one testicle, with rumors circulating that he lost the other one during the battle of the somme in the first world war. But a medical record from the time when hitler was put in prison after the failed munich beer hall putsch in 1923 shows he suffered from \" right-side cryptorchidism \" -- a condition where a testicle fails to descend into the scrotum - media reports said. The doctor's notes were thought to have been missing for years but reappeared at an auction in 2010, at which point they were seized by authorities. \" the experienced medical officer immediately recognized the condition! \" top-selling newspaper bild quoted historian peter fleischmann, who has studied the record, as saying. Fleischmann"
         ],
         "raw_document": [
             "This article is over 2 years old analysis of long-lost medical notes seems to confirm that nazi leader suffered from cryptorchidism, or an undescended right testicle hitler really did have only one testicle, german researcher claims the song sung in schoolyards by generations of british children mocking adolf hitler for only having \"one ball \" might be accurate after all. A german historian has unearthed the nazi leader's long-lost medical records, which seem to confirm the urban legend that he only had one testicle. The records, taken during a medical exam following hitler's arrest over the failed beer hall putsch in 1923, show that he suffered from \"right-side cryptorchidism \", or an undescended right testicle. Bring mein kampf into schools to tackle extremism, say german teachers read more notes written by dr josef steiner brin, the medical officer at landsberg prison, state \"adolf hitler, artist, recently writer \" was otherwise \"healthy and strong \". Long thought to have been lost, the records of the examination surfaced at an auction",
@@ -231,7 +229,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -316,7 +314,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -341,7 +339,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -366,17 +364,16 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 11713,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Muggings are so common on the streets of brazil these days that police have some advice for tourists coming to next month's world cup: if someone tries to rob them, they should not \" react, scream, or argue, \" says a new brochure issued in sao paulo and noticed by the bbc. Otherwise, they ' ll risk becoming murder victims, too. \" tourists come mainly from europe and the united states, where they do not see this crime very often, \" explains the official in charge of world cup security. The washington post reports that muggings are up 44 % in the first four months of this year in rio state, and police are threatening to go on strike nationwide during the monthlong world cup over pay and working conditions. And all this comes with brazil under fire on the world stage for being so far behind in preparing for the 2016 olympics.",
         "split": "train",
         "cleansed_document": [
-            "Image copyright getty images image caption there is a tense relationship between brazilians and the security forces brazilian police have put together a pamphlet of top tips for staying safe during the world cup next month, with suggestions such as making sure not to scream if someone tries to rob you, it is reported. \" do not react, scream or argue, \" says the brochure, which will be handed out by brazilian embassies and consulates, estadao de sao paulo newspaper reports. Sao paulo police, who reportedly put together the document, are aiming their security tips at football fans planning to attend the world cup tournament that kicks off in june. The idea is apparently to warn visitors not to provoke robbers into further violence, and avoid the increasingly common crime of \" latrocinios \" - or robbery that ends in murder. \" tourists come mainly from europe and the united states, where they do not see this crime very often, \" says mario leite, who is in charge of world cup security in sao paulo. Tourists are also advised not to flaunt valuable objects that might attract robbers, to be careful at night, make sure they are with other people and to check nobody is following them. The guidelines might sound extreme, but police officer mario leite says they are there to deal with realities on the ground.",
-            "Police keep watch as tourists carry their luggage to a tour bus near the pacified pavao-pavaozinho community, just blocks from copacabana beach in rio de janeiro on april 23, 2014. ( mario tama/getty images ) last month on a traffic-clogged road in rio de janeiro, a tv camera flickered to life. In its frame was a squat brazilian woman wearing a necklace and a flower-pattern blouse. She and the interviewer discussed the increasing numbers of robberies, deteriorating security and inadequate police protection. Then, in the middle of the interview, a slight man materialized in the frame, ripped off her necklace and bolted into traffic as the woman wailed. Her interviewer chased the robber, yelling at him to come back. According to brazil's police, which are trying to prepare for next month's world cup amid a soaring crime rate, the broadcaster did the wrong thing. He shouldn't have chased the thief. Not in a country like brazil. Not in a city like rio. Rather than ignore the many problems plaguing the country's preparations for its games — drought, murder, striking police, ballooning costs, mismanagement and dengue fever — police are inching toward resignation. They know rio de janeiro state, which saw more than 4,000 murders in 2012, is pretty dangerous. And the 600,000 tourists who"
+            "Image copyright getty images image caption there is a tense relationship between brazilians and the security forces brazilian police have put together a pamphlet of top tips for staying safe during the world cup next month, with suggestions such as making sure not to scream if someone tries to rob you, it is reported. \" do not react, scream or argue, \" says the brochure, which will be handed out by brazilian embassies and consulates, estadao de sao paulo newspaper reports. Sao paulo police, who reportedly put together the document, are aiming their security tips at football fans planning to attend the world cup tournament that kicks off in june. The idea is apparently to warn visitors not to provoke robbers into further violence, and avoid the increasingly common crime of \" latrocinios \" - or robbery that ends in murder. \" tourists come mainly from europe and the united states, where they do not see this crime very often, \" says mario leite, who is in charge of world cup security in sao paulo. Tourists are also advised not to flaunt valuable objects that might attract robbers, to be careful at night, make sure they are with other people and to check nobody is following them. The guidelines might sound extreme, but police officer mario leite says they are there to deal with realities on the ground."
         ],
         "raw_document": [
             "Image copyright getty images image caption there is a tense relationship between brazilians and the security forces brazilian police have put together a pamphlet of top tips for staying safe during the world cup next month, with suggestions such as making sure not to scream if someone tries to rob you, it is reported. \" do not react, scream or argue, \" says the brochure, which will be handed out by brazilian embassies and consulates, estadao de sao paulo newspaper reports. Sao paulo police, who reportedly put together the document, are aiming their security tips at football fans planning to attend the world cup tournament that kicks off in june. The idea is apparently to warn visitors not to provoke robbers into further violence, and avoid the increasingly common crime of \" latrocinios \" - or robbery that ends in murder. \" tourists come mainly from europe and the united states, where they do not see this crime very often, \" says mario leite, who is in charge of world cup security in sao paulo. Tourists are also advised not to flaunt valuable objects that might attract robbers, to be careful at night, make sure they are with other people and to check nobody is following them. The guidelines might sound extreme, but police officer mario leite says they are there to deal with realities on the ground.",
@@ -391,7 +388,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -472,7 +469,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -502,12 +499,11 @@
     },
     {
         "idx": 11718,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The suicide of the man who set himself ablaze on the national mall last week was the result of mental illness, not his political beliefs, his family says. John constantino \" was a loving father and husband, \" and his death \" was not a political act or statement, \" the 64-year-old's family said in a statement, the ap reports. The family would like to acknowledge \" the heroism of the paramedics and bystanders who attempted to save his life, \" the statement says. The family's lawyer says he is \" not aware of any anti-government statements made by him or any ill will he may have had against the government. \" his neighbors say they are baffled by the death of the man they describe as friendly and happy. He had complained about the government to neighbors — though only in terms that many ordinary americans would agree with. \" he said they were a waste of time, effort, and money, \" one neighbor tells the new york daily news. \" he said to me,'they're no good. They don't look out for us and they don't care about anything but their own pockets. ' \"",
         "split": "train",
         "cleansed_document": [
-            "File - in this oct. 4, 2013 file photo provided by katy scheflen, people run to a man who set himself on fire on the national mall in washington. Police on monday, oct. 7, 2013 identified the man, who... ( associated press ) file - in this oct. 4, 2013 file photo provided by katy scheflen, people run to a man who set himself on fire on the national mall in washington. Police on monday, oct. 7, 2013 identified the man, who... ( associated press ) the death of a new jersey man who set himself on fire on the national mall was the result of his long fight with mental illness, not a political statement, his family said. John constantino, 64, of mount laurel, n.j., poured the contents of a canister of gasoline on himself in the center portion of the mall friday afternoon, police said. He then set himself ablaze, with passing joggers taking off their shirts to help put out the flames. Police had said constantino was conscious and breathing at the scene, but he died later that night at a washington hospital. \" john constantino was a loving father and husband. His death was not a political act or statement, but the result of his long battle with mental illness, \" his family said in a",
-            "The new jersey man who died after setting himself ablaze on the national mall in washington had railed against the government and told a neighbor \"america is falling apart. \" john constantino \"didn't like the government for some reason, \" neighbor joe horner told the daily news. \"he said they were a waste of time, effort and money, \" horner, 56, said. \"he said to me, 'they're no good. They don't look out for us and they don't care about anything but their own pockets. ' \" horner spoke out after constantino's family lawyer issued a statement saying his dramatic death friday \"was not a political act or statement, but the result of his long battle with mental illness. \" horner said he saw his 64-year-old friend on thursday and he showed no signs of being insane. \"he was his happy self, \" said horner, who lives on a few doors down from modest, two-story, book-filled townhouse in mt. Laurel, n.j., that constantino shared with his wife. Exclusive photo: constantino's act came as the government shutdown continues to hover of the city and shortly after a connecticut woman was killed after a police chase near the white house. ( terry hayes ) \"there was no evidence, no sign of anything that would make you think he"
+            "File - in this oct. 4, 2013 file photo provided by katy scheflen, people run to a man who set himself on fire on the national mall in washington. Police on monday, oct. 7, 2013 identified the man, who... ( associated press ) file - in this oct. 4, 2013 file photo provided by katy scheflen, people run to a man who set himself on fire on the national mall in washington. Police on monday, oct. 7, 2013 identified the man, who... ( associated press ) the death of a new jersey man who set himself on fire on the national mall was the result of his long fight with mental illness, not a political statement, his family said. John constantino, 64, of mount laurel, n.j., poured the contents of a canister of gasoline on himself in the center portion of the mall friday afternoon, police said. He then set himself ablaze, with passing joggers taking off their shirts to help put out the flames. Police had said constantino was conscious and breathing at the scene, but he died later that night at a washington hospital. \" john constantino was a loving father and husband. His death was not a political act or statement, but the result of his long battle with mental illness, \" his family said in a"
         ],
         "raw_document": [
             "File - in this oct. 4, 2013 file photo provided by katy scheflen, people run to a man who set himself on fire on the national mall in washington. Police on monday, oct. 7, 2013 identified the man, who... ( associated press ) file - in this oct. 4, 2013 file photo provided by katy scheflen, people run to a man who set himself on fire on the national mall in washington. Police on monday, oct. 7, 2013 identified the man, who... ( associated press ) the death of a new jersey man who set himself on fire on the national mall was the result of his long fight with mental illness, not a political statement, his family said. John constantino, 64, of mount laurel, n.j., poured the contents of a canister of gasoline on himself in the center portion of the mall friday afternoon, police said. He then set himself ablaze, with passing joggers taking off their shirts to help put out the flames. Police had said constantino was conscious and breathing at the scene, but he died later that night at a washington hospital. \" john constantino was a loving father and husband. His death was not a political act or statement, but the result of his long battle with mental illness, \" his family said in a",
@@ -522,7 +518,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -552,12 +548,11 @@
     },
     {
         "idx": 11720,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Playstation users, rejoice: you may soon be watching mtv and the daily show via a new internet stream. That's because sony cut a surprise deal with viacom to stream its cable channels over internet-based pay tv by the end of the year, the wall street journal reports — and those channels include mtv, comedy central, and nickelodeon. The stream will probably run on playstation consoles at first, and appear later on other sony devices like smartphones and tablets. Big companies like google and intel also want in on the streaming game. But sony has talked to other major programmers as well, including cbs, time warner, and walt disney. No word on those, possibly because big entertainment companies either can't or won't undercut deals they've made with pay-tv operators. The big question, per the new york times: will deals like sony-viacom undercut cable companies, sell lots of new online cable packages, or have no effect at all?",
         "split": "train",
         "cleansed_document": [
-            "Photo in a deal that may signal the start of a new era of competition for entrenched cable and satellite providers, viacom has tentatively agreed to let its popular cable channels — like nickelodeon and mtv — be carried by an internet tv service that sony is creating. The agreement is believed to be the first of its kind between a major programmer and any of the technology giants that are trying to disrupt traditional modes of tv delivery. If other programmers follow suit, sony's as-yet-unnamed service would let paying subscribers receive live cable channels the same way they use on-demand libraries like netflix or hulu. Intel and google are working on similar services, but try to make it more user-friendly, perhaps the way netflix does with personalization features and a fancy interface. Most households today have only a few choices for television service: whatever cable company serves their local area, be it comcast, time warner cable or others, and two satellite providers, directv and dish network. In some parts of the country, television through verizon or at&t is also available. Analysts say cable delivered through the internet could give households many more choices — if the new services give customers more for their money and if cable incumbents don't smother the services. To even have a chance, companies like sony and intel need the permission of programmers, and that's why the viacom deal is considered a breakthrough. Although viacom and sony declined to comment on thursday, a person directly involved in the negotiations confirmed a wall street journal report about the agreement. The person insisted on anonymity because the companies were not prepared to comment on the record. Having the news spread was advantageous for sony, though, because having viacom on board — even just on a preliminary basis — will most likely help the company complete other carriage deals. The company has also contacted other top programmers, like the walt disney company and time warner. Advertisement continue reading the main story that viacom — which has more than 20 channels, including big ones like comedy central and small ones like centric — was the first to agree to support sony's fledgling service is not necessarily surprising, since the company has a reputation for contentious relationships with cable and satellite companies. Last year, viacom channels were blacked out in directv households for nine days. Sumner redstone controls both viacom and the cbs corporation, which is blacked out in three million time warner cable households",
-            "Dow jones reprints: this copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers, use the order reprints tool at the bottom of any article or visit www.djreprints.com"
+            "Photo in a deal that may signal the start of a new era of competition for entrenched cable and satellite providers, viacom has tentatively agreed to let its popular cable channels — like nickelodeon and mtv — be carried by an internet tv service that sony is creating. The agreement is believed to be the first of its kind between a major programmer and any of the technology giants that are trying to disrupt traditional modes of tv delivery. If other programmers follow suit, sony's as-yet-unnamed service would let paying subscribers receive live cable channels the same way they use on-demand libraries like netflix or hulu. Intel and google are working on similar services, but try to make it more user-friendly, perhaps the way netflix does with personalization features and a fancy interface. Most households today have only a few choices for television service: whatever cable company serves their local area, be it comcast, time warner cable or others, and two satellite providers, directv and dish network. In some parts of the country, television through verizon or at&t is also available. Analysts say cable delivered through the internet could give households many more choices — if the new services give customers more for their money and if cable incumbents don't smother the services. To even have a chance, companies like sony and intel need the permission of programmers, and that's why the viacom deal is considered a breakthrough. Although viacom and sony declined to comment on thursday, a person directly involved in the negotiations confirmed a wall street journal report about the agreement. The person insisted on anonymity because the companies were not prepared to comment on the record. Having the news spread was advantageous for sony, though, because having viacom on board — even just on a preliminary basis — will most likely help the company complete other carriage deals. The company has also contacted other top programmers, like the walt disney company and time warner. Advertisement continue reading the main story that viacom — which has more than 20 channels, including big ones like comedy central and small ones like centric — was the first to agree to support sony's fledgling service is not necessarily surprising, since the company has a reputation for contentious relationships with cable and satellite companies. Last year, viacom channels were blacked out in directv households for nine days. Sumner redstone controls both viacom and the cbs corporation, which is blacked out in three million time warner cable households"
         ],
         "raw_document": [
             "Photo in a deal that may signal the start of a new era of competition for entrenched cable and satellite providers, viacom has tentatively agreed to let its popular cable channels — like nickelodeon and mtv — be carried by an internet tv service that sony is creating. The agreement is believed to be the first of its kind between a major programmer and any of the technology giants that are trying to disrupt traditional modes of tv delivery. If other programmers follow suit, sony's as-yet-unnamed service would let paying subscribers receive live cable channels the same way they use on-demand libraries like netflix or hulu. Intel and google are working on similar services, but try to make it more user-friendly, perhaps the way netflix does with personalization features and a fancy interface. Most households today have only a few choices for television service: whatever cable company serves their local area, be it comcast, time warner cable or others, and two satellite providers, directv and dish network. In some parts of the country, television through verizon or at&t is also available. Analysts say cable delivered through the internet could give households many more choices — if the new services give customers more for their money and if cable incumbents don't smother the services. To even have a chance, companies like sony and intel need the permission of programmers, and that's why the viacom deal is considered a breakthrough. Although viacom and sony declined to comment on thursday, a person directly involved in the negotiations confirmed a wall street journal report about the agreement. The person insisted on anonymity because the companies were not prepared to comment on the record. Having the news spread was advantageous for sony, though, because having viacom on board — even just on a preliminary basis — will most likely help the company complete other carriage deals. The company has also contacted other top programmers, like the walt disney company and time warner. Advertisement continue reading the main story that viacom — which has more than 20 channels, including big ones like comedy central and small ones like centric — was the first to agree to support sony's fledgling service is not necessarily surprising, since the company has a reputation for contentious relationships with cable and satellite companies. Last year, viacom channels were blacked out in directv households for nine days. Sumner redstone controls both viacom and the cbs corporation, which is blacked out in three million time warner cable households",
@@ -572,7 +567,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -597,7 +592,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -686,7 +681,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -739,7 +734,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -820,7 +815,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1059,13 +1054,12 @@
     },
     {
         "idx": 11738,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "\" i remember being humiliated, disgusted, \" janice dickinson tells fredricka whitfield in a cnn interview last night, describing how bill cosby allegedly raped her. The model, who claims the sexual assault took place after a 1982 dinner in lake tahoe, went into graphic detail during the interview, saying that the last thing she remembers before blacking out is \" cosby mounting me, like the monster that he was. \" she says when she woke up the next morning, \" there was a lot of pain downstairs \" and that she was covered in semen, her pj bottoms were off, and her top was open. \" i packed up and got the hell out of there, \" she says. Whitfield asked dickinson why, when cosby offered her a pill for menstrual cramps, she trusted him, given that he had reportedly offered her red wine knowing she had recently finished a stint in rehab. \" i trusted bill cosby, \" dickinson said. \" because of his demeanor and the promise of a career … i wanted a television career. \" when asked what she wants cosby to do next, dickinson angrily replied, \" i would like cosby to come out and at least acknowledge that he is a pig, that he is a monster and he has raped me \" before breaking down on camera and admitting she doesn't \" know how to process these emotions. \" meanwhile, vibe notes that singer/actress jill scott rallied for cosby on twitter on sunday, defending him against those \" attempting to destroy a magnificent legacy \" and that \" i've learned not to believe too much without proof. Especially about someone whose ( sic ) done so much for our greater good. \" ( cosby quit his alma mater's board of trustees yesterday. )",
         "split": "train",
         "cleansed_document": [
             "Janice dickinson: i trusted cosby janice dickinson, a former supermodel, says bill cosby assaulted her in 1982 after the two had dinner in lake tahoe. If your browser has adobe flash player installed, click above to play. Otherwise, click below.",
-            "As bill cosby critics like donald trump continue to offer their thoughts on the comedian's wave of rape allegations, it seems cosby has supporters as well. Jill scott – who was presented with her honorary doctorate degree from temple university by cosby earlier this year – took to twitter in his defense today. After garnering some commentary from her followers, scott noted the lack of proof in the claims made against cosby, as well as praised his legacy: @simplyberry u know bill cosby? i do child and this is insane. Proof. Period. — ⭐jill scott⭐ ( @missjillscott ) november 30, 2014 @simplyberry darling i've learned not to believe too much without proof. Especially about someone whose done so much for our greater good. — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 @jasbaileytweets sides with mr. Cosby? no. I side with substantiated proof when media/society is attempting to destroy a magnificent legacy — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 see also: bill cosby gets standing ovation in florida amidst rape allegations @curlyheadred shame? mr. Cosby's allegation are on two major mags if not more but he's not charged and there's no proof. — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 @kristensway i ' m respecting a man who has done more for the image of brown people that almost anyone ever. From fat albert to the huxtables — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 @kristensway @candycornball it's hearsay in a court of law. Tis all. Trust. If this is true, he ' ll face his due just like everyone. — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 scott now joins a list of other celebrities who have publicly spoken up for cosby, including stacey dash and raven-symone. Thankfully, the singer did not take the offensive routes faizon love and j.u.s.t.i.c.e. League did last month in their tweets in support of the comedian. Cosby remains reticent on the matter.",
-            "Once upon a time, there wza dream who loved jah so much, she had 2 sing about the life &amp; times we mortals fare like a mozaic of existance that we all can hear where all the colors are"
+            "As bill cosby critics like donald trump continue to offer their thoughts on the comedian's wave of rape allegations, it seems cosby has supporters as well. Jill scott – who was presented with her honorary doctorate degree from temple university by cosby earlier this year – took to twitter in his defense today. After garnering some commentary from her followers, scott noted the lack of proof in the claims made against cosby, as well as praised his legacy: @simplyberry u know bill cosby? i do child and this is insane. Proof. Period. — ⭐jill scott⭐ ( @missjillscott ) november 30, 2014 @simplyberry darling i've learned not to believe too much without proof. Especially about someone whose done so much for our greater good. — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 @jasbaileytweets sides with mr. Cosby? no. I side with substantiated proof when media/society is attempting to destroy a magnificent legacy — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 see also: bill cosby gets standing ovation in florida amidst rape allegations @curlyheadred shame? mr. Cosby's allegation are on two major mags if not more but he's not charged and there's no proof. — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 @kristensway i ' m respecting a man who has done more for the image of brown people that almost anyone ever. From fat albert to the huxtables — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 @kristensway @candycornball it's hearsay in a court of law. Tis all. Trust. If this is true, he ' ll face his due just like everyone. — ⭐jill scott⭐ ( @missjillscott ) december 1, 2014 scott now joins a list of other celebrities who have publicly spoken up for cosby, including stacey dash and raven-symone. Thankfully, the singer did not take the offensive routes faizon love and j.u.s.t.i.c.e. League did last month in their tweets in support of the comedian. Cosby remains reticent on the matter."
         ],
         "raw_document": [
             "Janice dickinson: i trusted cosby janice dickinson, a former supermodel, says bill cosby assaulted her in 1982 after the two had dinner in lake tahoe. If your browser has adobe flash player installed, click above to play. Otherwise, click below.",
@@ -1082,17 +1076,16 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 11739,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Lindsay lohan struck a plea deal in her lying-to-police case today, and was sentenced to two years ' probation, including 90 days in a locked rehab facility, 30 days of community labor, and 18 months of psychological counseling, tmz reports. The sentence also includes a mandatory five days in jail, but it will be folded into the rehab time, so she managed to avoid getting put behind bars again. The judge asked her to take the terms of her probation seriously, and offered her some advice. \" a suggestion: don't drive, \" he said. \" you're in new york, you don't need to drive. \" lohan arrived to court 48 minutes late... And was glitterbombed on her way in. She boarded and then ran off of her original flight last night because she thought it wasn't safe, and decided to take a private jet this morning instead; that plane was then delayed. Another amusing tidbit: six sheriff's deputies escorted her to the bathroom about a half-hour after she arrived at court. Lohan could still end up in jail: she admitted to violating her previous probation and was sentenced to 180 days, but that sentence was stayed and she won't have to serve it as long as she obeys all laws.",
         "split": "train",
         "cleansed_document": [
-            "Lindsay lohan cops plea deal avoids jail breaking news just copped an 11th hour plea deal and will spend 90 days in lockdown rehab... The good news for her... She's dodged the jail bullet.after a lot of haggling in chambers with offers and counteroffers, lindsay pled no contest to the crimes of reckless driving and lying to cops. In addition to rehab, lindsay will perform 30 days of community labor and undergo psychotherapy for 18 months -- she ' ll get credit for shrink time already completed.fyi -- there's a mandatory 5 days in jail for reckless driving, but it's going to be folded into the lockdown rehab so she won't",
-            "Lindsay lohan gets off airplane right before takeoff!!! exclusive is now in serious jeopardy of missing her court date tomorrow -- tmz has learned she got off her flight to los angeles at the last minute and is now scrambling to find another way to the west coast.lindsay arrived at jfk a few hours ago after deciding not to fly back on saturday as previously planned.we're told lindsay was on board the plane when for some reason... She decided to get off. According to our sources, lindsay was in such a hurry to get off the plane, she left her bags behind.sources close to lindsay tell tmz she believed there was a problem with the plane"
+            "Lindsay lohan cops plea deal avoids jail breaking news just copped an 11th hour plea deal and will spend 90 days in lockdown rehab... The good news for her... She's dodged the jail bullet.after a lot of haggling in chambers with offers and counteroffers, lindsay pled no contest to the crimes of reckless driving and lying to cops. In addition to rehab, lindsay will perform 30 days of community labor and undergo psychotherapy for 18 months -- she ' ll get credit for shrink time already completed.fyi -- there's a mandatory 5 days in jail for reckless driving, but it's going to be folded into the lockdown rehab so she won't"
         ],
         "raw_document": [
             "Lindsay lohan cops plea deal avoids jail breaking news just copped an 11th hour plea deal and will spend 90 days in lockdown rehab... The good news for her... She's dodged the jail bullet.after a lot of haggling in chambers with offers and counteroffers, lindsay pled no contest to the crimes of reckless driving and lying to cops. In addition to rehab, lindsay will perform 30 days of community labor and undergo psychotherapy for 18 months -- she ' ll get credit for shrink time already completed.fyi -- there's a mandatory 5 days in jail for reckless driving, but it's going to be folded into the lockdown rehab so she won't",
@@ -1111,19 +1104,18 @@
             "0": 0,
             "1": 4,
             "2": 4,
-            "3": 0
+            "3": 3
         }
     },
     {
         "idx": 11740,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The national guard is being called in to help escort school buses as they evacuate the 2,400 students who have been trapped in atlanta-area schools and buses since yesterday's three inches of snow, georgia gov. Nathan deal announced today. State police will also be involved. Deal said the state government would remain closed tomorrow, and urged people to stay off the roads, cnn reports. Many commuters are still stranded in cars on the highway, and atlanta mayor kasim reed said the city's top priority was to get food, water, and gasoline to them, according to usa today. Both reed and deal defended their storm response, with reed saying he was \" not going to get into the blame game, \" according to the atlanta journal constitution. Reed reveals that there have been more than 791 accidents since last night. Towing companies were peppered with calls, but many couldn't help because their trucks couldn't get through the gridlock either. Tractor trailers have been especially difficult to haul off the roads. \" what's in common in every single accident we have today? tractor trailers, \" complained the state's deputy transportation commissioner. The death toll in atlanta has been low, however, with one teen dying yesterday afternoon on an icy road crash. In alabama, by contrast, five people have died and 23 been injured due to the storm.",
         "split": "train",
         "cleansed_document": [
             "Close atlanta hasn't even thawed out yet but the blame game has already started. Even al roker is chiming in on the mess, heavily criticizing atlanta's mayor and georgia's governor for the second winter storm to cripple the city in just 3 years. Vpc thousands of students were stranded at schools in the atlanta area. Matthew miller walks along the southbound connector offering peanut butter and jelly sandwiches and hot drinks to motorists stuck in traffic in atlanta. Miller, who lives in grant park, heard about the stranded motorists and decided to help. ( photo: ben gray, atlanta journal-constitution, via ap ) story highlights arctic blast has left much of atlanta paralyzed national weather service criticized for its forecast atlanta — the arctic blast crippling much of the deep south has caused",
             "Story highlights people who left cars on atlanta interstates are being told to go to staging areas thursday fuel and the capability to jump dead batteries will be made available, officials say about 200 children remain trapped at schools in alabama, the governor says at least 10 people have been killed in weather-related incidents across the southeast empty streets, shuttered storefronts and abandoned vehicles littering the side of the road. That was the scene across much of metropolitan atlanta on wednesday as people hunkered down to wait out the aftermath of a snow and ice storm that brought the nation's ninth-largest metropolitan area to a screeching halt. A day after up to 3 inches of snow in parts of georgia caused horrific gridlock on ice-covered streets -- particularly in metropolitan atlanta where thousands were trapped on the roads overnight -- several major",
-            "By christopher seward the atlanta journal-constitution hundreds of motorists remained frustrated wednesday that they could not get through to wrecker services, but the services were also frustrated, hampered by the same gridlock that has stranded thousands of drivers. Debbie mau, operations manager at northside towing, said towing companies were being bombarded with calls, but many tow trucks have not been able get to them either because of gridlock on interstates and side streets, icy conditions and, in some cases, lack of access to diesel fuel. Mau said four other \"mom-and-pop \" companies she talked with were having the same problems northside was having. The company doesn't have expensive tire chains for trucks, and larger flatbeds don't have the weight that creates the traction to reach motorists. \"this happens once in a blue",
-            "Just one more thing... We have sent you a verification email. Please check your email and click on the link to activate your profile. If you do not receive the verification message within a few minutes of signing up, please check your spam or junk folder. Close"
+            "By christopher seward the atlanta journal-constitution hundreds of motorists remained frustrated wednesday that they could not get through to wrecker services, but the services were also frustrated, hampered by the same gridlock that has stranded thousands of drivers. Debbie mau, operations manager at northside towing, said towing companies were being bombarded with calls, but many tow trucks have not been able get to them either because of gridlock on interstates and side streets, icy conditions and, in some cases, lack of access to diesel fuel. Mau said four other \"mom-and-pop \" companies she talked with were having the same problems northside was having. The company doesn't have expensive tire chains for trucks, and larger flatbeds don't have the weight that creates the traction to reach motorists. \"this happens once in a blue"
         ],
         "raw_document": [
             "Close atlanta hasn't even thawed out yet but the blame game has already started. Even al roker is chiming in on the mess, heavily criticizing atlanta's mayor and georgia's governor for the second winter storm to cripple the city in just 3 years. Vpc thousands of students were stranded at schools in the atlanta area. Matthew miller walks along the southbound connector offering peanut butter and jelly sandwiches and hot drinks to motorists stuck in traffic in atlanta. Miller, who lives in grant park, heard about the stranded motorists and decided to help. ( photo: ben gray, atlanta journal-constitution, via ap ) story highlights arctic blast has left much of atlanta paralyzed national weather service criticized for its forecast atlanta — the arctic blast crippling much of the deep south has caused",
@@ -1142,7 +1134,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1204,12 +1196,11 @@
     },
     {
         "idx": 11743,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "If users weren't already tearing their hair out over bending iphones, now the device will do it for them. Apparently some iphone 6 and 6 plus owners are frustrated by phones that are pulling out their hair, business insider reports. The issue seems to be the tiny space between aluminum and glass on the outside of the phone; that \" microscopic seam, \" as one twitter user put it, is catching and yanking people's hair — both from their scalps and their beards, says a 9to5mac.com community post. The problem may not be unique to apple, business insider notes; users of the samsung galaxy note 4 complained about a gap between that device's screen and case. Unsurprisingly, various hashtags, including #hairgate and #beardgate, have sprung up regarding the iphone issue — and they've led to some amusing shaving-related memes collected at buzzfeed.",
         "split": "train",
         "cleansed_document": [
-            "Uggboy and ugggirl / flickr, cc first, there was #bendgate. Reports flooded the media that claimed the iphone 6 plus was susceptible to bending when kept in your pocket. Now, there's #hairgate. A 9to5mac community post reveals that iphone 6 customers are complaining on social media that their new phones keep ripping out chunks of their hair when they hold the phone up to their ear to take a call. Twitter users say their hair is getting caught in the seam between the glass screen and aluminum back of the iphone 6. This news follows #gapgate, which focused on the samsung galaxy note 4. Customers complained to samsung that their new android phones had a gap between the screen and the case. It's unknown whether samsung customers are also experiencing hair loss when taking calls on their phones, as some iphone 6 users are now reporting.",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "Uggboy and ugggirl / flickr, cc first, there was #bendgate. Reports flooded the media that claimed the iphone 6 plus was susceptible to bending when kept in your pocket. Now, there's #hairgate. A 9to5mac community post reveals that iphone 6 customers are complaining on social media that their new phones keep ripping out chunks of their hair when they hold the phone up to their ear to take a call. Twitter users say their hair is getting caught in the seam between the glass screen and aluminum back of the iphone 6. This news follows #gapgate, which focused on the samsung galaxy note 4. Customers complained to samsung that their new android phones had a gap between the screen and the case. It's unknown whether samsung customers are also experiencing hair loss when taking calls on their phones, as some iphone 6 users are now reporting."
         ],
         "raw_document": [
             "Uggboy and ugggirl / flickr, cc first, there was #bendgate. Reports flooded the media that claimed the iphone 6 plus was susceptible to bending when kept in your pocket. Now, there's #hairgate. A 9to5mac community post reveals that iphone 6 customers are complaining on social media that their new phones keep ripping out chunks of their hair when they hold the phone up to their ear to take a call. Twitter users say their hair is getting caught in the seam between the glass screen and aluminum back of the iphone 6. This news follows #gapgate, which focused on the samsung galaxy note 4. Customers complained to samsung that their new android phones had a gap between the screen and the case. It's unknown whether samsung customers are also experiencing hair loss when taking calls on their phones, as some iphone 6 users are now reporting.",
@@ -1226,18 +1217,17 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 11744,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Early saturday evening, just weeks before her july 30 wedding, college counselor amanda strous was pulled from her fiery apartment in charlotte, nc. The fire, says strous'dad, was a cover-up to hide her murder. Police say that a man who lives in the same complex confessed to the killing the 27-year-old when they found him near las vegas two days later. Mathew thomas benner, 28, works for an air traffic control software company; his brother, christopher benner, who is an attorney in las vegas, is refusing to comment beyond telling the charlotte observer that he is \" addressing legal matters \" for his brother. Police have not yet announced a motive in the murder but say benner will be charged with murder and first-degree arson. Strous ' father tells people that benner lived above strous, who was home alone the night of the murder writing bridal shower thank-you cards. Her mother tells the observer, \" this was the only weekend that she was alone, \" as her roommate was attending an out-of-state wedding and her fiance, whom she met in college in 2008, was at a pre-wedding guys ' weekend in maryland. More than 300 people attended a candlelit vigil in her home town of york, pa., on tuesday, and a gofundme page had raised nearly $ 28,000 as of this writing to \" give amanda's family, fiance, and friends the tools/resources they need to begin overcoming this awfulness. \" \" my daughter was in love and [ as a dad ] that's great, \" her father says. \" she was full of life. \" authorities found benner via his cell phone's gps. He confessed, but no further details have been released. ( this groom was killed hours after his wedding. )",
         "split": "train",
         "cleansed_document": [
             "Slain bride-to-be whose alleged killer covered up crime by starting fire was writing thank you notes to friends for bridal shower, dad says courtesy of nye county sheriffs office writing thank you notes for bridal shower a 27-year-old north carolina college counselor who planned to marry her longtime boyfriend in july was allegedly murdered by a man who then set an apartment fire to cover the crime up, people confirms.according to a press release from the nye county sheriff's office, charlotte firefighters were called to the apartment of amanda strous on saturday morning. First responders took amanda to the hospital, where she was pronounced dead.two days later, investigators arrested mathew thomas benner, 28, for strous ' murder. According to the press release, benner was found sleeping in his truck at a best western hotel in nevada, and authorities tracked him down after using his cell phone's gps system.according to the release, benner confessed to strous ' murder while being questioned by investigators. He will be charged with murder and first-degree arson.amanda's father, eric, tells people amanda had begun working at central piedmont community college in charlotte six months ago as counselor to students and loved her job. \" [ amanda ] really wanted to make a difference in this world",
-            "My name is katelin pufnock, and i am one of hundreds of people who consider themselves lucky to have known and loved our dearest friend, amanda strous. In the early evening of saturday, june 18th, we lost an amazing young woman, brilliant mind, and loving soul. For reasons not to be disclosed publicly ( out of respect for the family, friends, and amanda's fiance ), this fund is being created in hopes to give amanda's family, fiance, and friends the tools/resources they need to begin overcoming this awefulness. Donations and proceeds can aid with the costs of anything from funeral arrangements to professional counseling for her loved ones. But most importantly, this fund is being created to honor amanda... Because truly, the honor was ours. The gifts you left this world with- whether from your time as a coach, player, classmate, or friend- we can only hope to return our thanks by way of giving to this fund. Thank you for your love, compassion, guidance, support, and friendship which knew no bounds. Fly high #22. ~xoxo share now to help this campaign share tweet 1.4k shares on facebook shares on facebook",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "My name is katelin pufnock, and i am one of hundreds of people who consider themselves lucky to have known and loved our dearest friend, amanda strous. In the early evening of saturday, june 18th, we lost an amazing young woman, brilliant mind, and loving soul. For reasons not to be disclosed publicly ( out of respect for the family, friends, and amanda's fiance ), this fund is being created in hopes to give amanda's family, fiance, and friends the tools/resources they need to begin overcoming this awefulness. Donations and proceeds can aid with the costs of anything from funeral arrangements to professional counseling for her loved ones. But most importantly, this fund is being created to honor amanda... Because truly, the honor was ours. The gifts you left this world with- whether from your time as a coach, player, classmate, or friend- we can only hope to return our thanks by way of giving to this fund. Thank you for your love, compassion, guidance, support, and friendship which knew no bounds. Fly high #22. ~xoxo share now to help this campaign share tweet 1.4k shares on facebook shares on facebook"
         ],
         "raw_document": [
             "Slain bride-to-be whose alleged killer covered up crime by starting fire was writing thank you notes to friends for bridal shower, dad says courtesy of nye county sheriffs office writing thank you notes for bridal shower a 27-year-old north carolina college counselor who planned to marry her longtime boyfriend in july was allegedly murdered by a man who then set an apartment fire to cover the crime up, people confirms.according to a press release from the nye county sheriff's office, charlotte firefighters were called to the apartment of amanda strous on saturday morning. First responders took amanda to the hospital, where she was pronounced dead.two days later, investigators arrested mathew thomas benner, 28, for strous ' murder. According to the press release, benner was found sleeping in his truck at a best western hotel in nevada, and authorities tracked him down after using his cell phone's gps system.according to the release, benner confessed to strous ' murder while being questioned by investigators. He will be charged with murder and first-degree arson.amanda's father, eric, tells people amanda had begun working at central piedmont community college in charlotte six months ago as counselor to students and loved her job. \" [ amanda ] really wanted to make a difference in this world",
@@ -1254,7 +1244,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1397,7 +1387,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1692,13 +1682,12 @@
     },
     {
         "idx": 11761,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A sweet bbc story in february documented the relationship between 8-year-old gabi mann of seattle and her close bond with the crows in her neighborhood: since 2013, she'd been feeding them daily, sometimes even offering them her own lunch, then collecting the \" gifts \" they'd bring back for her in return. But gabi's portage bay neighbors describe something else entirely: a house of horrors that attracts up to 100 cawing crows, seagulls, and pigeons at a time that scatter bird droppings, feathers, dirt, and peanut shells all over the neighborhood and attract rats, the seattle times reports. Now at least two neighbors have joined together in a $ 200,000 suit against gabi's parents, lisa and gary mann — and other neighbors are considering joining the suit, since they say they've tried talking to the manns to no avail. One of the neighbors ' major beefs: the manns are framing it as a little girl who's just feeding birds. Not so, the lawyer for the two suing homeowners tells kiro 7. \" the scope and scale of the feeding is not the work of a minor child, \" she says. \" the mother, lisa mann, is responsible for the vast majority of [ it ]. Gary and lisa mann have also constructed extraordinarily large feeding stations and hired employees to help carry out the feedings... And related activities, [ which ] have run nearly every day, year-round, from the morning hours to as late as midnight. \" the suit also notes the peanut shell problem — an issue for residents with severe allergies, the times notes. A trial date has been set, but it's not till aug. 6, 2016. \" my clients hope the feeding will stop before then, \" the lawyer tells the paper. ( there might be something to gabi's bond with the crows after all. )",
         "split": "train",
         "cleansed_document": [
             "The great crow battle of portage bay, which pits one family feeding birds against neighbors, has resulted in a $ 200,000 civil suit. The great neighborhood crow war at portage bay has not ended, and not surprisingly, it's lawsuit time. Say, $ 200,000? lisa and gary mann, and their young daughter, for a couple of years have been feeding the birds at their home in the 1000 block of east shelby street. Says the lawsuit, \"as many as six times per day defendants refilled and continue to refill the emptied troughs of food with peanuts and other bird foods for the seagulls, crows, and pigeons to feast upon. \"",
-            "By david ham and kiro 7 staff earlier this year a story about an 8-year-old seattle girl's relationship with crows went viral. Gabi mann started feeding crows daily two years ago and the birds would leave her trinkets. However, her portage bay neighbors said the murder of crows would caw and leave droppings throughout the neighborhood. \"the neighbors went to her and said please this is causing a problem, \" said neighbor janice palm. >> kiro 7 reported that the neighbors signed a petition to get gabi's family to stop feeding the crows. \"people are having rat problems in their houses with the waste from the crows and the peanut shells are all over",
-            "Published on feb 26, 2015 http://twitter.com/onlyfirstnews lots of people love the birds in their garden, but it's rare for that affection to be reciprocated. One young girl in seattle is luckier than most. She feeds the crows in her garden - and they bring her gifts in return. Eight-year-old gabi mann sets a bead storage container on the dining room table, and clicks the lid open. This is her most precious collection. \" you may take a few close looks, \" she says, \" but don't touch. \" it's a warning she's most likely practised on her younger brother. She laughs after saying it though"
+            "By david ham and kiro 7 staff earlier this year a story about an 8-year-old seattle girl's relationship with crows went viral. Gabi mann started feeding crows daily two years ago and the birds would leave her trinkets. However, her portage bay neighbors said the murder of crows would caw and leave droppings throughout the neighborhood. \"the neighbors went to her and said please this is causing a problem, \" said neighbor janice palm. >> kiro 7 reported that the neighbors signed a petition to get gabi's family to stop feeding the crows. \"people are having rat problems in their houses with the waste from the crows and the peanut shells are all over"
         ],
         "raw_document": [
             "The great crow battle of portage bay, which pits one family feeding birds against neighbors, has resulted in a $ 200,000 civil suit. The great neighborhood crow war at portage bay has not ended, and not surprisingly, it's lawsuit time. Say, $ 200,000? lisa and gary mann, and their young daughter, for a couple of years have been feeding the birds at their home in the 1000 block of east shelby street. Says the lawsuit, \"as many as six times per day defendants refilled and continue to refill the emptied troughs of food with peanuts and other bird foods for the seagulls, crows, and pigeons to feast upon. \"",
@@ -1717,7 +1706,7 @@
             "0": 1,
             "1": 1,
             "2": 3,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1766,7 +1755,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1796,17 +1785,16 @@
             "0": 4,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 11765,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's the end of an era: the last jobs report that falls fully under president obama's tenure was issued on friday, and he ' ll hand president-elect donald trump an economy that boasts a 4.7 % unemployment rate. That's a tick up from november's 4.6 %, and was expected by economists. The rate stood at 7.8 % at obama's inauguration, and peaked at 10 % under his watch. Fewer jobs were added than expected for the month, at 156,000 to the 183,000 the wall street journal had forecast. One rosy note: hourly pay jumped 2.9 % from a year earlier, the biggest increase in more than seven years. The ap sees that as a positive sign that the low unemployment rate is forcing businesses to offer higher wages to attract and keep workers. Sluggish growth in americans ' paychecks has been a longstanding weak spot in the seven-year recovery. For all of 2016, job growth averaged 180,000 a month, down from 229,000 in 2015, but enough to lower unemployment over time. The journal reports the labor force participation rate has barely budged in a year, with december's 62.7 % up only slightly from 62.4 % a year prior. That the rate — which indicates how many americans who can and want to work are working — \" remains well below its peaks during better economic times... [ is ] a sign that the economy doesn't have enough bodies working to produce strong economic growth, \" writes paul vigna.",
         "split": "train",
         "cleansed_document": [
-            "Washington ( ap ) — u.s. Employers added 156,000 jobs in december, capping a year of slower but solid hiring. The report is the last major snapshot of the economy that president-elect donald trump will inherit from president barack obama. The labor department says the unemployment rate ticked up to 4.7 percent from a nine-year low of 4.6 percent. Hourly pay jumped 2.9 percent from a year earlier, the biggest increase in more than seven years. That is a positive sign that the low unemployment rate is forcing businesses to offer higher wages to attract and keep workers. Sluggish growth in americans ' paychecks has been a longstanding weak spot in the seven-year recovery. For all of 2016, job growth averaged 180,000 a month, down from 229,000 in 2015, but enough to lower unemployment over time.",
-            "While we're all fixated on dow 20000 ( no, it's not there yet ), there are other things going on in the capital markets. First off, realize that no matter where the dow ends, and barring some wild selloff in the last half hour, all three major indexes are probably going to finish at record levels. The s&p 500 is up 9 at 2279, and the nasdaq composite is up 37 at 5525. Those two are safely in record territory. The dow is up 78 at 19978; its prior record close was 19971. On the s&p, every sector except for telecom is rising. Tech, consumer discretionary, and industrials are leading. Bonds sold off, beginning with the jobs report and basically continuing all day. The 10-year u.s. Treasury note yield finished at 2.42 %. It was at 2.35 % on thursday. Gold fell 0.8 %, and dropped 1.9 % on the week, at $ 1,172. Nymex crude rose 0.4 % today, and 0.5 % this week, closing at $ 53.99."
+            "Washington ( ap ) — u.s. Employers added 156,000 jobs in december, capping a year of slower but solid hiring. The report is the last major snapshot of the economy that president-elect donald trump will inherit from president barack obama. The labor department says the unemployment rate ticked up to 4.7 percent from a nine-year low of 4.6 percent. Hourly pay jumped 2.9 percent from a year earlier, the biggest increase in more than seven years. That is a positive sign that the low unemployment rate is forcing businesses to offer higher wages to attract and keep workers. Sluggish growth in americans ' paychecks has been a longstanding weak spot in the seven-year recovery. For all of 2016, job growth averaged 180,000 a month, down from 229,000 in 2015, but enough to lower unemployment over time."
         ],
         "raw_document": [
             "Washington ( ap ) — u.s. Employers added 156,000 jobs in december, capping a year of slower but solid hiring. The report is the last major snapshot of the economy that president-elect donald trump will inherit from president barack obama. The labor department says the unemployment rate ticked up to 4.7 percent from a nine-year low of 4.6 percent. Hourly pay jumped 2.9 percent from a year earlier, the biggest increase in more than seven years. That is a positive sign that the low unemployment rate is forcing businesses to offer higher wages to attract and keep workers. Sluggish growth in americans ' paychecks has been a longstanding weak spot in the seven-year recovery. For all of 2016, job growth averaged 180,000 a month, down from 229,000 in 2015, but enough to lower unemployment over time.",
@@ -1823,7 +1811,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1906,7 +1894,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1931,7 +1919,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1989,12 +1977,11 @@
     },
     {
         "idx": 11772,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A purported psychic who conned her victims out of $ 341,000 was sentenced friday to six years in prison. Gina marie marks, 45, operated \" readings by natalie \" out of a home in bethesda, md., but the $ 100 tarot card readings she offered were just the beginning, the washington post reports. From there, she convinced clients to withdraw large amounts of cash and hide it in pillowcases or under mattresses so energy from their bodies could travel to the bills; then the clients were to give marks the cash — the more they gave, the more committed they were to marks ' \" spirit guides \" — so she could put it on an altar at her church in order to break evil curses placed on the client or carry out spells for the client. If clients emptied their bank accounts, they were told to make pricey purchases like designer handbags, using a credit card, for the same ritual. Though clients were told the money and items would be returned, they never were. Marks was convicted of defrauding five clients for amounts ranging from $ 2,655 to $ 153,400 each; she had pleaded guilty to felony theft in february, nbc washington reports. Victims say if they balked at the amount of money they were told to hand over, marks would accuse them of not taking the work seriously or warn them that their doubts would anger the spirit guides. She convinced them of her authenticity by using phone spoofing — she would tell a client someone ( say, an ex over whom the client was heartbroken ) would call on a certain day and time, but warn the client not to answer; phone spoofing allowed marks to place the call from her own number, but make it appear as if it was coming from the ex's number. Marks, whose lawyer said she is prepared to pay almost $ 129,500 of the total amount due in restitution, insisted to the judge her work was legitimate and that she cared about her clients. To that, the judge said he felt he was being \" scammed. \"",
         "split": "train",
         "cleansed_document": [
-            "Gina marks, a self-proclaimed psychic, was sentenced to six years in prison for scamming clients out of $ 340,000. News4's shomari stone reports. ( published friday, sept. 21, 2018 ) a maryland woman who said she was a psychic and scammed customers out of $ 340,000 to cure them of \" curses \" has been sentenced to six years in prison. Gina marie marks, who identified herself as natalie miller in her meetings with clients, stole from five people who sought her help over the course of more than two years. Marks pleaded guilty to felony theft in february. \" i ' m not a monster. I ' m a good person, \" marks said in court friday. Maryland ' psychic ' pleads guilty to $ 340k scam news4's mark segraves has the story of a maryland woman who worked as a psychic and scammed clients ouf out thousands. ( published friday, feb. 9, 2018 ) the judge said her actions were premeditated and she preyed on vulnerable people. Marks was also ordered to pay restitution to the victims totaling about $ 300,000. \" this is really an important sentence that balances both restitution to the victims and protecting society, \" said ramon korionoff, spokesperson for the montgomery county state's attorney's office. In february, marks said her services are",
-            "Psychic adviser gina marks and the sign outside her home in bethesda, md. The photo has been altered to remove a phone number. ( montgomery county state's attorney's office ) after dating her for nine years, her boyfriend suddenly broke things off and moved on to someone else. The approaching holiday season only made her feel worse about the breakup. \"i felt very alone and very afraid, \" the 26-year-old would later tell police, explaining what drove her to try a psychic. \"i was desperately searching for answers. \" she went to \"readings by natalie, \" operating from a home in bethesda, md. \"i poured out my heart to her, \" the woman said. For $ 100, natalie performed a tarot card reading followed by a plan to bring the boyfriend back into her new client's life. \"i was on cloud nine, \" the client remembered. Delivering jolts of confidence, backed by what seemed to be a genuine concern for people going through heartache and stress, was the keystone of a $ 341,000 scam involving five victims in montgomery county. The purported psychic — real name, gina marie marks, 45, who has pleaded guilty to five theft schemes — had spoken to her victims about generational curses, black magic and love spells. She coaxed them into bizarre rituals"
+            "Gina marks, a self-proclaimed psychic, was sentenced to six years in prison for scamming clients out of $ 340,000. News4's shomari stone reports. ( published friday, sept. 21, 2018 ) a maryland woman who said she was a psychic and scammed customers out of $ 340,000 to cure them of \" curses \" has been sentenced to six years in prison. Gina marie marks, who identified herself as natalie miller in her meetings with clients, stole from five people who sought her help over the course of more than two years. Marks pleaded guilty to felony theft in february. \" i ' m not a monster. I ' m a good person, \" marks said in court friday. Maryland ' psychic ' pleads guilty to $ 340k scam news4's mark segraves has the story of a maryland woman who worked as a psychic and scammed clients ouf out thousands. ( published friday, feb. 9, 2018 ) the judge said her actions were premeditated and she preyed on vulnerable people. Marks was also ordered to pay restitution to the victims totaling about $ 300,000. \" this is really an important sentence that balances both restitution to the victims and protecting society, \" said ramon korionoff, spokesperson for the montgomery county state's attorney's office. In february, marks said her services are"
         ],
         "raw_document": [
             "Gina marks, a self-proclaimed psychic, was sentenced to six years in prison for scamming clients out of $ 340,000. News4's shomari stone reports. ( published friday, sept. 21, 2018 ) a maryland woman who said she was a psychic and scammed customers out of $ 340,000 to cure them of \" curses \" has been sentenced to six years in prison. Gina marie marks, who identified herself as natalie miller in her meetings with clients, stole from five people who sought her help over the course of more than two years. Marks pleaded guilty to felony theft in february. \" i ' m not a monster. I ' m a good person, \" marks said in court friday. Maryland ' psychic ' pleads guilty to $ 340k scam news4's mark segraves has the story of a maryland woman who worked as a psychic and scammed clients ouf out thousands. ( published friday, feb. 9, 2018 ) the judge said her actions were premeditated and she preyed on vulnerable people. Marks was also ordered to pay restitution to the victims totaling about $ 300,000. \" this is really an important sentence that balances both restitution to the victims and protecting society, \" said ramon korionoff, spokesperson for the montgomery county state's attorney's office. In february, marks said her services are",
@@ -2009,7 +1996,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2271,12 +2258,10 @@
     },
     {
         "idx": 11783,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "A new king swung to the top of the box office this weekend with kong: skull island dethroning hugh jackman's latest stand as wolverine in logan. Skull island took in $ 61 million in its debut, reports the los angeles times, though that falls well short of the reported $ 185 million it cost to make, not to mention the $ 93 million debut of godzilla three years ago. \" kong is king, \" crowed a rep for distributor warner bros. \" he just looks fantastic on screen. \" logan brought in $ 37.9 million in its second week, reports the ap. Rounding out the top five were get out with $ 21.1 million, the shack with $ 10.1 million, and the lego batman movie with $ 7.8 million. ( go behind the scenes on the very famous island where skull island filmed. )",
         "split": "train",
-        "cleansed_document": [
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "This will appear next to all of your comments this will not appear anywhere on newser",
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
@@ -2290,17 +2275,15 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 11784,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Wednesday's gop undercard debate may not have as many viewers as the main event, but lindsey graham brought his a material anyway, launching quips at china, bernie sanders, and even himself. Cnn reports some of his one-liners inspired only tepid laughter in the colorado audience. And maggie haberman at the new york times says graham's jokes are all pre-canned and won't help him with voters. Regardless — on a night he was facing the similarly low-polling rick santorum, george pataki, and bobby jindal — it was enough to get attention. Here are graham's five best lines of the night. On bernie sanders: \" the number two guy went to the soviet union on his honeymoon and i don't think he ever came back. \" on china: \" when it comes to dealing with me, you've got a clenched fist and an open hand. You pick... Make me commander in chief and this crap stops. \" on beer: \"if you're looking for good beer policy, i ' m your best bet. My dad owned a bar. \" on the university of colorado: \" looking at their academic standards, the only way i could have gotten into this university is to be invited to this debate tonight. \" on the democratic candidates: \" if we don't beat these people, who the hell are we going to beat? \"",
         "split": "train",
-        "cleansed_document": [
-            "Photo: jim wilson/the new york times; video: by cnbc carly fiorina got a big boost from an earlier debate, and then her campaign faded a bit. Her response this time: hit hard on the theme of the big and powerful versus the small and the powerless. It's a fascinating argument for a woman who once was squarely in the former category. She served as the chief executive of hewlett-packard, one of the nation's largest, richest companies. She and her company were definitely the big and powerful. But in the wake of mitt romney's struggles in the 2012 campaign, it's clear that being perceived that way won't work with voters. And worse, the country has shifted even more since then toward a populism that questions the benefits that go to the rich and powerful. Mrs. Fiorina clearly gets that. In her remarks during the debate, she repeatedly talked about what she called \"crony capitalism, \" which she defined as big, powerful companies partnering with a big, powerful government to get ahead at the expense of others. \"this is how socialism starts, \" she said. \"government causes a problem, and then government steps in to solve a problem. \" will it work? her republican colleagues have so far resisted attacking her c.e.o. Credentials. ( with the exception of donald j. Trump, who has in the past accused her of being a terrible leader of the company. ) but the democrats would not be so friendly if she were to get the nomination. President obama's aides seized on mr. Romney's business background and — with the help of a leaked audio recording of comments that mr. Romney made about the \"47 percent \" — helped turn that background into a political albatross. Mrs. Fiorina is hoping to avoid the same fate if she becomes the republican nominee."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "( cnn ) welcome to the cnn live blog, where we ' ll be bringing you all the best moments from the debate -- on the stage, on social media and behind the scenes. Your host for the evening is cnn political reporter tal kopan, who will also be bringing you insights from the whole cnn political team, both in boulder, colorado, and in washington, d.c.",
             "Photo: jim wilson/the new york times; video: by cnbc carly fiorina got a big boost from an earlier debate, and then her campaign faded a bit. Her response this time: hit hard on the theme of the big and powerful versus the small and the powerless. It's a fascinating argument for a woman who once was squarely in the former category. She served as the chief executive of hewlett-packard, one of the nation's largest, richest companies. She and her company were definitely the big and powerful. But in the wake of mitt romney's struggles in the 2012 campaign, it's clear that being perceived that way won't work with voters. And worse, the country has shifted even more since then toward a populism that questions the benefits that go to the rich and powerful. Mrs. Fiorina clearly gets that. In her remarks during the debate, she repeatedly talked about what she called \"crony capitalism, \" which she defined as big, powerful companies partnering with a big, powerful government to get ahead at the expense of others. \"this is how socialism starts, \" she said. \"government causes a problem, and then government steps in to solve a problem. \" will it work? her republican colleagues have so far resisted attacking her c.e.o. Credentials. ( with the exception of donald j. Trump, who has in the past accused her of being a terrible leader of the company. ) but the democrats would not be so friendly if she were to get the nomination. President obama's aides seized on mr. Romney's business background and — with the help of a leaked audio recording of comments that mr. Romney made about the \"47 percent \" — helped turn that background into a political albatross. Mrs. Fiorina is hoping to avoid the same fate if she becomes the republican nominee."
@@ -2314,7 +2297,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2430,7 +2413,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2538,13 +2521,12 @@
     },
     {
         "idx": 11793,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Penn state has at last found its replacement for joe paterno: new england patriots offensive coordinator bill o ' brien will take the job, sources tell chris mortensen of espn, with another league source saying o ' brien will finish out the playoffs with the pats before starting his new gig. Penn state coaches contacted by the ap, however, said they'd received no word yet that a hire had been made. O ' brien became the patriots offensive coordinator just this season, but has been with the patriots since 2007. He also has 12 years of college coaching experience, with stints at georgia tech and duke, according to usa today. If the report is accurate, it won't make everyone happy. Former penn state linebacker and lettermen's club member brandon short says that by tapping an external candidate \" what they have effectively done is turn their backs on 100 years of tradition. \"",
         "split": "train",
         "cleansed_document": [
             "New england patriots offensive coordinator bill o ' brien has agreed to become penn state's first new head football coach in nearly a half-century. The nittany lions plan to announce o ' brien's hiring saturday, sources told espn senior nfl analyst chris mortensen. Acting athletic director david joyner on friday did not say what the announcement would be about, when it would be made or how it would be communicated. Joyner met with the coaching staff on friday afternoon. According to a website that tracks flights, a plane registered to penn state returned from the boston area to state college on friday evening. O ' brien was seen on campus with his family later in the night, including a stop at the athletic department offices at the jordan center. Joyner declined comment on the reports about o ' brien when he arrived friday at the team's spacious, glass-enclosed headquarters",
-            "Penn state is poised to hire new england patriots offensive coordinator bill o ' brien to succeed legendary football coach joe paterno. Espn was first to report thursday night that an announcement would come saturday. O ' brien interviewed in state college on thursday. The nfl network reported that the interview went so well o ' brien was staying over friday. More: o ' brien hiring irks ex-players usa today was first to report that o ' brien would interview thursday. A person with knowledge of the search confirmed to usa today late thursday that o ' brien would be hired. The school has been without a permanent coach since paterno was fired nov. 9 in the aftermath of the child sex abuse scandal involving former assistant coach jerry sandusky. Tom bradley served as interim coach as the nittany lions dropped three of their final four games, including a 30-14 loss to houston in the ticketcity bowl",
-            "File - in this dec. 14, 2011, file photo, new england patriots offensive coordinator/quarterbacks coach bill o ' brien talks with quarterback tom brady ( 12 ) during nfl football practice in foxborough, mass.... ( associated press ) file - in this dec. 14, 2011, file photo, new england patriots offensive coordinator/quarterbacks coach bill o ' brien talks with quarterback tom brady ( 12 ) during nfl football practice in foxborough, mass.... ( associated press ) new england patriots offensive coordinator bill o ' brien will be penn state's first new head football coach in nearly a half-century, according to multiple reports. Espn, citing unnamed sources, first reported thursday night that an official announcement would be made saturday, and that o ' brien would continue as an assistant with the patriots the rest of the postseason. Penn state coaches contacted by the associated press said they had not"
+            "Penn state is poised to hire new england patriots offensive coordinator bill o ' brien to succeed legendary football coach joe paterno. Espn was first to report thursday night that an announcement would come saturday. O ' brien interviewed in state college on thursday. The nfl network reported that the interview went so well o ' brien was staying over friday. More: o ' brien hiring irks ex-players usa today was first to report that o ' brien would interview thursday. A person with knowledge of the search confirmed to usa today late thursday that o ' brien would be hired. The school has been without a permanent coach since paterno was fired nov. 9 in the aftermath of the child sex abuse scandal involving former assistant coach jerry sandusky. Tom bradley served as interim coach as the nittany lions dropped three of their final four games, including a 30-14 loss to houston in the ticketcity bowl"
         ],
         "raw_document": [
             "New england patriots offensive coordinator bill o ' brien has agreed to become penn state's first new head football coach in nearly a half-century. The nittany lions plan to announce o ' brien's hiring saturday, sources told espn senior nfl analyst chris mortensen. Acting athletic director david joyner on friday did not say what the announcement would be about, when it would be made or how it would be communicated. Joyner met with the coaching staff on friday afternoon. According to a website that tracks flights, a plane registered to penn state returned from the boston area to state college on friday evening. O ' brien was seen on campus with his family later in the night, including a stop at the athletic department offices at the jordan center. Joyner declined comment on the reports about o ' brien when he arrived friday at the team's spacious, glass-enclosed headquarters",
@@ -2561,7 +2543,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2620,7 +2602,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {

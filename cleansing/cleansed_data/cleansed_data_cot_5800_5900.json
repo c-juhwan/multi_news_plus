@@ -1,12 +1,11 @@
 [
     {
         "idx": 5800,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A tennessee man who finished three months of treatment following the amputation of his leg was arrested tuesday in connection with the june 28 event that cost him his limb. The kingsport times-news reports police arrived at a home in bristol three months ago and learned that douglas ferguson, 76, had allegedly tried to attack his son with a chainsaw as the man mowed the lawn — and the son used the machine to protect himself. Per the sullivan county sheriff's office, \" the son defended himself against the attack by running over the suspect with the lawn mower. \" the injuries ferguson suffered to his head and leg \" were as a result of the lawn mower striking and running over him, \" a news release continued, and ultimately led to the amputation. No motive was given for the attack, though police say the men were involved in a long-running feud. The herald courier reports the warrant for ferguson's arrest couldn't be served until tuesday because of how serious ferguson's injuries were. He remains jailed on a $ 25,000 bond. ( this lawn mower was put to a more positive use. )",
         "split": "train",
         "cleansed_document": [
-            "Blountville — a bristol man has been released from medical care after being run over by a lawn mower three months ago, forcing amputation of a leg. Now, he's behind bars for allegedly trying to attack the mower's rider — his son — with a chain saw, and forcing the son's grisly act of self-defense. According to a thursday night press release from the sullivan county sheriff's office, douglas ferguson, 76, is charged with attempted second-degree murder. The incident that led to both his charges and injuries occurred on june 28. Police report that when they were called to a home on highway 421 in bristol, tennessee, ferguson was found bleeding from his head and leg. Meanwhile, questioning of witnesses revealed that ferguson's son had been mowing on a zero-turn mower. For unspecified reasons, ferguson allegedly tried to attack his son with a running chain saw. Scso investigators report the two men had an ongoing feud with several previous run-ins. \"the son defended himself against the attack by running over the suspect with the lawn mower, \" states an scso press release. \"the injuries that the suspect ( ferguson ) sustained were as a result of the lawn mower striking and running over him. \" det. Matt harrison investigated the case and obtained a warrant for ferguson's arrest. Due to ferguson's injuries, hospitalization and rehabilitation, he could not be arrested until tuesday. A violation of probation warrant was also served on ferguson, with the probation related to a previous aggravated assault. The bond amount on the attempted second-degree murder charge is $ 25,000. There is no bond for the violation of probation.",
-            "Thank you for reading. Please purchase a subscription to continue reading. A subscription is required to continue reading. Thank you for reading 10 free articles on heraldcourier.com. You can come back at the end of your 30-day period for another 10 free articles, or you can purchase a subscription and continue to enjoy valuable local news and information. If you are a current 7-day or digital only subscriber you are granted an all-access pass to the website and digital newspaper replica. Please click sign up to subscribe, or login if you are already a member. Thank you for reading 10 free articles on heraldcourier.com. You can come back at the end of your 30-day period for another 10 free articles, or you can purchase a subscription and continue to enjoy valuable local news and information. If you are a current 7-day or digital only subscriber you are granted an all-access pass to the website and digital newspaper replica. Please click below to get started."
+            "Blountville — a bristol man has been released from medical care after being run over by a lawn mower three months ago, forcing amputation of a leg. Now, he's behind bars for allegedly trying to attack the mower's rider — his son — with a chain saw, and forcing the son's grisly act of self-defense. According to a thursday night press release from the sullivan county sheriff's office, douglas ferguson, 76, is charged with attempted second-degree murder. The incident that led to both his charges and injuries occurred on june 28. Police report that when they were called to a home on highway 421 in bristol, tennessee, ferguson was found bleeding from his head and leg. Meanwhile, questioning of witnesses revealed that ferguson's son had been mowing on a zero-turn mower. For unspecified reasons, ferguson allegedly tried to attack his son with a running chain saw. Scso investigators report the two men had an ongoing feud with several previous run-ins. \"the son defended himself against the attack by running over the suspect with the lawn mower, \" states an scso press release. \"the injuries that the suspect ( ferguson ) sustained were as a result of the lawn mower striking and running over him. \" det. Matt harrison investigated the case and obtained a warrant for ferguson's arrest. Due to ferguson's injuries, hospitalization and rehabilitation, he could not be arrested until tuesday. A violation of probation warrant was also served on ferguson, with the probation related to a previous aggravated assault. The bond amount on the attempted second-degree murder charge is $ 25,000. There is no bond for the violation of probation."
         ],
         "raw_document": [
             "Blountville — a bristol man has been released from medical care after being run over by a lawn mower three months ago, forcing amputation of a leg. Now, he's behind bars for allegedly trying to attack the mower's rider — his son — with a chain saw, and forcing the son's grisly act of self-defense. According to a thursday night press release from the sullivan county sheriff's office, douglas ferguson, 76, is charged with attempted second-degree murder. The incident that led to both his charges and injuries occurred on june 28. Police report that when they were called to a home on highway 421 in bristol, tennessee, ferguson was found bleeding from his head and leg. Meanwhile, questioning of witnesses revealed that ferguson's son had been mowing on a zero-turn mower. For unspecified reasons, ferguson allegedly tried to attack his son with a running chain saw. Scso investigators report the two men had an ongoing feud with several previous run-ins. \"the son defended himself against the attack by running over the suspect with the lawn mower, \" states an scso press release. \"the injuries that the suspect ( ferguson ) sustained were as a result of the lawn mower striking and running over him. \" det. Matt harrison investigated the case and obtained a warrant for ferguson's arrest. Due to ferguson's injuries, hospitalization and rehabilitation, he could not be arrested until tuesday. A violation of probation warrant was also served on ferguson, with the probation related to a previous aggravated assault. The bond amount on the attempted second-degree murder charge is $ 25,000. There is no bond for the violation of probation.",
@@ -21,7 +20,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -79,13 +78,12 @@
     },
     {
         "idx": 5803,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A 2-year-old boy is dead after climbing onto a kitchen counter, pulling a handgun from his mom's purse, and shooting himself while she \" had momentarily stepped away. \" police say they arrived at the indianapolis home around 9pm wednesday and found the boy with a single gunshot wound. The indianapolis star reports he was shot in the shoulder, while fox59 reports he was shot in the chest. Firefighters called to the scene worked to revive the unresponsive boy, but to no avail, per wish. He was later pronounced dead at a local hospital. \" the grieving mother is cooperating with detectives … and after detectives questioned her she was later released, \" the indianapolis metropolitan police department says, noting the woman had a gun permit for the.380 bersa semi-automatic pistol.",
         "split": "train",
         "cleansed_document": [
             "Indianapolis, ind. ( wish ) — a 2-year-old was fatally shot wednesday night on the northwest side of indianapolis, according to impd. Police were called to the 5200 block of alameda road around 9: 15 p.m. Firefighters on scene worked desperately to revive the young boy, but they were not successful. He was rushed to riley hospital for children at iu health in critical condition and later pronounced dead. Police said the young child grabbed the gun from his mother's purse off the kitchen counter after she momentarily stepped away, accidentally shooting himself. The mother is cooperating with police. She was initially questioned by detectives in the incident, but has since been released.",
-            "A 2-year-old child died from a self-inflicted gunshot wound on indianapolis ' northwest side wednesday night, police said. Michael anthony adams/indystar buy photo a detective stands in the garage connected to the home where a 2-year-old boy died from a self-inflicted gunshot wound on april 20, 2016. ( photo: michael anthony adams / indystar ) buy photo a 2-year-old child died from a self-inflicted gunshot wound on indianapolis ' northwest side wednesday night, police said. Indianapolis metropolitan police department officers were called to the 5200 block of alameda road, near 52nd street and west kessler boulevard, on a report of a person shot shortly after 9 p.m. When officers arrived, they found a 2-year-old child with a gunshot wound to the shoulder. The child was taken to riley hospital for children at iu health in critical condition, and he later died. Police confirmed that the gunshot wound was self-inflicted. This story is breaking and will be updated. Call indystar reporter michael anthony adams at ( 317 ) 444-6123. Follow him on",
-            "Please enable javascript to watch this video update ( may 11, 2016 ) -- the mother of the child, kanisha shelton, has been charged with neglect of a dependent resulting in death. Indianapolis, ind. ( april 20, 2016 ) – the indianapolis metropolitan police department is investigating after they say a 2-year-old child died wednesday night after being shot in the chest. Police were called to the 5200 block of alameda road on indy's northwest side just after 9 p.m. After receiving reports that a child had been shot. Police said the boy retrieved the gun from his mother's purse while she stepped away. The purse had been sitting on the kitchen counter. When officers arrived on scene, they say they found the unresponsive 2-year-old boy suffering from a single gunshot wound to the chest. Police say the child was rushed to riley hospital for children at iu health where he was later pronounced dead by medical staff. According to police, the child's mother was"
+            "A 2-year-old child died from a self-inflicted gunshot wound on indianapolis ' northwest side wednesday night, police said. Michael anthony adams/indystar buy photo a detective stands in the garage connected to the home where a 2-year-old boy died from a self-inflicted gunshot wound on april 20, 2016. ( photo: michael anthony adams / indystar ) buy photo a 2-year-old child died from a self-inflicted gunshot wound on indianapolis ' northwest side wednesday night, police said. Indianapolis metropolitan police department officers were called to the 5200 block of alameda road, near 52nd street and west kessler boulevard, on a report of a person shot shortly after 9 p.m. When officers arrived, they found a 2-year-old child with a gunshot wound to the shoulder. The child was taken to riley hospital for children at iu health in critical condition, and he later died. Police confirmed that the gunshot wound was self-inflicted. This story is breaking and will be updated. Call indystar reporter michael anthony adams at ( 317 ) 444-6123. Follow him on"
         ],
         "raw_document": [
             "Indianapolis, ind. ( wish ) — a 2-year-old was fatally shot wednesday night on the northwest side of indianapolis, according to impd. Police were called to the 5200 block of alameda road around 9: 15 p.m. Firefighters on scene worked desperately to revive the young boy, but they were not successful. He was rushed to riley hospital for children at iu health in critical condition and later pronounced dead. Police said the young child grabbed the gun from his mother's purse off the kitchen counter after she momentarily stepped away, accidentally shooting himself. The mother is cooperating with police. She was initially questioned by detectives in the incident, but has since been released.",
@@ -102,7 +100,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -127,17 +125,16 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 5805,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The white house has a new suggestion for attorney general jeff sessions: consider going after james comey. Press chief sarah huckabee sanders said the president doesn't have the authority to order such an investigation but strongly suggested it would be a good idea. \"i think if there's ever a moment where we feel someone's broken the law, particularly if they're the head of the fbi, i think that's something that certainly should be looked at, \" sanders said tuesday, per the washington post. But she added that it's \" not the president's role \" to recommend such an investigation. As for the laws comey is alleged to have broken, sanders said comey \" leaked privileged government information \" to the new york times, though the post notes the memo she's referring to wasn't classified. Sanders also pushed back against criticism of trump's firing of the fbi chief. \"the president is proud of the decision that he made, \" she said, adding that he did so knowing it would be poltically unpopular. \" the president was 100 % right in firing james comey. \" the comments come days after former white house adviser steve bannon told 60 minutes that the firing was the biggest mistake in \" modern political history, \" notes the new york times. Previously, comey told congress that trump asked him to drop an investigation into former national security adviser michael flynn, an accusation trump denies. ( flynn, meanwhile, is refusing to speak to the senate intelligence committee. )",
         "split": "train",
         "cleansed_document": [
-            "The justice department should consider prosecuting former fbi director james b. Comey for actions that \"were improper and likely could have been illegal, \" white house press secretary sarah huckabee sanders said tuesday. \"i think if there's ever a moment where we feel someone's broken the law, particularly if they're the head of the fbi, i think that's something that certainly should be looked at, \" sanders said. She said that recommending such a prosecution is \"not the president's role, \" and that the white house is not encouraging it. \"that's the job of the department of justice, and something they should certainly look at, \" sanders said. Asked to clarify, sanders said this: \"anybody that breaks the law, whatever that process is that needs to be followed, should certainly be looked at, \" sanders said. \"if they determine that that's the course of action to take, then they should certainly do that, but i ' m not here to ever direct doj in — in the actions that they should take. \" [ a guide to the past year in james comey news and scoops ] nonetheless, sanders ticked through a list of actions or alleged actions by comey that she said justified his firing by trump, in may, and some of which",
-            "Stephen k. Bannon at the white house in june. He left the white house on aug. 18 after a year first as president trump's campaign chief and then in the west wing. Washington — in his first extended interview since he left the white house last month, stephen k. Bannon was unsparing in his criticism: calling out top republicans, west wing staff, the \"pearl-clutching mainstream media, \" special counsel investigators and the roman catholic church. He even singled out president trump, labeling his firing of james b. Comey, the former f.b.i. Director, the biggest mistake in \"modern political history. \" pressed by the interviewer, charlie rose, mr. Bannon said that had mr. Comey not been fired, the justice department investigation into possible links between the trump campaign and russia's election interference would not have been handed over to the special counsel, robert s. Mueller iii. The run-up the podcast that makes sense of the most delirious stretch of the 2016 campaign. \"we would not have the mueller investigation and the breadth that clearly mr. Mueller is going for, \" mr. Bannon said. Mr. Mueller is said to be investigating whether mr. Trump obstructed justice in firing mr. Comey. The assertion, made in an online-only segment of a wide-ranging \"60 minutes \" interview that aired on sunday night, was perhaps the most extraordinary of"
+            "The justice department should consider prosecuting former fbi director james b. Comey for actions that \"were improper and likely could have been illegal, \" white house press secretary sarah huckabee sanders said tuesday. \"i think if there's ever a moment where we feel someone's broken the law, particularly if they're the head of the fbi, i think that's something that certainly should be looked at, \" sanders said. She said that recommending such a prosecution is \"not the president's role, \" and that the white house is not encouraging it. \"that's the job of the department of justice, and something they should certainly look at, \" sanders said. Asked to clarify, sanders said this: \"anybody that breaks the law, whatever that process is that needs to be followed, should certainly be looked at, \" sanders said. \"if they determine that that's the course of action to take, then they should certainly do that, but i ' m not here to ever direct doj in — in the actions that they should take. \" [ a guide to the past year in james comey news and scoops ] nonetheless, sanders ticked through a list of actions or alleged actions by comey that she said justified his firing by trump, in may, and some of which"
         ],
         "raw_document": [
             "The justice department should consider prosecuting former fbi director james b. Comey for actions that \"were improper and likely could have been illegal, \" white house press secretary sarah huckabee sanders said tuesday. \"i think if there's ever a moment where we feel someone's broken the law, particularly if they're the head of the fbi, i think that's something that certainly should be looked at, \" sanders said. She said that recommending such a prosecution is \"not the president's role, \" and that the white house is not encouraging it. \"that's the job of the department of justice, and something they should certainly look at, \" sanders said. Asked to clarify, sanders said this: \"anybody that breaks the law, whatever that process is that needs to be followed, should certainly be looked at, \" sanders said. \"if they determine that that's the course of action to take, then they should certainly do that, but i ' m not here to ever direct doj in — in the actions that they should take. \" [ a guide to the past year in james comey news and scoops ] nonetheless, sanders ticked through a list of actions or alleged actions by comey that she said justified his firing by trump, in may, and some of which",
@@ -152,7 +149,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -266,7 +263,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -298,12 +295,11 @@
     },
     {
         "idx": 5811,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "As hurricane michael pounded florida on wednesday, president trump took shelter at a campaign event in pennsylvania, where he sought to boost republicans before the midterms. Trump acknowledged the hurricane at the top of his rally in erie, offering his \" thoughts and prayers \" to those in the storm's path and promising to \" spare no effort \" in the response. He promised to travel to florida \" very shortly. \" he added: \" we will always pull through.... We will always be successful at what we do. \" then trump turned back to politics. With weeks to go before the critical november elections, trump and his fellow republicans are engaged in an all-out midterms blitz, seeking to unify the gop and stave off democratic energy at the polls, the ap reports. That trump kept his appointment in erie underscored the importance of this effort to republicans. Earlier in the day, trump received a hurricane briefing at the white house on the category 4 storm. He told reporters he faced a \" quagmire \" about whether to attend the pennsylvania rally because \" thousands of people \" were already lined up for the event. He ultimately decided to attend, a move he criticized president obama for six years ago after superstorm sandy hit the east coast. \" yesterday obama campaigned with jayz &amp; springsteen while hurricane sandy victims across ny &amp; nj are still decimated by sandy. Wrong! \" trump tweeted on nov. 6, 2012.",
         "split": "train",
         "cleansed_document": [
-            "Supporters of president donald trump cheer as he arrives to speak at a campaign rally at erie insurance arena, wednesday, oct. 10, 2018, in erie, pa. As hurricane michael pounded the southeast on wednesday,... ( associated press ) supporters of president donald trump cheer as he arrives to speak at a campaign rally at erie insurance arena, wednesday, oct. 10, 2018, in erie, pa. As hurricane michael pounded the southeast on wednesday, trump took shelter at the campaign rally in pennsylvania, where he sought to boost republicans... ( associated press ) erie, pa. ( ap ) — as hurricane michael pounded florida on wednesday, president donald trump took shelter at a campaign event in pennsylvania, where he sought to boost republicans before the midterms. Trump acknowledged the hurricane at the top of his rally in erie, offering his \" thoughts and prayers \" to those in the storm's path and promising to \" spare no effort \" in the response. He promised to travel to florida \" very shortly. \" he added: \" we will always pull through.... We will always be successful at what we do. \" then trump turned back to politics. With weeks to go before the critical november elections, trump and his fellow republicans are engaged in an all-out midterms blitz. They have been invigorated by the successful nomination of justice brett kavanaugh to the supreme court and are seeking to use the contentious moment to unify the gop and stave off democratic energy at the polls. That trump kept his appointment in erie underscored the importance of this effort to republicans. Earlier in the day, trump received a hurricane briefing at the white house on the category 4 storm. He told reporters he faced a \" quagmire \" about whether to attend the pennsylvania rally because \" thousands of people \" were already lined up for the event. He ultimately decided to attend, a move he criticized president barack obama for six years ago after superstorm sandy hit the east coast. \" yesterday obama campaigned with jayz &amp; springsteen while hurricane sandy victims across ny &amp; nj are still decimated by sandy. Wrong! \" trump tweeted on nov. 6, 2012. On wednesday, trump touted two republican congressmen, mike kelly and lou barletta. Kelly is facing a challenge from democrat ron dinicola, while barletta is mounting an uphill campaign to unseat two-term democratic sen. Bob casey. The president, who attended a fundraiser before the rally,",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Supporters of president donald trump cheer as he arrives to speak at a campaign rally at erie insurance arena, wednesday, oct. 10, 2018, in erie, pa. As hurricane michael pounded the southeast on wednesday,... ( associated press ) supporters of president donald trump cheer as he arrives to speak at a campaign rally at erie insurance arena, wednesday, oct. 10, 2018, in erie, pa. As hurricane michael pounded the southeast on wednesday, trump took shelter at the campaign rally in pennsylvania, where he sought to boost republicans... ( associated press ) erie, pa. ( ap ) — as hurricane michael pounded florida on wednesday, president donald trump took shelter at a campaign event in pennsylvania, where he sought to boost republicans before the midterms. Trump acknowledged the hurricane at the top of his rally in erie, offering his \" thoughts and prayers \" to those in the storm's path and promising to \" spare no effort \" in the response. He promised to travel to florida \" very shortly. \" he added: \" we will always pull through.... We will always be successful at what we do. \" then trump turned back to politics. With weeks to go before the critical november elections, trump and his fellow republicans are engaged in an all-out midterms blitz. They have been invigorated by the successful nomination of justice brett kavanaugh to the supreme court and are seeking to use the contentious moment to unify the gop and stave off democratic energy at the polls. That trump kept his appointment in erie underscored the importance of this effort to republicans. Earlier in the day, trump received a hurricane briefing at the white house on the category 4 storm. He told reporters he faced a \" quagmire \" about whether to attend the pennsylvania rally because \" thousands of people \" were already lined up for the event. He ultimately decided to attend, a move he criticized president barack obama for six years ago after superstorm sandy hit the east coast. \" yesterday obama campaigned with jayz &amp; springsteen while hurricane sandy victims across ny &amp; nj are still decimated by sandy. Wrong! \" trump tweeted on nov. 6, 2012. On wednesday, trump touted two republican congressmen, mike kelly and lou barletta. Kelly is facing a challenge from democrat ron dinicola, while barletta is mounting an uphill campaign to unseat two-term democratic sen. Bob casey. The president, who attended a fundraiser before the rally,"
         ],
         "raw_document": [
             "Supporters of president donald trump cheer as he arrives to speak at a campaign rally at erie insurance arena, wednesday, oct. 10, 2018, in erie, pa. As hurricane michael pounded the southeast on wednesday,... ( associated press ) supporters of president donald trump cheer as he arrives to speak at a campaign rally at erie insurance arena, wednesday, oct. 10, 2018, in erie, pa. As hurricane michael pounded the southeast on wednesday, trump took shelter at the campaign rally in pennsylvania, where he sought to boost republicans... ( associated press ) erie, pa. ( ap ) — as hurricane michael pounded florida on wednesday, president donald trump took shelter at a campaign event in pennsylvania, where he sought to boost republicans before the midterms. Trump acknowledged the hurricane at the top of his rally in erie, offering his \" thoughts and prayers \" to those in the storm's path and promising to \" spare no effort \" in the response. He promised to travel to florida \" very shortly. \" he added: \" we will always pull through.... We will always be successful at what we do. \" then trump turned back to politics. With weeks to go before the critical november elections, trump and his fellow republicans are engaged in an all-out midterms blitz. They have been invigorated by the successful nomination of justice brett kavanaugh to the supreme court and are seeking to use the contentious moment to unify the gop and stave off democratic energy at the polls. That trump kept his appointment in erie underscored the importance of this effort to republicans. Earlier in the day, trump received a hurricane briefing at the white house on the category 4 storm. He told reporters he faced a \" quagmire \" about whether to attend the pennsylvania rally because \" thousands of people \" were already lined up for the event. He ultimately decided to attend, a move he criticized president barack obama for six years ago after superstorm sandy hit the east coast. \" yesterday obama campaigned with jayz &amp; springsteen while hurricane sandy victims across ny &amp; nj are still decimated by sandy. Wrong! \" trump tweeted on nov. 6, 2012. On wednesday, trump touted two republican congressmen, mike kelly and lou barletta. Kelly is facing a challenge from democrat ron dinicola, while barletta is mounting an uphill campaign to unseat two-term democratic sen. Bob casey. The president, who attended a fundraiser before the rally,",
@@ -318,7 +314,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -459,7 +455,7 @@
             "0": 2,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -487,7 +483,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -543,7 +539,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -602,12 +598,11 @@
     },
     {
         "idx": 5822,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A billionaire businessman has apologized for his real estate company's controversial sign in downtown detroit that says \" see detroit like we do \" with an image of a majority white crowd. Quicken loans founder and cleveland cavaliers majority owner dan gilbert posted on facebook sunday, saying the ad was \" tone deaf \" and his bedrock company \" screwed up badly. \" per the post, \" we became the city's largest employer of detroiters because diversity and inclusion are core fundamental values to our entire mission of helping to grow detroit's population, driving job growth, and increasing economic opportunity for all. \" the ad posted on the vinton building — a residential high-rise bedrock has spent more than two years rebuilding — during the weekend of the 50th anniversary of the 1967 detroit riots resulted in social media uproar. The campaign's photograph contradicted 2010 us census data indicating the city is more than 82 % black, reports the ap. Gilbert says the display posted friday was only part of the final ad, but that it still distorted the company's message. He says the image was removed saturday and the \" dumb campaign slogan \" has been \" killed. \"",
         "split": "train",
         "cleansed_document": [
-            "Detroit ( ap ) — a billionaire businessman has apologized for his real estate company's controversial sign in downtown detroit that says \" see detroit like we do \" with an image of a majority white crowd. Quicken loans founder and cleveland cavaliers majority owner dan gilbert posted on facebook sunday, saying the ad was \" tone deaf \" and his bedrock company \" screwed up badly. \" the ad posted on a residential high-rise during the weekend of the 50th anniversary of the 1967 detroit riots resulted in social media uproar. The campaign's photograph contradicted 2010 u.s. Census data indicating the city is more than 82 percent black. Gilbert says the display posted friday was only part of the final ad, but still distorted the company's message. He says the image was removed saturday and the campaign has been \" killed. \"",
-            "Advance for use sunday, july 16, 2017 and thereafter-in this july 23, 1967 file photo, a man is taken into custody by police during a riot in detroit. The riots engulfed the city beginning july 23, 1967... ( associated press ) advance for use sunday, july 16, 2017 and thereafter-in this july 23, 1967 file photo, a man is taken into custody by police during a riot in detroit. The riots engulfed the city beginning july 23, 1967 and continued for five days _ one of many to hit the u.s. That summer. The violence prompted president... ( associated press ) advance for use sunday, july 16, 2017 and thereafter-in this july 23, 1967 file photo, a man is taken into custody by police during a riot in detroit. The riots engulfed the city beginning july 23, 1967 and continued for five days _ one of many to hit the u.s. That summer. The violence prompted president... ( associated press ) advance for use sunday, july 16, 2017 and thereafter-in this july 23, 1967 file photo, a man is taken into custody by police during a riot in detroit. The riots engulfed the city beginning july 23, 1967... ( associated press ) gun battles raged in detroit's streets. Snipers clashed with national guardsmen and police. Many residents huddled for safety in their homes, while others — both black and white — looted businesses. Many of the businesses were then set ablaze. The riots engulfed the city beginning july 23, 1967, and continued for five days — one of many to hit the u.s. That summer. The violence prompted president lyndon johnson to send in federal troops to quell the upheaval. Forty-three people — 33 blacks and 10 whites — were killed. More than 7,000 people were arrested. Over 1,400 buildings"
+            "Detroit ( ap ) — a billionaire businessman has apologized for his real estate company's controversial sign in downtown detroit that says \" see detroit like we do \" with an image of a majority white crowd. Quicken loans founder and cleveland cavaliers majority owner dan gilbert posted on facebook sunday, saying the ad was \" tone deaf \" and his bedrock company \" screwed up badly. \" the ad posted on a residential high-rise during the weekend of the 50th anniversary of the 1967 detroit riots resulted in social media uproar. The campaign's photograph contradicted 2010 u.s. Census data indicating the city is more than 82 percent black. Gilbert says the display posted friday was only part of the final ad, but still distorted the company's message. He says the image was removed saturday and the campaign has been \" killed. \""
         ],
         "raw_document": [
             "Detroit ( ap ) — a billionaire businessman has apologized for his real estate company's controversial sign in downtown detroit that says \" see detroit like we do \" with an image of a majority white crowd. Quicken loans founder and cleveland cavaliers majority owner dan gilbert posted on facebook sunday, saying the ad was \" tone deaf \" and his bedrock company \" screwed up badly. \" the ad posted on a residential high-rise during the weekend of the 50th anniversary of the 1967 detroit riots resulted in social media uproar. The campaign's photograph contradicted 2010 u.s. Census data indicating the city is more than 82 percent black. Gilbert says the display posted friday was only part of the final ad, but still distorted the company's message. He says the image was removed saturday and the campaign has been \" killed. \"",
@@ -622,7 +617,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -875,7 +870,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -906,7 +901,7 @@
             "0": 0,
             "1": 2,
             "2": 2,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1013,7 +1008,7 @@
             "1": 5,
             "2": 2,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1038,7 +1033,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1071,12 +1066,11 @@
     },
     {
         "idx": 5839,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Catholic university's president believes he has come up with a surefire way to curb binge drinking and promiscuity: do away with the school's 11 coed dorms. \"we just thought it was a more wholesome environment, \" says john garvey, whose plan will be phased in over several years at the dc school. \"a little separation is a healthy thing. \" but not all students and alums agree, citing the coed housing that's existed at catholic university for more than two decades as conducive to building stronger relationships, both platonically and romantically speaking, the washington post reports. While studies suggest that students in coed dorms are more than twice as likely to report weekly binge drinking or to have several sexual partners in the course of a year, the verdict on mixed housing is hardly conclusive. Some catholic alums are advocating stasis in the school's policy. \"a lot of us met our spouses there, \" says one former student. \" we've started families thanks to coed living. \" garvey laid out his rationale in a wall street journal essay.",
         "split": "train",
         "cleansed_document": [
-            "The president of catholic university has decided to use a \"slightly old-fashioned remedy \" in an effort to curtail the binge drinking and casual hookups of students: getting rid of the coed dorms. \"we just thought it was a more wholesome environment, \" said john h. Garvey, who became president of catholic last year. \"a little separation is a healthy thing. \" eleven of the university's 17 residence halls are coed, so a campuswide transition will take a few years. This fall, the university will place most freshmen in all-women or all-men halls. The next school year, sophomore halls will go single-sex. Then upperclassmen halls. The decision to return to single-sex dorms, after more than two decades, stunned many students and alumni, who have built friendships and memories in coed environments, although some people outside the university may have been surprised that it had coed dorms in the first place. \"it's easier to make more friends when its coed, \" said rachel l. Martin, 19, who will be a sophomore this fall. \"it's not just the same cliques of girls on the floors. \" even in its coed dorms, the university still assigned women and men to their own floors or wings — and strictly enforced \"visiting hours. \" some questioned just what sort of impact the new policy would have. \"college people are going to be drinking regardless of if there's a girl living above them or below them, \" said bill durdach, who graduated in may and once oversaw a floor of 52 male freshmen in a coed dorm. As for same-sex dorms: \"their behavior isn't any different. And sometimes it's worse, \" durdach said. The coed vs. Single-sex debate harkens back at least a generation, and today most colleges house female and male students under the same roof. Some schools even allow those students to be roommates. George washington university is one of the latest campuses to offer \"gender-neutral housing, \" which allows students to live with anyone they choose. But that's not an option all students want, said erwin villanueva, a rising junior at catholic. \"it was a big relief to my mom \" that catholic offered single-sex housing, villanueva said. \"i guess she's just old-fashioned. She's more comfortable with this. \" many colleges started housing men and women under the same roof in the 1960s and ' 70s, when women began to",
-            "Dow jones reprints: this copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers, use the order reprints tool at the bottom of any article or visit www.djreprints.com"
+            "The president of catholic university has decided to use a \"slightly old-fashioned remedy \" in an effort to curtail the binge drinking and casual hookups of students: getting rid of the coed dorms. \"we just thought it was a more wholesome environment, \" said john h. Garvey, who became president of catholic last year. \"a little separation is a healthy thing. \" eleven of the university's 17 residence halls are coed, so a campuswide transition will take a few years. This fall, the university will place most freshmen in all-women or all-men halls. The next school year, sophomore halls will go single-sex. Then upperclassmen halls. The decision to return to single-sex dorms, after more than two decades, stunned many students and alumni, who have built friendships and memories in coed environments, although some people outside the university may have been surprised that it had coed dorms in the first place. \"it's easier to make more friends when its coed, \" said rachel l. Martin, 19, who will be a sophomore this fall. \"it's not just the same cliques of girls on the floors. \" even in its coed dorms, the university still assigned women and men to their own floors or wings — and strictly enforced \"visiting hours. \" some questioned just what sort of impact the new policy would have. \"college people are going to be drinking regardless of if there's a girl living above them or below them, \" said bill durdach, who graduated in may and once oversaw a floor of 52 male freshmen in a coed dorm. As for same-sex dorms: \"their behavior isn't any different. And sometimes it's worse, \" durdach said. The coed vs. Single-sex debate harkens back at least a generation, and today most colleges house female and male students under the same roof. Some schools even allow those students to be roommates. George washington university is one of the latest campuses to offer \"gender-neutral housing, \" which allows students to live with anyone they choose. But that's not an option all students want, said erwin villanueva, a rising junior at catholic. \"it was a big relief to my mom \" that catholic offered single-sex housing, villanueva said. \"i guess she's just old-fashioned. She's more comfortable with this. \" many colleges started housing men and women under the same roof in the 1960s and ' 70s, when women began to"
         ],
         "raw_document": [
             "The president of catholic university has decided to use a \"slightly old-fashioned remedy \" in an effort to curtail the binge drinking and casual hookups of students: getting rid of the coed dorms. \"we just thought it was a more wholesome environment, \" said john h. Garvey, who became president of catholic last year. \"a little separation is a healthy thing. \" eleven of the university's 17 residence halls are coed, so a campuswide transition will take a few years. This fall, the university will place most freshmen in all-women or all-men halls. The next school year, sophomore halls will go single-sex. Then upperclassmen halls. The decision to return to single-sex dorms, after more than two decades, stunned many students and alumni, who have built friendships and memories in coed environments, although some people outside the university may have been surprised that it had coed dorms in the first place. \"it's easier to make more friends when its coed, \" said rachel l. Martin, 19, who will be a sophomore this fall. \"it's not just the same cliques of girls on the floors. \" even in its coed dorms, the university still assigned women and men to their own floors or wings — and strictly enforced \"visiting hours. \" some questioned just what sort of impact the new policy would have. \"college people are going to be drinking regardless of if there's a girl living above them or below them, \" said bill durdach, who graduated in may and once oversaw a floor of 52 male freshmen in a coed dorm. As for same-sex dorms: \"their behavior isn't any different. And sometimes it's worse, \" durdach said. The coed vs. Single-sex debate harkens back at least a generation, and today most colleges house female and male students under the same roof. Some schools even allow those students to be roommates. George washington university is one of the latest campuses to offer \"gender-neutral housing, \" which allows students to live with anyone they choose. But that's not an option all students want, said erwin villanueva, a rising junior at catholic. \"it was a big relief to my mom \" that catholic offered single-sex housing, villanueva said. \"i guess she's just old-fashioned. She's more comfortable with this. \" many colleges started housing men and women under the same roof in the 1960s and ' 70s, when women began to",
@@ -1091,7 +1085,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1207,12 +1201,11 @@
     },
     {
         "idx": 5844,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Norwegian mass murderer anders breivik interrupted his trial today to complain about his own trauma in comparison to his victims. The judge demanded he stop several times, although he was eventually allowed to finish his address as gallery members exited in protest. After two trauma experts spoke about the troubles affecting families of survivors and victims, breivik said, \" shame they neglect the trauma of gradually being robbed of one's ethnical culture, one's religion, and one's people without being able to stop it, \" reports sky news. \" this matter concerns the future of norway and europe, \" he said. \" it's traumatizing to be labeled a right-wing extremist \" and to be \" demonized. \" closing arguments begin tomorrow in the trial of breivik, who has admitted that he killed 77 people in his 2010 rampage. The only issue is whether he will be judged insane and go to a prison or a hospital, notes ap.",
         "split": "train",
         "cleansed_document": [
-            "Killer breivik complains about his trauma anders breivik in court trygve sorvaag, in oslo norwegian mass killer anders behring breivik had to be stopped from talking several times by the judge in his trial, as he compared his victims ' pain to his trauma over the country's immigration. He wanted to comment on the evidence from two trauma experts describing how difficult life has become for survivors and their families after the 2010 terror attacks. Breivik thought there was another side to the story, saying: \" shame they neglect the trauma of gradually being robbed of one's ethnical culture, one's religion and one's people without being able to stop it. \" the killer was referring to the fight he believes he is leading on behalf of the norwegian people to save the country from a muslim invasion. In an authoritative voice, the judge, wenche elizabeth arntzen, stopped him several times, pointing out that this was not part of the experts ' mandate. Breivik was allowed to finish his comments while people in the public gallery left in protest. He got the last word before court was adjourned on day 41 of the 43-day trial in the capital oslo. See our blog from the court in oslo below: earlier on the last day of witnesses, the court heard from a husband who lost his wife",
-            "After nearly 10 weeks of grueling testimony of one of the worst peacetime massacres in modern history, it's time for prosecutors to decide their position on whether they think confessed mass killer anders behring breivik is insane or not. Psychiatrists team no 1. Torgeir husby, center, and synne soerheim, right defend their report during the trial of anders behring breivik, left, who last year shot 69 people and killed eight in a bomb... ( associated press ) lawyer for anders behring breivik, geir lippestad, left, covers his face as he talks with breivik, right, during week nine of breivik's trial wednesday june 13, 2012 in oslo, norway. The trial of anders... ( associated press ) psychiatrists torgeir husby ( left ) and synne soerheim who have presented a report concluding that the anders behring breivik cannot be held accountable for his actions as he was psychotic at the time,... ( associated press ) synne soerheim and torgeir husby, right, psychiatric experts who have found anders behring breivik, seen at left background, psychotic at the time of his crimes, faced questioning by judges and lawyers... ( associated press ) \" the decision has been made, \" prosecutor svein holden told reporters wednesday. But prosecutors declined to say what that was a day before closing arguments in a trial that has"
+            "Killer breivik complains about his trauma anders breivik in court trygve sorvaag, in oslo norwegian mass killer anders behring breivik had to be stopped from talking several times by the judge in his trial, as he compared his victims ' pain to his trauma over the country's immigration. He wanted to comment on the evidence from two trauma experts describing how difficult life has become for survivors and their families after the 2010 terror attacks. Breivik thought there was another side to the story, saying: \" shame they neglect the trauma of gradually being robbed of one's ethnical culture, one's religion and one's people without being able to stop it. \" the killer was referring to the fight he believes he is leading on behalf of the norwegian people to save the country from a muslim invasion. In an authoritative voice, the judge, wenche elizabeth arntzen, stopped him several times, pointing out that this was not part of the experts ' mandate. Breivik was allowed to finish his comments while people in the public gallery left in protest. He got the last word before court was adjourned on day 41 of the 43-day trial in the capital oslo. See our blog from the court in oslo below: earlier on the last day of witnesses, the court heard from a husband who lost his wife"
         ],
         "raw_document": [
             "Killer breivik complains about his trauma anders breivik in court trygve sorvaag, in oslo norwegian mass killer anders behring breivik had to be stopped from talking several times by the judge in his trial, as he compared his victims ' pain to his trauma over the country's immigration. He wanted to comment on the evidence from two trauma experts describing how difficult life has become for survivors and their families after the 2010 terror attacks. Breivik thought there was another side to the story, saying: \" shame they neglect the trauma of gradually being robbed of one's ethnical culture, one's religion and one's people without being able to stop it. \" the killer was referring to the fight he believes he is leading on behalf of the norwegian people to save the country from a muslim invasion. In an authoritative voice, the judge, wenche elizabeth arntzen, stopped him several times, pointing out that this was not part of the experts ' mandate. Breivik was allowed to finish his comments while people in the public gallery left in protest. He got the last word before court was adjourned on day 41 of the 43-day trial in the capital oslo. See our blog from the court in oslo below: earlier on the last day of witnesses, the court heard from a husband who lost his wife",
@@ -1227,7 +1220,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1282,13 +1275,12 @@
     },
     {
         "idx": 5847,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The bacterium that wiped out millions in europe in the black death pandemic of the 1300s lives on, and officials say it's resurfaced in fleas in arizona. Navajo county public health officials warn on facebook that yersinia pestis, better known as the plague, can be transmitted to humans and other animals through bites by infected fleas or via direct contact with an infected animal. The officials ask locals near taylor, ariz., to leash dogs, regularly treat pets to protect against flea bites, stay away from rodent burrows, and use insect repellent. Infected people tend to experience weakness, headaches, chills, fever, muscle pain, and swollen lymph glands within two weeks of exposure, reports live science. The washington post reports that the bacterium poses a \" potentially grave threat \" to people and their pets, particularly cats. If treated early enough, antibiotics can cure the disease, per the county's health department. The disease is typically passed from fleas to prairie dogs and other rodents, so a sudden die-off of these animals can sometimes signal the presence of the bacterium. While a plague vaccine for prairie dogs reported in the journal ecohealth looks promising, the disease can be deadly in humans if not treated right away. Most cases are reported in the southwestern us, with about seven fatalities a year. ( santa fe saw three cases in june alone. )",
         "split": "train",
         "cleansed_document": [
             "Fleas that bite rodents infected with the bacteria that cause the plague can transmit the disease to people. Fleas carrying the plague have been found in some parts of arizona, according to health officials. On friday ( aug. 11 ), the navajo county health department ( nchd ) announced that fleas collected in the town of taylor, arizona, had tested positive for yersinia pestis, the bacterium that causes plague. The department \" is urging the public to take precautions to reduce their risk of exposure to this serious disease, \" officials said in a facebook post. Separately, officials in nearby coconino county also warned of fleas carrying plague in that area. [ 10 bizarre diseases you can get outdoors the plague is perhaps best known",
-            "Plague is treatable with antibiotics if detected early, but the symptoms can be deadly if untreated. ( the washington post ) public health officials in two arizona counties are warning residents about the discovery of plague bacteria, an endemic concern among those who live in the american southwest but unsettling, nonetheless, given the disease's devastating impact on human history. Navajo and coconino counties are adjacent to one another, and in each community the findings are identical: fleas carrying yersinia pestis, the bacterium that causes plague, were discovered this month and pose a potentially grave threat to people and their pets, especially cats. Here, the u.s. Centers for disease control and prevention demonstrates how the plague is transmitted from fleas to pets and",
-            "... The signing of the vietnam peace accord on january 27. This will be held at the show low veteran's memorial ( next to city hall ) at 1000 on sunday 1/27. The paris peace accords, officially titled the agreement on ending the war and restoring peace in vietnam, was a peace treaty signed on january 27, 1973, to establish peace in vietnam and end the vietnam war. The white mountain honor guard will conduct a ceremony in memory of"
+            "Plague is treatable with antibiotics if detected early, but the symptoms can be deadly if untreated. ( the washington post ) public health officials in two arizona counties are warning residents about the discovery of plague bacteria, an endemic concern among those who live in the american southwest but unsettling, nonetheless, given the disease's devastating impact on human history. Navajo and coconino counties are adjacent to one another, and in each community the findings are identical: fleas carrying yersinia pestis, the bacterium that causes plague, were discovered this month and pose a potentially grave threat to people and their pets, especially cats. Here, the u.s. Centers for disease control and prevention demonstrates how the plague is transmitted from fleas to pets and"
         ],
         "raw_document": [
             "Fleas that bite rodents infected with the bacteria that cause the plague can transmit the disease to people. Fleas carrying the plague have been found in some parts of arizona, according to health officials. On friday ( aug. 11 ), the navajo county health department ( nchd ) announced that fleas collected in the town of taylor, arizona, had tested positive for yersinia pestis, the bacterium that causes plague. The department \" is urging the public to take precautions to reduce their risk of exposure to this serious disease, \" officials said in a facebook post. Separately, officials in nearby coconino county also warned of fleas carrying plague in that area. [ 10 bizarre diseases you can get outdoors the plague is perhaps best known",
@@ -1307,7 +1299,7 @@
             "0": 0,
             "1": 4,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1417,12 +1409,11 @@
     },
     {
         "idx": 5852,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Christina aguilera and fiance matt rutler became parents saturday, announcing the birth of their daughter last night on twitter. \" so proud to welcome our beautiful daughter summer rain rutler into the world, \" aguilera tweeted. Aguilera, 33, has a 6-year-old son, max, with her first husband, jordan bratman, us reports, but this is the first child for rutler, 28.",
         "split": "train",
         "cleansed_document": [
-            "She's got a name! christina aguilera and fiance matt rutler have named their daughter summer rain rutler, the singer announced late on sunday, aug. 17 via twitter. Photos: nude, pregnant stars as us weekly reported previously, the happy couple welcomed their daughter into the world on saturday, aug. 16, when aguilera gave birth to the little girl at los angeles ' cedars-sinai medical center. And barely 24 hours after the arrival of their child, proud mom aguilera, 33, took to twitter to share their new daughter's name with fans. Photos: christina's body evolution \" so proud to welcome our beautiful daughter summer rain rutler into the world, \" the grammy winner wrote. Us broke the news in february that aguilera and fiance rutler, 28, were expecting a child together. The \" beautiful \" singer already has one son, max, 6, by her first husband jordan bratman, but baby summer rain is rutler's first child. The happy couple announced on valentine's day this year that they were engaged to be married, after meeting on the set of her 2010 film burlesque. Photos: christina's life as a mom aguilera has stayed out of the spotlight for most of her second pregnancy, something the new mom has relished. She tweeted in april about how excited she was for the months to come. \" so blissful in taking this time for creating all things blossoming new on the horizon … album, baby &amp; beautiful music to come, \" she wrote. Sign up now for the us weekly newsletter to get breaking celebrity news, hot pics and more delivered straight to your inbox! want stories like these delivered straight to your phone? download the us weekly iphone app now!",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "She's got a name! christina aguilera and fiance matt rutler have named their daughter summer rain rutler, the singer announced late on sunday, aug. 17 via twitter. Photos: nude, pregnant stars as us weekly reported previously, the happy couple welcomed their daughter into the world on saturday, aug. 16, when aguilera gave birth to the little girl at los angeles ' cedars-sinai medical center. And barely 24 hours after the arrival of their child, proud mom aguilera, 33, took to twitter to share their new daughter's name with fans. Photos: christina's body evolution \" so proud to welcome our beautiful daughter summer rain rutler into the world, \" the grammy winner wrote. Us broke the news in february that aguilera and fiance rutler, 28, were expecting a child together. The \" beautiful \" singer already has one son, max, 6, by her first husband jordan bratman, but baby summer rain is rutler's first child. The happy couple announced on valentine's day this year that they were engaged to be married, after meeting on the set of her 2010 film burlesque. Photos: christina's life as a mom aguilera has stayed out of the spotlight for most of her second pregnancy, something the new mom has relished. She tweeted in april about how excited she was for the months to come. \" so blissful in taking this time for creating all things blossoming new on the horizon … album, baby &amp; beautiful music to come, \" she wrote. Sign up now for the us weekly newsletter to get breaking celebrity news, hot pics and more delivered straight to your inbox! want stories like these delivered straight to your phone? download the us weekly iphone app now!"
         ],
         "raw_document": [
             "She's got a name! christina aguilera and fiance matt rutler have named their daughter summer rain rutler, the singer announced late on sunday, aug. 17 via twitter. Photos: nude, pregnant stars as us weekly reported previously, the happy couple welcomed their daughter into the world on saturday, aug. 16, when aguilera gave birth to the little girl at los angeles ' cedars-sinai medical center. And barely 24 hours after the arrival of their child, proud mom aguilera, 33, took to twitter to share their new daughter's name with fans. Photos: christina's body evolution \" so proud to welcome our beautiful daughter summer rain rutler into the world, \" the grammy winner wrote. Us broke the news in february that aguilera and fiance rutler, 28, were expecting a child together. The \" beautiful \" singer already has one son, max, 6, by her first husband jordan bratman, but baby summer rain is rutler's first child. The happy couple announced on valentine's day this year that they were engaged to be married, after meeting on the set of her 2010 film burlesque. Photos: christina's life as a mom aguilera has stayed out of the spotlight for most of her second pregnancy, something the new mom has relished. She tweeted in april about how excited she was for the months to come. \" so blissful in taking this time for creating all things blossoming new on the horizon … album, baby &amp; beautiful music to come, \" she wrote. Sign up now for the us weekly newsletter to get breaking celebrity news, hot pics and more delivered straight to your inbox! want stories like these delivered straight to your phone? download the us weekly iphone app now!",
@@ -1437,7 +1428,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1546,7 +1537,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1629,7 +1620,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1710,7 +1701,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1878,12 +1869,11 @@
     },
     {
         "idx": 5869,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Oh, canada! the alberta government is warning motorists to beware of moose that lick. That is, don't physically try to stop them. The peter lougheed provincial park west of calgary has experienced an influx of moose who enjoy sampling the salt caked to the windows and doors of parked vehicles, reports cbc news. If you had the idea of getting between a 1,000-pound moose and its pleasure, think again. Do not to \" attempt to push moose away from your vehicle while on foot, \" says alberta parks. Instead, sound your horn or activate your key fob's panic button. A number is provided to report \" all aggressive moose encounters. \" ( it's illegal to ride a moose in canada. )",
         "split": "train",
         "cleansed_document": [
-            "Watch out for moose who like to lick vehicles. That's a warning from the alberta government for people visiting peter lougheed provincial park about 130 kilometres west of calgary. Alberta parks says moose are on the trails at chester lake and burstall pass and are coming into the trailhead parking lots to lick salt off the sides of vehicles. The government advises people to sound their horn to try to get the salt-lickers away from their vehicles. It also warns to not try to push a moose away from the vehicle. In canada, a female moose weighs an average of 750 to 926 pounds and a male moose averages between 992 and 1,102 pounds. Alberta parks issued the warning tuesday and ask people report any aggressive moose encounters to them.",
-            "The closure includes: the paved bicycle trail from the campground road to the store, the whiskey jack trail from loop a to the store, the paved bike path east of the store, and the entire active construction zone during the creation of a new campground loop.see the map for more info."
+            "Watch out for moose who like to lick vehicles. That's a warning from the alberta government for people visiting peter lougheed provincial park about 130 kilometres west of calgary. Alberta parks says moose are on the trails at chester lake and burstall pass and are coming into the trailhead parking lots to lick salt off the sides of vehicles. The government advises people to sound their horn to try to get the salt-lickers away from their vehicles. It also warns to not try to push a moose away from the vehicle. In canada, a female moose weighs an average of 750 to 926 pounds and a male moose averages between 992 and 1,102 pounds. Alberta parks issued the warning tuesday and ask people report any aggressive moose encounters to them."
         ],
         "raw_document": [
             "Watch out for moose who like to lick vehicles. That's a warning from the alberta government for people visiting peter lougheed provincial park about 130 kilometres west of calgary. Alberta parks says moose are on the trails at chester lake and burstall pass and are coming into the trailhead parking lots to lick salt off the sides of vehicles. The government advises people to sound their horn to try to get the salt-lickers away from their vehicles. It also warns to not try to push a moose away from the vehicle. In canada, a female moose weighs an average of 750 to 926 pounds and a male moose averages between 992 and 1,102 pounds. Alberta parks issued the warning tuesday and ask people report any aggressive moose encounters to them.",
@@ -1898,7 +1888,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1998,7 +1988,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2124,7 +2114,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2187,12 +2177,11 @@
     },
     {
         "idx": 5881,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two deputies in idaho killed a cattle rancher after a dispute over an injured bull on sunday, authorities say. The bizarre case unfolded after rancher jack yantis, 62, received a call that one of his bulls had gotten loose near council, a town of 800 north of boise, and was hit by a station wagon, report ktvb and cbs news. Police say the deputies were preparing to shoot the animal — which they say had begun charging passing cars and emergency responders working to free the crash victims — when yantis arrived with a rifle. Authorities say both deputies and yantis fired their weapons after a scuffle, per the new york daily news. One deputy suffered minor injuries, while yantis died at the scene. The bull was hit by a stray bullet and also died, police say. To add to the tragedy, authorities say yantis ' wife suffered a heart attack after learning of her husband's death and was listed in critical condition at a hospital on monday. \" this is going to be a big hit to this community, \" the adams county sheriff says. Yantis \" was a well-known cattle rancher around here \" and \" to the best of my knowledge, this is the first officer-involved shooting that adams county has ever had. \" both deputies, whose names have not been released, have been placed on administrative leave pending an investigation, reports the idaho statesman. The initial crash victims were airlifted to a hospital in boise. Their conditions are not known.",
         "split": "train",
         "cleansed_document": [
-            "Jack yantis ' barn. ( photo: paul boehlke/ktvb ) council, idaho -- idaho state police are investigating after a council rancher was shot and killed sunday by deputies with the adams county sheriff's office. The incident began when a subaru station wagon crashed into a bull on us 95 north of council at about 6: 45 p.m. Emergency responders and adams county deputies responded and were working to extricate the two people inside the car. Adams county sheriff ryan zollman said the bull, which was injured in the collision, started charging at emergency responders and other vehicles. \" the bull was very agitated and was aggressive to emergency services, as well as the other cars coming up and down the highway, \" he said. Deputies were getting ready to put the animal down when the bull's owner, 62-year-old jack yantis, arrived on the scene with a rifle. Zollman said dispatchers had called yantis after the crash, telling him that the bull that was hit appeared to be his, and was down on the highway near his house. What happened next is still under investigation, but zollman said there was an altercation and yantis and both deputies all fired their weapons. Yantis was fatally wounded and died at the scene. One of the deputies suffered a minor injury. An emotional zollman said monday that his thoughts went out to everyone involved, and that his office took the shooting very seriously. Isp has taken over the investigation to prevent a conflict of interest. \" this is going to be a big hit to this community, \" zollman said. \" the gentleman involved, mr. Yantis, was a well-known cattle rancher around here. It's just a sad deal for everybody involved, for the whole community. \" the deputies who shot yantis have been placed on paid leave. Their names have not yet been released. \" to the best of my knowledge, this is the first officer-involved shooting that adams county has ever had, \" zollman said. Yantis ' wife, donna yantis, suffered a heart attack after learning that her husband had been shot, family members said. She was taken to a saint alphonsus regional medical center in boise, where she was listed in critical condition monday. Both people inside the subaru were taken to a boise hospital by air ambulance. Their conditions are unknown. The bull was killed, although authorities are still investigating whether a bullet from yantis ' gun or one of the deputies ' weapons killed",
-            "Boise businesses provided free services for furloughed federal employees during the shutdown. The shutdown lasted 35 days, but the government temporarily reopened friday. It will remain open for three weeks."
+            "Jack yantis ' barn. ( photo: paul boehlke/ktvb ) council, idaho -- idaho state police are investigating after a council rancher was shot and killed sunday by deputies with the adams county sheriff's office. The incident began when a subaru station wagon crashed into a bull on us 95 north of council at about 6: 45 p.m. Emergency responders and adams county deputies responded and were working to extricate the two people inside the car. Adams county sheriff ryan zollman said the bull, which was injured in the collision, started charging at emergency responders and other vehicles. \" the bull was very agitated and was aggressive to emergency services, as well as the other cars coming up and down the highway, \" he said. Deputies were getting ready to put the animal down when the bull's owner, 62-year-old jack yantis, arrived on the scene with a rifle. Zollman said dispatchers had called yantis after the crash, telling him that the bull that was hit appeared to be his, and was down on the highway near his house. What happened next is still under investigation, but zollman said there was an altercation and yantis and both deputies all fired their weapons. Yantis was fatally wounded and died at the scene. One of the deputies suffered a minor injury. An emotional zollman said monday that his thoughts went out to everyone involved, and that his office took the shooting very seriously. Isp has taken over the investigation to prevent a conflict of interest. \" this is going to be a big hit to this community, \" zollman said. \" the gentleman involved, mr. Yantis, was a well-known cattle rancher around here. It's just a sad deal for everybody involved, for the whole community. \" the deputies who shot yantis have been placed on paid leave. Their names have not yet been released. \" to the best of my knowledge, this is the first officer-involved shooting that adams county has ever had, \" zollman said. Yantis ' wife, donna yantis, suffered a heart attack after learning that her husband had been shot, family members said. She was taken to a saint alphonsus regional medical center in boise, where she was listed in critical condition monday. Both people inside the subaru were taken to a boise hospital by air ambulance. Their conditions are unknown. The bull was killed, although authorities are still investigating whether a bullet from yantis ' gun or one of the deputies ' weapons killed"
         ],
         "raw_document": [
             "Jack yantis ' barn. ( photo: paul boehlke/ktvb ) council, idaho -- idaho state police are investigating after a council rancher was shot and killed sunday by deputies with the adams county sheriff's office. The incident began when a subaru station wagon crashed into a bull on us 95 north of council at about 6: 45 p.m. Emergency responders and adams county deputies responded and were working to extricate the two people inside the car. Adams county sheriff ryan zollman said the bull, which was injured in the collision, started charging at emergency responders and other vehicles. \" the bull was very agitated and was aggressive to emergency services, as well as the other cars coming up and down the highway, \" he said. Deputies were getting ready to put the animal down when the bull's owner, 62-year-old jack yantis, arrived on the scene with a rifle. Zollman said dispatchers had called yantis after the crash, telling him that the bull that was hit appeared to be his, and was down on the highway near his house. What happened next is still under investigation, but zollman said there was an altercation and yantis and both deputies all fired their weapons. Yantis was fatally wounded and died at the scene. One of the deputies suffered a minor injury. An emotional zollman said monday that his thoughts went out to everyone involved, and that his office took the shooting very seriously. Isp has taken over the investigation to prevent a conflict of interest. \" this is going to be a big hit to this community, \" zollman said. \" the gentleman involved, mr. Yantis, was a well-known cattle rancher around here. It's just a sad deal for everybody involved, for the whole community. \" the deputies who shot yantis have been placed on paid leave. Their names have not yet been released. \" to the best of my knowledge, this is the first officer-involved shooting that adams county has ever had, \" zollman said. Yantis ' wife, donna yantis, suffered a heart attack after learning that her husband had been shot, family members said. She was taken to a saint alphonsus regional medical center in boise, where she was listed in critical condition monday. Both people inside the subaru were taken to a boise hospital by air ambulance. Their conditions are unknown. The bull was killed, although authorities are still investigating whether a bullet from yantis ' gun or one of the deputies ' weapons killed",
@@ -2207,7 +2196,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2282,7 +2271,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2357,17 +2346,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 5888,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It looks like missouri is about to order the federal government to butt out in terms of gun laws. The state legislature appears to have the votes to override the governor's veto of a bill that nullifies all federal gun legislation, reports the new york times. ( the ap talks to several democrats who confirm they will bow to their constituents ' wishes on the matter and vote against their party's own governor next month. ) even if the legislation becomes law, however, critics don't think it stands a chance in the courts. Backers say an important principle is at stake: \" it's probably one of the best states ' rights issues that the country's got going right now, \" says a state gop party official. The legislation not only declares federal gun laws to be null and void within the state's borders, it actually makes it illegal for federal agents to try to enforce them. In fact, state residents would be able to sue the arresting officer. The measure also makes it illegal for journalists to print the names of gun owners, calling to mind controversies like this one. A quote from a democratic lawmaker pretty much sums things up: \"we love our guns and we love hunting. It's not worth the fight for me to vote against it. \" but, he adds, \" the bill is completely unconstitutional, so the courts are going to have to throw it out. \"",
         "split": "train",
         "cleansed_document": [
-            "Jefferson city, mo ( ap ) with the help of a few democrats, missouri's republican-led legislature appears to be positioned to override gov. Jay nixon's veto of a high-profile bill that seeks to nullify federal gun-control laws in the state and make criminals out of federal agents who attempt to enforce them. Several of nixon's fellow democrats confirmed to the associated press that they would vote to override his veto when lawmakers convene in september, even while agreeing with the governor that the bill couldn't survive a court challenge. Many of them noted that in some parts of missouri, a \"no \" vote on gun legislation could be career ending. \"we love our guns and we love hunting. It's not worth the fight for me to vote against it, \" said rep. T.j. Mckenna, d-festus. But, he added, \"the bill is completely unconstitutional, so the courts are going to have to throw it out. \" the legislation would make it a misdemeanor for federal agents to attempt to enforce any federal gun regulations that \"infringe on the people's right to keep and bear arms. \" the same criminal charges would apply to journalists who publish any identifying information about gun owners. The charge would be punishable by up to a year in jail and a $ 1,000 fine. Nixon said the",
-            "Richard g. Callahan, the united states attorney for the eastern district of missouri, is concerned. He cited a recent joint operation of federal, state and local law enforcement officials that led to 159 arrests and the seizing of 267 weapons, and noted that the measure \"would have outlawed such operations, and would have made criminals out of the law enforcement officers. \" advertisement continue reading the main story in a letter explaining his veto, mr. Nixon said the federal government's supremacy over the states ' \"is as logically sound as it is legally well established. \" he said that another provision of the measure, which makes it a crime to publish the name of any gun owner, violates the first amendment and could make a crime out of local newspapers'traditional publication of \"photos of proud young missourians who harvest their first turkey or deer. \" but the votes for the measure were overwhelming. In the house, all but one of the 109 republicans voted for the bill, joined by 11 democrats. In the senate, all 24 republicans supported it, along with 2 democrats. Overriding the governor's veto would require 23 votes in the senate and 109 in the house, where at least one democrat would have to come on board. The national rifle association, which has praised mr. Nixon in the past for signing pro-gun"
+            "Jefferson city, mo ( ap ) with the help of a few democrats, missouri's republican-led legislature appears to be positioned to override gov. Jay nixon's veto of a high-profile bill that seeks to nullify federal gun-control laws in the state and make criminals out of federal agents who attempt to enforce them. Several of nixon's fellow democrats confirmed to the associated press that they would vote to override his veto when lawmakers convene in september, even while agreeing with the governor that the bill couldn't survive a court challenge. Many of them noted that in some parts of missouri, a \"no \" vote on gun legislation could be career ending. \"we love our guns and we love hunting. It's not worth the fight for me to vote against it, \" said rep. T.j. Mckenna, d-festus. But, he added, \"the bill is completely unconstitutional, so the courts are going to have to throw it out. \" the legislation would make it a misdemeanor for federal agents to attempt to enforce any federal gun regulations that \"infringe on the people's right to keep and bear arms. \" the same criminal charges would apply to journalists who publish any identifying information about gun owners. The charge would be punishable by up to a year in jail and a $ 1,000 fine. Nixon said the"
         ],
         "raw_document": [
             "Jefferson city, mo ( ap ) with the help of a few democrats, missouri's republican-led legislature appears to be positioned to override gov. Jay nixon's veto of a high-profile bill that seeks to nullify federal gun-control laws in the state and make criminals out of federal agents who attempt to enforce them. Several of nixon's fellow democrats confirmed to the associated press that they would vote to override his veto when lawmakers convene in september, even while agreeing with the governor that the bill couldn't survive a court challenge. Many of them noted that in some parts of missouri, a \"no \" vote on gun legislation could be career ending. \"we love our guns and we love hunting. It's not worth the fight for me to vote against it, \" said rep. T.j. Mckenna, d-festus. But, he added, \"the bill is completely unconstitutional, so the courts are going to have to throw it out. \" the legislation would make it a misdemeanor for federal agents to attempt to enforce any federal gun regulations that \"infringe on the people's right to keep and bear arms. \" the same criminal charges would apply to journalists who publish any identifying information about gun owners. The charge would be punishable by up to a year in jail and a $ 1,000 fine. Nixon said the",
@@ -2382,7 +2370,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2464,7 +2452,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2494,13 +2482,12 @@
     },
     {
         "idx": 5893,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "An unusual clash about religious freedom is playing out in the small city of auburn, kentucky: it's all about horse diapers, reports the wall street journal. Two local amish men have filed a lawsuit against the city, its mayor, and its police chief, accusing them of violating their ability to exercise their religion. Back in 2014, the city passed an ordinance requiring that horses on city streets have a \" properly fitting collection device. \" the city says it's simply a health and safety issue, reports the democrat news leader, and not just about sanitation: the mayor says a child slipped in manure while walking to school. The law isn't targeting anyone \" based on his or her religious views, \" says an attorney for the defendants, a view that the lawsuit disputes. The men who brought the suit belong to the old order swartzentruber amish, an especially conservative branch that shuns modern contraptions. They carry shovels to clean up manure, and argue that this should be sufficient, while the city's lawyer says stopping to shovel poop poses dangers of its own. Regardless, the amish say they took a vote and decided to ignore the law, and they say that individual members would be \" shunned \" if they didn't comply with the vote, reports the daily beast. Another problem: these amish aren't allowed to pay fines, which is why one of the plaintiffs spent 10 days in jail in 2015. ( see why this amish teen was pulled over while driving his buggy. )",
         "split": "train",
         "cleansed_document": [
             "Neigh two men are suing a kentucky town, claiming a new ordinance is targeting their faith by mandating the horses they use wear diapers. Horse shit is serious business in one amish community. Two members of an conservative amish sect have filed a civil suit against the city of auburn, kentucky, saying that a new ordinance regarding horse diapers violates their religious freedom. The plaintiffs, dan mast and emanuel miller, say the ordinance was specifically intended to target members of their religious group. Officials say the amish leave behind horse manure throughout town, which poses a health concern out in the streets. The city's mayor even reportedly claimed that a child slipped in the manure and fell on his way to school. But the amish say the law was intended to target them for their religious beliefs and that they clean up just fine without the diapers. Because the amish don't use modern technology like cars, they largely travel by horse and buggy or, as the lawsuit states, \"are forced to travel on foot. \" mast has already been prosecuted for violating the ordinance ( he was fined $ 193 in 2015 ), while miller says he",
-            "Horse diapers have been thrust into the debate over religious freedom. Two amish men in auburn, ky., filed a lawsuit last month saying a city ordinance requiring horses to wear equine diapers — bags designed to catch manure — violated the ability of amish residents to exercise their religion. The ordinance, passed in 2014, broadened an...",
-            "Three amish men were cited for violating an animal ordinance in the city of auburn last week. Hezekiah miller, amos mast and wilbur mast were all found to be breaking the law by not having a collection devise behind their horses while traveling through town. This is the fourth violation for amos mast, who has already served jail time in 2015 for not paying his fines and court costs. His son dan mast was also jailed for the same infraction. This is mr. Miller's first violation and second for wilbur mast. Amos mast was stopped on west main street hauling a cattle trailer, wilbur was seen on sugar maple and miller on wilson avenue. According to auburn police chief larry jones there is more manure on the streets in auburn than ever. It was getting somewhat better at the end of last year when some of the amish began using collection devises. Now it seems the situation has gotten worse. Auburn's city council amended its animal ordinance in june 2014 to include collection devises to capture excrement and prevent it from landing on city streets and parking areas. The council took action after receiving complaints of horses leaving behind an unpleasant"
+            "Horse diapers have been thrust into the debate over religious freedom. Two amish men in auburn, ky., filed a lawsuit last month saying a city ordinance requiring horses to wear equine diapers — bags designed to catch manure — violated the ability of amish residents to exercise their religion. The ordinance, passed in 2014, broadened an..."
         ],
         "raw_document": [
             "Neigh two men are suing a kentucky town, claiming a new ordinance is targeting their faith by mandating the horses they use wear diapers. Horse shit is serious business in one amish community. Two members of an conservative amish sect have filed a civil suit against the city of auburn, kentucky, saying that a new ordinance regarding horse diapers violates their religious freedom. The plaintiffs, dan mast and emanuel miller, say the ordinance was specifically intended to target members of their religious group. Officials say the amish leave behind horse manure throughout town, which poses a health concern out in the streets. The city's mayor even reportedly claimed that a child slipped in the manure and fell on his way to school. But the amish say the law was intended to target them for their religious beliefs and that they clean up just fine without the diapers. Because the amish don't use modern technology like cars, they largely travel by horse and buggy or, as the lawsuit states, \"are forced to travel on foot. \" mast has already been prosecuted for violating the ordinance ( he was fined $ 193 in 2015 ), while miller says he",
@@ -2517,7 +2504,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2602,7 +2589,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2656,13 +2643,12 @@
     },
     {
         "idx": 5899,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "In what could turn into a pr disaster for the republican national convention, parts of melania trump's monday night speech appear to have been lifted from the speech michelle obama delivered on the first night of the democratic national convention in 2008. Journalist jarrett hill was the first to pick up on the similarities, as below: near the beginning of her speech, melania trump said: \" from a young age, my parents impressed on me the values that you work hard for what you want in life, that your word is your bond and you do what you say and keep your promise, that you treat people with respect. They taught and showed me values and morals in their daily life. \" in michelle obama's 2008 speech in denver, she said: \" and barack and i were raised with so many of the same values: like, you work hard for what you want in life, that your word is your bond, that you do what you say you're going to do, that you treat people with dignity and respect, even if you don't know them and even if you don't agree with them. \" two sentences later, melania said: \" we need to pass those lessons on to the many generations to follow. Because we want our children in this nation to know that the only limit to your achievements is the strength of your dreams and your willingness to work for them. \" michelle, 2008: \" barack and i set out to build lives guided by these values and to pass them onto the next generation, because we want our children — and all children in this nation — to know that the only limit to the height of your achievements is the reach of your dreams and your willingness to work hard for them. \" cnn notes that earlier on monday, melania told nbc that she wrote the speech with as \" little help as possible. \" early tuesday, a trump campaign spokesman did not directly address the accusation of plagiarism, but said: \" in writing her beautiful speech, melania's team of writers took notes on her life's inspirations and, in some instances, included fragments that reflected her own thinking, \" the guardian reports.",
         "split": "train",
         "cleansed_document": [
             "( cnn ) donald trump's presidential campaign doesn't plan to fire anybody or to take disciplinary action over the controversy surrounding melania trump's plagiarism of michelle obama, cnn learned tuesday. Trump's campaign hopes to simply move on without further addressing questions about the speech. Aides to the presumptive republican nominee are scrambling to move past the imbroglio after a passage in melania trump's speech monday night, which headlined the republican national convention's opening night, closely mirrored a portion of michelle obama's address to the democratic national convention in 2008. It's set off infighting and finger-pointing within trump's campaign, and two sources told cnn that donald trump himself is furious about it. Trump's aides chalked the controversy up to media bias and blamed hillary clinton's campaign -- even though the apparent plagiarism was discovered by an independent journalist and had gone viral before clinton's allies and democrats even weighed in. In an interview with cnn's chris cuomo on \" new day, \" campaign chairman paul manafort denied the allegations of plagiarism. \" to think that she would do something like that knowing how scrutinized her speech was going to be last night is",
-            "Multiple lines about necessity of hard work and strong family values, nearly verbatim from the first lady's 2008 address a number of lines in the robustly applauded speech delivered by melania trump at the republican national convention on monday night appear to have been lifted verbatim from a speech michelle obama delivered at the 2008 democratic convention. Donald trump backers play to fears of america on opening night of convention read more \"barack and i were raised with so many of the same values, that you work hard for what you want in life, that your word is your bond and you do what you say you're going to do, \" obama told the gathering of democrats in 2008. \"and barack and i set out to build lives guided by these values, and pass them on to the next generation. Because we want our children – and all children in this nation – to know that the only limit to the height of your achievements is the reach of your dreams and your willingness to work for them. \" trump told gop delegates on monday: \"from a young age, my parents impressed on me the values that you work hard for what you want in life, that your word is your bond and you",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Multiple lines about necessity of hard work and strong family values, nearly verbatim from the first lady's 2008 address a number of lines in the robustly applauded speech delivered by melania trump at the republican national convention on monday night appear to have been lifted verbatim from a speech michelle obama delivered at the 2008 democratic convention. Donald trump backers play to fears of america on opening night of convention read more \"barack and i were raised with so many of the same values, that you work hard for what you want in life, that your word is your bond and you do what you say you're going to do, \" obama told the gathering of democrats in 2008. \"and barack and i set out to build lives guided by these values, and pass them on to the next generation. Because we want our children – and all children in this nation – to know that the only limit to the height of your achievements is the reach of your dreams and your willingness to work for them. \" trump told gop delegates on monday: \"from a young age, my parents impressed on me the values that you work hard for what you want in life, that your word is your bond and you"
         ],
         "raw_document": [
             "( cnn ) donald trump's presidential campaign doesn't plan to fire anybody or to take disciplinary action over the controversy surrounding melania trump's plagiarism of michelle obama, cnn learned tuesday. Trump's campaign hopes to simply move on without further addressing questions about the speech. Aides to the presumptive republican nominee are scrambling to move past the imbroglio after a passage in melania trump's speech monday night, which headlined the republican national convention's opening night, closely mirrored a portion of michelle obama's address to the democratic national convention in 2008. It's set off infighting and finger-pointing within trump's campaign, and two sources told cnn that donald trump himself is furious about it. Trump's aides chalked the controversy up to media bias and blamed hillary clinton's campaign -- even though the apparent plagiarism was discovered by an independent journalist and had gone viral before clinton's allies and democrats even weighed in. In an interview with cnn's chris cuomo on \" new day, \" campaign chairman paul manafort denied the allegations of plagiarism. \" to think that she would do something like that knowing how scrutinized her speech was going to be last night is",
@@ -2679,7 +2665,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     }
 ]

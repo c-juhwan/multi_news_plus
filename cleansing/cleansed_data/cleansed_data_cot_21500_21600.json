@@ -70,7 +70,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -103,7 +103,7 @@
             "1": 0,
             "2": 5,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -160,13 +160,12 @@
     },
     {
         "idx": 21506,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Maybe it's not such a great day to live in farmville after all. Zynga's much ballyhooed ipo took a turn for the negative this morning. Though things seemed encouraging out the gate — shares opened on nasdaq a dollar above its $ 10 initial public offering price — they sank below that price after just 10 minutes, hitting a low of $ 9.48. They're currently trading around $ 9.71. This doesn't bode well for other companies anticipating an early 2012 ipo, writes lynn cowan for the wall street journal, especially when you consider that, as the dip occurred, \" major market indices were trending up. \" writing for the new york times, evelyn rusli sees a sector struggling to \" stay above water, \" noting that pandora is trading more than 30 % below its price, and this year's 42 tech ipos have seen an average 15 % drop. And though zynga is financially stronger than many of those peers, she reports that user growth is down while marketing spending is up. With facebook on deck ipo-wise, all eyes are on zynga, which will be \" a critical test for the fragile market \" over the next few months.",
         "split": "train",
         "cleansed_document": [
             "Article excerpt zynga inc. Bombed on its first day of trading friday, closing down 5 % in a signal that the appetite for new issues of fast-growing technology companies may be waning. The san francisco social-game maker's shares finished trading at $ 9.50, a day after the company priced its initial public offering at $ 10 a share. Zynga opened at about $ 11 a share on the nasdaq stock market, but fell below its ipo price within the first 10 minutes of trading. The stock performance was a stark departure from other web ipos this year such as groupon inc., linkedin corp. And zillow inc.,...",
-            "Zef nikolla/nasdaq, via reuters zynga, the online gaming company, kicked off its first day of trading with the usual fanfare. At the san francisco headquarters, decorated with huge red banners, its founder, mark pincus, rang the opening bell, flanked by his wife, ali, and the nasdaq chief, robert greifeld. Before a packed room of employees and investors, he made a \"raise the roof \" gesture in celebration of the initial public offering. \"we brought the nasdaq here, \" said mr. Pincus, 45. \"with our i.p.o., we're accelerating this mission of connecting the world through games. It's just getting bigger. \" related links sowing zynga's riches but the market debut lacked the same pomp. At the opening, zynga's shares rose a modest 10 percent, to $ 11, and then quickly pulled back. The stock closed at $ 9.50, or 5 percent below its offering price of $ 10. Zynga's weak performance reflects the broader market for i.p.o.'s. Newly public technology stocks have been buffeted by macroeconomic turmoil and jittery investors, who are skeptical about the business models. Several internet companies have stumbled below their offering prices. Pandora is more than a third off its initial price. Nexon, a giant tokyo-based gaming company, fell on its first day of trading earlier this week. When zynga filed its prospectus in july, investors had high expectations for start-ups, particularly those built on social networks. But the market soured in august amid credit pangs in europe and spikes in volatility. On the first day of trading, the 42 technology companies that went public this year jumped 20.4 percent on average, according to data from renaissance capital, the i.p.o. Advisory firm. But they have",
-            "By kenneth li in new york sirius xm is weighing up a financing offer from liberty media ahead of a deadline tomorrow to repay $ 175m in bonds in a potential transaction seen as thwarting echostar's attempt to take over the us satellite radio company,..."
+            "Zef nikolla/nasdaq, via reuters zynga, the online gaming company, kicked off its first day of trading with the usual fanfare. At the san francisco headquarters, decorated with huge red banners, its founder, mark pincus, rang the opening bell, flanked by his wife, ali, and the nasdaq chief, robert greifeld. Before a packed room of employees and investors, he made a \"raise the roof \" gesture in celebration of the initial public offering. \"we brought the nasdaq here, \" said mr. Pincus, 45. \"with our i.p.o., we're accelerating this mission of connecting the world through games. It's just getting bigger. \" related links sowing zynga's riches but the market debut lacked the same pomp. At the opening, zynga's shares rose a modest 10 percent, to $ 11, and then quickly pulled back. The stock closed at $ 9.50, or 5 percent below its offering price of $ 10. Zynga's weak performance reflects the broader market for i.p.o.'s. Newly public technology stocks have been buffeted by macroeconomic turmoil and jittery investors, who are skeptical about the business models. Several internet companies have stumbled below their offering prices. Pandora is more than a third off its initial price. Nexon, a giant tokyo-based gaming company, fell on its first day of trading earlier this week. When zynga filed its prospectus in july, investors had high expectations for start-ups, particularly those built on social networks. But the market soured in august amid credit pangs in europe and spikes in volatility. On the first day of trading, the 42 technology companies that went public this year jumped 20.4 percent on average, according to data from renaissance capital, the i.p.o. Advisory firm. But they have"
         ],
         "raw_document": [
             "Article excerpt zynga inc. Bombed on its first day of trading friday, closing down 5 % in a signal that the appetite for new issues of fast-growing technology companies may be waning. The san francisco social-game maker's shares finished trading at $ 9.50, a day after the company priced its initial public offering at $ 10 a share. Zynga opened at about $ 11 a share on the nasdaq stock market, but fell below its ipo price within the first 10 minutes of trading. The stock performance was a stark departure from other web ipos this year such as groupon inc., linkedin corp. And zillow inc.,...",
@@ -183,7 +182,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -330,12 +329,10 @@
     },
     {
         "idx": 21512,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Donald trump may have finally met his match — at least when it comes to un-presidential language — in former mexican president vicente fox. \"i declare, i ' m not going to pay for that fucking wall, \" fox told fusion this week. \"he should pay for it. He's got the money. \" cnn explains that trump's promise to build a wall along the border and make mexico pay for it has become \" a staple of his campaign. \" at rallies, supporters will even shout \" mexico \" when trump asks who is going to pay for the wall. Fox also called trump \" crazy \" multiple times, as well as \" egocentric, \" during his interview with fusion. The miami herald called it a \" scathing takedown \" of the republican frontrunner. Fox was president of mexico from 2000 to 2006. When trump responded to fox's comments, it wasn't fox's message he took issue with. \" vicente fox horribly used the f word when discussing the wall, \" trump tweeted wednesday. \" he must apologize! \" despite worry hispanic voters in the us could be taken in by \" a false prophet, \" fox told fusion he doesn't think trump will actually get elected. \" this nation is going to fail if it goes into the hands of a crazy guy, \" he said. Fox isn't the first former mexican president to take issue with trump's wall. Earlier this month, felipe calderon — mexico's leader from 2006 to 2012 — told cnbc mexico wasn't going to pay for trump's \" stupid wall, \" which he said would be \" completely useless. \" ( the pope isn't much of a fan of trump's wall either. )",
         "split": "train",
-        "cleansed_document": [
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
@@ -349,7 +346,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -406,13 +403,12 @@
     },
     {
         "idx": 21515,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Take heed, folks: there appears to be a newish std in town. It's \" newish \" because doctors have known about mycoplasma genitalium, or mg, since 1981, but researchers have now found the strongest evidence to date that it can be transmitted through sexual contact. They analyzed urine samples from 4,507 brits aged 16 to 44 and found that 1 % of those who had at least one sexual partner had mg, reports the independent. The figure rose to 5.2 % of men and 3.1 % of women who had more than four sexual partners in the previous year, per mic. Tellingly, no sign of the infection was found in the 200 or so participants who had never had sex. \" there were strong associations with risky sexual behaviors, with behavioral risk factors similar to those in other known stis, and no infections were detected in those reporting no previous sexual experience, \" the authors say. While sufferers may report genital discharge, pelvic pain, pain while urinating, and bleeding after sex in the case of women, \" over 90 % of men and more than half of women with mg had no symptoms, \" a researcher tells the guardian. The lead author notes the infection could also lead to inflammations of the urethra or cervix ( urethritis or cervicitis ), pelvic inflammatory disease, and female infertility, but further research is needed to understand the long-term effects. A sex researcher adds there's no need to freak out. Mg \" is prevented in the same ways that gonorrhea and chlamydia are: by using condoms properly and consistently, \" she says. Doctors, she adds, should keep the results in mind when patients have ailments such as urethritis or cervicitis but test negative for gonorrhea or chlamydia. ( this condom changes color near stds. )",
         "split": "train",
         "cleansed_document": [
             "Hundreds of thousands of people in britain could be carrying a newly-identified sexually transmitted infection ( sti ) that can cause urinary inflammation and vaginal bleeding. Many people never know they are carrying mycoplasma genitalium ( mg ), which was discovered in 1981, but there is growing evidence it is passed on through unprotected sex. Researchers analysed data from the national survey of sexual attitudes and lifestyles to reveal that people who have more sexual partners, do not use condoms, live in deprived areas and are aged 25-44 are most likely to test positive. Findings published in the international journal of epidemiology showed that 1 per cent of 16-44-year-olds in britain who have had sex have mg. The top 11 places where you're most likely to catch an sti + show all the top 11 places where you're most likely to catch an sti 1/11 at a friend's house 15 per cent of",
-            "A sexually transmitted infection could have infected hundreds of thousands of people in the uk, research suggests. Mycoplasma genitalium, known as mg, has very few symptoms but is now known to be passed on through sex. It is estimated to affect 1 % of 16- to 44-year-olds who report having had at least one sexual partner. Mg has previously been identified as causing discharge; testicular pain, pelvic pain and bleeding after sex in women, although most people have no symptoms at all. Scientists believe mg plays a role in pelvic inflammatory disease, infertility and ectopic pregnancy. The existence of the bacterium was first reported in the early 1980s. Nigel field, consultant clinical epidemiologist at public health england ( phe ), which worked on the study, said it had found further evidence that mg is an sti. \"mg is a bacterium that was present in around 1 % of the",
-            "Here's a fun little kernel of news to brighten up ( and/or slightly dampen ) your thursday afternoon: there's a new sexually transmitted infection in town! and it could be more common than we realize. The infection is called mycoplasma genitalium ( or mg for short ), and its symptoms may include genital discharge, pain while urinating, pelvic pain and for women, bleeding after sex. Although it was first identified back in the 1980s, according to a new report in the international journal of epidemiology, it hasn't really been epidemiologically studied at length, which means that its transmission, risk factors and prevalence have always been shrouded in a certain degree of mystery. That is, until now. According to the international journal of epidemiology report, mg is, in all likelihood, a sexually transmitted infection. The study: lead author pam sonnenberg and"
+            "A sexually transmitted infection could have infected hundreds of thousands of people in the uk, research suggests. Mycoplasma genitalium, known as mg, has very few symptoms but is now known to be passed on through sex. It is estimated to affect 1 % of 16- to 44-year-olds who report having had at least one sexual partner. Mg has previously been identified as causing discharge; testicular pain, pelvic pain and bleeding after sex in women, although most people have no symptoms at all. Scientists believe mg plays a role in pelvic inflammatory disease, infertility and ectopic pregnancy. The existence of the bacterium was first reported in the early 1980s. Nigel field, consultant clinical epidemiologist at public health england ( phe ), which worked on the study, said it had found further evidence that mg is an sti. \"mg is a bacterium that was present in around 1 % of the"
         ],
         "raw_document": [
             "Hundreds of thousands of people in britain could be carrying a newly-identified sexually transmitted infection ( sti ) that can cause urinary inflammation and vaginal bleeding. Many people never know they are carrying mycoplasma genitalium ( mg ), which was discovered in 1981, but there is growing evidence it is passed on through unprotected sex. Researchers analysed data from the national survey of sexual attitudes and lifestyles to reveal that people who have more sexual partners, do not use condoms, live in deprived areas and are aged 25-44 are most likely to test positive. Findings published in the international journal of epidemiology showed that 1 per cent of 16-44-year-olds in britain who have had sex have mg. The top 11 places where you're most likely to catch an sti + show all the top 11 places where you're most likely to catch an sti 1/11 at a friend's house 15 per cent of",
@@ -429,7 +425,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -457,7 +453,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -542,12 +538,11 @@
     },
     {
         "idx": 21520,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A government watchdog will investigate the costs of president trump's trips to mar-a-lago, as well as security at the palm beach club after a request by democrats. In a letter to sen. Elizabeth warren, one of four democratic members of congress to request an investigation, the government accountability office says it will also review the security of presidential communications, including how trump receives classified material at mar-a-lago, as well as what security measures are in place for staff members and guests, reports abc news. Democrats had issued the request last month after a report suggested trump and japanese prime minister shinzo abe had discussed north korean missile launches in front of mar-a-lago guests, per npr. \" anybody can get a membership at the club for $ 200,000, \" says rep. Elijah cummings, who questions what \" privileges \" come with the fee and if members can bring guests. Either way, politico reports it's relatively easy to get inside mar-a-lago. Guests to the palm beach gop lincoln day dinner hosted at mar-a-lago on friday, for example, needed only to buy a $ 300 ticket and weren't subject to security screening, though trump's wife and son were vacationing at the club. As well as determining if the costs of trump's mar-a-lago visits are \" fair and reasonable \" to taxpayers, the gao says it will also review whether trump has been donating profits from his hotels to the us treasury, which he promised to do. ( democrats have just introduced the mar-a-lago act. )",
         "split": "train",
         "cleansed_document": [
-            "A top government watchdog plans to review security procedures at president trump's exclusive mar-a-lago club and whether the u.s. Treasury has received payments from profits at trump's hotels, according to a letter released by congressional democrats. Interested in donald trump? add donald trump as an interest to stay up to date on the latest donald trump news, video, and analysis from abc news. Add interest in a letter to sen. Elizabeth warren, d-massachusetts, the government accountability office, a nonpartisan agency tasked with examining how the government spends taxpayer dollars, announced plans to investigate how classified information is protected when trump is off white house grounds, and whether a secure space has been established at mar-a-lago for reviewing classified materials. Warren and other democrats, including rep. Elijah cummings of maryland, and sens. Tom udall of new mexico and sheldon whitehouse of rhode island, requested a gao investigation last month after reports suggested that trump discussed national security in front of the club's dinner guests following a north korean ballistic missile test. White house press secretary sean spicer pushed back on the reports, telling reporters trump was reviewing \"logistics \" for his upcoming press conference with japanese prime minister shinzo abe, who trump hosted at the club on saturday, feb. 11. Other dinner guests posted pictures of the group reviewing documents to social media. In",
-            "Palm beach, fla. — democrats just came up with a catchy-sounding bill to force president donald trump to cough up a list of visitors to his private clubs. But there's just one problem: there are no lists yet. Story continued below on friday night, guests streamed into mar-a-lago, the president's self-proclaimed \"southern white house, \" for the annual palm beach gop lincoln day dinner. All they had to do to get into the seaside retreat, where the first lady and the president's youngest son were vacationing for spring break, was buy a $ 300 ticket. They didn't have to submit to the kinds of rigorous background checks required if they'd been entering the white house in washington. And there were no weapon screenings or bomb-sniffing dogs checking vehicles of the sort that have long been routine at public restaurants or other places where the president or first lady is present. Mar-a-lago also doesn't keep tabs on the identity of guests who come and go on a routine basis, even while the president is in residence. Club members call the front desk to give the names of their guests, including for parties held in the ballroom. But they don't have to submit details, like a middle initial or birth date or social security number, that are standard for"
+            "A top government watchdog plans to review security procedures at president trump's exclusive mar-a-lago club and whether the u.s. Treasury has received payments from profits at trump's hotels, according to a letter released by congressional democrats. Interested in donald trump? add donald trump as an interest to stay up to date on the latest donald trump news, video, and analysis from abc news. Add interest in a letter to sen. Elizabeth warren, d-massachusetts, the government accountability office, a nonpartisan agency tasked with examining how the government spends taxpayer dollars, announced plans to investigate how classified information is protected when trump is off white house grounds, and whether a secure space has been established at mar-a-lago for reviewing classified materials. Warren and other democrats, including rep. Elijah cummings of maryland, and sens. Tom udall of new mexico and sheldon whitehouse of rhode island, requested a gao investigation last month after reports suggested that trump discussed national security in front of the club's dinner guests following a north korean ballistic missile test. White house press secretary sean spicer pushed back on the reports, telling reporters trump was reviewing \"logistics \" for his upcoming press conference with japanese prime minister shinzo abe, who trump hosted at the club on saturday, feb. 11. Other dinner guests posted pictures of the group reviewing documents to social media. In"
         ],
         "raw_document": [
             "A top government watchdog plans to review security procedures at president trump's exclusive mar-a-lago club and whether the u.s. Treasury has received payments from profits at trump's hotels, according to a letter released by congressional democrats. Interested in donald trump? add donald trump as an interest to stay up to date on the latest donald trump news, video, and analysis from abc news. Add interest in a letter to sen. Elizabeth warren, d-massachusetts, the government accountability office, a nonpartisan agency tasked with examining how the government spends taxpayer dollars, announced plans to investigate how classified information is protected when trump is off white house grounds, and whether a secure space has been established at mar-a-lago for reviewing classified materials. Warren and other democrats, including rep. Elijah cummings of maryland, and sens. Tom udall of new mexico and sheldon whitehouse of rhode island, requested a gao investigation last month after reports suggested that trump discussed national security in front of the club's dinner guests following a north korean ballistic missile test. White house press secretary sean spicer pushed back on the reports, telling reporters trump was reviewing \"logistics \" for his upcoming press conference with japanese prime minister shinzo abe, who trump hosted at the club on saturday, feb. 11. Other dinner guests posted pictures of the group reviewing documents to social media. In",
@@ -562,7 +557,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -592,12 +587,11 @@
     },
     {
         "idx": 21522,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Amid tensions between vladimir putin and the west, russians have shown little serious concern about the direction their country is headed. But with the downing of the malaysia airlines plane and increasing sanctions from the us and eu, the mood appears to be shifting, the new york times reports. Russian officials \" were not anticipating the west to make radical moves, costly moves, \" says a political analyst. \" what is happening is different from what they wanted and what they expected. \" one key sanction, imposed by the us and europe together, seeks to hit russia where it really hurts by limiting its access to new sources of oil. Russia's energy resources, the times notes, are its \" economic foundation. \" among the possible effects of the sanctions: half of russia's economy is controlled by the government, the times observes, but business leaders outside that sphere are growing concerned about anti-western sentiment and its dangers to development, a putin ally recently told state news. The economy is already struggling, and the new sanctions could require the government to support firms burdened by debt, economists say, per cnbc. \" if nothing else, the pickup in investment needed to revive russia's ailing economy is starting to look ever more unlikely, \" they say in a letter to clients. Russia could hit back with an energy embargo against european countries. Foreign minister sergey lavrov, however, said this week that \" to fall into hysterics and respond to a blow with a blow is not worthy of a major country, \" the times notes. What's more, russia would be seriously hurt by the loss of revenue involved, cnbc notes, potentially leading to \" a deep recession, \" says an expert. Russia has already launched what may be a form of retaliation, reuters reports: it banned the majority of polish fruit and vegetable imports. The rest of the eu could soon face a similar ban, russia says. The country, which is the top export market for eu fruits and vegetables, says the ban is tied to health concerns. The uk is among countries facing economic fallout from the sanctions themselves, as russian borrowing from british banks is halted. The sanctions \" will affect our economy... But you can't make an omelet without breaking eggs, \" says british foreign secretary philip hammond, per sky news. Even outside the sanctions, russia's leadership may have a lot to answer for when it comes to investment, notes the economist, which figures that vladimir putin may have cost investors some $ 1 trillion. That's because investors are wary of",
         "split": "train",
         "cleansed_document": [
-            "Economic sanctions targeting russia in the wake of the downing of flight mh17 will hit the uk economy, foreign secretary philip hammond has warned. Mr hammond was speaking to sky news after europe and the us agreed new measures against vladimir putin following the disaster, which has been blamed on moscow-backed rebels in ukraine. New european union restrictions include an arms embargo, a ban on the sale of bonds and equities in european capital markets by state-owned russian banks and a ban on the sale of dual use and sensitive technologies. Four key members of the russian president's inner circle are among eight officials who are expected to face asset freezes and travel bans as part of the eu sanctions package. Russia has warned the sanctions will lead to higher energy prices and hit poland with a potentially damaging ban on fruit and vegetable imports. Bp was one of the first city firms to warn of the impact of sanctions mr hammond told sky's sunrise programme that the measures had been \" designed to maximise the impact on russia and minimise the impact on eu economies \". He said: \" it will affect our economy... But you can't make an omelette without breaking eggs, and if we want to impose economic pain on russia in order to try to encourage it to behave properly in eastern ukraine and to give access to",
-            "One trillion dollars. That may be the cost to russian investors of vladimir putin's rule. It is the equivalent of about $ 7,000 for every russian citizen. The calculation stems from the fact that investors regard russian assets with suspicion. As a result, russian stocks trade on a huge discount to much of the rest of the world, with an average price-earnings ratio ( p/e ) of just 5.2. At present, the russian market has a total value of $ 735 billion. If it traded on the same p/e as the average emerging market ( 12.5 ), it would be worth around $ 1.77 trillion. Not all of this discount is down to the actions of the russian government. But it is probably responsible for the bulk of it. Investors have been nervous about corporate governance in russia, thanks to a series of high-profile incidents such as the jailing of mikhail khodorkovsky, an oil magnate who fell out with mr putin, the expulsion of william browder, a hedge-fund manager who campaigned against corruption, and the trouble faced by oil companies such as bp and shell in dealing with local partners. All those events occurred well before russia's annexation of crimea and its backing of separatists in eastern ukraine, steps that have prompted western sanctions. Most russian citizens will not notice the problem since they do not"
+            "Economic sanctions targeting russia in the wake of the downing of flight mh17 will hit the uk economy, foreign secretary philip hammond has warned. Mr hammond was speaking to sky news after europe and the us agreed new measures against vladimir putin following the disaster, which has been blamed on moscow-backed rebels in ukraine. New european union restrictions include an arms embargo, a ban on the sale of bonds and equities in european capital markets by state-owned russian banks and a ban on the sale of dual use and sensitive technologies. Four key members of the russian president's inner circle are among eight officials who are expected to face asset freezes and travel bans as part of the eu sanctions package. Russia has warned the sanctions will lead to higher energy prices and hit poland with a potentially damaging ban on fruit and vegetable imports. Bp was one of the first city firms to warn of the impact of sanctions mr hammond told sky's sunrise programme that the measures had been \" designed to maximise the impact on russia and minimise the impact on eu economies \". He said: \" it will affect our economy... But you can't make an omelette without breaking eggs, and if we want to impose economic pain on russia in order to try to encourage it to behave properly in eastern ukraine and to give access to"
         ],
         "raw_document": [
             "Economic sanctions targeting russia in the wake of the downing of flight mh17 will hit the uk economy, foreign secretary philip hammond has warned. Mr hammond was speaking to sky news after europe and the us agreed new measures against vladimir putin following the disaster, which has been blamed on moscow-backed rebels in ukraine. New european union restrictions include an arms embargo, a ban on the sale of bonds and equities in european capital markets by state-owned russian banks and a ban on the sale of dual use and sensitive technologies. Four key members of the russian president's inner circle are among eight officials who are expected to face asset freezes and travel bans as part of the eu sanctions package. Russia has warned the sanctions will lead to higher energy prices and hit poland with a potentially damaging ban on fruit and vegetable imports. Bp was one of the first city firms to warn of the impact of sanctions mr hammond told sky's sunrise programme that the measures had been \" designed to maximise the impact on russia and minimise the impact on eu economies \". He said: \" it will affect our economy... But you can't make an omelette without breaking eggs, and if we want to impose economic pain on russia in order to try to encourage it to behave properly in eastern ukraine and to give access to",
@@ -612,7 +606,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -639,7 +633,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -754,7 +748,7 @@
             "2": 3,
             "3": 2,
             "4": 1,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -804,7 +798,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -906,7 +900,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1110,17 +1104,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 21541,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Tiger woods and wife elin nordegren may have actually spent a few hours under the same roof — albeit a roof belonging to a sex rehab halfway house. Woods is back in therapy after spending six weeks at mississippi's pine grove center, but he's moved to a private home — possibly belonging to pine grove's owner — in cave creek, ariz., for private sessions. \"elin was with him, but she's heading back to florida, \" a source tells the new york post. She returned to florida via private jet saturday night after spending a week with tiger and their two children, according to radar. During their time together — their longest since thanksgiving — they played tennis and ate dinner together at least twice, but nordegren nixed her husband's request to sit for a family portrait. Supporting tiger with phone calls during this difficult time? presidents obama and clinton, reports golf digest.",
         "split": "train",
         "cleansed_document": [
-            "Ramey after one week away with her husband and two children, tiger woods ' wife elin flew home to orlando saturday night, radaronline.com learned exclusively. Photos: elin's plane arrives in orlando the private jet carrying elin arrived in orlando from arizona at approximately 8 pm est. The week away with tiger was the most time she has spent with him since after thanksgiving when his secret serial cheating was exposed. Although she has returned to their home town, there is no indication elin plans to move back in with her husband. They have not lived together in months, although she did put the divorce on hold. Photos: elin takes daughter shopping as radaronline.com exclusively revealed, tiger had pre-planned this week away with his family prior to his televised apology to them and his fans. The couple played tennis together before that apology and had dinner together two nights in a row, but elin refused to sit for an official family portrait, something tiger lobbied hard for. Elin refused to sit for family portrait before tiger's apology tiger previously spent six weeks in the gentle path program for sexual addiction at the pine grove behavioral health center in hattiesburg, mississippi. Exclusive: tiger woods in rehab",
-            "It was surreptitiously snapped from a distance: dark, grainy and out of focus, the subject shrouded in a hooded sweatshirt. Still, the photo of tiger woods at a hattiesburg, miss., rehabilitation clinic in late january offered clarity. Despite the lack of official confirmation -- and the bizarre photo days later of a person dressed to resemble him -- there was no doubt it was woods. It was surreal to see him again some 50 days after his world imploded, but after a pause, the photo also signified something hopeful. Woods had not been caught in the type of escapade that salacious elements of the blogosphere had connected him to on a nearly daily basis. Nor had he stayed ensconced behind the walls of one of his homes, paralyzed by embarrassment. Woods had submitted to humbling psychological treatment in an effort to save his marriage and to gain an understanding of the demons that drove him to serial infidelity. Though he surely understands that many will never forgive him, he knows moving on means finding a way to forgive himself. Those close to woods said his mantra going into therapy and continuing forward is \" whatever it takes, \" and that he is determined to follow the guidance of experts as rigorously as he did his doctors during his eight-month rehabilitation from knee surgery in 2008. After an initial evaluation period in january, woods entered a six-week program called gentle path, euphemistically named considering it includes a nothing-held-back disclosure day with a spouse"
+            "Ramey after one week away with her husband and two children, tiger woods ' wife elin flew home to orlando saturday night, radaronline.com learned exclusively. Photos: elin's plane arrives in orlando the private jet carrying elin arrived in orlando from arizona at approximately 8 pm est. The week away with tiger was the most time she has spent with him since after thanksgiving when his secret serial cheating was exposed. Although she has returned to their home town, there is no indication elin plans to move back in with her husband. They have not lived together in months, although she did put the divorce on hold. Photos: elin takes daughter shopping as radaronline.com exclusively revealed, tiger had pre-planned this week away with his family prior to his televised apology to them and his fans. The couple played tennis together before that apology and had dinner together two nights in a row, but elin refused to sit for an official family portrait, something tiger lobbied hard for. Elin refused to sit for family portrait before tiger's apology tiger previously spent six weeks in the gentle path program for sexual addiction at the pine grove behavioral health center in hattiesburg, mississippi. Exclusive: tiger woods in rehab"
         ],
         "raw_document": [
             "Ramey after one week away with her husband and two children, tiger woods ' wife elin flew home to orlando saturday night, radaronline.com learned exclusively. Photos: elin's plane arrives in orlando the private jet carrying elin arrived in orlando from arizona at approximately 8 pm est. The week away with tiger was the most time she has spent with him since after thanksgiving when his secret serial cheating was exposed. Although she has returned to their home town, there is no indication elin plans to move back in with her husband. They have not lived together in months, although she did put the divorce on hold. Photos: elin takes daughter shopping as radaronline.com exclusively revealed, tiger had pre-planned this week away with his family prior to his televised apology to them and his fans. The couple played tennis together before that apology and had dinner together two nights in a row, but elin refused to sit for an official family portrait, something tiger lobbied hard for. Elin refused to sit for family portrait before tiger's apology tiger previously spent six weeks in the gentle path program for sexual addiction at the pine grove behavioral health center in hattiesburg, mississippi. Exclusive: tiger woods in rehab",
@@ -1135,7 +1128,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1190,12 +1183,11 @@
     },
     {
         "idx": 21544,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "More women are riding high on the hog than ever — literally. A survey by the motorcycle industry council found that the ladies make up 14 % of us motorcycle owners, and the ones who ride are younger, more educated, and more into motorcycle safety than their male counterparts, the los angeles times reports. That's a significant jump from the 8 % reported in 1998, per motousa. Females'reasons for revving up? for \" fun and recreation, \" a \" sense of freedom, \" and because they \" enjoy outdoors/nature \" were what respondents revealed in the survey, taken online by 48,000 households. \" what we're seeing is motorcycling is for anyone, male or female, \" renee tuzee, mic's director of marketing, tells the times. The millennial generation boasts the highest percentage of women bike owners with nearly 18 %, while generation x females make up 17 % of all bike owners in that segment, and baby boomer females 9 % of that segment. The median age for a female rider is 39 ( for men it's 48 ), though tuzee, herself a rider, tells the paper that she and other women riders often gravitate toward the bike and relish their \" freedom \" when their kids leave home. As for the types of bikes women prefer: 34 % tend toward cruisers, 33 % prefer scooters, and just 10 % would pick a sport bike, motousa notes. And compared to the 42 % of male riders who take motorcycle safety courses, 60 % of women do. \" it's encouraging that we're seeing more women among the riders who are entering the sport, \" the chair of powerlily, a network for professional women into powersports, tells motousa. \" motorcycling is … being recognized by younger generations and non-traditional customer segments. \" ( male or female, don't text while you're cruising, or you could meet this fate. )",
         "split": "train",
         "cleansed_document": [
-            "December 18, 2015 courtesy of motorcycle industry council female motorcycle ownership is at an all-time high according to the latest data from the motorcycle industry council. The mic's latest motorcycle owner survey found that women account for 14 percent of all u.s. Motorcycle owners, well up from the 8 percent reported in 1998. \"women continue to embrace motorcycling like never before, \" said sarah schilke, national marketing manager of bmw motorrad usa and chair of powerlily, a group consisting of female motorcycle industry professionals. \"of the 9.2 million owners, more of them are women than we've ever recorded. In fact, the number of female owners better than doubled from 2003 to 2014. And, among the more than 30 million americans who swung a leg over a motorcycle and rode at least one time in 2014, a quarter of these riders were women. \" among younger generations of owners, the percentage of women is even higher. Slightly more than 17 percent of gen x owners, and 17.6 percent of gen y owners, are women. Among boomer owners, women make up 9 percent. \"it's encouraging that we're seeing more women among the riders who are entering the sport, \" schilke said. \"motorcycling is for anyone and that's being recognized by younger generations and non-traditional customer segments. \" the owner survey also revealed what type of bikes women prefer. Cruisers are the choice of 34 percent of female riders. Scooters rank a close second at 33 percent, followed by sport bikes at 10 percent. In the survey, of some 48,000 american households, women were also asked to share their top three reasons for riding motorcycles. They answered \"fun and recreation, \" followed by \"sense of freedom \" and \"enjoy outdoors/nature. \" when it comes to purchasing a motorcycle, women rate \"fuel economy \" and \"test rides \" as the most important decision-making factors. The study revealed that female riders are safety-conscious. While 60 percent of women took a motorcycle safety course, only 42 percent of men had any formal",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "December 18, 2015 courtesy of motorcycle industry council female motorcycle ownership is at an all-time high according to the latest data from the motorcycle industry council. The mic's latest motorcycle owner survey found that women account for 14 percent of all u.s. Motorcycle owners, well up from the 8 percent reported in 1998. \"women continue to embrace motorcycling like never before, \" said sarah schilke, national marketing manager of bmw motorrad usa and chair of powerlily, a group consisting of female motorcycle industry professionals. \"of the 9.2 million owners, more of them are women than we've ever recorded. In fact, the number of female owners better than doubled from 2003 to 2014. And, among the more than 30 million americans who swung a leg over a motorcycle and rode at least one time in 2014, a quarter of these riders were women. \" among younger generations of owners, the percentage of women is even higher. Slightly more than 17 percent of gen x owners, and 17.6 percent of gen y owners, are women. Among boomer owners, women make up 9 percent. \"it's encouraging that we're seeing more women among the riders who are entering the sport, \" schilke said. \"motorcycling is for anyone and that's being recognized by younger generations and non-traditional customer segments. \" the owner survey also revealed what type of bikes women prefer. Cruisers are the choice of 34 percent of female riders. Scooters rank a close second at 33 percent, followed by sport bikes at 10 percent. In the survey, of some 48,000 american households, women were also asked to share their top three reasons for riding motorcycles. They answered \"fun and recreation, \" followed by \"sense of freedom \" and \"enjoy outdoors/nature. \" when it comes to purchasing a motorcycle, women rate \"fuel economy \" and \"test rides \" as the most important decision-making factors. The study revealed that female riders are safety-conscious. While 60 percent of women took a motorcycle safety course, only 42 percent of men had any formal"
         ],
         "raw_document": [
             "December 18, 2015 courtesy of motorcycle industry council female motorcycle ownership is at an all-time high according to the latest data from the motorcycle industry council. The mic's latest motorcycle owner survey found that women account for 14 percent of all u.s. Motorcycle owners, well up from the 8 percent reported in 1998. \"women continue to embrace motorcycling like never before, \" said sarah schilke, national marketing manager of bmw motorrad usa and chair of powerlily, a group consisting of female motorcycle industry professionals. \"of the 9.2 million owners, more of them are women than we've ever recorded. In fact, the number of female owners better than doubled from 2003 to 2014. And, among the more than 30 million americans who swung a leg over a motorcycle and rode at least one time in 2014, a quarter of these riders were women. \" among younger generations of owners, the percentage of women is even higher. Slightly more than 17 percent of gen x owners, and 17.6 percent of gen y owners, are women. Among boomer owners, women make up 9 percent. \"it's encouraging that we're seeing more women among the riders who are entering the sport, \" schilke said. \"motorcycling is for anyone and that's being recognized by younger generations and non-traditional customer segments. \" the owner survey also revealed what type of bikes women prefer. Cruisers are the choice of 34 percent of female riders. Scooters rank a close second at 33 percent, followed by sport bikes at 10 percent. In the survey, of some 48,000 american households, women were also asked to share their top three reasons for riding motorcycles. They answered \"fun and recreation, \" followed by \"sense of freedom \" and \"enjoy outdoors/nature. \" when it comes to purchasing a motorcycle, women rate \"fuel economy \" and \"test rides \" as the most important decision-making factors. The study revealed that female riders are safety-conscious. While 60 percent of women took a motorcycle safety course, only 42 percent of men had any formal",
@@ -1210,7 +1202,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1260,7 +1252,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1285,7 +1277,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1415,7 +1407,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1580,13 +1572,12 @@
     },
     {
         "idx": 21559,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Frederick roy miller had been fighting for custody of 3-year-old daughter laila since she was six months old. But the maryland state medical examiner says he stabbed and shot the girl at some point during a police chase and gun battle with officers in maryland on saturday, the washington post reports. Police gave chase after finding laila's grandfather and great-grandmother shot, allegedly at miller's hand ( they are now in critical condition ) in a residence, wjla reports. Miller, 38, allegedly took off from the home in a nissan with laila as a passenger. Police say miller stopped twice to exchange shots before he was killed. Police then found laila in the car with injuries to her upper body; she later died. The girl's mother was later found unharmed. Neighbors say she and miller had been fighting over their daughter since 2011; the mother had custody and miller was given visitation rights that were then demoted to supervised visits, the post reports. Relatives suggest a financial disagreement over child support and disability payments may have triggered saturday's incident, but at least one neighbor doesn't believe miller — a disabled and unemployed marine veteran — could have harmed his daughter. Six officers involved in the shootout are now on administrative leave, nbc reports.",
         "split": "train",
         "cleansed_document": [
             "Temple hills, md. ( wjla ) - a 3-year-old girl is dead after a man believed to have shot two adults in fort washington led police on a chase saturday afternoon, stopping twice and exchanging gunfire with officers before being shot to death, according to prince george's county police. Continue reading abc 7 news at 11 abc 7 news at 6: 30 police chase and shootout in prince george's count the bullet-riddled car of a suspect who fled from prince george's county police in fort washington before being shot to death in a shootout in temple hills. ( photo: alex brauer/wjla ) after the man was killed, police found the 3-year-old girl in his car. She was taken to a hospital with injuries to the upper body and died later, police say. On sunday, police identified the man as frederick roy miller, 38, of landover",
-            "A neighbor, charmaine rawlinson, drops a note and flowers in front of the victims ' house on monday in camp springs. ( yue wu/the washington post ) a landover, md., man who engaged in a saturday afternoon shootout with police on branch avenue, with his 3-year-old daughter beside him, appears to have stabbed and shot the girl before he was killed by officers, prince george's county officials said sunday. Police identified the man as frederick roy miller, 38. Court records identify his daughter, who was a passenger in the car her father drove while firing at police, as laila miller. The chase began saturday afternoon after miller allegedly shot laila's maternal grandfather and great-grandmother at a home in camp springs. Both were hospitalized in critical condition sunday. Police initially said they were not sure whether officers knew the girl was in the car when they fired at",
-            "Police and community leaders are calling for family unity following an increase in domestic violence cases in prince george's county. ( published monday, aug. 18, 2014 ) police and community leaders are calling for family unity following an increase in domestic violence cases in prince george's county. The most recent case happened over the weekend when a man killed his 3-year-old daughter and wounded her relatives before he was fatally shot by police. The little girl is the 13th person to die at the hands of domestic violence in the county this year. Angela alsobrooks, the state's attorney for prince george's county, joined faith and community leaders monday morning to call for an end to family violence. Prince george's county police will also hold a news conference monday afternoon. Man kills daughter, dies in gun battle prince george's county police said a man"
+            "A neighbor, charmaine rawlinson, drops a note and flowers in front of the victims ' house on monday in camp springs. ( yue wu/the washington post ) a landover, md., man who engaged in a saturday afternoon shootout with police on branch avenue, with his 3-year-old daughter beside him, appears to have stabbed and shot the girl before he was killed by officers, prince george's county officials said sunday. Police identified the man as frederick roy miller, 38. Court records identify his daughter, who was a passenger in the car her father drove while firing at police, as laila miller. The chase began saturday afternoon after miller allegedly shot laila's maternal grandfather and great-grandmother at a home in camp springs. Both were hospitalized in critical condition sunday. Police initially said they were not sure whether officers knew the girl was in the car when they fired at"
         ],
         "raw_document": [
             "Temple hills, md. ( wjla ) - a 3-year-old girl is dead after a man believed to have shot two adults in fort washington led police on a chase saturday afternoon, stopping twice and exchanging gunfire with officers before being shot to death, according to prince george's county police. Continue reading abc 7 news at 11 abc 7 news at 6: 30 police chase and shootout in prince george's count the bullet-riddled car of a suspect who fled from prince george's county police in fort washington before being shot to death in a shootout in temple hills. ( photo: alex brauer/wjla ) after the man was killed, police found the 3-year-old girl in his car. She was taken to a hospital with injuries to the upper body and died later, police say. On sunday, police identified the man as frederick roy miller, 38, of landover",
@@ -1603,7 +1594,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1685,12 +1676,11 @@
     },
     {
         "idx": 21563,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "After years of uncertainty, new dna tests have authenticated bones unearthed decades ago as those of the last russian tsar and his family. Per phys.org, the analysis ordered by the russian orthodox church could eventually mean the remains of nicholas ii and his family will finally be given their full rites 100 years after they were murdered by the bolsheviks in 1918. The church investigative committee wrote in its findings that \" the remains found belonged to the former emperor nicholas ii, his family members, and members of their entourage. \" in order to come to the conclusion, investigators reportedly had to first exhume the remains of nicholas ' father and test his dna in order to prove the familial link. The investigation concluded that the bones believed to be those of nicholas ii were, indeed, those of the son of alexander iii. The orthodox church has expressed satisfaction with how the investigation has been conducted and church authorities say they ' ll take the findings into consideration. As the week notes, the remains of nicholas ii, his wife alexandra, and three of their children have been interred in the family crypt in st. Petersburg since 1998. The bones of his children alexei and maria were not discovered until 2007 and remain apart from the rest of the family pending verification, which has also been ordered by the church. The family was rounded up on the night of july 16, 1918, in the home where they were imprisoned by bolshevik revolutionaries after vladimir lenin seized power that same year, ending the 300-year romanov dynasty to which nicholas and his family belonged. As the story goes, they were mercilessly shot execution-style before their bodies were hastily buried outside of town.",
         "split": "train",
         "cleansed_document": [
-            "An orthodox icon of the last russian tsar and his family in a cathedral built on the exact place where the bolsheviks executed them fresh genetic tests on bones of russia's last tsar and his family murdered a century ago have confirmed their authenticity, investigators said monday. The tests could be a step towards the russian orthodox church finally recognising the bones and burying them with full rites. Genetic tests ordered by the church — which disputed earlier results — \" confirmed the remains found belonged to the former emperor nicholas ii, his family members and members of their entourage, \" said the investigative committee, which probes serious crime and has been roped in to resolve the long-running debate. The tests involved exhuming nicholas's father alexander iii, proving \" they are father and son, \" investigators said. The orthodox church said it would consider the findings and praised the way the investigation was going. The bolsheviks shot the abdicated tsar, his german-born wife and their five children along with their servants and doctor on the night from july 16 to 17, 1918, as they were living under guard in the urals city of sverdlovsk, now yekaterinburg. The killers then hastily buried the remains, first discovered in 1979. The bones of nicholas, his wife and three of their children were interred in saint petersburg in 1998 but the orthodox",
-            "It is exactly 100 years ago today that tsar nicholas ii and the romanov family were murdered. Here is everything you need to know about the killings that brought an end to russia's three-century-old romanov dynasty: what led up to the murders? the disastrous outcome of the russo-japanese war led to the russian revolution of 1905. This ended only after tsar nicholas approved an assembly, dubbed the duma, and promised constitutional reform. However, the tsar soon retracted these promises and repeatedly dissolved the duma when it opposed him. In 1914, nicholas led his country into another war - world war i - and public dissent for him grew. In march 1917, revolution finally broke out on the streets, and nicholas was forced to give up his throne. The radical socialist bolsheviks led by vladimir lenin seized power in russia from the provisional government. Who killed the tsar? civil war eventually broke out in 1918 and the anti-bolshevik group - the whites - advanced on nicholas's family, who had been imprisoned in yekaterinburg. Local authorities were ordered to prevent a rescue of the romanovs and, after a secret meeting of the yekaterinburg soviet, a death sentence was placed on the imperial family. Commandant yakov yurovsky was charged with organising the execution. How did the family die? late on 16 july 1918, nicholas, his"
+            "An orthodox icon of the last russian tsar and his family in a cathedral built on the exact place where the bolsheviks executed them fresh genetic tests on bones of russia's last tsar and his family murdered a century ago have confirmed their authenticity, investigators said monday. The tests could be a step towards the russian orthodox church finally recognising the bones and burying them with full rites. Genetic tests ordered by the church — which disputed earlier results — \" confirmed the remains found belonged to the former emperor nicholas ii, his family members and members of their entourage, \" said the investigative committee, which probes serious crime and has been roped in to resolve the long-running debate. The tests involved exhuming nicholas's father alexander iii, proving \" they are father and son, \" investigators said. The orthodox church said it would consider the findings and praised the way the investigation was going. The bolsheviks shot the abdicated tsar, his german-born wife and their five children along with their servants and doctor on the night from july 16 to 17, 1918, as they were living under guard in the urals city of sverdlovsk, now yekaterinburg. The killers then hastily buried the remains, first discovered in 1979. The bones of nicholas, his wife and three of their children were interred in saint petersburg in 1998 but the orthodox"
         ],
         "raw_document": [
             "An orthodox icon of the last russian tsar and his family in a cathedral built on the exact place where the bolsheviks executed them fresh genetic tests on bones of russia's last tsar and his family murdered a century ago have confirmed their authenticity, investigators said monday. The tests could be a step towards the russian orthodox church finally recognising the bones and burying them with full rites. Genetic tests ordered by the church — which disputed earlier results — \" confirmed the remains found belonged to the former emperor nicholas ii, his family members and members of their entourage, \" said the investigative committee, which probes serious crime and has been roped in to resolve the long-running debate. The tests involved exhuming nicholas's father alexander iii, proving \" they are father and son, \" investigators said. The orthodox church said it would consider the findings and praised the way the investigation was going. The bolsheviks shot the abdicated tsar, his german-born wife and their five children along with their servants and doctor on the night from july 16 to 17, 1918, as they were living under guard in the urals city of sverdlovsk, now yekaterinburg. The killers then hastily buried the remains, first discovered in 1979. The bones of nicholas, his wife and three of their children were interred in saint petersburg in 1998 but the orthodox",
@@ -1705,7 +1695,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1795,7 +1785,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1874,12 +1864,11 @@
     },
     {
         "idx": 21570,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A britney spears las vegas residency has been rumored since january, and now the las vegas sun reports the deal will be announced tomorrow. She's expected to be doing 90-minute shows at planet hollywod's ph live on alternating weekends; tmz reports she ' ll be doing a total of 48 shows per year for two years — and earning $ 310,000 per show, for a total of almost $ 30 million by the time she's done. Organizers are reportedly planning a more intimate, \" club-like \" vibe for the show, as opposed to a more typical vegas production. Brit will reportedly start in december.",
         "split": "train",
         "cleansed_document": [
-            "It's one week until britney spears ' official las vegas residency announcement tom donoghue/donoghuephotography.com this time next week — tuesday, sept. 17 — we will finally know officially that pop princess britney spears will start a two-year residency of 60 alternating-weekend, 90-minute spectaculars at ph live in planet hollywood. Naturally, caesars entertainment execs and britney's management and record companies have wrapped the week-away announcement in secrecy to get maximum promotional coverage out of the reveal. But for vegas deluxe readers, it will all be a confirmation of what we first and exclusively reported jan. 10 and followed up on feb. 8. Mystery and many unanswered questions, however, still surround next tuesday's timetable: • will britney be in new york early morning and then fly directly to las vegas for the afternoon's huge promotional stunt being planned here? • will britney satellite a live early morning tv feed from las vegas? • just how far into the desert surrounding las vegas might we have to travel to witness the britney publicity exploits? britney herself fueled the biggest question: is she already here in total secrecy? \"it's hot out here, people. Gonna get my tan on in the desert in between shots on the work bitch set today, \" she tweeted sunday afternoon. Trying to break through all of the top-secret plans for next tuesday is almost an impossibility, but with the help of some crystal-ball predictions, background off-the-record insiders, educated guesses and my own hunches, we've learned the following: • her own self-imposed countdown on britneyspears.com comes to an end on sept. 17, confirming that big surprises are definitely in store that day. • her website will show ticketing, seat preferences and event info that day. • britney will appear live on abc's \"good morning america. \" she ' ll reveal her new eighth studio album with producer and songwriters will.i.am of the black eyed peas, sia, naughty boy, charlie xcx, madonna's producer william orbit and a reteaming with danja from her album",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "It's one week until britney spears ' official las vegas residency announcement tom donoghue/donoghuephotography.com this time next week — tuesday, sept. 17 — we will finally know officially that pop princess britney spears will start a two-year residency of 60 alternating-weekend, 90-minute spectaculars at ph live in planet hollywood. Naturally, caesars entertainment execs and britney's management and record companies have wrapped the week-away announcement in secrecy to get maximum promotional coverage out of the reveal. But for vegas deluxe readers, it will all be a confirmation of what we first and exclusively reported jan. 10 and followed up on feb. 8. Mystery and many unanswered questions, however, still surround next tuesday's timetable: • will britney be in new york early morning and then fly directly to las vegas for the afternoon's huge promotional stunt being planned here? • will britney satellite a live early morning tv feed from las vegas? • just how far into the desert surrounding las vegas might we have to travel to witness the britney publicity exploits? britney herself fueled the biggest question: is she already here in total secrecy? \"it's hot out here, people. Gonna get my tan on in the desert in between shots on the work bitch set today, \" she tweeted sunday afternoon. Trying to break through all of the top-secret plans for next tuesday is almost an impossibility, but with the help of some crystal-ball predictions, background off-the-record insiders, educated guesses and my own hunches, we've learned the following: • her own self-imposed countdown on britneyspears.com comes to an end on sept. 17, confirming that big surprises are definitely in store that day. • her website will show ticketing, seat preferences and event info that day. • britney will appear live on abc's \"good morning america. \" she ' ll reveal her new eighth studio album with producer and songwriters will.i.am of the black eyed peas, sia, naughty boy, charlie xcx, madonna's producer william orbit and a reteaming with danja from her album"
         ],
         "raw_document": [
             "It's one week until britney spears ' official las vegas residency announcement tom donoghue/donoghuephotography.com this time next week — tuesday, sept. 17 — we will finally know officially that pop princess britney spears will start a two-year residency of 60 alternating-weekend, 90-minute spectaculars at ph live in planet hollywood. Naturally, caesars entertainment execs and britney's management and record companies have wrapped the week-away announcement in secrecy to get maximum promotional coverage out of the reveal. But for vegas deluxe readers, it will all be a confirmation of what we first and exclusively reported jan. 10 and followed up on feb. 8. Mystery and many unanswered questions, however, still surround next tuesday's timetable: • will britney be in new york early morning and then fly directly to las vegas for the afternoon's huge promotional stunt being planned here? • will britney satellite a live early morning tv feed from las vegas? • just how far into the desert surrounding las vegas might we have to travel to witness the britney publicity exploits? britney herself fueled the biggest question: is she already here in total secrecy? \"it's hot out here, people. Gonna get my tan on in the desert in between shots on the work bitch set today, \" she tweeted sunday afternoon. Trying to break through all of the top-secret plans for next tuesday is almost an impossibility, but with the help of some crystal-ball predictions, background off-the-record insiders, educated guesses and my own hunches, we've learned the following: • her own self-imposed countdown on britneyspears.com comes to an end on sept. 17, confirming that big surprises are definitely in store that day. • her website will show ticketing, seat preferences and event info that day. • britney will appear live on abc's \"good morning america. \" she ' ll reveal her new eighth studio album with producer and songwriters will.i.am of the black eyed peas, sia, naughty boy, charlie xcx, madonna's producer william orbit and a reteaming with danja from her album",
@@ -1894,7 +1883,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1919,7 +1908,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1968,17 +1957,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 21574,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Bernie sanders ' populist message has him surging in the polls, but his vision comes at a price: $ 18 trillion over a decade, to be specific, according to the wall street journal. The newspaper crunched the numbers on his various proposals to arrive at that eye-popping total, one that would amount to the \" largest peacetime expansion of government in modern american history, \" writes reporter laura meckler. The biggest chunk of the total, about $ 15 trillion, is associated with sanders ' plan to expand medicare to all americans. Other big-ticket items include $ 1 trillion in spending on roads, bridges, and other infrastructure projects, and $ 750 billion for tuition-free public colleges. ( update: a washington post analysis of the journal story makes the case that the $ 18 trillion figure is grossly misleading. For one thing, that $ 15 trillion estimate for health care reform is based not on sanders ' figures but on the cost of a similar bill currently in congress. ) still, the journal finds that it's not just conservatives wary of sanders ' initiatives. \" we are not a country that has limitless resources, \" says jim kessler of the democratic think tank third way. \" you need to tamp on the brakes somewhere, but he doesn't. \" to help pay for it, sanders has so far pitched tax increases, mostly on the wealthy, that would bring in $ 6.5 trillion over a decade. More tax proposals on the way. His \" agenda does cost money, \" acknowledges sanders ' policy director. But \" if you look at the problems that are out there, it's very reasonable. \" along those lines, the post adds that \" while sanders does want to spend significant amounts of money, almost all of it is on things we're already paying for; he just wants to change how we pay for them. \" a blogger at the atlanta journal-constitution has a different mindset, writing that despite all the attention paid to donald trump, the journal story shows that sanders is \" the most radical candidate \" in the race.",
         "split": "train",
         "cleansed_document": [
-            "Consider this a reminder that, despite all the talk about donald trump's brashness, the most radical candidate for president is the man who has spent this summer cutting into hillary clinton's lead on the democratic side. From the wall street journal: \"sen. Bernie sanders, whose liberal call to action has propelled his long-shot presidential campaign, is proposing an array of new programs that would amount to the largest peacetime expansion of government in modern american history. \"in all, he backs at least $ 18 trillion in new spending over a decade, according to a tally by the wall street journal, a sum that alarms conservatives and gives even many democrats pause. Mr. Sanders sees the money as going to essential government services at a time of increasing strain on the middle class. \"his agenda includes an estimated $ 15 trillion for a government-run health-care program that covers every american, plus large sums to rebuild roads and bridges, expand social security and make tuition free at public colleges. \"to pay for it, mr. Sanders, a vermont independent running for the democratic nomination, has so far detailed tax increases that could bring in as much as $ 6.5 trillion over 10 years, according to his staff. \" to put that $ 18 trillion figure in context, the journal reports it would represent an increase in federal spending",
-            "Here is the full speech made by democratic presidential candidate bernie sanders at liberty university in virginia on september 14, 2015. ( liberty university ) the big policy headline today comes from the wall street journal, which delivers this alarming message: price tag of bernie sanders ' proposals: $ 18 trillion holy cow! he must be advocating for some crazy stuff that will bankrupt america! but is that really an accurate picture of what sanders is proposing? and is this the kind of number we should be frightened of? the answer isn't quite so dramatic: while sanders does want to spend significant amounts of money, almost all of it is on things we're already paying for; he just wants to change how we pay for them. In some ways it's by spreading out a cost currently borne by a limited number of people to all taxpayers. His plan for free public college would do this: right now, it's paid for by students and their families, while under sanders ' plan we'd all pay for it in the same way we all pay for parks or the military or food safety. But the bulk of what sanders wants to do is in the first category: to have us pay through taxes for things we're already paying for in other ways"
+            "Consider this a reminder that, despite all the talk about donald trump's brashness, the most radical candidate for president is the man who has spent this summer cutting into hillary clinton's lead on the democratic side. From the wall street journal: \"sen. Bernie sanders, whose liberal call to action has propelled his long-shot presidential campaign, is proposing an array of new programs that would amount to the largest peacetime expansion of government in modern american history. \"in all, he backs at least $ 18 trillion in new spending over a decade, according to a tally by the wall street journal, a sum that alarms conservatives and gives even many democrats pause. Mr. Sanders sees the money as going to essential government services at a time of increasing strain on the middle class. \"his agenda includes an estimated $ 15 trillion for a government-run health-care program that covers every american, plus large sums to rebuild roads and bridges, expand social security and make tuition free at public colleges. \"to pay for it, mr. Sanders, a vermont independent running for the democratic nomination, has so far detailed tax increases that could bring in as much as $ 6.5 trillion over 10 years, according to his staff. \" to put that $ 18 trillion figure in context, the journal reports it would represent an increase in federal spending"
         ],
         "raw_document": [
             "Consider this a reminder that, despite all the talk about donald trump's brashness, the most radical candidate for president is the man who has spent this summer cutting into hillary clinton's lead on the democratic side. From the wall street journal: \"sen. Bernie sanders, whose liberal call to action has propelled his long-shot presidential campaign, is proposing an array of new programs that would amount to the largest peacetime expansion of government in modern american history. \"in all, he backs at least $ 18 trillion in new spending over a decade, according to a tally by the wall street journal, a sum that alarms conservatives and gives even many democrats pause. Mr. Sanders sees the money as going to essential government services at a time of increasing strain on the middle class. \"his agenda includes an estimated $ 15 trillion for a government-run health-care program that covers every american, plus large sums to rebuild roads and bridges, expand social security and make tuition free at public colleges. \"to pay for it, mr. Sanders, a vermont independent running for the democratic nomination, has so far detailed tax increases that could bring in as much as $ 6.5 trillion over 10 years, according to his staff. \" to put that $ 18 trillion figure in context, the journal reports it would represent an increase in federal spending",
@@ -1993,7 +1981,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2154,7 +2142,7 @@
         "vote_count": {
             "0": 1,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2187,7 +2175,7 @@
             "1": 1,
             "2": 2,
             "3": 1,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -2236,7 +2224,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2333,13 +2321,12 @@
     },
     {
         "idx": 21587,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Bigger is no longer better, at least when it comes to the extinction threat facing the animals who call our planet's oceans home. In a study published in science on wednesday, stanford researchers reveal what a press release calls an \" unprecedented pattern of extinction \": large-bodied marine animals, not smaller, are the ones now more vulnerable to extinction, and we're likely to blame for throwing the system into reverse. \" for every factor of 10 increase in body mass, the odds of being threatened by extinction go up by a factor of 13 or so, \" says co-author jonathan payne. The researchers looked at the interplay between extinction rates and four traits for 2,497 mollusks and marine vertebrates genera: its body size, sea floor vs. Open water living, predator vs. Not, and swimmer vs. Stationary. The los angeles times explains those relationships were examined over five mass extinction events over the past 445 million years; in essentially all of that time, size either wasn't a factor or smaller animals were a bit more likely to go extinct. But in the last 500 years comes the unprecedented shift: size is the now the leading factor, and significantly so. ( gizmodo reports that previously, the biggest factor was habitat, with those in open waters facing the greater threat. ) as for what's behind the reversal, the researchers have a hunch: \" after looking at the fossil record and then looking at fisheries studies, we can't think of anything but human hunting that might be the cause, \" says coauthor noel heim. The effects could be profound: \" a larger clam will mix more sediments than a smaller one, \" says heim, who recommends humans intervene to reverse the trend.",
         "split": "train",
         "cleansed_document": [
             "An unprecedented pattern of extinction in the oceans today that selectively targets large-bodied animals over smaller creatures is likely driven by human fishing, according to a new stanford-led study. Go to the web site to view the video. Mark hanlon stanford earth professor jon payne puts modern extinction in context by comparing them with earth's five previous mass extinctions. \"we've found that extinction threat in the modern oceans is very strongly associated with larger body size, \" said jonathan payne, a paleobiologist at stanford's school of earth, energy &amp; environmental sciences. \"this is most likely due to people targeting larger species for consumption first. \" in a new study, to be published in the sept. 16 issue of the journal science, payne and his colleagues examined the association between extinction threat level and ecological traits such as body size for two major groups of marine animals – mollusks and vertebrates – over the past 500 years and compared it with the ancient past, stretching as far back as 445 million years ago and with a particular emphasis on the most recent 66 million years. \"we used the fossil record to show,",
-            "The sixth mass extinction — the one that seven billion humans are doing their darnedest to trigger at this very moment — is shaping up to be like nothing our planet has ever seen. That's the conclusion of a sweeping new analysis, which compared marine fossil records from earth's five previous mass extinction events to what's happening in the oceans right now. \"there is no past event that looks biologically like what's happening today, \" lead study author jonathan payne, of stanford university, told gizmodo. Unlike the past, payne said, \"processes like warming and ocean acidification are not the dominant cause of threat in the modern ocean. \" advertisement instead, the dominant threat is people. It's the nets, harpoons, and trawlers that are systematically emptying the oceans of fish and other marine life forms. Whereas the mass extinctions of the past tended to target organisms in certain environments, the sixth mass extinction is poised to hit the biggest animals the hardest. And that could have have profound implications for how our planet's future unfolds. A paleontologist by training, payne and",
-            "The authors found that during the mass extinction events, smaller animals were a tad more likely than larger animals to go extinct. In addition, animals that could swim were more likely to be wiped out during all but the last mass extinction event compared with those that were stationary, and marine animals that lived in the open water were more likely to die off than those who made their homes on the ocean floor."
+            "The sixth mass extinction — the one that seven billion humans are doing their darnedest to trigger at this very moment — is shaping up to be like nothing our planet has ever seen. That's the conclusion of a sweeping new analysis, which compared marine fossil records from earth's five previous mass extinction events to what's happening in the oceans right now. \"there is no past event that looks biologically like what's happening today, \" lead study author jonathan payne, of stanford university, told gizmodo. Unlike the past, payne said, \"processes like warming and ocean acidification are not the dominant cause of threat in the modern ocean. \" advertisement instead, the dominant threat is people. It's the nets, harpoons, and trawlers that are systematically emptying the oceans of fish and other marine life forms. Whereas the mass extinctions of the past tended to target organisms in certain environments, the sixth mass extinction is poised to hit the biggest animals the hardest. And that could have have profound implications for how our planet's future unfolds. A paleontologist by training, payne and"
         ],
         "raw_document": [
             "An unprecedented pattern of extinction in the oceans today that selectively targets large-bodied animals over smaller creatures is likely driven by human fishing, according to a new stanford-led study. Go to the web site to view the video. Mark hanlon stanford earth professor jon payne puts modern extinction in context by comparing them with earth's five previous mass extinctions. \"we've found that extinction threat in the modern oceans is very strongly associated with larger body size, \" said jonathan payne, a paleobiologist at stanford's school of earth, energy &amp; environmental sciences. \"this is most likely due to people targeting larger species for consumption first. \" in a new study, to be published in the sept. 16 issue of the journal science, payne and his colleagues examined the association between extinction threat level and ecological traits such as body size for two major groups of marine animals – mollusks and vertebrates – over the past 500 years and compared it with the ancient past, stretching as far back as 445 million years ago and with a particular emphasis on the most recent 66 million years. \"we used the fossil record to show,",
@@ -2356,17 +2343,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 21588,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "No one ever said you have to be tall to be famous — as these 20 stars rounded up by radar definitely prove. The best part: famously short tom cruise is actually the tallest person on the list. Click through the gallery for a sampling, or check out the complete list here if you want to know who else is shorter than cruise ( and that includes 10 men ).",
         "split": "train",
         "cleansed_document": [
-            "From mini-me to tootsie to hollywood's top gun, some of the silver screen's shiniest stars tend to be a tad more diminutive than you might have expected — check them all out, right here on radaronline.com.",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "From mini-me to tootsie to hollywood's top gun, some of the silver screen's shiniest stars tend to be a tad more diminutive than you might have expected — check them all out, right here on radaronline.com."
         ],
         "raw_document": [
             "From mini-me to tootsie to hollywood's top gun, some of the silver screen's shiniest stars tend to be a tad more diminutive than you might have expected — check them all out, right here on radaronline.com.",
@@ -2381,7 +2367,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2514,12 +2500,11 @@
     },
     {
         "idx": 21594,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It was an almost gaudily large piece of costume jewelry picked up for about $ 15 in the 1980s, and its owner apparently liked it — she \" would wear it out shopping, wear it day-to-day. \" she almost certainly likes it much, much more now. The ring, bought at a car-boot sale ( akin to a flea market ) in west london some three decades ago turns out to be a 26.27 carat white diamond, and it's expected to fetch as much as $ 450,000 when it's auctioned by sotheby's on june 7, reports the guardian. Jessica wyndham of sotheby's says the unidentified owner assumed it wasn't real because it apparently didn't sparkle as a diamond tends to and was in a \" filthy \" mount. The bbc reports those characteristics actually just stemmed from the reality of its age: it was likely cut in the 19th century. \" with an old style of cutting... The light doesn't reflect back as much as it would from a modern stone cutting, \" explains wyndham. \" cutters worked more with the natural shape of the crystal, to conserve as much weight rather than make it as brilliant as possible. \" ( ikea's billionaire founder buys his clothes at flea markets. )",
         "split": "train",
         "cleansed_document": [
-            "A large diamond ring is expected to fetch £ 350,000 at auction 30 years after its owner paid £ 10 for it at a car boot sale, thinking it was a costume jewel. The \"exceptionally sized \" stone was presumed not to be real because 19th-century diamonds were not cut to show off their brilliance like today's gems. The owner, unaware of its value, wore it for decades, while doing everything from the shopping to the chores. Sea lion grabs girl from dock and pulls her underwater read more the 26.27-carat, cushion-shaped, white diamond, snapped up at a sunday sale at the west middlesex hospital in isleworth in west london in the 1980s, is going under the hammer at sotheby's on 7 june. The head of the auction house's london jewellery department, jessica wyndham, said: \"the owner would wear it out shopping, wear it day-to-day. It's a good-looking ring. But it was bought as a costume jewel. No one had any idea it had any intrinsic value at all. They enjoyed it all this time. \"they had been to quite a few car boot sales over the years. But they don't have any history of collecting antiques and they don't have any history of collecting diamonds. This is a one-off windfall, an amazing find.",
-            "Accompanied by a report from gia stating that the diamond is i colour, vvs2 clarity. Report number 5181319242, dated 18th april 2017. The mount with a detachable head is bicoloured with no visible marks. Remnants of sizing bands. Surface scratches consistent with wear. Some claws deficient and worn. In good condition. \" in response to your inquiry, we are pleased to provide you with a general report of the condition of the property described above. Please note that colour, clarity and weight of gemstones are statements of opinion only and not statements of fact by sotheby's. We do not guarantee, and are not responsible for any certificate from a gemological laboratory that may accompany the property. We do not guarantee that watches are in working order. Prospective buyers should inspect each lot to satisfy themselves as to condition and must understand that any statement made by sotheby's is merely a subjective, qualified opinion. Prospective buyers should also refer to refer to any important notices regarding this sale, which are printed in the sale catalogue, in particular to the notice regarding the treatment and condition of gemstones. Notwithstanding this report or any discussions concerning a lot, all lots are offered and sold \" as is \" in accordance with the conditions of business printed in the sale catalogue. \""
+            "A large diamond ring is expected to fetch £ 350,000 at auction 30 years after its owner paid £ 10 for it at a car boot sale, thinking it was a costume jewel. The \"exceptionally sized \" stone was presumed not to be real because 19th-century diamonds were not cut to show off their brilliance like today's gems. The owner, unaware of its value, wore it for decades, while doing everything from the shopping to the chores. Sea lion grabs girl from dock and pulls her underwater read more the 26.27-carat, cushion-shaped, white diamond, snapped up at a sunday sale at the west middlesex hospital in isleworth in west london in the 1980s, is going under the hammer at sotheby's on 7 june. The head of the auction house's london jewellery department, jessica wyndham, said: \"the owner would wear it out shopping, wear it day-to-day. It's a good-looking ring. But it was bought as a costume jewel. No one had any idea it had any intrinsic value at all. They enjoyed it all this time. \"they had been to quite a few car boot sales over the years. But they don't have any history of collecting antiques and they don't have any history of collecting diamonds. This is a one-off windfall, an amazing find."
         ],
         "raw_document": [
             "A large diamond ring is expected to fetch £ 350,000 at auction 30 years after its owner paid £ 10 for it at a car boot sale, thinking it was a costume jewel. The \"exceptionally sized \" stone was presumed not to be real because 19th-century diamonds were not cut to show off their brilliance like today's gems. The owner, unaware of its value, wore it for decades, while doing everything from the shopping to the chores. Sea lion grabs girl from dock and pulls her underwater read more the 26.27-carat, cushion-shaped, white diamond, snapped up at a sunday sale at the west middlesex hospital in isleworth in west london in the 1980s, is going under the hammer at sotheby's on 7 june. The head of the auction house's london jewellery department, jessica wyndham, said: \"the owner would wear it out shopping, wear it day-to-day. It's a good-looking ring. But it was bought as a costume jewel. No one had any idea it had any intrinsic value at all. They enjoyed it all this time. \"they had been to quite a few car boot sales over the years. But they don't have any history of collecting antiques and they don't have any history of collecting diamonds. This is a one-off windfall, an amazing find.",
@@ -2534,7 +2519,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {

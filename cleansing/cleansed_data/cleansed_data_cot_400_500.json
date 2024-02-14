@@ -21,7 +21,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -131,7 +131,7 @@
             "The summary revolves around a waitress, Victoria Liss, who received a negative note and no tip from a customer, Andrew Meyers, leading to a social media backlash and confusion due to misidentification. Document 1 is a message from another Andrew Meyer offering to pay a tip to Victoria Liss to clear his name. Document 2 provides details about the incident involving Victoria Liss and Andrew Meyers. Therefore, the irrelevant document is: None"
         ],
         "vote_count": {
-            "0": 0,
+            "0": 1,
             "1": 0
         }
     },
@@ -157,7 +157,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -214,14 +214,13 @@
     },
     {
         "idx": 408,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Conspiracy theories have long swirled around the 1994 death of kurt cobain, but the latest film documentary about the nirvana frontman has courtney love filing cease-and-desist letters and the ex-police chief of seattle saying he'd reopen the case if he were still in charge, spin reports. In soaked in bleach, a private investigator named tom grant says he was hired by love to find cobain, who had gone missing, just a few days before his death, per the consequence of sound. The movie reportedly offers up convincing evidence from grant that cobain didn't kill himself but was murdered, and that love was the mastermind, spin notes. The film also features commentary from norm stamper, who had just taken over as head of seattle's police force before cobain died. While stamper doesn't come right out and say love had her husband offed, he does think the movie's allegations warrant a new look. \" we should in fact have taken steps to study patterns involved in the behavior of key individuals who had a motive to see kurt cobain dead, \" he says in the movie, per spin. \" if in fact kurt cobain was murdered … and it was possible to learn that, shame on us for not doing that. \" and if he were still chief today, those steps would be taken, stamper adds: \" it's about right and wrong. It's about honor. It's about ethics. If we didn't get it right the first time, we damn well better get it right the second time, and i would tell you right now if i were the chief of police, i would reopen this investigation. \" ( the montage of heck documentary about cobain has been described as \" brilliant \" and \" uncomfortable. \" )",
         "split": "train",
         "cleansed_document": [
             "Exclusive: the widow of the nirvana frontman was a very vocal supporter of the recent hbo documentary montage of heck, but she's no fan of another film about her relationship with her late husband. The legal team representing courtney love has issued a cease-and-desist order against theaters showing the controversial benjamin statler-directed docudrama soaked in bleach, a look at the death of kurt cobain that was ruled a suicide in 1994. \"the film falsely presents a widely and repeatedly debunked conspiracy theory that accuses ms. Cobain of orchestrating the death of her husband kurt cobain, \" writes the hole singer's attorney in the order ( read it here ). \"a false accusation of criminal behavior",
             "Kurt cobain killed himself on april 5, 1994, but there are many people who believe that is not what actually happened. The new documentary soaked in bleach focuses on the conspiracy theory that the nirvana frontman was murdered, and that his wife courtney love was behind the act. According to the film, seattle's former police chief norm stamper is, at the very least, willing to consider this somewhat dubious theory. \"we should in fact have taken steps to study patterns involved in the behavior of key individuals who had a motive to see kurt cobain dead, \" stamper says in the documentary. \"if in fact kurt cobain was murdered, as opposed",
-            "Conspiracy theorists have long speculated that the death of nirvana frontman kurt cobain was more insidious than a suicide. In a new documentary called soaked in bleach, director benjamin statler takes a look at the rock star's end through the eyes of tom grant, a private investigator courtney love hired to locate the missing cobain just days before he was found dead. Not only does the film reveal some supposedly convincing evidence from grant's point of view, it also sees former seattle police chief norm stamper, who was in office at the time of cobain's death, saying he'd reopen the case if he were still police chief today. \"we",
-            "Search by keyword topic, title or author narrow your search within these sections control + click to search multiple sections. All sections business &amp; technology editorials &amp; opinion education entertainment health living local news nation &amp; world obituaries politics sports travel &amp; outdoors within these dates all dates since 1990 past week past year custom date range: from: month january february march april may june july august september october november december day 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 year 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006"
+            "Conspiracy theorists have long speculated that the death of nirvana frontman kurt cobain was more insidious than a suicide. In a new documentary called soaked in bleach, director benjamin statler takes a look at the rock star's end through the eyes of tom grant, a private investigator courtney love hired to locate the missing cobain just days before he was found dead. Not only does the film reveal some supposedly convincing evidence from grant's point of view, it also sees former seattle police chief norm stamper, who was in office at the time of cobain's death, saying he'd reopen the case if he were still police chief today. \"we"
         ],
         "raw_document": [
             "Exclusive: the widow of the nirvana frontman was a very vocal supporter of the recent hbo documentary montage of heck, but she's no fan of another film about her relationship with her late husband. The legal team representing courtney love has issued a cease-and-desist order against theaters showing the controversial benjamin statler-directed docudrama soaked in bleach, a look at the death of kurt cobain that was ruled a suicide in 1994. \"the film falsely presents a widely and repeatedly debunked conspiracy theory that accuses ms. Cobain of orchestrating the death of her husband kurt cobain, \" writes the hole singer's attorney in the order ( read it here ). \"a false accusation of criminal behavior",
@@ -240,7 +239,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -295,18 +294,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 411,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The gas mask-wearing suspect arrested in connection with the hellish aurora, colorado, movie theater shooting is 24-year-old local resident james holmes, abc news reports. The denver post reports that police have thus far recovered a gas mask, rifle, handgun, and at least one other weapon; they also evacuated an apartment building tied to holmes, then began searching it. Kdvr reports that the suspect apparently told police the apartment contained explosives. Officers found the suspect near a car behind the theater, reports the ap. A rep for the city's police force said investigators don't believe anyone else was involved, and they don't believe holmes had terrorist ties. Police have not indicated if there was a motive.",
         "split": "train",
         "cleansed_document": [
             "× timeline: updates in the aurora movie theater shooting the following information is updated as details become available: updates: monday, july 23, 2012 3: 09 pm: court set up a web page for documents related to the people of the state of colorado v. James holmes. 2: 45 pm: booking photo of the suspect, james holmes, is released. 2: 00 pm: lawyer for suspect's family holds news conference in san diego to clarify mother's \"you have the right person comment. \" she was referring to herself, and not her son. 10: 17 am: we now have an 18-second video showing james holmes'dazed demeanor at his court appearance this morning. If you want to watch the entire video from holmes ' court appearance, it's still on loop on our live stream at kwgn.com. For some analysis of",
-            "Police are pictured outside of a century 16 movie theatre where as many as 14 people were killed and many injured at a shooting during the showing of a movie at the in aurora, colo., friday, july 20,... ( associated press ) a police spokesman says the gas mask-wearing suspect arrested in connection with a mass shooting in the denver suburb of aurora is a man in his early 20s. Aurora police spokesman frank fania told abc's \" good morning america \" friday that investigators don't believe anyone else was involved. Aurora police chief dan oates says witnesses reported the person released some type of a canister, then they heard a hissing sound and saw a gas _ and then the gunman started shooting. Officers found the suspect near a car behind the theater and also located a gas mask, rifle, handgun and at least another weapon. The suspect '",
-            "Aurora — the family of 27-year-old alex sullivan confirmed friday night that he was one of 12 people killed in the mass shooting at an aurora movie theater. And the associated press was reporting that 23-year-old micayla medek was also among the dead. Her father's cousin, anita busch, said the sad news at least brought peace to the family. The sullivan family was notified at 8 p.m. After they had desperately searched for alex for more than 14 hours, a release from the family said. They said it was sullivan's birthday. \" the sullivan family lost a cherished member of their family today, \" a release from the family said. \" alex was smart, funny, and above all loved dearly by his friends and family. \" sullivan is one of 12 people killed in the rampage. Fifty-eight others were wounded, 11 critically. Another victim who has"
+            "Police are pictured outside of a century 16 movie theatre where as many as 14 people were killed and many injured at a shooting during the showing of a movie at the in aurora, colo., friday, july 20,... ( associated press ) a police spokesman says the gas mask-wearing suspect arrested in connection with a mass shooting in the denver suburb of aurora is a man in his early 20s. Aurora police spokesman frank fania told abc's \" good morning america \" friday that investigators don't believe anyone else was involved. Aurora police chief dan oates says witnesses reported the person released some type of a canister, then they heard a hissing sound and saw a gas _ and then the gunman started shooting. Officers found the suspect near a car behind the theater and also located a gas mask, rifle, handgun and at least another weapon. The suspect '"
         ],
         "raw_document": [
             "× timeline: updates in the aurora movie theater shooting the following information is updated as details become available: updates: monday, july 23, 2012 3: 09 pm: court set up a web page for documents related to the people of the state of colorado v. James holmes. 2: 45 pm: booking photo of the suspect, james holmes, is released. 2: 00 pm: lawyer for suspect's family holds news conference in san diego to clarify mother's \"you have the right person comment. \" she was referring to herself, and not her son. 10: 17 am: we now have an 18-second video showing james holmes'dazed demeanor at his court appearance this morning. If you want to watch the entire video from holmes ' court appearance, it's still on loop on our live stream at kwgn.com. For some analysis of",
@@ -323,7 +321,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -348,7 +346,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -381,13 +379,12 @@
     },
     {
         "idx": 414,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A british-australian man who claimed his american wife was lost at sea when their sailing catamaran sank off the coast of cuba has admitted to killing her. Lewis bennett, facing a second-degree murder charge, pleaded guilty to involuntary manslaughter in miami on monday, reports the bbc. Bennett, 41, had been sailing from cuba to delray beach, fla., with his wife of three months, isabella hellmann, when he sent out an sos call on may 15, 2017. Bennett said he'd been awoken by a jolt of impact to find the boat taking on water and his wife missing. After he escaped on a life raft, however, authorities noted damage to the boat appeared to have been caused from the inside and portholes below the waterline had been opened. Text messages also revealed hellmann was \" afraid to get home, \" as her husband was \" an angry person \" who did not \" respect her anymore, \" per the sun. Though the guilty plea means family members may never know how hellmann died — a body wasn't found — \" the us attorney's office and our law enforcement partners hope that the defendant's admission of guilt is a step toward justice for the victim, \" us attorney ariana fajardo orshan says, per abc australia. In a statement issued through a lawyer, however, hellmann's family says \" there is nothing that lewis can do to ease the pain he has caused them by taking isabella from them. \" bennett, who would've inherited hellmann's apartment and bank accounts, was discovered three hours after the sos call on a life raft with various belongings, including a tea set and $ 40,000 in antique coins stolen from a yacht where he'd previously worked. Now serving seven months for transporting the coins, bennett will face up to eight years in prison at his jan. 10 sentencing.",
         "split": "train",
         "cleansed_document": [
             "Brit sailor, lewis bennett, has admitted killing his wife after their boat sunk on their caribbean honeymoon. The 41-year-old has pleaded guilty to the involuntary manslaughter of isabella hellman. Facebook 7 brit lewis bennett has admitted killing his wife isabella colombian estate agent isabella, 41, disappeared when the couple's 37ft catamaran sank off cuba. Her body was never found despite a search. Bennett, 41, had always denied killing her. But the engineer — who lived in florida with ­isabella and daughter emelia, two — admitted involuntary manslaughter in a miami court tonight. 7 hellmann's text messages have revealed that she felt bennett did not'respect her any more ' 7 prosecutors believe the pair had an ' intense argument ' before the incident facebook 7 within 24 hours of her disappearance, mr bennett asked for a ' letter of presumed death'so he could settle her",
-            "Image copyright pa/broward sheriff's office image caption lewis bennett was given a seven-month jail sentence for smuggling stolen coins a british man who claimed his american wife had disappeared at sea after their catamaran sank off the coast of cuba has admitted killing her. Lewis bennett and isabella hellmann had been married three months when she was reported missing by her husband. Detectives later learnt that the boat had been deliberately sunk. Her body has never been found. On monday bennett, 41, admitted a charge of involuntary manslaughter at a hearing in miami, florida. The british-australian dual citizen, from poole, dorset, had been due to stand trial in december charged with second degree murder. But he pleaded guilty to a reduced charge of unlawful killing without malice after striking a plea deal. The couple had been sailing the 37ft ( 11m ) catamaran from cuba to their home in delray beach",
-            "Lewis bennett pleads guilty to manslaughter of newlywed wife while on honeymoon in bahamas updated an australian man whose newlywed wife went missing at sea as the couple sailed off to the bahamas on a belated honeymoon has pleaded guilty to an involuntary manslaughter charge in a us court. Key points: bennett, a mining engineer, had told the fbi and british journalists that he and ms hellmann went for a caribbean cruise he is an experienced sailor who received a certification from the royal yachting association in the united kingdom he did not deploy any flares and did not search for ms hellmann in the water with either the catamaran or an attached dinghy lewis bennett, 41, entered the plea at a hearing on monday in miami. He faces a maximum eight-year prison sentence over the may 2017 disappearance of isabella hellmann, his wife of just three months. Us district judge federico moreno set sentencing for january"
+            "Image copyright pa/broward sheriff's office image caption lewis bennett was given a seven-month jail sentence for smuggling stolen coins a british man who claimed his american wife had disappeared at sea after their catamaran sank off the coast of cuba has admitted killing her. Lewis bennett and isabella hellmann had been married three months when she was reported missing by her husband. Detectives later learnt that the boat had been deliberately sunk. Her body has never been found. On monday bennett, 41, admitted a charge of involuntary manslaughter at a hearing in miami, florida. The british-australian dual citizen, from poole, dorset, had been due to stand trial in december charged with second degree murder. But he pleaded guilty to a reduced charge of unlawful killing without malice after striking a plea deal. The couple had been sailing the 37ft ( 11m ) catamaran from cuba to their home in delray beach"
         ],
         "raw_document": [
             "Brit sailor, lewis bennett, has admitted killing his wife after their boat sunk on their caribbean honeymoon. The 41-year-old has pleaded guilty to the involuntary manslaughter of isabella hellman. Facebook 7 brit lewis bennett has admitted killing his wife isabella colombian estate agent isabella, 41, disappeared when the couple's 37ft catamaran sank off cuba. Her body was never found despite a search. Bennett, 41, had always denied killing her. But the engineer — who lived in florida with ­isabella and daughter emelia, two — admitted involuntary manslaughter in a miami court tonight. 7 hellmann's text messages have revealed that she felt bennett did not'respect her any more ' 7 prosecutors believe the pair had an ' intense argument ' before the incident facebook 7 within 24 hours of her disappearance, mr bennett asked for a ' letter of presumed death'so he could settle her",
@@ -404,7 +401,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -486,12 +483,11 @@
     },
     {
         "idx": 418,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It was in early morning darkness that officers scrambled to sort out the chaos at an albuquerque apartment complex where a couple had reportedly been attacked, the woman bleeding from a head injury and the man with a black eye and wearing blood-stained shorts. The woman told officers her 10-year-old daughter was still inside apartment number 808 from which they had escaped. What the officers didn't know was that the child was already dead, her battered and dismembered body partially wrapped in a blanket and set ablaze. With the fire alarm blaring, they busted in the front door and searched the smoke-filled apartment for victoria martens. In the bathroom, the real crime began to come into focus, the ap reports. Investigators took into custody the girl's mother, her boyfriend, and his cousin. The community was left struggling to understand how a blossoming elementary school student who loved swimming and gymnastics could have been the target of such violence. Details of what new mexico gov. Susana martinez and law enforcement officials described as an unspeakable crime emerged in a criminal complaint made public thursday. Police said victoria was injected with methamphetamine, sexually assaulted, strangled, and stabbed before being dismembered wednesday — her 10th birthday. The girl's mother, 35-year-old michelle martens, her 31-year-old boyfriend, fabian gonzales, and his 31-year-old cousin, jessica kelley, face charges of child abuse resulting in death, kidnapping, and tampering with evidence. Gonzales and kelley also face charges of criminal sexual penetration of a minor. Martens told police she met gonzales online about a month ago and that he drugged the girl so he could calm her down and have sex with her, the complaint says. Per kob, martens says gonzales then strangled the girl and kelley stabbed her in the chest.",
         "split": "train",
         "cleansed_document": [
-            "This aug. 25, 2016 booking photo provided by the metropolitan detention center shows fabian gonzales. Albuquerque police are charging gonzales along with two other people in the death of a 10-year-old... ( associated press ) albuquerque, n.m. ( ap ) — it was in early morning darkness that officers scrambled to sort out the chaos at an albuquerque apartment complex where a couple had reportedly been attacked, the woman bleeding from a head injury and the man with a black eye and wearing blood-stained shorts. The woman told officers her 10-year-old daughter was still inside apartment number 808 from which they had escaped. What the officers didn't know was that the child was already dead, her battered and dismembered body partially wrapped in a blanket and set ablaze. With the fire alarm blaring, they busted in the front door and searched the smoke-filled apartment for victoria martens. In the bathroom, the real crime began to come into focus. Investigators took into custody the girl's mother, her boyfriend and his cousin. The community was left struggling to understand how a blossoming elementary school student who loved swimming and gymnastics could have been the target of such violence. Details of what new mexico gov. Susana martinez and law enforcement officials described as an unspeakable crime emerged in a criminal complaint made public thursday. Police said victoria was injected with methamphetamine, sexually assaulted, strangled and stabbed before being dismembered. The killing happened on the day victoria was going to celebrate her 10th birthday. \" this homicide is the most gruesome act of evil i have ever seen in my career, \" albuquerque police chief gorden eden jr. Said. The girl's mother, 35-year-old michelle martens, her 31-year-old boyfriend, fabian gonzales, and his 31-year-old cousin, jessica kelley, face charges of child abuse resulting in death, kidnapping and tampering with evidence. Gonzales and kelley also face charges of criminal sexual penetration of a minor. Gonzales denied having involvement with victoria's death while reporters yelled questions at him as he was led out of the",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "This aug. 25, 2016 booking photo provided by the metropolitan detention center shows fabian gonzales. Albuquerque police are charging gonzales along with two other people in the death of a 10-year-old... ( associated press ) albuquerque, n.m. ( ap ) — it was in early morning darkness that officers scrambled to sort out the chaos at an albuquerque apartment complex where a couple had reportedly been attacked, the woman bleeding from a head injury and the man with a black eye and wearing blood-stained shorts. The woman told officers her 10-year-old daughter was still inside apartment number 808 from which they had escaped. What the officers didn't know was that the child was already dead, her battered and dismembered body partially wrapped in a blanket and set ablaze. With the fire alarm blaring, they busted in the front door and searched the smoke-filled apartment for victoria martens. In the bathroom, the real crime began to come into focus. Investigators took into custody the girl's mother, her boyfriend and his cousin. The community was left struggling to understand how a blossoming elementary school student who loved swimming and gymnastics could have been the target of such violence. Details of what new mexico gov. Susana martinez and law enforcement officials described as an unspeakable crime emerged in a criminal complaint made public thursday. Police said victoria was injected with methamphetamine, sexually assaulted, strangled and stabbed before being dismembered. The killing happened on the day victoria was going to celebrate her 10th birthday. \" this homicide is the most gruesome act of evil i have ever seen in my career, \" albuquerque police chief gorden eden jr. Said. The girl's mother, 35-year-old michelle martens, her 31-year-old boyfriend, fabian gonzales, and his 31-year-old cousin, jessica kelley, face charges of child abuse resulting in death, kidnapping and tampering with evidence. Gonzales and kelley also face charges of criminal sexual penetration of a minor. Gonzales denied having involvement with victoria's death while reporters yelled questions at him as he was led out of the"
         ],
         "raw_document": [
             "This aug. 25, 2016 booking photo provided by the metropolitan detention center shows fabian gonzales. Albuquerque police are charging gonzales along with two other people in the death of a 10-year-old... ( associated press ) albuquerque, n.m. ( ap ) — it was in early morning darkness that officers scrambled to sort out the chaos at an albuquerque apartment complex where a couple had reportedly been attacked, the woman bleeding from a head injury and the man with a black eye and wearing blood-stained shorts. The woman told officers her 10-year-old daughter was still inside apartment number 808 from which they had escaped. What the officers didn't know was that the child was already dead, her battered and dismembered body partially wrapped in a blanket and set ablaze. With the fire alarm blaring, they busted in the front door and searched the smoke-filled apartment for victoria martens. In the bathroom, the real crime began to come into focus. Investigators took into custody the girl's mother, her boyfriend and his cousin. The community was left struggling to understand how a blossoming elementary school student who loved swimming and gymnastics could have been the target of such violence. Details of what new mexico gov. Susana martinez and law enforcement officials described as an unspeakable crime emerged in a criminal complaint made public thursday. Police said victoria was injected with methamphetamine, sexually assaulted, strangled and stabbed before being dismembered. The killing happened on the day victoria was going to celebrate her 10th birthday. \" this homicide is the most gruesome act of evil i have ever seen in my career, \" albuquerque police chief gorden eden jr. Said. The girl's mother, 35-year-old michelle martens, her 31-year-old boyfriend, fabian gonzales, and his 31-year-old cousin, jessica kelley, face charges of child abuse resulting in death, kidnapping and tampering with evidence. Gonzales and kelley also face charges of criminal sexual penetration of a minor. Gonzales denied having involvement with victoria's death while reporters yelled questions at him as he was led out of the",
@@ -506,7 +502,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -539,7 +535,7 @@
     },
     {
         "idx": 420,
-        "document_num": 9,
+        "document_num": 8,
         "summary": "Lebron james led his cleveland cavaliers to a game 7 win sunday night to cap an epic championship series, one in which the cavs became the first team to come back from a 3-1 deficit. Some of the next-morning analysis: if there are any lebron haters left, it's time to let it go, writes ben collins in the daily beast. ( he counts himself as one of those former haters. ) he's \" one of the greatest there is. He's up there with jordan. \" josh levin at slate explains why this is now true: \" if he wasn't before, lebron james is now, rightfully, a basketball legend. \" tim reynolds of the ap weighs in, too. No more debate: lebron is the \" best player in basketball. \" sports illustrated says this play by james late in the game ( a \" superhuman \" shot block ) will be replayed for years. Cleveland native bert stratton writes about what the first sports championship in a half-century means for his city at the new york times. An editorial in the cleveland plain dealer has three words for it: \" magic, unbelievable, transformative. \" a post at complex says an emotional jr smith of the cavs gave one of the most memorable post-game news conferences ever. The video is here. Deadspin highlights the moment cleveland newscasters learned the cavs had won while on the air.",
         "split": "train",
         "cleansed_document": [
@@ -550,8 +546,7 @@
             "I am legend he single-handedly brought his team back from a 3-1 deficit to win one of the most thrilling nba finals ever. It's time to admit that lebron is on the mount rushmore of basketball. I give up. It is simply too hard to hate lebron now. It",
             "Cleveland cavaliers ' lebron james answers questions as he holds his daughter zhuri during a post-game press conference after game 7 of basketball's nba finals sunday, june 19, 2016, in oakland, calif.... ( associated press ) cleveland cavaliers ' lebron james answers questions as he holds his daughter",
             "Your teams. Your favorite writers. Wherever you want them. Personalize si with our new app. Install on ios or android.​ oakland, calif. — the cozy basketball locker room at akron's st. Vincent-st. Mary high school is loaded with motivation in every corner. There are bible verses in",
-            "This is more than just an nba finals win for cleveland. This is the end of the drought. The end of the curse. The end of the heartaches. Fifty-two years - just a blip. Lebron james, mvp for the finals, put it all on the court, all",
-            "Rating is available when the video has been rented. This feature is not available right now. Please try again later."
+            "This is more than just an nba finals win for cleveland. This is the end of the drought. The end of the curse. The end of the heartaches. Fifty-two years - just a blip. Lebron james, mvp for the finals, put it all on the court, all"
         ],
         "raw_document": [
             "Cleveland heights, ohio — there is no song called \"i left my heart in cleveland. \" cleveland is the flip side of california and the golden state warriors, whom they have met in the last two n.b.a. Finals. The former cleveland cavaliers basketball coach david blatt once said: \"we '",
@@ -582,7 +577,7 @@
             "6": 0,
             "7": 1,
             "8": 1,
-            "9": 0
+            "9": 4
         }
     },
     {
@@ -632,7 +627,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -715,13 +710,12 @@
     },
     {
         "idx": 426,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Just days after the slaying of 11 jewish congregants at a pittsburgh synagogue, a gop candidate for a state senate seat in connecticut is accused of sending a mailer using an \" age-old anti-semitic trope. \" the ad sent out by ed charamut includes what the washington post calls a \" money-grubbing \" picture ( here ) of smiling opponent matt lesser, clutching $ 100 bills with a \" crazed look in his eyes. \" lesser says the original image of him was altered to add the cash and exaggerate his expression; charamut's jewish campaign treasurer concedes lesser's eyes were tweaked \" to look bigger and greedy, \" per raw story. Lesser's reaction when he first heard about the ad: it was \" some sort of mistake or misunderstanding. \" \" i did not believe them, because we live in america, \" he adds. Others say the mailer was offensive, maybe intentionally so. But the 60-year-old gop candidate insists the mailer was simply meant to draw a \" sharp contrast \" between his 35-year-old opponent's stance on tax policy and his own. \" i reject hate speech in all its forms, \" he says. Other republicans back him, with state senate chair jr romano telling the hartford courant the hubbub is all \" false outrage \" perpetuated by dems. \" if you criticize any democrat for failures and their record, they run into this shield that you're a racist. \" romano later walked back those statements, agreeing the mailer was \" offensive \" after having \" conversations with jewish friends. \" ( mike pence is facing his own controversy. )",
         "split": "train",
         "cleansed_document": [
             "Campaign mailer sent by gop state senate candidate ed charamut. The jewish campaign treasurer for a republican candidate in connecticut is defending a campaign mailer that depicts their democratic party opponent in what is being described as the \"worst kind of anti-semitism. \" \"the full-color, double-sided mailer shows an altered image of democrat matt lesser, who is jewish, with large, beady eyes, holding fistfuls of hundred-dollar bills. There's also a lead tagline on the other side: \"matt lesser will take everything you worked for. \" it was mailed out to homes in and around middletown — the district where lesser is trying to win a senate seat, \" wnpr reported tuesday. \"it was sent by his republican opponent ed charamut. \" \"a new line has been crossed, \" said rep. Lesser. \"two days after a horrific attack in pittsburgh, the last thing we expected was to see something like this in connecticut. \" \"to be honest, i was shocked when i saw the mailer, i've never seen any quite like it, \" he",
-            "A mailer sent out by republican state senate candidate ed charamut in connecticut depicts his democratic opponent, matthew lesser, who is jewish, as a money-grubbing official. ( ben lovejoy ) a campaign mailer sent out by a republican candidate for a state senate seat in connecticut is being widely denounced for using anti-semitic tropes in an illustration of his democratic challenger, who is jewish. The advertisement, which was sent out by republican ed charamut's campaign, depicts his challenger, democratic state rep. Matthew lesser, holding a wad of cash in front of him, with a crazed look in his eyes. The mailer drew wide outrage after its existence was reported on tuesday, as concern about rising anti-semitism runs high in the wake of the massacre of 11 jewish congregants at a pittsburgh synagogue. The embrace of racially charged policies and rhetoric by republicans, from president trump to candidates across the country, has emboldened white-supremacist groups, and, critics say, raised questions about the party's intent. Lesser told the washington post that",
-            "\"i had the opportunity to discuss some of the context of the recent mailer sent by candidate ed charamut involving state representative matt lesser, \" he said in the statement. \"several things have come into perspective from conversations with jewish friends, including jewish republicans. In a race with a jewish candidate, this image should be recognized as offensive, raising classic anti-semitic tropes. It cannot be justified. I personally would not have approved this mailer, and i am grateful that the party did not approve it. I have requested to sit down with the adl to broaden my understanding of and sensitivity to anti-semitism. \""
+            "A mailer sent out by republican state senate candidate ed charamut in connecticut depicts his democratic opponent, matthew lesser, who is jewish, as a money-grubbing official. ( ben lovejoy ) a campaign mailer sent out by a republican candidate for a state senate seat in connecticut is being widely denounced for using anti-semitic tropes in an illustration of his democratic challenger, who is jewish. The advertisement, which was sent out by republican ed charamut's campaign, depicts his challenger, democratic state rep. Matthew lesser, holding a wad of cash in front of him, with a crazed look in his eyes. The mailer drew wide outrage after its existence was reported on tuesday, as concern about rising anti-semitism runs high in the wake of the massacre of 11 jewish congregants at a pittsburgh synagogue. The embrace of racially charged policies and rhetoric by republicans, from president trump to candidates across the country, has emboldened white-supremacist groups, and, critics say, raised questions about the party's intent. Lesser told the washington post that"
         ],
         "raw_document": [
             "Campaign mailer sent by gop state senate candidate ed charamut. The jewish campaign treasurer for a republican candidate in connecticut is defending a campaign mailer that depicts their democratic party opponent in what is being described as the \"worst kind of anti-semitism. \" \"the full-color, double-sided mailer shows an altered image of democrat matt lesser, who is jewish, with large, beady eyes, holding fistfuls of hundred-dollar bills. There's also a lead tagline on the other side: \"matt lesser will take everything you worked for. \" it was mailed out to homes in and around middletown — the district where lesser is trying to win a senate seat, \" wnpr reported tuesday. \"it was sent by his republican opponent ed charamut. \" \"a new line has been crossed, \" said rep. Lesser. \"two days after a horrific attack in pittsburgh, the last thing we expected was to see something like this in connecticut. \" \"to be honest, i was shocked when i saw the mailer, i've never seen any quite like it, \" he",
@@ -738,7 +732,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -763,7 +757,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -819,7 +813,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -847,17 +841,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 431,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "You might want to sit down for this. On second thought, keep standing. A study published last month in the american journal of preventive medicine found that sitting for more than three hours per day is responsible for 3.8 % — or approximately 433,000 — of all deaths worldwide every year. At this point, it's old news that sitting for long periods of time is bad for your health. But who knew it could be this deadly? according to a press release, researchers looked at data collected from 54 countries between 2002 and 2011. They found that more than 60 % of the world's population sits for more than three hours per day, with the average being approximately 4.7 hours. The highest amount of sitting-related deaths were in the western pacific and parts of europe, afp reports. Lebanon and the netherlands topped the list, while mexico and myanmar had the fewest sitting-related deaths. Researchers found that eliminating sitting could increase overall life expectancy by 0.2 years, while reducing daily sitting time by two hours could decrease an individual's mortality by 2.4 %. Even sitting for 30 minutes less per day can have a positive impact on mortality. \" it is important to minimize sedentary behavior in order to prevent premature deaths around the world, \" the study's lead author says. ( even some activity can keep death at bay for couch potatoes. )",
         "split": "train",
         "cleansed_document": [
-            "Sitting for too long could be responsible for 4 percent of global deaths after an increasing amount of research has already outlined the negative effects of sitting for long periods of time, a new study has now found that long periods of inactivity are to blame for nearly 4 percent of all deaths worldwide. Published in the american journal of preventive medicine and carried out by researchers from the university of sao paulo, brazil, and san jorge university in zaragoza, spain, the study looked at 54 countries across the world using data from between 2002 to 2011. The data revealed that over 60 % of people worldwide spend more than three hours a day sitting down, with adults spending on average 4.7 hours of their day sat down. According to the study this inactivity is causing 3.8 % of deaths across the world -- approximately 433,000 deaths a year. The team found that the highest rates of death were found in the western pacific, followed by parts of europe, the eastern mediterranean region, america and southeast asia. Looking at the results by country, the highest rates were found in lebanon ( 11.6 % ), the netherlands ( 7.6 % ) and denmark ( 6.9 % ), while the lowest rates were in mexico ( 0.6 % ), myanmar ( 1.3 % ) and bhutan ( 1.6 % ). Spain falls within the",
-            "The next time you wrap up your work day and realise you've been sitting in front of the computer for almost eight straight hours, maybe you won't feel so proud of yourself. A new study, conducted in 54 countries around the world, declares that 3.8 % of all deaths are due to the fact that society spends more than three hours a day sitting down. Each year people go into september with a number of resolutions. Exercising and not spending so much time on the couch tend to be some of these good intentions. 31 % of the worldwide population does not meet the current recommendations for physical activity according to several studies published in 2012 by the journal the lancet. In addition, a lack of exercise is associated with major noncommunicable diseases and with deaths of any cause -inactivity is the culprit behind 6 % to 9 % of total worldwide deaths-. Today's lifestyle has an impact on these numbers. In fact, various studies over the last decade have demonstrated how the excessive amount of time we spend sitting down may increase the risk of death, regardless of whether or not we exercise. A new study, published in the american journal of preventive medicine and in which san jorge university in zaragoza ( spain ) participated, now estimates the proportion of deaths attributable to that ' chair"
+            "Sitting for too long could be responsible for 4 percent of global deaths after an increasing amount of research has already outlined the negative effects of sitting for long periods of time, a new study has now found that long periods of inactivity are to blame for nearly 4 percent of all deaths worldwide. Published in the american journal of preventive medicine and carried out by researchers from the university of sao paulo, brazil, and san jorge university in zaragoza, spain, the study looked at 54 countries across the world using data from between 2002 to 2011. The data revealed that over 60 % of people worldwide spend more than three hours a day sitting down, with adults spending on average 4.7 hours of their day sat down. According to the study this inactivity is causing 3.8 % of deaths across the world -- approximately 433,000 deaths a year. The team found that the highest rates of death were found in the western pacific, followed by parts of europe, the eastern mediterranean region, america and southeast asia. Looking at the results by country, the highest rates were found in lebanon ( 11.6 % ), the netherlands ( 7.6 % ) and denmark ( 6.9 % ), while the lowest rates were in mexico ( 0.6 % ), myanmar ( 1.3 % ) and bhutan ( 1.6 % ). Spain falls within the"
         ],
         "raw_document": [
             "Sitting for too long could be responsible for 4 percent of global deaths after an increasing amount of research has already outlined the negative effects of sitting for long periods of time, a new study has now found that long periods of inactivity are to blame for nearly 4 percent of all deaths worldwide. Published in the american journal of preventive medicine and carried out by researchers from the university of sao paulo, brazil, and san jorge university in zaragoza, spain, the study looked at 54 countries across the world using data from between 2002 to 2011. The data revealed that over 60 % of people worldwide spend more than three hours a day sitting down, with adults spending on average 4.7 hours of their day sat down. According to the study this inactivity is causing 3.8 % of deaths across the world -- approximately 433,000 deaths a year. The team found that the highest rates of death were found in the western pacific, followed by parts of europe, the eastern mediterranean region, america and southeast asia. Looking at the results by country, the highest rates were found in lebanon ( 11.6 % ), the netherlands ( 7.6 % ) and denmark ( 6.9 % ), while the lowest rates were in mexico ( 0.6 % ), myanmar ( 1.3 % ) and bhutan ( 1.6 % ). Spain falls within the",
@@ -872,7 +865,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -907,7 +900,7 @@
             "2": 0,
             "3": 5,
             "4": 5,
-            "5": 0
+            "5": 1
         }
     },
     {
@@ -935,7 +928,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -996,7 +989,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1297,13 +1290,12 @@
     },
     {
         "idx": 446,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The enigma that's wrapped in the riddle that is actor joaquin phoenix is beginning to unravel... Or maybe not. Film of his apparent months-long nervous breakdown, shot by brother-in-law casey affleck, is about to hit theaters, and it's proof that the mysterious personality disorder he displayed was all an enormous practical joke, crows daily beast writer gina piccalo. A preview of the film i ' m still here: the lost world of joaquin circulating on the internet is so deadpan that's it's \" ridiculous \" and further evidence that joaquin \" has been pulling one over on the public, \" she notes. Still... The work is \" bizarre, \" admits piccalo, and everyone connected to the film is still \" keeping mum \" ( except for two female staffers who are suing affleck for sex harassment ). The baltimore sun calls the trailer a \" whirling dervish of confusion, \" and the los angeles times is perplexed, and \" not entirely sure whether the film is a joke. \" like joaquin, the \" entire thing is kind of a blur, \" the paper adds.",
         "split": "train",
         "cleansed_document": [
             "I sort-of expected the just-released trailer for joaquin phoenix's crazy lost year documentary \"i ' m still here \" to clear things up a bit. Is the film, directed by phoenix's brother-in-law casey affleck, a mockumentary? did phoenix really quit hollywood to become a rapper? was that beyond-awkward david letterman interview a stunt? and, most importantly, did he ever shave that civil war-soldier beard that i hear is now home to endangered baby whooping cranes? the trailer's just one minute long, but it's a whirling dervish of confusion. \"i ' m still here \" still doesn't have a baltimore release date, so in the meantime, let's bask in the trailer's zany glow. Phoenix is rising. I ' m just not sure where from — or where he's going next. •••• half of the trailer",
-            "Joaquin phoenix ( mario anzuoni / reuters ) a new trailer that hit the internet last week proves it: the well-respected actor who grew a beard, took up hip-hop, and mumbled through a letterman appearance was pulling one over on the public. Joaquin phoenix has always been a stellar actor. But the nature of his talent has never been more apparent than during the last two years when, beginning with his legendary interview with david letterman, the clean-shaven two-time oscar nominee committed himself wholly to making every public appearance a painstaking portrait of an emotional breakdown. Give phoenix credit: journalists everywhere ( myself included ) actually pondered whether his shaggy beard, and his preposterous foray into hip-hop, was something more than a practical joke. Now comes the trailer for his forthcoming documentary, i ' m still here: the lost year of joaquin, which hit the internet last week. It '",
-            "Web wide crawl with initial seedlist and crawler configuration from march 2011. This uses the new hq software for distributed crawling by kenji nagahashi. What's in the data set: crawl start date: 09 march, 2011 crawl end date: 23 december, 2011 number of captures: 2,713,676,341 number of unique urls: 2,273,840,159 number of hosts: 29,032,069 the seed list for this crawl was a list of alexa's top 1 million web sites, retrieved close to the crawl start date. We used heritrix ( 3.1.1-snapshot ) crawler software and respected robots.txt directives. The scope of the crawl was not limited except for a few manually excluded sites. However this was a somewhat experimental crawl for us, as we were using newly minted software to feed urls to the crawlers, and we know there were some operational issues with it. For example, in many cases we may not have"
+            "Joaquin phoenix ( mario anzuoni / reuters ) a new trailer that hit the internet last week proves it: the well-respected actor who grew a beard, took up hip-hop, and mumbled through a letterman appearance was pulling one over on the public. Joaquin phoenix has always been a stellar actor. But the nature of his talent has never been more apparent than during the last two years when, beginning with his legendary interview with david letterman, the clean-shaven two-time oscar nominee committed himself wholly to making every public appearance a painstaking portrait of an emotional breakdown. Give phoenix credit: journalists everywhere ( myself included ) actually pondered whether his shaggy beard, and his preposterous foray into hip-hop, was something more than a practical joke. Now comes the trailer for his forthcoming documentary, i ' m still here: the lost year of joaquin, which hit the internet last week. It '"
         ],
         "raw_document": [
             "I sort-of expected the just-released trailer for joaquin phoenix's crazy lost year documentary \"i ' m still here \" to clear things up a bit. Is the film, directed by phoenix's brother-in-law casey affleck, a mockumentary? did phoenix really quit hollywood to become a rapper? was that beyond-awkward david letterman interview a stunt? and, most importantly, did he ever shave that civil war-soldier beard that i hear is now home to endangered baby whooping cranes? the trailer's just one minute long, but it's a whirling dervish of confusion. \"i ' m still here \" still doesn't have a baltimore release date, so in the meantime, let's bask in the trailer's zany glow. Phoenix is rising. I ' m just not sure where from — or where he's going next. •••• half of the trailer",
@@ -1320,18 +1312,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 447,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Kimberly stewart has starred as herself in the e! true hollywood story episode of \" the hilton sisters. \" so it makes total sense that she's carrying the baby of a fellow actor... Oscar-winner benicio del toro. Yes, you read that right. The 31-year-old daughter of rod stewart isn't in a relationship with the 44-year-old, but a source tells people del toro \" is supportive and both are very excited. \" click for more on who each has been linked to in the past.",
         "split": "train",
         "cleansed_document": [
             "Benicio del toro, kimberly stewart expecting a baby kimberly stewart is expecting benicio del toro's baby. \" kimberly is pregnant. Benicio is the father and is very supportive, \" his rep confirms to people in a statement. \" although they are not a couple, they are looking forward to the arrival of the baby. \" stewart, 31, has worked as an actress and model and is the daughter of rocker rod stewart, while del toro, 44, is best known for his award-winning turns in such films as 2000's traffic ( for which he won the best supporting actor oscar ), 2003's 21 grams and 2008's che.",
-            "Kimberly stewart is pregnant with benicio del toro's baby email this and kimberly stewart are the latest pair to get swept up in the hollywood baby boom. The ' che'star's rep, robin baum, confirmed to \" kimberly is pregnant. Benicio is the father and is very supportive. Although they are not a couple, they are looking forward to the arrival of the baby. \" benicio del toro and kimberly stewart are the latest pair to get swept up in the hollywood baby boom.the ' che'star's rep, robin baum, confirmed to life &amp; style that 31-year-old stewart was expecting the actor's baby. \" kimberly is pregnant. Benicio is the father and is very supportive. Although they are not a couple, they are looking forward to the arrival of the baby. \" http://xml.channel.aol.com/xmlpublisher/fetch.v2.xml?option=expand_relative_urls&dataurlnodes=uiconfig, feedconfig, entry&id=758474&pid=758473&uts=1273603838 http://www.popeater.com/mm_track/popeater/movies/?s_channel=us.moviespop&s_account=aolpopeater, aolsvc&omni=1&ke=1 http://cdn.channel.aol.com/cs_feed_v1_6/csfeedwrapper.swf keeping track of the baby boom bethenny frankel and jason hoppy it's a girl! bethenny frankel of the'real housewives of new york city ' gave birth to a baby girl on may 8, 2010. Bryn hoppy was born at 8am in new york city and weighed 4 lb. 12 oz. Dimitrios kambouris, wireimage dimitrios kambouris, wireimage celebrity baby boom the academy award winning actor has been reportedly linked to a bevy of beautiful babes, from scarlett johansson to lindsay lohan kimberly, the daughter of famed rocker and notorious ladies ' man rod stewart, has had her fair share of luck in the dating game as well. The blond beauty was formerly engaged to ' laguna beach'star talan torriero and has allegedly been involved with tommy lee and jude law this is the first child for both stewart and del toro.",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Kimberly stewart is pregnant with benicio del toro's baby email this and kimberly stewart are the latest pair to get swept up in the hollywood baby boom. The ' che'star's rep, robin baum, confirmed to \" kimberly is pregnant. Benicio is the father and is very supportive. Although they are not a couple, they are looking forward to the arrival of the baby. \" benicio del toro and kimberly stewart are the latest pair to get swept up in the hollywood baby boom.the ' che'star's rep, robin baum, confirmed to life &amp; style that 31-year-old stewart was expecting the actor's baby. \" kimberly is pregnant. Benicio is the father and is very supportive. Although they are not a couple, they are looking forward to the arrival of the baby. \" http://xml.channel.aol.com/xmlpublisher/fetch.v2.xml?option=expand_relative_urls&dataurlnodes=uiconfig, feedconfig, entry&id=758474&pid=758473&uts=1273603838 http://www.popeater.com/mm_track/popeater/movies/?s_channel=us.moviespop&s_account=aolpopeater, aolsvc&omni=1&ke=1 http://cdn.channel.aol.com/cs_feed_v1_6/csfeedwrapper.swf keeping track of the baby boom bethenny frankel and jason hoppy it's a girl! bethenny frankel of the'real housewives of new york city ' gave birth to a baby girl on may 8, 2010. Bryn hoppy was born at 8am in new york city and weighed 4 lb. 12 oz. Dimitrios kambouris, wireimage dimitrios kambouris, wireimage celebrity baby boom the academy award winning actor has been reportedly linked to a bevy of beautiful babes, from scarlett johansson to lindsay lohan kimberly, the daughter of famed rocker and notorious ladies ' man rod stewart, has had her fair share of luck in the dating game as well. The blond beauty was formerly engaged to ' laguna beach'star talan torriero and has allegedly been involved with tommy lee and jude law this is the first child for both stewart and del toro."
         ],
         "raw_document": [
             "Benicio del toro, kimberly stewart expecting a baby kimberly stewart is expecting benicio del toro's baby. \" kimberly is pregnant. Benicio is the father and is very supportive, \" his rep confirms to people in a statement. \" although they are not a couple, they are looking forward to the arrival of the baby. \" stewart, 31, has worked as an actress and model and is the daughter of rocker rod stewart, while del toro, 44, is best known for his award-winning turns in such films as 2000's traffic ( for which he won the best supporting actor oscar ), 2003's 21 grams and 2008's che.",
@@ -1348,7 +1339,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1435,17 +1426,16 @@
             "1": 0,
             "2": 2,
             "3": 1,
-            "4": 0
+            "4": 2
         }
     },
     {
         "idx": 451,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "At times the losing team is accused of choking. This time espn announcer chris fowler admits he choked, literally, during yesterday's pinstripe bowl, the ap reports. Fowler tweeted that he was choking on a chicken sandwich at halftime when fellow broadcaster jesse palmer gave him the heimlich maneuver. \" never before needed a heimlich at halftime. ( or any time )! \" he posted. \" thanks jesse palmer! he saved me from death by dry chicken sandwich. Really. \" he soon added that it was \" not bad to have a quick-thinking, ex-nfl player around \" in a time of need.",
         "split": "train",
         "cleansed_document": [
-            "Espn's chris fowler posts on his twitter account that he needed broadcast partner jesse palmer to perform the heimlich maneuver on him during halftime of the pinstripe bowl to avoid choking on a chicken sandwich. \" never before needed a heimlich at halftime. ( or any time )! \" fowler posted saturday. \" thanks jesse palmer! he saved me from death by dry chicken sandwich. Really. \" fowler was doing play-by-play for the game at yankee stadium between notre dame and rutgers. Palmer, the former florida and new york giants quarterback, was the analyst. Both live in new york, so the pinstripe bowl is home game for them. Fowler also posted: \" not bad to have quick thinking, ex-nfl player around when heimlich needed. I ' ll take bruised ribs to avoid choking! \"",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Espn's chris fowler posts on his twitter account that he needed broadcast partner jesse palmer to perform the heimlich maneuver on him during halftime of the pinstripe bowl to avoid choking on a chicken sandwich. \" never before needed a heimlich at halftime. ( or any time )! \" fowler posted saturday. \" thanks jesse palmer! he saved me from death by dry chicken sandwich. Really. \" fowler was doing play-by-play for the game at yankee stadium between notre dame and rutgers. Palmer, the former florida and new york giants quarterback, was the analyst. Both live in new york, so the pinstripe bowl is home game for them. Fowler also posted: \" not bad to have quick thinking, ex-nfl player around when heimlich needed. I ' ll take bruised ribs to avoid choking! \""
         ],
         "raw_document": [
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
@@ -1462,7 +1452,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1495,12 +1485,10 @@
     },
     {
         "idx": 453,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "An animal welfare officer in oregon is getting attention after her body-worn camera captured her rescuing a baby deer. The eugene police department on thursday made public a video and photo of officer shawni mclaughlin freeing a terrified fawn that got stuck in a backyard fence, the ap reports. In the video, mclaughlin wraps the fawn's head in a towel and lifts it from between two narrow fence posts as she gently talks to the deer. The fawn lies on the ground for a few seconds after being freed, apparently not aware it can walk. Mclaughlin pets it before it springs up and runs away. An open sore can be seen on the fawn's left hip.",
         "split": "train",
-        "cleansed_document": [
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "This will appear next to all of your comments this will not appear anywhere on newser",
             "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
@@ -1514,7 +1502,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1718,18 +1706,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 462,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It's over in georgia: stacey abrams called a press conference friday to acknowledge that republican brian kemp will be the state's next governor, reports politico. But abrams made clear that she thinks kemp, who oversaw the election as secretary of state, is guilty of foul play. \" to watch an elected official who claims to represent the people in this state baldly pin his hopes for election on the suppression of the people's democratic right to vote has been truly appalling, \" abrams said, per the atlanta journal constitution. \"so, let's be clear, \" she said. \" this is not a speech of concession. Because concession means to acknowledge an action is right, true or proper. As a woman of conscience and faith, i cannot concede that. But my assessment is the law currently allows no further viable remedy. \" abrams, who had been vying to become the nation's first black female governor, accused kemp of \" gross mismanagement \" of the election, per the ap. Still, she said she would pray for his success. Kemp, for his part, praised his opponent's \" passion, hard work, and commitment to public service. \"",
         "split": "train",
         "cleansed_document": [
             "Georgia gubernatorial candidate stacey abrams makes remarks during a press conference at the abrams headquarters in atlanta, friday, nov. 16, 2018. Democrat stacey abrams says she will file a federal... ( associated press ) georgia gubernatorial candidate stacey abrams makes remarks during a press conference at the abrams headquarters in atlanta, friday, nov. 16, 2018. Democrat stacey abrams says she will file a federal lawsuit to challenge the \" gross mismanagement \" of georgia elections. Abrams made the comments in a friday... ( associated press ) atlanta ( ap ) — democrat stacey abrams ended 10 days of post-election drama in georgia's closely watched and even more closely contested race for governor friday, acknowledging republican brian kemp as the victor while defiantly refusing to concede to the man she blamed for \" gross mismanagement \" of a bitterly fought election. The speech abrams delivered at her campaign headquarters friday evening marked the close",
-            "Stacey abrams said her speech bowing out of the gubernatorial race was not one of concession. A concession speech would have indicated she agreed with how the election was carried out and its outcome, she said. Instead, she announced that she was bowing out of the race knowing that the interim secretary of state was poised to certify election results declaring republican brian kemp the winner. Abrams said she realized there were no more legal options to stop that from happening. \"i acknowledge that former secretary of state brian kemp will be certified as the victor in the 2018 gubernatorial election, but to watch an elected official who claims to represent the people in this state baldly pin his hopes for election on the suppression of the people's democratic right to vote has been truly appalling, \" abrams said. \"so, let's be clear. This is not a speech of concession.",
-            "John amis/ap photo elections abrams says kemp will be next governor of georgia, effectively conceding race democrat stacey abrams announced friday that brian kemp, her republican opponent in the georgia gubernatorial race, would be certified as governor. \" i acknowledge that former secretary of state brian kemp will be certified as the victor in the 2018 gubernatorial election, \" abrams said at a press conference friday, effectively conceding that she lost the race. Story continued below the announcement comes more than a week after the november midterm elections when kemp came out as the top vote-getter in the race. But abrams refused to concede, arguing that there were outstanding votes that needed to be counted. Since then her campaign has filed legal challenges and pushed to have additional absentee and provisional ballots counted. That move lowered the margin of victory for kemp but not by enough to trigger a runoff or recount. But abrams"
+            "Stacey abrams said her speech bowing out of the gubernatorial race was not one of concession. A concession speech would have indicated she agreed with how the election was carried out and its outcome, she said. Instead, she announced that she was bowing out of the race knowing that the interim secretary of state was poised to certify election results declaring republican brian kemp the winner. Abrams said she realized there were no more legal options to stop that from happening. \"i acknowledge that former secretary of state brian kemp will be certified as the victor in the 2018 gubernatorial election, but to watch an elected official who claims to represent the people in this state baldly pin his hopes for election on the suppression of the people's democratic right to vote has been truly appalling, \" abrams said. \"so, let's be clear. This is not a speech of concession."
         ],
         "raw_document": [
             "Georgia gubernatorial candidate stacey abrams makes remarks during a press conference at the abrams headquarters in atlanta, friday, nov. 16, 2018. Democrat stacey abrams says she will file a federal... ( associated press ) georgia gubernatorial candidate stacey abrams makes remarks during a press conference at the abrams headquarters in atlanta, friday, nov. 16, 2018. Democrat stacey abrams says she will file a federal lawsuit to challenge the \" gross mismanagement \" of georgia elections. Abrams made the comments in a friday... ( associated press ) atlanta ( ap ) — democrat stacey abrams ended 10 days of post-election drama in georgia's closely watched and even more closely contested race for governor friday, acknowledging republican brian kemp as the victor while defiantly refusing to concede to the man she blamed for \" gross mismanagement \" of a bitterly fought election. The speech abrams delivered at her campaign headquarters friday evening marked the close",
@@ -1746,7 +1733,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2234,12 +2221,11 @@
     },
     {
         "idx": 481,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Researchers in london think they have solved one of the most enduring mysteries of stonehenge: how did a bunch of prehistoric britons haul massive stones from a quarry in wales to the site of the monument more than 100 miles? \" the answer, \" per the telegraph, \" is surprisingly simple. \" by mounting a giant stone on a wooden sleigh and dragging it along a track of timbers, a team from university college london found that just 10 people were able to move a more than 2,000-pound stone at a rate of about 1mph. \"we were expecting to need at least 15 people to move the stone so to find we could do it with 10 was quite interesting, \" doctoral student barney harris tells the telegraph. The rocks in question, the ones at the center of the monument known as bluestones, were quarried in preseli hills in pembrokeshire, wales, according to a separate study last year. They were laid at stonehenge, some 140 miles away in wiltshire, around 2400 bc, according to seeker.com. The larger stones around the perimeter, called sarsens, are local sandstone and were laid during a second phase of construction about 500 years later. The sleigh-and-track method, if that's what stonehenge's architects used, is not unique, harris tells the telegraph. \"we know that pre-industrialized societies like the maram naga in india still use this kind of sledge to construct huge stone monuments, he says, adding that the japanese are known to have used similar sleighs thousands of years ago. Could oxen have been used to pull the stones along the track? \" oxen are quite belligerent and difficult to control, \" harris says. \" this experiment shows that humans could have carried out the task fairly easily. \" ( a century ago, cecil chubb bought stonehenge on a whim. )",
         "split": "train",
         "cleansed_document": [
-            "Excavation of two quarries in wales by a ucl-led team of archaeologists and geologists has confirmed they are sources of stonehenge's 'bluestones ' – and shed light on how they were quarried and transported. New research by the team published today in antiquity presents detailed evidence of prehistoric quarrying in the preseli hills in pembrokeshire, helping to answer long-standing questions about why, when and how stonehenge was built. The team of scientists includes researchers from ucl, university of manchester, bournemouth university, university of southampton, university of leicester, amgueddfa cymru – national museum wales, and dyfed archaeological trust. The very large standing stones at stonehenge are of 'sarsen ', a local sandstone, but the smaller ones, known as 'bluestones ', come from the preseli hills in the pembrokeshire coast national park. Geologists have known since the 1920s that the bluestones were brought to stonehenge from somewhere in the preseli hills, but only now has there been collaboration with archaeologists to locate and excavate the actual quarries from which they came. Director of the project, professor mike parker pearson ( ucl institute of archaeology ), said: \"this has been a wonderful opportunity for geologists and archaeologists to work together. The geologists have been able to lead us to the actual outcrops where stonehenge's stones were extracted. \" the stonehenge bluestones are of volcanic and igneous rocks, the most common of which are called dolerite and rhyolite. Dr richard bevins ( amgueddfa cymru – national museum wales ) and dr rob ixer ( ucl and university of leicester ) have identified the outcrop of carn goedog as the main source of stonehenge's 'spotted dolerite ' bluestones and the outcrop of craig rhos-y-felin as a source for one of the 'rhyolite ' bluestones. The research published today details excavations at craig rhos-y-felin specifically. The special formation of the rock, which forms natural pillars at these outcrops, allowed the prehistoric quarry-workers to detach each megalith ( standing stone ) with a minimum of effort. \"they only had to insert wooden wedges into the cracks between the pillars and then let the welsh rain do the rest by swelling the wood to ease each pillar off the rock face \" said dr josh pollard ( university of southampton ). \"the quarry-workers then lowered the thin pillars onto platforms of earth and stone, a sort of 'loading bay ' from where the huge stones could be dragged away along trackways leading out of each quarry. \" professor colin richards ( university of manchester ), an expert in neolithic quarries, said: \"the two outcrops are really impressive –",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Excavation of two quarries in wales by a ucl-led team of archaeologists and geologists has confirmed they are sources of stonehenge's 'bluestones ' – and shed light on how they were quarried and transported. New research by the team published today in antiquity presents detailed evidence of prehistoric quarrying in the preseli hills in pembrokeshire, helping to answer long-standing questions about why, when and how stonehenge was built. The team of scientists includes researchers from ucl, university of manchester, bournemouth university, university of southampton, university of leicester, amgueddfa cymru – national museum wales, and dyfed archaeological trust. The very large standing stones at stonehenge are of 'sarsen ', a local sandstone, but the smaller ones, known as 'bluestones ', come from the preseli hills in the pembrokeshire coast national park. Geologists have known since the 1920s that the bluestones were brought to stonehenge from somewhere in the preseli hills, but only now has there been collaboration with archaeologists to locate and excavate the actual quarries from which they came. Director of the project, professor mike parker pearson ( ucl institute of archaeology ), said: \"this has been a wonderful opportunity for geologists and archaeologists to work together. The geologists have been able to lead us to the actual outcrops where stonehenge's stones were extracted. \" the stonehenge bluestones are of volcanic and igneous rocks, the most common of which are called dolerite and rhyolite. Dr richard bevins ( amgueddfa cymru – national museum wales ) and dr rob ixer ( ucl and university of leicester ) have identified the outcrop of carn goedog as the main source of stonehenge's 'spotted dolerite ' bluestones and the outcrop of craig rhos-y-felin as a source for one of the 'rhyolite ' bluestones. The research published today details excavations at craig rhos-y-felin specifically. The special formation of the rock, which forms natural pillars at these outcrops, allowed the prehistoric quarry-workers to detach each megalith ( standing stone ) with a minimum of effort. \"they only had to insert wooden wedges into the cracks between the pillars and then let the welsh rain do the rest by swelling the wood to ease each pillar off the rock face \" said dr josh pollard ( university of southampton ). \"the quarry-workers then lowered the thin pillars onto platforms of earth and stone, a sort of 'loading bay ' from where the huge stones could be dragged away along trackways leading out of each quarry. \" professor colin richards ( university of manchester ), an expert in neolithic quarries, said: \"the two outcrops are really impressive –"
         ],
         "raw_document": [
             "Excavation of two quarries in wales by a ucl-led team of archaeologists and geologists has confirmed they are sources of stonehenge's 'bluestones ' – and shed light on how they were quarried and transported. New research by the team published today in antiquity presents detailed evidence of prehistoric quarrying in the preseli hills in pembrokeshire, helping to answer long-standing questions about why, when and how stonehenge was built. The team of scientists includes researchers from ucl, university of manchester, bournemouth university, university of southampton, university of leicester, amgueddfa cymru – national museum wales, and dyfed archaeological trust. The very large standing stones at stonehenge are of 'sarsen ', a local sandstone, but the smaller ones, known as 'bluestones ', come from the preseli hills in the pembrokeshire coast national park. Geologists have known since the 1920s that the bluestones were brought to stonehenge from somewhere in the preseli hills, but only now has there been collaboration with archaeologists to locate and excavate the actual quarries from which they came. Director of the project, professor mike parker pearson ( ucl institute of archaeology ), said: \"this has been a wonderful opportunity for geologists and archaeologists to work together. The geologists have been able to lead us to the actual outcrops where stonehenge's stones were extracted. \" the stonehenge bluestones are of volcanic and igneous rocks, the most common of which are called dolerite and rhyolite. Dr richard bevins ( amgueddfa cymru – national museum wales ) and dr rob ixer ( ucl and university of leicester ) have identified the outcrop of carn goedog as the main source of stonehenge's 'spotted dolerite ' bluestones and the outcrop of craig rhos-y-felin as a source for one of the 'rhyolite ' bluestones. The research published today details excavations at craig rhos-y-felin specifically. The special formation of the rock, which forms natural pillars at these outcrops, allowed the prehistoric quarry-workers to detach each megalith ( standing stone ) with a minimum of effort. \"they only had to insert wooden wedges into the cracks between the pillars and then let the welsh rain do the rest by swelling the wood to ease each pillar off the rock face \" said dr josh pollard ( university of southampton ). \"the quarry-workers then lowered the thin pillars onto platforms of earth and stone, a sort of 'loading bay ' from where the huge stones could be dragged away along trackways leading out of each quarry. \" professor colin richards ( university of manchester ), an expert in neolithic quarries, said: \"the two outcrops are really impressive –",
@@ -2254,7 +2240,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2284,13 +2270,12 @@
     },
     {
         "idx": 483,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "President obama took such a cautious approach to killing osama bin laden that he actually canceled the mission three times at the urging of advisor valerie jarrett, according to an upcoming book. In leading from behind: the reluctant president and the advisors who decide for him, author richard miniter writes that obama even delayed the mission the day before may 2, 2011, when navy seals finally carried it out, the daily caller reports. \"president obama's greatest success was actually his greatest failure, \" says miniter. But the white house is calling miniter's version of events \" an utter fabrication, \" reports politico. \" it's seems pretty clear that mr. Miniter doesn't know what he's talking about, \" said a white house rep. And a report at media matters notes that miniter's version doesn't jibe with the new yorker's \" deep dive \" into the bin laden raid.",
         "split": "train",
         "cleansed_document": [
             "The white house called a report that president obama called off the raid on osama bin laden three times a \" fabrication. \" in a new book previewed by the daily caller, author richard miniter alleges that obama called off the raid three times at the urging of senior advisor valerie jarrett, before finally authorizing the mission. \" that is an utter fabrication. It's seems pretty clear that mr. Miniter doesn't know what he's talking about, \" white house spokesman josh earnest told reporters monday. \" ms. Jarrett, like the vast majority of the president's senior staff was not read in on the operation on the mission against osama bin laden, \" earnest said. And as the liberal group media matters notes, miniter's report does not square with other reporting on the timeline of the mission. Miniter alleges that obama called off the operation",
-            "The daily caller reported late last night that they obtained an exclusive first look at richard miniter's forthcoming book leading from behind: the reluctant president and the advisors who decide for him, which contains the \" bombshell \" allegation ( sourced to a single anonymous official ) that in the first three months of 2011, president obama thrice canceled the mission to kill osama bin laden. Miniter's and the caller's reporting is contradicted by previous in-depth reports indicating that the plan for the raid wasn't delivered to the president until the end of march, and training for the operation didn't begin until mid-april, meaning that there wasn't yet a \" mission \" for the president to cancel. The daily caller's david martosko wrote last night: in \" leading from behind: the reluctant president and the advisors who decide for him, \" richard",
-            "Shortly after eleven o ' clock on the night of may 1st, two mh-60 black hawk helicopters lifted off from jalalabad air field, in eastern afghanistan, and embarked on a covert mission into pakistan to kill osama bin laden. Inside the aircraft were twenty-three navy seal s from team six, which is officially known as the naval special warfare development group, or devgru. A pakistani-american translator, whom i will call ahmed, and a dog named cairo — a belgian malinois — were also aboard. It was a moonless evening, and the helicopters ' pilots, wearing night-vision goggles, flew without lights over mountains that straddle the border with pakistan. Radio communications were kept to a minimum, and an eerie calm settled inside the aircraft. Fifteen minutes later, the helicopters ducked into an alpine valley and slipped, undetected, into pakistani airspace. For more than sixty years, pakistan"
+            "The daily caller reported late last night that they obtained an exclusive first look at richard miniter's forthcoming book leading from behind: the reluctant president and the advisors who decide for him, which contains the \" bombshell \" allegation ( sourced to a single anonymous official ) that in the first three months of 2011, president obama thrice canceled the mission to kill osama bin laden. Miniter's and the caller's reporting is contradicted by previous in-depth reports indicating that the plan for the raid wasn't delivered to the president until the end of march, and training for the operation didn't begin until mid-april, meaning that there wasn't yet a \" mission \" for the president to cancel. The daily caller's david martosko wrote last night: in \" leading from behind: the reluctant president and the advisors who decide for him, \" richard"
         ],
         "raw_document": [
             "The white house called a report that president obama called off the raid on osama bin laden three times a \" fabrication. \" in a new book previewed by the daily caller, author richard miniter alleges that obama called off the raid three times at the urging of senior advisor valerie jarrett, before finally authorizing the mission. \" that is an utter fabrication. It's seems pretty clear that mr. Miniter doesn't know what he's talking about, \" white house spokesman josh earnest told reporters monday. \" ms. Jarrett, like the vast majority of the president's senior staff was not read in on the operation on the mission against osama bin laden, \" earnest said. And as the liberal group media matters notes, miniter's report does not square with other reporting on the timeline of the mission. Miniter alleges that obama called off the operation",
@@ -2307,7 +2292,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2370,13 +2355,12 @@
     },
     {
         "idx": 486,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Explosions tore through a chevron oil refinery as it erupted in flames yesterday, driving toll takers from the richmond bridge and san francisco bay area residents indoors. At least two fires were triggered when a diesel leak exploded at the richmond refinery, one of the largest in the nation, reports the san francisco chronicle. There were no fatalities and no one was seriously injured. The plant was evacuated after workers spotted the leak. Minutes after the explosions, plant alarms alerted nearby residents to stay indoors with doors and windows shut to avoid breathing toxins in the air. Residents in all of contra costa county in the east bay were being told to stay inside as hazmat trucks drove through streets taking air samples. Health officials, concerned about fumes from crude oil and diesel fuel, said that so far the winds seem to be carrying most of the smoke skyward. Dozens of people complaining about breathing problems headed to local emergency rooms. One patient with a burning throat and sore, itchy eyes, told the chronicle: \" they told me i ' m not going to die, but it sure feels pretty serious. \" the fire was contained late last night as a crew of 60 firefighters battled the blaze with nitrogen and steam to keep it cool, but chevron officials offered no estimate as to when the fire would be extinguished, nbc reports. The 1,200-worker refinery is northern california's largest, the third biggest in the state, and is capable of processing more than 242,000 barrels of oil a day.",
         "split": "train",
         "cleansed_document": [
             "A plume of smoke emits from a fire that broke out at a chevron oil refinery in richmond, california august 6, 2012. A plume of smoke emits from a fire that broke out at a chevron oil refinery in richmond, california august 6, 2012. Richmond/houston ( reuters ) - a massive fire struck at the core of chevron corp's large richmond, california, refinery on monday, spewing flames and a column of smoke into the air, threatening a prolonged outage that may increase prices of the costliest u.s. Gasoline. The fire was contained, but not extinguished, according to the company. The fire has blazed for hours after it erupted at the refinery in a densely populated industrial suburb of san francisco. Smoke could be seen billowing over the bay area and four train stations were shut. Nearby residents were ordered indoors after the fire hit the sole crude unit at the",
-            "Residents living near richmond, california, are being told to stay inside and shut their windows after a fire erupted at a chevron oil refinery. Nbcnews.com's dara brown reports. Updated at 8: 05 a.m. Et: a massive fire struck at the core of chevron's large richmond, calif., refinery on monday, spewing flames and a column of smoke into the air, and threatening a prolonged outage that may increase prices of u.s. Gasoline. The fire was contained by 11 p.m. ( 2 a.m. Et ), according to the company. The fire blazed for hours after it erupted at the refinery in a densely populated industrial suburb east of san francisco. Smoke could be seen billowing over the bay area and four train stations were shut. Thousands of local residents were ordered to stay indoors and shut all windows and doors after the fire hit the sole crude unit at",
-            "Fire at chevron refinery in richmond east bay residents told to stay inside as thick smoke spews into sky from chevron plant photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_next_inline &#124; article-gallery-3767221 &#124; article-gallery-3767221 &#124; 0 photo_prev_inline &#124; article-gallery-3767221 &#124;"
+            "Residents living near richmond, california, are being told to stay inside and shut their windows after a fire erupted at a chevron oil refinery. Nbcnews.com's dara brown reports. Updated at 8: 05 a.m. Et: a massive fire struck at the core of chevron's large richmond, calif., refinery on monday, spewing flames and a column of smoke into the air, and threatening a prolonged outage that may increase prices of u.s. Gasoline. The fire was contained by 11 p.m. ( 2 a.m. Et ), according to the company. The fire blazed for hours after it erupted at the refinery in a densely populated industrial suburb east of san francisco. Smoke could be seen billowing over the bay area and four train stations were shut. Thousands of local residents were ordered to stay indoors and shut all windows and doors after the fire hit the sole crude unit at"
         ],
         "raw_document": [
             "A plume of smoke emits from a fire that broke out at a chevron oil refinery in richmond, california august 6, 2012. A plume of smoke emits from a fire that broke out at a chevron oil refinery in richmond, california august 6, 2012. Richmond/houston ( reuters ) - a massive fire struck at the core of chevron corp's large richmond, california, refinery on monday, spewing flames and a column of smoke into the air, threatening a prolonged outage that may increase prices of the costliest u.s. Gasoline. The fire was contained, but not extinguished, according to the company. The fire has blazed for hours after it erupted at the refinery in a densely populated industrial suburb of san francisco. Smoke could be seen billowing over the bay area and four train stations were shut. Nearby residents were ordered indoors after the fire hit the sole crude unit at the",
@@ -2393,7 +2377,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2418,7 +2402,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2451,12 +2435,11 @@
     },
     {
         "idx": 489,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A 16-year-old boy who stowed away in the wheel well of a plane after a fight with his family is incredibly lucky to be alive after the california-to-hawaii flight, authorities say. The boy made it through the five-hour flight unharmed yesterday despite freezing temperatures at 38,000 feet and a lack of oxygen, the ap reports. An fbi spokesman says the boy was apparently unconscious for most of the flight and he was taken into custody after being found wandering around the grounds of the airport in a disoriented state. Security footage from the san jose airport shows the boy hopping a fence before he climbed into the wheel well of the hawaiian airlines boeing 767, the fbi says. \" our primary concern now is for the well-being of the boy, who is exceptionally lucky to have survived, \" an airline spokeswoman says. The boy, who has not been charged with any crime, is now in the hands of hawaii child protective services officials, reports hawaii news now. The bbc in 2012 noted that dr. Stephen veronneau, with the faa, had documented 96 cases since 1947 of someone stowing away in a plane's wheel well; more than 75 % of the cases ended in a fatality.",
         "split": "train",
         "cleansed_document": [
-            "Honolulu ( ap ) — a 16-year-old boy stowed away in the wheel well of a flight from california to hawaii on sunday, surviving the trip halfway across the pacific ocean unharmed despite frigid temperatures at 38,000 feet and a lack of oxygen, fbi and airline officials said. File- this july 2, 2004, file photo shows a traveler walking from one terminal to another at san jose airport in san jose, calif. Fbi officials say a 16-year-old boy stowed away in the wheel well of a... ( associated press ) fbi spokesman tom simon in honolulu told the associated press on sunday night that the boy was questioned by the fbi after being discovered on the tarmac at the maui airport with no identification. \" kid's lucky to be alive, \" simon said. Simon said security footage from the san jose airport verified that the boy from santa clara, calif., hopped a fence to get to hawaiian airlines flight 45 on sunday morning. The child had run away from his family after an argument, simon said. Simon said when the flight landed in maui, the boy hopped down from the wheel well and started wandering around the airport grounds. \" he was unconscious for the lion's share of the flight, \" simon said. The flight lasted about 5½ hours. Hawaiian airlines spokeswoman alison croyle said airline",
-            "Police are investigating whether a man found dead on a west london street was a stowaway who fell from a plane. Just how often does this happen? no-one saw the body fall from the sky on to portman avenue. A few neighbours thought they heard something, a thud or a loud bang. But not a soul was around to witness a man hit the pavement of this quiet residential street in mortlake, south-west london, early on a bright september sunday. Police say the death is being treated as unexplained. But early media reports all shared the same assumption - that he had stowed away in the landing gear of a plane flying to heathrow, less than 10 miles away. \" he must have come down pretty much vertically to miss the parked cars, \" says john taylor, 79, who heard a thump from his home across the street in this placid, affluent suburb. \" i expect he was dead already. Poor chap must have been desperate. \" image caption flowers mark the spot where a body was found in mortlake it is not the first incident of this kind on the heathrow flightpath. In 2001, the body of mohammed ayaz, a 21-year-old pakistani, was found in the car park of a branch of homebase in nearby richmond. Four years prior to that, another hidden passenger fell"
+            "Honolulu ( ap ) — a 16-year-old boy stowed away in the wheel well of a flight from california to hawaii on sunday, surviving the trip halfway across the pacific ocean unharmed despite frigid temperatures at 38,000 feet and a lack of oxygen, fbi and airline officials said. File- this july 2, 2004, file photo shows a traveler walking from one terminal to another at san jose airport in san jose, calif. Fbi officials say a 16-year-old boy stowed away in the wheel well of a... ( associated press ) fbi spokesman tom simon in honolulu told the associated press on sunday night that the boy was questioned by the fbi after being discovered on the tarmac at the maui airport with no identification. \" kid's lucky to be alive, \" simon said. Simon said security footage from the san jose airport verified that the boy from santa clara, calif., hopped a fence to get to hawaiian airlines flight 45 on sunday morning. The child had run away from his family after an argument, simon said. Simon said when the flight landed in maui, the boy hopped down from the wheel well and started wandering around the airport grounds. \" he was unconscious for the lion's share of the flight, \" simon said. The flight lasted about 5½ hours. Hawaiian airlines spokeswoman alison croyle said airline"
         ],
         "raw_document": [
             "Honolulu ( ap ) — a 16-year-old boy stowed away in the wheel well of a flight from california to hawaii on sunday, surviving the trip halfway across the pacific ocean unharmed despite frigid temperatures at 38,000 feet and a lack of oxygen, fbi and airline officials said. File- this july 2, 2004, file photo shows a traveler walking from one terminal to another at san jose airport in san jose, calif. Fbi officials say a 16-year-old boy stowed away in the wheel well of a... ( associated press ) fbi spokesman tom simon in honolulu told the associated press on sunday night that the boy was questioned by the fbi after being discovered on the tarmac at the maui airport with no identification. \" kid's lucky to be alive, \" simon said. Simon said security footage from the san jose airport verified that the boy from santa clara, calif., hopped a fence to get to hawaiian airlines flight 45 on sunday morning. The child had run away from his family after an argument, simon said. Simon said when the flight landed in maui, the boy hopped down from the wheel well and started wandering around the airport grounds. \" he was unconscious for the lion's share of the flight, \" simon said. The flight lasted about 5½ hours. Hawaiian airlines spokeswoman alison croyle said airline",
@@ -2471,7 +2454,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2636,13 +2619,12 @@
     },
     {
         "idx": 496,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Around 1995, linda and robert tofolowsky noticed the walls of the basement in their connecticut home cracking. Their foundation had developed severe fissures, and they soon discovered other homes in the area with the same issue. Their insurance claim was denied, they got no help from the town or the state, and they lost their lawsuit against jj mottes, the company that installed the concrete for the foundation. In a 2001 complaint the couple filed with the consumer protection department, linda wrote that the issue needed to be made public \" so that maybe someone else will not lose their biggest investment, their home. \" the couple ended up being just the first of hundreds of homeowners in the state whose foundations are crumbling, causing their houses to slowly collapse. \" when you're told your home is now worthless and your biggest investment is now worthless, it's devastating, \" one such homeowner tells the new york times. As the times points out, state officials were warned about the problem by more than just the tofolowskys in the early 2000s, and in 2003, lawmakers met with the cpd, representatives from the attorney general's office, and homeowners about the issue — but did nothing. In july 2015, wvit did an investigative report on the foundations, prompting state officials to open an inquiry. They recently announced that the problem is at least partially caused by high levels of pyrrhotite ( a mineral that can cause swelling and cracking when mixed with water ) from aggregate in a local quarry used in jj mottes ' concrete, the hartford courant reported last month; a spokesperson for jj mottes blames contractors who improperly added water to wet concrete so it would pour faster. Officials are taking steps to help homeowners, but none of those steps do much to subsidize their costs, and wvit notes that insurance companies are only settling with some homeowners and only after \" long legal battles. \"",
         "split": "train",
         "cleansed_document": [
             "Hartford — the first round of state testing into failing home foundations in northern and eastern connecticut has concluded that the presence of a certain mineral in the concrete aggregate is at least partly to blame. \" although [ the ] investigation will continue into the fall, we believe there is now sufficient evidence to conclude that significant levels of the mineral pyrrhotite in stone aggregate used in the production of concrete is a substantial contributing factor to the crumbling foundations, \" state attorney general george jepsen said in a written statement. The early finding was announced monday afternoon in a news release from jepsen and the state department of consumer protection. In addition, the agencies said they reached an agreement with j.j. Mottes co. Of stafford springs to discontinue using or selling aggregate from becker's quarry in willington for residential foundations until june 30, 2017. The agreement also applies to becker's construction, another business in the family. Mottes ' concrete has been cited in lawsuits filed by homeowners with faulty foundations. The agreement does not apply to commercial foundations. \" because the aggregate produced by becker's quarry and the concrete made from it may contain pyrrhotite in significant levels, caution dictates that concrete products and ingredients from these companies",
-            "Ed. Note: the original version of this story incorrectly referred to john patton as the president of the j.j. Mottes company. He is, in fact, a spokesperson. Basement walls are crumbling across a section of eastern connecticut and few seem to know why. The issue has plagued some homeowners for nearly 20 years. According to contractors and building officials from south windsor to willington, the only fix is for the foundation walls to be removed and re-poured. In each known case, insurance companies immediately deny the coverage claim. Donald childree, a general contractor from south windsor, says he's been in up to 75 different homes with the issue. He says it begins with hairline horizontal cracks, often more than 15 years after the foundation is originally placed. In time, map cracking develops, with some cracks big enough to fit a hand in. \" you're looking at a minimum of $ 125,000 upwards to $ 200-250,000, \" childree said, of the cost to replace the foundations. \" insurance companies absolutely will not cover anything. \" dozens of affected homeowners, contractors and building officials claim all of the failed foundations were poured between the early 1980s through 1998 by j.j. Mottes",
-            "Warning! it seems that javascript is not working in your browser. It could be because it is not supported, or that javascript is intentionally disabled. Some of the features on ct.gov will not function properly with out javascript enabled."
+            "Ed. Note: the original version of this story incorrectly referred to john patton as the president of the j.j. Mottes company. He is, in fact, a spokesperson. Basement walls are crumbling across a section of eastern connecticut and few seem to know why. The issue has plagued some homeowners for nearly 20 years. According to contractors and building officials from south windsor to willington, the only fix is for the foundation walls to be removed and re-poured. In each known case, insurance companies immediately deny the coverage claim. Donald childree, a general contractor from south windsor, says he's been in up to 75 different homes with the issue. He says it begins with hairline horizontal cracks, often more than 15 years after the foundation is originally placed. In time, map cracking develops, with some cracks big enough to fit a hand in. \" you're looking at a minimum of $ 125,000 upwards to $ 200-250,000, \" childree said, of the cost to replace the foundations. \" insurance companies absolutely will not cover anything. \" dozens of affected homeowners, contractors and building officials claim all of the failed foundations were poured between the early 1980s through 1998 by j.j. Mottes"
         ],
         "raw_document": [
             "Hartford — the first round of state testing into failing home foundations in northern and eastern connecticut has concluded that the presence of a certain mineral in the concrete aggregate is at least partly to blame. \" although [ the ] investigation will continue into the fall, we believe there is now sufficient evidence to conclude that significant levels of the mineral pyrrhotite in stone aggregate used in the production of concrete is a substantial contributing factor to the crumbling foundations, \" state attorney general george jepsen said in a written statement. The early finding was announced monday afternoon in a news release from jepsen and the state department of consumer protection. In addition, the agencies said they reached an agreement with j.j. Mottes co. Of stafford springs to discontinue using or selling aggregate from becker's quarry in willington for residential foundations until june 30, 2017. The agreement also applies to becker's construction, another business in the family. Mottes ' concrete has been cited in lawsuits filed by homeowners with faulty foundations. The agreement does not apply to commercial foundations. \" because the aggregate produced by becker's quarry and the concrete made from it may contain pyrrhotite in significant levels, caution dictates that concrete products and ingredients from these companies",
@@ -2659,7 +2641,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {

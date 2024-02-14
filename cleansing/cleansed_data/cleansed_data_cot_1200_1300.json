@@ -351,7 +351,7 @@
             "2": 0,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -379,7 +379,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -437,12 +437,11 @@
     },
     {
         "idx": 1216,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Remember google glass? google would likely rather forget it. The wearable technology tops the worst product flops of all time, according to 24/7 wall st, which outlines the top 50 ( though it doesn't share its methodology in compiling the list ). While google glass faced privacy concerns and public bans, other products on the list suffered from flaws, overpricing, and bad advertising. The 10 worst product flops: google glass ( 2013 ) apple's newton personal digital assistant ( 1993 ) atari's et the extra-terrestrial video game ( 1982 ) burger king's satisfries ( 2013 ) rj reynolds'smokeless cigarettes ( 1988 ) frito-lay's cheetos lip balm ( 2005 ) fox's terra nova tv show ( 2011 ) clairol's touch of yogurt shampoo ( 1979 ) coca-cola's new coke ( 1985 ) microsoft's windows vista ( 2007 ) click for the full list or see america's most hated companies.",
         "split": "train",
         "cleansed_document": [
-            "Source: wikimedia commons 1. Google glass > company: google > year introduced: 2013 > what it was: wearable technology google first announced google glass — an eyeglasses shaped head-mounted display with smartphone capabilities — to the public in 2012. The announcement began with a statement of principle: \"we think technology should work for you — to be there when you need it and get out of your way when you don't. \" after two years of disappointing sales, it was clear that consumers did not need google glass. Google stuck to its principle, and in 2015 discontinued the product's development. Privacy concerns, reported bugs, low battery life, bans from public spaces, and an inability to live up to the extensive hype all stymied public adoption of the technology. Source: wikimedia commons 2. The newton > company: apple > year introduced: 1993 > what it was: personal digital assistant while the personal digital assistant would become a popular consumer electronics product in the late 1990s, the first pda was one of the biggest product flops of all time. One year after apple ceo john sculley coined the term \"pda \" in 1992, the company released the newton messagepad. While the device incorporated innovative technology such as a pen-based touch screen and the ability to sync with software on a personal computer, apple sold only",
-            "Just like success, failure is part of doing business. Entrepreneurs and large companies often take big risks, hoping for success but not always achieving it. These failures take many different forms. When a product doesn't sell, when it is recalled or discontinued, or when it otherwise does not come close to meeting a company's expectations, it can be marked as a failure. While failures are expected, some can be so catastrophic they can lead to permanent damage to a company's reputation, layoffs, and even complete financial ruin. 24/7 wall st. Reviewed some of the greatest product launch blunders throughout history. Today, these product flops exist as case studies companies use to avoid future failure. They range from ford's edsel in 1958 to last year's galaxy note 7. Many of these products led to losses in the hundreds of millions, and sometimes billions. In tech, film, the internet, the pharmaceutical industry, and more, these are the biggest product flops of all time. Click here to see the 50 worst product flops of all time. Hindsight is 20/20, and while many of these gaffes might not have been predictable at the time, the reasons for their failure are often much clearer today. The reasons for the failures often fall into one of a several"
+            "Source: wikimedia commons 1. Google glass > company: google > year introduced: 2013 > what it was: wearable technology google first announced google glass — an eyeglasses shaped head-mounted display with smartphone capabilities — to the public in 2012. The announcement began with a statement of principle: \"we think technology should work for you — to be there when you need it and get out of your way when you don't. \" after two years of disappointing sales, it was clear that consumers did not need google glass. Google stuck to its principle, and in 2015 discontinued the product's development. Privacy concerns, reported bugs, low battery life, bans from public spaces, and an inability to live up to the extensive hype all stymied public adoption of the technology. Source: wikimedia commons 2. The newton > company: apple > year introduced: 1993 > what it was: personal digital assistant while the personal digital assistant would become a popular consumer electronics product in the late 1990s, the first pda was one of the biggest product flops of all time. One year after apple ceo john sculley coined the term \"pda \" in 1992, the company released the newton messagepad. While the device incorporated innovative technology such as a pen-based touch screen and the ability to sync with software on a personal computer, apple sold only"
         ],
         "raw_document": [
             "Source: wikimedia commons 1. Google glass > company: google > year introduced: 2013 > what it was: wearable technology google first announced google glass — an eyeglasses shaped head-mounted display with smartphone capabilities — to the public in 2012. The announcement began with a statement of principle: \"we think technology should work for you — to be there when you need it and get out of your way when you don't. \" after two years of disappointing sales, it was clear that consumers did not need google glass. Google stuck to its principle, and in 2015 discontinued the product's development. Privacy concerns, reported bugs, low battery life, bans from public spaces, and an inability to live up to the extensive hype all stymied public adoption of the technology. Source: wikimedia commons 2. The newton > company: apple > year introduced: 1993 > what it was: personal digital assistant while the personal digital assistant would become a popular consumer electronics product in the late 1990s, the first pda was one of the biggest product flops of all time. One year after apple ceo john sculley coined the term \"pda \" in 1992, the company released the newton messagepad. While the device incorporated innovative technology such as a pen-based touch screen and the ability to sync with software on a personal computer, apple sold only",
@@ -457,7 +456,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -514,13 +513,12 @@
     },
     {
         "idx": 1219,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "That person reading a book on the treadmill may be on to something. A university of florida study published last month in plos one showed that older people may be able to exercise more intensely — and gain the benefits associated with that — by doing two things at once. The scientists examined 20 healthy people with an average age of 73, and 28 people with parkinson's disease who were 7 years younger on average, per livescience. The participants completed a dozen cognitive tasks while sitting in a room and while pedaling a stationary bike. They healthy participants sped up their pedaling an average of 25 % ( some hit 50 % ) when they were completing the simplest tasks, like saying \" pa \" as many times as they could in 10 seconds, or saying the word \" go \" when a blue star flashed on a projection screen. ( never mind that the word \" go \" might prod one to do anything faster... ) when the tasks became more difficult, the participants slowed — but in healthy adults, their speeds were, on average, never less than 2.6 % faster than their baseline speed. The researchers propose that cognitive tasks release the neurotransmitters dopamine and noradrenaline, which can make the brain's frontal lobes speedier and more efficient; in turn, motor and cognitive performance improve. Those with parkinson's disease pedaled slower than the healthy adults ( but still faster, on average, than their baseline speed while completing 9 of the tasks ), which researchers believe is due to deficits in their neurotransmitters. Researcher lori altmann was surprised by the findings: \" every dual-task study that i ' m aware of shows when people are doing two things at once they get worse, \" she says in a press release. ( could the \" thunder god vine \" end obesity? )",
         "split": "train",
         "cleansed_document": [
             "Unexpectedly, cycling speed actually increased during dual tasks, leading to dual task benefits rather than the expected dual task costs for both populations. Further, dtes of the pd group were less than those of the hoas, rather than greater. Simultaneously, performance in cognitive tasks in the dual task condition did not differ from single task performance with three exceptions, performance in two cognitive tasks improved ( although the difference was not significant when age was covaried ) and performance in one cognitive task declined in both groups. These findings cannot be explained by current theories in which dual task effects are attributed to the cognitive demands of the two concurrent tasks exceeding available cognitive resources. We conclude that additional factors must be playing a role in dual task situations. Accounting for dual task benefits research on acute exercise, which examines cognitive performance during dual tasks when exercise levels are held constant, offers a",
-            "Who says you can't do two things at once and do them both well? a new university of florida study challenges the notion that multi-tasking causes one or both activities to suffer. In a study of older adults who completed cognitive tasks while cycling on a stationary bike, uf researchers found that participants ' cycling speed improved while multi-tasking with no cost to their cognitive performance. Results of the study, which was supported by a grant from the national institute on aging, were published may 13 in the journal plos one. The discovery was a surprise finding for investigators lori altmann, an associate professor of speech, language and hearing sciences at the college of public health and health professions, and chris hass, an associate professor of applied physiology and kinesiology in the college of health and human performance. They originally set out to determine the degree to which dual task performance suffers",
-            "Trying to do multiple things at once can have mixed results; you may accomplish more, or you may not get anything done. When it comes to exercising, though, multitasking may be a good idea, a new study suggests. In the study of older adults, researchers found that, when people completed easy cognitive tasks while they were cycling on a stationary bike, their cycling speed increased. The investigators said the results surprised them. \" every dual-task study that i ' m aware of shows that, when people are doing two things at once, they get worse \" at those tasks, study author lori altmann, an associate professor of speech, language and hearing sciences at the university of florida, said in a statement. \" everybody has experienced walking somewhere in a hurry when the person in front of them pulls out a phone, and that person just slows"
+            "Who says you can't do two things at once and do them both well? a new university of florida study challenges the notion that multi-tasking causes one or both activities to suffer. In a study of older adults who completed cognitive tasks while cycling on a stationary bike, uf researchers found that participants ' cycling speed improved while multi-tasking with no cost to their cognitive performance. Results of the study, which was supported by a grant from the national institute on aging, were published may 13 in the journal plos one. The discovery was a surprise finding for investigators lori altmann, an associate professor of speech, language and hearing sciences at the college of public health and health professions, and chris hass, an associate professor of applied physiology and kinesiology in the college of health and human performance. They originally set out to determine the degree to which dual task performance suffers"
         ],
         "raw_document": [
             "Unexpectedly, cycling speed actually increased during dual tasks, leading to dual task benefits rather than the expected dual task costs for both populations. Further, dtes of the pd group were less than those of the hoas, rather than greater. Simultaneously, performance in cognitive tasks in the dual task condition did not differ from single task performance with three exceptions, performance in two cognitive tasks improved ( although the difference was not significant when age was covaried ) and performance in one cognitive task declined in both groups. These findings cannot be explained by current theories in which dual task effects are attributed to the cognitive demands of the two concurrent tasks exceeding available cognitive resources. We conclude that additional factors must be playing a role in dual task situations. Accounting for dual task benefits research on acute exercise, which examines cognitive performance during dual tasks when exercise levels are held constant, offers a",
@@ -537,7 +535,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -572,12 +570,11 @@
     },
     {
         "idx": 1221,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A police lieutenant in georgia has been moved to administrative duty after being heard on video during a traffic stop saying \" we only shoot black people. \" news outlets report dash-cam video from july 2016 shows a white female driver telling cobb county police lt. Greg abbott she was scared to move her hands in order to get her cellphone, reports the ap. Abbott interrupts her and says, \" but you're not black. Remember, we only shoot black people. \" the atlanta journal-constitution reports that he continued, \" yeah. We only kill black people, right? all the videos you've seen, have you seen the black people get killed? \" channel 2 action news reports that after it submitted an open-records request to obtain the video ( see it here ), cobb county police chief mike register took a look at the footage, which was taken during a dui stop. Abbott will remain on administrative duty pending an investigation, says register, adding that \" no matter what context it was said, it shouldn't have been said. \" abbott's attorney, lance lorusso, said in a statement abbott is cooperating with the investigation, and that his comments were meant to \" de-escalate a situation involving an uncooperative passenger. \" lorusso says abbott has been on the force for 28 years.",
         "split": "train",
         "cleansed_document": [
-            "Marietta, ga. ( ap ) — a police lieutenant in georgia has been moved to administrative duty after being heard on video during a traffic stop saying \" we only shoot black people. \" news outlets report dash-cam video from july 2016 shows a white female driver telling cobb county police lt. Greg abbott she was scared to move her hands in order to get her cellphone. Abbott interrupts her and says, \" but you're not black. Remember, we only shoot black people. \" police chief mike register says abbott will remain on administrative duty pending an investigation, and that \" no matter what context it was said, it shouldn't have been said. \" abbott's attorney, lance lorusso, said in a statement abbott is cooperating with the investigation, and that his comments were meant to \" de-escalate a situation involving an uncooperative passenger. \"",
-            "Just one more thing... We have sent you a verification email. Please check your email and click on the link to activate your ajc.com profile. If you do not receive the verification message within a few minutes of signing up, please check your spam or junk folder. Close"
+            "Marietta, ga. ( ap ) — a police lieutenant in georgia has been moved to administrative duty after being heard on video during a traffic stop saying \" we only shoot black people. \" news outlets report dash-cam video from july 2016 shows a white female driver telling cobb county police lt. Greg abbott she was scared to move her hands in order to get her cellphone. Abbott interrupts her and says, \" but you're not black. Remember, we only shoot black people. \" police chief mike register says abbott will remain on administrative duty pending an investigation, and that \" no matter what context it was said, it shouldn't have been said. \" abbott's attorney, lance lorusso, said in a statement abbott is cooperating with the investigation, and that his comments were meant to \" de-escalate a situation involving an uncooperative passenger. \""
         ],
         "raw_document": [
             "Marietta, ga. ( ap ) — a police lieutenant in georgia has been moved to administrative duty after being heard on video during a traffic stop saying \" we only shoot black people. \" news outlets report dash-cam video from july 2016 shows a white female driver telling cobb county police lt. Greg abbott she was scared to move her hands in order to get her cellphone. Abbott interrupts her and says, \" but you're not black. Remember, we only shoot black people. \" police chief mike register says abbott will remain on administrative duty pending an investigation, and that \" no matter what context it was said, it shouldn't have been said. \" abbott's attorney, lance lorusso, said in a statement abbott is cooperating with the investigation, and that his comments were meant to \" de-escalate a situation involving an uncooperative passenger. \"",
@@ -592,7 +589,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -627,14 +624,13 @@
     },
     {
         "idx": 1223,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Right now, gina rodriguez could be spending the money doled out to her by cbs television studios to promote her emmy run. But the jane the virgin star decided to use the cash for something else instead: setting up a college scholarship for an undocumented latinx immigrant. Today and the verge note that money in an actor's fyc ( for your consideration ) fund is typically used to help campaign during awards season, paying for everything from stylists and swag to billboards, bus ads, and tv screeners. But per the hollywood reporter, the 33-year-old actress opted to divert the funds toward an unrelated cause. \" our show has always jumped at any opportunity to help me do something for the latinx community, \" rodriguez says. \" so i asked my showrunner … if we could do something different with the money this year. \" working with big brothers big sisters of los angeles, they found their candidate for the four-year scholarship: a female high school student headed to princeton. Rodriguez wasn't sure she wanted to publicize her good deed, but she ultimately decided it could have a copycat effect. \" i think sharing this might inspire other people to do something similar, \" she tells the hollywood reporter. Rodriguez has never been nominated for an emmy, though she did win a golden globe in 2015 and was nominated in both 2016 and 2017. ( a $ 33 million jeff bezos donation will send 1,000 dreamers to college. )",
         "split": "train",
         "cleansed_document": [
             "Get the latest from today sign up for our newsletter gina rodriguez isn't acting when it comes to committing to acts of kindness. The \"jane the virgin \" star is using her stipend for emmy campaigning to fund a college scholarship for an undocumented high school student, according to the hollywood reporter. ' jane the virgin'star gina rodriguez is using her emmy for your consideration money to fund a college scholarship for a latinx student. Jordan strauss / ap \" our show has always jumped at any opportunity to help me do something for the latinx community, \" rodriguez told the industry trade. \" so i asked my showrunner, jennie ( snyder urman )",
             "This year, the ' jane the virgin'star decided to put her allotted fyc spend from cbs tv studios toward paying for the education of an undocumented high school student. Gina rodriguez will be throwing her hat in the emmy ring for the fourth ( and penultimate ) season of her cw comedy, jane the virgin. She just won't be spending studio money on glam for campaign events or themed swag — though, as a recent episode of unbreakable kimmy schmidt suggests, a jane-branded pregnancy test would be quite a novelty. \" fyc is a bizarre dance, \" says the star. \" whatever you do requires an insane amount of money. \"",
-            "Every year in advance of the emmy nominations, tv networks and studios shell out massive sums of money on campaigns to promote their submitted creatives and shows. The promotions, aptly labeled \"for your consideration \" ( or fyc ), can range from billboards and bus ads around los angeles and new york to show-branded swag and screeners sent to tv academy members. It's an expensive process, and it often fails to pay off. This year, jane the virgin star gina rodriguez has convinced the cw that 2018's fyc money for the show would be better spent funding a college scholarship for an undocumented latinx student. Per the hollywood reporter, rodriguez —",
-            "The word \"latinx \" ( pronounced \"la-teen-ex \" ) has been used more and more lately. And, yet, while many people are using the term and identifying as latinx, there are still others who may look at the word with skepticism and confusion. In recent months, huffpost latino voices has incorporated usage of latinx into some of our articles to reflect this change, to which some readers have responded by saying: \"you misspelled 'latino. ' \" \"latinx isn't a word. \" \"i keep seeing latinx... What does it mean? \" no, it's not a typo. Yes, latinx is, in fact, a word ― one many people"
+            "Every year in advance of the emmy nominations, tv networks and studios shell out massive sums of money on campaigns to promote their submitted creatives and shows. The promotions, aptly labeled \"for your consideration \" ( or fyc ), can range from billboards and bus ads around los angeles and new york to show-branded swag and screeners sent to tv academy members. It's an expensive process, and it often fails to pay off. This year, jane the virgin star gina rodriguez has convinced the cw that 2018's fyc money for the show would be better spent funding a college scholarship for an undocumented latinx student. Per the hollywood reporter, rodriguez —"
         ],
         "raw_document": [
             "Get the latest from today sign up for our newsletter gina rodriguez isn't acting when it comes to committing to acts of kindness. The \"jane the virgin \" star is using her stipend for emmy campaigning to fund a college scholarship for an undocumented high school student, according to the hollywood reporter. ' jane the virgin'star gina rodriguez is using her emmy for your consideration money to fund a college scholarship for a latinx student. Jordan strauss / ap \" our show has always jumped at any opportunity to help me do something for the latinx community, \" rodriguez told the industry trade. \" so i asked my showrunner, jennie ( snyder urman )",
@@ -653,7 +649,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -760,15 +756,14 @@
     },
     {
         "idx": 1228,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "For some 44 years, british tabloid the sun has featured topless female models on its third page in a controversial tradition known as the \" page 3 girls. \" but no more: though the sun itself has not confirmed the change, another newspaper owned by rupert murdoch, the times, reports that friday's edition was the last to feature the \" bare-breasted \" photos. This week, the tabloid has still featured photos of scantily clad women there ( rosie huntington-whiteley in lingerie yesterday; two actresses in bikinis today ), but their breasts are covered up. Activists had been railing against the \" page 3 girls \" feature in recent years, calling it sexist, afp reports. According to the times, murdoch himself called the tradition \" old-fashioned \" last year and a change has been in the works ever since. Even so, it was just after murdoch bought the sun that the tradition began, back in 1970 with german model stephanie rahn. Since then, models like samantha fox and katie price have seen their careers launched by the page. But the sun's pr head insists to afp that there's no official confirmation from the tabloid that the tradition is definitively over, and afp also notes that in today's edition, readers were informed they could see topless photos online instead ( the guardian notes that viewers are being directed to page3.com ). Lucy-anne holmes, the actress who started the no more page 3 campaign in 2012, wasn't exactly effusive in her praise of the move: \" the sun hasn't suddenly decided that women say, think, and do interesting and incredible things, \" she tells the bbc. \" it's still basically saying women are here for decoration, but it's a step in the right direction. \"",
         "split": "train",
         "cleansed_document": [
             "London ( afp ) - the sun newspaper has quietly ended a decades-old tradition of putting topless women on page 3 in a setback for schoolboy fantasies that was welcomed by women around the country. The times, which like the sun is owned by billionaire media tycoon rupert murdoch's news uk, said on tuesday that last friday's edition of the tabloid was the last to feature a nude model after 44 years. \" the sun will no longer feature topless models on page 3,",
             "Sam fox was one of the sun's most well-known page 3 girls the sun the sun will no longer feature topless models on page 3 after quietly dropping one of the most controversial traditions in british journalism. The times understands that friday's edition of the paper was the last that will carry an image of a glamour model with bare breasts on that page, ending a convention that began in 1970, shortly after rupert murdoch bought the newspaper and turned it into britain's bestselling",
             "The sun, britain's top-selling newspaper, has scrapped page 3's topless women after 44 years, delighting the legion of critics who have branded the photos of bare-breasted models sexist, offensive and anachronistic. Insiders said the decision has been taken to kill off the controversial feature quietly but that the feature would continue online. \"this comes from high up, from new york, \" said one senior executive in a reference to the paper's owner rupert murdoch. The sun refused to",
-            "Image copyright pa image caption the page three feature in the sun was started in 1970 the sun newspaper will no longer feature topless women on page three, the times has reported. The times, which has the same publisher as the sun, said it understood friday's edition of the sun was the last that would carry images of topless women, although they would continue online. Page three has been a sun feature for 44 years but has been criticised for being sexist and outdated.",
-            "The uk european union membership referendum, also know as the \" brexit \" referendum, was a non-binding referendum that took place on thursday 23 june 2016 in the united kingdom to gauge support for the country's continued membership in the european union. The referendum resulted in an overall vote to leave the european union by 51.9 %, with 17,410,742 votes to \" leave \" and 16,141,241 to \" remain \". The uk european union membership referendum web archive collected the most important \" remain \" and"
+            "Image copyright pa image caption the page three feature in the sun was started in 1970 the sun newspaper will no longer feature topless women on page three, the times has reported. The times, which has the same publisher as the sun, said it understood friday's edition of the sun was the last that would carry images of topless women, although they would continue online. Page three has been a sun feature for 44 years but has been criticised for being sexist and outdated."
         ],
         "raw_document": [
             "London ( afp ) - the sun newspaper has quietly ended a decades-old tradition of putting topless women on page 3 in a setback for schoolboy fantasies that was welcomed by women around the country. The times, which like the sun is owned by billionaire media tycoon rupert murdoch's news uk, said on tuesday that last friday's edition of the tabloid was the last to feature a nude model after 44 years. \" the sun will no longer feature topless models on page 3,",
@@ -791,7 +786,7 @@
             "2": 0,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 4
         }
     },
     {
@@ -843,7 +838,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -953,12 +948,11 @@
     },
     {
         "idx": 1235,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The deal with iran that president trump calls a \" disaster \" serves the interests of american national security and is \" something that the president should consider staying with, \" defense secretary jim mattis says. Mattis contradicted trump's position on the deal to restrict iran's nuclear program after being pressed on the issue during a senate armed services committee hearing on tuesday, the new york times reports. He said he supports trump's \" rigorous review \" of national security issues, but said the deal was worth keeping if \" we can confirm that iran is living by the agreement. \" trump last re-certified iran's compliance in july and the next deadline for him to do so is oct. 15, abc news reports. Chairman of the joint chiefs of staff gen. Joseph dunford also expressed support for the deal during tuesday's hearing, cnn reports. \" iran is not in material breach of the agreement, and i do believe the agreement to date has delayed the development of a nuclear capability by iran, \" he said. Trump has called the deal an \" embarrassment \" for the us and complained that it does not address issues including iran's missile development. After criticizing the deal in his speech to the united nations general assembly last month, trump said he had made up his mind on the future of the agreement, though he didn't disclose his decision.",
         "split": "train",
         "cleansed_document": [
-            "Story highlights trump has repeatedly criticized the iran deal iranian president hassan rouhani said it would be a \" great pity \" if \" rogue newcomers \" destroy the deal washington ( cnn ) secretary of defense james mattis said tuesday that he believes it is in us national security interest to remain in the iran nuclear agreement despite repeated hints from president donald trump that he is inclined to scrap the deal. During a hearing before the senate armed services committee, sen. Angus king asked mattis: \" do you believe it is in our national security interest at the present time to remain in the ( joint comprehensive plan of action )? that is a yes or no question. \" mattis replied, \" yes, senator, i do. \" \" the point i would make is if we can confirm that iran is living by the agreement, if we can determine that this is in our best interests then clearly we should stay with it, \" mattis added. \" i believe at this point in time absent indications to the contrary, it is something the president should consider staying with. \" but mattis went on to explain that he also supports a rigorous review of national security issues related to iran that may fall outside the exact terms of the agreement. Read more",
-            "But the evident dissonance between the president and his senior national security advisers has taken on greater consequence in the cases of iran and north korea, which are potentially questions of war or peace. Amid the simmering north korean crisis, secretary of state rex w. Tillerson told reporters in beijing over the weekend that he was keeping \"a couple, three channels open to pyongyang \" to defuse the situation. The next morning, he was slapped down by mr. Trump, who read newspaper accounts of that conversation and tweeted \"save your energy rex, \" complaining that mr. Tillerson was \"wasting his time trying to negotiate with little rocket man, \" the president's derisive nickname for kim jong-un, the north korean leader. White house officials said mr. Trump was angry that his secretary of state was suggesting it was time to talk with north korea, when official administration policy is that the north must earn the right — by halting missile and nuclear tests for an unspecified period of time. It was hardly the first time that mr. Tillerson, who is widely reported to be frustrated in the job, has publicly split with the president. In august, he conceded that he had argued in favor of keeping the iran deal, saying he had \"differences of views \" from the president. At the same time, he acknowledged that iran continued to support terrorism and was failing to comply with what he called \"the"
+            "Story highlights trump has repeatedly criticized the iran deal iranian president hassan rouhani said it would be a \" great pity \" if \" rogue newcomers \" destroy the deal washington ( cnn ) secretary of defense james mattis said tuesday that he believes it is in us national security interest to remain in the iran nuclear agreement despite repeated hints from president donald trump that he is inclined to scrap the deal. During a hearing before the senate armed services committee, sen. Angus king asked mattis: \" do you believe it is in our national security interest at the present time to remain in the ( joint comprehensive plan of action )? that is a yes or no question. \" mattis replied, \" yes, senator, i do. \" \" the point i would make is if we can confirm that iran is living by the agreement, if we can determine that this is in our best interests then clearly we should stay with it, \" mattis added. \" i believe at this point in time absent indications to the contrary, it is something the president should consider staying with. \" but mattis went on to explain that he also supports a rigorous review of national security issues related to iran that may fall outside the exact terms of the agreement. Read more"
         ],
         "raw_document": [
             "Story highlights trump has repeatedly criticized the iran deal iranian president hassan rouhani said it would be a \" great pity \" if \" rogue newcomers \" destroy the deal washington ( cnn ) secretary of defense james mattis said tuesday that he believes it is in us national security interest to remain in the iran nuclear agreement despite repeated hints from president donald trump that he is inclined to scrap the deal. During a hearing before the senate armed services committee, sen. Angus king asked mattis: \" do you believe it is in our national security interest at the present time to remain in the ( joint comprehensive plan of action )? that is a yes or no question. \" mattis replied, \" yes, senator, i do. \" \" the point i would make is if we can confirm that iran is living by the agreement, if we can determine that this is in our best interests then clearly we should stay with it, \" mattis added. \" i believe at this point in time absent indications to the contrary, it is something the president should consider staying with. \" but mattis went on to explain that he also supports a rigorous review of national security issues related to iran that may fall outside the exact terms of the agreement. Read more",
@@ -973,7 +967,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1028,7 +1022,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1155,13 +1149,12 @@
     },
     {
         "idx": 1242,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Using radio waves, hackers at the french government agency anssi say they've been able to silently trigger voice commands on any smartphone thanks to access via google now and siri. Reporting in the journal ieee, they say it's possible to operate the voice-activated command tools to do things like open malware sites, send texts or phishing emails, and even call specific phone numbers that generate cash for the hacker. But as \" clever \" as wired reports this trick to be — the headphone cord is used as an antenna — it has several limitations, including that headphones with a microphone must be plugged into the jack; the hacker must be within 16 feet of the phone; and google now or siri must be enabled. \" additional functionality, especially concerning user convenience, has often come at the cost of some security, \" gavin reid, vp of threat intelligence for lancope, tells forbes. \" in this case the hack needs proximity to work and is a proof of concept needing specialized hardware. \" and while it's possible for people with this hardware to position themselves in crowded places such as airports and trigger some kind of attack on any qualifying phones within range, he adds that the odds are low. \" this attack is less likely to be leveraged by the criminal underground, especially with other methods much easier to implement. \" even so, vincent strubel at anssi says, \" the sky is the limit here. Everything you can do through the voice interface you can do remotely and discreetly through electromagnetic waves. \" ( some 95 % of androids are open to a major hack. )",
         "split": "train",
         "cleansed_document": [
             "One of the new features in ios 9 is the ability to train siri to only recognize your voice so your phone doesn't respond to commands from just anybody. According to a report from wired, though, a pair of researchers at anssi — a french government agency — have figured out a way to use radio waves to silently activate siri or android's google now from across the room. The hack only works if the target device has siri or google now enabled, and has headphones or earbuds plugged in that also have a microphone. Wired explains, \"their clever hack uses those headphones ' cord as an antenna, exploiting its wire to convert surreptitious electromagnetic waves into electrical signals that appear to the phone's operating system to be audio coming from the user's microphone. \" in theory, the attack could be used to anything you can do using the siri or google now voice interaction. The attacker could make calls, send text messages, open malicious websites, send spam or phishing emails, or post to social networks like facebook and twitter. By placing an outbound call to the attacker's own phone the hack",
-            "Siri may be your personal assistant. But your voice is not the only one she listens to. As a group of french researchers have discovered, siri also helpfully obeys the orders of any hacker who talks to her — even, in some cases, one who's silently transmitting those commands via radio from as far as 16 feet away. A pair of researchers at anssi, a french government agency devoted to information security, have shown that they can use radio waves to silently trigger voice commands on any android phone or iphone that has google now or siri enabled, if it also has a pair of headphones with a microphone plugged into its jack. Their clever hack uses those headphones ' cord as an antenna, exploiting its wire to convert surreptitious electromagnetic waves into electrical signals that appear to the phone's operating system to be audio coming from the user's microphone. Without speaking a word, a hacker could use that radio attack to tell siri or google now to make calls and send texts, dial the hacker's number to turn the phone into an eavesdropping device, send the phone's browser to a malware",
-            "Page not found we're sorry. We cannot find a page that matches your request. Below are some suggestions that may assist: return to the ieee xplore home page. Use your browser's back button to return to the previous page. Contact us for assistance or to report the issue. Reason for failure: query not valid"
+            "Siri may be your personal assistant. But your voice is not the only one she listens to. As a group of french researchers have discovered, siri also helpfully obeys the orders of any hacker who talks to her — even, in some cases, one who's silently transmitting those commands via radio from as far as 16 feet away. A pair of researchers at anssi, a french government agency devoted to information security, have shown that they can use radio waves to silently trigger voice commands on any android phone or iphone that has google now or siri enabled, if it also has a pair of headphones with a microphone plugged into its jack. Their clever hack uses those headphones ' cord as an antenna, exploiting its wire to convert surreptitious electromagnetic waves into electrical signals that appear to the phone's operating system to be audio coming from the user's microphone. Without speaking a word, a hacker could use that radio attack to tell siri or google now to make calls and send texts, dial the hacker's number to turn the phone into an eavesdropping device, send the phone's browser to a malware"
         ],
         "raw_document": [
             "One of the new features in ios 9 is the ability to train siri to only recognize your voice so your phone doesn't respond to commands from just anybody. According to a report from wired, though, a pair of researchers at anssi — a french government agency — have figured out a way to use radio waves to silently activate siri or android's google now from across the room. The hack only works if the target device has siri or google now enabled, and has headphones or earbuds plugged in that also have a microphone. Wired explains, \"their clever hack uses those headphones ' cord as an antenna, exploiting its wire to convert surreptitious electromagnetic waves into electrical signals that appear to the phone's operating system to be audio coming from the user's microphone. \" in theory, the attack could be used to anything you can do using the siri or google now voice interaction. The attacker could make calls, send text messages, open malicious websites, send spam or phishing emails, or post to social networks like facebook and twitter. By placing an outbound call to the attacker's own phone the hack",
@@ -1178,7 +1171,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1228,14 +1221,13 @@
     },
     {
         "idx": 1244,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The editors of the new york times book review are out with their annual list of the best reads of the year. The top 10, which aren't ranked in order: the association of small bombs, karan mahajan, fiction. Review here. The north water, ian mcguire, fiction. Review here. The underground railroad, colson whitehead, fiction. Review here. The vegetarian, han kang, fiction. Review here. War and turpentine, stefan hertmans, fiction. Review here. At the existentialist cafe, sarah bakewell, nonfiction. Review here. Dark money: the hidden history of billionaires behind the rise of the radical right, jane mayer, nonfiction. Review here. Evicted: poverty and profit in the american city, matthew desmond, nonfiction. Review here. In the darkroom, susan faludi, nonfiction. Review here. The return: fathers, sons and the land in between, hisham matar, nonfiction. Review here. Click here for snapshot descriptions of the books.",
         "split": "train",
         "cleansed_document": [
             "Meet cora, a young slave on a georgia cotton plantation. Her mother ran away when cora was a little girl, and that feeling of abandonment has haunted her ever since. When she is approached by another slave about the underground railroad, she hesitates; but then life, in the form of rape and humiliation, gives",
             "The stories she tells begin in medias res, around 1932, in a real parisian cafe where sartre is intrigued by his school friend raymond aron's report of a new philosophical movement, phenomenology. It concerned itself, aron explained, not with the theoretical or moral meaning of things, but with the things themselves and the",
-            "Fiction the association of small bombs by karan mahajan a finalist for the national book award, mahajan's novel — smart, devastating and unpredictable — opens with a kashmiri terrorist attack in a delhi market, then follows the lives of those affected. This includes deepa and vikas khurana, whose young sons were killed, and the",
-            "Dividing his work into three parts, hertmans floats through the first and third sections as an essayist and imagist, interpreting the notebooks and visiting the sites that shaped his grandfather's development as a man and an artist. He grapples, conjectures, chronicles and evokes. But in the middle section, he sets this machinery aside"
+            "Fiction the association of small bombs by karan mahajan a finalist for the national book award, mahajan's novel — smart, devastating and unpredictable — opens with a kashmiri terrorist attack in a delhi market, then follows the lives of those affected. This includes deepa and vikas khurana, whose young sons were killed, and the"
         ],
         "raw_document": [
             "Meet cora, a young slave on a georgia cotton plantation. Her mother ran away when cora was a little girl, and that feeling of abandonment has haunted her ever since. When she is approached by another slave about the underground railroad, she hesitates; but then life, in the form of rape and humiliation, gives",
@@ -1262,7 +1254,7 @@
             "4": 5,
             "5": 5,
             "6": 5,
-            "7": 0
+            "7": 4
         }
     },
     {
@@ -1362,7 +1354,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1518,17 +1510,16 @@
             "3": 0,
             "4": 0,
             "5": 0,
-            "6": 0
+            "6": 1
         }
     },
     {
         "idx": 1254,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Unlike charging, kneeing, cross-checking, hooking, and spearing, licking isn't on the national hockey league's list of infractions — but that doesn't mean boston bruins forward brad marchand can keep doing it. The league says marchand was put \" on notice \" after licking the face of the tampa bay lightning's ryan callahan during friday's game, nbc sports reports. Marchand also licked leo komarov of the toronto maple leafs during a first-round playoff game, and kissed the same player on the cheek during a regular-season game. The nhl says director of hockey operations colin campbell spoke to marchand and don sweeney, the general manager of the bruins, on saturday and told them such conduct is \" unacceptable and similar behavior in the future will be dealt with by way of supplemental discipline. \" bruins coach bruce cassidy told global news sunday that marchand had been told to keep his tongue to himself. \" if part of his m.o. Is to annoy people, find another way to do it, \" he said. \" preferably by scoring some goals, that would be the best way probably. \" in the end, it was the bruins who were licked: the lightning beat them 3-1 sunday night to win the series and move to the next round.",
         "split": "train",
         "cleansed_document": [
-            "The licking habits of boston bruins left winger brad marchand are about to change after coach bruce cassidy ordered him to stop using his tongue on the faces of opposing players. Cassidy told reporters prior to sunday's game against the tampa bay lightning that he met with marchand on saturday shortly after the 29-year-old had met with nhl senior vice president of hockey operations colin campbell and bruins general manager don sweeney. Read more: stop licking opponents, nhl tells bruins ' forward brad marchand \"i saw the directive from the league, \" cassidy said. \"i talked to marchy about it ( and said ), 'that's what the league's asked for and we need you on the ice, we need you playing.'so zip it, or whatever term you used. \" marchand has been employing the unique tactic as a way to get under the skin of opposing players and resorted",
-            "In the event of \" misconduct \" penalties to any players except the goalkeeper, the players shall be ruled off the ice for a period of ten ( 10 ) minutes each. A substitute player is permitted permitted to immediately replace a player serving a misconduct penalty. A player whose misconduct penalty has expired shall remain in the penalty box until the next stoppage of play. When a player receives a minor penalty and a misconduct penalty at the same time, the penalized team shall immediately put a substitute player on the penalty bench and he shall serve the minor penalty without change. When a player receives a major penalty and a misconduct penalty at the same time, the penalized team shall place a substitute player on the penalty bench before the major penalty expires and no replacement for the penalized player shall be permitted to enter the game except from the penalty bench. Any violation of this"
+            "The licking habits of boston bruins left winger brad marchand are about to change after coach bruce cassidy ordered him to stop using his tongue on the faces of opposing players. Cassidy told reporters prior to sunday's game against the tampa bay lightning that he met with marchand on saturday shortly after the 29-year-old had met with nhl senior vice president of hockey operations colin campbell and bruins general manager don sweeney. Read more: stop licking opponents, nhl tells bruins ' forward brad marchand \"i saw the directive from the league, \" cassidy said. \"i talked to marchy about it ( and said ), 'that's what the league's asked for and we need you on the ice, we need you playing.'so zip it, or whatever term you used. \" marchand has been employing the unique tactic as a way to get under the skin of opposing players and resorted"
         ],
         "raw_document": [
             "The licking habits of boston bruins left winger brad marchand are about to change after coach bruce cassidy ordered him to stop using his tongue on the faces of opposing players. Cassidy told reporters prior to sunday's game against the tampa bay lightning that he met with marchand on saturday shortly after the 29-year-old had met with nhl senior vice president of hockey operations colin campbell and bruins general manager don sweeney. Read more: stop licking opponents, nhl tells bruins ' forward brad marchand \"i saw the directive from the league, \" cassidy said. \"i talked to marchy about it ( and said ), 'that's what the league's asked for and we need you on the ice, we need you playing.'so zip it, or whatever term you used. \" marchand has been employing the unique tactic as a way to get under the skin of opposing players and resorted",
@@ -1545,7 +1536,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1576,7 +1567,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1790,7 +1781,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1865,7 +1856,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1906,12 +1897,11 @@
     },
     {
         "idx": 1268,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The two-year federal investigation into john edwards has reached a critical point and criminal charges against him are expected to be filed today. Edwards ' attorney has traveled to north carolina to meet with prosecutors, and the former democratic presidential candidate is likely to either be indicted or reach a plea agreement over his alleged use of campaign funds to cover up an extramarital affair during the 2008 campaign, sources tell cnn. If edwards pleads guilty to a felony involving campaign funds, he could be stripped of his license to practice law, ending his hopes of reviving his legal career. Even if edwards won a court battle against charges, more sordid revelations are likely to emerge to further tarnish his reputation, ap notes. \" trial or not, john edwards is the charlie sheen of american politics — great hair and no chance for rehabilitation, \" quipped a democratic consultant.",
         "split": "train",
         "cleansed_document": [
-            "File - in this dec. 11, 2010 file photo, former democratic presidential candidate john edwards is seen in raleigh, n.c. Edwards and federal prosecutors are arguing over whether the money used to cover... ( associated press ) file - in this dec. 11, 2010 file photo, former democratic presidential candidate john edwards is seen in raleigh, n.c. Edwards and federal prosecutors are arguing over whether the money used to cover... ( associated press ) criminal charges are likely to be filed friday against john edwards, the culmination of a two-year federal investigation into money used to cover up his extramarital affair during the 2008 presidential election. Edwards ' attorney greg craig was traveling to meet friday with prosecutors in north carolina, an indication that the former presidential candidate is likely to charged, either in a grand jury indictment or in a negotiated charge to which he would plead guilty. A person with knowledge of the investigation said craig, a washington lawyer who was president barack obama's first white house counsel, planned to be in his client's home state friday, where prosecutors were prepared to file charges. The source insisted on anonymity in order to discuss the private negotiations. Edwards has had north carolina representation throughout the investigation, but craig was brought onto the team earlier this year when the decision whether to charge him still rested with",
-            "Washington ( cnn ) -- former democratic vice presidential nominee and two-time presidential candidate john edwards pleaded not guilty friday to conspiracy and campaign law violations, acknowledging that he had \" done wrong, \" but denying that he broke the law. His plea came hours after a federal grand jury indicted him on six counts, including conspiracy, issuing false statements and violating campaign contribution laws. \" there's no question that i've done wrong, \" edwards told reporters outside federal court in winston-salem, north carolina. \" but i did not break the law and i never, ever thought i was breaking the law. \" he was released on his own recognizance, but was ordered to surrender his passport and remain within the lower 48 states. If convicted on all counts, edwards would face up to 30 years in prison and a maximum fine of $ 1.5 million. Edwards ' attorney, greg craig, insisted the former north carolina senator \" will mount a vigorous defense. \" a grand jury has been investigating whether money given to support edwards ' mistress, rielle hunter, by benefactors of edwards should have been considered campaign donations, a contention edwards'team has disputed. Prosecutors allege that edwards improperly accepted over $ 900,000 as part of an effort to conceal facts he believed would damage his white house bid. Plea"
+            "File - in this dec. 11, 2010 file photo, former democratic presidential candidate john edwards is seen in raleigh, n.c. Edwards and federal prosecutors are arguing over whether the money used to cover... ( associated press ) file - in this dec. 11, 2010 file photo, former democratic presidential candidate john edwards is seen in raleigh, n.c. Edwards and federal prosecutors are arguing over whether the money used to cover... ( associated press ) criminal charges are likely to be filed friday against john edwards, the culmination of a two-year federal investigation into money used to cover up his extramarital affair during the 2008 presidential election. Edwards ' attorney greg craig was traveling to meet friday with prosecutors in north carolina, an indication that the former presidential candidate is likely to charged, either in a grand jury indictment or in a negotiated charge to which he would plead guilty. A person with knowledge of the investigation said craig, a washington lawyer who was president barack obama's first white house counsel, planned to be in his client's home state friday, where prosecutors were prepared to file charges. The source insisted on anonymity in order to discuss the private negotiations. Edwards has had north carolina representation throughout the investigation, but craig was brought onto the team earlier this year when the decision whether to charge him still rested with"
         ],
         "raw_document": [
             "File - in this dec. 11, 2010 file photo, former democratic presidential candidate john edwards is seen in raleigh, n.c. Edwards and federal prosecutors are arguing over whether the money used to cover... ( associated press ) file - in this dec. 11, 2010 file photo, former democratic presidential candidate john edwards is seen in raleigh, n.c. Edwards and federal prosecutors are arguing over whether the money used to cover... ( associated press ) criminal charges are likely to be filed friday against john edwards, the culmination of a two-year federal investigation into money used to cover up his extramarital affair during the 2008 presidential election. Edwards ' attorney greg craig was traveling to meet friday with prosecutors in north carolina, an indication that the former presidential candidate is likely to charged, either in a grand jury indictment or in a negotiated charge to which he would plead guilty. A person with knowledge of the investigation said craig, a washington lawyer who was president barack obama's first white house counsel, planned to be in his client's home state friday, where prosecutors were prepared to file charges. The source insisted on anonymity in order to discuss the private negotiations. Edwards has had north carolina representation throughout the investigation, but craig was brought onto the team earlier this year when the decision whether to charge him still rested with",
@@ -1926,7 +1916,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1951,7 +1941,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1983,14 +1973,13 @@
     },
     {
         "idx": 1271,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A british judge declared a remarkable thing thursday: vladimir putin is \" probably \" a murderer. The finding came after an inquiry into the high-profile death of former kgb officer alexander litvinenko, who was fatally poisoned in 2006. Judge robert owen said he's certain that two russian agents laced litvinenko's green tea with polonium-210 inside a london hotel — and that the mission \" was probably approved \" by putin himself and the head of russia's fsb spy agency ( the successor to the kgb ), reports the new york times. Litvinenko accused putin from his deathbed, but this appears to be the first time an official inquiry has linked the russian president to the slaying, notes the ap. Russia, not surprisingly, isn't buying it. \" we regret that a purely criminal case has been politicized and has darkened the general atmosphere of bilateral relations, \" says a rep for the russian foreign ministry. Britain launched the inquiry at the urging of litvinenko's widow, who welcomed the findings and called on the uk to issue sanctions on russia and place a travel ban on putin, reports the bbc. That seems unlikely, though britain says it will now freeze the assets of andrei lugovoi and dmitry kovtun, the two men accused by british police of the killing. Moscow refuses to extradite them. The judge cited a number of possible motives, including russia's belief that litvinenko betrayed moscow by working with british intelligence. He also cited the \" highly personal attacks \" by litvinenko on putin before the agent's death, including litvinenko's clam that putin was a pedophile, reports the independent. \" it hardly needs saying that the allegations made by mr litvinenko against president putin in this article were of the most serious nature, \" wrote the judge. \" could they have had any connection with his death? \" read his full report here.",
         "split": "train",
         "cleansed_document": [
             "Alexander litvinenko's accusation that vladimir putin was a paedophile may have been one of the motives for the russian government to order his assassination, a report into the former russian spy's death has found. Sir robert owen's inquiry looked at the former fsb agent's \"highly personal attacks \" on the russian president, which culminated with an article on the chechenpress website in july 2006, four months before he was poisoned. Mr litvinenko's article, which was published as evidence in the report, started by recounting a meeting between mr putin and a boy \"aged four or five \" in a square near the kremlin. Litvinenko widow's",
             "London ( ap ) — president vladimir putin probably approved a plan by russia's fsb security service to kill former agent alexander litvinenko, who died three weeks after drinking tea laced with poison at a london hotel, a british judge said thursday. Marina litvinenko, widow of former russian spy alexander litvinenko, reads a statement outside the royal courts of justice in london, thursday, jan. 21, 2016. President vladimir putin probably approved... ( associated press ) marina litvinenko, right, widow of former russian spy alexander litvinenko, arrives at the royal courts of justice for the litvinenko inquiry statement following publication of the report in london, thursday,... ( associated press",
-            "Media playback is unsupported on your device media caption why would vladimir putin want alexander litvinenko dead? the murder of ex-russian spy alexander litvinenko in 2006 in the uk was \" probably \" approved by president vladimir putin, an inquiry has found. Mr putin is likely to have signed off the poisoning of mr litvinenko with polonium-210 in part due to personal \" antagonism \" between the pair, it said. Home secretary theresa may said the murder was a \" blatant and unacceptable \" breach of international law. But the russian foreign ministry said the public inquiry was \" politicised \". It said: \" we regret that the purely criminal case was politicised and overshadowed the general",
-            "Report sir robert owen, the inquiry chairman, published his report into the death of alexander litvinenko on 21 january 2016. Please click on the link below to view the report. Report ( web-optimised pdf ) an explanation for the way references are provided is included in paragraph 2.21 in part 2 of the report. Where references are to documents, the hyperlink will take you to the complete document. Where references are to transcripts, the hyperlink will take you to the relevant pages. Report cover ( print-ready pdf ) report ( print-ready pdf ) the transcript of sir robert owen's closing statement is available at the link below. Transcript of statement by the chairman –"
+            "Media playback is unsupported on your device media caption why would vladimir putin want alexander litvinenko dead? the murder of ex-russian spy alexander litvinenko in 2006 in the uk was \" probably \" approved by president vladimir putin, an inquiry has found. Mr putin is likely to have signed off the poisoning of mr litvinenko with polonium-210 in part due to personal \" antagonism \" between the pair, it said. Home secretary theresa may said the murder was a \" blatant and unacceptable \" breach of international law. But the russian foreign ministry said the public inquiry was \" politicised \". It said: \" we regret that the purely criminal case was politicised and overshadowed the general"
         ],
         "raw_document": [
             "Alexander litvinenko's accusation that vladimir putin was a paedophile may have been one of the motives for the russian government to order his assassination, a report into the former russian spy's death has found. Sir robert owen's inquiry looked at the former fsb agent's \"highly personal attacks \" on the russian president, which culminated with an article on the chechenpress website in july 2006, four months before he was poisoned. Mr litvinenko's article, which was published as evidence in the report, started by recounting a meeting between mr putin and a boy \"aged four or five \" in a square near the kremlin. Litvinenko widow's",
@@ -2009,7 +1998,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -2075,7 +2064,7 @@
             "3": 0,
             "4": 0,
             "5": 0,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -2107,14 +2096,13 @@
     },
     {
         "idx": 1275,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Following a meeting on president obama's health plan fix yesterday, insurers said they'd work to maintain health exchanges and avoid cancellations — but they were frustrated. Though the president of the industry trade organization cited a \" very productive \" meeting, plenty of execs were annoyed that obama hadn't talked to them about the new plan before he announced it, the new york times reports. \" we went forward with the intent that this was the law of the land, \" an insurance vp tells usa today. \" nobody was focused on the existing plans. \" executives also related to obama their concern that the plan could drive consumer costs up. That's because younger and healthier people — key to keeping premiums down — may now stick with cheaper plans rather than entering the exchanges. Another issue: some states intend to ignore the fix, leaving thousands of health plans at risk, the times notes. Washington, vermont, and rhode island are among those saying they won't allow extensions of plans not adhering to obamacare standards, according to the times and washington post. Florida, kentucky, north carolina, ohio, and texas will allow renewals, the post notes, while other states are still deciding ( the post is keeping track ). For one thing, it's not clear whether states can \" act based on executive order, \" louisiana's insurance commissioner says.",
         "split": "train",
         "cleansed_document": [
             "Dean and mary lou griffin of chadds ford, pa., liked the health insurance they purchased for themselves three years ago and thought they would be able to keep it. But they recently received a letter saying the plan was being canceled because it didn't cover certain benefits required under the new law. Now they may be able to keep it after all. ( photo: matt rourke, ap ) story highlights old plans aren't always cheaper than new plans confusion still reigns in most states do consumers who already paid for new policies get refunds? consumers are hounding their insurance agents with questions about whether and when they can get their canceled insurance policies",
             "Already, some states, including washington and arkansas, have said they will not allow insurers to extend policies that do not comply with the guidelines established by the minimum standards set by the affordable care act. Rhode island also announced on friday that it would not go along. \"after reviewing the president's announcement, we have decided to continue in the direction we are going and therefore will not be adopting the option made available to us by the president, \" state officials said. Some other states, notably florida, are going to allow renewals. In new york, officials were hashing out a plan on friday to deal with the change in policy,",
-            "When president obama wanted to delay the employer mandate, that was relatively straightforward. His administration issued guidance saying that the federal government would not penalize non-compliant employers for one year. His plan to delay insurance cancellations by one year is a bit trickier to pull off. States have typically regulated insurance markets and, while the federal government can tell insurers it will not penalize them for offering non-compliant plans, those carriers also need a go-ahead from their state insurance commissioner, too. With the announcement less than 24 hours old, states are still trying to sort out what they ' ll do. We ' ll be keeping track of that here, with a running list",
-            "The law has more headaches than just healthcare.gov. \" in play \" asks some of the washington post's top political reporters to explain. ( the washington post ) the law has more headaches than just healthcare.gov. \" in play \" asks some of the washington post's top political reporters to explain. ( the washington post ) state regulators across the country said they were blindsided by president obama's decision to change a key health-law provision and spent friday scrambling to make sense of it. Some said they were unsure whether their state laws would allow them to do what the president suggested. A day after obama tried to quell anxiety over millions of"
+            "When president obama wanted to delay the employer mandate, that was relatively straightforward. His administration issued guidance saying that the federal government would not penalize non-compliant employers for one year. His plan to delay insurance cancellations by one year is a bit trickier to pull off. States have typically regulated insurance markets and, while the federal government can tell insurers it will not penalize them for offering non-compliant plans, those carriers also need a go-ahead from their state insurance commissioner, too. With the announcement less than 24 hours old, states are still trying to sort out what they ' ll do. We ' ll be keeping track of that here, with a running list"
         ],
         "raw_document": [
             "Dean and mary lou griffin of chadds ford, pa., liked the health insurance they purchased for themselves three years ago and thought they would be able to keep it. But they recently received a letter saying the plan was being canceled because it didn't cover certain benefits required under the new law. Now they may be able to keep it after all. ( photo: matt rourke, ap ) story highlights old plans aren't always cheaper than new plans confusion still reigns in most states do consumers who already paid for new policies get refunds? consumers are hounding their insurance agents with questions about whether and when they can get their canceled insurance policies",
@@ -2133,7 +2121,7 @@
             "0": 2,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -2164,7 +2152,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2217,7 +2205,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2297,15 +2285,14 @@
     },
     {
         "idx": 1282,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "For hayward duresseau, a \" terrifying \" diagnosis ended in one of the happiest moments of his life. The 27-year-old had just visited san francisco with boyfriend kerry kennedy in february when he grew exhausted, lost some vision, got a killer headache, and fell violently ill — which landed him in an emergency room in their hometown of lafayette, louisiana, reports nbc news. His eye problem soon developed into hearing loss and a new diagnosis: bacterial meningococcal meningitis, a possibly fatal infection that webmd says inflames membranes covering the spinal cord and brain. An outbreak had just struck san francisco, spreading by prolonged contact with a carrier via kissing or shared food or water, per buzzfeed. \" when he was first diagnosed, it was terrifying, \" kennedy said. \" i was really scared. I wasn't sure if he was ever going to leave the hospital. \" but kennedy, 37, stayed by duresseau's side for his three weeks in hospital and six months of recovery. Paralyzed from the hips down, duresseau did regain mobility and sight but lost all hearing — so the couple learned american sign language together, reports people. When a cochlear implant allowed him to hear again, the first thing he heard was kennedy's marriage proposal: down on one knee, kennedy asked, \" will you marry me? \" amid tears and laughter, duresseau said one word: \" yes. \" see the video on kennedy's facebook page, where he writes, \" these have been some of the most challenging months of our lives, but we made it together. \"",
         "split": "train",
         "cleansed_document": [
             "Meningococcal meningitis is a rare but serious bacterial infection. It causes the membranes that cover the brain and spinal cord to become inflamed. Each year, approximately 1,000 people in the u.s. Get meningococcal disease, which includes meningitis and septicemia ( blood infection ). Meningococcal meningitis can be fatal or cause great harm without prompt treatment; as many as one out of five people who contract the infection have serious complications. According to the centers for disease control, about 15 % of those who survive are left with disabilities that include deafness, brain damage, and neurological problems. Here's what you need to know about the symptoms of meningococcal meningitis and ways",
             "Provided to buzzfeed news the six months were difficult for their couple, who have been dating for over three years. Hayward described his condition as \"being in jail \" in his own head. \"i could see everything that was going on — i could communicate, but the world couldn't communicate back with me. \" the couple quickly learned as much american sign language ( asl ) as possible so that they could communicate. \"he would place the 'i love you'sign on my leg or on my back, and that's when i knew i could go to sleep, \" hayward recalled.",
             "Hayward duresseau, of lafayette, louisiana, got the ultimate surprise on a day that had already been life-changing. Duresseau, 37, contracted bacterial meningococcal meningitis in february and completely lost his ability to hear as the illness wreaked havoc on his body, according to nbc news. After six months of recovery, duresseau got a cochlear implant in august to help with his hearing loss. Get push notifications with news, features and more. After a doctor turned on the implant, duresseau was finally able to hear again. With that, his boyfriend, kerry kennedy, had some extra special words to say. \"it's been kind of a long",
-            "By ali gostanian when hayward duresseau and kerry kennedy met during a mardi gras celebration in 2015, there was an instant connection. One was an introvert and the other was outgoing, but together the couple from lafayette, louisiana, never seemed to grow tired of each other. Hawyard duresseau, left, had a cochlear implant put in after he lost his hearing from bacterial meningococcal meningitis. He is pictured here with his fiancé, kerry kennedy. Courtesy kerry kennedy however, their relationship had one of its most difficult challenges when duresseau, 37, faced a major medical emergency: during a family trip to san francisco in february, duresseau contracted bacterial meningococcal",
-            "See more of kerry kennedy on facebook"
+            "By ali gostanian when hayward duresseau and kerry kennedy met during a mardi gras celebration in 2015, there was an instant connection. One was an introvert and the other was outgoing, but together the couple from lafayette, louisiana, never seemed to grow tired of each other. Hawyard duresseau, left, had a cochlear implant put in after he lost his hearing from bacterial meningococcal meningitis. He is pictured here with his fiancé, kerry kennedy. Courtesy kerry kennedy however, their relationship had one of its most difficult challenges when duresseau, 37, faced a major medical emergency: during a family trip to san francisco in february, duresseau contracted bacterial meningococcal"
         ],
         "raw_document": [
             "Meningococcal meningitis is a rare but serious bacterial infection. It causes the membranes that cover the brain and spinal cord to become inflamed. Each year, approximately 1,000 people in the u.s. Get meningococcal disease, which includes meningitis and septicemia ( blood infection ). Meningococcal meningitis can be fatal or cause great harm without prompt treatment; as many as one out of five people who contract the infection have serious complications. According to the centers for disease control, about 15 % of those who survive are left with disabilities that include deafness, brain damage, and neurological problems. Here's what you need to know about the symptoms of meningococcal meningitis and ways",
@@ -2326,7 +2313,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -2437,7 +2424,7 @@
     },
     {
         "idx": 1287,
-        "document_num": 6,
+        "document_num": 5,
         "summary": "If california's san ramon had to pick a theme song, it might be ac/dc's \" you shook me all night long. \" that's because over the past two weeks, the bay area town has endured more than 400 earthquakes — 408, to be exact, which averages out to more than one quake an hour, popular science reports. Since monday alone, there have been 60 quake recordings, per the los angeles times, though most have been so small that no one noticed ( they're taking place about 5 or 6 miles underground, per the us geological survey ). The largest one recorded was a 3.6-magnitude shaker on oct. 19. These earthquake \" swarms \" aren't unusual in the golden state, though they're more prevalent in other areas, including the regions near mammoth lakes and imperial valley, per the times. \" the good news is that most of these earthquakes stay under magnitude 4, \" a usgs earthquake science center spokeswoman tells the san francisco chronicle. The usgs also notes that these tiny tremors don't necessarily mean a havoc-wreaking seismic event is around the corner — experts say there's only a 7 % chance of there being a quake of 6.7 magnitude or higher over the next three decades, the chronicle notes — and that the current swarm could continue for a few more weeks before finally dying down. \" i've not felt so many tremors in decades, \" a local tells nbc bay area. \" my dog … [ is ] the first one to know a couple of seconds before. \" ( a controversial nasa study warns that the la area will be hit within a few years with a major quake. )",
         "split": "train",
         "cleansed_document": [
@@ -2445,8 +2432,7 @@
             "A map of some of the earthquakes that hit the town of san ramon. Large earthquakes can be incredibly serious, like the one that struck afghanistan on monday. But not all earthquakes are devastating, earth-shattering monsters. Sometimes, they're just... There. Over the past two weeks, over 408 earthquakes have rattled the town of san ramon, california. That's a little over an earthquake every hour, and sets a",
             "Photo: usgs image 1 of / 16 caption close image 1 of 16 a series of earthquake struck near san ramon early tuesday morning. A series of earthquake struck near san ramon early tuesday morning. Photo: usgs image 2 of 16 more than 200 earthquakes have struck near san ramon in a swarm in recent quakes. More than 200 earthquakes have struck near san ramon in a swarm in recent quakes. Photo: usgs image 3 of",
             "San ramon, california, appears to have broken a new earthquake record over the last two weeks: a total of 408 small quakes have shaken the east bay city, almost four times the record set in 2003 in half the amount of time. Stephanie chuang reports. ( published tuesday, oct. 27, 2015 ) nbc bay area's quake map shows all earthquakes recorded near the san francisco bay area over the past 24 hours.",
-            "A swarm of more than 200 earthquakes have rumbled through san ramon in the bay area in recent days, including a 3.5 temblor monday afternoon, according to the u.s. Geological survey. The biggest quake in the area in the past 24 hours was a magnitude 3.6 that struck about 4: 20 p.m. Monday about one mile northeast of san ramon. Shaking was felt as far as 14 miles away in walnut creek, the usgs reported. Nearly",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a"
+            "A swarm of more than 200 earthquakes have rumbled through san ramon in the bay area in recent days, including a 3.5 temblor monday afternoon, according to the u.s. Geological survey. The biggest quake in the area in the past 24 hours was a magnitude 3.6 that struck about 4: 20 p.m. Monday about one mile northeast of san ramon. Shaking was felt as far as 14 miles away in walnut creek, the usgs reported. Nearly"
         ],
         "raw_document": [
             "Photo: usgs image 1 of / 19 caption close image 1 of 19 a swarm of earthquakes have continued to rock san ramon in the east bay for the past week. A swarm of earthquakes have continued to rock san ramon in the east bay for the past week. Photo: usgs image 2 of 19 san ramon was hit by five earthquakes larger than 2.5 in the last day. A swarm of earthquakes have continued to rock san",
@@ -2469,7 +2455,7 @@
             "2": 0,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 5
         }
     },
     {
@@ -2501,13 +2487,12 @@
     },
     {
         "idx": 1289,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The nsa can keep collecting the phone records of americans, but the surveillance program just barely survived a bipartisan effort to rein it in, reports the hill. An amendment by michigan republican justin amash would have prevented the agency from gathering data under the program revealed by edward snowden, but the measure failed by 12 votes after heavy pressure from the white house. Despite that pressure, 111 democrats voted with amash to curtail the program. The vote united \" libertarian-leaning republicans and liberal democrats \" who were worried about privacy violations, says the wall street journal. It also managed to unite the white house with house republican leaders for once, notes the new york times. Under amash's proposal, the nsa could collect phone records only if they pertained to an individual who was under investigation. The mass \" metadata \" gathering would end. The prospect worried the nation's top intelligence officials, who made last-minute pleas to lawmakers to keep the tool in place. White house spokesman jay carney even made what the hill calls a rare evening statement before the vote calling the amendment misguided.",
         "split": "train",
         "cleansed_document": [
             "Article excerpt washington — house lawmakers on wednesday defeated an attempt to drastically curb a national-security program that collects the phone records of millions of americans, after a tense debate on the balance between privacy rights and government efforts to find terrorists. The measure was narrowly defeated, 205-217, after last-minute lobbying by the obama administration and house members on the intelligence panel, who said the program was crucial to national security. House speaker john boehner ( r., ohio ), who doesn't often cast a ballot, voted against the amendment, reflecting nervousness among opponents about whether they would be able...",
-            "The house on wednesday rejected an attempt to curtail the national security agency's surveillance activities after a furious last-minute lobbying campaign by the white house to defeat the measure. The house voted 205-217 against the amendment from rep. Justin amash ( r-mich. ), which would have prevented the national security agency from using the patriot act to collect phone records of individuals who aren't under investigation. A majority of democrats — 111 — voted for amash's amendment despite the white house pressure, while 83 democrats voted no. The gop vote was 94-134. Advertisement amash's amendment to the defense appropriations bill pitted liberal democrats and libertarian republicans opposed to the nsa's massive surveillance activities against both parties ' leadership and the obama administration. Wednesday's vote came after the white house and lawmakers who support the nsa's surveillance activities launched a major offensive against amash's measure after it was granted a vote monday evening. The offensive underlined the significance of wednesday's vote, which was the first time that congress weighed",
-            "Washington — a deeply divided house defeated legislation wednesday that would have blocked the national security agency from collecting vast amounts of phone records, handing the obama administration a hard-fought victory in the first congressional showdown over the n.s.a.'s surveillance activities since edward j. Snowden's security breaches last month. The 205-to-217 vote was far closer than expected and came after a brief but impassioned debate over citizens ' right to privacy and the steps the government must take to protect national security. It was a rare instance in which a classified intelligence program was openly discussed on the house floor, and disagreements over the program led to some unusual coalitions. Conservative republicans leery of what they see as obama administration abuses of power teamed up with liberal democrats long opposed to intrusive intelligence programs. The obama administration made common cause with the house republican leadership to try to block it. House members pressing to rein in the n.s.a. Vowed afterward that the outrage unleashed by mr. Snowden's disclosures would eventually put a brake on the agency's activities."
+            "The house on wednesday rejected an attempt to curtail the national security agency's surveillance activities after a furious last-minute lobbying campaign by the white house to defeat the measure. The house voted 205-217 against the amendment from rep. Justin amash ( r-mich. ), which would have prevented the national security agency from using the patriot act to collect phone records of individuals who aren't under investigation. A majority of democrats — 111 — voted for amash's amendment despite the white house pressure, while 83 democrats voted no. The gop vote was 94-134. Advertisement amash's amendment to the defense appropriations bill pitted liberal democrats and libertarian republicans opposed to the nsa's massive surveillance activities against both parties ' leadership and the obama administration. Wednesday's vote came after the white house and lawmakers who support the nsa's surveillance activities launched a major offensive against amash's measure after it was granted a vote monday evening. The offensive underlined the significance of wednesday's vote, which was the first time that congress weighed"
         ],
         "raw_document": [
             "Article excerpt washington — house lawmakers on wednesday defeated an attempt to drastically curb a national-security program that collects the phone records of millions of americans, after a tense debate on the balance between privacy rights and government efforts to find terrorists. The measure was narrowly defeated, 205-217, after last-minute lobbying by the obama administration and house members on the intelligence panel, who said the program was crucial to national security. House speaker john boehner ( r., ohio ), who doesn't often cast a ballot, voted against the amendment, reflecting nervousness among opponents about whether they would be able...",
@@ -2524,7 +2509,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2607,7 +2592,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2689,13 +2674,12 @@
     },
     {
         "idx": 1296,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Up until recently, google's self-driving cars have been limited to real-world activity only in certain states ( i.e., not on the federal level ), and only under certain conditions, quartz notes. But this week the national highway traffic safety administration posted a feb. 4 letter saying google's self-driving system, powered by artificial intelligence, could be considered the legal driver of the car — a move that could \" substantially streamline \" getting autonomous vehicles on the road, an auto research analyst tells reuters in an exclusive report. \" nhtsa will interpret'driver ' in the context of google's described motor vehicle design as referring to the ( self-driving system ), and not to any of the vehicle occupants, \" the agency says in its letter responding to google's proposed design for a self-driving car that doesn't require a driver, which the company submitted in november along with a request that the nhtsa reconsider how it views such vehicles. It's a big step for google and other companies developing autonomous vehicles, expediting a process they say has been hampered by safety mandates at both state and federal levels. Google's cars, for instance, are currently required to have auto safety features such as brake pedals and steering wheels so the human driver ( another requirement ) would be able to take over the car's operation if need be — which google insists can lead to trouble. The company \" [ expressed ] concern that providing human occupants of the vehicle with mechanisms to control things … could be detrimental to safety because the human occupants could attempt to override the ( self-driving system's ) decisions, \" the nhtsa letter notes. Re/code, however, notes the nhtsa letter isn't law, but simply a \" clarification \" of how the law can be interpreted in the future. The agency still has to work up new guidelines for the self-driving cars, which it hopes to accomplish in six months or so, per reuters. ( a google car got pulled over for going too slow. )",
         "split": "train",
         "cleansed_document": [
             "Google's robot just got its driver's license. On tuesday, the federal agency that sets road rules — the national highway traffic safety administration — released a letter to the internet giant that supports its interpretation of a driverless system as legally adequate for roadways, a key victory for the critical initiative within alphabet, google's parent company. Previously, the nhtsa only considered humans as drivers under law, because that's how cars worked until google came along. Now the agency has said it will consider google's self-driving system a driver, too. The letter came in response to a november petition from chris urmson, the director of google's self-driving car project. Urmson argued that regulators should treat google's homemade cars, built without a steering wheel and brakes, on par with human drivers. It has been a persistent sticking point for",
-            "The us government has cleared the way for google to create a self-driving car that doesn't also have a human driver inside the vehicle that can take over if necessary. In this setup, the autonomous driving software itself would be the vehicle's legal \" driver \"; none of the human passengers would require a driving licence. In november last year, google submitted a proposed design to the us national highway traffic safety administration ( nhtsa ) for a self-driving car that has \" no need for a human driver. \" on february 4, as reported by reuters, the nhtsa responded: \" nhtsa will interpret'driver ' in the context of google's described motor vehicle design as referring to the ( self-driving system ), and not to any of the vehicle occupants. We agree with google its ( self-driving car ) will not have a'driver ' in",
-            "Chris urmson director, self-driving car project google, inc. 1600 amphitheatre parkway mountain view, ca 94043 dear dr. Urmson: this responds to your november 12, 2015 letter[ 1 ] requesting that the national highway traffic safety administration ( nhtsa ) interpret a number of provisions in the federal motor vehicle safety standards ( fmvsss ) as they apply to google's described design for motor vehicles that it is in the process of developing and testing. According to google, those self-driving vehicles ( sdvs ) are \"fully autonomous motor vehicles, i.e., vehicles whose operations are controlled exclusively by a self-driving system ( sds ). \" the sds is an artificial-intelligence ( ai ) \"driver, \" which is a computer designed into the motor vehicle itself that controls all aspects of driving by perceiving its environment and responding to it. [ 2 ] thus, google believes that the vehicles \"have no need for a"
+            "The us government has cleared the way for google to create a self-driving car that doesn't also have a human driver inside the vehicle that can take over if necessary. In this setup, the autonomous driving software itself would be the vehicle's legal \" driver \"; none of the human passengers would require a driving licence. In november last year, google submitted a proposed design to the us national highway traffic safety administration ( nhtsa ) for a self-driving car that has \" no need for a human driver. \" on february 4, as reported by reuters, the nhtsa responded: \" nhtsa will interpret'driver ' in the context of google's described motor vehicle design as referring to the ( self-driving system ), and not to any of the vehicle occupants. We agree with google its ( self-driving car ) will not have a'driver ' in"
         ],
         "raw_document": [
             "Google's robot just got its driver's license. On tuesday, the federal agency that sets road rules — the national highway traffic safety administration — released a letter to the internet giant that supports its interpretation of a driverless system as legally adequate for roadways, a key victory for the critical initiative within alphabet, google's parent company. Previously, the nhtsa only considered humans as drivers under law, because that's how cars worked until google came along. Now the agency has said it will consider google's self-driving system a driver, too. The letter came in response to a november petition from chris urmson, the director of google's self-driving car project. Urmson argued that regulators should treat google's homemade cars, built without a steering wheel and brakes, on par with human drivers. It has been a persistent sticking point for",
@@ -2712,7 +2696,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2786,7 +2770,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 2
         }
     }
 ]

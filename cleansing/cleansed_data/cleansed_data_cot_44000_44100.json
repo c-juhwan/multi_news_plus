@@ -1,13 +1,12 @@
 [
     {
         "idx": 44000,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Now that eva longoria has filed for divorce ( just one day after her publicist called rampant divorce rumors \" 100 % false \" ), the stories about tony parker's alleged other woman are coming out. Supposedly, parker has been texting erin barry, the wife of his former san antonio spurs teammate brent barry, a sports illustrated writer tweeted. Click here for more on barry and a picture of her and her hubby hanging out with longoria and parker. The barrys are also reportedly divorcing, but a source tells celebuzz that the numerous text messages between erin barry and parker were innocent, and that the two were not romantically involved but were simply leaning on each other as friends who were both going through marital troubles.",
         "split": "train",
         "cleansed_document": [
             "Eva longoria's rep sinks ' 100 % false'divorce report email this update: according to are longoria's publicist, liza anderson, did not expand on the denial in her comment to x17online, nor did an unnamed parker rep in a similar statement ( \" 100 % false \" ) to tmz quickly corrected themselves, admitting that they received some bad information from two clerks at the bexar county courthouse in texas, who claimed the case was filed and sealed by a family law judge. According to people, eva filed for divorce from tony in los angeles.are eva longoria and tony parker the latest hollywood couple to call it quits? minutes after tmz published a crushing report claiming the pair filed for divorce on monday in a texas court, a rep for the'desperate housewives ' beauty is calling the story \" 100 % false. \" longoria's publicist, liza anderson, did not expand on the denial in her comment to x17online, nor did an unnamed parker rep in a similar statement ( \" 100 % false \" ) to celebbuzz tmz quickly corrected themselves, admitting that they received some bad information from two clerks at the bexar county courthouse in texas, who claimed the case was filed and sealed by",
-            "As the world still adjusts to the news of eva longoria and tony parker's impending divorce, celebuzz has obtained exclusive new information about the circumstances behind their split. A source close to parker confirms rumors that the nba star had sent numerous text messages to his former san antonio spurs teammate brent barry's wife, erin barry ( pictured above ), but that the two had not shared a romantic relationship. According to the source, the barrys have been close friends with longoria and parker for some time, even spending new year's eve together a couple of years ago at longoria's los angeles restaurant, beso. The barrys are currently in the midst of a divorce and, our source adds, parker and erin's texts involved the two leaning on each other as their respective marriages went through troubles. A seemingly innocent exchange between close friends, it would seem, but longoria appears to be prone to jealousy in her marriage to parker. One interesting note, parker recently signed a four-year, $ 45 million extension with the spurs. Eva waited til after that deal was signed to file for divorce. Whatever the motive might have been, our source stresses that parker and longoria's split",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "As the world still adjusts to the news of eva longoria and tony parker's impending divorce, celebuzz has obtained exclusive new information about the circumstances behind their split. A source close to parker confirms rumors that the nba star had sent numerous text messages to his former san antonio spurs teammate brent barry's wife, erin barry ( pictured above ), but that the two had not shared a romantic relationship. According to the source, the barrys have been close friends with longoria and parker for some time, even spending new year's eve together a couple of years ago at longoria's los angeles restaurant, beso. The barrys are currently in the midst of a divorce and, our source adds, parker and erin's texts involved the two leaning on each other as their respective marriages went through troubles. A seemingly innocent exchange between close friends, it would seem, but longoria appears to be prone to jealousy in her marriage to parker. One interesting note, parker recently signed a four-year, $ 45 million extension with the spurs. Eva waited til after that deal was signed to file for divorce. Whatever the motive might have been, our source stresses that parker and longoria's split"
         ],
         "raw_document": [
             "Eva longoria's rep sinks ' 100 % false'divorce report email this update: according to are longoria's publicist, liza anderson, did not expand on the denial in her comment to x17online, nor did an unnamed parker rep in a similar statement ( \" 100 % false \" ) to tmz quickly corrected themselves, admitting that they received some bad information from two clerks at the bexar county courthouse in texas, who claimed the case was filed and sealed by a family law judge. According to people, eva filed for divorce from tony in los angeles.are eva longoria and tony parker the latest hollywood couple to call it quits? minutes after tmz published a crushing report claiming the pair filed for divorce on monday in a texas court, a rep for the'desperate housewives ' beauty is calling the story \" 100 % false. \" longoria's publicist, liza anderson, did not expand on the denial in her comment to x17online, nor did an unnamed parker rep in a similar statement ( \" 100 % false \" ) to celebbuzz tmz quickly corrected themselves, admitting that they received some bad information from two clerks at the bexar county courthouse in texas, who claimed the case was filed and sealed by",
@@ -24,7 +23,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -157,7 +156,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -304,13 +303,12 @@
     },
     {
         "idx": 44011,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Fox news had better watch its back now that a snitch is apparently feeding memos to the media exposing it as more of a conservative propaganda machine than a news operation. Two memos leaked to media matters revealed orders from the top directing staff to put a right-wing spin on issues of the day. Now america's \" most influential right-wing media outlet is facing up to the chilling prospect of having a whistleblower in its own newsroom, \" notes the independent. It could be even more cloak-and-dagger. \" liberal website media matters has an informant planted at fox leaking memos, crows contact music. One of the memos ordered reporters to use terms implying skepticism of global warming, another dictated terms when referring to the federal health care bill ( such as referring to the \" so-called public option ' ) which polled poorly with americans in research conducted by the republican party. Both memos came from bill sammon, managing editor of fox news'dc operation. The union of concerned scientists yesterday blasted fox for its \" unscientific \" take on global warming. \" emails now suggest that this bias comes directly from the executives responsible for their news coverage, \" said a statement from the organization.",
         "split": "train",
         "cleansed_document": [
             "America's most influential right-wing media outlet is facing up to the chilling prospect of having a whistleblower in its own newsroom. Two internal memos from fox news ' washington bureau chief, bill sammon, have found their way into the public domain in recent days via the liberal website media matters. They detail how the news organisation which bills itself \" fair and balanced \" has made its reportage anything but. At issue in the supposedly-secret directives is semantics; specifically the language that fox correspondents use when discussing two of the most controversial items on barack obama's presidential agenda: healthcare reform and climate change. Sammon, according to critics, at least, is shown by the emails to be ensuring that coverage of the obama agenda carries a hostile bias. That would directly contradict fox's official policy, which has always been to insist that while commentators such as bill o'reilly and glenn beck are dyed-in-the-wool conservatives, its news teams are unbiased. The first leaked memo, made public last week, was sent by sammon last october, shortly after the us senate unveiled a health bill which included a provision that would give the public sector a small role in providing medical insurance to americans. This provision was widely described at the time as the \" public option \", but sammon decreed that fox should instead describe it using one of three sanctioned phrases: \" government-run",
-            "It became apparent on wednesday that the liberal website media matters has an informant planted at fox news channel who is leaking memos to it from its washington dc managing editor bill sammon. The website on wednesday published a copy of a year-old memo sent out by sammon a year ago within minutes after fox news reporter wendell goler reported that 2000-2009 was the warmest decade on record. In his memo, sammon said, \" given the controversy over the veracity of climate change data, we should refrain from asserting that the planet has warmed ( or cooled ) in any given period without immediately [ caps are sammon's ] pointing out that such theories are based upon data that critics have called into question. It is not our place as journalists to assert such notions as facts, especially as this debate intensifies. \" climatologists have indicated that there is virtually no disagreement among them on the issue of climate change and that the controversy has been created by a small number of political conservatives who confuse weather and climate and who muddle the matter by citing meteorologists or others who have little knowledge of the science of climate. 16/12/2010",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "It became apparent on wednesday that the liberal website media matters has an informant planted at fox news channel who is leaking memos to it from its washington dc managing editor bill sammon. The website on wednesday published a copy of a year-old memo sent out by sammon a year ago within minutes after fox news reporter wendell goler reported that 2000-2009 was the warmest decade on record. In his memo, sammon said, \" given the controversy over the veracity of climate change data, we should refrain from asserting that the planet has warmed ( or cooled ) in any given period without immediately [ caps are sammon's ] pointing out that such theories are based upon data that critics have called into question. It is not our place as journalists to assert such notions as facts, especially as this debate intensifies. \" climatologists have indicated that there is virtually no disagreement among them on the issue of climate change and that the controversy has been created by a small number of political conservatives who confuse weather and climate and who muddle the matter by citing meteorologists or others who have little knowledge of the science of climate. 16/12/2010"
         ],
         "raw_document": [
             "America's most influential right-wing media outlet is facing up to the chilling prospect of having a whistleblower in its own newsroom. Two internal memos from fox news ' washington bureau chief, bill sammon, have found their way into the public domain in recent days via the liberal website media matters. They detail how the news organisation which bills itself \" fair and balanced \" has made its reportage anything but. At issue in the supposedly-secret directives is semantics; specifically the language that fox correspondents use when discussing two of the most controversial items on barack obama's presidential agenda: healthcare reform and climate change. Sammon, according to critics, at least, is shown by the emails to be ensuring that coverage of the obama agenda carries a hostile bias. That would directly contradict fox's official policy, which has always been to insist that while commentators such as bill o'reilly and glenn beck are dyed-in-the-wool conservatives, its news teams are unbiased. The first leaked memo, made public last week, was sent by sammon last october, shortly after the us senate unveiled a health bill which included a provision that would give the public sector a small role in providing medical insurance to americans. This provision was widely described at the time as the \" public option \", but sammon decreed that fox should instead describe it using one of three sanctioned phrases: \" government-run",
@@ -327,18 +325,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 44012,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A new species of jellyfish has been discovered in the gulf of venice — but where it hails from remains a mystery. In a phenomenon known as a bloom, the now-named pelagia benovici showed up in such force in september that it interfered with fishing; citizen jellyfish trackers who were unable to identify it as a local variety contacted scientists, the guardian reports. Italian researchers who studied the \" beautiful yellow-ochre \" jellyfish ( stunning image here ) speculate in the journal zootaxa that the species came to the north adriatic sea in a ship's ballast water ( carried in tanks to help the ship maintain stability ) from its native habitat, where it has yet to be recorded. That sea is \" one of the most investigated [ marine ] areas of the world, \" writes stefano piraino, one of the zoologists involved in the study, in the conversation, meaning there's no way the jellyfish hails from there and somehow went unnoticed. And as of march, the creature has vanished from the venice lagoon, but they can \" suddenly come back, \" piraino writes. Among the other details scientists shared: pelagia benovici joins what is currently \" the only valid species \" in the genus pelagia, a mauve variety that obliterated a $ 2 million salmon farm in northern ireland in a \" spectacular attack, \" the ap reported in 2007. ( jellyfish can cause a great deal of mischief: they are such a nuisance in south korea that a robot has been designed to destroy them. )",
         "split": "train",
         "cleansed_document": [
             "A bloom of new jellyfish started appearing in the gulf of venice last autumn. They were first detected by a fisherman from chioggia in north-east italy when hundreds of the beautiful yellow species filled his nets. News of this reached my team at the university of salento's med-jellyrisk and vectors projects through a citizen-science initiative we run that gets locals to report jellyfish sightings along the italian coasts. When photos of the new jellyfish started to filter through, it was immediately clear that we were dealing with a previously undescribed species. To an expert eye, the differences were manifest. The white horseshoe-shaped, ribbon-like gonads, the yellow-ochre colour of the jellyfish umbrella, the pronounced warts on its surface and the long and delicate, transparent arms were distinctive elements. They altogether indicated the jellyfish was something new to any species that's previously been categorised. Manifold differences to investigate further, i",
-            "Italy new jellyfish species identified in gulf of venice thousands of yellow jellyfish were spotted in north adriatic sea last year and have since disappeared, scientists say the pelagia benovici jellyfish. Photograph: fabrizio marcuzzo scientists in italy say they have discovered a new species of jellyfish in the gulf of venice. Sightings of yellow jellyfish in the north adriatic sea were reported to a citizen science project last year, said ferdinando boero, a zoologist. \" people were saying, this jellyfish is not in your poster [ of the region's known jellyfish ], we don't know what it is, \" said boero, from the university of salento. \" they were in their thousands. Fishermen had them in their nets. They couldn't fish easily because there were so many jellyfish. \" scientists including boero set about trawling records of known jellyfish species to try to identify it",
-            "Bayha, k.m. &amp; dawson, m.n. ( 2010 ) new family of allomorphic jellyfishes, drymonematidae ( scyphozoa, discomedusae ), emphasizes evolution in the functional morphology and trophic ecology of gelatinous zooplankton. Biological bulletin woods hole, 219, 249 – 67. Bayha, k.m., dawson, m.n., collins, a.g., barbeitos, m.s. &amp; haddock, s.h. ( 2010 ) evolutionary relationships among scyphozoan jellyfish families based on complete taxon sampling and phylogenetic analyses of 18s and 28s ribosomal dna. Integrative and comparative biology, 50 ( 3 ), 436 – 455. Http://dx.doi.org/10.1093/icb/icq074 boero, f. ( 2013 ) review of jellyfish blooms in the mediterranean and black sea. Studies and reviews. General fisheries commission for the mediterranean 92, fao, rome, 54 pp. Boero, f., bouillon, j., gravili, c., miglietta, m.p., parsons, t. &amp; piraino"
+            "Italy new jellyfish species identified in gulf of venice thousands of yellow jellyfish were spotted in north adriatic sea last year and have since disappeared, scientists say the pelagia benovici jellyfish. Photograph: fabrizio marcuzzo scientists in italy say they have discovered a new species of jellyfish in the gulf of venice. Sightings of yellow jellyfish in the north adriatic sea were reported to a citizen science project last year, said ferdinando boero, a zoologist. \" people were saying, this jellyfish is not in your poster [ of the region's known jellyfish ], we don't know what it is, \" said boero, from the university of salento. \" they were in their thousands. Fishermen had them in their nets. They couldn't fish easily because there were so many jellyfish. \" scientists including boero set about trawling records of known jellyfish species to try to identify it"
         ],
         "raw_document": [
             "A bloom of new jellyfish started appearing in the gulf of venice last autumn. They were first detected by a fisherman from chioggia in north-east italy when hundreds of the beautiful yellow species filled his nets. News of this reached my team at the university of salento's med-jellyrisk and vectors projects through a citizen-science initiative we run that gets locals to report jellyfish sightings along the italian coasts. When photos of the new jellyfish started to filter through, it was immediately clear that we were dealing with a previously undescribed species. To an expert eye, the differences were manifest. The white horseshoe-shaped, ribbon-like gonads, the yellow-ochre colour of the jellyfish umbrella, the pronounced warts on its surface and the long and delicate, transparent arms were distinctive elements. They altogether indicated the jellyfish was something new to any species that's previously been categorised. Manifold differences to investigate further, i",
@@ -355,18 +352,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 44013,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Another 22 children have been reported killed by the flu, and experts say that, despite signs of slowing, this flu season — the worst in a decade — is still far from over, usa today reports. According to cnn, 84 children have died from the flu since october. That's two fewer than at this point in the 2015 flu season, which ended up killing 148 children. While the cdc reported thursday that this year's flu vaccine was only 36 % effective overall, it was more effective — 59 % — in children, which cdc acting director dr. Anne schuchat says is \" better than we expected. \" so far, three out of four children killed this flu season hadn't received a flu vaccination. Schuchat says parents should still get their children vaccinated even though we're months into the flu season. While the flu is still widespread in 48 states — hawaii and oregon are the exceptions — it's possible this flu season has peaked. The rate of people seeing a doctor for flu-like symptoms decreased from 7.7 % to 7.5 % from the previous week. It's the first week since november that flu activity has decreased, the ap reports. \" it would be too early to say that we've peaked, \" cdc spokesperson kristen nordlund says. \" we need to see more data, but that is something we are definitely hopeful for. \" nearly 10 % of all deaths in the us in mid-february were related to the flu and pneumonia. A 39-year-old man hospitalized with both this week in missouri says he thought he was going to die: \" my lungs felt like they were going to blow out of my esophagus. \" ( inside the six-day decline of a teacher diagnosed with the flu. )",
         "split": "train",
         "cleansed_document": [
             "Close the cdc reported dozens of children have died this flu season, the worst in a decade. Buzz60 getting a flu shot in atlanta. ( photo: david goldman, ap ) the worst flu season in a decade continues to take a grim toll, with 22 more child deaths reported friday, bringing the total to 84. The latest update by the federal centers for disease control and prevention also shows that the flu remained widespread in 48 states. The newly listed child deaths are the most reported in any week this harsh flu season, but they occurred over several weeks, the report said. The overall count of 84 child deaths nearly matches the 86 reported by this time in 2015, during a severe season that ended up killing 148 children, cdc spokeswoman kristen nordlund said. An estimated 56,000 people, mostly older adults, died that year. The cdc does not keep",
-            "Story highlights 3 out of 4 children who died from the flu had not gotten a flu vaccine widespread activity continues through 48 states ( cnn ) the deaths of 22 more children from flu-related causes were reported friday by the us centers for disease control and prevention in its weekly surveillance report. Those deaths bring the total number of children reported to have died to 84 since october, when the current flu season began. Three out of four children who died from the flu had not gotten a flu vaccine, the acting director of the cdc said in a thursday news conference. \" we continue to recommend parents get their children vaccinated even though it's late in the season, \" dr. Anne schuchat said. The season may continue for several more weeks, she added. Caused by viruses, flu is a contagious respiratory illness with mild to severe symptoms that can sometimes lead to",
-            "File - in this friday, feb. 9, 2018 file photo, lab technologist sharda modi tests a patient's swab for a flu infection at upson regional medical center in thomaston, ga. On friday, feb. 16, 2018, a report... ( associated press ) file - in this friday, feb. 9, 2018 file photo, lab technologist sharda modi tests a patient's swab for a flu infection at upson regional medical center in thomaston, ga. On friday, feb. 16, 2018, a report released by the centers for disease control and prevention shows the flu season may finally be... ( associated press ) file - in this friday, feb. 9, 2018 file photo, lab technologist sharda modi tests a patient's swab for a flu infection at upson regional medical center in thomaston, ga. On friday, feb. 16, 2018, a report released by"
+            "Story highlights 3 out of 4 children who died from the flu had not gotten a flu vaccine widespread activity continues through 48 states ( cnn ) the deaths of 22 more children from flu-related causes were reported friday by the us centers for disease control and prevention in its weekly surveillance report. Those deaths bring the total number of children reported to have died to 84 since october, when the current flu season began. Three out of four children who died from the flu had not gotten a flu vaccine, the acting director of the cdc said in a thursday news conference. \" we continue to recommend parents get their children vaccinated even though it's late in the season, \" dr. Anne schuchat said. The season may continue for several more weeks, she added. Caused by viruses, flu is a contagious respiratory illness with mild to severe symptoms that can sometimes lead to"
         ],
         "raw_document": [
             "Close the cdc reported dozens of children have died this flu season, the worst in a decade. Buzz60 getting a flu shot in atlanta. ( photo: david goldman, ap ) the worst flu season in a decade continues to take a grim toll, with 22 more child deaths reported friday, bringing the total to 84. The latest update by the federal centers for disease control and prevention also shows that the flu remained widespread in 48 states. The newly listed child deaths are the most reported in any week this harsh flu season, but they occurred over several weeks, the report said. The overall count of 84 child deaths nearly matches the 86 reported by this time in 2015, during a severe season that ended up killing 148 children, cdc spokeswoman kristen nordlund said. An estimated 56,000 people, mostly older adults, died that year. The cdc does not keep",
@@ -383,7 +379,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -486,7 +482,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -511,7 +507,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -680,12 +676,11 @@
     },
     {
         "idx": 44025,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "If it sounds like republicans are reading from the same playbook in their obamacare offensive, it's because they are. A memo sent to house republicans this week detailed an unusually focused attack plan, the new york times explains. Republicans are to focus en masse on one of the program's failings, then swiftly pivot to the next as soon as that narrative gains traction, constantly keeping democrats on their heels. First they focused on the website, then on dropped plans, and next they plan to shift to rate shocks. \" yeah, there is a method being followed here, \" one rep says, \" but really these stories are creating themselves. \" ( this story, for example, must have been music to strategists ' ears. ) democrats, meanwhile, have developed a counter-strategy: the democratic senatorial campaign committee is set to launch a campaign contrasting obamacare with \" cruzcare, \" in hopes of highlighting how limited republican policy alternatives are, the washington post reports. Ted cruz is actually planning to roll out his own plan, but democrats expect it to be the a potpourri of standard-issue republican policies, rather than a credible obamacare alternative.",
         "split": "train",
         "cleansed_document": [
-            "Washington — the memo distributed to house republicans this week was concise and blunt, listing talking points and marching orders: \"because of obamacare, i lost my insurance. \" \"obamacare increases health care costs. \" \"the exchanges may not be secure, putting personal information at risk. \" \"continue collecting constituent stories. \" the document, the product of a series of closed-door strategy sessions that began in mid-october, is part of an increasingly organized republican attack on the affordable care act, president obama's signature legislative initiative. Republican strategists say that over the next several months, they intend to keep democrats on their heels through a multilayered, sequenced assault. The idea is to gather stories of people affected by the health care law — through social media, letters from constituents, or meetings during visits back home — and use them to open a line of attack, keep it going until it enters the public discourse and forces a response, then quickly pivot to the next topic. For a house more used to disarray than methodical game plans, the success so far has been something of a surprise, even to the campaign's organizers. \"yeah, there is a method being followed here, \" said representative michael c. Burgess, a texas republican involved in the effort, \"but, really, these stories are creating themselves. \" first it was",
-            "Ted cruz ( steve pope/getty images ) in 2012, the meta-pundit narrative turned on whether the election would be a choice between two visions for the future ( as dems hoped ) or a referendum on the anemic obama status quo ( as republicans predicted ). The outcome surprised observers who thought the weight of the bad economy made the latter inevitable. Now democrats are going to attempt a repeat performance around obamacare, at a time when the law's travails have triggered widespread predictions that it, too, will serve as the focus of a referendum, just as the obama economy was supposed to last year. I ' m told the democratic senatorial campaign committee is set to launch a new campaign designed to refocus the debate on the republican position on health care, which dems will widely label as \"cruz care. \" with ted cruz set to roll out his own health plan — one that will probably look like the usual grab bag of gop reform ideas, which just aren't a reform alternative to obamacare — dems plan to tar gop senate candidates across the country with it, by hitting them as proponents of \"cruz care. \" many gop candidates also embraced cruz's obamacare-driven government shutdown. The \"cruz care \" campaign is grounded in a conviction that republicans — and not a few d.c. Pundits — are misreading public opinion on"
+            "Washington — the memo distributed to house republicans this week was concise and blunt, listing talking points and marching orders: \"because of obamacare, i lost my insurance. \" \"obamacare increases health care costs. \" \"the exchanges may not be secure, putting personal information at risk. \" \"continue collecting constituent stories. \" the document, the product of a series of closed-door strategy sessions that began in mid-october, is part of an increasingly organized republican attack on the affordable care act, president obama's signature legislative initiative. Republican strategists say that over the next several months, they intend to keep democrats on their heels through a multilayered, sequenced assault. The idea is to gather stories of people affected by the health care law — through social media, letters from constituents, or meetings during visits back home — and use them to open a line of attack, keep it going until it enters the public discourse and forces a response, then quickly pivot to the next topic. For a house more used to disarray than methodical game plans, the success so far has been something of a surprise, even to the campaign's organizers. \"yeah, there is a method being followed here, \" said representative michael c. Burgess, a texas republican involved in the effort, \"but, really, these stories are creating themselves. \" first it was"
         ],
         "raw_document": [
             "Washington — the memo distributed to house republicans this week was concise and blunt, listing talking points and marching orders: \"because of obamacare, i lost my insurance. \" \"obamacare increases health care costs. \" \"the exchanges may not be secure, putting personal information at risk. \" \"continue collecting constituent stories. \" the document, the product of a series of closed-door strategy sessions that began in mid-october, is part of an increasingly organized republican attack on the affordable care act, president obama's signature legislative initiative. Republican strategists say that over the next several months, they intend to keep democrats on their heels through a multilayered, sequenced assault. The idea is to gather stories of people affected by the health care law — through social media, letters from constituents, or meetings during visits back home — and use them to open a line of attack, keep it going until it enters the public discourse and forces a response, then quickly pivot to the next topic. For a house more used to disarray than methodical game plans, the success so far has been something of a surprise, even to the campaign's organizers. \"yeah, there is a method being followed here, \" said representative michael c. Burgess, a texas republican involved in the effort, \"but, really, these stories are creating themselves. \" first it was",
@@ -700,7 +695,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -758,7 +753,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -838,7 +833,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -938,7 +933,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1022,7 +1017,7 @@
             "1": 5,
             "2": 0,
             "3": 4,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1077,12 +1072,11 @@
     },
     {
         "idx": 44040,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Ever wondered just how much it sucks to be your grandmother? well thanks to the folks at the mit agelab, you don't have to wonder anymore. They've created a suit called agnes — short for \"age gain now empathy system \" — that simulates the trials and tribulations that come with your average 70-year-old body, mashable reports. The suit uses various braces, bands, and other tricks to limit wearers ' mobility, and give them a glimpse of senior citizen discomfort. A band from the helmet, for example, helps simulate the curved, compressed spine that comes with aging, while braces limit knee and elbow mobility, and earplugs and yellow glasses dull the senses, according to the project's official page. The goal? to give product designers, engineers, architects and more insight into how the elderly will experience their work.",
         "split": "train",
         "cleansed_document": [
-            "America is getting older. U.s. Census data projects that the last of the baby boomers will turn 65 in 2029, making up 16 % of the total population. And now a suit — called agnes ( age gain now empathy system ) — created by researchers at mit's agelab, can simulate old age. The suit can be worn by students, product developers and engineers for the sake of better design. Heavy helmets, neck braces and yellow-tinged glasses create the feeling of achey joints, limited mobility and blurred vision. See also: how baby boomers are embracing digital media \" put on this suit and you feel increased fatigue, reduced flexibility in joints and muscles, spinal compression and difficulty with vision and balance, \" according to mit agelab's meet agnes youtube video. Check out the video above to see suited young individuals having difficulty reaching a low supermarket shelf, reading medicine labels and getting off public buses.",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "America is getting older. U.s. Census data projects that the last of the baby boomers will turn 65 in 2029, making up 16 % of the total population. And now a suit — called agnes ( age gain now empathy system ) — created by researchers at mit's agelab, can simulate old age. The suit can be worn by students, product developers and engineers for the sake of better design. Heavy helmets, neck braces and yellow-tinged glasses create the feeling of achey joints, limited mobility and blurred vision. See also: how baby boomers are embracing digital media \" put on this suit and you feel increased fatigue, reduced flexibility in joints and muscles, spinal compression and difficulty with vision and balance, \" according to mit agelab's meet agnes youtube video. Check out the video above to see suited young individuals having difficulty reaching a low supermarket shelf, reading medicine labels and getting off public buses."
         ],
         "raw_document": [
             "America is getting older. U.s. Census data projects that the last of the baby boomers will turn 65 in 2029, making up 16 % of the total population. And now a suit — called agnes ( age gain now empathy system ) — created by researchers at mit's agelab, can simulate old age. The suit can be worn by students, product developers and engineers for the sake of better design. Heavy helmets, neck braces and yellow-tinged glasses create the feeling of achey joints, limited mobility and blurred vision. See also: how baby boomers are embracing digital media \" put on this suit and you feel increased fatigue, reduced flexibility in joints and muscles, spinal compression and difficulty with vision and balance, \" according to mit agelab's meet agnes youtube video. Check out the video above to see suited young individuals having difficulty reaching a low supermarket shelf, reading medicine labels and getting off public buses.",
@@ -1097,17 +1091,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 44041,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Matt lauer interviews caitlyn jenner in a today segment airing today and tomorrow, and the olympic champ and kardashian stepparent talks — among other things — about the fatal car accident she was involved in earlier this year. \" i remember it happening. That's about it, \" she says. \" a tragedy like this, you ' ll never get over it. You just learn to live with it the best you possibly can. \" she says she was driving under the speed limit when she allegedly rear-ended another vehicle whose driver died after the car was pushed into oncoming traffic, but the da may charge her with manslaughter. If convicted, jenner faces a year in county jail — a prospect that disturbs her. \" the media wants that picture, don't they? \" she says of the idea that she could end up in a men's jail. \" that is the worst-case scenario. I don't know. We ' ll see. The men's county jail. It is an enormous problem that they would put trans women in a men's county jail. \" on a lighter note, jenner also addressed the halloween costume based on her vanity fair cover. \" i ' m in on the joke. Yeah, no, i don't think it's offensive at all.... You've got to enjoy life. Life's too short. I can't get too upset about that type of stuff, \" she says, though she notes the costume could be of higher quality. \" i could have done my own costume! i mean, that was a serious bustier on the cover of vanity fair. I mean, at least get some good clothes. \" click to see photos of the costume.",
         "split": "train",
         "cleansed_document": [
-            "We know halloween is a time to act like a kid again but, c ' mon. Grow up. A \"call me caitlyn \" costume inspired by caitlyn jenner's groundbreaking vanity fair cover has surfaced on multiple online halloween costume retailers. The costume includes a sash, wig, and padded top and, in pictures on the sites, is worn by a man, complete with stubble. Etonline \"you probably won't break any twitter records when you wear this outfit like caitlyn did when she first made her account, but you ' ll be sure to get a few laughs out of your friends and the other guests at the get together, \" anytime costumes explains in their description. Watch: kris jenner confronts caitlyn over not being 'sensitive'to family the costume is filed under \"humorous, \" but many people find it anything but: the struggle that caitlyn jenner has to face isn't a halloween costume. Whoever made this is a shitty person. Pic.twitter.com/dlwp4ljraw — rxb spxxrs ( @sonickid1234 ) august 13, 2015 the fact that caitlyn jenner was made into a halloween costume is absolutely disgusting. The struggle she went thru is not funny in any way — meredith ( @meredith_furl ) august 24, 2015 while supporters of the costume claim people are being too pc and that the costume is, in fact,",
-            "After living decades as \"the ultimate male, \" caitlyn jenner says she doesn't miss a thing about her former life as a man. \"i think about my life — and where i ' m at in my life right now. What a tremendous experience this is. Hardly nobody gets to live two genders in their life, \" she told today's matt lauer in an exclusive morning program interview. \"everybody wonders, 'oh, what's it like to be coming from the other side? you know, their thinking, the way they act, everything? ' and here i have the opportunity to do that. And to be honest with you, everything's so new and fun. From that standpoint, it's been great. \" speaking to lauer while the two played golf at woodland hills country club outside of los angeles, jenner expressed gratitude for the kind reception she has felt since making her public debut as a transgender woman on the cover of vanity fair. \"there's nothing more, nothing better in life to wake up in the morning, look at yourself in the mirror and feel comfortable with yourself and who you are, \" she said. Jenner also opened up about a fatal car accident earlier this year in which her cadillac suv rear-ended another vehicle, causing a chain-reaction that"
+            "We know halloween is a time to act like a kid again but, c ' mon. Grow up. A \"call me caitlyn \" costume inspired by caitlyn jenner's groundbreaking vanity fair cover has surfaced on multiple online halloween costume retailers. The costume includes a sash, wig, and padded top and, in pictures on the sites, is worn by a man, complete with stubble. Etonline \"you probably won't break any twitter records when you wear this outfit like caitlyn did when she first made her account, but you ' ll be sure to get a few laughs out of your friends and the other guests at the get together, \" anytime costumes explains in their description. Watch: kris jenner confronts caitlyn over not being 'sensitive'to family the costume is filed under \"humorous, \" but many people find it anything but: the struggle that caitlyn jenner has to face isn't a halloween costume. Whoever made this is a shitty person. Pic.twitter.com/dlwp4ljraw — rxb spxxrs ( @sonickid1234 ) august 13, 2015 the fact that caitlyn jenner was made into a halloween costume is absolutely disgusting. The struggle she went thru is not funny in any way — meredith ( @meredith_furl ) august 24, 2015 while supporters of the costume claim people are being too pc and that the costume is, in fact,"
         ],
         "raw_document": [
             "We know halloween is a time to act like a kid again but, c ' mon. Grow up. A \"call me caitlyn \" costume inspired by caitlyn jenner's groundbreaking vanity fair cover has surfaced on multiple online halloween costume retailers. The costume includes a sash, wig, and padded top and, in pictures on the sites, is worn by a man, complete with stubble. Etonline \"you probably won't break any twitter records when you wear this outfit like caitlyn did when she first made her account, but you ' ll be sure to get a few laughs out of your friends and the other guests at the get together, \" anytime costumes explains in their description. Watch: kris jenner confronts caitlyn over not being 'sensitive'to family the costume is filed under \"humorous, \" but many people find it anything but: the struggle that caitlyn jenner has to face isn't a halloween costume. Whoever made this is a shitty person. Pic.twitter.com/dlwp4ljraw — rxb spxxrs ( @sonickid1234 ) august 13, 2015 the fact that caitlyn jenner was made into a halloween costume is absolutely disgusting. The struggle she went thru is not funny in any way — meredith ( @meredith_furl ) august 24, 2015 while supporters of the costume claim people are being too pc and that the costume is, in fact,",
@@ -1122,7 +1115,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1178,12 +1171,11 @@
     },
     {
         "idx": 44044,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Stocks are closing mostly lower on wall street, but energy companies rose along with the price of crude oil, and the dow jones found its sixth consecutive record close, reports marketwatch. Gains in exxon mobil and chevron nudged the dow jones industrial average to another record monday, reports the ap, but other indexes declined as media companies, banks, and technology stocks lost ground. Viacom plunged 9 % after merger talks with cbs were called off by the controlling shareholder of both companies. Crude oil jumped 3 % after oil-producing countries outside of opec agreed to reduce output. The standard &amp; poor's 500 index slipped 2 points, or 0.1 %, to 2,256. The s&p 500 is coming off its sixth straight gain. The dow climbed 39 points, or 0.2 %, to 19,796. The nasdaq composite lost 31 points, or 0.6 %, to 5,412.",
         "split": "train",
         "cleansed_document": [
-            "New york ( ap ) — the latest on developments in financial markets ( all times local ): 4: 00 p.m. Stocks are closing mostly lower on wall street, but energy companies rose along with the price of crude oil. Gains in exxon mobil and chevron nudged the dow jones industrial average to another record monday, but other indexes declined as media companies, banks and technology stocks lost ground. Viacom plunged 9 percent after merger talks with cbs were called off by the controlling shareholder of both companies. Crude oil jumped 3 percent after oil-producing countries outside of opec agreed to reduce output. The standard &amp; poor's 500 index slipped 2 points, or 0.1 percent, to 2,256. The s&p 500 is coming off its sixth straight gain. The dow climbed 39 points, or 0.2 percent, to 19,796. The nasdaq composite lost 31 points, or 0.6 percent, to 5,412. ___ 11: 45 a.m. Stocks are moving mostly lower on wall street, except for energy companies, which rose along with the price of oil. Big jumps in exxon mobil and chevron nudged the dow jones industrial average higher monday, but other major market indexes fell. The dow is at a record high. The price of crude oil jumped 3 percent after oil-producing countries outside of opec agreed to reduce production. Opec nations had already agreed on their own production cuts. The standard &amp; poor's 500 index slipped 4 points, or 0.2 percent, to 2,255. The s&p 500 is coming off its sixth straight gain, its longest winning streak since june 2014. The dow climbed 26 points, or 0.1 percent, to 19,782. The nasdaq composite lost 40 points, or 0.7 percent, to 5,404. ___ 9: 35 a.m. Stocks are opening mostly lower on wall street, except for energy companies, which rose along with the price of oil. Big jumps in exxon mobil and chevron early monday nudged the dow jones industrial average higher, but other major market indexes were lower. The price of crude oil jumped 4 percent as oil-producing",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "New york ( ap ) — the latest on developments in financial markets ( all times local ): 4: 00 p.m. Stocks are closing mostly lower on wall street, but energy companies rose along with the price of crude oil. Gains in exxon mobil and chevron nudged the dow jones industrial average to another record monday, but other indexes declined as media companies, banks and technology stocks lost ground. Viacom plunged 9 percent after merger talks with cbs were called off by the controlling shareholder of both companies. Crude oil jumped 3 percent after oil-producing countries outside of opec agreed to reduce output. The standard &amp; poor's 500 index slipped 2 points, or 0.1 percent, to 2,256. The s&p 500 is coming off its sixth straight gain. The dow climbed 39 points, or 0.2 percent, to 19,796. The nasdaq composite lost 31 points, or 0.6 percent, to 5,412. ___ 11: 45 a.m. Stocks are moving mostly lower on wall street, except for energy companies, which rose along with the price of oil. Big jumps in exxon mobil and chevron nudged the dow jones industrial average higher monday, but other major market indexes fell. The dow is at a record high. The price of crude oil jumped 3 percent after oil-producing countries outside of opec agreed to reduce production. Opec nations had already agreed on their own production cuts. The standard &amp; poor's 500 index slipped 4 points, or 0.2 percent, to 2,255. The s&p 500 is coming off its sixth straight gain, its longest winning streak since june 2014. The dow climbed 26 points, or 0.1 percent, to 19,782. The nasdaq composite lost 40 points, or 0.7 percent, to 5,404. ___ 9: 35 a.m. Stocks are opening mostly lower on wall street, except for energy companies, which rose along with the price of oil. Big jumps in exxon mobil and chevron early monday nudged the dow jones industrial average higher, but other major market indexes were lower. The price of crude oil jumped 4 percent as oil-producing"
         ],
         "raw_document": [
             "New york ( ap ) — the latest on developments in financial markets ( all times local ): 4: 00 p.m. Stocks are closing mostly lower on wall street, but energy companies rose along with the price of crude oil. Gains in exxon mobil and chevron nudged the dow jones industrial average to another record monday, but other indexes declined as media companies, banks and technology stocks lost ground. Viacom plunged 9 percent after merger talks with cbs were called off by the controlling shareholder of both companies. Crude oil jumped 3 percent after oil-producing countries outside of opec agreed to reduce output. The standard &amp; poor's 500 index slipped 2 points, or 0.1 percent, to 2,256. The s&p 500 is coming off its sixth straight gain. The dow climbed 39 points, or 0.2 percent, to 19,796. The nasdaq composite lost 31 points, or 0.6 percent, to 5,412. ___ 11: 45 a.m. Stocks are moving mostly lower on wall street, except for energy companies, which rose along with the price of oil. Big jumps in exxon mobil and chevron nudged the dow jones industrial average higher monday, but other major market indexes fell. The dow is at a record high. The price of crude oil jumped 3 percent after oil-producing countries outside of opec agreed to reduce production. Opec nations had already agreed on their own production cuts. The standard &amp; poor's 500 index slipped 4 points, or 0.2 percent, to 2,255. The s&p 500 is coming off its sixth straight gain, its longest winning streak since june 2014. The dow climbed 26 points, or 0.1 percent, to 19,782. The nasdaq composite lost 40 points, or 0.7 percent, to 5,404. ___ 9: 35 a.m. Stocks are opening mostly lower on wall street, except for energy companies, which rose along with the price of oil. Big jumps in exxon mobil and chevron early monday nudged the dow jones industrial average higher, but other major market indexes were lower. The price of crude oil jumped 4 percent as oil-producing",
@@ -1198,7 +1190,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1378,18 +1370,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 44052,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "And the strangest tech innovation of the month award goes to the engineers at nissan for inventing an office chair that puts itself neatly back under a desk at the sound of a clap. It's true: the \" intelligent parking chair \" has motors and wheels in its circular base that sync with cameras placed in a room. When somebody claps, the chair navigates its way back to the proper location, reports jalopnik. ( watch the video here. ) it's also more of a publicity stunt than a new product: nissan is looking to generate publicity for its soon-to-be-unveiled technology for self-parking cars, notes engadget. At least 10 models will have some iteration of the tech by 2020. As a publicity stunt, however, it seems to be succeeding, because auto and tech blogs are picking up on the story. Carscoops, for instance, is intrigued: \" considering how seamlessly the chairs seem to work, we wouldn't be surprised to see a technology company try and make them a production reality. \" nissan teamed with an actual chair company, okamura, to create the seats, so that might not be too far-fetched. But fortune has a practical concern: \" it's unclear what clap-powered chairs would do if the whole office ever burst into applause. \" ( tesla is starting to dabble with \" autopilot \" mode. )",
         "split": "train",
         "cleansed_document": [
             "Gif the engineers at nissan are excited about autonomous driving technology. So excited in fact, they pulled themselves away from working on actual cars to demonstrate how smart they were with self-parking office chairs. Office chairs that terrifyingly move around when you leave the room. Advertisement i ' m admittedly a little confused. I bought my office chair for too much money at staples, in pieces, in a box. I brought it home, assembled it my damn self, and put it at my desk; a spot it happily hasn't moved from in over six months. I ' m quite satisfied knowing it is dead inside",
-            "Never push your chair in again. That's the promise of a new robotic \"self-driving \" chair from nissan. The seat that parks itself works a little like clap-on-clap-off lights: clap once, and an entire roomful of office chairs usher themselves back into their spots, marie kondo-neatfreak-style. The chairs are rigged up to a bird's-eye office camera system via wi-fi. Four cameras keep track of each chair's position and help steer the chairs back into place with all the precision of a japanese tea service. Nissan powers the driving, while japanese chair company okamura provides the seat: but you're probably not going",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \""
+            "Never push your chair in again. That's the promise of a new robotic \"self-driving \" chair from nissan. The seat that parks itself works a little like clap-on-clap-off lights: clap once, and an entire roomful of office chairs usher themselves back into their spots, marie kondo-neatfreak-style. The chairs are rigged up to a bird's-eye office camera system via wi-fi. Four cameras keep track of each chair's position and help steer the chairs back into place with all the precision of a japanese tea service. Nissan powers the driving, while japanese chair company okamura provides the seat: but you're probably not going"
         ],
         "raw_document": [
             "Gif the engineers at nissan are excited about autonomous driving technology. So excited in fact, they pulled themselves away from working on actual cars to demonstrate how smart they were with self-parking office chairs. Office chairs that terrifyingly move around when you leave the room. Advertisement i ' m admittedly a little confused. I bought my office chair for too much money at staples, in pieces, in a box. I brought it home, assembled it my damn self, and put it at my desk; a spot it happily hasn't moved from in over six months. I ' m quite satisfied knowing it is dead inside",
@@ -1410,7 +1401,7 @@
             "1": 5,
             "2": 0,
             "3": 5,
-            "4": 0
+            "4": 4
         }
     },
     {
@@ -1465,12 +1456,11 @@
     },
     {
         "idx": 44055,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The man whose death at the hands of police prompted london's massive riots did not shoot at the cops, a public investigatory body has concluded. Though mark duggan had a loaded gun, there was no evidence he fired it, the watchdog group said. A bullet stuck in a police radio was \"consistent with being fired from a police gun, \" and a firearms officer shot twice; he has been called off firearms work as the investigation continues, the guardian reports. Duggan, 29, was riding in a minicab on thursday in north london when firearms officers stopped the car to arrest him. He was killed by a shot to the chest and pronounced dead at the scene. The watchdog group is continuing to investigate and a coroner's office is launching an inquest. Meanwhile, london authorities are taking action to block a fourth night of rioting, with 16,000 police now on the streets, the bbc reports.",
         "split": "train",
         "cleansed_document": [
-            "Mark duggan, whose shooting by police sparked london's riots, did not fire a shot at police officers before they killed him, the independent police complaints commission said on tuesday. Releasing the initial findings of ballistics tests, the police watchdog said a co19 firearms officer fired two bullets, and that a bullet that lodged in a police radio was \" consistent with being fired from a police gun \". One theory, not confirmed by the ipcc, is that the bullet became lodged in the radio from a ricochet or after passing through duggan. Duggan, 29, was killed last thursday in tottenham, north london, after armed officers stopped the minicab in which he was travelling. The ipcc said duggan was carrying a loaded gun, but it had no evidence that the weapon had been fired. It said tests were continuing. The officer who fired the fatal shots has been removed from firearms duties, which is standard procedure, pending the ipcc investigation. Officers from the met's operation trident and special crime directorate 11, accompanied by officers from co19, the met's specialist firearms command, stopped the silver toyota estima minicab in ferry lane, close to tottenham hale tube station, to arrest duggan. He was killed by a single gunshot wound to the chest, and received a second gunshot wound to",
-            "Media playback is unsupported on your device media caption police try to tackle masked youths in manchester sporadic violence has broken out in several cities around england, although london stayed largely quiet overnight. There was unrest in cities including manchester, salford, liverpool, nottingham and birmingham, with shops being looted and set alight. Three men died when they were hit by a car in birmingham - locals claimed they were protecting their neighbourhood. Greater manchester police's assistant chief constable said officers had faced \" unprecedented levels of violence \". London mayor boris johnson urged the government to reconsider its plans to cut police numbers, saying the argument had been \" substantially weakened \" by the riots. Gmp's acc garry shewan said he had seen \" the most sickening scenes \" of his career, and said the force had been overwhelmed. Speaking at a press conference on wednesday morning he said gmp was \" absolutely intent \" on bringing the rioters to justice and officers were already studying cctv. \" hundreds and hundreds of people, we have your image, we have your face, we have your acts of wanton criminality on film. We are coming for you, from today and no matter how long it takes, we will arrest those people responsible, \" he said. Some 113 people have been arrested so far over the trouble"
+            "Mark duggan, whose shooting by police sparked london's riots, did not fire a shot at police officers before they killed him, the independent police complaints commission said on tuesday. Releasing the initial findings of ballistics tests, the police watchdog said a co19 firearms officer fired two bullets, and that a bullet that lodged in a police radio was \" consistent with being fired from a police gun \". One theory, not confirmed by the ipcc, is that the bullet became lodged in the radio from a ricochet or after passing through duggan. Duggan, 29, was killed last thursday in tottenham, north london, after armed officers stopped the minicab in which he was travelling. The ipcc said duggan was carrying a loaded gun, but it had no evidence that the weapon had been fired. It said tests were continuing. The officer who fired the fatal shots has been removed from firearms duties, which is standard procedure, pending the ipcc investigation. Officers from the met's operation trident and special crime directorate 11, accompanied by officers from co19, the met's specialist firearms command, stopped the silver toyota estima minicab in ferry lane, close to tottenham hale tube station, to arrest duggan. He was killed by a single gunshot wound to the chest, and received a second gunshot wound to"
         ],
         "raw_document": [
             "Mark duggan, whose shooting by police sparked london's riots, did not fire a shot at police officers before they killed him, the independent police complaints commission said on tuesday. Releasing the initial findings of ballistics tests, the police watchdog said a co19 firearms officer fired two bullets, and that a bullet that lodged in a police radio was \" consistent with being fired from a police gun \". One theory, not confirmed by the ipcc, is that the bullet became lodged in the radio from a ricochet or after passing through duggan. Duggan, 29, was killed last thursday in tottenham, north london, after armed officers stopped the minicab in which he was travelling. The ipcc said duggan was carrying a loaded gun, but it had no evidence that the weapon had been fired. It said tests were continuing. The officer who fired the fatal shots has been removed from firearms duties, which is standard procedure, pending the ipcc investigation. Officers from the met's operation trident and special crime directorate 11, accompanied by officers from co19, the met's specialist firearms command, stopped the silver toyota estima minicab in ferry lane, close to tottenham hale tube station, to arrest duggan. He was killed by a single gunshot wound to the chest, and received a second gunshot wound to",
@@ -1485,7 +1475,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1535,7 +1525,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1614,13 +1604,12 @@
     },
     {
         "idx": 44061,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Has justin bieber started some sort of really gross trend? just days after he threw up on stage, lady gaga did the same in barcelona this weekend. Of course, gaga's gagging was also caught on video for your viewing displeasure. Gawker and vulture commenters are alternately impressed by gaga ( who continued to perform ) and unhappy with the revelation that she was lip syncing at the time. Her backup dancer, who appears unfazed, also gets some admiration. Of course, some are convinced it was all an act. \" maybe not a hollar [ sic ] back to the beebs, but a self-referential nod to professed bulimia? \" wonders one. \" was praying nobody saw but actually its quite a good laugh if u need one! check out lady pukega doing swan ' vomit ' lake, \" gaga herself tweeted this morning, linking to the youtube video of the incident. \" i still hit my routine mom!!: ) thank goodness for the dorchester... I need some tea, i think i just cried a little watching that. \" e! hypothesizes the culprit may have been the paella gaga ate hours before performing, and also notes that the pop star did not have a great weekend: last night in london, she was booed by fans after she showed up an hour late to launch her new perfume at harrod's.",
         "split": "train",
         "cleansed_document": [
             "Last week, justin bieber puked onstage. This week, it was lady gaga's turn. The pop star ralphed during her performance in barcelona yesterday. Like a true pro, she kept on performing and even tried to blend the retching into her choreography. More of a pro, though, was her dancing partner, who admirably showed no fear of being puked on. Enjoy. ( via vulture )",
-            "In a video making the rounds, the 26-year-old can be seen slinking down a staircase with her back to the audience during a performance of \" edge of glory \" in barcelona. Then, as she makes her way across a stage plank toward a dancer, she abruptly throws up at least four times. At one point, her backup dancer gently pats her on the back as she tries to hurl inconspicuously. But you gotta give it to mother monster: ever the pro, she barely missed a beat and continued with the performance.",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "In a video making the rounds, the 26-year-old can be seen slinking down a staircase with her back to the audience during a performance of \" edge of glory \" in barcelona. Then, as she makes her way across a stage plank toward a dancer, she abruptly throws up at least four times. At one point, her backup dancer gently pats her on the back as she tries to hurl inconspicuously. But you gotta give it to mother monster: ever the pro, she barely missed a beat and continued with the performance."
         ],
         "raw_document": [
             "Last week, justin bieber puked onstage. This week, it was lady gaga's turn. The pop star ralphed during her performance in barcelona yesterday. Like a true pro, she kept on performing and even tried to blend the retching into her choreography. More of a pro, though, was her dancing partner, who admirably showed no fear of being puked on. Enjoy. ( via vulture )",
@@ -1639,19 +1628,18 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 3
         }
     },
     {
         "idx": 44062,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The suspect accused of killing a police officer and two civilians at a planned parenthood in colorado springs on friday was a long way from home, according to law enforcement sources. The sources tell the denver post that the suspect, who surrendered after an hours-long standoff, has been identified as north carolina man robert lewis dear, 57. Police have not discussed a motive for the rampage, which left nine people injured. \" we don't have any information on this individual's mentality, or his ideas or ideology, \" a colorado springs police spokeswoman says, per the ap. At least four police officers are among the injured, and mayor john suthers says the tragedy could have been \" much worse but for the actions of the first responders, \" the colorado springs gazette reports. In a statement, planned parenthood rocky mountains ceo vicki cowart said that while the motive is still unclear, they \" share the concerns of many americans that extremists are creating a poisonous environment that feeds domestic terrorism in this country. \" the slain officer has been identified as university of colorado at colorado springs officer garrett swasey, 44. He was a co-pastor at the city's hope chapel and church members tell the new york times that he was on a mission to save lives on friday and his own anti-abortion beliefs would not have affected his actions. A co-pastor says church members gathered at swasey's home on friday night, where his wife had to break the news to their 10-year-old son and 6-year-old daughter. \" she had to tell her kids that their daddy wasn't coming home, \" he says.",
         "split": "train",
         "cleansed_document": [
             "Suspect identified as robert lewis dear, 57; slain officer is garrett swasey, 44, of university of colorado at colorado springs colorado springs — a gunman killed three people, including a veteran police officer, at a planned parenthood clinic here friday, the latest act of bullet-riddled mass terror to strike a state achingly familiar with it. The shooting and subsequent standoff spanned five hours, and, by the end, nine other people had been transported to the hospital with gunshot wounds. All of the injured were reported in good physical condition friday night. The emotional injuries struck the community deeply. Colorado springs police chief peter carey said it was a \" very,",
             "Garrett swasey, 44, the university of colorado colorado springs police officer who was shot and killed while responding to a shooting at a planned parenthood office, was described by his fellow church members and friends as a courageous man and loving father who drew strength and inspiration from his christian faith. He was married, with two young children, and had been on the campus police force for six years. He also spent seven years as a co-pastor at hope chapel in colorado springs. \"here's a guy who worked full time as a police officer, and then gave a great amount of time to his local church and didn't get a dime for",
-            "Colorado springs, colo. ( ap ) — a gunman burst into a planned parenthood clinic and opened fire, launching several gunbattles and an hourslong standoff with police as patients and staff took cover under furniture and inside locked rooms. Colorado springs, colo., mayor john suthers, second from left, talks to media after a deadly shooting at a planned parenthood clinic friday, nov. 27, 2015, in colorado springs, colo. ( daniel owen/the... ( associated press ) people are escorted away after a deadly shooting at a planned parenthood clinic friday, nov. 27, 2015, in colorado springs, colo. A gunman opened fire at the clinic on friday, authorities said,",
-            "Click here for more recent updates click here for complete coverage saturday 1: 15 p.m. Update a heavy police presence could be seen early saturday afternoon at dear's residence in park county, located just off u.s. 24 in a grassy expanse known as hartsel flats. Two officers were crouched down examining a wood-paneled shack at the five-acre property, 809 ouray court, which also included a small rv or mobile home and stacks of firewood. Other law enforcement officers -- including two park county sheriff's suvs, at least one ambulance and a command center vehicle -- where stationed in a makeshift parking area farther away. A sheriff's deputy blocked the entrance of"
+            "Colorado springs, colo. ( ap ) — a gunman burst into a planned parenthood clinic and opened fire, launching several gunbattles and an hourslong standoff with police as patients and staff took cover under furniture and inside locked rooms. Colorado springs, colo., mayor john suthers, second from left, talks to media after a deadly shooting at a planned parenthood clinic friday, nov. 27, 2015, in colorado springs, colo. ( daniel owen/the... ( associated press ) people are escorted away after a deadly shooting at a planned parenthood clinic friday, nov. 27, 2015, in colorado springs, colo. A gunman opened fire at the clinic on friday, authorities said,"
         ],
         "raw_document": [
             "Suspect identified as robert lewis dear, 57; slain officer is garrett swasey, 44, of university of colorado at colorado springs colorado springs — a gunman killed three people, including a veteran police officer, at a planned parenthood clinic here friday, the latest act of bullet-riddled mass terror to strike a state achingly familiar with it. The shooting and subsequent standoff spanned five hours, and, by the end, nine other people had been transported to the hospital with gunshot wounds. All of the injured were reported in good physical condition friday night. The emotional injuries struck the community deeply. Colorado springs police chief peter carey said it was a \" very,",
@@ -1670,7 +1658,7 @@
             "0": 0,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1722,7 +1710,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1752,13 +1740,12 @@
     },
     {
         "idx": 44066,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Michael lohan couldn't even go a full day as a free man: just hours after he was released from a tampa jail, he was arrested again. Lohan had been jailed on domestic violence charges related to his girlfriend ( yes, the ap still refers to her as his girlfriend ) kate major. Early this morning, major called 911 to report a harassing phone call from lohan; he called again after police arrived at her home, and she put him on speaker phone. The calls violated lohan's pre-trial release order ( radar notes that the judge had told him, \"you even dream of [ major ] and you're going to jail. \" ), so cops went to his hotel — where, they say, he jumped off a third-floor balcony in an attempt to evade them. Best detail: tmz reports he landed in a tree. He made a pit stop at a hospital with a possible broken foot before heading back to jail. Not surprisingly, lohan makes the frisky's list of the seven worst celebrity dads of all time — click to see who else joins him.",
         "split": "train",
         "cleansed_document": [
             "Michael lohan arrested again falls 3 stories, drugs, booze involved was just arrested again in florida after allegedly contacting his gf -- and law enforcement tells tmz, he tried to escape by jumping off a 3rd-story balcony... And plummeting 34 feet to the ground... And cops say drugs and alcohol were involved.according to law enforcement sources, tampa police responded to a call early this morning from kate, who claimed michael had been trying to contact her by phone and wouldn't leave her alone.we're told officers interviewed kate at her apartment after she made the call -- the same apartment where michaelearlier this week -- and while they were there, michael allegedly called again.according to law enforcement, officers believed michael was a \" threat \" -- so they rolled up to his hotel to arrest him.but here's the crazy part -- law enforcement tells tmz, michael tried to escape by hopping",
-            "By radar staff michael lohan was back in a florida court on wednesday morning facing charges of domestic battery, radaronline.com has learned. Lindsay's dad appeared exhausted and serious as he stood handcuffed in front of the judge in tampa, florida, who told him not to even \"dream \" about his ex-girlfriend, kate major. Photos: michael lohan gets booked and stands before the judge as radaronline.com previously reported, lohan was arrested for battery domestic violence and was taken into custody in the early hours of tuesday morning after getting into an argument with former fiance, kate. Photos: sexy stars who have been arrested he had been held in jail ever since and was granted a $ 5,000 bond on wednesday after over 24 hours in custody. Judge walter heinrich jr. Told the 51-year-old to stay away from kate, 28, at all costs. \"you even dream of her and you '",
-            "I ' m fully convinced that michael lohan's headline-making domestic violence arrest yesterday was copied straight out of mel gibson's playbook. Of course, mel's famed blowouts were uniquely terrible because some of them were directed towards the teenage son of ex-girlfriend oksana grigorieva. Last month, mel paid $ 100,000 to oksana's 14-year-old for the guarantee that he wouldn't sue the once-respected actor for reportedly \"terrorizing \" him during altercations with his mother. That's low, even for mel gibson. Additionally, his own toddler daughter with grigorieva bore witness to a number of her father's detonations. It's hard to top this sh**ty parenting, but surprise, surprise, more than a few celebs come come! after the jump, six more celebrities who i definitely wouldn't want for a dad."
+            "By radar staff michael lohan was back in a florida court on wednesday morning facing charges of domestic battery, radaronline.com has learned. Lindsay's dad appeared exhausted and serious as he stood handcuffed in front of the judge in tampa, florida, who told him not to even \"dream \" about his ex-girlfriend, kate major. Photos: michael lohan gets booked and stands before the judge as radaronline.com previously reported, lohan was arrested for battery domestic violence and was taken into custody in the early hours of tuesday morning after getting into an argument with former fiance, kate. Photos: sexy stars who have been arrested he had been held in jail ever since and was granted a $ 5,000 bond on wednesday after over 24 hours in custody. Judge walter heinrich jr. Told the 51-year-old to stay away from kate, 28, at all costs. \"you even dream of her and you '"
         ],
         "raw_document": [
             "Michael lohan arrested again falls 3 stories, drugs, booze involved was just arrested again in florida after allegedly contacting his gf -- and law enforcement tells tmz, he tried to escape by jumping off a 3rd-story balcony... And plummeting 34 feet to the ground... And cops say drugs and alcohol were involved.according to law enforcement sources, tampa police responded to a call early this morning from kate, who claimed michael had been trying to contact her by phone and wouldn't leave her alone.we're told officers interviewed kate at her apartment after she made the call -- the same apartment where michaelearlier this week -- and while they were there, michael allegedly called again.according to law enforcement, officers believed michael was a \" threat \" -- so they rolled up to his hotel to arrest him.but here's the crazy part -- law enforcement tells tmz, michael tried to escape by hopping",
@@ -1775,7 +1762,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1831,18 +1818,17 @@
             "0": 0,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 2
         }
     },
     {
         "idx": 44069,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Tropical storm isaac still has the potential to foul up republicans ' convention plans in florida, but relief agencies are more worried about haiti at the moment. Isaac is expected to be at hurricane strength when it rolls in tomorrow night — the first major storm to hit since the 2010 earthquake, reports cnn. Especially vulnerable are the more than 400,000 people still living in refugee camps around port-au-prince. The storm should hit tampa on monday, though the tampa bay times reports that the latest computer models show it tracking further west of florida, which would lessen the impact. Forecasters will know more as they watch isaac's path and strength over the next few days. Puerto rico is already getting torrential rains, and isaac will then hit the dominican republican and haiti, before heading toward cuba and the us, reports the ap.",
         "split": "train",
         "cleansed_document": [
             "Tropical storm isaac expected to rebound as hurricane as it moves toward florida by anna m. Phillips and marissa lang, times staff writers in print: friday, august 24, 2012 the tampa bay times forum, shown on the garrison channel, is in evacuation zone b for category 2 hurricanes. It is the main site of the republican national convention beginning monday. Rnc officials said thursday that they expect the convention to go on. It was only yesterday that joe morelli finished righting the palm trees knocked askew by tropical storm debby on bayshore boulevard in tampa. On the pinellas beaches, the pass-a-grille marina is still a work zone a month after a tornado spawned by debby ripped off its roof. The rivers are swollen, the beaches are eroded and some areas are still water-logged from a combination of debby and heavy rains this week. The threat of a strike from tropical storm isaac",
-            "Story highlights in port-au-prince, no signs of storm preparation as haitians unaware storm is coming the storm could become a hurricane before it reaches hispaniola it could pose dangers to haitians still recovering from the deadly 2010 earthquake it's unclear whether the storm will affect the gop convention in florida next week as tropical storm isaac swirls in the caribbean -- becoming more powerful mile by mile -- it threatens to unleash disaster once again on vulnerable and often unaware haitians by friday night. The possibility of stinging rain and tree-bending wind descending on the hundreds of thousands of haitians living in camps has aid groups in the country on high alert. By the time isaac strikes haiti, it is forecast to be at hurricane strength, bringing destructive wind and water to an area still recovering from a devastating 2010 earthquake. As much of 12 inches of rain is forecast for some parts of the country, posing",
-            "Puerto rico and the u.s. Virgin islands braced for torrential rains on thursday as tropical storm isaac whipped up waves as high as 10 feet ( 3 meters ) in the caribbean and threatened to become a hurricane that could take a shot at florida just as republicans gather for their national convention. Dr. Lixion avila, senior hurricane specialist, foreground, updates dr. Rick knabb, director of the national hurricane center, on other developing tropical storms wednesday, aug. 22, 2012, at the national... ( associated press ) this noaa satellite image taken thursday, aug. 23, 2012 at 1: 45 a.m. Edt shows tropical storm isaac spinning over the eastern caribbean sea. The system is now about 265 miles southeast of san juan, puerto... ( associated press ) map locates tropical storm isaac and its projected path for the next five days ( associated press ) some flooding was reported in eastern"
+            "Story highlights in port-au-prince, no signs of storm preparation as haitians unaware storm is coming the storm could become a hurricane before it reaches hispaniola it could pose dangers to haitians still recovering from the deadly 2010 earthquake it's unclear whether the storm will affect the gop convention in florida next week as tropical storm isaac swirls in the caribbean -- becoming more powerful mile by mile -- it threatens to unleash disaster once again on vulnerable and often unaware haitians by friday night. The possibility of stinging rain and tree-bending wind descending on the hundreds of thousands of haitians living in camps has aid groups in the country on high alert. By the time isaac strikes haiti, it is forecast to be at hurricane strength, bringing destructive wind and water to an area still recovering from a devastating 2010 earthquake. As much of 12 inches of rain is forecast for some parts of the country, posing"
         ],
         "raw_document": [
             "Tropical storm isaac expected to rebound as hurricane as it moves toward florida by anna m. Phillips and marissa lang, times staff writers in print: friday, august 24, 2012 the tampa bay times forum, shown on the garrison channel, is in evacuation zone b for category 2 hurricanes. It is the main site of the republican national convention beginning monday. Rnc officials said thursday that they expect the convention to go on. It was only yesterday that joe morelli finished righting the palm trees knocked askew by tropical storm debby on bayshore boulevard in tampa. On the pinellas beaches, the pass-a-grille marina is still a work zone a month after a tornado spawned by debby ripped off its roof. The rivers are swollen, the beaches are eroded and some areas are still water-logged from a combination of debby and heavy rains this week. The threat of a strike from tropical storm isaac",
@@ -1859,7 +1845,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1940,7 +1926,7 @@
             "0": 0,
             "1": 1,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2113,7 +2099,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2217,12 +2203,11 @@
     },
     {
         "idx": 44083,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The bad news: lindsay lohan is going to jail. The good news: her pined-after ex, samantha ronson, is back on her side. Ronson recently defended lohan against a stream of hilarious — er, mean — tweets from joan rivers. Samples: \"lindsay lohan said she wouldn't mind being under oath because she thought oath was a norwegian ski instructor \" and \"i was just reading about the new lindsay lohan diet, which is all liquid. 80 proof. \" \"hey joan rivers, \" tweeted sam in response, \"you have collagen older than lindsay, pick on someone your own age, oh wait i guess people that old can't hear. \" lilo was quick to re-tweet with a \"thank you; ), \" us reports.",
         "split": "train",
         "cleansed_document": [
-            "It looks like samantha ronson still has a soft spot for her ex lindsay lohan. Photos: how lindsay's face has changed joan rivers mocked lohan, who was just sentenced to 90 days in jail, in a series of tweets. \" lindsay lohan is so dumb. Her idea of being sworn in is cursing at the judge, \" said one, a clear reference to lohan's f-word manicure. Said another, \" i was just reading about the new lindsay lohan diet, which is all liquid. 80 proof. \" the actress is going to jail for violating probation on two 2007 duis. Rivers, 77, also quipped, \" lindsay lohan said she wouldn't mind being under oath because she thought oath was a norwegian ski instructor. \" ( rivers also had a few biting words for judge marsha revel, who sentenced lohan. ) ronson, 32, stood up for lohan, from whom she split in april 2009. Photos: child stars gone bad \" hey joan rivers, \" she twittered. \" you have collagen older than lindsay, pick on someone your own age, oh wait i guess people that old can't hear. \" lohan appreciated the support. She re-tweeted the message saturday morning, and added, \" thank you.; ) \" the exchange was much more civil than one of their recent run-ins, in which lohan pitched a glass at ronson at a hollywood club. Retorted ronson after, \" she's an angry human being. \" meanwhile, tmz.com reports she's hired a new lawyer, chicago-based stuart v. Goldberg, to appeal her jail sentence. Her former lawyer, shawn chapman holley, issued a scathing statement slamming lohan's sentece and quit the same day. But lohan's new york-based attorney, stephanie ovadia, says the family is still searching. ( dina told entertainment tonight she spends hours a day going over legal papers herself to help mount a defense. ) \" no attorney has been retained by the family at this point, \" she told usmagazine.com.",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "It looks like samantha ronson still has a soft spot for her ex lindsay lohan. Photos: how lindsay's face has changed joan rivers mocked lohan, who was just sentenced to 90 days in jail, in a series of tweets. \" lindsay lohan is so dumb. Her idea of being sworn in is cursing at the judge, \" said one, a clear reference to lohan's f-word manicure. Said another, \" i was just reading about the new lindsay lohan diet, which is all liquid. 80 proof. \" the actress is going to jail for violating probation on two 2007 duis. Rivers, 77, also quipped, \" lindsay lohan said she wouldn't mind being under oath because she thought oath was a norwegian ski instructor. \" ( rivers also had a few biting words for judge marsha revel, who sentenced lohan. ) ronson, 32, stood up for lohan, from whom she split in april 2009. Photos: child stars gone bad \" hey joan rivers, \" she twittered. \" you have collagen older than lindsay, pick on someone your own age, oh wait i guess people that old can't hear. \" lohan appreciated the support. She re-tweeted the message saturday morning, and added, \" thank you.; ) \" the exchange was much more civil than one of their recent run-ins, in which lohan pitched a glass at ronson at a hollywood club. Retorted ronson after, \" she's an angry human being. \" meanwhile, tmz.com reports she's hired a new lawyer, chicago-based stuart v. Goldberg, to appeal her jail sentence. Her former lawyer, shawn chapman holley, issued a scathing statement slamming lohan's sentece and quit the same day. But lohan's new york-based attorney, stephanie ovadia, says the family is still searching. ( dina told entertainment tonight she spends hours a day going over legal papers herself to help mount a defense. ) \" no attorney has been retained by the family at this point, \" she told usmagazine.com."
         ],
         "raw_document": [
             "It looks like samantha ronson still has a soft spot for her ex lindsay lohan. Photos: how lindsay's face has changed joan rivers mocked lohan, who was just sentenced to 90 days in jail, in a series of tweets. \" lindsay lohan is so dumb. Her idea of being sworn in is cursing at the judge, \" said one, a clear reference to lohan's f-word manicure. Said another, \" i was just reading about the new lindsay lohan diet, which is all liquid. 80 proof. \" the actress is going to jail for violating probation on two 2007 duis. Rivers, 77, also quipped, \" lindsay lohan said she wouldn't mind being under oath because she thought oath was a norwegian ski instructor. \" ( rivers also had a few biting words for judge marsha revel, who sentenced lohan. ) ronson, 32, stood up for lohan, from whom she split in april 2009. Photos: child stars gone bad \" hey joan rivers, \" she twittered. \" you have collagen older than lindsay, pick on someone your own age, oh wait i guess people that old can't hear. \" lohan appreciated the support. She re-tweeted the message saturday morning, and added, \" thank you.; ) \" the exchange was much more civil than one of their recent run-ins, in which lohan pitched a glass at ronson at a hollywood club. Retorted ronson after, \" she's an angry human being. \" meanwhile, tmz.com reports she's hired a new lawyer, chicago-based stuart v. Goldberg, to appeal her jail sentence. Her former lawyer, shawn chapman holley, issued a scathing statement slamming lohan's sentece and quit the same day. But lohan's new york-based attorney, stephanie ovadia, says the family is still searching. ( dina told entertainment tonight she spends hours a day going over legal papers herself to help mount a defense. ) \" no attorney has been retained by the family at this point, \" she told usmagazine.com.",
@@ -2237,7 +2222,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2266,7 +2251,7 @@
             "0": 0,
             "1": 5,
             "2": 3,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2300,7 +2285,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -2327,7 +2312,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2359,12 +2344,11 @@
     },
     {
         "idx": 44088,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "After what tmz calls an \" absurdly brief gig \" in the white house, anthony scaramucci may soon be enjoying big bucks from speaking engagements. Scaramucci, who was a white house fixture for less time than it takes for milk to spoil, could be getting a hefty roi from his short stint as communications director, with \" multiple sources plugged into the public speaking circuit \" telling tmz he could command $ 75,000 for each speaking gig, in no small part due to the drama that surrounded his short tenure. Tmz doesn't think scaramucci would actually dish on trump — it notes scaramucci's apparent loyalty and already fat bank account — but it says he could cash in if he wanted to, especially if he were willing to play the part of \" sacrificial lamb. \" meanwhile, vicky ward of huffpost spoke with scaramucci on tuesday, and he told her \" most \" of what he said in his infamous call to new yorker reporter ryan lizza \" was humorous and joking. \" he also says lizza threw him under the bus — their families have been friends for more than 50 years, he claims — and that \" legally, [ the interview ] may have been on the record, but the spirit of it was off. And [ lizza ] knew that. \" ( lizza, for his part, tells ward: \" we are not and have never been ' old family friends,'though i think our fathers knew each other. \" ) scaramucci also revealed his next steps: he's going to \" go dark, \" then \" re-emerge — as me. \" ward also chatted with trump surrogate roger stone, who told her trump's administration is \" like the french revolution. You never know who will be beheaded next. \" ( scaramucci talks about his marital woes and his last hours in the white house here. )",
         "split": "train",
         "cleansed_document": [
-            "Anthony scaramucci moocho dinero waiting after d.c. On public speaking circuit anthony scaramucci can turn white house debacle into $ 75k speaking engagements exclusive anthony scaramucci's absurdly brief gig in the white house is going to pay off big-time, and help make the rich man even richer... If he chooses to cash in on making speeches. Multiple sources plugged into the public speaking circuit tell us the mooch is such a hot ticket right now, he could haul in $ 75,000 per event. We're told his market value as a hedge fund magnate and entrepreneur already made his speaking engagements worth roughly $ 25-50k -- but those 10 days in the west wing make him a bigger draw, which means way more dough. Our sources say the high drama around his administration stint adds extra appeal... Especially if he wanted to play the \" sacrificial lamb. \" however, it's doubtful",
-            "I received a call monday night from roger stone, the infamous political prankster and donald trump confidant. He wanted to talk about anthony scaramucci, whose 10-day tenure as white house communications director had just ended in ignominy. Stone said that scaramucci reminded him of \"a suicide bomber, \" then switched centuries for his next metaphor. \"the administration is like the french revolution, \" stone said. \"you never know who will be beheaded next. \" but stone didn't believe that scaramucci would stay far from the president for long. \"as you know, none of us are ever really gone. He still has the president's cellphone, the president's private number. Just because he's not in the white house, no one should think his influence has gone. \" when i spoke to scaramucci on tuesday afternoon, the financier was more interested in justifying his recent past"
+            "Anthony scaramucci moocho dinero waiting after d.c. On public speaking circuit anthony scaramucci can turn white house debacle into $ 75k speaking engagements exclusive anthony scaramucci's absurdly brief gig in the white house is going to pay off big-time, and help make the rich man even richer... If he chooses to cash in on making speeches. Multiple sources plugged into the public speaking circuit tell us the mooch is such a hot ticket right now, he could haul in $ 75,000 per event. We're told his market value as a hedge fund magnate and entrepreneur already made his speaking engagements worth roughly $ 25-50k -- but those 10 days in the west wing make him a bigger draw, which means way more dough. Our sources say the high drama around his administration stint adds extra appeal... Especially if he wanted to play the \" sacrificial lamb. \" however, it's doubtful"
         ],
         "raw_document": [
             "I received a call monday night from roger stone, the infamous political prankster and donald trump confidant. He wanted to talk about anthony scaramucci, whose 10-day tenure as white house communications director had just ended in ignominy. Stone said that scaramucci reminded him of \"a suicide bomber, \" then switched centuries for his next metaphor. \"the administration is like the french revolution, \" stone said. \"you never know who will be beheaded next. \" but stone didn't believe that scaramucci would stay far from the president for long. \"as you know, none of us are ever really gone. He still has the president's cellphone, the president's private number. Just because he's not in the white house, no one should think his influence has gone. \" when i spoke to scaramucci on tuesday afternoon, the financier was more interested in justifying his recent past",
@@ -2381,7 +2365,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2546,7 +2530,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2628,13 +2612,12 @@
     },
     {
         "idx": 44098,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The diaries of susan powell's imprisoned father-in-law have emerged, and they tell a story of \" lust \" for the missing woman. \" the fact is, i can hardly control myself when it comes to her, \" steven powell wrote in an entry obtained by komo-tv. From abc news: \" i have never lusted for a woman as i have for susan. I take chances sometimes to take video clips of her, which i watch regularly. \" the elder powell also described masturbating with susan's underwear and sliding a mirror under the bathroom door to watch his daughter-in-law, a habit he recognized as possibly \" sociopathic. \" the 2,300 pages contain no clues to susan's whereabouts, according to the new york daily news. The 62-year-old powell is in a washington state prison for voyeurism and was named a person of interest in susan's disappearance; pictures of susan were previously found in his home.",
         "split": "train",
         "cleansed_document": [
             "Powell journals: ' i can hardly control myself when it comes to her'share this story print email seattle -- steven powell's recently unsealed personal journals offer a unique insight into his mind, but it's unclear if they will help investigators get any closer to finding out what happened to his daughter-in-law, susan powell. It was a year ago that steven powell shocked the world by claiming he was involved in a sexually-charged relationship with susan powell. \" we interacted in a lot of sexual ways because susan enjoys doing that. I enjoy doing that, \" he said in august 2011. Susan's family denies that claim, saying she felt uneasy around her father-in-law. Detectives say that perverse relationship came to light as they investigated susan's disappearance from her utah home in december 2009. Investigators came across steven powell's journals, which detailed his obsession with susan",
-            "Rick egan/pool steven powell during his trial. The personal journals of prisoner steven powell offer a disturbing portrait of a man who was obsessed with his daughter-in-law years before she went missing in 2009 — a case that's taken one tragic turn after another. Police have released 17 spiral-bound notebooks that belonged to powell, who was sentenced in june to two and a half years in a washington state prison for acts of voyeurism against young girls. The 62-year-old wasn't considered the main suspect in the disappearance of his daughter-in-law, susan powell, from her home in west valley city, utah. His journals, however, detailed his desire for her right up until she went missing. Family handout/komonews.com \"the fact is, i can hardly control myself when it comes to her, \" he wrote in one entry, according to abc affiliate komo-tv in seattle. Other entries also highlighted an",
-            "The personal diaries of steven powell show a man obsessed with his daughter-in-law, fantasizing about and spying on susan cox powell for more than a year before her disappearance. Police released thousands of pages of police reports and diary entries that were collected during the years since susan powell's 2009 disappearance, in which her husband, josh powell, was the only named person of interest. Josh powell denied involvement in her death. He killed their two children and himself in a fiery house explosion in february of this year. Steven powell, josh's father, was found guilty on charges of voyeurism in may of this year for photographs and videos he took of young girls changing and bathing in their bathroom. He is serving a prison sentence in washington state prison. The documents released tuesday include numerous journal entries referencing steven powell's desire and love for his daughter-in-law. \""
+            "Rick egan/pool steven powell during his trial. The personal journals of prisoner steven powell offer a disturbing portrait of a man who was obsessed with his daughter-in-law years before she went missing in 2009 — a case that's taken one tragic turn after another. Police have released 17 spiral-bound notebooks that belonged to powell, who was sentenced in june to two and a half years in a washington state prison for acts of voyeurism against young girls. The 62-year-old wasn't considered the main suspect in the disappearance of his daughter-in-law, susan powell, from her home in west valley city, utah. His journals, however, detailed his desire for her right up until she went missing. Family handout/komonews.com \"the fact is, i can hardly control myself when it comes to her, \" he wrote in one entry, according to abc affiliate komo-tv in seattle. Other entries also highlighted an"
         ],
         "raw_document": [
             "Powell journals: ' i can hardly control myself when it comes to her'share this story print email seattle -- steven powell's recently unsealed personal journals offer a unique insight into his mind, but it's unclear if they will help investigators get any closer to finding out what happened to his daughter-in-law, susan powell. It was a year ago that steven powell shocked the world by claiming he was involved in a sexually-charged relationship with susan powell. \" we interacted in a lot of sexual ways because susan enjoys doing that. I enjoy doing that, \" he said in august 2011. Susan's family denies that claim, saying she felt uneasy around her father-in-law. Detectives say that perverse relationship came to light as they investigated susan's disappearance from her utah home in december 2009. Investigators came across steven powell's journals, which detailed his obsession with susan",
@@ -2651,7 +2634,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {

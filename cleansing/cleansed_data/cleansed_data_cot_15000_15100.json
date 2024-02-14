@@ -109,7 +109,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -300,7 +300,7 @@
             "0": 1,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -353,7 +353,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -438,12 +438,11 @@
     },
     {
         "idx": 15016,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Michael wolff is shrugging off president trump's claim that his new book is \" full of lies, \" and seems to agree with stephen colbert. \" my credibility is being questioned by a man who has less credibility than, perhaps, anyone who has ever walked on earth, \" he said friday on nbc's today show. Wolff ( a co-founder of newser ) said \" the one description that everyone [ close to trump ] gave... They all say he is like a child, and what they mean by that is he has a need for immediate gratification. It's all about him.... This man does not read, does not listen. He's like a pinball, just shooting off the sides. \" though trump isn't the only one questioning fire and fury: inside the trump white house, out today, wolff said he's \" in every way comfortable with everything i've reported, \" and has notes and recordings to back it up. Asked about a thursday tweet in which trump claimed he denied wolff access to the white house, wolff replied, \" what was i doing there if he didn't want me to be there? \" he added he spent three hours with trump \" over the course of the campaign and in the white house \" while also speaking with those close to him. \" whether he realized it was an interview or not, i don't know, but it was certainly not off the record, \" he said. Wolff also said he was unsurprised by trump's attacks, including his attempt to block the book's release. \" he will send lawyers ' letters — this is a 35-year history of how he approaches everything, \" he said. \" what i say is, where do i send the box of chocolates? \" wolff quipped, noting the attacks have only further publicized fire and fury, whose release date was moved up to friday. Trump tweeted about the book again friday morning, referring to it as the \" phony new book. \"",
         "split": "train",
         "cleansed_document": [
-            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by adam edelman michael wolff, the author of a new book that gives a behind-the-scenes account of the white house, defended his work friday, insisting he spoke with president donald trump on the record and calling the commander in chief \" a man who has less credibility than, perhaps, anyone who has ever walked on earth. \" wolff, in an exclusive interview on nbc's \" today, \" said that everyone he spoke to for the book, \" fire and fury: inside the trump white house, \" described the president the same way. \" i will tell you the one description that everyone gave, everyone has in common: they all say he is like a child, \" wolff explained. \" and what they mean by that is, he has a need for immediate gratification. It is all about him. \" wolff added that \" 100 percent of the people around \" trump, \" senior advisers, family members, every single one of them, questions his intelligence and fitness for office. \" trump hit back in a tweet late on friday, claiming wolff made up stories and used his former chief strategist \" sloppy steve bannon \" to sell the book. Michael wolff is a total loser who made up stories in order to sell this really boring and untruthful book. He used sloppy steve bannon, who cried when he got fired and begged for his job. Now sloppy steve has been dumped like a dog by almost everyone. Too bad! https://t.co/meeuhk5zv9 — donald j. Trump ( @realdonaldtrump ) january 6, 2018 wolff also contended that he \" absolutely \" spoke to the president during his reporting of the book. \" whether he realized it was an interview or not, i don't know, but it certainly was not off the record, \" wolff said. \" i spoke to him after the inauguration, yes. And i had spoken to, i mean i spent about three hours with the president over the course of the campaign and in the white house, so my window into donald trump is pretty significant. \" trump, however, said on twitter thursday night that he \" authorized zero access to white house \" for the author and \" never spoke to him",
-            "Well, now that collusion with russia is proving to be a total hoax and the only collusion is with hillary clinton and the fbi/russia, the fake news media ( mainstream ) and this phony new book are hitting out at every new front imaginable. They should try winning an election. Sad!"
+            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by adam edelman michael wolff, the author of a new book that gives a behind-the-scenes account of the white house, defended his work friday, insisting he spoke with president donald trump on the record and calling the commander in chief \" a man who has less credibility than, perhaps, anyone who has ever walked on earth. \" wolff, in an exclusive interview on nbc's \" today, \" said that everyone he spoke to for the book, \" fire and fury: inside the trump white house, \" described the president the same way. \" i will tell you the one description that everyone gave, everyone has in common: they all say he is like a child, \" wolff explained. \" and what they mean by that is, he has a need for immediate gratification. It is all about him. \" wolff added that \" 100 percent of the people around \" trump, \" senior advisers, family members, every single one of them, questions his intelligence and fitness for office. \" trump hit back in a tweet late on friday, claiming wolff made up stories and used his former chief strategist \" sloppy steve bannon \" to sell the book. Michael wolff is a total loser who made up stories in order to sell this really boring and untruthful book. He used sloppy steve bannon, who cried when he got fired and begged for his job. Now sloppy steve has been dumped like a dog by almost everyone. Too bad! https://t.co/meeuhk5zv9 — donald j. Trump ( @realdonaldtrump ) january 6, 2018 wolff also contended that he \" absolutely \" spoke to the president during his reporting of the book. \" whether he realized it was an interview or not, i don't know, but it certainly was not off the record, \" wolff said. \" i spoke to him after the inauguration, yes. And i had spoken to, i mean i spent about three hours with the president over the course of the campaign and in the white house, so my window into donald trump is pretty significant. \" trump, however, said on twitter thursday night that he \" authorized zero access to white house \" for the author and \" never spoke to him"
         ],
         "raw_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by adam edelman michael wolff, the author of a new book that gives a behind-the-scenes account of the white house, defended his work friday, insisting he spoke with president donald trump on the record and calling the commander in chief \" a man who has less credibility than, perhaps, anyone who has ever walked on earth. \" wolff, in an exclusive interview on nbc's \" today, \" said that everyone he spoke to for the book, \" fire and fury: inside the trump white house, \" described the president the same way. \" i will tell you the one description that everyone gave, everyone has in common: they all say he is like a child, \" wolff explained. \" and what they mean by that is, he has a need for immediate gratification. It is all about him. \" wolff added that \" 100 percent of the people around \" trump, \" senior advisers, family members, every single one of them, questions his intelligence and fitness for office. \" trump hit back in a tweet late on friday, claiming wolff made up stories and used his former chief strategist \" sloppy steve bannon \" to sell the book. Michael wolff is a total loser who made up stories in order to sell this really boring and untruthful book. He used sloppy steve bannon, who cried when he got fired and begged for his job. Now sloppy steve has been dumped like a dog by almost everyone. Too bad! https://t.co/meeuhk5zv9 — donald j. Trump ( @realdonaldtrump ) january 6, 2018 wolff also contended that he \" absolutely \" spoke to the president during his reporting of the book. \" whether he realized it was an interview or not, i don't know, but it certainly was not off the record, \" wolff said. \" i spoke to him after the inauguration, yes. And i had spoken to, i mean i spent about three hours with the president over the course of the campaign and in the white house, so my window into donald trump is pretty significant. \" trump, however, said on twitter thursday night that he \" authorized zero access to white house \" for the author and \" never spoke to him",
@@ -458,7 +457,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -488,12 +487,11 @@
     },
     {
         "idx": 15018,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Amazon is revamping its seattle headquarters, adding several new buildings, including a 524-foot-tall tower with a dog park perched on top, per silicon beat. But the pièce de résistance is a skeletal-like structure made up of three conjoined spheres ( bloomberg likens them to \" melted-together milk duds \" ), to be filled with 3,000 species of plants by its completion in 2018. Employees — whether public tours will come is to be determined — will enjoy a five-story \" living wall \"; an indoor creek; a 45-foot fig tree; and treetop suspension bridges connecting \" treehouses, \" or rooms walled in vines. The new york times speaks with ron gagliardo, the horticulturist currently growing many of the cloud-forest plants — ecuadorean orchids, carnivorous pitcher plants — destined for the spheres in greenhouses in the seattle suburbs. Perhaps amazon is familiar with a decade-old study cited by the times that found workers who had a view of nature had a 20 % reduction in sick leave. Or perhaps it's just trying to give workers what it thinks they want. \" we wanted to create a place employees would be proud of and proud to bring their families, \" an amazon rep tells bloomberg. \" we wanted it to be iconic, a structure that would be similar to another icon in the city, like the space needle, for newcomers to seattle. \" seattle's downtown is already dominated by some 30 amazon buildings. The new construction projects will give amazon 10 million square feet of office space, or 15 % of the city's inventory, per bloomberg, which calls the spheres \" amazon's boldest statement yet in the first project it's building from the ground up. \"",
         "split": "train",
         "cleansed_document": [
-            "Having colonized the south lake union neighborhood, seattle's largest private employer is building three giant spheres filled with trees — the better to connect employees with nature. Walk down seventh avenue in downtown seattle and you can't miss them: three gigantic spheres resembling melted-together milk duds rising in the shadow of amazon's new 500-foot-tall office tower. The architectural oddity has already become a tourist attraction and social media phenomenon. Passersby snap photographs and watch construction crews attach glass panes to the steel frames. Images stream through instagram and twitter. When they open in 2018, the 100-foot-tall orbs — amazon calls them biospheres — will host more than 300 plant species from around the world, creating what the company sees as the workplace of the future. Amazonians will be able to break from their daily labors to walk amid the greenery along suspension bridges and climb into meeting spaces resembling bird nests perched in mature trees, where the company expects them to brainstorm — and perhaps even invent the next billion-dollar opportunity. Amazon's new headquarters was designed to project a forward-thinking company eager to help employees be more productive, creative and happy by providing a connection to nature. But the most trend-setting and appealing feature of the new complex is most likely its location: plopped between glass and steel high-rises on a busy street in downtown seattle where",
-            "By patrick may / july 8, 2016 at 10: 16 am perhaps because it was stung so badly last year by the new york times whose writers called it a \" bruising workplace, \" or maybe to blunt other criticism of being disconnected from its hometown of seattle, amazon is now figuratively going full monty, offering the public guided tours of its seattle headquarters — as long as visitors don't bring binoculars with them. Criticized in the past by the local paper for being tight-fisted when it comes to helping local charities, amazon's headquarters tour site points out that the tech giant is the city's biggest private employer and one of its largest taxpayers. And it boasts that one of its unused buildings serves as a homeless shelter for families. \"several years ago, we made a conscious choice to invest in downtown seattle, even though it would've been cheaper for us to move our headquarters to the suburbs, \" says a note on site. \"we chose to commit to seattle because we believed it was the right choice for our employees and for the city. \" amazon has made previous efforts to show the public a friendly face: it currently offers open-houses at six fulfillment centers across the country. Says its website: we're proud to offer tours of our fulfillment centers on the first"
+            "Having colonized the south lake union neighborhood, seattle's largest private employer is building three giant spheres filled with trees — the better to connect employees with nature. Walk down seventh avenue in downtown seattle and you can't miss them: three gigantic spheres resembling melted-together milk duds rising in the shadow of amazon's new 500-foot-tall office tower. The architectural oddity has already become a tourist attraction and social media phenomenon. Passersby snap photographs and watch construction crews attach glass panes to the steel frames. Images stream through instagram and twitter. When they open in 2018, the 100-foot-tall orbs — amazon calls them biospheres — will host more than 300 plant species from around the world, creating what the company sees as the workplace of the future. Amazonians will be able to break from their daily labors to walk amid the greenery along suspension bridges and climb into meeting spaces resembling bird nests perched in mature trees, where the company expects them to brainstorm — and perhaps even invent the next billion-dollar opportunity. Amazon's new headquarters was designed to project a forward-thinking company eager to help employees be more productive, creative and happy by providing a connection to nature. But the most trend-setting and appealing feature of the new complex is most likely its location: plopped between glass and steel high-rises on a busy street in downtown seattle where"
         ],
         "raw_document": [
             "Having colonized the south lake union neighborhood, seattle's largest private employer is building three giant spheres filled with trees — the better to connect employees with nature. Walk down seventh avenue in downtown seattle and you can't miss them: three gigantic spheres resembling melted-together milk duds rising in the shadow of amazon's new 500-foot-tall office tower. The architectural oddity has already become a tourist attraction and social media phenomenon. Passersby snap photographs and watch construction crews attach glass panes to the steel frames. Images stream through instagram and twitter. When they open in 2018, the 100-foot-tall orbs — amazon calls them biospheres — will host more than 300 plant species from around the world, creating what the company sees as the workplace of the future. Amazonians will be able to break from their daily labors to walk amid the greenery along suspension bridges and climb into meeting spaces resembling bird nests perched in mature trees, where the company expects them to brainstorm — and perhaps even invent the next billion-dollar opportunity. Amazon's new headquarters was designed to project a forward-thinking company eager to help employees be more productive, creative and happy by providing a connection to nature. But the most trend-setting and appealing feature of the new complex is most likely its location: plopped between glass and steel high-rises on a busy street in downtown seattle where",
@@ -508,7 +506,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -565,12 +563,11 @@
     },
     {
         "idx": 15021,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A publicist for jay thomas says the actor and radio host has died. Thomas was 69. In a statement thursday, publicist tom estey said his longtime friend and client will be dearly missed by many, the ap reports. Thomas ' longtime agent tells the new york daily news the comedian died of cancer. Thomas played eddie lebac, the former-hockey-player husband of barmaid carla on cheers. He played tabloid tv show host jerry gold on murphy brown, for which he won two emmys. He also starred in the sitcom love &amp; war as a sports writer romancing the woman who owned his favorite sports bar. His film roles include mr. Holland's opus and the second and third santa clause films. Thomas started out as a dj in college and in recent years hosted a talk show on siriusxm radio.",
         "split": "train",
         "cleansed_document": [
-            "Los angeles ( ap ) — a publicist for jay thomas says the actor and radio host has died. Thomas was 69. In a statement thursday, publicist tom estey said his longtime friend and client will be dearly missed by many. Estey didn't provide further details about thomas'death. Thomas played eddie lebac, the former-hockey-player husband of barmaid carla on \" cheers. \" he played tabloid tv show host jerry gold on \" murphy brown, \" for which he won two emmys. He also starred in the sitcom \" love &amp; war \" as a sports writer romancing the woman who owned his favorite sports bar. His films roles include \" mr. Holland's opus \" and second and third \" santa clause \" films. Thomas started out as a dj in college and in recent years hosted a talk show on siriusxm radio.",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Los angeles ( ap ) — a publicist for jay thomas says the actor and radio host has died. Thomas was 69. In a statement thursday, publicist tom estey said his longtime friend and client will be dearly missed by many. Estey didn't provide further details about thomas'death. Thomas played eddie lebac, the former-hockey-player husband of barmaid carla on \" cheers. \" he played tabloid tv show host jerry gold on \" murphy brown, \" for which he won two emmys. He also starred in the sitcom \" love &amp; war \" as a sports writer romancing the woman who owned his favorite sports bar. His films roles include \" mr. Holland's opus \" and second and third \" santa clause \" films. Thomas started out as a dj in college and in recent years hosted a talk show on siriusxm radio."
         ],
         "raw_document": [
             "Los angeles ( ap ) — a publicist for jay thomas says the actor and radio host has died. Thomas was 69. In a statement thursday, publicist tom estey said his longtime friend and client will be dearly missed by many. Estey didn't provide further details about thomas'death. Thomas played eddie lebac, the former-hockey-player husband of barmaid carla on \" cheers. \" he played tabloid tv show host jerry gold on \" murphy brown, \" for which he won two emmys. He also starred in the sitcom \" love &amp; war \" as a sports writer romancing the woman who owned his favorite sports bar. His films roles include \" mr. Holland's opus \" and second and third \" santa clause \" films. Thomas started out as a dj in college and in recent years hosted a talk show on siriusxm radio.",
@@ -585,7 +582,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -687,7 +684,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -712,7 +709,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -737,7 +734,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -762,7 +759,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -884,7 +881,7 @@
             "0": 2,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -914,13 +911,12 @@
     },
     {
         "idx": 15034,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The lorax may have a sound environmental message, but it's lost in a subpar movie that warps dr. Seuss ' original sentiment. One critic found the movie so vile he was inspired to write a seuss-esque poem of his own: \" there's no fun in the lorax, no joy in its theme / it's as boring as sales tax / i ' m ready to ream, \" writes kyle smith in the new york post. \" the lorax stands small as a hectoring runt / even al gore's ax was never so blunt. \" as for the songs: \" you ' ll forget them before this young march hits the ides / i have heard better tunes on clay aiken's b-sides. \" in a more conventional new york times review, ao scott notes that \" despite its soft environmentalist message, the lorax is an example of what it pretends to oppose... The movie is a noisy, useless piece of junk, reverse-engineered into something resembling popular art in accordance with the reigning imperatives of marketing and brand extension. \" \" although it keeps intact the ecological message of one of the original tree-hugger books, \" notes kenneth turan in the los angeles times, it \" adds a whole lot of other stuff, most of it not very good and not in keeping with the spirit of the seuss original. \" \" with its cotton-candy-colored palette of orange, pink, and purple truffula trees, it looks like a bowl of fuzzy froot loops. But it goes down like an order of oatmeal, \" writes michael o'sullivan in the washington post. \" sure, it's good for you. It's just not terribly good. \"",
         "split": "train",
         "cleansed_document": [
             "I am the critic, i speak to displease: \"the lorax \" is awful, like chronic disease. There's no fun in \"the lorax, \" no joy in its theme; it's as boring as sales tax. I ' m ready to ream. Its knickers are twisted so high and so tight it could lead the day's news on the daily kos site. The lorax stands small as a hectoring runt. Even al gore's ax was never so blunt as he ground it and frowned it right into the ground, staging his raging and waxing profound, like this muppety scold — this sierra club front. Photos: 'lorax'star taylor swift and other musicians in movies our story's in thneed-ville, a plasticky place where all things are phony and nature's displaced. No tree is still present, nor one blade of grass compared to las vegas, it's even more crass. O ' hare is the bad guy, industrialist scum but he's dull and unfunny, not grinchy — humdrum. Zac efron plays ted, a young sprout with a crush on taylor swift's audrey, the cause of his blush. For her he is questing to find one real tree in a land artificial —",
-            "Movies always have monkeyed around with their source material — a 1930 version of \" moby dick \" had ahab kill the whale and return home to his girlfriend — but it's hard to remember one that actually apologized before the fact for what it was about to do.the new 3-d animated \" dr. Seuss'the lorax \" begins with that fuzzy orange creature, amiably voiced by danny devito, stepping out in front of a theater curtain to announce \" there's more to this story than what's on the page. \" you have been warned. \" the lorax \": the review of \" dr. Seuss'the lorax \" in the march 2 calendar section said the film's main character, ted, lives in a town called sneedville. The town is thneedville.although it keeps intact the ecological message of one of the original tree-hugger books, first published in 1971, this movie version adds a whole lot of other stuff, most of it not very good and not in keeping with the spirit of the seuss original.this story of a world without trees and how a young boy might bring them back called out for the touch of japan's lyrical hayao miyazaki, very much an ardent environmentalist himself, but what it got instead was the team behind the ersatz",
-            "This black-and-white story of musicians in love is as gorgeous to look at as to listen to."
+            "Movies always have monkeyed around with their source material — a 1930 version of \" moby dick \" had ahab kill the whale and return home to his girlfriend — but it's hard to remember one that actually apologized before the fact for what it was about to do.the new 3-d animated \" dr. Seuss'the lorax \" begins with that fuzzy orange creature, amiably voiced by danny devito, stepping out in front of a theater curtain to announce \" there's more to this story than what's on the page. \" you have been warned. \" the lorax \": the review of \" dr. Seuss'the lorax \" in the march 2 calendar section said the film's main character, ted, lives in a town called sneedville. The town is thneedville.although it keeps intact the ecological message of one of the original tree-hugger books, first published in 1971, this movie version adds a whole lot of other stuff, most of it not very good and not in keeping with the spirit of the seuss original.this story of a world without trees and how a young boy might bring them back called out for the touch of japan's lyrical hayao miyazaki, very much an ardent environmentalist himself, but what it got instead was the team behind the ersatz"
         ],
         "raw_document": [
             "I am the critic, i speak to displease: \"the lorax \" is awful, like chronic disease. There's no fun in \"the lorax, \" no joy in its theme; it's as boring as sales tax. I ' m ready to ream. Its knickers are twisted so high and so tight it could lead the day's news on the daily kos site. The lorax stands small as a hectoring runt. Even al gore's ax was never so blunt as he ground it and frowned it right into the ground, staging his raging and waxing profound, like this muppety scold — this sierra club front. Photos: 'lorax'star taylor swift and other musicians in movies our story's in thneed-ville, a plasticky place where all things are phony and nature's displaced. No tree is still present, nor one blade of grass compared to las vegas, it's even more crass. O ' hare is the bad guy, industrialist scum but he's dull and unfunny, not grinchy — humdrum. Zac efron plays ted, a young sprout with a crush on taylor swift's audrey, the cause of his blush. For her he is questing to find one real tree in a land artificial —",
@@ -937,7 +933,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1053,13 +1049,12 @@
     },
     {
         "idx": 15039,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "For more than 30 years, purchasers of microsoft's windows package were assured their acquisition would come with paint, the computer graphics program that allows users to create and edit image files. But per cnbc, a list updated last week by the company deems paint \" deprecated \" — meaning it's at risk of being nixed from the windows 10 fall creators update, which zdnet notes is anticipated to be released in september. And those who've become accustomed to seeing it with each new release since november 1985 are already expressing pained reactions at the program's possible demise. \" please tell me [ it's ] fake news, \" one commenter tweeted, along with a weeping emoji, while others wistfully shared their previous paint efforts online. Cnbc details paint's evolution over the years, explaining that even though it wasn't the most sophisticated graphics program — users couldn't even save their creations as jpeg files until windows 98 — \" the simplicity was perhaps what made it so popular. \" technically, \" deprecated \" in microsoft-speak means a program will \" not be in active development and might be removed in future releases, \" so a for-sure death knell hasn't yet been sounded. Meanwhile, on the microsoft list for definite removal in the update are the outlook express email program and the 3d builder design app, among others. ( microsoft was recently hit with a bout of layoffs. )",
         "split": "train",
         "cleansed_document": [
             "Microsoft has published a new list of features that it will remove or deprecate in the windows 10 fall creators update, which is expected for general release in september. The most notable change is the deprecation of paint, the graphics app bundled with windows since windows 1.0. The classic paint app remained available with the recent windows 10 creators update alongside microsoft's new 3d paint, a universal windows platform app that was intended to replace paint. Paint will still ship with the windows 10 fall creators update; however, its deprecated status means the app is \" not in active development and might be removed in future releases \". A more definitive end is on the cards for the enhanced mitigation experience toolkit ( emet ) in the next version of windows 10. Emet has a long history with windows in the enterprise, offering admins tools to mitigate vulnerabilities in software that haven't been patched yet. Microsoft will drop support for emet for all versions of windows in july 2018, and has been urging customers to upgrade to windows 10, which features many of emet's exploit mitigations. But",
-            "Microsoft is considering removing the iconic paint application from an upcoming update of windows 10 after nearly 32 years in existence. In a list released by microsoft, paint has been labeled \" deprecated \", meaning it could be removed when the windows 10 fall creators update is released later this year. Paint was introduced with the first version of windows, called windows 1.0 in november 1985. It was originally a licensed version of pc paintbrush which was made by zsoft corporation. In the beginning, it supported 1-bit monochrome graphics, and it wasn't until windows 98 that users could save images in the well-known jpeg file format. Last year, microsoft unveiled paint 3d, a new version of the classic software. It is much more advanced, allowing users to create three-dimensional images. Other features going from the next windows 10 update include outlook express and the reader app, which microsoft said will be integrated into its edge browser. Paint holds a certain nostalgia with many windows users despite never really having huge functionality versus other apps such as adobe's photoshop. But the simplicity was perhaps what made",
-            "Travel back in time timeline lets you jump back in time to find what you were working on, whether it was 2 hours or 2 months ago. Easily hop back into your files, apps and sites as if you never left."
+            "Microsoft is considering removing the iconic paint application from an upcoming update of windows 10 after nearly 32 years in existence. In a list released by microsoft, paint has been labeled \" deprecated \", meaning it could be removed when the windows 10 fall creators update is released later this year. Paint was introduced with the first version of windows, called windows 1.0 in november 1985. It was originally a licensed version of pc paintbrush which was made by zsoft corporation. In the beginning, it supported 1-bit monochrome graphics, and it wasn't until windows 98 that users could save images in the well-known jpeg file format. Last year, microsoft unveiled paint 3d, a new version of the classic software. It is much more advanced, allowing users to create three-dimensional images. Other features going from the next windows 10 update include outlook express and the reader app, which microsoft said will be integrated into its edge browser. Paint holds a certain nostalgia with many windows users despite never really having huge functionality versus other apps such as adobe's photoshop. But the simplicity was perhaps what made"
         ],
         "raw_document": [
             "Microsoft has published a new list of features that it will remove or deprecate in the windows 10 fall creators update, which is expected for general release in september. The most notable change is the deprecation of paint, the graphics app bundled with windows since windows 1.0. The classic paint app remained available with the recent windows 10 creators update alongside microsoft's new 3d paint, a universal windows platform app that was intended to replace paint. Paint will still ship with the windows 10 fall creators update; however, its deprecated status means the app is \" not in active development and might be removed in future releases \". A more definitive end is on the cards for the enhanced mitigation experience toolkit ( emet ) in the next version of windows 10. Emet has a long history with windows in the enterprise, offering admins tools to mitigate vulnerabilities in software that haven't been patched yet. Microsoft will drop support for emet for all versions of windows in july 2018, and has been urging customers to upgrade to windows 10, which features many of emet's exploit mitigations. But",
@@ -1078,7 +1073,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1108,13 +1103,12 @@
     },
     {
         "idx": 15041,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "\" a stinker, \" \" a three-hour watching chore, \" and \" a complete dud \" were just some of the slams garnered by the emmys this year as the tv awards show was widely panned around the blogosphere. \" it was slow and dated and every opportunity for excitement landed with a great thud, \" complained brian moylan for gawker, with one of the most negative reviews of the night. He hated jane lynch's opening, the presenters ' jokes, and the other musical numbers. \" we ' ll be back again next year, hoping for more surprises and being disappointed. \" \" apparently constructed from loose scraps of somebody else's emmy shows, the year's ' biggest night in television ' fell flat in writing, performance and imagination, \" groused hank stuever for the washington post. Not everyone was so mean, however. Writing for the la times, mary mcnamara was more forgiving of this year's emmys, saying lynch and the surprise winners made for a \" pleasant if not scintillating \" show. \" if it doesn't work every time, well, at least they tried. \"",
         "split": "train",
         "cleansed_document": [
             "Wow, those emmys sure were a stinker, weren't they? not only did they fall into the same old emmys trap of giving the same awards to the same people, but the show itself was a complete dud. It was slow and dated and every opportunity for excitement landed with a great thud. Let's start with the opening musical number, where first-time host jane lynch wandered through the sets of a bunch of shows while doing the step-ball-change with a bunch of dancers dressed in the leftover tinsel from the world's biggest christmas tree. It was either too sincere or too gosh darn awful to be campy. At one point lynch says, \" i know this feels stupid and schlocky and already feels overly long. \" yes, it was all of those things. But just like on glee, when the show self-consciously recognizes one of its problems",
-            "Watch enough awards shows ( we all have ) and you can tell almost from the first minute when one of these things is not going to achieve much lift and will instead turn into a three-hour watching chore. Like sunday night's emmys on fox, hosted through no lasting fault of her own by \"glee \" star jane lynch. Apparently constructed from loose scraps of somebody else's emmy shows, the year's \"biggest night in television \" fell flat in writing, performance and imagination, except in the most fleeting moments. It's bizarre how much effort goes into something that can seem so phoned-in: predictable awards, tongue-tied acceptance speeches, wan comedy bits. Is everybody jazzed about the new fall season yet? \"mad men \" won its fourth emmy in a row for outstanding drama series. Against all that other great stuff — \"friday night lights, \"",
-            "The high point of sunday night's telecast of the 63rd primetime emmys, hosted by jane lynch, came fairly early in the evening. As rob lowe and sophia vergara announced the nominees for lead actress in a comedy series, the women, beginning with amy poehler, took the stage as if they had already won. It was a moment both hilarious and poignant — as they stood together, arms linked, the actresses silently made the point virtually every winner subsequently repeated: that every category was so jampacked with talent, it was an honor to be included. ( they also proved that one does, apparently, have to be precisely as tall as tina fey to be nominated. ) then, as if that weren't enough, underdog melissa mccarthy won for \" mike &amp; molly, \" and stood, with a tiara on her head and a huge bouquet"
+            "Watch enough awards shows ( we all have ) and you can tell almost from the first minute when one of these things is not going to achieve much lift and will instead turn into a three-hour watching chore. Like sunday night's emmys on fox, hosted through no lasting fault of her own by \"glee \" star jane lynch. Apparently constructed from loose scraps of somebody else's emmy shows, the year's \"biggest night in television \" fell flat in writing, performance and imagination, except in the most fleeting moments. It's bizarre how much effort goes into something that can seem so phoned-in: predictable awards, tongue-tied acceptance speeches, wan comedy bits. Is everybody jazzed about the new fall season yet? \"mad men \" won its fourth emmy in a row for outstanding drama series. Against all that other great stuff — \"friday night lights, \""
         ],
         "raw_document": [
             "Wow, those emmys sure were a stinker, weren't they? not only did they fall into the same old emmys trap of giving the same awards to the same people, but the show itself was a complete dud. It was slow and dated and every opportunity for excitement landed with a great thud. Let's start with the opening musical number, where first-time host jane lynch wandered through the sets of a bunch of shows while doing the step-ball-change with a bunch of dancers dressed in the leftover tinsel from the world's biggest christmas tree. It was either too sincere or too gosh darn awful to be campy. At one point lynch says, \" i know this feels stupid and schlocky and already feels overly long. \" yes, it was all of those things. But just like on glee, when the show self-consciously recognizes one of its problems",
@@ -1131,17 +1125,16 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 15042,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Soleil moon frye ( better known to some of you as punky brewster ) had her third child monday, and the baby boy's name is just as interesting as you'd expect. \" welcome to the world lyric sonny roads goldberg! \" frye wrote yesterday on her blog. Frye and husband jason goldberg also have two daughters, people reports: poet sienna rose, 8, and jagger joseph blue, 5.",
         "split": "train",
         "cleansed_document": [
-            "Sara de boer/startraks update: \"welcome to the world lyric sonny roads goldberg! can't wait to share our pics and moments in the upcoming months. Thanks for all the love and support, \" the new mom posted wednesday on her website. Originally posted feb. 10: and baby makes five! soleil moon frye, 37, welcomed her third child with husband jason goldberg on monday, feb. 10, her rep confirms to people exclusively. The couple's son — whose name has yet to be released — arrived at 4: 15 p.m., weighing 9 lbs., 7 oz. And measuring 21 inches long. \"the whole family is over the moon about the arrival of their baby boy, \" her rep tells people. \"his big sisters, mom and dad are by his side. \" already mom to daughters jagger joseph blue, 5½, and poet sienna rose, 8, the actress turned author — who announced her pregnancy in august — told people she was \"terrible \" at preparing for her third child. \"the first couple of times i was so prepared. Now i ' m like, 'nursery? what nursery? the baby can sleep in our room, right? ' i've got to get clothes … we've got a million names — i need to get on it, \" frye, who is the cofounder of moonfrye.com, said. After her october reveal that she was expecting a son, frye told people she was looking forward to adding a baby boy into the mix. \"i ' m excited to be able to raise him in a household of girls, and teach him to be a gentleman at an early age, \" she said. As for any more additions to the family, frye's leaving that decision to goldberg, 43, a film and television producer. \"that would be up to my hubby, \" she told people with a laugh in january. \"i would have a whole zoo at my house. We ' ll see how the third goes! \" our amazing baby boy was born yesterday. We are so excited gor the newest addition to our family. Thank you for the love! xo — soleil moon frye ( @moonfrye ) february 11, 2014 nothing like those first days of your new baby. I ' m soaking it all in and i am in love. — soleil moon frye ( @moonfrye ) february 12, 2014 and our baby name is.,,, http://t.co/sk8gi2iszy — soleil moon frye",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Sara de boer/startraks update: \"welcome to the world lyric sonny roads goldberg! can't wait to share our pics and moments in the upcoming months. Thanks for all the love and support, \" the new mom posted wednesday on her website. Originally posted feb. 10: and baby makes five! soleil moon frye, 37, welcomed her third child with husband jason goldberg on monday, feb. 10, her rep confirms to people exclusively. The couple's son — whose name has yet to be released — arrived at 4: 15 p.m., weighing 9 lbs., 7 oz. And measuring 21 inches long. \"the whole family is over the moon about the arrival of their baby boy, \" her rep tells people. \"his big sisters, mom and dad are by his side. \" already mom to daughters jagger joseph blue, 5½, and poet sienna rose, 8, the actress turned author — who announced her pregnancy in august — told people she was \"terrible \" at preparing for her third child. \"the first couple of times i was so prepared. Now i ' m like, 'nursery? what nursery? the baby can sleep in our room, right? ' i've got to get clothes … we've got a million names — i need to get on it, \" frye, who is the cofounder of moonfrye.com, said. After her october reveal that she was expecting a son, frye told people she was looking forward to adding a baby boy into the mix. \"i ' m excited to be able to raise him in a household of girls, and teach him to be a gentleman at an early age, \" she said. As for any more additions to the family, frye's leaving that decision to goldberg, 43, a film and television producer. \"that would be up to my hubby, \" she told people with a laugh in january. \"i would have a whole zoo at my house. We ' ll see how the third goes! \" our amazing baby boy was born yesterday. We are so excited gor the newest addition to our family. Thank you for the love! xo — soleil moon frye ( @moonfrye ) february 11, 2014 nothing like those first days of your new baby. I ' m soaking it all in and i am in love. — soleil moon frye ( @moonfrye ) february 12, 2014 and our baby name is.,,, http://t.co/sk8gi2iszy — soleil moon frye"
         ],
         "raw_document": [
             "Sara de boer/startraks update: \"welcome to the world lyric sonny roads goldberg! can't wait to share our pics and moments in the upcoming months. Thanks for all the love and support, \" the new mom posted wednesday on her website. Originally posted feb. 10: and baby makes five! soleil moon frye, 37, welcomed her third child with husband jason goldberg on monday, feb. 10, her rep confirms to people exclusively. The couple's son — whose name has yet to be released — arrived at 4: 15 p.m., weighing 9 lbs., 7 oz. And measuring 21 inches long. \"the whole family is over the moon about the arrival of their baby boy, \" her rep tells people. \"his big sisters, mom and dad are by his side. \" already mom to daughters jagger joseph blue, 5½, and poet sienna rose, 8, the actress turned author — who announced her pregnancy in august — told people she was \"terrible \" at preparing for her third child. \"the first couple of times i was so prepared. Now i ' m like, 'nursery? what nursery? the baby can sleep in our room, right? ' i've got to get clothes … we've got a million names — i need to get on it, \" frye, who is the cofounder of moonfrye.com, said. After her october reveal that she was expecting a son, frye told people she was looking forward to adding a baby boy into the mix. \"i ' m excited to be able to raise him in a household of girls, and teach him to be a gentleman at an early age, \" she said. As for any more additions to the family, frye's leaving that decision to goldberg, 43, a film and television producer. \"that would be up to my hubby, \" she told people with a laugh in january. \"i would have a whole zoo at my house. We ' ll see how the third goes! \" our amazing baby boy was born yesterday. We are so excited gor the newest addition to our family. Thank you for the love! xo — soleil moon frye ( @moonfrye ) february 11, 2014 nothing like those first days of your new baby. I ' m soaking it all in and i am in love. — soleil moon frye ( @moonfrye ) february 12, 2014 and our baby name is.,,, http://t.co/sk8gi2iszy — soleil moon frye",
@@ -1156,7 +1149,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1321,7 +1314,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1346,7 +1339,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1383,7 +1376,7 @@
             "2": 2,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -1462,18 +1455,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 15054,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Not only are many of groupon's top investors leaving the company due to the share price dropping by three-quarters since its ipo last year, many of the company's senior executives are jumping ship, too, reports reuters. The latest to leave is lee brown, the head of groupon's national sales. Janya cooke, one of the company's top sellers, has also left, reports business insider. Sales, easy when the company was a hot new thing, have been hit hard since groupon started to lose its luster. All is not well at zynga, either...",
         "split": "train",
         "cleansed_document": [
             "( reuters ) - groupon inc's lee brown, who oversees the daily deal company's national sales, has decided to leave, following other senior executives who left the company this year, according to an internal memo obtained by reuters on thursday. Brown, who was senior vice president of national sales and joined in 2010 from yahoo inc, will be replaced by raj ruparell, the memo from groupon's operations chief kal raman said. A groupon spokesman confirmed the changes and the accuracy of the memo. Groupon has lost about three quarters of its market value since the company's ipo last year on concern that the growth of its main daily deal business is slowing. There have also been reports of staff departures in recent weeks. The wall street journal reported this week that jayna cooke, another top salesperson at groupon, had left the company. Brown",
-            "A top-earning groupon salesperson, jayna cooke, has left the company, the wall street journal reports. At one point, cooke handled big deals for national brands like gap and nordstrom, which showed that groupon could break out of its niche of brazilian waxes and sky-diving discounts. More recently, cooke worked as a local sales rep in the chicago market, a source close to groupon told us. We've heard a lot of reports about unrest within groupon's salesforce — which admittedly had it easy during groupon's early days, when the daily-deals business model seemed to be minting money. Commissions are harder to earn these days. Cooke previously worked for a company, echo global logistics, which was started by groupon cofounders eric lefkofsky and brad keywell. She's headed to eventup, a startup backed by lefkofsky and keywell's lightbank.",
-            "Zynga's cityville loses mayor to kixeye with zynga's stock price sinking — and morale along with it — employees have started to head for the door. The latest exit, following its coo john schappert, is alan patmore, zynga's general manager of cityville, who has joined kixeye as their vp of product. Compared to its social gaming counterparts, kixeye flies under the radar because, unlike other games found on facebook, its games are fairly hardcore. In fact, 97 percent of its players are male. As i wrote in may: kixeye is currently registering about one million users a day, and while most social game companies make roughly four cents per user, kixeye claims it makes closer to 60 cents. The san francisco company has been profitable for the past two years, and this year it is projecting revenue in excess of $ 100 million"
+            "A top-earning groupon salesperson, jayna cooke, has left the company, the wall street journal reports. At one point, cooke handled big deals for national brands like gap and nordstrom, which showed that groupon could break out of its niche of brazilian waxes and sky-diving discounts. More recently, cooke worked as a local sales rep in the chicago market, a source close to groupon told us. We've heard a lot of reports about unrest within groupon's salesforce — which admittedly had it easy during groupon's early days, when the daily-deals business model seemed to be minting money. Commissions are harder to earn these days. Cooke previously worked for a company, echo global logistics, which was started by groupon cofounders eric lefkofsky and brad keywell. She's headed to eventup, a startup backed by lefkofsky and keywell's lightbank."
         ],
         "raw_document": [
             "( reuters ) - groupon inc's lee brown, who oversees the daily deal company's national sales, has decided to leave, following other senior executives who left the company this year, according to an internal memo obtained by reuters on thursday. Brown, who was senior vice president of national sales and joined in 2010 from yahoo inc, will be replaced by raj ruparell, the memo from groupon's operations chief kal raman said. A groupon spokesman confirmed the changes and the accuracy of the memo. Groupon has lost about three quarters of its market value since the company's ipo last year on concern that the growth of its main daily deal business is slowing. There have also been reports of staff departures in recent weeks. The wall street journal reported this week that jayna cooke, another top salesperson at groupon, had left the company. Brown",
@@ -1490,7 +1482,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1520,17 +1512,16 @@
             "0": 0,
             "1": 5,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 15056,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Olympics fans are mad and they're not going to put up with nbc's iron control any longer. The answer? the internet, of course. Techies are linking to european servers to get their sports from across the pond, reports reuters. Take californian jason legate, who has been watching the olympics live on the bbc via a london-based server. Nbc paid $ 1.18 billion for the us rights to broadcast the olympics on tv and stream the games online. But television coverage is delayed six hours, and nbc has made it impossible for those without a cable or satellite subscription to get live streaming of the olympics. Even those with access complain that nbc streaming is spotty, and that the network bombards watchers with ads. ( for all the rants see #nbcfail. ) in order to get access to foreign servers, however, techies need to know enough to fool the servers into treating their computers as if they're located overseas. Vpn services such as tunnelbear and streamvia send a user's internet connection to different countries to gain access to foreign servers. \" because all of my internet traffic looks like it's coming from a box in england, the bbc thinks i ' m located in england, \" legate said of the workaround he uses. But leaping nbc isn't so easy for the tech-challenged. \" you've got to geek out \" — and you still have to pay some fees to the vpn services, warns a city university of new york journalism professor.",
         "split": "train",
         "cleansed_document": [
-            "New york it took jason legate, a walnut creek, california-resident, all of 10 minutes to connect his computer to a london-based server and access bbc's coverage of the olympics saturday, thereby circumventing nbc's lock on coverage in the united states. The 31-year-old system administrator said he has watched at least 12 hours of live bbc coverage ( his favorite sport so far - judo ) since he set up a virtual private network ( vpn ) connection to send all his internet traffic to a server in london. Legate is one of many viewers who, turned off by nbc's ironclad control of access to olympics coverage in the united states and spotty online streaming, has resorted to a workaround -- sometimes legal, sometimes not -- to watch the games when and how they want on feeds from countries such as the uk and canada. Nbc, which spent $ 1.18 billion for the rights to broadcast the olympics on the internet and on television in the united states, has made it impossible for people without a pricey cable or satellite subscription to watch the olympics live in the united states. Viewers can receive a complimentary four hours of live content with a temporary pass. Only those customers who are first \" authenticated \" as paying cable or satellite subscribers have access to live streaming of every olympic event, a move that has led to a explosion of anger at the network on twitter under the unofficial \" #nbcfail \" hashtag. Other complaints included nbc streaming that didn't work and the network bombarded viewers had too much advertising. For its regular network coverage, nbc, which is owned by cable giant comcast corp, has tape-delayed some of the most popular sports for the u.s. Prime-time audience, meaning they air nearly five to six hours after they have happened. This helps nbc maximize its return-on-investment by saving the top events for the largest audience and thereby the biggest advertising pay-off. But it has also led to event spoilers and criticism that the network was putting the interests of its business over those of its viewers. The tape delay and some glitches in the coverage fueled wider criticism of nbc. But nbc spokesman chris mccloskey, who declined to comment on the matter, pointed to the 7 million live streams, which was a record on the first day of competition. The company is making every event available live online -- except the opening and closing ceremonies. Enter a small but vocal group of tech savvy",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "New york it took jason legate, a walnut creek, california-resident, all of 10 minutes to connect his computer to a london-based server and access bbc's coverage of the olympics saturday, thereby circumventing nbc's lock on coverage in the united states. The 31-year-old system administrator said he has watched at least 12 hours of live bbc coverage ( his favorite sport so far - judo ) since he set up a virtual private network ( vpn ) connection to send all his internet traffic to a server in london. Legate is one of many viewers who, turned off by nbc's ironclad control of access to olympics coverage in the united states and spotty online streaming, has resorted to a workaround -- sometimes legal, sometimes not -- to watch the games when and how they want on feeds from countries such as the uk and canada. Nbc, which spent $ 1.18 billion for the rights to broadcast the olympics on the internet and on television in the united states, has made it impossible for people without a pricey cable or satellite subscription to watch the olympics live in the united states. Viewers can receive a complimentary four hours of live content with a temporary pass. Only those customers who are first \" authenticated \" as paying cable or satellite subscribers have access to live streaming of every olympic event, a move that has led to a explosion of anger at the network on twitter under the unofficial \" #nbcfail \" hashtag. Other complaints included nbc streaming that didn't work and the network bombarded viewers had too much advertising. For its regular network coverage, nbc, which is owned by cable giant comcast corp, has tape-delayed some of the most popular sports for the u.s. Prime-time audience, meaning they air nearly five to six hours after they have happened. This helps nbc maximize its return-on-investment by saving the top events for the largest audience and thereby the biggest advertising pay-off. But it has also led to event spoilers and criticism that the network was putting the interests of its business over those of its viewers. The tape delay and some glitches in the coverage fueled wider criticism of nbc. But nbc spokesman chris mccloskey, who declined to comment on the matter, pointed to the 7 million live streams, which was a record on the first day of competition. The company is making every event available live online -- except the opening and closing ceremonies. Enter a small but vocal group of tech savvy"
         ],
         "raw_document": [
             "New york it took jason legate, a walnut creek, california-resident, all of 10 minutes to connect his computer to a london-based server and access bbc's coverage of the olympics saturday, thereby circumventing nbc's lock on coverage in the united states. The 31-year-old system administrator said he has watched at least 12 hours of live bbc coverage ( his favorite sport so far - judo ) since he set up a virtual private network ( vpn ) connection to send all his internet traffic to a server in london. Legate is one of many viewers who, turned off by nbc's ironclad control of access to olympics coverage in the united states and spotty online streaming, has resorted to a workaround -- sometimes legal, sometimes not -- to watch the games when and how they want on feeds from countries such as the uk and canada. Nbc, which spent $ 1.18 billion for the rights to broadcast the olympics on the internet and on television in the united states, has made it impossible for people without a pricey cable or satellite subscription to watch the olympics live in the united states. Viewers can receive a complimentary four hours of live content with a temporary pass. Only those customers who are first \" authenticated \" as paying cable or satellite subscribers have access to live streaming of every olympic event, a move that has led to a explosion of anger at the network on twitter under the unofficial \" #nbcfail \" hashtag. Other complaints included nbc streaming that didn't work and the network bombarded viewers had too much advertising. For its regular network coverage, nbc, which is owned by cable giant comcast corp, has tape-delayed some of the most popular sports for the u.s. Prime-time audience, meaning they air nearly five to six hours after they have happened. This helps nbc maximize its return-on-investment by saving the top events for the largest audience and thereby the biggest advertising pay-off. But it has also led to event spoilers and criticism that the network was putting the interests of its business over those of its viewers. The tape delay and some glitches in the coverage fueled wider criticism of nbc. But nbc spokesman chris mccloskey, who declined to comment on the matter, pointed to the 7 million live streams, which was a record on the first day of competition. The company is making every event available live online -- except the opening and closing ceremonies. Enter a small but vocal group of tech savvy",
@@ -1545,7 +1536,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1692,7 +1683,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1724,12 +1715,11 @@
     },
     {
         "idx": 15063,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Suge knight's latest run-in with the law could be his last: the rap mogul could get up to life in prison for allegedly stealing a camera from a paparazzo outside a beverly hills studio last month. Police say the death row records co-founder and comedian katt williams allegedly chased the photographer down an alley and williams \" forcibly \" took her camera, reports the los angeles times. She suffered minor injuries. Both men have been charged with robbery, which could get knight 30 years to life because of an earlier conviction for assault with a deadly weapon. A police spokesman says the men were arrested as part of an \" ongoing, rapidly evolving investigation, \" and they're still trying to trace a man and woman who were with knight and williams at the time. Knight was arrested in las vegas yesterday and booked for being a fugitive and driving with a suspended license, nbc reports; williams, who faces up to seven years in prison if found guilty, was arrested when he arrived at a california court for a separate assault case. ( knight isn't having a great year: he was shot multiple times at a pre-vmas party hosted by chris brown in august. )",
         "split": "train",
         "cleansed_document": [
-            "Rap mogul marion \" suge \" knight and comedian micah \" katt \" williams were arrested wednesday for stealing a paparazzo's camera outside a beverly hills studio last month, authorities said. Knight and williams are charged with one count each of robbery. The two men are suspected of stealing the camera of independent celebrity photographer leslie redden on sept. 5 outside a studio in beverly hills. Police say knight \" orchestrated \" the robbery in an alley off north canon drive. \" it was a strong arm robbery where a camera was forcefully removed from the photographer by katt williams. The victim in the matter did sustain injury in this case, \" beverly hills police lt. Lincoln hoshino said. Williams was arrested wednesday morning after he arrived at an inglewood court for arraignment in a separate assault case. Knight, who was staying at a property off the las vegas strip, was taken into custody on wednesday by a task force of local police and the fbi, according to a statement from the las vegas metropolitan police department. Las vegas authorities made the arrest after they were advised by beverly hills police that a felony warrant for robbery had been issued for knight. He was booked at the clark county detention center on warrants for being fugitive and driving on a suspended license, las vegas police said. \" mr. Knight was unaware that there was any warrant, \" said richard schonfeld, knight's attorney. \" we will be addressing the circumstances in court. \" if convicted, knight, who has a prior conviction for assault with a deadly weapon, faces up to 30 years to life in state prison. Williams faces up to seven years in custody. \" mr. Knight is kind of a magnet for trouble over time. Assault with a deadly weapon in his past, he's a fugitive from justice, driving on a suspended license, \" nbc4 legal analyst royal oakes said. \" as a result, if convicted of stealing a camera, he could go to prison for 30 years. \" oakes believes knight and williams'defense teams may also have a case. \"i would say this is a horrible misunderstanding. These paparazzo folks can be abusive and you can't blame him for lashing out and trying to take the camera, \" oakes said. Knight, the former head of death row records, was most recently made the news in august when he was",
-            "It was not the first time the death row records founder was injured in a shooting. In 2005, he was shot during another pre-awards party in miami. And in 1996, he was struck by bullet fragments during the las vegas shooting that killed tupac shakur."
+            "Rap mogul marion \" suge \" knight and comedian micah \" katt \" williams were arrested wednesday for stealing a paparazzo's camera outside a beverly hills studio last month, authorities said. Knight and williams are charged with one count each of robbery. The two men are suspected of stealing the camera of independent celebrity photographer leslie redden on sept. 5 outside a studio in beverly hills. Police say knight \" orchestrated \" the robbery in an alley off north canon drive. \" it was a strong arm robbery where a camera was forcefully removed from the photographer by katt williams. The victim in the matter did sustain injury in this case, \" beverly hills police lt. Lincoln hoshino said. Williams was arrested wednesday morning after he arrived at an inglewood court for arraignment in a separate assault case. Knight, who was staying at a property off the las vegas strip, was taken into custody on wednesday by a task force of local police and the fbi, according to a statement from the las vegas metropolitan police department. Las vegas authorities made the arrest after they were advised by beverly hills police that a felony warrant for robbery had been issued for knight. He was booked at the clark county detention center on warrants for being fugitive and driving on a suspended license, las vegas police said. \" mr. Knight was unaware that there was any warrant, \" said richard schonfeld, knight's attorney. \" we will be addressing the circumstances in court. \" if convicted, knight, who has a prior conviction for assault with a deadly weapon, faces up to 30 years to life in state prison. Williams faces up to seven years in custody. \" mr. Knight is kind of a magnet for trouble over time. Assault with a deadly weapon in his past, he's a fugitive from justice, driving on a suspended license, \" nbc4 legal analyst royal oakes said. \" as a result, if convicted of stealing a camera, he could go to prison for 30 years. \" oakes believes knight and williams'defense teams may also have a case. \"i would say this is a horrible misunderstanding. These paparazzo folks can be abusive and you can't blame him for lashing out and trying to take the camera, \" oakes said. Knight, the former head of death row records, was most recently made the news in august when he was"
         ],
         "raw_document": [
             "Rap mogul marion \" suge \" knight and comedian micah \" katt \" williams were arrested wednesday for stealing a paparazzo's camera outside a beverly hills studio last month, authorities said. Knight and williams are charged with one count each of robbery. The two men are suspected of stealing the camera of independent celebrity photographer leslie redden on sept. 5 outside a studio in beverly hills. Police say knight \" orchestrated \" the robbery in an alley off north canon drive. \" it was a strong arm robbery where a camera was forcefully removed from the photographer by katt williams. The victim in the matter did sustain injury in this case, \" beverly hills police lt. Lincoln hoshino said. Williams was arrested wednesday morning after he arrived at an inglewood court for arraignment in a separate assault case. Knight, who was staying at a property off the las vegas strip, was taken into custody on wednesday by a task force of local police and the fbi, according to a statement from the las vegas metropolitan police department. Las vegas authorities made the arrest after they were advised by beverly hills police that a felony warrant for robbery had been issued for knight. He was booked at the clark county detention center on warrants for being fugitive and driving on a suspended license, las vegas police said. \" mr. Knight was unaware that there was any warrant, \" said richard schonfeld, knight's attorney. \" we will be addressing the circumstances in court. \" if convicted, knight, who has a prior conviction for assault with a deadly weapon, faces up to 30 years to life in state prison. Williams faces up to seven years in custody. \" mr. Knight is kind of a magnet for trouble over time. Assault with a deadly weapon in his past, he's a fugitive from justice, driving on a suspended license, \" nbc4 legal analyst royal oakes said. \" as a result, if convicted of stealing a camera, he could go to prison for 30 years. \" oakes believes knight and williams'defense teams may also have a case. \"i would say this is a horrible misunderstanding. These paparazzo folks can be abusive and you can't blame him for lashing out and trying to take the camera, \" oakes said. Knight, the former head of death row records, was most recently made the news in august when he was",
@@ -1744,7 +1734,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1797,7 +1787,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1827,12 +1817,11 @@
     },
     {
         "idx": 15067,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "For many west coasters, in-n-out is the burger chain — hard to find in big cities but revered for its low prices and fresh ingredients. Now meet lynsi snyder, a 36-year-old who has battled drug and alcohol use, sports bible-verse tattoos, and is married to a race-car driver. The kicker: she is in-n-out's president, just listed by forbes as the youngest woman among america's richest 400 billionaires ( her net worth: $ 3 billion ). Sporting black combat boots and piles of silver bracelets on each arm, she's also a traditionalist: \" it's not [ about ] adding new products. Or thinking of the next bacon-wrapped this or that. We're making the same burger, the same fry, \" she says. \" we're really picky and strategic. We're not going to compromise. \" all this fits in-n-out's history, a curious mix of tradition and dangerous living. Opened in 1948 in baldwin park, calif., by snyder's grandparents, the chain was led by her uncle for 17 years until he died in a 1993 plane crash. Snyder's father guy then became chair despite his drag racing and opioid habits; he survived three overdoses but died of heart failure at age 48. Snyder, meanwhile, went through two early marriages and substance abuse: \" it was like a black-sheep era of my life, \" she says. \" by the time i hit 22, it was pretty much over \" — but all that \" forced me to be stronger. \" taking the reins in 2010, she saw the company's value grow to nearly $ 1 billion as it expanded into texas and oregon. But snyder still sticks to the basics: no frozen meat, no microwaves, no heat lamps, no franchising, and no ipo. \" it's not about the money for us, \" she says, per people. \" unless god sends a lightning bolt down and changes my heart miraculously, i would not ever sell. \"",
         "split": "train",
         "cleansed_document": [
-            "H amburger lane is a quarter-mile, palm-lined stretch of baldwin park, california, 30 minutes east of los angeles. Halfway down the block, a low-slung building covered in gray siding sits behind a security fence. Knowing what's inside the little structure helps explain the street's unusual name. It's the top-secret corporate test kitchen for in-n-out burger, the iconic west coast chain. Lynsi snyder, the company's billionaire president, hovers over a set of double fryers and stove-top griddles. \"to be honest, i don't come here a whole lot, \" she says. Given the clean counters and neatly tucked-away cooking utensils, it doesn't look like anyone comes here often. Which is probably not far off the mark. While mcdonald's and burger king serve well over 80 different items, in-n-out famously serves fewer than 15: burgers, cheeseburgers, fries, soda, milk shakes and the signature two-patty double-double. Snyder has added just one thing: hot chocolate in 2018. The company will make tweaks from time to time, like switching to a premium kona coffee and healthier sunflower oil for cooking fries. The october 31, 2018 issue of forbes featuring in-n-out's lynsi snyder. But snyder, who at 36 debuts on this year's forbes 400 as its youngest woman",
-            "Lynsi snyder is opening up about the highs and lows of her life. In a new interview with forbes, the extremely private owner and president of in-n-out, touches on losing her father to drug abuse, her own battle with addiction and her complicated love life. While her father, guy, headed up the west coast burger chain for six years in the 1990s, he was arrested for public intoxication, suffered from a drug-related heart attack and three drug overdoses, according to forbes. He was in an out of rehab since snyder was 5 or 6 years old, but died of heart failure with hydrocodone in his system in 1999. \"when he was sober, he was the best dad in the world, \" she says. \"we had our time cut short. \" soon after his death, synder tells the magazine for their forbes 400 cover story that she entered into \"year-long stretch of alcohol and marijuana use. \" at the time she married her high school sweetheart, jeremiah seawell, but the pair divorced after two years and she quickly entered into a doomed marriage with her second husband richard martinez. \"it was like a black-sheep era of my life, \" she says. \"by the time i hit 22, it was pretty much over. \" related: ina garten reveals the only fast food she ' ll eat: 'it was"
+            "H amburger lane is a quarter-mile, palm-lined stretch of baldwin park, california, 30 minutes east of los angeles. Halfway down the block, a low-slung building covered in gray siding sits behind a security fence. Knowing what's inside the little structure helps explain the street's unusual name. It's the top-secret corporate test kitchen for in-n-out burger, the iconic west coast chain. Lynsi snyder, the company's billionaire president, hovers over a set of double fryers and stove-top griddles. \"to be honest, i don't come here a whole lot, \" she says. Given the clean counters and neatly tucked-away cooking utensils, it doesn't look like anyone comes here often. Which is probably not far off the mark. While mcdonald's and burger king serve well over 80 different items, in-n-out famously serves fewer than 15: burgers, cheeseburgers, fries, soda, milk shakes and the signature two-patty double-double. Snyder has added just one thing: hot chocolate in 2018. The company will make tweaks from time to time, like switching to a premium kona coffee and healthier sunflower oil for cooking fries. The october 31, 2018 issue of forbes featuring in-n-out's lynsi snyder. But snyder, who at 36 debuts on this year's forbes 400 as its youngest woman"
         ],
         "raw_document": [
             "H amburger lane is a quarter-mile, palm-lined stretch of baldwin park, california, 30 minutes east of los angeles. Halfway down the block, a low-slung building covered in gray siding sits behind a security fence. Knowing what's inside the little structure helps explain the street's unusual name. It's the top-secret corporate test kitchen for in-n-out burger, the iconic west coast chain. Lynsi snyder, the company's billionaire president, hovers over a set of double fryers and stove-top griddles. \"to be honest, i don't come here a whole lot, \" she says. Given the clean counters and neatly tucked-away cooking utensils, it doesn't look like anyone comes here often. Which is probably not far off the mark. While mcdonald's and burger king serve well over 80 different items, in-n-out famously serves fewer than 15: burgers, cheeseburgers, fries, soda, milk shakes and the signature two-patty double-double. Snyder has added just one thing: hot chocolate in 2018. The company will make tweaks from time to time, like switching to a premium kona coffee and healthier sunflower oil for cooking fries. The october 31, 2018 issue of forbes featuring in-n-out's lynsi snyder. But snyder, who at 36 debuts on this year's forbes 400 as its youngest woman",
@@ -1847,7 +1836,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1877,12 +1866,11 @@
     },
     {
         "idx": 15069,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The new york city subway rider who helped disarm a knifeman accused of murdering four people and wounding several others says watching mixed martial arts fights on tv for 20 years likely saved his life. As slasher maksim gelman lunged at joseph lozito with a huge knife, lozito used his leg to sweep his attacker off his feet. \" i guess you watch it for 20 years, you just pick up some things through osmosis, \" lozito, who suffered stab wounds to his head and hand, tells abc news. \" with the end result being as it is — that i ' m alive — i ' m glad he came at me because generally on a subway or in a room i ' m one of the bigger people and in relatively good shape and i can probably handle myself a little better, \" lozito says. An angry crowd shouted \" rot in hell! \" as gelman, a 23-year-old graffiti artist, was brought to court yesterday, the new york post reports.",
         "split": "train",
         "cleansed_document": [
-            "Joseph lozito, the man being dubbed a hero for helping disarm and capture a new york man accused of going on a 28 hour stabbing spree, says that watching mixed martial arts fights for 20 years may have saved his life. Lozito used his leg to sweep maksim gelman off his feet when the accused killer lunged at him on a subway car with what lozito described as a \" giant knife. \" lozito, his face bruised and his skulled slashed from his fight with gelman, told \" good morning america \" today that he was alert to gelman as soon as the suspect boarded the train at penn station. \" i didn't know what he had done, but he was definitely someone i was hoping everyone was keeping an eye on, \" lozito said. \" i kept an eye on him and it looked like everyone else was watching him, too. \" what gelman had done, according to police, was kill four people and leave four others badly injured. Joseph lozito, the man being dubbed a hero for helping disarm and capture a new york man accused of going on a 28 hour stabbing spree that left four people dead in new york, said that the accused murderer looked \" shady. \" \" i didn't know what he had done, but he was definitely someone i",
-            "Brooklyn butcher maksim gelman fled to a freaky, litter-filled shrine — which he spray-painted with blood-red hearts and the name \"yelena, \" his fatal obsession — while on the run, sources told the post. Nypd cops using tracking dogs made the chilling discovery while following the accused killer's scent to beneath an lirr freight-train overpass along ocean avenue on the western edge of the brooklyn college campus. There — on the outside wall of a ramshackle structure where gelman had once been arrested for spray-painting graffiti — was a red heart with tragic victim yelena bulchenko's first name sprayed on it. Read the complaint against gelman ( pdf ) train hero's gory ordeal inside the cinder-block shack, known as a hangout for druggies and graffiti vandals, cops found hypodermic needles, beer cans and empty cans of spray paint littering the floor. Police used a ladder to search crevices in the ceiling in their bid to find gelman, who was on the lam after allegedly killing the 20-year-old bulchenko, her mother, his stepdad and a pedestrian. But he was nowhere to be found. Cops believe that gelman, who tagged under the aliases \"max \" and \"wes, \" first made his way to the site because it was an area he knew well. The pontiac bonneville that he had allegedly carjacked from east 24th street was found just"
+            "Joseph lozito, the man being dubbed a hero for helping disarm and capture a new york man accused of going on a 28 hour stabbing spree, says that watching mixed martial arts fights for 20 years may have saved his life. Lozito used his leg to sweep maksim gelman off his feet when the accused killer lunged at him on a subway car with what lozito described as a \" giant knife. \" lozito, his face bruised and his skulled slashed from his fight with gelman, told \" good morning america \" today that he was alert to gelman as soon as the suspect boarded the train at penn station. \" i didn't know what he had done, but he was definitely someone i was hoping everyone was keeping an eye on, \" lozito said. \" i kept an eye on him and it looked like everyone else was watching him, too. \" what gelman had done, according to police, was kill four people and leave four others badly injured. Joseph lozito, the man being dubbed a hero for helping disarm and capture a new york man accused of going on a 28 hour stabbing spree that left four people dead in new york, said that the accused murderer looked \" shady. \" \" i didn't know what he had done, but he was definitely someone i"
         ],
         "raw_document": [
             "Joseph lozito, the man being dubbed a hero for helping disarm and capture a new york man accused of going on a 28 hour stabbing spree, says that watching mixed martial arts fights for 20 years may have saved his life. Lozito used his leg to sweep maksim gelman off his feet when the accused killer lunged at him on a subway car with what lozito described as a \" giant knife. \" lozito, his face bruised and his skulled slashed from his fight with gelman, told \" good morning america \" today that he was alert to gelman as soon as the suspect boarded the train at penn station. \" i didn't know what he had done, but he was definitely someone i was hoping everyone was keeping an eye on, \" lozito said. \" i kept an eye on him and it looked like everyone else was watching him, too. \" what gelman had done, according to police, was kill four people and leave four others badly injured. Joseph lozito, the man being dubbed a hero for helping disarm and capture a new york man accused of going on a 28 hour stabbing spree that left four people dead in new york, said that the accused murderer looked \" shady. \" \" i didn't know what he had done, but he was definitely someone i",
@@ -1897,17 +1885,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 15070,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Afghanistan's president wants his country's security forces to stop asking foreign troops to launch airstrikes in residential areas — and that could leave hamid karzai's forces floundering, the los angeles times reports. The commander of us-led forces there maintains that \" there are other ways we can support the afghan forces besides aviation, \" perhaps via ground artillery systems. But the times notes that the afghan security units have no air power of their own with which to fight the taliban; further, it asserts that the majority of those units are not \" capable of operating without coalition support. \" and some analysts are concerned that agreeing to the plan could be dangerous, particularly with the warmer months coming. \" it could provide ground for the insurgency to increase their areas of operations, \" says a kabul-based military analyst. Meanwhile, nato forces today announced that they last week killed a former afghan soldier who'd turned insurgent and killed an american soldier during a may 11 insider attack, the ap reports. A raid in kunar province killed the man, known as mahmood, and an accomplice.",
         "split": "train",
         "cleansed_document": [
-            "Afghan president hamid karzai, speaking in kabul on saturday, said he plans to issue a decree banning afghan security forces from asking international troops to carry out airstrikes in residential areas. ( ahmad jamshid / associated press / ) kabul, afghanistan — the commander of the u.s.-led coalition in afghanistan said sunday that his forces were prepared to comply with president hamid karzai's demand that afghan forces stop requesting international airstrikes in residential areas. Marine gen. Joseph f. Dunford jr. Downplayed the effects of karzai's directive, even though afghanistan's fledgling security forces rely entirely on u.s. And nato warplanes for air power against taliban-led insurgents. \" we can continue to support the afghan national security forces and meet the president's intent, \" dunford said. A day earlier, in a speech at the national military academy of afghanistan, karzai railed against a joint afghan-nato attack last week that local officials said killed 10 civilians, including women and children, in addition to four taliban commanders in eastern kunar province. The afghan leader said he would issue a decree that \" no afghan military and security forces in any circumstances can ask for the foreigners ' planes for carrying out operations in afghanistan's homes and villages. \" the remarks represented the latest broadside by karzai against the coalition that has trained, equipped and financed the force of",
-            "An afghan soldier-turned-insurgent who was feted by the taliban for killing an american soldier during an insider attack in eastern afghanistan last year has been killed in a raid, the u.s.-led international coalition said on monday. Former taliban militants who have turned in their weapons stand during a ceremony with the afghan government in herat, afghanistan, sunday, feb. 17, 2013. About 35 former taliban militants from herat... ( associated press ) nato identified the insurgent as mahmood and said that he and an accomplice, identified only as rashid, died in last wednesday's operation in eastern kunar province's ghaziabad district. No other details were provided. Mahmood is thought responsible for the may 11 killing of u.s. Army 1st lt. Alejo thompson, who died during an insider attack on a base in kunar. The attack also wounded two american soldiers. Mahmood, in his early 20's and who went only by one name later fled. Thompson, 30, a father of two, was from yuma, arizona. He was based at ford carson, colorado. \" afghan and coalition forces confirmed today the death of the two taliban insider attack facilitators, mahmood and rashid, during a security operation in ghaziabad district, kunar province, wednesday, \" the coalition said in a statement. \" mahmood was responsible for the death of one american"
+            "Afghan president hamid karzai, speaking in kabul on saturday, said he plans to issue a decree banning afghan security forces from asking international troops to carry out airstrikes in residential areas. ( ahmad jamshid / associated press / ) kabul, afghanistan — the commander of the u.s.-led coalition in afghanistan said sunday that his forces were prepared to comply with president hamid karzai's demand that afghan forces stop requesting international airstrikes in residential areas. Marine gen. Joseph f. Dunford jr. Downplayed the effects of karzai's directive, even though afghanistan's fledgling security forces rely entirely on u.s. And nato warplanes for air power against taliban-led insurgents. \" we can continue to support the afghan national security forces and meet the president's intent, \" dunford said. A day earlier, in a speech at the national military academy of afghanistan, karzai railed against a joint afghan-nato attack last week that local officials said killed 10 civilians, including women and children, in addition to four taliban commanders in eastern kunar province. The afghan leader said he would issue a decree that \" no afghan military and security forces in any circumstances can ask for the foreigners ' planes for carrying out operations in afghanistan's homes and villages. \" the remarks represented the latest broadside by karzai against the coalition that has trained, equipped and financed the force of"
         ],
         "raw_document": [
             "Afghan president hamid karzai, speaking in kabul on saturday, said he plans to issue a decree banning afghan security forces from asking international troops to carry out airstrikes in residential areas. ( ahmad jamshid / associated press / ) kabul, afghanistan — the commander of the u.s.-led coalition in afghanistan said sunday that his forces were prepared to comply with president hamid karzai's demand that afghan forces stop requesting international airstrikes in residential areas. Marine gen. Joseph f. Dunford jr. Downplayed the effects of karzai's directive, even though afghanistan's fledgling security forces rely entirely on u.s. And nato warplanes for air power against taliban-led insurgents. \" we can continue to support the afghan national security forces and meet the president's intent, \" dunford said. A day earlier, in a speech at the national military academy of afghanistan, karzai railed against a joint afghan-nato attack last week that local officials said killed 10 civilians, including women and children, in addition to four taliban commanders in eastern kunar province. The afghan leader said he would issue a decree that \" no afghan military and security forces in any circumstances can ask for the foreigners ' planes for carrying out operations in afghanistan's homes and villages. \" the remarks represented the latest broadside by karzai against the coalition that has trained, equipped and financed the force of",
@@ -1922,7 +1909,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2000,7 +1987,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2195,7 +2182,7 @@
         "vote_count": {
             "0": 2,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2315,13 +2302,12 @@
     },
     {
         "idx": 15085,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A battle is heating up on capitol hill over a controversial new bill targeting online piracy. Yesterday google, facebook, yahoo and other web companies took out full-page newspaper ads railing against the house's recently introduced stop online piracy act, even as supporters sung its praises at a hearing. \"the problem of rogue web sites is real, immediate and widespread, \" said sponsor lamar smith. The bill is backed by lobbyists from media and even pharmaceutical companies, who say piracy costs them $ 135 billion a year, the washington post reports. But tech companies say the bill would cause lawsuits and force them to shut down sites, since it makes them responsible for infringement from their users. Search engines also would be responsible for blocking links to infringing sites, according to the new york daily news. \"almost overnight, sopa has morphed into a full-on assault against lawful us internet companies, \" says the director of one industry group. Verizon is opposed, too, complaining that the law would force it to develop new technologies to block foreign piracy sites. ( a zdnet writer thinks sopa is an awful idea. )",
         "split": "train",
         "cleansed_document": [
             "By celeste katz opponents of a bill designed to protect the rights of film companies and music labels say it could be perverted to censor the internet in the united states. Our michael sheridan reports: hearings in the house of representatives on the stop internet piracy act ( sopa ) began wednesday, sparking a campaign by dozens of companies to keep the bill from becoming law. \" we support the bill's stated goals, \" says an open letter signed by nine internet companies, including google, facebook, twitter, yahoo, aol and ebay. \" unfortunately, the bills as drafted would expose law-abiding u.s. Internet and technology companies to new uncertain liabilities. \" the companies believe the government should \" consider more targeted ways to combat foreign ' rogue ' websites dedicated to copyright infringement and trademark counterfeiting. \" sopa was designed to \" promote prosperity, creativity, entrepreneurship, and innovation",
-            "Several lawmakers expressed support wednesday for a controversial bill aimed at curbing online piracy as lobbying over the issue reached a fever pitch. In a house judiciary committee hearing on a bill proposed by committee chairman lamar smith ( r-tex. ), a bipartisan group of lawmakers said new laws are needed to help media outlets, software makers and retailers fight the illegal distribution of movies, songs and software. Smith's stop online piracy act is aimed at foreign sites dedicated to pirated material, but web giants such as google and facebook and telecommunications firms say his proposal goes too far, making them responsible for shutting down bad actors. \"the problem of rogue web sites is real, immediate and widespread. It harms all sectors of the economy, \" smith said during the hearing. Several lawmakers expressed concern that the illegal exchange of copyrighted movies, software and music is draining u.s. Media companies",
-            "Summary: the web may not be perfect, but sopa is a reactionary bill to a broken copyright system. One thought alone: the ' broken web ' is ironically what makes it work. The stop online piracy act ( sopa ) will starve the web of the oxygen that it needs, issue its marching orders and censor the u.s. Web as we know it. One finds it ironic as an outside observer, from a country that does not have freedom of speech as such, to a country that dubs itself the ' land of the free '. And this is coming from someone who thought the patriot act was bad enough. With the realisation that the sopa may actually pass through congress and become law, one has to question why the sudden shift from copyright-ownership powers, to powers in government; seemingly a slippery slope to china-style censorship endorsements? the copyright system is"
+            "Several lawmakers expressed support wednesday for a controversial bill aimed at curbing online piracy as lobbying over the issue reached a fever pitch. In a house judiciary committee hearing on a bill proposed by committee chairman lamar smith ( r-tex. ), a bipartisan group of lawmakers said new laws are needed to help media outlets, software makers and retailers fight the illegal distribution of movies, songs and software. Smith's stop online piracy act is aimed at foreign sites dedicated to pirated material, but web giants such as google and facebook and telecommunications firms say his proposal goes too far, making them responsible for shutting down bad actors. \"the problem of rogue web sites is real, immediate and widespread. It harms all sectors of the economy, \" smith said during the hearing. Several lawmakers expressed concern that the illegal exchange of copyrighted movies, software and music is draining u.s. Media companies"
         ],
         "raw_document": [
             "By celeste katz opponents of a bill designed to protect the rights of film companies and music labels say it could be perverted to censor the internet in the united states. Our michael sheridan reports: hearings in the house of representatives on the stop internet piracy act ( sopa ) began wednesday, sparking a campaign by dozens of companies to keep the bill from becoming law. \" we support the bill's stated goals, \" says an open letter signed by nine internet companies, including google, facebook, twitter, yahoo, aol and ebay. \" unfortunately, the bills as drafted would expose law-abiding u.s. Internet and technology companies to new uncertain liabilities. \" the companies believe the government should \" consider more targeted ways to combat foreign ' rogue ' websites dedicated to copyright infringement and trademark counterfeiting. \" sopa was designed to \" promote prosperity, creativity, entrepreneurship, and innovation",
@@ -2338,18 +2324,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 15086,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Maybe donald trump can fit the celebrity apprentice into his presidential schedule? entertainment weekly reports the first episode of the new celebrity apprentice — with arnold schwarzenegger replacing the president-elect — got 4.9 million viewers when it premiered monday night. That's a 44 % drop from the previous season in 2015. It's possible the nbc reality show lost nearly half its viewership because of its connection to trump — who still has a producer's credit — though ew says that seems \" far-fetched. \" it's more likely a combination of people boycotting trump, a hosting change, airing on monday instead of sunday, and the current lineup of celebrity contestants. But, wait there's more. The wrap reports the massive slide in the ratings could also be due to the two-year break between seasons, competition from the rose bowl, airing too close to the new year's holiday, directv dropping some nbc affiliates, or \" maybe it just wasn't very good. \" it might not be a stretch to say many people would welcome trump foregoing the presidency and returning to his reality tv roots. The new york times calls the trump-less new celebrity apprentice \" dreary \" and \" numbingly boring, \" with a host that is all \" robotic professionalism. \" \" the sheer pleasure [ trump ] took in saying ' you're fired '... Gave the show a comic dimension that distinguished it, \" the times states.",
         "split": "train",
         "cleansed_document": [
             "The much-hyped revamp of the new celebrity apprentice seems to have fired some of its viewers. With arnold schwarzenegger taking over for president-elect donald trump in the boardroom, nbc's two-hour premiere delivered 4.9 million viewers and a 1.3 rating among adults 18-49 on monday night. That's down a steep 44 percent in the ratings compared to the reality show's previous opener back in 2015 ( which was on a sunday night vs. This season's monday debut ). Nbc points out, the show faced heavy competition for male viewers from espn's rose bowl and sugar bowl coverage. Alternately, ratings could have fallen because of trump — some trump critics have sworn off watching the show given the president-elect's ongoing attachment to the series ( certainly the reactions to this story in my twitter feed suggest this is the case ). Online boycott proclamations over various issues don",
-            "We know by now that arnold schwarzenegger didn't exactly terminate his \"celebrity apprentice \" competition last night in nielsen's primetime tv ratings, but why did the refurbished franchise fare as poorly as it did? after all, the previous winter cycle premiere starring donald trump in january 2015 earned a solid 2.4 rating in the key 18-49 demographic and 6.8 million total viewers. Those were far more respectable than monday's 1.3 and 4.9 million viewers. So, what happened? well, for starters, two years have passed. In case you've been asleep this whole time, somehow trump has gone from reality competition host to the frigging president of the united states. That means those who regularly tuned in for the \"you're fired \" guy maybe weren't as interested as the \"get to the chopper! \" dude. Plus, trump's still an",
-            "So he was a ghostly presence. Executive producers nearly always get their names onscreen at the top of a show, but on monday the only opening credit was \"created by mark burnett, \" giving pride of place to the reality-tv pioneer who made the inspired choice of mr. Trump as host back in 2004. Advertisement continue reading the main story and that pointed up the truth that \"the apprentice \" never really was mr. Trump's show. He was the face of the franchise and participated in the profits, but he was mr. Burnett's hired gun. The series may have taken on, or shaped itself around, mr. Trump's persona, but it was mr. Burnett who did the shaping. Mr. Trump's performance was part of the raw material — an essential part, but a part nonetheless — that mr. Burnett and his team of editors turned into television."
+            "We know by now that arnold schwarzenegger didn't exactly terminate his \"celebrity apprentice \" competition last night in nielsen's primetime tv ratings, but why did the refurbished franchise fare as poorly as it did? after all, the previous winter cycle premiere starring donald trump in january 2015 earned a solid 2.4 rating in the key 18-49 demographic and 6.8 million total viewers. Those were far more respectable than monday's 1.3 and 4.9 million viewers. So, what happened? well, for starters, two years have passed. In case you've been asleep this whole time, somehow trump has gone from reality competition host to the frigging president of the united states. That means those who regularly tuned in for the \"you're fired \" guy maybe weren't as interested as the \"get to the chopper! \" dude. Plus, trump's still an"
         ],
         "raw_document": [
             "The much-hyped revamp of the new celebrity apprentice seems to have fired some of its viewers. With arnold schwarzenegger taking over for president-elect donald trump in the boardroom, nbc's two-hour premiere delivered 4.9 million viewers and a 1.3 rating among adults 18-49 on monday night. That's down a steep 44 percent in the ratings compared to the reality show's previous opener back in 2015 ( which was on a sunday night vs. This season's monday debut ). Nbc points out, the show faced heavy competition for male viewers from espn's rose bowl and sugar bowl coverage. Alternately, ratings could have fallen because of trump — some trump critics have sworn off watching the show given the president-elect's ongoing attachment to the series ( certainly the reactions to this story in my twitter feed suggest this is the case ). Online boycott proclamations over various issues don",
@@ -2366,7 +2351,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2399,12 +2384,10 @@
     },
     {
         "idx": 15088,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Joey burrell got pulled over on nov. 14 because he was driving out of a supermarket parking lot without his lights on. Then his luck got worse: police in mankato, minn., found a bag of powder in his car, and a field test suggested it might be meth, reports kmsp-tv. Cops didn't buy the 31-year-old's story that the powder was actually vitamins for his sore shoulder, so into jail he went. And there he sat for weeks, until a state lab test was finally ordered, and it confirmed that burrell's powder was perfectly legal. Authorities immediately released him after about three months in jail. \" i had been sitting in the jail since november with my bail set at $ 250,000, \" burrell tells the mankato free press. \" then, two days before trial, they dropped the charges and let me go. \" he says prosecutors had pressed him to plead guilty, but he declined. Burrell has a criminal history and acknowledges using drugs in the past. In fact, that's one more twist in the story: he says he had just completed a drug-treatment program before his arrest.",
         "split": "train",
-        "cleansed_document": [
-            "Have a news tip? here's how you can reach us: call the newsdesk: 952-946-5767 or send us an email: fox9news@foxtv.com"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Close get email notifications on dan nienaber daily! your notification has been saved. There was a problem saving your notification. Whenever dan nienaber posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items.",
             "Have a news tip? here's how you can reach us: call the newsdesk: 952-946-5767 or send us an email: fox9news@foxtv.com"
@@ -2418,7 +2401,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2640,7 +2623,7 @@
             "1": 0,
             "2": 0,
             "3": 5,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -2667,7 +2650,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2692,19 +2675,18 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 15099,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "For those who believed aaron sorkin could do no wrong, the newsroom is a disappointment. Chronicling the life of a cable news station as it grapples with events from years back — the bp oil spill, for insance — it's preachy and perhaps overly optimistic, critics say. In the daily beast, howard kurtz says the characters sometimes come off as a little \" cartoonish. \" and \" even the debate over journalism, when sorkin gets around to that, has a simplified, black-and-white, heroes-vs.-heathens quality — and it's hard to root for either self-obsessed side. \" it's \" a wishful-thinking fantasy that out-wishes even that most wishy of series, the west wing, \" writes richard lawson at the atlantic wire. \" sorkin has essentially made a roman à clef out of the past two years ' worth of his dinner party conversations and set it in a newsroom. \" writing in the new york times, alessandra stanley goes a little easier on the show. \" at its best, \" the newsroom \" has a wit, sophistication and manic energy that recalls james l. Brooks's classic movie broadcast news. But at its worst, the show chokes on its own sanctimony. \" at vulture, matt zoller seitz offers a different take: \" mostly i like sorkin's optimism, the very quality that many of my colleagues are hanging him with, \" he writes. \" he seems convinced that no matter how bad things get, they can always be made better, provided we're willing to do our homework, engage in civil debate, put common sense ahead of ego, and work together. \"",
         "split": "train",
         "cleansed_document": [
             "The newsroom is the worst of aaron sorkin and the best of aaron sorkin; you can't have one without the other, and i ' ll wager that anyone who's ever enjoyed his work must know that. Set at the fictional, new york – based cable network acn, the show is part of an unofficial triptych of shows about how tv is watched and consumed. Like its predecessors — the mostly fondly remembered sports night and the train wreck studio 60 on the sunset strip — it's equal parts screwball comedy, workplace drama, and polemic about what's wrong with america and american media and how they could be fixed if",
             "Unreality tv after 'west wing ' and 'the social network, ' were expectations too high? 'the newsroom ' is a talky and tedious sendup of tv news, in a room stacked with self-obsessed blowhards. There is a lot of shouting in the newsroom. And most of it has nothing to do with journalism. Aaron sorkin's much-anticipated hbo series — much-anticipated by the chattering classes, at least — revolves around half-crazed anchor will mcavoy ( jeff daniels ) and his strong-willed ex-turned-executive producer mackenzie mchale ( emily mortimer ), along with a staff of fast-talking neurotics. Maybe expectations were too high, given the brilliance of sorkin's track record ( the west wing",
-            "It's not enough to be right; everyone else must be wrong. That's what distinguishes the self-righteous from the righteous, and that's what fuels \"the newsroom, \" a new hbo series by aaron sorkin that starts on sunday. Railing against the shallow, ratings-driven discourse on cable news shows, mr. Sorkin has created his own newsroom — a brigadoon version — where high-minded journalists pursue accuracy and excellence by, as one character puts it, \"speaking truth to stupid. \" yet oddly enough \"the newsroom \" suffers from the same flaw that it decries on real cable shows on msnbc or fox news. Cable television would be a lot better if anchors",
-            "Aaron sorkin has a lot he wants to talk about. The past two years have bubbled over with disasters, both political and otherwise ( but mostly political ), but poor mr. Sorkin has been too busy writing and promoting the well-received movies the social network and moneyball to sit down and have a chat with us about it all. Lucky for him then ( but not as much for us ), that hbo has given him the newsroom, an hour-a-week platform from which sorkin can orate about all the crazy, f-ked-up sh-t that's happened since two springs ago. He is mad as hell and, though the rest of us have moved past a lot"
+            "It's not enough to be right; everyone else must be wrong. That's what distinguishes the self-righteous from the righteous, and that's what fuels \"the newsroom, \" a new hbo series by aaron sorkin that starts on sunday. Railing against the shallow, ratings-driven discourse on cable news shows, mr. Sorkin has created his own newsroom — a brigadoon version — where high-minded journalists pursue accuracy and excellence by, as one character puts it, \"speaking truth to stupid. \" yet oddly enough \"the newsroom \" suffers from the same flaw that it decries on real cable shows on msnbc or fox news. Cable television would be a lot better if anchors"
         ],
         "raw_document": [
             "The newsroom is the worst of aaron sorkin and the best of aaron sorkin; you can't have one without the other, and i ' ll wager that anyone who's ever enjoyed his work must know that. Set at the fictional, new york – based cable network acn, the show is part of an unofficial triptych of shows about how tv is watched and consumed. Like its predecessors — the mostly fondly remembered sports night and the train wreck studio 60 on the sunset strip — it's equal parts screwball comedy, workplace drama, and polemic about what's wrong with america and american media and how they could be fixed if",
@@ -2723,7 +2705,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     }
 ]

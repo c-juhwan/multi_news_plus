@@ -76,7 +76,7 @@
             "0": 3,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -134,13 +134,12 @@
     },
     {
         "idx": 42905,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The mother of north carolina teenager hailey burns says it's \" a dream come true: \" her daughter has been found alive more than a year after she disappeared. Shaunna burns tells wsoc that her daughter, who was 16 when she vanished and is now 17, had been held captive by michael ren wysolovski, a 31-year-old georgia man she met online. He \" got her in the car, brought her straight to his house, and she pretty much had to stay there the whole time, \" the mother says. The fbi says hailey was found at a home in duluth, around 30 miles north of atlanta, after a special agent received a tip that she was in the area. Hailey has been reunited with her family and wysolovski has been arrested and charged with offenses including false imprisonment, aggravated sodomy, interference with custody, and cruelty to children, wbtv reports. Hailey is believed to have left her home of her own accord last may. After her disappearance, her parents said she had asperger's syndrome and was naive, easily manipulated by people she met online, and more like a 12-year-old than a 16-year-old, wccb reports. They said after the disappearance, they found out from a classmate that hailey had been talking to a 30-year-old man over the previous month who said \" that he would be her friend and she could come to him. \"",
         "split": "train",
         "cleansed_document": [
             "A 17-year-old girl who went missing from the ballantyne area more than a year ago was found alive in georgia. Hailey burns vanished from her home in ballantyne in may 2016. According to the u.s. Department of justice, a charlotte special agent received information that burns was in the atlanta area. The fbi said burns was found at a home on seneca trail in duluth, georgia. Sources say hailey contacted a woman from romanian online and told her she was missing. The woman then contacted hailey's parents. Officials said 31-year-old michael ren wysoloyski was taken into custody in georgia. Wysoloyski is facing a number of state charges, a spokesperson with the fbi said. Wysoloyski made his first court appearance monday. Wysoloyski was charged with false imprisonment, sodomy/aggravated sodomy, interference with custody, and cruelty to children involving first-degree deprivation. Hailey's mother, shaunna burns, describes the homecoming",
-            "0 man accused of holding charlotte teen captive denied bond charlotte, n.c. - hailey burns, a teenager who had been missing for the past year from her ballantyne home, was found alive over the weekend and returned from georgia to charlotte with her family. An fbi special agent in charlotte learned of information that led them to burns, now 17, at a home in duluth, georgia, where she was found just after midnight saturday. Michael ren wysolovski, 31, was taken into custody in georgia and is facing a number of state charges, the fbi said. Wysolovski faced a judge on monday and was denied bond after he was arrested and charged for allegedly holding burns captive in his duluth home, our sister station wsb-tv in atlanta reported. He has been charged with aggravated sodomy, cruelty to children deprivation in the 1st degree, interference with custody and false imprisonment,",
-            "Charlotte, nc – a south charlotte couple is desperate for answers about their missing 16 year old daughter. The special needs teenager hasn't been seen or heard from since may. Hailey burns parents say they know their child is in danger or she would have contacted someone or posted something online by now. They say they know from hailey's friends she was communicating online with an older man who they believe convinced her to leave home. \" it's like a piece of your body is missing and you're just trying to function but you're missing your heart, \" said father, anthony burns. Anthony and shannon burns ' heart is 16 -year old hailey. They woke up may 23rd and she was gone from the home where she lives with her 9 year old twin siblings. \"it's just agony, everyday you wake up and"
+            "0 man accused of holding charlotte teen captive denied bond charlotte, n.c. - hailey burns, a teenager who had been missing for the past year from her ballantyne home, was found alive over the weekend and returned from georgia to charlotte with her family. An fbi special agent in charlotte learned of information that led them to burns, now 17, at a home in duluth, georgia, where she was found just after midnight saturday. Michael ren wysolovski, 31, was taken into custody in georgia and is facing a number of state charges, the fbi said. Wysolovski faced a judge on monday and was denied bond after he was arrested and charged for allegedly holding burns captive in his duluth home, our sister station wsb-tv in atlanta reported. He has been charged with aggravated sodomy, cruelty to children deprivation in the 1st degree, interference with custody and false imprisonment,"
         ],
         "raw_document": [
             "A 17-year-old girl who went missing from the ballantyne area more than a year ago was found alive in georgia. Hailey burns vanished from her home in ballantyne in may 2016. According to the u.s. Department of justice, a charlotte special agent received information that burns was in the atlanta area. The fbi said burns was found at a home on seneca trail in duluth, georgia. Sources say hailey contacted a woman from romanian online and told her she was missing. The woman then contacted hailey's parents. Officials said 31-year-old michael ren wysoloyski was taken into custody in georgia. Wysoloyski is facing a number of state charges, a spokesperson with the fbi said. Wysoloyski made his first court appearance monday. Wysoloyski was charged with false imprisonment, sodomy/aggravated sodomy, interference with custody, and cruelty to children involving first-degree deprivation. Hailey's mother, shaunna burns, describes the homecoming",
@@ -157,7 +156,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -187,13 +186,12 @@
     },
     {
         "idx": 42907,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Michael flynn made a flurry of headlines friday and saturday, the most pressing of which was a new york times report that investigators working for robert mueller asked the white house for documents related to the ex-national security adviser. Sources say investigators have also asked witnesses if flynn was secretly paid by the turkish government. Flynn's consulting business was paid $ 530,000 to handle a campaign against an opponent of the turkish government. If that money actually came from the turkish government itself, flynn could face a felony charge for not declaring himself a foreign agent or other charges for trying to hide the source of the money. The document request is one more sign mueller's team is expanding its investigation beyond russia to the business dealings of trump and his team. On friday, the white house released an updated version of flynn's financial filing that shows he briefly had an advisory role with cambridge analytica, the ap reports. The \" controversial \" data mining and analysis company helped the trump campaign during the election. It's unclear what, if anything, flynn did for the company. According to usa today, former russian ambassador to the us sergey kislyak gave an interview to russian media saturday in which he claimed he never discussed sanctions with flynn, who was fired for lying when he told vice president pence the same thing. Kislyak says his conversations with flynn were \" absolutely correct, calm, absolutely transparent \" and about \" the simplest things. \"",
         "split": "train",
         "cleansed_document": [
             "File - in this feb. 1, 2017 file photo, then-national security adviser michael flynn speaks during the daily news briefing at the white house, in washington. Flynn is detailing previously undisclosed... ( associated press ) file - in this feb. 1, 2017 file photo, then-national security adviser michael flynn speaks during the daily news briefing at the white house, in washington. Flynn is detailing previously undisclosed... ( associated press ) washington ( ap ) — president donald trump's former national security adviser, michael flynn, disclosed a brief advisory role with a firm related to a controversial data analysis company that aided the trump campaign, according to a filing flynn submitted to the white house. The disclosure of flynn's link to cambridge analytica came in an amended public financial filing in which the retired u.s. Army lieutenant general also discloses income that includes payments from the trump transition team",
-            "Close sergei kislyak characterized his conversations with former white house national security adviser michael flynn as \" transparent \" and focused on matters of u.s.-russia cooperation. Usa today sergei kislyak, former russian ambassador to washington, appears on the russian 24 channel's ' press conference'to deny discussing secrets or sanctions with trump's national security advisor mike flynn ( photo: russia 24 ) sergey kislyak, russia's former ambassador to washington, denied saturday that he had discussed secrets or even the issue of sanctions with now-fired trump national security adviser michael flynn in a series of controversial conversations. Kislyak's remarks, made in an interview on the russian 24 channel's \" press conference \" program, are at odds with the circumstances surrounding the firing of flynn, who was dismissed in february for lying to vice president pence in saying he had not discussed sanctions with kislyak. Flynn",
-            "Mr. Flynn declined to comment. Ty cobb, special counsel to mr. Trump, said, \"we've said before we're collaborating with the special counsel on an ongoing basis. \" \"it's full cooperation mode as far as we are concerned, \" he said. After mr. Flynn's dismissal, mr. Trump tried to get james b. Comey, the f.b.i. Director, to drop the investigation, mr. Comey said. Mr. Mueller is investigating whether mr. Trump committed obstruction of justice in pressing for an end to the flynn inquiry. The president fired mr. Comey on may 9. Investigators are also examining the flow of money into and out of the flynn intel group — a consulting firm mr. Flynn founded after being forced out as the director of the defense intelligence agency — according to several potential witnesses who have been interviewed by prosecutors and f.b.i. Agents. Taking money from"
+            "Close sergei kislyak characterized his conversations with former white house national security adviser michael flynn as \" transparent \" and focused on matters of u.s.-russia cooperation. Usa today sergei kislyak, former russian ambassador to washington, appears on the russian 24 channel's ' press conference'to deny discussing secrets or sanctions with trump's national security advisor mike flynn ( photo: russia 24 ) sergey kislyak, russia's former ambassador to washington, denied saturday that he had discussed secrets or even the issue of sanctions with now-fired trump national security adviser michael flynn in a series of controversial conversations. Kislyak's remarks, made in an interview on the russian 24 channel's \" press conference \" program, are at odds with the circumstances surrounding the firing of flynn, who was dismissed in february for lying to vice president pence in saying he had not discussed sanctions with kislyak. Flynn"
         ],
         "raw_document": [
             "File - in this feb. 1, 2017 file photo, then-national security adviser michael flynn speaks during the daily news briefing at the white house, in washington. Flynn is detailing previously undisclosed... ( associated press ) file - in this feb. 1, 2017 file photo, then-national security adviser michael flynn speaks during the daily news briefing at the white house, in washington. Flynn is detailing previously undisclosed... ( associated press ) washington ( ap ) — president donald trump's former national security adviser, michael flynn, disclosed a brief advisory role with a firm related to a controversial data analysis company that aided the trump campaign, according to a filing flynn submitted to the white house. The disclosure of flynn's link to cambridge analytica came in an amended public financial filing in which the retired u.s. Army lieutenant general also discloses income that includes payments from the trump transition team",
@@ -210,7 +208,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -331,14 +329,13 @@
     },
     {
         "idx": 42912,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Pretty cool: george washington is finally getting what so many other presidents already have — a presidential library. The 45,000-square-foot library, which will be erected at a cost of $ 106.4 million that was ponied up by 7,000 donors, is slated to open sept. 27 at mount vernon. But the nation's first prez will have to share top billing: the library is to be called the fred w. Smith national library for the study of george washington, a nod to the man who helped direct millions toward the effort by way of the donald w. Reynolds foundation, which he chairs. With its nontraditional name, it's not entirely surprising to learn that this structure won't be part of the 13-library strong system that the national archives runs ( currently encompassing commanders-in-chief from herbert hoover to george w ). The washington library will house thousands of books — 105 of which are rare volumes owned by the president himself, reports usa today. But bookish history fans won't get to touch. Cbs news reports that those books will be housed in what it terms the \" inner sanctum, \" a vault that only researchers will have access to. Stars and stripes has a photo preview here.",
         "split": "train",
         "cleansed_document": [
             "A land survey done by george washington in virginia in 1749 is on display at the national press club in washington, dc on july 11, 2013. The item is part of a collection from washington's estate at mount vernon, which announced that the fred w. Smith national library for the study of george washington on will open on the grounds on sept. 27, 2013. The 45,000-square-foot library will house washington's original military, civil and personal documents. View photo gallery » documents and books belonging to george washington are on display at the national press club in washington, dc on july 11, 2013. The items are part of a collection from washington's estate at mount vernon, which announced that the fred w. Smith national library for the study of george washington on",
             "More than 200 years later, george washington will get his library storm chaser on rescuing typhoon victims: \" you don't think about it, you just go \" 11/11: typhoon haiyan survivors desperate for help; veterans describe war in six words ( cbs news ) mount vernon, va. -- if you want to separate fact from fiction about george washington, just ask curt viebranz. Curt viebranz / cbs news viebranz is president of mount vernon, washington's home on the potomac river, where his presidential library will open this fall. Washington, viebranz says, foresaw the need for a library for his papers and books, even way back then. \" i think he thought for the public good that they should be available, \" viebranz says. Math pages",
-            "After more than 150 years of work, the mount vernon ladies ' association is preparing to open the fred w. Smith national library for the study of george washington. The fred w. Smith library at mount vernon is expected to open sept. 27. ( photo: courtesy of the mount vernon ladies ' association ) story highlights the library will preserve the president's books, manuscripts, historical documents the founders raised $ 106.4m for construction and programming the library opens sept. 27 an earlier version of this story misidentified fred w. Smith as the founder of fedex. It took awhile, but the nation's first president finally has a presidential library. \" no president in american history deserves the honor of a presidential library more than our first chief executive -- nor is there a better",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "After more than 150 years of work, the mount vernon ladies ' association is preparing to open the fred w. Smith national library for the study of george washington. The fred w. Smith library at mount vernon is expected to open sept. 27. ( photo: courtesy of the mount vernon ladies ' association ) story highlights the library will preserve the president's books, manuscripts, historical documents the founders raised $ 106.4m for construction and programming the library opens sept. 27 an earlier version of this story misidentified fred w. Smith as the founder of fedex. It took awhile, but the nation's first president finally has a presidential library. \" no president in american history deserves the honor of a presidential library more than our first chief executive -- nor is there a better"
         ],
         "raw_document": [
             "A land survey done by george washington in virginia in 1749 is on display at the national press club in washington, dc on july 11, 2013. The item is part of a collection from washington's estate at mount vernon, which announced that the fred w. Smith national library for the study of george washington on will open on the grounds on sept. 27, 2013. The 45,000-square-foot library will house washington's original military, civil and personal documents. View photo gallery » documents and books belonging to george washington are on display at the national press club in washington, dc on july 11, 2013. The items are part of a collection from washington's estate at mount vernon, which announced that the fred w. Smith national library for the study of george washington on",
@@ -359,7 +356,7 @@
             "1": 2,
             "2": 5,
             "3": 0,
-            "4": 0
+            "4": 5
         }
     },
     {
@@ -452,7 +449,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -612,13 +609,12 @@
     },
     {
         "idx": 42922,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It's paul manafort. Reports have been circulating for days that robert mueller was about to take his first person into custody as part of his wide-ranging investigation, and the new york times and cnn report that manafort, trump's former campaign manager, is the one. In fact, the ap reports that manafort surrendered to federal authorities monday morning, along with business associate rick gates. The charges remain unclear, and they may not be directly related to the trump campaign — the wall street journal reports that the alleged violations include tax fraud. Manafort had been under scrutiny over alleged tax law violations and for his foreign lobbying, particularly in ukraine. Spokespersons for the various parties weren't shedding much light, but details should emerge soon. Mueller has been looking into possible collusion between the trump campaign and russia, as well as into whether president trump obstructed justice when he fired fbi chief james comey. ( the fbi has been investigating suspicious wire transfers linked to manafort involving about $ 3 million. )",
         "split": "train",
         "cleansed_document": [
             "Paul manafort, former chairman of donald trump's presidential campaign, arrived at the fbi's washington field office with his lawyer monday morning. He faces charges stemming from special counsel robert mueller's russia investigation. Credit: del quentin wilber/wsj washington — former trump campaign manager paul manafort was living a \"lavish \" lifestyle financed by a network of foreign corporate entities and accounts designed to help him avoid paying taxes on income he earned while lobbying for the pro-russian government of ukraine between 2006 and 2016, according to a 31-page indictment made public monday. Wire transfers by mr. Manafort included nearly $ 1 million to an antique rug store in alexandria, va., out of accounts in cyprus, about $ 850,000 on men's clothing, more than $ 650,000...",
-            "Washington ( cnn ) a former trump campaign foreign policy adviser has pleaded guilty to making a false statement to the fbi after he lied about his interactions with foreign officials close to the russian government -- the campaign's clearest connection so far to russia's efforts to meddle in the 2016 election. In court records unsealed on monday, the fbi said george papadopoulos \" falsely described his interactions with a certain foreign contact who discussed'dirt'related to emails \" concerning democratic presidential candidate hillary clinton. Records also describe an email between trump campaign officials suggesting they were considering acting on russian invitations to go to russia. In addition, former trump campaign chairman paul manafort and former trump campaign official rick gates surrendered monday to justice department special counsel robert mueller. The charges against top officials from trump's campaign signals a dramatic new phase of mueller's wide-ranging investigation into possible collusion between the russian government and members of trump's team as well as potential obstruction of justice and financial crimes. Papadopoulos ' guilty plea brings the mueller probe into actions that occurred during the 2016 campaign. The charges against manafort and gates are unrelated to the trump campaign, though it's possible mueller could add additional charges. Gates, 45, is a longtime business associate of manafort, 68. The pair worked together since the mid-2000s, and gates served as manafort's deputy on the campaign. The two were indicted under seal on friday, a source with direct knowledge of the matter said. President donald trump distanced himself from manafort on monday morning, asking why clinton wasn't being investigated. \" sorry, but this is years ago, before paul manafort was part of the trump campaign. But why aren't crooked hillary &amp; the dems the focus????? \" he soon added: \"",
-            "This will appear next to all of your comments this will not appear anywhere on newser"
+            "Washington ( cnn ) a former trump campaign foreign policy adviser has pleaded guilty to making a false statement to the fbi after he lied about his interactions with foreign officials close to the russian government -- the campaign's clearest connection so far to russia's efforts to meddle in the 2016 election. In court records unsealed on monday, the fbi said george papadopoulos \" falsely described his interactions with a certain foreign contact who discussed'dirt'related to emails \" concerning democratic presidential candidate hillary clinton. Records also describe an email between trump campaign officials suggesting they were considering acting on russian invitations to go to russia. In addition, former trump campaign chairman paul manafort and former trump campaign official rick gates surrendered monday to justice department special counsel robert mueller. The charges against top officials from trump's campaign signals a dramatic new phase of mueller's wide-ranging investigation into possible collusion between the russian government and members of trump's team as well as potential obstruction of justice and financial crimes. Papadopoulos ' guilty plea brings the mueller probe into actions that occurred during the 2016 campaign. The charges against manafort and gates are unrelated to the trump campaign, though it's possible mueller could add additional charges. Gates, 45, is a longtime business associate of manafort, 68. The pair worked together since the mid-2000s, and gates served as manafort's deputy on the campaign. The two were indicted under seal on friday, a source with direct knowledge of the matter said. President donald trump distanced himself from manafort on monday morning, asking why clinton wasn't being investigated. \" sorry, but this is years ago, before paul manafort was part of the trump campaign. But why aren't crooked hillary &amp; the dems the focus????? \" he soon added: \""
         ],
         "raw_document": [
             "Paul manafort, former chairman of donald trump's presidential campaign, arrived at the fbi's washington field office with his lawyer monday morning. He faces charges stemming from special counsel robert mueller's russia investigation. Credit: del quentin wilber/wsj washington — former trump campaign manager paul manafort was living a \"lavish \" lifestyle financed by a network of foreign corporate entities and accounts designed to help him avoid paying taxes on income he earned while lobbying for the pro-russian government of ukraine between 2006 and 2016, according to a 31-page indictment made public monday. Wire transfers by mr. Manafort included nearly $ 1 million to an antique rug store in alexandria, va., out of accounts in cyprus, about $ 850,000 on men's clothing, more than $ 650,000...",
@@ -635,7 +631,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -741,7 +737,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -771,13 +767,12 @@
     },
     {
         "idx": 42928,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Monday was a big day for madeline ralston — it was the last day there would be a madeline ralston. On that day, the 20-year-old stood in front of a clark county, nev., judge and explained why her birth certificate should read male. And then it was so, and maddy forever became jake, and jake called his dad to share the good news. Jon ralston heard a \" giddy \" voice on the other end of the line, and the moment inspired ralston — \" one of the most respected political reporters in nevada, \" per the washington post — to write a \" love story, \" a blog post about \" how my daughter became my son, \" he tweeted. It's been shared more than 16,000 times. The post is bookended with parallel statements, opening with the line, \" when maddy ralston came into this world almost 21 years ago, it was love at first sight. \" he writes of \" a stunning, blonde-blue-eyed kid \" who he thought of as a tomboy through and through. \" we went shopping for clothes, and she would never go into the girls'section. Always the boys. It wasn't even a question. I didn't really care. She was my little girl, and i adored her. \" he could tell that things were rough for maddy as she was teased and bullied and called a lesbian in high school, that \" something wasn't right. \" but \" i don't think i even listened very well when maddy told me a few years ago she was really a male inside. \" what he thought was a phase clearly wasn't, and ralston has \" come to not just accept it but to embrace \" his child's truth — though there are moments when it's hard. And then, that touching bookend: \" when i get home later this week, i will see someone officially named jake ralston for the first time. And one thing i know for certain: it will be love at first sight. \" read his full post here.",
         "split": "train",
         "cleansed_document": [
             "When maddy ralston came into this world almost 21 years ago, it was love at first sight. I cradled her in my arms, my adopted miracle, and couldn't stop crying. She was the most beautiful thing i had ever seen. As she grew up, maddy eschewed the traditional girly girl stuff. \"if you get me a doll for christmas, i ' ll cut its head off, \" she once admonished me. She refused to wear the skirts in the school uniform catalogue, preferring the khaki pants. She became a full-fledged tomboy before high school. She was a stunning, blonde-blue-eyed kid, but she didn't care. She would rather go sit for hours and fish at sunset park than go to the mall with other girls. She told me she wanted to be a boy. It's just a phase, i figured. So many women told me stories of their tomboy days. We went shopping for clothes, and she would never go into the girls'section. Always the boys. It wasn't even a question. I didn't really care. She was my little girl, and i adored her. The father-daughter bond was growing ever-stronger",
-            "Jake ralston's birth certificate was officially changed on monday to reflect his gender identity. ( photo courtesy of jon ralston ) \"it started off like any other monday, \" jake ralston told the washington post in a phone interview early tuesday morning. He chuckled. \"it was kind of slow. I didn't want to get out of bed and do 20-year-old things. \" when jake woke on monday, he was still legally named \"madeline, \" maddy for short. By the end of the day, maddy would be jake, and jake would be trending on the internet. That morning, jake received word that judge t. Arthur ritchie, jr. Of the eighth judicial district court in clark county, nev., wanted to speak to him. He immediately began worrying. What should he wear? he went with a plaid button-down and a pair of jeans. \"what if i ' m not trans enough? \" he remembered thinking. \"then i realized, he's just a man sitting behind a desk like i ' m a man sitting behind a desk talking to him. He's just a person, \" jake said. \"i told him that this was something i've been thinking about for",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "Jake ralston's birth certificate was officially changed on monday to reflect his gender identity. ( photo courtesy of jon ralston ) \"it started off like any other monday, \" jake ralston told the washington post in a phone interview early tuesday morning. He chuckled. \"it was kind of slow. I didn't want to get out of bed and do 20-year-old things. \" when jake woke on monday, he was still legally named \"madeline, \" maddy for short. By the end of the day, maddy would be jake, and jake would be trending on the internet. That morning, jake received word that judge t. Arthur ritchie, jr. Of the eighth judicial district court in clark county, nev., wanted to speak to him. He immediately began worrying. What should he wear? he went with a plaid button-down and a pair of jeans. \"what if i ' m not trans enough? \" he remembered thinking. \"then i realized, he's just a man sitting behind a desk like i ' m a man sitting behind a desk talking to him. He's just a person, \" jake said. \"i told him that this was something i've been thinking about for"
         ],
         "raw_document": [
             "When maddy ralston came into this world almost 21 years ago, it was love at first sight. I cradled her in my arms, my adopted miracle, and couldn't stop crying. She was the most beautiful thing i had ever seen. As she grew up, maddy eschewed the traditional girly girl stuff. \"if you get me a doll for christmas, i ' ll cut its head off, \" she once admonished me. She refused to wear the skirts in the school uniform catalogue, preferring the khaki pants. She became a full-fledged tomboy before high school. She was a stunning, blonde-blue-eyed kid, but she didn't care. She would rather go sit for hours and fish at sunset park than go to the mall with other girls. She told me she wanted to be a boy. It's just a phase, i figured. So many women told me stories of their tomboy days. We went shopping for clothes, and she would never go into the girls'section. Always the boys. It wasn't even a question. I didn't really care. She was my little girl, and i adored her. The father-daughter bond was growing ever-stronger",
@@ -794,17 +789,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 42929,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "\" boy, were we wrong. \" so starts an \" unendorsement \" from publisher joseph w. Mcquaid in monday's new hampshire union leader. The paper endorsed chris christie in the state primary back in november, with mcquaid touting him as \" a solid, pro-life conservative \" who \" tells it like it is \" based on experience and \" won't get rolled by the bureaucrats. \" christie's endorsement of trump on friday — though mcquaid says the new jersey governor told the paper he would never endorse him — \" demonstrated how wrong we were, \" mcquaid says. \" we thought that as a republican governor in a democratic-leading state he had the skills and experience the presidency needs, \" mcquaid writes. \" we also thought he had the best chance to take on and face down donald trump, \" whom mcquaid has, um, strongly criticized in the past. Instead, christie chose to cave to the bully and \" rejected the very principles of his campaign that attracted our support, \" mcquaid says, adding his hope that trump fans will soon \" wake up. \" his full piece is here, or you can read mcquaid's thoughts on trump here.",
         "split": "train",
         "cleansed_document": [
-            "An editorial - joseph w. Mcquaid, publisher: christie was our bad choice by joseph w. Mcquaid new hampshire union leader former republican presidential candidate and new jersey gov. Chris christie, right, expresses his support for current candidate donald trump at an airport rally in millington, tenn., on saturday. ( reuters/karen pulfer focht ) boy, were we wrong.we endorsed chris christie in the new hampshire presidential primary. Despite his baggage, we thought that as a republican governor in a democratic-leading state he had the skills and experience the presidency needs ( and hasn't had of late ). We also thought he had the best chance to take on and face down donald trump.watching christie kiss the donald's ring this weekend — and make excuses for the man christie himself had said was unfit for the presidency — demonstrated how wrong we were. Rather than standing up to the bully, christie bent his knee. In doing so, he rejected the very principles of his campaign that attracted our support.voters here apparently knew better than we. Most rejected christie but divided their votes among several others, leaving trump to claim victory. And now, despite specifically telling us that he would never endorse him, christie is backing trump.if nothing else, that might wake up some trump fans. We will look for that, just as soon as",
-            "For our safety, our future: chris christie for president by joseph w. Mcquaid, publisher new hampshire union leader new jersey gov. Chris christie today receives the presidential endorsement of the new hampshire union leader and sunday news. ( file/jason reed, reuters ) thanksgiving is just past. Christmas is ahead. We doubt that too many people across new hampshire have politics front and center right now. But in just 10 weeks, new hampshire will make a choice that will profoundly affect our country and the world. We better get it right.our choice is gov. Chris christie. As a u.s. Attorney and then a big-state governor, he is the one candidate who has the range and type of experience the nation desperately needs.we don't need another fast-talking, well-meaning freshman u.s. Senator trying to run the government. We are still seeing the disastrous effects of the last such choice.chris christie is a solid, pro-life conservative who has managed to govern in liberal new jersey, face down the big public unions, and win a second term. Gov. Christie can work across the aisle, but he won't get rolled by the bureaucrats. We don't need as president some well-meaning person from the private sector who has no public experience.gov. Christie is right for these dangerous times. He has prosecuted terrorists and dealt admirably with"
+            "An editorial - joseph w. Mcquaid, publisher: christie was our bad choice by joseph w. Mcquaid new hampshire union leader former republican presidential candidate and new jersey gov. Chris christie, right, expresses his support for current candidate donald trump at an airport rally in millington, tenn., on saturday. ( reuters/karen pulfer focht ) boy, were we wrong.we endorsed chris christie in the new hampshire presidential primary. Despite his baggage, we thought that as a republican governor in a democratic-leading state he had the skills and experience the presidency needs ( and hasn't had of late ). We also thought he had the best chance to take on and face down donald trump.watching christie kiss the donald's ring this weekend — and make excuses for the man christie himself had said was unfit for the presidency — demonstrated how wrong we were. Rather than standing up to the bully, christie bent his knee. In doing so, he rejected the very principles of his campaign that attracted our support.voters here apparently knew better than we. Most rejected christie but divided their votes among several others, leaving trump to claim victory. And now, despite specifically telling us that he would never endorse him, christie is backing trump.if nothing else, that might wake up some trump fans. We will look for that, just as soon as"
         ],
         "raw_document": [
             "An editorial - joseph w. Mcquaid, publisher: christie was our bad choice by joseph w. Mcquaid new hampshire union leader former republican presidential candidate and new jersey gov. Chris christie, right, expresses his support for current candidate donald trump at an airport rally in millington, tenn., on saturday. ( reuters/karen pulfer focht ) boy, were we wrong.we endorsed chris christie in the new hampshire presidential primary. Despite his baggage, we thought that as a republican governor in a democratic-leading state he had the skills and experience the presidency needs ( and hasn't had of late ). We also thought he had the best chance to take on and face down donald trump.watching christie kiss the donald's ring this weekend — and make excuses for the man christie himself had said was unfit for the presidency — demonstrated how wrong we were. Rather than standing up to the bully, christie bent his knee. In doing so, he rejected the very principles of his campaign that attracted our support.voters here apparently knew better than we. Most rejected christie but divided their votes among several others, leaving trump to claim victory. And now, despite specifically telling us that he would never endorse him, christie is backing trump.if nothing else, that might wake up some trump fans. We will look for that, just as soon as",
@@ -819,7 +813,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -879,12 +873,11 @@
     },
     {
         "idx": 42932,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The pro football hall of fame will posthumously induct junior seau next month, but don't expect to hear speeches from his family — who won't be allowed to utter a word. The hall plans to show a 5-minute video that honors the star linebacker without mentioning seau's diagnosis of traumatic brain injury, his suicide in 2012, or his family's lawsuit against the nfl, the new york times reports. \" it's frustrating because the induction is for my father and for the other players, but then to not be able to speak, it's painful, \" says seau's daughter, sydney. \" i just want to give the speech he would have given. It wasn't going to be about this mess. \" the hall says it's no snub, because inductions for deceased inductees in recent years haven't included speeches ( which were banned for being redundant and lengthy ). \" we're going to celebrate his life, not the death and other issues, \" says the hall's executive director, david baker. But not everyone agrees: \" so sydney seau is the valedictorian reduced to holding a flag at graduation, lest she embarrass the principal by exercising a little freedom of thought, \" writes mike tanier at bleacher report. At issue is the seau family's 2013 lawsuit, which accused the nfl of hiding players ' risk of head trauma for years, espn reports. The suit became part of a class-action lawsuit by thousands of retired players, but the seaus pulled out when a settlement said nothing about their claims. Now comes the induction ceremony of a man who killed himself at age 43: \" it's been like planning a wedding party without the groom, \" says junior's ex-wife, gina.",
         "split": "train",
         "cleansed_document": [
-            "Jemele hill, howard bryant and manish mehta discuss the policy that will prevent junior seau's daughter sydney from speaking at her father's hall of fame induction ceremony. ( 2: 07 ) a pro football hall of fame policy will prevent members of junior seau's family from speaking at the deceased linebacker's induction ceremony in august. Seau's daughter, sydney, was listed as a presenter on her father's behalf in a hall of fame news release sent july 15. However, she will be commenting only on a video when her late father enters the hall of fame on aug. 8. The hall of fame said in a statement that is consistent with its policy concerning the induction of deceased players. The daughter of junior seau is upset that she won't be able to speak on her father's behalf in canton. Ap photo/denis poroy \" the policy of the pro football hall of fame since 2010 regarding individuals enshrined posthumously provides for an expanded presenting video ( longer than the videos of living inductees ) followed by the traditional unveiling of the bronzed bust and no additional comments made from the podium, \" the statement said. \" this policy is not precedent setting and was implemented for the first time in 2011 when former los angeles rams great les richter was inducted posthumously. \" in",
-            "Don't pick up the phone when the pro football hall of fame calls, rodney harrison. They will want you to speak for junior seau at the induction ceremony, and you don't want to do it. Ditto for you, bobby ross. Let them leave a message; you ' ll get back to them in september. Make yourselves indisposed, spanos family. Bill belichick: you haven't a stitch to wear. The pro football hall of fame will be burning the phone lines because it has chosen to not let seau's daughter speak at the induction ceremony august 8, as ken belson of the new york times reported. Sydney seau is still technically her father's presenter, but ceremony organizers will replace the customary presenter's speech with a five-minute highlight montage and prerecorded comments by sydney that do not mention concussions, ctes, suicide or anything uncomfortable or real about her father's legacy. Hall of fame spokesman joe horrigan said family presentations tended to get \"redundant \" following the highlight montages, and heaven forbid anyone repeats themselves at a ceremony when old guys congratulate each other about how much tougher they were than today's whippersnappers. Executive director david baker veered off message, however: \"we're going to celebrate his life, \" baker said, \"not the"
+            "Jemele hill, howard bryant and manish mehta discuss the policy that will prevent junior seau's daughter sydney from speaking at her father's hall of fame induction ceremony. ( 2: 07 ) a pro football hall of fame policy will prevent members of junior seau's family from speaking at the deceased linebacker's induction ceremony in august. Seau's daughter, sydney, was listed as a presenter on her father's behalf in a hall of fame news release sent july 15. However, she will be commenting only on a video when her late father enters the hall of fame on aug. 8. The hall of fame said in a statement that is consistent with its policy concerning the induction of deceased players. The daughter of junior seau is upset that she won't be able to speak on her father's behalf in canton. Ap photo/denis poroy \" the policy of the pro football hall of fame since 2010 regarding individuals enshrined posthumously provides for an expanded presenting video ( longer than the videos of living inductees ) followed by the traditional unveiling of the bronzed bust and no additional comments made from the podium, \" the statement said. \" this policy is not precedent setting and was implemented for the first time in 2011 when former los angeles rams great les richter was inducted posthumously. \" in"
         ],
         "raw_document": [
             "Jemele hill, howard bryant and manish mehta discuss the policy that will prevent junior seau's daughter sydney from speaking at her father's hall of fame induction ceremony. ( 2: 07 ) a pro football hall of fame policy will prevent members of junior seau's family from speaking at the deceased linebacker's induction ceremony in august. Seau's daughter, sydney, was listed as a presenter on her father's behalf in a hall of fame news release sent july 15. However, she will be commenting only on a video when her late father enters the hall of fame on aug. 8. The hall of fame said in a statement that is consistent with its policy concerning the induction of deceased players. The daughter of junior seau is upset that she won't be able to speak on her father's behalf in canton. Ap photo/denis poroy \" the policy of the pro football hall of fame since 2010 regarding individuals enshrined posthumously provides for an expanded presenting video ( longer than the videos of living inductees ) followed by the traditional unveiling of the bronzed bust and no additional comments made from the podium, \" the statement said. \" this policy is not precedent setting and was implemented for the first time in 2011 when former los angeles rams great les richter was inducted posthumously. \" in",
@@ -899,7 +892,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -927,17 +920,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 42934,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "San francisco's experiment with pee-repelling paint is working out so well that the city says it will expand the trial in an attempt to prevent further public urination. Since treating nine of its walls with a liquid-repelling coating that causes urine to bounce back at anyone seeking relief, the city has been sending an unfortunate individual to smell the city's walls and look for moist areas. \" so far so good, \" says public works director mohammed nuru. \" we have had a daily monitoring program, and it seems to be 95 % successful, \" though he adds there's one particular alley \" that we have had trouble with. \" as a result, officials will apply the ultra-ever dry paint from florida company ultra-tech to eight more walls this week, reports the san francisco chronicle. Once the program's trial period wraps in december, city officials will review the effectiveness of the paint, which has worked \" really well \" in hamburg, germany, says nuru. \" based on that, i think this program is really going to work. It should deter people. \" signs on the coated walls state: \" hold it! this wall is not a public restroom. Please respect san francisco and seek relief in an appropriate place. \" but as they don't explain that the texture produced by the paint creates peaks that repel most water-based and some oil-based liquids, \" surprises are in store for the unwitting relief-seeker, \" notes the chronicle. Last year, nbc news reported nissan was testing a vehicle coated with ultra-ever dry paint, meaning soon you may never have to wash your car again. ( san francisco should probably add the stuff to its light poles. )",
         "split": "train",
         "cleansed_document": [
-            "City doubles number of walls that spray back to all the late-night revelers who answer nature's call on city walls: beware. Again. The public works department is doubling the number of walls painted with pee-repellent paint. In july, dpw installed nine in the tenderloin, the mission and south of market. Eight more will be added this week. The surfaces make urine bounce right back onto the shoes and pants of unsuspecting relief-seekers. And, so far, it seems to be working. \"so far so good, \" public works director mohammed nuru said. \"we have had a daily monitoring program, and it seems to be 95 percent successful. There's only one alley in the mission that we have had trouble with. \" the monitoring system consists of one lucky individual conducting a smell and sight test — anything that smells putrid or looks moist is noted. The trial period for the pee wall program ends in december, and the city will assess its effectiveness then. But it's already been proved to work in europe. The paint was first used in hamburg's st. Pauli quarter, where beer drinkers often can't be bothered to find a bathroom. The experiment captured the attention of san francisco officials. Historically, public urination has been an issue in san francisco. Legislation banned it",
-            "If it's not winter's salt and grime, it's mud and everyday dirt. Keeping your car clean can be a chore – a backbreaking one if you prefer to do it yourself. But nissan is testing a car that can keep itself clean, thanks to special paints that repel water and oils. Similar technology could eventually allow manufacturers to do away with windshield wipers by effectively fending off water, frost and grime. Meanwhile, new coatings can also help keep a car's interior cleaner, something especially useful for parents – or those actively involved in sports like camping and trail biking. The nissan technical center in rolle, switzerland, is in the midst of testing a specially prepared version of the maker's little european note model. The subcompact hatchback has had a layer of a special coating, called ultra-ever dry, applied over its conventional paint finish. Developed by ultratech international, it's technically known as a super-hydrophobic and oleophobic paint. In other words, it actually repels both oil and water. That means that most common dirt, grime and oil won't stick to the vehicle's sheet metal. The ultra-ever dry finish even works with rain, frost and sleet, nissan reports, after preliminary testing. \" the nissan note has been carefully engineered to take"
+            "City doubles number of walls that spray back to all the late-night revelers who answer nature's call on city walls: beware. Again. The public works department is doubling the number of walls painted with pee-repellent paint. In july, dpw installed nine in the tenderloin, the mission and south of market. Eight more will be added this week. The surfaces make urine bounce right back onto the shoes and pants of unsuspecting relief-seekers. And, so far, it seems to be working. \"so far so good, \" public works director mohammed nuru said. \"we have had a daily monitoring program, and it seems to be 95 percent successful. There's only one alley in the mission that we have had trouble with. \" the monitoring system consists of one lucky individual conducting a smell and sight test — anything that smells putrid or looks moist is noted. The trial period for the pee wall program ends in december, and the city will assess its effectiveness then. But it's already been proved to work in europe. The paint was first used in hamburg's st. Pauli quarter, where beer drinkers often can't be bothered to find a bathroom. The experiment captured the attention of san francisco officials. Historically, public urination has been an issue in san francisco. Legislation banned it"
         ],
         "raw_document": [
             "City doubles number of walls that spray back to all the late-night revelers who answer nature's call on city walls: beware. Again. The public works department is doubling the number of walls painted with pee-repellent paint. In july, dpw installed nine in the tenderloin, the mission and south of market. Eight more will be added this week. The surfaces make urine bounce right back onto the shoes and pants of unsuspecting relief-seekers. And, so far, it seems to be working. \"so far so good, \" public works director mohammed nuru said. \"we have had a daily monitoring program, and it seems to be 95 percent successful. There's only one alley in the mission that we have had trouble with. \" the monitoring system consists of one lucky individual conducting a smell and sight test — anything that smells putrid or looks moist is noted. The trial period for the pee wall program ends in december, and the city will assess its effectiveness then. But it's already been proved to work in europe. The paint was first used in hamburg's st. Pauli quarter, where beer drinkers often can't be bothered to find a bathroom. The experiment captured the attention of san francisco officials. Historically, public urination has been an issue in san francisco. Legislation banned it",
@@ -952,7 +944,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1004,17 +996,16 @@
         "vote_count": {
             "0": 0,
             "1": 3,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 42937,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "In a crazy video taken over the weekend at a japanese zoo, a lion can be seen attempting to pounce on a toddler, only to slam into his glass enclosure headfirst. Per the independent, tokyo's chiba zoological park, which introduced the glass enclosures in april, says that the lion does this often when he sees children and, though it looks terrifying, it's actually a playful move. But an animal rights activist tells the dodo it appears the lion viewed the child as prey. \" if the barrier had not held the consequences could have been catastrophic, \" he says.",
         "split": "train",
         "cleansed_document": [
-            "A male lion at a japanese zoo has been filmed trying to pounce on a little boy with his back turned before crashing into a protective glass wall. The incident was captured by a visitor to chiba zoological park in the eastern part of tokyo. With his back turned, the child does not notice the stalking 185kg lion until it collides with the glass. The glass display was introduced in april to allow visiters a closer look at the large predator. Animal rights campaigners have said the video highlights why keeping wild predators in such captivity is both cruel and dangerous. Lion expert adam m. Roberts from born free usa told the dodo: \" lions are natural wild predators and the child in this video, especially when turning his back to the massive feline, becomes prey in the animal's eyes. Ever wondered what it's like to have a pet lion? \" the firm glass wall held the lion inside his enclosure, surely frustrating his innate instincts. Where not to visit if you love animals 9 show all where not to visit if you love animals 1/9 monkey shows chimpanzees are forced to perform demeaning tricks on leashes and are often subject to cruel training techniques. Animals who are confined to small, barren enclosures and forced to perform unsurprisingly show symptoms of stress and depression. Chimpanzees have been documented rocking back and forth, sucking their lips, salivating and swaying against enclosure perimeters in distress. Getty images 2/9 swimming with dolphins some marine parks use bottlenose dolphins in performances and offer visitors the opportunity to swim with dolphins. Unfortunately, people are often unaware that these animals are captured in the wild and torn from their families or traded between different parks around the world. Getty images 3/9 tiger shows tigers are forced to live in an unnatural and barren environment and have to endure interactions with a constant stream of tourists. Since tigers never",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "A male lion at a japanese zoo has been filmed trying to pounce on a little boy with his back turned before crashing into a protective glass wall. The incident was captured by a visitor to chiba zoological park in the eastern part of tokyo. With his back turned, the child does not notice the stalking 185kg lion until it collides with the glass. The glass display was introduced in april to allow visiters a closer look at the large predator. Animal rights campaigners have said the video highlights why keeping wild predators in such captivity is both cruel and dangerous. Lion expert adam m. Roberts from born free usa told the dodo: \" lions are natural wild predators and the child in this video, especially when turning his back to the massive feline, becomes prey in the animal's eyes. Ever wondered what it's like to have a pet lion? \" the firm glass wall held the lion inside his enclosure, surely frustrating his innate instincts. Where not to visit if you love animals 9 show all where not to visit if you love animals 1/9 monkey shows chimpanzees are forced to perform demeaning tricks on leashes and are often subject to cruel training techniques. Animals who are confined to small, barren enclosures and forced to perform unsurprisingly show symptoms of stress and depression. Chimpanzees have been documented rocking back and forth, sucking their lips, salivating and swaying against enclosure perimeters in distress. Getty images 2/9 swimming with dolphins some marine parks use bottlenose dolphins in performances and offer visitors the opportunity to swim with dolphins. Unfortunately, people are often unaware that these animals are captured in the wild and torn from their families or traded between different parks around the world. Getty images 3/9 tiger shows tigers are forced to live in an unnatural and barren environment and have to endure interactions with a constant stream of tourists. Since tigers never"
         ],
         "raw_document": [
             "A male lion at a japanese zoo has been filmed trying to pounce on a little boy with his back turned before crashing into a protective glass wall. The incident was captured by a visitor to chiba zoological park in the eastern part of tokyo. With his back turned, the child does not notice the stalking 185kg lion until it collides with the glass. The glass display was introduced in april to allow visiters a closer look at the large predator. Animal rights campaigners have said the video highlights why keeping wild predators in such captivity is both cruel and dangerous. Lion expert adam m. Roberts from born free usa told the dodo: \" lions are natural wild predators and the child in this video, especially when turning his back to the massive feline, becomes prey in the animal's eyes. Ever wondered what it's like to have a pet lion? \" the firm glass wall held the lion inside his enclosure, surely frustrating his innate instincts. Where not to visit if you love animals 9 show all where not to visit if you love animals 1/9 monkey shows chimpanzees are forced to perform demeaning tricks on leashes and are often subject to cruel training techniques. Animals who are confined to small, barren enclosures and forced to perform unsurprisingly show symptoms of stress and depression. Chimpanzees have been documented rocking back and forth, sucking their lips, salivating and swaying against enclosure perimeters in distress. Getty images 2/9 swimming with dolphins some marine parks use bottlenose dolphins in performances and offer visitors the opportunity to swim with dolphins. Unfortunately, people are often unaware that these animals are captured in the wild and torn from their families or traded between different parks around the world. Getty images 3/9 tiger shows tigers are forced to live in an unnatural and barren environment and have to endure interactions with a constant stream of tourists. Since tigers never",
@@ -1031,7 +1022,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1056,7 +1047,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1135,12 +1126,11 @@
     },
     {
         "idx": 42942,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Facebook is apparently mighty impressed with whatsapp, a messaging app for smartphones: mark zuckerberg's company announced today that it plans to buy whatsapp for up to $ 19 billion in cash and stock. Whatsapp claims 450 million monthly users, and the deal is further proof that facebook \" is willing to pay huge sums to acquire rival apps that gain sway with consumers, \" says the wall street journal. Whatsapp will continue to operate independently. Investors were apparently not so wowed — facebook shares dropped about 5 % in after-hours trading, notes marketwatch.",
         "split": "train",
         "cleansed_document": [
-            "Facebook inc. Agreed to buy messaging company whatsapp for $ 19 billion in cash and stock, a blockbuster transaction that dwarfs the already sky-high prices that other startups have been able to recently command. The 55-employee company, which acts as a kind of replacement for text messaging, has seen its use more than double in the past nine months to 450 million monthly users. That makes its service more popular than twitter inc.,...",
-            "San francisco ( marketwatch ) -- shares of facebook inc. Fb, -2.65 % fell in the extended session wednesday after the social network disclosed it was buying messaging network whatsapp inc. For $ 16 billion in stock and cash. Facebook shares fell 5 % to $ 64.57 after hours on very heavy volume. Facebook said it will pay $ 4 billion in cash and $ 12 billion in stock for the company, and agreed to an additional $ 3 billion in restricted stock units to whatsapp's founders and employees to be vested over the next four years. The agreement also stipulates that facebook would pay a break-up fee of $ 1 billion in cash and $ 1 billion in stock. Read the full story: facebook to buy whatsapp for $ 16 billion-plus"
+            "Facebook inc. Agreed to buy messaging company whatsapp for $ 19 billion in cash and stock, a blockbuster transaction that dwarfs the already sky-high prices that other startups have been able to recently command. The 55-employee company, which acts as a kind of replacement for text messaging, has seen its use more than double in the past nine months to 450 million monthly users. That makes its service more popular than twitter inc.,..."
         ],
         "raw_document": [
             "Facebook inc. Agreed to buy messaging company whatsapp for $ 19 billion in cash and stock, a blockbuster transaction that dwarfs the already sky-high prices that other startups have been able to recently command. The 55-employee company, which acts as a kind of replacement for text messaging, has seen its use more than double in the past nine months to 450 million monthly users. That makes its service more popular than twitter inc.,...",
@@ -1155,7 +1145,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1188,13 +1178,12 @@
     },
     {
         "idx": 42944,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It's the worst kind of synchronicity: a website that tracks mass shootings in the us had logged 203 through wednesday. It hasn't caught up with last night's rampage in a louisiana theater, but when it does, that will be no. 204 — and yesterday was the 204th day of the year, notes the washington post. The mass shooting tracker is a crowd-sourced tool from an anti-gun forum at reddit called guns are cool, and it defines \" mass shooting \" as incident in which at least four people were shot. Not all of the incidents resulted in deaths. A post at quartz digs in a little deeper to the numbers and finds that 40 of 50 states have had at least one such mass shooting this year, with new york ( 16 ), california ( 14 ), florida ( 14 ), texas ( 12 ), and georgia ( 12 ) at the top of the list. In its coverage, the post quotes a barb from the economist, written after the charleston church massacre, that has been in wide circulation of late: \" those who live in america, or visit it, might do best to regard [ mass shootings ] the way one regards air pollution in china: an endemic local health hazard which, for deep-rooted cultural, social, economic and political reasons, the country is incapable of addressing. This may, however, be a bit unfair. China seems to be making progress on pollution. \"",
         "split": "train",
         "cleansed_document": [
             "Mass shooting casualties in the u.s. In 2018 426 verified mass shootings 528 people killed 1,549 people wounded 2,077 total casualties ( killed &amp; wounded ) the figures above only represent victims of mass shootings ( when four or more people were shot in an event, or related series of events without a cooling off period ). Not included are victims of shootings where three or fewer people were shot. For more information, check out grc's mass shooting tracker. Bonus mass shooting fun facts for 2018: there was an average of 1.17 mass shootings per day in 2018. The top 10 states for mass shootings in 2018 ( # per million people ) were: alabama ( 3.48 ), tennessee ( 3.39 ), illinois ( 3.21 ), missouri ( 3.10 ), louisiana ( 2.78 ), oklahoma ( 2.28 ), arkansas ( 1.98 ), nevada ( 1.96 ), colorado ( 1.76",
-            "From columbine to charleston, here's a look at some of the most notable u.s. Mass shootings. ( alice li/the washington post ) the headlines all start to sound the same after awhile. Seven people shot inside louisville nightclub. Four men shot in suffolk early sunday morning. Two dead, two hospitalized in brice street shooting. The shootings happen so often, the circumstances become so familiar, that we tune them out. One dead, five injured in west columbus shooting. Four shot in grocery store ambush. One dead, four injured in stockton shooting. Every now and then a particularly heinous crime makes us pause and reflect. Nine dead in shooting at black church in charleston. Four marines, one sailor killed in attacks on chattanooga military facilities. Gunman opens fire on louisiana movie theater. The mass shooting tracker, a crowd-sourced project of the anti-gun folks at the",
-            "We do not yet know why a gunman entered a church in charleston, south carolina on wednesday and killed nine people at a prayer meeting, but in a sense it does not matter. One searches for reasons in order to assign responsibility and to devise solutions, but in this case no one will accept responsibility, and no solutions will be devised. One might blame radical ideology; given that the gunman, who police suspect is 21-year-old dylann roof, is white and the victims black, it seems probable that the motives were rooted in racial hatred. But no modern american party, movement or politician embraces explicit racism. While some exploit more subtle forms of racial resentment, none would admit to any link to a mass killer. A south carolina branch of the ku klux klan has been on a last-ditch recruitment drive to save itself from extinction, but one expects even the"
+            "From columbine to charleston, here's a look at some of the most notable u.s. Mass shootings. ( alice li/the washington post ) the headlines all start to sound the same after awhile. Seven people shot inside louisville nightclub. Four men shot in suffolk early sunday morning. Two dead, two hospitalized in brice street shooting. The shootings happen so often, the circumstances become so familiar, that we tune them out. One dead, five injured in west columbus shooting. Four shot in grocery store ambush. One dead, four injured in stockton shooting. Every now and then a particularly heinous crime makes us pause and reflect. Nine dead in shooting at black church in charleston. Four marines, one sailor killed in attacks on chattanooga military facilities. Gunman opens fire on louisiana movie theater. The mass shooting tracker, a crowd-sourced project of the anti-gun folks at the"
         ],
         "raw_document": [
             "Mass shooting casualties in the u.s. In 2018 426 verified mass shootings 528 people killed 1,549 people wounded 2,077 total casualties ( killed &amp; wounded ) the figures above only represent victims of mass shootings ( when four or more people were shot in an event, or related series of events without a cooling off period ). Not included are victims of shootings where three or fewer people were shot. For more information, check out grc's mass shooting tracker. Bonus mass shooting fun facts for 2018: there was an average of 1.17 mass shootings per day in 2018. The top 10 states for mass shootings in 2018 ( # per million people ) were: alabama ( 3.48 ), tennessee ( 3.39 ), illinois ( 3.21 ), missouri ( 3.10 ), louisiana ( 2.78 ), oklahoma ( 2.28 ), arkansas ( 1.98 ), nevada ( 1.96 ), colorado ( 1.76",
@@ -1211,7 +1200,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1236,18 +1225,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 42946,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Consider it a not-so-veiled threat. The un general assembly votes thursday on whether to reject president trump's decision to recognize jerusalem as the capital of israel, and us ambassador nikki haley is warning that the us will be paying very close attention. \" when we make a decision, at the will of the american ppl, abt where to locate our embassy, we don't expect those we've helped to target us, \" she tweeted. \" on thurs there ' ll be a vote criticizing our choice. The us will be taking names. \" in a letter circulated to other countries, haley reiterates the point, reports the guardian. \" as you consider your vote, i encourage you to know the president and the us take this vote personally, \" she writes, adding that she ' ll be reporting back to trump on the nay votes. It's unclear whether the us pressure will work. When the security council voted on a similar measure monday, the other 14 members of the council voted against the us. However, because the us has veto power on the council, the measure failed anyway. No such vetoes are in play during the general assembly vote, which is being held at the request of arab and muslim states, reports the bbc. A draft of the non-binding resolution asks the general assembly to declare the american move \" null and void, \" and palestinian ambassador riyad mansour predicts victory: \" the general assembly will say, without the fear of the veto, that the international community is refusing to accept the unilateral position of the united states. \"",
         "split": "train",
         "cleansed_document": [
             "Us will'take names of those who vote to reject jerusalem recognition'the us ambassador to the united nations, nikki haley, has warned un members she will be \"taking names \" of countries that vote to reject donald trump's recognition of jerusalem as the capital of israel. In a letter seen by the guardian, haley told countries – including european delegations – that she will report back to the us president with the names of those who support a draft resolution rejecting the us move at the un general assembly on thursday, adding that trump took the issue personally. Haley writes: \"as you consider your vote, i encourage you to know the president and the us take this vote personally. \"the president will be watching this vote carefully and has requested i report back on those who voted against us, \" she continued. Haley followed the letter by tweeting: \"at the un we're always asked to do more &amp; give more. So, when we make a decision, at the will of the american ppl, abt where to locate our embassy, we don't expect those we've helped to target us. On thurs there ' ll be a vote criticizing our choice",
-            "Image copyright epa image caption fourteen states backed a similar motion on jerusalem at the un security council on monday the us says it \" will be taking names \" during a un general assembly vote on a resolution criticising its recognition of jerusalem as israel's capital. Permanent representative nikki haley warned member states that president donald trump had asked her to report on \" who voted against us \" on thursday. The draft resolution does not mention the us, but says any decisions on jerusalem should be cancelled. Mr trump later threatened to cut off financial aid to those who backed it. \" they take hundreds of millions of dollars and even billions of dollars, and then they vote against us. Well, we're watching those votes, \" he told reporters at the white house. \" let them vote against us. We ' ll save a lot. We don't care. \" the status of jerusalem goes to the heart of israel's conflict with the palestinians. Israel occupied the east of the city, previously occupied by jordan, in the 1967 middle east war and regards the entire city as its indivisible capital. Media playback is unsupported on your device media caption why the ancient",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Image copyright epa image caption fourteen states backed a similar motion on jerusalem at the un security council on monday the us says it \" will be taking names \" during a un general assembly vote on a resolution criticising its recognition of jerusalem as israel's capital. Permanent representative nikki haley warned member states that president donald trump had asked her to report on \" who voted against us \" on thursday. The draft resolution does not mention the us, but says any decisions on jerusalem should be cancelled. Mr trump later threatened to cut off financial aid to those who backed it. \" they take hundreds of millions of dollars and even billions of dollars, and then they vote against us. Well, we're watching those votes, \" he told reporters at the white house. \" let them vote against us. We ' ll save a lot. We don't care. \" the status of jerusalem goes to the heart of israel's conflict with the palestinians. Israel occupied the east of the city, previously occupied by jordan, in the 1967 middle east war and regards the entire city as its indivisible capital. Media playback is unsupported on your device media caption why the ancient"
         ],
         "raw_document": [
             "Us will'take names of those who vote to reject jerusalem recognition'the us ambassador to the united nations, nikki haley, has warned un members she will be \"taking names \" of countries that vote to reject donald trump's recognition of jerusalem as the capital of israel. In a letter seen by the guardian, haley told countries – including european delegations – that she will report back to the us president with the names of those who support a draft resolution rejecting the us move at the un general assembly on thursday, adding that trump took the issue personally. Haley writes: \"as you consider your vote, i encourage you to know the president and the us take this vote personally. \"the president will be watching this vote carefully and has requested i report back on those who voted against us, \" she continued. Haley followed the letter by tweeting: \"at the un we're always asked to do more &amp; give more. So, when we make a decision, at the will of the american ppl, abt where to locate our embassy, we don't expect those we've helped to target us. On thurs there ' ll be a vote criticizing our choice",
@@ -1264,7 +1252,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1318,12 +1306,11 @@
     },
     {
         "idx": 42949,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "You probably associate arsenic more with health problems than with health benefits, but it seems the chemical could actually help in the fight against breast cancer. The news comes from a study of a city in chile. Between 1958 and 1970, antofagasta had way too much arsenic in its water: some 80 times the maximum amount recommended by the world health organization. Some forms of cancer, including those of the lung, bladder, and kidney, soared among locals, ozy reports. But breast cancer mortality rates among women actually sank by 50 %, uc berkeley reveals in a press release; among women under 60, the figure was 70 %. The findings were \" completely unexpected, \" researcher allan smith tells ozy. Researchers were able to use arsenic to kill lab-grown breast cancer cells, and they found that healthy breast cells showed arsenic resistance. \" based on what we've found, it's not a stretch at all to say arsenic could treat breast cancer, \" says another expert. The next step: \" carefully designed clinical trials should take place as soon as possible based on this new evidence, \" smith notes. Forms of arsenic have previously been used in the treatment of other cancers; the chemical has been called a \" double-edged sword, \" medical daily reports. As for that other edge, another recent study linked arsenic intake to lower iqs.",
         "split": "train",
         "cleansed_document": [
-            "Though arsenic, which found in drinking water, has been linked to harmful effects such as arsenic poisoning, a new study out of the university of california, berkeley, and the pontifical catholic university of chile has found that it might somehow assist in the fight against breast cancer. The results of the study may appear somewhat contradictory to the research that already exists about arsenic's health hazards. Arsenic is a naturally occurring chemical element that is often found in various minerals, alongside sulfur and metals. When it's found in drinking water, however, it can lead to arsenic poisoning, and even increase people's risk of cancer. The authors of the berkeley study examined breast cancer mortality data from a region in chile that is notorious for having high levels of arsenic in the drinking water and environment. Scientists normally see an increase in cancer and toxicity in such regions, but this study shows opposite results. Breast cancer deaths were actually cut in half in this chilean region during a period of time that coincided with high arsenic exposure. Women under the age of 60 had the most pronounced results; breast cancer mortality was cut by 70 percent. \"what we found was astonishing, \" said dr. Allan smith, lead author of the study and a professor of epidemiology at berkeley, in a press release. \"we've been studying the long-term effects of arsenic in this population for many years, focusing on increased disease and mortality attributed to the historical exposure to arsenic in this population. \" once an arsenic removal plant was placed in the city of antofagasta, chile, the researchers found that breast cancer deaths began to rise again. While exposure to arsenic has been linked to the growth of malignant cells for various other types of cancer such as lung cancer, breast cancer cells were shown to be destroyed by arsenic. Stanford cancer institute researchers assisted in the study by growing breast cancer cells in the lab, and finding that arsenic in fact killed them. Regular breast cells, meanwhile, appeared to be more resistant to arsenic than other types of cells. A double-edged sword interestingly enough, though arsenic exposure can be toxic, the element has been used medically for over 2,400 years to treat various conditions. The element has been referred to as a medicinal \"double-edged sword, \" due to its ability to work as a therapeutic agent as well as a poison. Arsenic trioxide has often been used to treat relapsed promyelocytic leukemia, for example. But it has also been found to",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Though arsenic, which found in drinking water, has been linked to harmful effects such as arsenic poisoning, a new study out of the university of california, berkeley, and the pontifical catholic university of chile has found that it might somehow assist in the fight against breast cancer. The results of the study may appear somewhat contradictory to the research that already exists about arsenic's health hazards. Arsenic is a naturally occurring chemical element that is often found in various minerals, alongside sulfur and metals. When it's found in drinking water, however, it can lead to arsenic poisoning, and even increase people's risk of cancer. The authors of the berkeley study examined breast cancer mortality data from a region in chile that is notorious for having high levels of arsenic in the drinking water and environment. Scientists normally see an increase in cancer and toxicity in such regions, but this study shows opposite results. Breast cancer deaths were actually cut in half in this chilean region during a period of time that coincided with high arsenic exposure. Women under the age of 60 had the most pronounced results; breast cancer mortality was cut by 70 percent. \"what we found was astonishing, \" said dr. Allan smith, lead author of the study and a professor of epidemiology at berkeley, in a press release. \"we've been studying the long-term effects of arsenic in this population for many years, focusing on increased disease and mortality attributed to the historical exposure to arsenic in this population. \" once an arsenic removal plant was placed in the city of antofagasta, chile, the researchers found that breast cancer deaths began to rise again. While exposure to arsenic has been linked to the growth of malignant cells for various other types of cancer such as lung cancer, breast cancer cells were shown to be destroyed by arsenic. Stanford cancer institute researchers assisted in the study by growing breast cancer cells in the lab, and finding that arsenic in fact killed them. Regular breast cells, meanwhile, appeared to be more resistant to arsenic than other types of cells. A double-edged sword interestingly enough, though arsenic exposure can be toxic, the element has been used medically for over 2,400 years to treat various conditions. The element has been referred to as a medicinal \"double-edged sword, \" due to its ability to work as a therapeutic agent as well as a poison. Arsenic trioxide has often been used to treat relapsed promyelocytic leukemia, for example. But it has also been found to"
         ],
         "raw_document": [
             "Though arsenic, which found in drinking water, has been linked to harmful effects such as arsenic poisoning, a new study out of the university of california, berkeley, and the pontifical catholic university of chile has found that it might somehow assist in the fight against breast cancer. The results of the study may appear somewhat contradictory to the research that already exists about arsenic's health hazards. Arsenic is a naturally occurring chemical element that is often found in various minerals, alongside sulfur and metals. When it's found in drinking water, however, it can lead to arsenic poisoning, and even increase people's risk of cancer. The authors of the berkeley study examined breast cancer mortality data from a region in chile that is notorious for having high levels of arsenic in the drinking water and environment. Scientists normally see an increase in cancer and toxicity in such regions, but this study shows opposite results. Breast cancer deaths were actually cut in half in this chilean region during a period of time that coincided with high arsenic exposure. Women under the age of 60 had the most pronounced results; breast cancer mortality was cut by 70 percent. \"what we found was astonishing, \" said dr. Allan smith, lead author of the study and a professor of epidemiology at berkeley, in a press release. \"we've been studying the long-term effects of arsenic in this population for many years, focusing on increased disease and mortality attributed to the historical exposure to arsenic in this population. \" once an arsenic removal plant was placed in the city of antofagasta, chile, the researchers found that breast cancer deaths began to rise again. While exposure to arsenic has been linked to the growth of malignant cells for various other types of cancer such as lung cancer, breast cancer cells were shown to be destroyed by arsenic. Stanford cancer institute researchers assisted in the study by growing breast cancer cells in the lab, and finding that arsenic in fact killed them. Regular breast cells, meanwhile, appeared to be more resistant to arsenic than other types of cells. A double-edged sword interestingly enough, though arsenic exposure can be toxic, the element has been used medically for over 2,400 years to treat various conditions. The element has been referred to as a medicinal \"double-edged sword, \" due to its ability to work as a therapeutic agent as well as a poison. Arsenic trioxide has often been used to treat relapsed promyelocytic leukemia, for example. But it has also been found to",
@@ -1338,7 +1325,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1413,7 +1400,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1570,17 +1557,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 42959,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Katt williams won't be going to prison for his role in a 2014 camera theft that landed suge knight back behind bars. The comedian, who'd been facing up to seven years in prison for taking a paparazzo's camera near a beverly hills studio, will serve three years ' probation and was also ordered to attend anger management classes for a year after pleading no contest to a robbery charge monday, the los angeles times reports. Williams ' lawyer said he only took the camera to delete photos of knight's son, who'd been visiting the studio, the ap reports. Knight is still awaiting trial for the robbery and in a separate murder case.",
         "split": "train",
         "cleansed_document": [
-            "File - in this april 11, 2013 file photo, katt williams, a cast member in \" scary movie v, \" poses at the los angeles premiere of the film at the cinerama dome in los angeles. On monday, april 17, 2017,... ( associated press ) los angeles ( ap ) — comedian katt williams was sentenced to three years of probation after pleading no contest to stealing a celebrity photographer's camera. Los angeles prosecutors said monday that williams will also need to attend anger management classes. In september 2014, a celebrity photographer accused williams and former rap music mogul marion \" suge \" knight of stealing her camera. The photographer said she suffered a concussion after an associate of the men attacked her. Williams ' attorney has said in court the comedian briefly took the camera from an associate only to erase any images of knight's son, who was with his father visiting a beverly hills studio. His attorney didn't immediately comment monday. Charges against knight are still pending. He's also charged in a separate murder case and has pleaded not guilty to all charges.",
-            "The robbery was part of a series of criminal charges levied against williams in recent years. He was also charged with misdemeanor battery after getting into a fight with a woman at a studio city hotel last july, and he was accused of disorderly conduct in georgia months earlier after getting into an altercation with a teenager."
+            "File - in this april 11, 2013 file photo, katt williams, a cast member in \" scary movie v, \" poses at the los angeles premiere of the film at the cinerama dome in los angeles. On monday, april 17, 2017,... ( associated press ) los angeles ( ap ) — comedian katt williams was sentenced to three years of probation after pleading no contest to stealing a celebrity photographer's camera. Los angeles prosecutors said monday that williams will also need to attend anger management classes. In september 2014, a celebrity photographer accused williams and former rap music mogul marion \" suge \" knight of stealing her camera. The photographer said she suffered a concussion after an associate of the men attacked her. Williams ' attorney has said in court the comedian briefly took the camera from an associate only to erase any images of knight's son, who was with his father visiting a beverly hills studio. His attorney didn't immediately comment monday. Charges against knight are still pending. He's also charged in a separate murder case and has pleaded not guilty to all charges."
         ],
         "raw_document": [
             "File - in this april 11, 2013 file photo, katt williams, a cast member in \" scary movie v, \" poses at the los angeles premiere of the film at the cinerama dome in los angeles. On monday, april 17, 2017,... ( associated press ) los angeles ( ap ) — comedian katt williams was sentenced to three years of probation after pleading no contest to stealing a celebrity photographer's camera. Los angeles prosecutors said monday that williams will also need to attend anger management classes. In september 2014, a celebrity photographer accused williams and former rap music mogul marion \" suge \" knight of stealing her camera. The photographer said she suffered a concussion after an associate of the men attacked her. Williams ' attorney has said in court the comedian briefly took the camera from an associate only to erase any images of knight's son, who was with his father visiting a beverly hills studio. His attorney didn't immediately comment monday. Charges against knight are still pending. He's also charged in a separate murder case and has pleaded not guilty to all charges.",
@@ -1595,7 +1581,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1675,7 +1661,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1862,7 +1848,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1967,7 +1953,7 @@
         "vote_count": {
             "0": 2,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2149,7 +2135,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2174,7 +2160,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2199,7 +2185,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2234,14 +2220,13 @@
     },
     {
         "idx": 42984,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "It's easy to look around the west and see startling signs of the region's drought. Trickier, but perhaps just as startling, is to hear signs of that same drought. Researcher bernie krause has made it possible thanks to decades of recordings at california's sugarloaf ridge state park, reports outside online. He goes there every spring to the same spot with equipment he's used as a leader in the field of \" soundscape ecology, \" or \" ecoacoustics, \" which the boston globe describes as a blend of art and science. Over the years, a creek that runs through the park has dried up, and the sounds of wildlife — or \" biophony \" — have dried up along with it. By krause's measurements, the biophony is down fivefold since 2004. He is now working with a researcher at the university of urbino in italy to translate his recordings into hard data for scientists. \"it's a true narrative, a story telling us that something is desperately wrong, \" krause tells outside. Krause himself says he didn't realize the extent of the decline until playing recordings from previous years side by side with more modern ones. At the san francisco chronicle, mark morford finds krause's work \" chilling, \" summing up thusly: \" what once was a rich, varied symphony of sound has become a far more subdued chamber orchestra, with large spaces of eerie silence where there was once a vast natural racket, signifying everything. \" the 77-year-old krause tells the globe that he's not \" terribly optimistic \" about change, but \"i am hopeful that we ' ll begin to hear the message these critters are putting out in time to do something about saving them. \" ( scientists now say california's snowpack is at a 500-year low. )",
         "split": "train",
         "cleansed_document": [
             "Published on jul 29, 2015 bernie krause has been recording the sounds of sugarloaf park for many years. Here is a comparison of sounds from 2004 through 2014 showing the drastic effects of the drought on our local ecology.",
             "Bernie krause has noticed a decline in the sounds of water in sugarloaf ridge state park. Photo: eugene kim/flickr morning comes bright and dry to the mayacamas mountains on the eastern edge of sonoma county, near the heart of northern california wine country. Bernie krause, a 77-year-old pioneer in the field of soundscape ecology, has been up for hours, sitting at his favorite spot in sugarloaf ridge state park, his ears tuned to the awakening day. What he's hearing is absence, the quiet of loss. Krause is nestled in a valley, surrounded by scrub vegetation, oak trees, and alders. One hundred paces to his right, a tripod mounted with microphones stands in a shrinking patch of shade cast by thirsty oaks and alders. Fifty paces to his left, the five-foot-wide bed of",
-            "There are lots of ways to monitor natural environments. You can count animals, track temperature, measure ice thickness, use time-lapse photography. A surprisingly powerful and direct method is to listen — to record the sounds of a habitat and observe how they change over time. The work of taking and analyzing these recordings occurs in an area of study known as ecoacoustics. It's a unique kind of discipline, with elements of both art and science, and it's this combination that drew bernie krause to the work nearly 50 years ago. In the late 1960s, he was a professional musician working on an album called \"in a wild sanctuary \" that combined natural soundscapes with instrumentation. In the process of recording those soundscapes, krause realized he was in the wrong line of work. Advertisement \"they",
-            "Window._taboola = window._taboola &#124; &#124; [ ]; _taboola.push( { mode:'thumbnails-c ', container:'taboola-interstitial-gallery-thumbnails-5 ', placement: ' interstitial gallery thumbnails 5 ', target_type: ' mix ' } ); window._taboola = window._taboola &#124; &#124; [ ]; _taboola.push( { mode:'thumbnails-c ', container:'taboola-interstitial-gallery-thumbnails-10 ', placement: ' interstitial gallery thumbnails 10 ', target_type: ' mix ' } ); window._taboola = window._taboola &#124; &#124; [ ]; _taboola.push( { mode:'thumbnails-c ', container:'taboola-interstitial-gallery-thumbnails-11 ', placement: ' interstitial gallery thumbnails 11 ', target_type: ' mix ' } ); image 1 of / 12 caption close image 2 of 12 researchers say \" the [ destructive ] changes in bird habitats and behavior between now and 2070 will equal the evolutionary and adaptive shifts"
+            "There are lots of ways to monitor natural environments. You can count animals, track temperature, measure ice thickness, use time-lapse photography. A surprisingly powerful and direct method is to listen — to record the sounds of a habitat and observe how they change over time. The work of taking and analyzing these recordings occurs in an area of study known as ecoacoustics. It's a unique kind of discipline, with elements of both art and science, and it's this combination that drew bernie krause to the work nearly 50 years ago. In the late 1960s, he was a professional musician working on an album called \"in a wild sanctuary \" that combined natural soundscapes with instrumentation. In the process of recording those soundscapes, krause realized he was in the wrong line of work. Advertisement \"they"
         ],
         "raw_document": [
             "Published on jul 29, 2015 bernie krause has been recording the sounds of sugarloaf park for many years. Here is a comparison of sounds from 2004 through 2014 showing the drastic effects of the drought on our local ecology.",
@@ -2260,7 +2245,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2285,7 +2270,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2341,18 +2326,17 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
         "idx": 42988,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Fox news has fired a contributor for making some deeply unpleasant remarks about christine blasey ford and other women during thursday's senate judiciary committee hearing. In one tweet, kevin jackson described ford and two other women who accuse brett kavanaugh of sexual misconduct as \" lying skanks, \" variety reports. In another, now-deleted tweet, he said ford was suffering \" academic problems \" caused by \" promiscuity. \" \" dang girl, stop opening your legs and open a book! \" he said of ford, who has several degrees and is a professor of psychology at palo alto university. Jackson, who has been a fox contributor for years and is also a host on kjradio, went on to accuse democrats of declaring a \" war on men \" and claim that leftist women \" are skanky for the most part. \" fox announced his firing late thursday, nbc reports. \" kevin jackson has been terminated as a contributor, \" the network said in a statement. \" his comments on today's hearings were reprehensible and do not reflect the values of fox news. \" ( last year, jackson suggested that the fbi was plotting to kill president trump. )",
         "split": "train",
         "cleansed_document": [
             "Kevin jackson has been terminated as a fox news contributor following a series of tweets in which he referred to supreme court justice nominee brett kavanaugh's accusers as \"lying skanks \" as the kavanaugh hearing played out thursday. \"kevin jackson has been terminated as a contributor. His comments on today's hearings were reprehensible and do not reflect the values of fox news, \" said a fox news spokesperson. Jackson has been a contributor on fox for several years, as well as a radio host on kjradio and the author of the best-selling book \"race pimping: the multi-trillion dollar business of liberalism. \" \"feminists are their own worst enemies, and enemy of women, \" jackson wrote on twitter thursday morning. \"to hell with the notion that women must be believed no matter what. Lying skanks is what these 2 women are, and we all know more, \" he wrote. I disagree. Feminists are their own worst enemies, and enemy of women. Also, they want men to never be believed. I ' m not succumbing. To hell with the notion that women must be believed no matter what. Lying skanks is what these 3 women",
-            "Kevin jackson ಮರುಟ್ವೀಟಿಸಿದ್ದಾರೆ i disagree. Feminists are their own worst enemies, and enemy of women. Also, they want men to never be believed. I ' m not succumbing. To hell with the notion that women must be believed no matter what. Lying skanks is what these 3 women are, and we all know more # teamkj https://twitter.com/mlwelch31/status/1045319212342882311 …",
-            "Fred santarpia, condé nast's chief digital officer, is leaving the company, the executive said in a post on instagram. \" from launching conde nast entertainment's digital video business to leading the acquisitions of pitchfork and citizen net, i ' m proud of the lasting contributions we've made to one of the most iconic companies in all of media, \" santarpia wrote on tuesday. \" unfortunately, there's never a good time to say goodbye, but with the company's digital foundation set, this is the right time for me to say farewell. \" santarpia, who had been with the company for seven years, is the latest executive from the luxury magazine house to depart in recent months after a round of reviews by outside consultants focused on cost cutting and re-organizing the company. Other executives who have departed in recent months include dawn ostroff, the president of entertainment at condé nast, who joined spotify as chief content officer. Her departure was announced in june. Phillip bacardi, the much-vaunted chief content officer of teen vogue left in august to join out magazine as editor-in-chief. Josh stinchcomb, the former chief"
+            "Kevin jackson ಮರುಟ್ವೀಟಿಸಿದ್ದಾರೆ i disagree. Feminists are their own worst enemies, and enemy of women. Also, they want men to never be believed. I ' m not succumbing. To hell with the notion that women must be believed no matter what. Lying skanks is what these 3 women are, and we all know more # teamkj https://twitter.com/mlwelch31/status/1045319212342882311 …"
         ],
         "raw_document": [
             "Kevin jackson has been terminated as a fox news contributor following a series of tweets in which he referred to supreme court justice nominee brett kavanaugh's accusers as \"lying skanks \" as the kavanaugh hearing played out thursday. \"kevin jackson has been terminated as a contributor. His comments on today's hearings were reprehensible and do not reflect the values of fox news, \" said a fox news spokesperson. Jackson has been a contributor on fox for several years, as well as a radio host on kjradio and the author of the best-selling book \"race pimping: the multi-trillion dollar business of liberalism. \" \"feminists are their own worst enemies, and enemy of women, \" jackson wrote on twitter thursday morning. \"to hell with the notion that women must be believed no matter what. Lying skanks is what these 2 women are, and we all know more, \" he wrote. I disagree. Feminists are their own worst enemies, and enemy of women. Also, they want men to never be believed. I ' m not succumbing. To hell with the notion that women must be believed no matter what. Lying skanks is what these 3 women",
@@ -2369,7 +2353,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2577,7 +2561,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2655,7 +2639,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     }
 ]

@@ -100,7 +100,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -155,13 +155,12 @@
     },
     {
         "idx": 53806,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Human smuggling is suspected in an early morning crash outside houston that left six people dead, seven injured, and two arrested, ktrk reports. The incident started when police tried to pull over an suv for a traffic violation, according to the houston chronicle. The driver allegedly sped off, leading police on a nearly 10-minute freeway chase before losing control of the suv. The vehicle flipped multiple times, ejecting four people, all of whom died at the scene, the chronicle reports. Two others later died at the hospital. Officers reportedly arrested two suspects who fled from the scene; the extent of their injuries is unknown. According to ktrk, the suv's middle seats had been removed and the rear seats folded down in an apparent attempt to fit more people inside. Police say 15 people believed to be immigrants were crowded into the vehicle, reports the new york times. The youngest, age 18, didn't survive. Police say most are from honduras or guatemala.",
         "split": "test",
         "cleansed_document": [
             "Six people are dead and two people were arrested after a police chase thursday morning in edna, a town northwest of victoria. Human smuggling is suspected in this case.the crash happened on highway 59 after police say they tried to stop a ford explorer for a traffic violation. The driver wouldn't stop, so police gave chase.police say the vehicle fled north on highway 59 feeder, but then turned around at the dead end of the feeder road and headed back into edna. The vehicle turned onto highway 59 northbound at county road 300. Officers say they believe the driver thought to take the loop 521 exit, then at the last minute decided to continue on highway 59 north.police say just after 1: 30am, the driver appeared to over-correct, rolling or flipping the vehicle several times, ejecting four people inside. Three people were flown by life flight to area hospitals, and six",
-            "6 die, 7 hurt in crash during police chase in edna six people died and seven others were injured early thursday morning in a traffic crash during a police chase in edna. The wreck happened about 1: 30 a.m. On northbound u.s. 59 near loop 521, according to clinton wooldridge, chief of the edna police department. In a statement released to the media, wooldridge said the incident began when police tried to stop a 2003 ford explorer for a traffic violation on u.s. 59. The driver refused to stop and sped away, traveling north on the freeway service road. Police followed the explorer, which was registered in corpus christi. Wooldridge said the explorer driver turned around and headed southbound on the freeway. The chase, lasting nearly 10 minutes, came to an abrupt end on u.s. 59 when the driver lost control of the suv, ran off the road, and flipped",
-            "Austin, tex. — traffic stops of vehicles carrying immigrants are fairly common on a stretch of texas highway that begins in laredo and runs northeast to houston and beyond. Often, the police say, the immigrants, many of whom have crossed the border illegally, try to make a run for it when the vehicle is stopped. Early thursday, what started as a traffic stop by the local police ended with six people dead, texas officials said, when the driver of a sport utility vehicle overloaded with immigrants sped away from officers and lost control, flipping over several times and ejecting several occupants. The accident along highway 59, about 90 miles southwest of houston, near edna, tex., also injured 10, said the police chief of edna, clinton wooldridge. At least three remained in a nearby hospital. Federal immigration officials conducting a criminal investigation into the crash determined"
+            "6 die, 7 hurt in crash during police chase in edna six people died and seven others were injured early thursday morning in a traffic crash during a police chase in edna. The wreck happened about 1: 30 a.m. On northbound u.s. 59 near loop 521, according to clinton wooldridge, chief of the edna police department. In a statement released to the media, wooldridge said the incident began when police tried to stop a 2003 ford explorer for a traffic violation on u.s. 59. The driver refused to stop and sped away, traveling north on the freeway service road. Police followed the explorer, which was registered in corpus christi. Wooldridge said the explorer driver turned around and headed southbound on the freeway. The chase, lasting nearly 10 minutes, came to an abrupt end on u.s. 59 when the driver lost control of the suv, ran off the road, and flipped"
         ],
         "raw_document": [
             "Six people are dead and two people were arrested after a police chase thursday morning in edna, a town northwest of victoria. Human smuggling is suspected in this case.the crash happened on highway 59 after police say they tried to stop a ford explorer for a traffic violation. The driver wouldn't stop, so police gave chase.police say the vehicle fled north on highway 59 feeder, but then turned around at the dead end of the feeder road and headed back into edna. The vehicle turned onto highway 59 northbound at county road 300. Officers say they believe the driver thought to take the loop 521 exit, then at the last minute decided to continue on highway 59 north.police say just after 1: 30am, the driver appeared to over-correct, rolling or flipping the vehicle several times, ejecting four people inside. Three people were flown by life flight to area hospitals, and six",
@@ -178,7 +177,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -230,7 +229,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -285,13 +284,12 @@
     },
     {
         "idx": 53811,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Impressed when an fbi forensic expert testifies in court? jurors likely are too, but the fbi's hair-comparison unit actually gave unscientific testimony against criminal defendants for more than 20 years before 2000, according to the fbi and the justice dept. Among the fbi's 28 microscopic hair experts, 26 \" overstated forensic matches \" to favor the prosecution in nearly all of the 268 cases reviewed so far, the washington post reports. \" the fbi's three-decade use of microscopic hair analysis to incriminate defendants was a complete disaster, \" says peter neufeld, who helped found the innocence project. The reviewed cases include 32 defendants given the death sentence, 14 of whom have already died in prison or were executed; about 2,500 cases involving hair matches are being looked at in all. Of course, other evidence may have sufficed to convict defendants found guilty. But the fbi, acknowledging the problem, has agreed to work with the national association of criminal defense lawyers ( nacdl ) and the innocence project in reviewing cases between 1972 and 1999. Now 46 states and the district of columbia are receiving information that could lead to appeals, if defense lawyers, prosecutors, or judges are willing or able. Truth is, there's no scientific standard for matching hair, the post says. Worse, the forensic-hair scandal is only part of an ongoing review of all criminal forensics, which the post has reported on here, here, and here. \" the forensic science system... Has serious problems that can only be addressed by a national commitment to overhaul the current structure, \" a science panel concluded back in 2009.",
         "split": "test",
         "cleansed_document": [
             "The justice department and the fbi have launched a review of thousands of criminal cases to determine whether any defendants were wrongly convicted or deserve a new trial because of flawed forensic evidence, officials said tuesday. The undertaking is the largest post-conviction review ever done by the fbi. It will include cases conducted by all fbi laboratory hair and fiber examiners since at least 1985 and may reach earlier if records are available, people familiar with the process said. Such fbi examinations have taken place in federal and local cases across the country, often in violent crimes, such as rape, murder and robbery. The review comes after the washington post reported in april that justice department officials had known for years that flawed forensic work might have led to the convictions of potentially innocent people but had not performed a thorough review of the cases. In addition, prosecutors did not notify defendants or their attorneys",
-            "The justice department and fbi have formally acknowledged that nearly every examiner in an elite fbi forensic unit gave flawed testimony in almost all trials in which they offered evidence against criminal defendants over more than a two-decade period before 2000. Of 28 examiners with the fbi laboratory's microscopic hair comparison unit, 26 overstated forensic matches in ways that favored prosecutors in more than 95 percent of the 268 trials reviewed so far, according to the national association of criminal defense lawyers ( nacdl ) and the innocence project, which are assisting the government with the country's largest post-conviction review of questioned forensic evidence. The cases include those of 32 defendants sentenced to death. Of those, 14 have been executed or died in prison, the groups said under an agreement with the government to release results after the review of the first 200 convictions. The fbi errors alone do not mean there was not",
-            "Cleveland wright has asked a d.c. Court judge to clear his name after new dna test results in 2012 exonerated his co-defendant in two similar 1978 murders. ( alexandra garcia/the washington post ) cleveland wright has asked a d.c. Court judge to clear his name after new dna test results in 2012 exonerated his co-defendant in two similar 1978 murders. ( alexandra garcia/the washington post ) nearly every criminal case reviewed by the fbi and the justice department as part of a massive investigation started in 2012 of problems at the fbi lab has included flawed forensic testimony from the agency, government officials said. The findings troubled the bureau, and it stopped the review of convictions last august. Case reviews resumed this month at the order of the justice department, the officials said. U.s. Officials began the inquiry after the washington post reported two years ago that flawed forensic evidence involving microscopic hair matches might have led to"
+            "The justice department and fbi have formally acknowledged that nearly every examiner in an elite fbi forensic unit gave flawed testimony in almost all trials in which they offered evidence against criminal defendants over more than a two-decade period before 2000. Of 28 examiners with the fbi laboratory's microscopic hair comparison unit, 26 overstated forensic matches in ways that favored prosecutors in more than 95 percent of the 268 trials reviewed so far, according to the national association of criminal defense lawyers ( nacdl ) and the innocence project, which are assisting the government with the country's largest post-conviction review of questioned forensic evidence. The cases include those of 32 defendants sentenced to death. Of those, 14 have been executed or died in prison, the groups said under an agreement with the government to release results after the review of the first 200 convictions. The fbi errors alone do not mean there was not"
         ],
         "raw_document": [
             "The justice department and the fbi have launched a review of thousands of criminal cases to determine whether any defendants were wrongly convicted or deserve a new trial because of flawed forensic evidence, officials said tuesday. The undertaking is the largest post-conviction review ever done by the fbi. It will include cases conducted by all fbi laboratory hair and fiber examiners since at least 1985 and may reach earlier if records are available, people familiar with the process said. Such fbi examinations have taken place in federal and local cases across the country, often in violent crimes, such as rape, murder and robbery. The review comes after the washington post reported in april that justice department officials had known for years that flawed forensic work might have led to the convictions of potentially innocent people but had not performed a thorough review of the cases. In addition, prosecutors did not notify defendants or their attorneys",
@@ -308,7 +306,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -358,17 +356,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 53814,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Joy milne noticed a small difference in her husband just before he turned 40. \" his smell changed, \" the scottish woman tells the bbc. \" it wasn't all of a sudden. It was very subtle — a musky smell. \" he was diagnosed with parkinson's disease six years later and died in june at age 65. Milne found herself supporting the parkinson's uk charity, where she noticed others had the same distinct smell. She happened to mention her observation to scientists at a talk, and they later put her to the test, presenting her with t-shirts worn by six people with parkinson's and six without. \" she got the six parkinson's, but then she was adamant one of the ' control'subjects had parkinson's, \" says a scientist. Researchers were impressed and dubbed her a \" super-smeller, \" per afp. Then eight months later, that one control subject returned to tell scientists he had just been diagnosed with parkinson's. Because of milne's sniffer, scientists now theorize that changes in the sebum — an oily substance produced by the skin — may occur in people with early parkinson's. Now parkinson's uk is funding a study that will see swabs taken from 200 people with and without parkinson's and studied by a team of smell experts, including milne. The swabs will also be studied chemically. A proven link between an odor and the disease could make for an easy and clear way to identify a disease that is \" incredibly difficult... To diagnose, \" as the scotland director of parkinson's uk puts it. \" it would be absolutely incredible and life-changing. \" currently, doctors diagnose the disease largely as they have for the last two centuries: by observing a patient and his or her symptoms. ( the human nose really is amazing. )",
         "split": "test",
         "cleansed_document": [
-            "Media playback is unsupported on your device media caption joy milne was tested by researchers to see if she could detect people with parkinson's through a tell-tale odour meet the woman from perth whose super sense of smell could change the way parkinson's disease is diagnosed. Joy milne's husband, les, died in june, aged 65. He worked as a consultant anaesthetist before being diagnosed with parkinson's at the age of 45. Image caption joy first detected the odour on her husband les, who was diagnosed with parkinson's at the age of 45 one in 500 people in the uk has parkinson's - that is 127,000 across britain. It can leave people struggling to walk, speak and sleep. There is no cure and no definitive diagnostic test. Joy noticed something had changed with her husband long before he was diagnosed - six years before. She says: \" his smell changed and it seemed difficult to describe. It wasn't all of a sudden. It was very subtle - a musky smell. \" i got an occasional smell. \" joy only linked this odour to parkinson's after joining the charity parkinson's uk and meeting people with the same distinct odour. By complete chance she mentioned this to scientists at a talk. They were intrigued. Edinburgh university decided",
-            "A ribbons molecular model of botulinum toxin, commonly known as botox. This protein produced by the botulism bacteria is highly neurotoxic. Yet it's commonly used in cosmetic surgery. In madagascar, about 500 people every year contract the plague. The widow of a man who suffered with parkinson's has triggered new research this week into the condition after she discovered she could \"smell \" the disease. Joy milne, 65, told researchers that she had noticed a change in the odor of her late husband, les, years before he developed symptoms of parkinson's. He passed away from the disease, a nervous system disorder whose symptoms include shaking and slowness of movement, earlier this year at the age of 65. 12 diseases that just won't quit play video is a killer virus out there? virus hunter dr. Ian lipkin explains how they track down dangerous bugs. Istockphoto \"i've always had a keen sense of smell and i detected very early on that there was a very subtle change in how les smelled, \" milne, from perth, scotland, said on thursday. \"it's hard to describe but it was a heavy, slightly musky aroma. I had no idea that this was unusual and hadn't been recognized before. \" about one in 500 people suffers from parkinson's"
+            "Media playback is unsupported on your device media caption joy milne was tested by researchers to see if she could detect people with parkinson's through a tell-tale odour meet the woman from perth whose super sense of smell could change the way parkinson's disease is diagnosed. Joy milne's husband, les, died in june, aged 65. He worked as a consultant anaesthetist before being diagnosed with parkinson's at the age of 45. Image caption joy first detected the odour on her husband les, who was diagnosed with parkinson's at the age of 45 one in 500 people in the uk has parkinson's - that is 127,000 across britain. It can leave people struggling to walk, speak and sleep. There is no cure and no definitive diagnostic test. Joy noticed something had changed with her husband long before he was diagnosed - six years before. She says: \" his smell changed and it seemed difficult to describe. It wasn't all of a sudden. It was very subtle - a musky smell. \" i got an occasional smell. \" joy only linked this odour to parkinson's after joining the charity parkinson's uk and meeting people with the same distinct odour. By complete chance she mentioned this to scientists at a talk. They were intrigued. Edinburgh university decided"
         ],
         "raw_document": [
             "Media playback is unsupported on your device media caption joy milne was tested by researchers to see if she could detect people with parkinson's through a tell-tale odour meet the woman from perth whose super sense of smell could change the way parkinson's disease is diagnosed. Joy milne's husband, les, died in june, aged 65. He worked as a consultant anaesthetist before being diagnosed with parkinson's at the age of 45. Image caption joy first detected the odour on her husband les, who was diagnosed with parkinson's at the age of 45 one in 500 people in the uk has parkinson's - that is 127,000 across britain. It can leave people struggling to walk, speak and sleep. There is no cure and no definitive diagnostic test. Joy noticed something had changed with her husband long before he was diagnosed - six years before. She says: \" his smell changed and it seemed difficult to describe. It wasn't all of a sudden. It was very subtle - a musky smell. \" i got an occasional smell. \" joy only linked this odour to parkinson's after joining the charity parkinson's uk and meeting people with the same distinct odour. By complete chance she mentioned this to scientists at a talk. They were intrigued. Edinburgh university decided",
@@ -383,7 +380,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -464,7 +461,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -489,7 +486,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -519,12 +516,11 @@
     },
     {
         "idx": 53820,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A faith ministry in nebraska has started a fundraising campaign to buy out four stores that sell millions of cans of beer each year in a tiny village next to a south dakota indian reservation plagued by alcoholism. The lakota hope street ministry in whiteclay, neb., is looking to raise at least $ 6.3 million to close the stores, which are only about 200 yards from the pine ridge indian reservation. The officially dry reservation is plagued by high rates of fetal alcohol syndrome and encompasses some of the nation's poorest counties. Whiteclay only has about a dozen residents, yet the four stores sold 3.5 million cans of beer in 2015. The beer stores have remained opened for decades despite state investigations into alleged liquor law violations, lawsuits, and protests that occasionally turned violent, reports the ap. Ministry founder bruce bonfleur and his wife have lived in whiteclay for nearly two decades, feeding people on the streets and launching programs designed to help members of the oglala sioux tribe. Bonfleur said he has talked with the businesses, and \" we believe that the beer store owners are ready to sell out. \" the stores have been facing increasing legal and political pressure, and the nebraska liquor control commission is set to meet march 7 to discuss the stores ' liquor licenses amid complaints that the village lacks adequate law enforcement. Last month, the local county board with jurisdiction over whiteclay recommended that the state renew the licenses, partially amid concerns that closing the stores would lead to an increase of intoxicated drivers in nebraska.",
         "split": "test",
         "cleansed_document": [
-            "In this oct. 20, 2016, photo, a highway sign greets motorists heading into the small town of whiteclay, neb. The lakota hope faith ministry in whiteclay has started a fundraising campaign to buy out the... ( associated press ) in this oct. 20, 2016, photo, a highway sign greets motorists heading into the small town of whiteclay, neb. The lakota hope faith ministry in whiteclay has started a fundraising campaign to buy out the four beer stores that sell millions of cans annually in the tiny village next to the pine ridge indian... ( associated press ) lincoln, neb. ( ap ) — a faith ministry in nebraska has started a fundraising campaign to buy out four stores that sell millions of cans of beer each year in a tiny village next to a south dakota indian reservation plagued by alcoholism. The lakota hope street ministry in whiteclay is looking to raise at least $ 6.3 million to close the stores, which are only about 200 yards from the pine ridge indian reservation. The officially dry reservation is plagued by high rates of fetal alcohol syndrome and encompasses some of the nation's poorest counties. Whiteclay only has about a dozen residents, yet the four stores sold 3.5 million cans of beer in 2015. The beer stores have remained opened for decades despite state investigations into alleged liquor law violations, lawsuits and protests that occasionally turned violent. Ministry founder bruce bonfleur and his wife have lived in whiteclay for nearly two decades, feeding people on the streets and launching programs designed to help members of the oglala sioux tribe. Bonfleur said he has talked with the businesses, and \" we believe that the beer store owners are ready to sell out. \" the stores have been facing increasing legal and political pressure, and state liquor regulators are meeting next month to discuss the stores ' licenses. Still, some activists have their doubts. Olowan martinez, an oglala lakota activist who has led protests against whiteclay, said she would be thrilled but shocked if the buyout worked as intended. Martinez said she would support replacing the stores with a roller skating rink, movie theater or a park to help entertain young people. The idea rang hollow to frank lamere, a native american activist who has fought for 18 years to close the stores. Lamere said the beer store owners shouldn't be rewarded with a payout and wants the state",
-            "The solution contrasted against the old liquor store buildings, the makerspace will provide a safe place to work, access to art supplies, and state of the art equipment. The space will also provide an online store where our local artists can establish a more reliable income and teaching/mentoring opportunities."
+            "In this oct. 20, 2016, photo, a highway sign greets motorists heading into the small town of whiteclay, neb. The lakota hope faith ministry in whiteclay has started a fundraising campaign to buy out the... ( associated press ) in this oct. 20, 2016, photo, a highway sign greets motorists heading into the small town of whiteclay, neb. The lakota hope faith ministry in whiteclay has started a fundraising campaign to buy out the four beer stores that sell millions of cans annually in the tiny village next to the pine ridge indian... ( associated press ) lincoln, neb. ( ap ) — a faith ministry in nebraska has started a fundraising campaign to buy out four stores that sell millions of cans of beer each year in a tiny village next to a south dakota indian reservation plagued by alcoholism. The lakota hope street ministry in whiteclay is looking to raise at least $ 6.3 million to close the stores, which are only about 200 yards from the pine ridge indian reservation. The officially dry reservation is plagued by high rates of fetal alcohol syndrome and encompasses some of the nation's poorest counties. Whiteclay only has about a dozen residents, yet the four stores sold 3.5 million cans of beer in 2015. The beer stores have remained opened for decades despite state investigations into alleged liquor law violations, lawsuits and protests that occasionally turned violent. Ministry founder bruce bonfleur and his wife have lived in whiteclay for nearly two decades, feeding people on the streets and launching programs designed to help members of the oglala sioux tribe. Bonfleur said he has talked with the businesses, and \" we believe that the beer store owners are ready to sell out. \" the stores have been facing increasing legal and political pressure, and state liquor regulators are meeting next month to discuss the stores ' licenses. Still, some activists have their doubts. Olowan martinez, an oglala lakota activist who has led protests against whiteclay, said she would be thrilled but shocked if the buyout worked as intended. Martinez said she would support replacing the stores with a roller skating rink, movie theater or a park to help entertain young people. The idea rang hollow to frank lamere, a native american activist who has fought for 18 years to close the stores. Lamere said the beer store owners shouldn't be rewarded with a payout and wants the state"
         ],
         "raw_document": [
             "In this oct. 20, 2016, photo, a highway sign greets motorists heading into the small town of whiteclay, neb. The lakota hope faith ministry in whiteclay has started a fundraising campaign to buy out the... ( associated press ) in this oct. 20, 2016, photo, a highway sign greets motorists heading into the small town of whiteclay, neb. The lakota hope faith ministry in whiteclay has started a fundraising campaign to buy out the four beer stores that sell millions of cans annually in the tiny village next to the pine ridge indian... ( associated press ) lincoln, neb. ( ap ) — a faith ministry in nebraska has started a fundraising campaign to buy out four stores that sell millions of cans of beer each year in a tiny village next to a south dakota indian reservation plagued by alcoholism. The lakota hope street ministry in whiteclay is looking to raise at least $ 6.3 million to close the stores, which are only about 200 yards from the pine ridge indian reservation. The officially dry reservation is plagued by high rates of fetal alcohol syndrome and encompasses some of the nation's poorest counties. Whiteclay only has about a dozen residents, yet the four stores sold 3.5 million cans of beer in 2015. The beer stores have remained opened for decades despite state investigations into alleged liquor law violations, lawsuits and protests that occasionally turned violent. Ministry founder bruce bonfleur and his wife have lived in whiteclay for nearly two decades, feeding people on the streets and launching programs designed to help members of the oglala sioux tribe. Bonfleur said he has talked with the businesses, and \" we believe that the beer store owners are ready to sell out. \" the stores have been facing increasing legal and political pressure, and state liquor regulators are meeting next month to discuss the stores ' licenses. Still, some activists have their doubts. Olowan martinez, an oglala lakota activist who has led protests against whiteclay, said she would be thrilled but shocked if the buyout worked as intended. Martinez said she would support replacing the stores with a roller skating rink, movie theater or a park to help entertain young people. The idea rang hollow to frank lamere, a native american activist who has fought for 18 years to close the stores. Lamere said the beer store owners shouldn't be rewarded with a payout and wants the state",
@@ -539,7 +535,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -622,12 +618,11 @@
     },
     {
         "idx": 53824,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Catch those new photos of sinead o ' connor performing in ireland? ( see the video in the gallery at left for a sample. ) she is, gasp, no longer the slim, bald 20-something who captivated fans, and the internet has not been kind in pointing this out. Lay off, write mimi turner at the hollywood reporter and mary elizabeth williams at salon. O ' connor, now 44 and the mother of four, \" has always turned her back on the conventions of beauty that are apparently necessary for media acceptance, \" writes turner. \" the prickly distaste that she still manifests for a prototypical feminine style seems remarkably unchanged from the attitudes she held in her youth. \" o ' connor also has battled bipolar disorder for years, and the antidepressants she takes can cause weight gain. \" to be able to grow older is a gift, \" writes williams. \" to be on medication that can save your life is a blessing. A little thickening around the middle seems like a small price to pay. \" besides, o ' connor still has that amazing gift that made her a once-in-a-generation talent: \" tempered by life and experience, that clear, achingly lovely voice has only become more poignantly astonishing, \" writes williams.",
         "split": "test",
         "cleansed_document": [
-            "Sinéad o ' connor is accustomed to shocking people. The irish singer has been a natural-born attention getter since she first gained fame over 20 years ago, when she was as recognizable for her shorn head and fiercely outspoken opinions as she was for her haunting voice and arresting beauty. So when she turned up to perform at ireland's bray music festival over the weekend, it was inevitable that she'd create an uproar. The latest wild stunt from the woman who once defiantly ripped up a picture of the pope on \" saturday night live \"? getting older and gaining weight. The horror! sporting a short dark bob, eyeglasses, a belly-revealing mesh top and a more ample figure than fans remember from her \" nothing compares 2 u \" heyday, the 44-year-old dared to appear, as inquisitr helpfully noted, \" no longer bald or skinny. \" abc news asked, \" sinéad o ' connor, is that you? \" and ran the inevitable slide show of celebrity weight-loss ups and downs, while e! crowed that o ' connor went \" from looking like natalie portman in ' v for vendetta'to your dorky self in high school \" and did its own slide show of \" shocking transformations. \" it's not entirely surprising that the image of a bald, white-clad waif would be",
-            "London -- in 1990, sinead o ' connor's cover of a near-forgotten prince single, \"nothing compares 2u, \" burst onto the global musical consciousness like an exploding firework. Combining soaring vocals with the shock of a shaven head that served only to make her expressive eyes more poignant, o ' connor's performance was mesmerizing. Fame followed -- and later imploded -- amid a slew of unpopular religious and political opinions from the singer, including an attack on the roman catholic church for its cover-up of child sex abuse. Despite the fall from grace the singer remained entrancing, combining gamine fragility with an appetite for hard politics. Her tight crew cut, consciously anti-feminine doc marten boots, baggy sweaters and old men's overcoats remained her trademark look. And nothing she wore or didn't wear could disguise the sheer power of her vocal and lyrical talent. Earlier this week, more than two decades after her astonishing debut, pictures of a very different looking o ' connor surfaced online after a performance at the bray music festival on the west coast of ireland. Showing a frumpier, bespectacled o ' connor under a mop of black hair and in black garb that would have been nun-like, but for the exposure of a generous segment of plump belly, the singer's appearance has caused quite a stir"
+            "Sinéad o ' connor is accustomed to shocking people. The irish singer has been a natural-born attention getter since she first gained fame over 20 years ago, when she was as recognizable for her shorn head and fiercely outspoken opinions as she was for her haunting voice and arresting beauty. So when she turned up to perform at ireland's bray music festival over the weekend, it was inevitable that she'd create an uproar. The latest wild stunt from the woman who once defiantly ripped up a picture of the pope on \" saturday night live \"? getting older and gaining weight. The horror! sporting a short dark bob, eyeglasses, a belly-revealing mesh top and a more ample figure than fans remember from her \" nothing compares 2 u \" heyday, the 44-year-old dared to appear, as inquisitr helpfully noted, \" no longer bald or skinny. \" abc news asked, \" sinéad o ' connor, is that you? \" and ran the inevitable slide show of celebrity weight-loss ups and downs, while e! crowed that o ' connor went \" from looking like natalie portman in ' v for vendetta'to your dorky self in high school \" and did its own slide show of \" shocking transformations. \" it's not entirely surprising that the image of a bald, white-clad waif would be"
         ],
         "raw_document": [
             "Sinéad o ' connor is accustomed to shocking people. The irish singer has been a natural-born attention getter since she first gained fame over 20 years ago, when she was as recognizable for her shorn head and fiercely outspoken opinions as she was for her haunting voice and arresting beauty. So when she turned up to perform at ireland's bray music festival over the weekend, it was inevitable that she'd create an uproar. The latest wild stunt from the woman who once defiantly ripped up a picture of the pope on \" saturday night live \"? getting older and gaining weight. The horror! sporting a short dark bob, eyeglasses, a belly-revealing mesh top and a more ample figure than fans remember from her \" nothing compares 2 u \" heyday, the 44-year-old dared to appear, as inquisitr helpfully noted, \" no longer bald or skinny. \" abc news asked, \" sinéad o ' connor, is that you? \" and ran the inevitable slide show of celebrity weight-loss ups and downs, while e! crowed that o ' connor went \" from looking like natalie portman in ' v for vendetta'to your dorky self in high school \" and did its own slide show of \" shocking transformations. \" it's not entirely surprising that the image of a bald, white-clad waif would be",
@@ -642,7 +637,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -745,7 +740,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -802,13 +797,12 @@
     },
     {
         "idx": 53831,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "James carville offered an entertainingly disparaging take on the gop presidential race today, saying that nothing stood in mitt romney's way to getting the nomination — he may be a \"serial windsock, \" constantly changing his positions, but his opponents are inept. \"the best thing rick perry can do for himself and his family and his friends is get out of the race and go back to texas, \" carville told george stephanopoulos on good morning america. \"this man is evidently not up to this. \" as for herman cain, carville said, he \"says funny things \" but \"is not gonna be the republican nomination for president. \" politico was especially struck by carville's reaction to cain's bizarre smoking aide ad. \"if that guy wasn't drunk, i haven't taken a drink in my life! \" carville declared. \"he was drunk or stoned. You know, some kind of chemical, i guarantee you that. \" stephanopoulos just laughed — as mediaite notes, the two were cohorts during bill clinton's campaign and administration, so there's a whiff of liberal bias here.",
         "split": "test",
         "cleansed_document": [
             "Transcript for james carville: herman cain stands ' zero chance ' and with mitt romney this flip flopping charge is -- -- -- rick perry hitting him on abc the obama campaign. Getting -- -- -- is this the single biggest hurdle between him and the nomination. I don't... See more and with mitt romney this flip flopping charge is -- -- -- rick perry hitting him on abc the obama campaign. Getting -- -- -- is this the single biggest hurdle between him and the nomination. I don't even know if there's a hurdle left but yes demand as a stereo when -- i mean any damage your turn around -- it did get something out of it and watching he uses any kind adjective in front have that you know -- get credit for popped up. He it is very committed to that means that he's gonna tank positions",
-            "Democratic strategist james carville appeared on good morning america this morning to assess the current crop of front runners in the gop presidential field and was not shy in his both predictable and entertainingly harsh criticism of his ideological foes. Herman cain and mitt romney were both targeted, but it was texas governor rick perry, who has seen a rather enormous dip in recent polls, that received the most merciless review. In carville's purview, romney isn't so much a \"flip-flopper \" but more of a \"a serial wind sock \" adding \"every time you turn around, it's something else. \" on herman cain, carville declared that he \"is not going to be the republican nomination for president, \" before calling him a \"national distraction, \" which might be a welcome one in the middle of this \"horrific recession. \" but he saved the best/worst for perry, saying of the",
-            "James carville says the herman cain adviser who raised eyebrows this week by puffing on a cigarette in a campaign video was either \"drunk or stoned. \" \"if that guy wasn't drunk, i haven't taken a drink in my life! he was as high as he could be. He was drunk or stoned. You know, some kind of chemical, i guarantee you that, \" carville said, laughing about cain adviser mark block on abc thursday morning. Text size - + reset carville: aide'drunk or stoned ' politico 44 the video was \"funny, \" carville continued, just like cain's bid for the republican nomination, which carville made clear was not to be taken seriously. Herman cain \"is not going to be \" the republican nominee, carville said. \"what he is is a national distraction, maybe not a bad one, in the"
+            "Democratic strategist james carville appeared on good morning america this morning to assess the current crop of front runners in the gop presidential field and was not shy in his both predictable and entertainingly harsh criticism of his ideological foes. Herman cain and mitt romney were both targeted, but it was texas governor rick perry, who has seen a rather enormous dip in recent polls, that received the most merciless review. In carville's purview, romney isn't so much a \"flip-flopper \" but more of a \"a serial wind sock \" adding \"every time you turn around, it's something else. \" on herman cain, carville declared that he \"is not going to be the republican nomination for president, \" before calling him a \"national distraction, \" which might be a welcome one in the middle of this \"horrific recession. \" but he saved the best/worst for perry, saying of the"
         ],
         "raw_document": [
             "Transcript for james carville: herman cain stands ' zero chance ' and with mitt romney this flip flopping charge is -- -- -- rick perry hitting him on abc the obama campaign. Getting -- -- -- is this the single biggest hurdle between him and the nomination. I don't... See more and with mitt romney this flip flopping charge is -- -- -- rick perry hitting him on abc the obama campaign. Getting -- -- -- is this the single biggest hurdle between him and the nomination. I don't even know if there's a hurdle left but yes demand as a stereo when -- i mean any damage your turn around -- it did get something out of it and watching he uses any kind adjective in front have that you know -- get credit for popped up. He it is very committed to that means that he's gonna tank positions",
@@ -825,7 +819,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -964,7 +958,7 @@
             "0": 0,
             "1": 1,
             "2": 2,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1047,12 +1041,11 @@
     },
     {
         "idx": 53840,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "For anyone encouraged by north korea's slight softening toward the south, chun in-bum essentially dumps a bucket of cold water it. The retired south korean general, who the financial times reports led his country's special forces, spoke to a london-based think tank wednesday and outlined exactly what american forces would encounter should we decide to bloody the country's nose — or something more significant. He doesn't mince words: \" i try to explain to the americans — if we have to go into north korea,... It's not going to be like toppling [ saddam ) hussein ]. This would be more like trying to get rid of allah. \" he describes the country as \" one huge barracks \" and the population as militarized far beyond the [ west's ] imagination. \" a 14-year-old child in north korea probably gets more than 100 hours of military training a year, \" the times of london quotes chun as saying. \" by age 14, a child knows how to fire an ak47, fire an rpg, throw a grenade, pitch a tent and march 24 hours. \" and even things that may seem promising on their face — the north's estimated 1,000 fighter jets are aged — aren't, per chun, who says those planes would be used kamikaze-style, usa today reports. And there's not just the physical battlefield to contend with, per the brisbane times: \" north korean cyber capability is right below nuclear capability in terms of threat, \" says chun. He also describes an extreme system designed to root out any dissent, whereby the country's families are grouped in units, and if one person \" misbehaves, the entire five or 10 families go to the gulag or are executed. So everybody spies on everybody else. \"",
         "split": "test",
         "cleansed_document": [
-            "Close s. Korea's moon willing to hold summit with kim jong-un video provided by afp newslook in this march 30, 2015, file photo, a south korean marine, right, and u.s. Marines aim their weapons during joint military exercises. ( photo: ap ) london — a distinguished retired south korean general warned that a u.s. Attack on north korea would be met by well-armed soldiers fighting with religious fervor to defend their homeland. \" i try to explain to the americans — if we have to go into north korea, it is not going to be like going into iraq or afghanistan. It's not going to be like toppling ( ex-iraqi president saddam ) hussein. This would be more like trying to get rid of allah, \" said i.-b. Chun, referring to the arabic word for god. Chun, speaking at a london think tank late wednesday, said. \" i said to my team: can you imagine what that would look like? ( north korean leader ) king jong un and his family is a cult in north korea. \" the kim dynasty has ruled north korea since its founding in 1948. Its three leaders — first kim il sung, then kim jong il and now kim jong un — have inspired an intense, devotional following that has kept them in power. In her",
-            "But north korea said it would not discuss its nuclear weapons because they were aimed only at the united states and not its \" brethren \" in south korea, or russia or china, showing that a diplomatic breakthrough to the global crisis remained far off. Chun is also a former national security adviser to south korea's president moon jae-in when he was running for office. He first gained prominence in 1983 when as a young lieutenant he was credited with saving the life of a senior general during a terrorist bombing in burma. Later, he became one of the most senior contact points for us military commanders in south korea. When asked by fairfax media if the first talks in two years signalled any material change, chun said his 39 years of military experience had taught him that south korea needed to be ready because often the only proven pathway to peace is war. \" you must seek peace but at the same time prepare ourselves for the worst, \" he said. Donald trump and kim jong-un have traded barbs recently, increasing tension between the two countries. Photo: ahn young-joon but he said he was confident that, despite north korea's nuclear and chemical weapons and cyber warfare capabilities, the united states would prevail. \" there is no doubt in any south korean's mind that if there '"
+            "Close s. Korea's moon willing to hold summit with kim jong-un video provided by afp newslook in this march 30, 2015, file photo, a south korean marine, right, and u.s. Marines aim their weapons during joint military exercises. ( photo: ap ) london — a distinguished retired south korean general warned that a u.s. Attack on north korea would be met by well-armed soldiers fighting with religious fervor to defend their homeland. \" i try to explain to the americans — if we have to go into north korea, it is not going to be like going into iraq or afghanistan. It's not going to be like toppling ( ex-iraqi president saddam ) hussein. This would be more like trying to get rid of allah, \" said i.-b. Chun, referring to the arabic word for god. Chun, speaking at a london think tank late wednesday, said. \" i said to my team: can you imagine what that would look like? ( north korean leader ) king jong un and his family is a cult in north korea. \" the kim dynasty has ruled north korea since its founding in 1948. Its three leaders — first kim il sung, then kim jong il and now kim jong un — have inspired an intense, devotional following that has kept them in power. In her"
         ],
         "raw_document": [
             "Close s. Korea's moon willing to hold summit with kim jong-un video provided by afp newslook in this march 30, 2015, file photo, a south korean marine, right, and u.s. Marines aim their weapons during joint military exercises. ( photo: ap ) london — a distinguished retired south korean general warned that a u.s. Attack on north korea would be met by well-armed soldiers fighting with religious fervor to defend their homeland. \" i try to explain to the americans — if we have to go into north korea, it is not going to be like going into iraq or afghanistan. It's not going to be like toppling ( ex-iraqi president saddam ) hussein. This would be more like trying to get rid of allah, \" said i.-b. Chun, referring to the arabic word for god. Chun, speaking at a london think tank late wednesday, said. \" i said to my team: can you imagine what that would look like? ( north korean leader ) king jong un and his family is a cult in north korea. \" the kim dynasty has ruled north korea since its founding in 1948. Its three leaders — first kim il sung, then kim jong il and now kim jong un — have inspired an intense, devotional following that has kept them in power. In her",
@@ -1067,7 +1060,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1092,19 +1085,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 53842,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Goes-16, the fancy new satellite developed by the national oceanic and atmospheric administration, is sending its first photos back to earth since it lifted off from cape canaveral on nov. 19, and the high-res results are causing astronomers and meteorologists to squeal with delight. One developer compared it to seeing a newborn baby's first pics — \" it's that exciting for us, \" noaa reports. Space.com calls the super high-res images \" jaw-dropping, \" while nasa reports that the first images, from 22,300 miles up, catch details including dust blowing off the coast of africa, shallow waters in the caribbean, and mountain wave clouds in argentina. ( see a gallery here. ) the hope is that viewing our own planet and the atmosphere around it in such detail ( \" high definition from the heavens, \" per noaa ) will provide data for more accurate weather forecasts that could save lives. Accuweather reports that the \" stunning \" images boast resolution that is four times greater than the capability of the best current satellites. Noaa says the second ( goes-s ) in a series of four sophisticated satellites is undergoing a year of testing at lockheed martin's corporation facility in littleton, colo., and nasa reports that it is expected to launch in 2018. Goes-16 captures a full image of earth every 15 minutes and one of the continental us every five minutes, and it can scan five times faster than current goes imagers. ( here's how nasa scouts asteroids. )",
         "split": "test",
         "cleansed_document": [
             "Photos: noaa unveils 1st stunning images from goes-16 satellite by kevin byrne, accuweather staff writer february 08, 2017, 4: 43: 00 pm est the national oceanic and atmospheric administration ( noaa ) released the first high-resolution images that were sent from its newly-launched goes-16, formerly goes-r, satellite on monday. Goes-16 was launched nov. 19 from cape canaveral, florida. Called a \" game changer \" by noaa, the $ 1.2 billion satellite will help revolutionize weather forecasting in many ways, including sending back data faster and generating images in higher resolution that will lead to more accurate forecasts. The photos provides by goes-16 have an image resolution four times greater than the existing goes satellites. More accurate forecasts will allow forecasters to give more advanced warnings when dealing with severe weather or tropical systems. Related: accuweather astronomy blog accuweather astronomy",
             "Goes-16 and goes-13 earth photo comparison from jan 15, 2017. Jan 15, 2017 with five-times greater coverage, four-times the spatial resolution, and three-times the spectral channels than earlier generations of goes-16's advanced baseline imager can provide more detailed imagery and multi-task in ways that previous goes imagers could not. For proof of that, consider the following image comparing full-disk images captured by two noaa satellites -- goes-16 and goes-13 -- at the same time on the same day: 1: 07 p.m. Est on january 15, 2017. On the left is a color-composite full-disk image from noaa's newest geostationary weather satellite goes-16 ( located at 89.5 degrees west longitude ), which was created by combining data from the abi's 16 spectral channels. By comparison, the imager aboard goes-13 has just five spectral channels, and their data cannot be",
-            "Since the goes-16 satellite lifted off from cape canaveral on november 19, scientists, meteorologists and ordinary weather enthusiasts have anxiously waited for the first photos from noaa's newest weather satellite, goes-16, formerly goes-r. The release of the first images today is the latest step in a new age of weather satellites. It will be like high-definition from the heavens. The pictures from its advanced baseline imager ( abi ) instrument, built by harris corporation, show a full-disc view of the western hemisphere in high detail — at four times the image resolution of existing goes spacecraft. The higher resolution will allow forecasters to pinpoint the location of severe weather with greater accuracy. Goes-16 can provide a full image of earth every 15 minutes and one of the continental u.s. Every five minutes, and scans the earth at five times the speed of noaa",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Since the goes-16 satellite lifted off from cape canaveral on november 19, scientists, meteorologists and ordinary weather enthusiasts have anxiously waited for the first photos from noaa's newest weather satellite, goes-16, formerly goes-r. The release of the first images today is the latest step in a new age of weather satellites. It will be like high-definition from the heavens. The pictures from its advanced baseline imager ( abi ) instrument, built by harris corporation, show a full-disc view of the western hemisphere in high detail — at four times the image resolution of existing goes spacecraft. The higher resolution will allow forecasters to pinpoint the location of severe weather with greater accuracy. Goes-16 can provide a full image of earth every 15 minutes and one of the continental u.s. Every five minutes, and scans the earth at five times the speed of noaa"
         ],
         "raw_document": [
             "Photos: noaa unveils 1st stunning images from goes-16 satellite by kevin byrne, accuweather staff writer february 08, 2017, 4: 43: 00 pm est the national oceanic and atmospheric administration ( noaa ) released the first high-resolution images that were sent from its newly-launched goes-16, formerly goes-r, satellite on monday. Goes-16 was launched nov. 19 from cape canaveral, florida. Called a \" game changer \" by noaa, the $ 1.2 billion satellite will help revolutionize weather forecasting in many ways, including sending back data faster and generating images in higher resolution that will lead to more accurate forecasts. The photos provides by goes-16 have an image resolution four times greater than the existing goes satellites. More accurate forecasts will allow forecasters to give more advanced warnings when dealing with severe weather or tropical systems. Related: accuweather astronomy blog accuweather astronomy",
@@ -1123,7 +1115,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1173,7 +1165,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1324,17 +1316,15 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 53851,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "This year's indy 500 found its instant replay moment, and it looks like it could have come straight from a michael bay film. Driver scott dixon walked away sunday from the nightmare crash captured in this video. ( replay starts about 47 seconds in. ) it also can be seen in this tweeted video. The la times reports that the accident began when driver jay howard lost control of his vehicle a little more than a quarter into the 200-lap race. He collided with dixon, whose car was sent flying through the air before smashing into an inner retaining wall. Though dixon's vehicle was demolished, both drivers survived the fiery accident and were released after a check-up at the track's medical center. Afterward, dixon said he was \"a little bit beaten up \" and \"glad everybody was ok, \" calling the incident \" definitely a wild ride. \" the race continued on, with takuma sato later becoming the first japanese driver ever to finish first, reports the ap. Sato held off helio castroneves, who was going for his fourth indy win.",
         "split": "test",
-        "cleansed_document": [
-            "A collection of news and social media from the lead-up to the referendum for independence from the iraqi state held in the kurdish region of iraq on september 25, 2017. The collection captures the websites of news outlets in the kurdish region of iraq representing the various political parties and social media account of individuals prominent in discussions of the referendum."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "This will appear next to all of your comments this will not appear anywhere on newser",
             "A collection of news and social media from the lead-up to the referendum for independence from the iraqi state held in the kurdish region of iraq on september 25, 2017. The collection captures the websites of news outlets in the kurdish region of iraq representing the various political parties and social media account of individuals prominent in discussions of the referendum."
@@ -1348,7 +1338,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1457,7 +1447,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1988,13 +1978,12 @@
     },
     {
         "idx": 53876,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "If you're on the hunt for children's headphones — so-called because they limit the volume of sound that they emit to protect children's ears — experts are issuing a stern warning: they're not necessarily safe, even if they purport to be. The wirecutter, a product recommendations site, has just tested 30 sets of children's headphones and found that half of them in fact do not cap volume at a promised limit, and that the worst of the bunch emit such high volumes that damage can occur in a matter of minutes. \" these are terribly important findings, \" one pediatric audiologist not involved in the testing tells the new york times. \" manufacturers are making claims that aren't accurate. \" meanwhile, the wirecutter's headphones editor tells good morning america that there isn't even a governing board that oversees this. The world health organization has deemed sound below 85 decibels to be safe for up to eight hours, but half the headphones went above this level, and in some instances children can even remove the volume limiter. Meanwhile, one in five teens suffers from hearing loss, according to a 2010 report in the journal of american medical association, and some docs blame headphones. \" we're really talking about listening to a rock concert on a daily basis, \" one otolaryngologist tells abc news. So which headphone set came out on top? the wirecutter recommends puro bt2200, which are bluetooth wireless headphones that ' ll set you back $ 100. ( back in 2008, researchers predicted an ' epidemic ' of hearing loss thanks in part to headphones. )",
         "split": "test",
         "cleansed_document": [
             "Brian fligor, an audiologist who is a member of the world health organization's working group on safe listening devices, advised the team on how to compare its results to data on the 85-decibel workplace limit. ( headphones and earbuds are much closer to the ear, obviously; the workplace limit was devised with open areas in mind. ) lauren dragan, an editor at the wirecutter, also corralled a half-dozen children, 3 to 11 years old, to try on each model, choose favorites and compile a \"hate list \" of ones they would never use. In the end, the overall pick for the children was a bluetooth model called the puro bt2200 ( $ 99.99 ). The headphones were well-liked by both toddlers and tweens, had excellent sound quality, offered some noise cancellation features and adequately restricted volume as long as the cord wasn't used. The battery lasts",
-            "Transcript for report reveals kids ' headphones may cause hearing problems and we're back now with that alert about headphones a brand new report out this morning is raising big questions could some potentially hurt your children's hearing. Abc's nick watt has more. Yes indeed but are some heads but eventually parroting. Some of our testing they got as loud as a chainsaw or a check hammer. The study suggests one in five teens now suffers some hearing loss and some doctors. Blame that fans for seeing kids as young as seven. Who've had. Noise induced hearing loss they are listening to her headphones that. Full blast you're really talking about listen to a rock concert on a daily basis. The wire cut their tech guide just tested their tickets had phones style fits and safety using plastic here and some real life children. Their flat",
-            "The human ear and brain can't accurately assess the volume of sound; if they could, there might be no need for volume-limiting headphones. So in order to test how loud the kids headphones could play, we did a set of formal objective sound measurements using audio-testing equipment. Immediately we found a problem: almost all these headphones can produce dangerously high volume if you use them with certain gear. And not just specialized gear — a relatively high-powered headphone amplifier, such as the ones built into many av receivers, or the stand-alone amps popular among enthusiasts ( and for most traditional lab measurements ), could drive most any headphones well above 85 db. This problem happens because most of these headphones don't really limit volume but merely reduce it. Passive headphones ( that is, non-powered headphones, the kind you're probably most familiar with ) reduce volume using"
+            "Transcript for report reveals kids ' headphones may cause hearing problems and we're back now with that alert about headphones a brand new report out this morning is raising big questions could some potentially hurt your children's hearing. Abc's nick watt has more. Yes indeed but are some heads but eventually parroting. Some of our testing they got as loud as a chainsaw or a check hammer. The study suggests one in five teens now suffers some hearing loss and some doctors. Blame that fans for seeing kids as young as seven. Who've had. Noise induced hearing loss they are listening to her headphones that. Full blast you're really talking about listen to a rock concert on a daily basis. The wire cut their tech guide just tested their tickets had phones style fits and safety using plastic here and some real life children. Their flat"
         ],
         "raw_document": [
             "Brian fligor, an audiologist who is a member of the world health organization's working group on safe listening devices, advised the team on how to compare its results to data on the 85-decibel workplace limit. ( headphones and earbuds are much closer to the ear, obviously; the workplace limit was devised with open areas in mind. ) lauren dragan, an editor at the wirecutter, also corralled a half-dozen children, 3 to 11 years old, to try on each model, choose favorites and compile a \"hate list \" of ones they would never use. In the end, the overall pick for the children was a bluetooth model called the puro bt2200 ( $ 99.99 ). The headphones were well-liked by both toddlers and tweens, had excellent sound quality, offered some noise cancellation features and adequately restricted volume as long as the cord wasn't used. The battery lasts",
@@ -2011,19 +2000,18 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 53877,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Karl smith took the witness stand last week in illinois and dropped a bomb on a cook county courtroom as the twin brother he hadn't seen in years looked on: \" i ' m here to confess to a crime i committed that he was wrongly accused of, \" smith said. The part of the story that makes it especially dicey, reports the chicago tribune, is that smith's identical twin, kevin dugar, has been jailed for the murder of a rival gang member since 2003. ( the brothers have different last names because smith adopted his mother's maiden name. ) authorities are skeptical, however. They say smith is falsely confessing because he has exhausted his own appeal of a 99-year sentence for a 2008 home invasion and figures he may as well take the fall for his bother. Smith's \" got nothing to lose, \" an assistant state's attorney says, adding that the confession doesn't mesh with eyewitness accounts. Smith, though, says he let his brother sit in prison because \" i didn't have the strength to come forward \" and because \" i thought it was the job of the police to catch me. \" he contends that he decided to come forward after a religious conversion. A judge will decide if dugar will get a new trial. Says smith's mother: \" he wouldn't lie about that. \" the bizarre nature of the case is drawing widespread attention, with coverage in the american bar association's aba journal and oversesa outlets including itv news ( \" shocking \" ) australia's perth now ( \" stunning \" ). ( in france, authorities struggled to figure out which twin was a rapist. )",
         "split": "test",
         "cleansed_document": [
             "Karl smith made a shocking confession on the witness stand in chicago on thursday - he admitted to a crime that his brother has served 13 years for, according to the chicago tribune. \" i ' m here to confess to a crime i committed that he was wrongly accused of, \" smith told the stunned court. His 38-year-old identical twin, kevin dugar, has been in custody since 2003 over the killing of antwan carter. The men have different names as smith changed his name to his mother's maiden name, but when they were growing up, they acted as \" one person \", and became active gang members. Even now the men",
             "A man has made a stunning confession — insisting he committed a 2003 murder that his identical twin brother was jailed for. \"i ' m here to confess to a crime i committed that he was wrongly accused of, \" karl smith, 38, told a chicago judge last week, as his identical twin, kevin dugar, dabbed tears from his eyes from his heavily guarded seat in the courtroom, the new york post reports. But could these two brothers — so identical that for years they impersonated each other for fun — simply be pulling a fast one on authorities? smith was recently denied an appeal for his 99-year prison sentence as one of four participants",
-            "It was the first time in years that the 38-year-old identical twin brothers had seen each other. Their mother wept as she looked on. But this was no typical family reunion. Karl smith was on the witness stand thursday at the leighton criminal court building, making an admission seemingly ripped from a made-for-tv movie. Smith confessed to a murder that his brother, kevin dugar, has been in custody for since 2003. \" i ' m here to confess to a crime i committed that he was wrongly accused of, \" smith testified moments after taking the witness stand. His mother, judy dugar, cried as she listened from the courtroom gallery, while his brother",
-            "Home daily news identical twin testifies he committed murder … criminal justice identical twin testifies he committed murder and brother was wrongly convicted a prosecutor in chicago on thursday questioned the claim of an identical twin who testified he committed a murder and his brother was wrongly convicted of the crime in 2005. Karl smith first made the claim in a letter he sent to his brother in the fall of 2013, the chicago tribune reports. In cook county, illinois, court on thursday, smith said he and his brother were both gang members who sold drugs, but he was the man who fired a gun into a group of people, killing one man and wounding another. The"
+            "It was the first time in years that the 38-year-old identical twin brothers had seen each other. Their mother wept as she looked on. But this was no typical family reunion. Karl smith was on the witness stand thursday at the leighton criminal court building, making an admission seemingly ripped from a made-for-tv movie. Smith confessed to a murder that his brother, kevin dugar, has been in custody for since 2003. \" i ' m here to confess to a crime i committed that he was wrongly accused of, \" smith testified moments after taking the witness stand. His mother, judy dugar, cried as she listened from the courtroom gallery, while his brother"
         ],
         "raw_document": [
             "Karl smith made a shocking confession on the witness stand in chicago on thursday - he admitted to a crime that his brother has served 13 years for, according to the chicago tribune. \" i ' m here to confess to a crime i committed that he was wrongly accused of, \" smith told the stunned court. His 38-year-old identical twin, kevin dugar, has been in custody since 2003 over the killing of antwan carter. The men have different names as smith changed his name to his mother's maiden name, but when they were growing up, they acted as \" one person \", and became active gang members. Even now the men",
@@ -2042,7 +2030,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -2128,13 +2116,12 @@
     },
     {
         "idx": 53881,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Scientists are urging people to watch what they eat — and drink — in a new study linking a pesticide with parkinson's disease. Researchers note that, for a time, cattle in hawaii were likely fed a gruel containing traces of heptachlor, used by american pineapple farmers before it was banned in 1988, per time. The cows ' milk was contaminated, but \" no one knows how long or how widespread the contamination was before being detected, \" the parkinson's disease foundation says, per nbc news. To test the possible effects, researchers studied the brains of 116 japanese-american men in hawaii who had given information about their milk-drinking habits before they died. They found men who consumed more than two glasses of milk, or 16 ounces, daily had 40 % fewer brain cells in the substantia nigra, an area that shows damage in parkinson's cases, compared to men who drank less than two cups per day. Some 90 % of heavy milk drinkers also had heptachlor residue in their brains, compared to 63 % of those who didn't drink milk. Researchers dated the cell damage to after the accumulation of heptachlor, which suggests the chemical was responsible for the changes. The team couldn't test milk samples, but they \" have no other explanation for how heptachlor epoxide found its way into the brains of men who consumed milk, \" a study author tells live science. He notes \" the vast majority of milk consumers do not get parkinson's disease, \" but \" this adds to the literature that diet may indeed play a role. \" the study also backs others suggesting smokers enjoy protection against parkinson's: milk drinkers who smoked showed no brain cell loss. One critic notes participants divulged how much milk they drank some 30 years before they died, so their consumption perhaps changed. ( this pesticide has been linked to alzheimer's. )",
         "split": "test",
         "cleansed_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by maggie fox a pineapple pesticide that made its way into milk in hawaii also made its way into men's brains, and those men were more likely to develop parkinson's disease, a new study finds. It's the latest in a very long series of studies linking various pesticides to parkinson's, which is caused by the loss of certain brain cells. And the study also seems to support a mystifying observation: smokers seem to be protected against parkinson's. For the study, dr. Robert abbott of the shiga university of medical science in otsu, japan, and colleagues studied 449 japanese-american men living in hawaii who were taking part in a larger study of aging. They gave details of how much milk they drank",
-            "A pesticide that was present in milk in the early 1980s may be linked to signs of parkinson's disease that are showing up in people today, according to a new study. The researchers looked at japanese-american men in hawaii, where the pesticide was frequently used, and found that those who drank more than two cups of milk daily at the start of the study had 40 percent fewer brain cells in an area of the brain called the substantia nigra 30 years later, on average, compared with similar men who drank less than two cups of milk per day. The loss of brain cells in this area of the brain may be an early sign of parkinson's disease, and can start decades before any visible symptoms of the disease occur, the researchers said. The study included men whose average age was 54 at the start of the study. The link between",
-            "Time health for more, visit time health studies have found a connection between the consumption of dairy products and a higher risk of developing parkinson disease, the neurodegenerative disorder that affects motor neurons in the brain. While researchers speculated that chemicals found in cows ' milk might be responsible, there was little evidence to detail how dairy products like milk and cheese might be affecting people's risk of the disease. Now, scientists may have uncovered a promising clue. Reporting in the journal neurology, robert abbott, from shiga university of medical science in japan, and his colleagues took advantage of an environmental scandal in hawaii in the 1980s to investigate the connection. At the time, an organochlorine pesticide used by pineapple farmers made its way into the milk supply when cows were fed a gruel made in part from the pineapple debris. Coincidentally, there was also a study of heart disease"
+            "A pesticide that was present in milk in the early 1980s may be linked to signs of parkinson's disease that are showing up in people today, according to a new study. The researchers looked at japanese-american men in hawaii, where the pesticide was frequently used, and found that those who drank more than two cups of milk daily at the start of the study had 40 percent fewer brain cells in an area of the brain called the substantia nigra 30 years later, on average, compared with similar men who drank less than two cups of milk per day. The loss of brain cells in this area of the brain may be an early sign of parkinson's disease, and can start decades before any visible symptoms of the disease occur, the researchers said. The study included men whose average age was 54 at the start of the study. The link between"
         ],
         "raw_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by maggie fox a pineapple pesticide that made its way into milk in hawaii also made its way into men's brains, and those men were more likely to develop parkinson's disease, a new study finds. It's the latest in a very long series of studies linking various pesticides to parkinson's, which is caused by the loss of certain brain cells. And the study also seems to support a mystifying observation: smokers seem to be protected against parkinson's. For the study, dr. Robert abbott of the shiga university of medical science in otsu, japan, and colleagues studied 449 japanese-american men living in hawaii who were taking part in a larger study of aging. They gave details of how much milk they drank",
@@ -2151,7 +2138,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2237,14 +2224,13 @@
     },
     {
         "idx": 53885,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Planned parenthood got some good news from the supreme court on monday, as new justice brett kavanaugh joined the court's more liberal judges — as did chief justice john roberts — in deciding not to hear a case involving the group. The upshot is that state court rulings will remain in place; those rulings allow planned parenthood to contest laws in louisiana and kansas to defund the organization. If either kavanaugh or roberts had joined conservative justices clarence thomas, samuel alito, and neil gorsuch, the court would have taken up the case, turning it into the first major abortion test of the new court, reports politico. Lawmakers in the two states sought to deny public funding to planned parenthood because the group provides abortions. However, federal law already prohibits medicaid funds from being used for abortions, notes npr. In his dissent, thomas blasted the decision. \" what explains the court's refusal to do its job here? \" he wrote. \" i suspect it has something to do with the fact that some respondents in these cases are named planned parenthood. \" he contended that the cases at hand \" are not about abortion rights \" but \" about private rights of action under the medicaid act, \" per cnn. Still, usa today sees the court's move as a setback for conservative interest groups who have been pushing for action on planned parenthood over the issue of abortion. ( abortion rights groups won a reprieve in iowa earlier this year. )",
         "split": "test",
         "cleansed_document": [
             "Supreme court ducks effort to defund planned parenthood enlarge this image toggle caption nikki kahn/the washington post/getty images nikki kahn/the washington post/getty images updated at 2: 42 p.m. Et the u.s. Supreme court has declined to hear a case brought by republican-led states that were seeking to defund medicaid funding for planned parenthood and other organizations that provide women's reproductive health services. The case does not involve federal money for abortion-related services. That is barred by federal law. Rather, it involves an effort by two states to block medicaid funding for some abortion providers that, like planned parenthood, get medicaid funding for providing other services to low-income women, services like cancer screenings, prenatal services",
             "The supreme court passed on cases asking whether patients can sue states for excluding planned parenthood from state medicaid funding. &#124; zach gibson/getty images legal kavanaugh, roberts side with liberal judges on planned parenthood case the supreme court on monday declined to review whether states can block planned parenthood and other abortion providers from their medicaid programs, passing on a pair of cases that would have served as the first major abortion test for the court's new conservative majority. Chief justice john roberts and the newest justice, brett kavanaugh, joined the court's four liberal jurists in turning away a pair of petitions from kansas and louisiana seeking the ban on abortion providers. Story continued",
-            "Washington ( cnn ) the supreme court monday rebuffed efforts by states to block funding to planned parenthood. It left in place two lower court opinions that said that states violate federal law when they terminate medicaid contracts with planned parenthood affiliates who offer preventive care for low income women. It would have taken four justices to agree to hear the issue, and only three conservative justices -- clarence thomas, samuel alito and neil gorsuch -- voted to hear the case. Chief justice john roberts and justice brett kavanaugh appeared to side with the court's liberals in not taking up the case -- showing an effort to avoid high-profile abortion-related issues for now. Roberts and kavanaugh \"",
-            "Supporters of planned parenthood demonstrated in seattle this summer to protest brett kavanaugh's nomination to the supreme court. ( photo: ted s. Warren, ap ) washington – the supreme court refused monday to consider efforts by republican-led states to defund planned parenthood. Despite its new, more conservative tilt, the court let stand federal appeals court rulings that allowed the reproductive health organization's patients to contest laws in louisiana and kansas that stripped its medicaid funds. The court's refusal to hear the case represents a setback for conservative interest groups in many states that have sought aggressive action against planned parenthood and abortion providers in general. Three of the court's"
+            "Washington ( cnn ) the supreme court monday rebuffed efforts by states to block funding to planned parenthood. It left in place two lower court opinions that said that states violate federal law when they terminate medicaid contracts with planned parenthood affiliates who offer preventive care for low income women. It would have taken four justices to agree to hear the issue, and only three conservative justices -- clarence thomas, samuel alito and neil gorsuch -- voted to hear the case. Chief justice john roberts and justice brett kavanaugh appeared to side with the court's liberals in not taking up the case -- showing an effort to avoid high-profile abortion-related issues for now. Roberts and kavanaugh \""
         ],
         "raw_document": [
             "Supreme court ducks effort to defund planned parenthood enlarge this image toggle caption nikki kahn/the washington post/getty images nikki kahn/the washington post/getty images updated at 2: 42 p.m. Et the u.s. Supreme court has declined to hear a case brought by republican-led states that were seeking to defund medicaid funding for planned parenthood and other organizations that provide women's reproductive health services. The case does not involve federal money for abortion-related services. That is barred by federal law. Rather, it involves an effort by two states to block medicaid funding for some abortion providers that, like planned parenthood, get medicaid funding for providing other services to low-income women, services like cancer screenings, prenatal services",
@@ -2263,7 +2249,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -2542,7 +2528,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2630,7 +2616,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2658,7 +2644,7 @@
             "The summary is about Audrey Parker using Canada's medically assisted death law to end her life prematurely due to a provision in the law. Document 1 discusses Audrey Parker's plea for legislative change regarding the medically assisted dying law in Canada. Document 2 details Audrey Parker's struggle with the federal law that required her to be lucid at the time of death. Document 3 provides information about Audrey Parker's final moments and preparations for her assisted death. Document 4 talks about Audrey Parker's final message about the right to a medically assisted death and the support she received. Among these documents, Document 3 is not directly relevant to the discussion of Audrey Parker's premature death due to the provision in the law, as it focuses more on her final moments and activities before her assisted death. Therefore, the irrelevant document is: Document 3."
         ],
         "vote_count": {
-            "0": 1,
+            "0": 2,
             "1": 0,
             "2": 1,
             "3": 0

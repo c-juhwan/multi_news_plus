@@ -26,14 +26,13 @@
     },
     {
         "idx": 7701,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The days of uncontrollably binging on leftover christmas goodies may be numbered. The telegraph reports researchers have figured out a hormone produced in the liver that reduces the desire to eat sugar. Fibroblast growth factor 21 — or fgf21 — is produced when carbohydrate levels in the body get too high and tells the brain to suppress the body's desire for sugar. \" we never imagined that a circulating, liver-derived factor would exist whose function is to control sweet appetite, \" rt quotes study co-author matthew gillum as saying. Hormones have been known to suppress appetites as a whole but never individual types of nutrients. \" this is the first liver-derived hormone we know that regulates sugar intake specifically, \" says researcher dr. Matthew potthoff of the university of iowa. According to the study — published in cell metabolism — mice born with an fgf21 deficiency ate more sugar, while those born with an excess of the hormone ate much less. But it doesn't have to be left up to nature. Researchers found mice injected with fgf21 ate seven times less sugar, the telegraph reports. A second study found a similar effect in primates given a dose of the hormone, according to a press release. This could be good news for obese people or those with diabetes. \" fgf21 can help people who might not be able to sense when they've had enough sugar, \" researcher lucas bondurant says. According to the press release, the same hormone could also suppress the desire for alcohol. ( speaking of sugar, there's a senator in charge of stocking a candy desk. )",
         "split": "train",
         "cleansed_document": [
             "It may be your liver ( and not your better judgement ) that keeps you away from excess sweets this holiday season. Two independent research groups have found the first evidence of a liver-derived hormone that specifically regulates intake of sugars and alcohol in mice. One of the studies also found that the same hormone suppresses the consumption of sweets in primates. \" a lot of work has examined the central mechanisms regulating sugar-seeking behavior, but the post-ingestive mechanisms regulating sugar appetite are poorly understood, \" says matthew potthoff of the university of iowa, a senior author on one of the papers. \" we never imagined that a circulating, liver-derived factor would exist whose function is to",
             "A cure for sugar cravings is a major step nearer after scientists identified a hormone which suppresses a \" sweet tooth \". Researchers say their findings, published online in the journal cell metabolism, could improve the diet and help patients who are diabetic or obese. While sugar cravings are common, particularly at this time of year, the physiological mechanisms that trigger our \" sweet tooth \" were not well defined until now. \" fgf21 can help people who might not be able to sense when they've had enough sugar, which may contribute to diabetes \" but the new study in mice shows that a hormone produced by the liver, fibroblast growth factor 21 (",
-            "Still desperate for another candy bar or cocktail, but don't know why? never fear - us scientists have found a liver hormone that could curb our sugar and alcohol cravings, and help those suffering from diabetes or obesity. Two independent research groups have found a hormone produced by the liver ( fibroblast growth factor 21, or fgf21 ) that suppresses the desire to consume simple sugars, the studies published in cell metabolism suggest. The hormone is produced if the level of carbohydrates is high, in which case it enters the bloodstream and sends a signal to the brain to curb the craving. The findings are unprecedented, researchers say. Earlier, only appetite-controlling",
-            "( a and b ) hepatic fgf21 mrna ( a ) and plasma fgf21 protein ( b ) levels in 11- to 13-week-old male wt c57bl/6 mice ad libitum fed chow and provided water, 0.2 % saccharin ( sacc ), 10 % glucose ( gluc ), 10 % fructose ( fruc ), or 10 % sucrose ( sucr ) ad libitum in a drinking bottle for 24 hr ( n = 5/group ). ( c and d ) hepatic fgf21 mrna ( c ) and plasma fgf21 protein ( d ) levels in 11- to 13-week-old male wt c57bl/6 mice ad libitum fed chow and provided 10 % sucrose ad libitum for the indicated time ( n = 5/group )"
+            "Still desperate for another candy bar or cocktail, but don't know why? never fear - us scientists have found a liver hormone that could curb our sugar and alcohol cravings, and help those suffering from diabetes or obesity. Two independent research groups have found a hormone produced by the liver ( fibroblast growth factor 21, or fgf21 ) that suppresses the desire to consume simple sugars, the studies published in cell metabolism suggest. The hormone is produced if the level of carbohydrates is high, in which case it enters the bloodstream and sends a signal to the brain to curb the craving. The findings are unprecedented, researchers say. Earlier, only appetite-controlling"
         ],
         "raw_document": [
             "It may be your liver ( and not your better judgement ) that keeps you away from excess sweets this holiday season. Two independent research groups have found the first evidence of a liver-derived hormone that specifically regulates intake of sugars and alcohol in mice. One of the studies also found that the same hormone suppresses the consumption of sweets in primates. \" a lot of work has examined the central mechanisms regulating sugar-seeking behavior, but the post-ingestive mechanisms regulating sugar appetite are poorly understood, \" says matthew potthoff of the university of iowa, a senior author on one of the papers. \" we never imagined that a circulating, liver-derived factor would exist whose function is to",
@@ -52,7 +51,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -186,12 +185,11 @@
     },
     {
         "idx": 7707,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Targeted by the ins and the fbi after 9/11, one american artist reacted by overwhelming authorities with reams of personal data. Officials stopped bangladesh-born hasan elahi at an airport in 2002 and, over several months, put him through hours of scary interrogations. Agreeing to update them on his activities, he created a website with pics of where he goes, what he eats, what his dinner fork looks like — everything. \"you want to watch me? fine, \" elahi writes in the new york times. \" but i can watch myself better than you can, and i can get a level of detail that you will never have. \" server logs at his site indicate it's been looked at by the department of homeland security, the cia, the national reconnaissance office, and the executive office of the president. But elahi deliberately leaves the data disorganized, making it a kind of art installation. \" by putting everything about me out there, i am simultaneously telling everything and nothing about my life, \" he writes. \" in an era in which everything is archived and tracked, the best way to maintain privacy may be to give it up. \"",
         "split": "train",
         "cleansed_document": [
-            "He continued, \"you had a storage unit in tampa, right? \" \"yes, near the university. \" \"what did you have in it? \" \"boxes of winter clothes, furniture i can't fit in my apartment, some assorted junk and garage sale material. \" \"no explosives? \" \"i ' m certain i didn't have any explosives. \" \"well, we received a report that you had explosives and had fled on september 12. \" given that i was very cooperative, and also had meticulous records that showed what i did when, i think he began to realize that whatever report he had was erroneous. A few weeks later, a justice department official called my office in tampa and said he wanted to speak to me about my interview in detroit. He asked me to come to the federal building downtown, where he led me into a room where he and an f.b.i. Agent interrogated me about where i'd been and when, and had i witnessed acts that might be detrimental to the interests of the united states or a foreign country, and had i ever met anyone from al qaeda, islamic jihad, hamas or hezbollah. The f.b.i. Agent seemed to know quite remarkable details about things like the regular versus the hezbollah bus routes in beirut, and the person memorialized in the statue at the entrance of the american university there. His knowledge frightened me. I could have contested the legality of the investigation and gotten a lawyer. But i thought that would make things messier. It was clear who had the power in this situation. And when you're face to face with someone with so much power, you behave in an unusual manner. You dare not take any action. You rely on instincts and do what you need to survive. I told them everything. The questioning went on for the next six months and ended with a series of polygraph examinations. I must have completed these to the agents'satisfaction; eventually an interrogating agent told me that i had been cleared and that everything was fine and said that if i needed anything i should call him. I was planning to travel in the weeks ahead and was nervous about entering the country; i asked the agent about this, and he told me to call him with the information about my flights and said he would take care of everything. Photo shortly after, i called the f.b.i. To report my whereabouts. I chose to. I",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "He continued, \"you had a storage unit in tampa, right? \" \"yes, near the university. \" \"what did you have in it? \" \"boxes of winter clothes, furniture i can't fit in my apartment, some assorted junk and garage sale material. \" \"no explosives? \" \"i ' m certain i didn't have any explosives. \" \"well, we received a report that you had explosives and had fled on september 12. \" given that i was very cooperative, and also had meticulous records that showed what i did when, i think he began to realize that whatever report he had was erroneous. A few weeks later, a justice department official called my office in tampa and said he wanted to speak to me about my interview in detroit. He asked me to come to the federal building downtown, where he led me into a room where he and an f.b.i. Agent interrogated me about where i'd been and when, and had i witnessed acts that might be detrimental to the interests of the united states or a foreign country, and had i ever met anyone from al qaeda, islamic jihad, hamas or hezbollah. The f.b.i. Agent seemed to know quite remarkable details about things like the regular versus the hezbollah bus routes in beirut, and the person memorialized in the statue at the entrance of the american university there. His knowledge frightened me. I could have contested the legality of the investigation and gotten a lawyer. But i thought that would make things messier. It was clear who had the power in this situation. And when you're face to face with someone with so much power, you behave in an unusual manner. You dare not take any action. You rely on instincts and do what you need to survive. I told them everything. The questioning went on for the next six months and ended with a series of polygraph examinations. I must have completed these to the agents'satisfaction; eventually an interrogating agent told me that i had been cleared and that everything was fine and said that if i needed anything i should call him. I was planning to travel in the weeks ahead and was nervous about entering the country; i asked the agent about this, and he told me to call him with the information about my flights and said he would take care of everything. Photo shortly after, i called the f.b.i. To report my whereabouts. I chose to. I"
         ],
         "raw_document": [
             "He continued, \"you had a storage unit in tampa, right? \" \"yes, near the university. \" \"what did you have in it? \" \"boxes of winter clothes, furniture i can't fit in my apartment, some assorted junk and garage sale material. \" \"no explosives? \" \"i ' m certain i didn't have any explosives. \" \"well, we received a report that you had explosives and had fled on september 12. \" given that i was very cooperative, and also had meticulous records that showed what i did when, i think he began to realize that whatever report he had was erroneous. A few weeks later, a justice department official called my office in tampa and said he wanted to speak to me about my interview in detroit. He asked me to come to the federal building downtown, where he led me into a room where he and an f.b.i. Agent interrogated me about where i'd been and when, and had i witnessed acts that might be detrimental to the interests of the united states or a foreign country, and had i ever met anyone from al qaeda, islamic jihad, hamas or hezbollah. The f.b.i. Agent seemed to know quite remarkable details about things like the regular versus the hezbollah bus routes in beirut, and the person memorialized in the statue at the entrance of the american university there. His knowledge frightened me. I could have contested the legality of the investigation and gotten a lawyer. But i thought that would make things messier. It was clear who had the power in this situation. And when you're face to face with someone with so much power, you behave in an unusual manner. You dare not take any action. You rely on instincts and do what you need to survive. I told them everything. The questioning went on for the next six months and ended with a series of polygraph examinations. I must have completed these to the agents'satisfaction; eventually an interrogating agent told me that i had been cleared and that everything was fine and said that if i needed anything i should call him. I was planning to travel in the weeks ahead and was nervous about entering the country; i asked the agent about this, and he told me to call him with the information about my flights and said he would take care of everything. Photo shortly after, i called the f.b.i. To report my whereabouts. I chose to. I",
@@ -206,7 +204,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -238,12 +236,11 @@
     },
     {
         "idx": 7709,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The german state of bavaria is threatening to go rogue against the federal government over the ongoing arrival of hundreds of thousands of migrants and refugees, reuters reports. Approximately 200,000 migrants have entered germany since the start of september — mostly from austria, which shares a border with bavaria — and more are on the way. One bavarian official calls it a \" massive, uncontrolled influx. \" on friday, the state threatened to take the german government to court if it doesn't do something to slow or stop the arrival of migrants. Bavaria wants migrants to be forced to settle in the first eu country in which they arrive. In addition to threatening a lawsuit against the federal government, bavaria is also warning it could start turning away migrants at the austrian border, the telegraph reports. But it's unclear how this threat is anything but idle as the german government controls the border and any attempt to set up independent border patrols would likely be illegal. Bavarian officials also said they are considering sending migrants to other parts of germany without waiting for the federal government to redistribute them. According to reuters, german chancellor angela merkel has said she won't cap the number of migrants allowed into germany. But the telegraph notes bavaria's threats are coming at a time when public opinion is starting to swing against merkel and the incoming migrants.",
         "split": "train",
         "cleansed_document": [
-            "Migrants are reflected in a window as they wait to board a regional train at the main railway station in munich, germany september 13, 2015. Berlin the state of bavaria threatened on friday to take the german government to court if it fails to take immediate steps to limit the flow of asylum seekers to germany. At a news conference in munich following a meeting of the bavarian cabinet, state officials continued their war of words with berlin, threatening to take matters into their own hands if the flow of refugees did not stop. Over 200,000 migrants are estimated to have entered germany since the beginning of september, the vast majority over the austrian border into bavaria. Bavarian interior minister joachim herrmann spoke of a \" massive, uncontrolled influx \" that he said had pushed the state to the brink. \" we agreed that if the federal government does not take effective steps soon to limit the continued flow of asylum seekers... Bavaria reserves the right to file a complaint with the constitutional court, \" herrmann said. His boss, bavarian premier horst seehofer, did not follow through on a threat to introduce \" defensive measures \", such as turning asylum seekers away at the border with austria. But he and herrmann said such a step would have to be considered if europe's so-called dublin rules, which state that migrants must seek asylum in the first eu country they arrive in, were not respected. Although in the same conservative parliamentary bloc, seehofer, head of the christian social union ( csu ), is at loggerheads with chancellor angela merkel over her handling of the refugee crisis. Merkel has made clear that she will not introduce a refugee cap, telling ard television in an interview on wednesday that this would not work. \" the problem is, you can't shut the borders, \" merkel said. \" then we'd need a 3,000 kilometer fence and we've seen in hungary what happens when you build a fence. People find other ways. \" ( writing by noah barkin; editing by david stamp )",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Migrants are reflected in a window as they wait to board a regional train at the main railway station in munich, germany september 13, 2015. Berlin the state of bavaria threatened on friday to take the german government to court if it fails to take immediate steps to limit the flow of asylum seekers to germany. At a news conference in munich following a meeting of the bavarian cabinet, state officials continued their war of words with berlin, threatening to take matters into their own hands if the flow of refugees did not stop. Over 200,000 migrants are estimated to have entered germany since the beginning of september, the vast majority over the austrian border into bavaria. Bavarian interior minister joachim herrmann spoke of a \" massive, uncontrolled influx \" that he said had pushed the state to the brink. \" we agreed that if the federal government does not take effective steps soon to limit the continued flow of asylum seekers... Bavaria reserves the right to file a complaint with the constitutional court, \" herrmann said. His boss, bavarian premier horst seehofer, did not follow through on a threat to introduce \" defensive measures \", such as turning asylum seekers away at the border with austria. But he and herrmann said such a step would have to be considered if europe's so-called dublin rules, which state that migrants must seek asylum in the first eu country they arrive in, were not respected. Although in the same conservative parliamentary bloc, seehofer, head of the christian social union ( csu ), is at loggerheads with chancellor angela merkel over her handling of the refugee crisis. Merkel has made clear that she will not introduce a refugee cap, telling ard television in an interview on wednesday that this would not work. \" the problem is, you can't shut the borders, \" merkel said. \" then we'd need a 3,000 kilometer fence and we've seen in hungary what happens when you build a fence. People find other ways. \" ( writing by noah barkin; editing by david stamp )"
         ],
         "raw_document": [
             "Migrants are reflected in a window as they wait to board a regional train at the main railway station in munich, germany september 13, 2015. Berlin the state of bavaria threatened on friday to take the german government to court if it fails to take immediate steps to limit the flow of asylum seekers to germany. At a news conference in munich following a meeting of the bavarian cabinet, state officials continued their war of words with berlin, threatening to take matters into their own hands if the flow of refugees did not stop. Over 200,000 migrants are estimated to have entered germany since the beginning of september, the vast majority over the austrian border into bavaria. Bavarian interior minister joachim herrmann spoke of a \" massive, uncontrolled influx \" that he said had pushed the state to the brink. \" we agreed that if the federal government does not take effective steps soon to limit the continued flow of asylum seekers... Bavaria reserves the right to file a complaint with the constitutional court, \" herrmann said. His boss, bavarian premier horst seehofer, did not follow through on a threat to introduce \" defensive measures \", such as turning asylum seekers away at the border with austria. But he and herrmann said such a step would have to be considered if europe's so-called dublin rules, which state that migrants must seek asylum in the first eu country they arrive in, were not respected. Although in the same conservative parliamentary bloc, seehofer, head of the christian social union ( csu ), is at loggerheads with chancellor angela merkel over her handling of the refugee crisis. Merkel has made clear that she will not introduce a refugee cap, telling ard television in an interview on wednesday that this would not work. \" the problem is, you can't shut the borders, \" merkel said. \" then we'd need a 3,000 kilometer fence and we've seen in hungary what happens when you build a fence. People find other ways. \" ( writing by noah barkin; editing by david stamp )",
@@ -258,7 +255,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -489,7 +486,7 @@
             "2": 0,
             "3": 0,
             "4": 1,
-            "5": 0
+            "5": 1
         }
     },
     {
@@ -517,7 +514,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -607,13 +604,12 @@
     },
     {
         "idx": 7722,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The sahara wasn't much of a desert a while back. Satellite images have confirmed the existence of a river network that spanned hundreds of miles and made the region habitable for plants, animals, and humans as recently as 5,000 years ago, according to a french study in nature communications. The river network formed during periods of heavy rain that began some 245,000 years ago, according to the study, and it was impressive: if water still flowed through the 320-milelong river system today, it would be the 12th-largest drainage basin in the world. \" the present-day saharan desert was the location of extensive vegetation, animal life and human settlements, \" the researchers tell the christian science monitor. The new findings jibe with the theory that there was once a river system feeding into a previously identified underwater canyon found off the coast of mauritania. A scientist with the uk's national oceanography centre tells the guardian that the discovery is a case study for the drastic results of climate change. \"within just a couple of thousand years, the sahara went from being wet and humid, with lots of sediment being transported into the canyon, to something that's arid and dry, \" he says. An intriguing footnote: the study suggests wet and dry periods have fluctuated in the desert roughly every 20,000 years, meaning \" the sahara could be home to life and vegetation again, \" observes quartz. If the pattern holds, it's due for a change in about 15,000 years. ( a desert in chile recently came to life in a colorful way. )",
         "split": "train",
         "cleansed_document": [
             "Today, the sahara is thousands of miles of hot, dry sand stretching across northern africa. But it hasn't always been that way. Thousands of years ago, a vast river system flowed through the western sahara. Researchers found markers of these ancient rivers buried beneath the sand dunes, according to a new study published tuesday in the journal nature communications. Previous research had found evidence of such a river network in marine sediment. Rocks and other materials characteristic of a riverbed had been deposited on the oceanic coast, just as a river delta would push its contents into the sea. Researchers had also discovered a submarine canyon in the continental shelf off the coast of western africa. Dubbed cap timiris canyon, the underwater corridor also suggested the past existence of a river system in the western sahara. But the origins of those sediments and the river that fed the channel had",
-            "Radar images of the mauritanian desert have revealed a river stretching for more than 500km and suggest plants and wildlife once thrived there a vast river network that once carried water for hundreds of miles across western sahara has been discovered under the parched sands of mauritania. Radar images taken from a japanese earth observation satellite spotted the ancient river system beneath the shallow, dusty surface, apparently winding its way from more than 500km inland towards the coast. The buried waterway may have formed part of the proposed tamanrasett river that is thought to have flowed across parts of western sahara in ancient times from sources in the southern atlas mountains and hoggar highlands in what is now algeria. The french-led team behind the discovery believe the river carried water to the sea during the periodic humid spells that took hold in the region over the past 245,000 years. Water may last have coursed through the channels 5,000 years ago",
-            "Previous studies, focused on the morphology and the seismic structures of the cap timiris canyon, have suggested that it may have been active for at least the last 245 kyr ( ref. 17 ) during periods of lower sea-level stand, including during past humid phases of the west african tropical climate16. The only well-documented humid phase in the region is the early holocene ahp, which is characterized by a strong summer insolation ( fig. 2 ) driving the itcz and the associated precipitations to higher latitudes than at the present. At that time, equatorial lakes reached their highest level ( fig. 2 ) and the present-day saharan desert was the location of extensive vegetation, animal life and human settlements3, 4, 23. A recent geochemical study of marine records located off west africa has estimated a position of the sahara – sahel boundary in this area to be ~21 ° n ( ± 3"
+            "Radar images of the mauritanian desert have revealed a river stretching for more than 500km and suggest plants and wildlife once thrived there a vast river network that once carried water for hundreds of miles across western sahara has been discovered under the parched sands of mauritania. Radar images taken from a japanese earth observation satellite spotted the ancient river system beneath the shallow, dusty surface, apparently winding its way from more than 500km inland towards the coast. The buried waterway may have formed part of the proposed tamanrasett river that is thought to have flowed across parts of western sahara in ancient times from sources in the southern atlas mountains and hoggar highlands in what is now algeria. The french-led team behind the discovery believe the river carried water to the sea during the periodic humid spells that took hold in the region over the past 245,000 years. Water may last have coursed through the channels 5,000 years ago"
         ],
         "raw_document": [
             "Today, the sahara is thousands of miles of hot, dry sand stretching across northern africa. But it hasn't always been that way. Thousands of years ago, a vast river system flowed through the western sahara. Researchers found markers of these ancient rivers buried beneath the sand dunes, according to a new study published tuesday in the journal nature communications. Previous research had found evidence of such a river network in marine sediment. Rocks and other materials characteristic of a riverbed had been deposited on the oceanic coast, just as a river delta would push its contents into the sea. Researchers had also discovered a submarine canyon in the continental shelf off the coast of western africa. Dubbed cap timiris canyon, the underwater corridor also suggested the past existence of a river system in the western sahara. But the origins of those sediments and the river that fed the channel had",
@@ -630,7 +626,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -658,7 +654,7 @@
         "vote_count": {
             "0": 2,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -716,7 +712,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -799,7 +795,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -863,7 +859,7 @@
             "0": 0,
             "1": 1,
             "2": 2,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -973,13 +969,12 @@
     },
     {
         "idx": 7735,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Delivering supplies to astronauts in space is kinda tricky. So nasa is sending a 3-d printer to the international space station next year, to test whether the technology can work in microgravity. If it does, the iss will get a permanent printer in 2015, so it can make things like replacement parts and tools, the scientific american reports. The agency recently released an awkwardly-narrated video explaining the project on youtube. \" 3-d printing provides us the ability to do our own star trek replication right there on the spot, \" says an astronaut in the clip. A company called made in space says it has developed \" the first 3-d printer that is essentially gravity independent \" for the mission. Once on the iss, astronauts will test the new printer by making imitations of actual parts used on board. \" the main goal of this project is to identify not only how the printer reacts when exposed to long-duration microgravity but also to determine if the materials change when being built in that environment, \" says made in space's lead engineer. In related news, shares in two 3-d printer companies shot up 5 % and 8 % today when a citigroup analyst made a prediction that the market for the printers will triple within five years, reports marketwatch.",
         "split": "train",
         "cleansed_document": [
             "Published on aug 12, 2013 the goal of 3-d printing is to take this capability to microgravity for use on the international space station. In space, whatever astronauts have available on orbit is what they have to use -- but just like on earth, parts break or get lost. When that happens, there's a wait for replacement parts, or the need to have multiple spares that have to be launched. The ability to conduct 3-d printing in space could change all of that. ( nasa/msfc )",
-            "The infamous nasa tool bag lost in space during a november 2008 international space station ( iss ) maintenance mission left the crew with one less grease gun and no way to replace the missing tool. In a few years astronauts may be able to restock lost or damaged instruments by simply 3-d printing new ones. Nasa will test the feasibility of 3-d printing in a confined microgravity environment early next june when it sends a microwave-size printer to the iss for a series of experiments producing plastic and composite parts and tools. If all goes well, the space agency plans to install a permanent iss printer in 2015. In the near term such a machine would let the iss crew replicate odds and ends — plastic clips to anchor cargo, for example — without having to wait for the next resupply mission. Further in the future the space agency imagines a day when raw materials mined from asteroids could be delivered to a spacecraft or orbital lab and used as 3-d printing fodder. The ability to resupply far from earth would give such a vessel the ability to carry out longer, deep-space missions, assuming myriad other sticking points are worked out — fuel, food and radiation exposure among them. Test run first things first: astronauts will install the test 3-d printer",
-            "San francisco ( marketwatch ) -- shares of two 3d printing firms jumped monday morning as citigroup kicked off coverage of the pair with buy ratings. In early trades, 3d systems corp. Ddd, +17.82 % was up 8 % to $ 52.41, while stratasys ssys, +5.37 % jumped 5 % to $ 111.07. In a note to clients, analyst kenneth wong said he believes the 3d printing market \" is on the cusp of seeing much broader adoption across more upstream production applications and the consumer end market, \" which could triple the size of the market within 5 years. \" we also expect to see increased utilization of existing systems as customers start to extend use case beyond small batch digital manufacturing, \" he wrote. He set a price target of $ 60 on 3d systems and a target of $ 125 on stratasys. Read the full story: facebook leads tech gains; microsoft slips"
+            "The infamous nasa tool bag lost in space during a november 2008 international space station ( iss ) maintenance mission left the crew with one less grease gun and no way to replace the missing tool. In a few years astronauts may be able to restock lost or damaged instruments by simply 3-d printing new ones. Nasa will test the feasibility of 3-d printing in a confined microgravity environment early next june when it sends a microwave-size printer to the iss for a series of experiments producing plastic and composite parts and tools. If all goes well, the space agency plans to install a permanent iss printer in 2015. In the near term such a machine would let the iss crew replicate odds and ends — plastic clips to anchor cargo, for example — without having to wait for the next resupply mission. Further in the future the space agency imagines a day when raw materials mined from asteroids could be delivered to a spacecraft or orbital lab and used as 3-d printing fodder. The ability to resupply far from earth would give such a vessel the ability to carry out longer, deep-space missions, assuming myriad other sticking points are worked out — fuel, food and radiation exposure among them. Test run first things first: astronauts will install the test 3-d printer"
         ],
         "raw_document": [
             "Published on aug 12, 2013 the goal of 3-d printing is to take this capability to microgravity for use on the international space station. In space, whatever astronauts have available on orbit is what they have to use -- but just like on earth, parts break or get lost. When that happens, there's a wait for replacement parts, or the need to have multiple spares that have to be launched. The ability to conduct 3-d printing in space could change all of that. ( nasa/msfc )",
@@ -996,7 +991,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1021,7 +1016,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1062,17 +1057,16 @@
             "5": 3,
             "6": 3,
             "7": 1,
-            "8": 0
+            "8": 2
         }
     },
     {
         "idx": 7738,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A recent new york times magazine article about the challenges that a female teen star ( nickelodeon's miranda cosgrove ) faces as she grows into adulthood struck lux alptraum more for what it didn't say: why don't we worry about the boys as well? in that old boys-will-be-boys double-standard, we just assume they ' ll turn out fine no matter what, an attitude that does them a \" tremendous disservice, \" he writes at pop culture pen pals. Consider that, like cosgrove, angus t. Jones of two and a half men fame also turns 18 this year. But unlike her, \" he hasn't spent the decade sheltered in the bosom of nickelodeon — he's spent it at the side of a womanizing, drug abusing, violent, emotionally disturbed man ( yes, that would be charlie sheen ), \" writes alptraum. \" given the two situations, i ' m vastly more concerned about the long-term mental wellness of jones — yet i've yet to see any columnists agonizing about his future. \"",
         "split": "train",
         "cleansed_document": [
-            "Cosgrove seems to wear the pressure lightly. At mary fay pendleton elementary school, she extolled the virtues of broccoli and regular exercise, her affect appealingly, accessibly awkward — just like a real girl. Her flowered swing top ( purchased, she told me, the night before to go with the garden theme ), skinny jeans and fake-distressed combat boots were fashionable yet modest; pretty but not sexy. When she leaned forward to sign a few hurried autographs, children hugged her, kissed her. Advertisement continue reading the main story after a few more quick publicity photos, her escort suggested that cosgrove wait for her driver inside the principal's office. \"they're about to let the kids go, \" he explained, \"and you ' ll be mobbed. \" cosgrove glanced hesitantly at her mother, chris, who accompanied her to the event. \"it's o.k., \" miranda said. \"i don't mind. \" chris added firmly, \"she's here for the kids. \" two more officials rushed over to shoo her away, and each time, cosgrove was reassuring. Finally, the school principal called the escort's cell and said: \"they're coming! tell her to just get in the car and go! \" so, reluctantly, she did. As cosgrove's town car pulled away, i noticed a mother hurry forward with her two small daughters, looking expectant. \"she's leaving? \" the woman said, disgusted. \"that's just terrible. \" advertisement continue reading the main story disney has churned out more tween-girl idols, but nickelodeon pioneered the concept back in 1991, with \"clarissa explains it all, \" starring melissa joan hart. That show demonstrated that a female lead could play to both sexes. Until then, the conventional hollywood wisdom held that girls would watch a male protagonist but that the reverse was not the case, so a show with a female star would instantly halve your market share. Additionally, \"clarissa \" featured an actress who, at 14, was the same tender age as the part she played, intensifying fans ' identification with her. Advertisement continue reading the main story it took disney until 2001 to broadcast its own perky-girl-centered sitcom: \"lizzie mcguire, \" starring hilary duff, who was then 13. \"lizzie \" books, \"lizzie \" albums, a \"lizzie",
-            "**free hosting with domain name is ad-supported hosting. Ad-supported web sites contain relevant online advertising on a small portion of the site, but do not include obtrusive pop-up ads. Copyright © 1999 - 2012 godaddy.com, llc. All rights reserved. Go daddy super bowl commercial danica patrick dale jr. Go daddy girls"
+            "Cosgrove seems to wear the pressure lightly. At mary fay pendleton elementary school, she extolled the virtues of broccoli and regular exercise, her affect appealingly, accessibly awkward — just like a real girl. Her flowered swing top ( purchased, she told me, the night before to go with the garden theme ), skinny jeans and fake-distressed combat boots were fashionable yet modest; pretty but not sexy. When she leaned forward to sign a few hurried autographs, children hugged her, kissed her. Advertisement continue reading the main story after a few more quick publicity photos, her escort suggested that cosgrove wait for her driver inside the principal's office. \"they're about to let the kids go, \" he explained, \"and you ' ll be mobbed. \" cosgrove glanced hesitantly at her mother, chris, who accompanied her to the event. \"it's o.k., \" miranda said. \"i don't mind. \" chris added firmly, \"she's here for the kids. \" two more officials rushed over to shoo her away, and each time, cosgrove was reassuring. Finally, the school principal called the escort's cell and said: \"they're coming! tell her to just get in the car and go! \" so, reluctantly, she did. As cosgrove's town car pulled away, i noticed a mother hurry forward with her two small daughters, looking expectant. \"she's leaving? \" the woman said, disgusted. \"that's just terrible. \" advertisement continue reading the main story disney has churned out more tween-girl idols, but nickelodeon pioneered the concept back in 1991, with \"clarissa explains it all, \" starring melissa joan hart. That show demonstrated that a female lead could play to both sexes. Until then, the conventional hollywood wisdom held that girls would watch a male protagonist but that the reverse was not the case, so a show with a female star would instantly halve your market share. Additionally, \"clarissa \" featured an actress who, at 14, was the same tender age as the part she played, intensifying fans ' identification with her. Advertisement continue reading the main story it took disney until 2001 to broadcast its own perky-girl-centered sitcom: \"lizzie mcguire, \" starring hilary duff, who was then 13. \"lizzie \" books, \"lizzie \" albums, a \"lizzie"
         ],
         "raw_document": [
             "Cosgrove seems to wear the pressure lightly. At mary fay pendleton elementary school, she extolled the virtues of broccoli and regular exercise, her affect appealingly, accessibly awkward — just like a real girl. Her flowered swing top ( purchased, she told me, the night before to go with the garden theme ), skinny jeans and fake-distressed combat boots were fashionable yet modest; pretty but not sexy. When she leaned forward to sign a few hurried autographs, children hugged her, kissed her. Advertisement continue reading the main story after a few more quick publicity photos, her escort suggested that cosgrove wait for her driver inside the principal's office. \"they're about to let the kids go, \" he explained, \"and you ' ll be mobbed. \" cosgrove glanced hesitantly at her mother, chris, who accompanied her to the event. \"it's o.k., \" miranda said. \"i don't mind. \" chris added firmly, \"she's here for the kids. \" two more officials rushed over to shoo her away, and each time, cosgrove was reassuring. Finally, the school principal called the escort's cell and said: \"they're coming! tell her to just get in the car and go! \" so, reluctantly, she did. As cosgrove's town car pulled away, i noticed a mother hurry forward with her two small daughters, looking expectant. \"she's leaving? \" the woman said, disgusted. \"that's just terrible. \" advertisement continue reading the main story disney has churned out more tween-girl idols, but nickelodeon pioneered the concept back in 1991, with \"clarissa explains it all, \" starring melissa joan hart. That show demonstrated that a female lead could play to both sexes. Until then, the conventional hollywood wisdom held that girls would watch a male protagonist but that the reverse was not the case, so a show with a female star would instantly halve your market share. Additionally, \"clarissa \" featured an actress who, at 14, was the same tender age as the part she played, intensifying fans ' identification with her. Advertisement continue reading the main story it took disney until 2001 to broadcast its own perky-girl-centered sitcom: \"lizzie mcguire, \" starring hilary duff, who was then 13. \"lizzie \" books, \"lizzie \" albums, a \"lizzie",
@@ -1087,18 +1081,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 7739,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Blue was the new black on this year's red carpet in the form of aclu ribbons, e! online reports. The ribbons are part of the civil rights advocacy organization's \" stand with aclu \" drive, which has taken on momentum in the wake of president trump's immigration ban. The group notes it hoped attendees of the show would wear the ribbons to support \" the rights and civil liberties guaranteed by the constitution to everyone in the united states, \" per people. It all started with academy award nominee ruth negga, whose stylist karla welch posted an instagram pic of negga, up for a best actress oscar for loving, sporting the ribbon on her red gown. \" the accessory i ' m most proud of, \" welch wrote, adding the hashtags #aclu and #meganegga. Other stars who wore the ribbons include hamilton's lin-manuel miranda and model karlie kloss.",
         "split": "train",
         "cleansed_document": [
             "The accessory i ' m most proud of #aclu #meganegga the @aclu is the reason the loving's were allowed to be married. They represent those who need it the most. This is something we all should believe in, regardless of political party.",
-            "The stars are taking a stand. Celebrities took to the red carpet at the 89th annual academy awards on sunday wearing blue ribbon pins as symbols of solidarity with the american civil liberties union. Get push notifications with news, features and more. Loving star ruth negga kicked off the trend among the stars on sunday, wearing the pin on her red, flowing, long-sleeve gown. The accessories are part of the civil rights organization's latest initiative, \"stand with aclu, \" according to a statement from the aclu obtained by people. Richard shotwell/invision/ap watch the people &amp; ew red carpet live oscars pre-show on feb. 26 at 5 p.m. Et/2 p.m. Pt on the people/entertainment weekly network ( pen ). Go to people.com/pen, or download the app on your favorite device. Then watch our red carpet fashion wrap-up after the oscars! nominees, presenters, musicians and guests are encouraged to wear the ribbon to show their support \"for the rights and civil liberties guaranteed by the constitution to everyone in the united states, \" the statement reads. Karlie kloss negga gushed about the organization to people, noting that the nonprofit champions a \"basic love of human rights \" \"they're a big part of our film, \" negga said of the movie that chronicles the love story of mildred and richard loving, an interracial couple who fought for their right to be married. Dr. Luz towns-miranda ( left ) and lin-manuel miranda jordan strauss/invision/ap \"our film features two american civil liberties union lawyers who change the constitution of the united stares for the better and i ' m all for that, \" she said. Stylist karla welch took to instagram on sunday, posting a close-up shot of negga '",
-            "This year's biggest oscars accessory is a bit different than award show's past. Sometimes all the stars are dripping in diamonds, sometimes the cool thing to do is bring your mom ( yes, we're talking to you bradley cooperand leonardo dicaprio ). But in 2017, things are taking a slightly more political turn. It all started with ruth negga, who turned heads on the oscars red carpet less for her dress ( but what a spectacular dress it is ), but more for her bright blue ribbon. The loving star turned up rocking an aclu pin, which represents the work of the american civil liberties union — the organization most recently made headlines for its advocacy against the immigration ban."
+            "The stars are taking a stand. Celebrities took to the red carpet at the 89th annual academy awards on sunday wearing blue ribbon pins as symbols of solidarity with the american civil liberties union. Get push notifications with news, features and more. Loving star ruth negga kicked off the trend among the stars on sunday, wearing the pin on her red, flowing, long-sleeve gown. The accessories are part of the civil rights organization's latest initiative, \"stand with aclu, \" according to a statement from the aclu obtained by people. Richard shotwell/invision/ap watch the people &amp; ew red carpet live oscars pre-show on feb. 26 at 5 p.m. Et/2 p.m. Pt on the people/entertainment weekly network ( pen ). Go to people.com/pen, or download the app on your favorite device. Then watch our red carpet fashion wrap-up after the oscars! nominees, presenters, musicians and guests are encouraged to wear the ribbon to show their support \"for the rights and civil liberties guaranteed by the constitution to everyone in the united states, \" the statement reads. Karlie kloss negga gushed about the organization to people, noting that the nonprofit champions a \"basic love of human rights \" \"they're a big part of our film, \" negga said of the movie that chronicles the love story of mildred and richard loving, an interracial couple who fought for their right to be married. Dr. Luz towns-miranda ( left ) and lin-manuel miranda jordan strauss/invision/ap \"our film features two american civil liberties union lawyers who change the constitution of the united stares for the better and i ' m all for that, \" she said. Stylist karla welch took to instagram on sunday, posting a close-up shot of negga '"
         ],
         "raw_document": [
             "The accessory i ' m most proud of #aclu #meganegga the @aclu is the reason the loving's were allowed to be married. They represent those who need it the most. This is something we all should believe in, regardless of political party.",
@@ -1115,7 +1108,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1173,7 +1166,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1255,14 +1248,13 @@
     },
     {
         "idx": 7745,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Tmz's typically subtle post-oscars headline declares: \" angelina jolie... Needs a cheeseburger. \" the gossip site has a picture of the academy awards presenter looking \" incredibly skinny... Too skinny... Alarmingly skinny \" last night. Skinnier even, if you can believe it, than she looks in the pictures compiled in our photo gallery ( at left ). The gallery also includes, of course, photos of jolie's right leg, which she bizarrely flaunted not only while on stage — prompting an award recipient to mock her hip-thrusted pose — but on the red carpet as well. The daily mail notes that jolie constantly adjusted her slit-to-the-thigh atelier versace gown to show off her toned appendage, leading to thousands of social networking comments about \" angie's right leg. \" ( sample tweet: \" fun fact: angelina jolie only shaved her right leg tonight. \" ) soon enough the leg became a trending topic on twitter, and then spawned its own twitter account — which has more than 12,000 followers so far. For more: buzzfeed compiled its favorite 10 photos of the leg, and the huffington post is apparently trying to make \" angelegging \" a thing.",
         "split": "train",
         "cleansed_document": [
             "And the award for best breakout star goes to... Angie's right leg: miss jolie's lithe limb attracts attention, mocking and 10,000 twitter followers by andrea magrath last updated at 3: 31 pm on 27th february 2012 she has faced some criticism in recent weeks over her dull taste in red carpet attire during the promotional tour for her film in the land of blood and honey, choosing matronly gowns and drab colour tones over her previously sexed-up image. But angelina jolie enjoyed a return to her old cheeky, provocative self last night at the oscars, flashing acres of long, lithe leg in a daring thigh-high slit gown. The actress ' apparent determination to show off her enviable limb attracted the desired attention from fans, fellow guests and television viewers - but not all of it was positive. Whole lotta leg: angelina jolie flashes more than a peek of her pin as she walks the red carpet at the 84th academy awards in hollywood last night while the 36-year-old sashayed down the red carpet before the ceremony, stealing the spotlight from best actor nominee brad pitt with her leg-baring antics, social",
             "The 10 best pictures of angelina jolie's right leg angelina jolie's right leg is the breakout star of this year's academy awards. Here are the 10 best pictures of it.",
-            "It was the pose seen ' round the world: angelina jolie stepped onto the oscars red carpet, planting her hands on her hips and forcefully jutted her right leg out in front of her, like she was george washington crossing the delaware river. For a woman who typically eschews red carpets altogether and likes to keep a low-profile, angie's bold right leg took plenty of people by surprise. Poking out from a heavy, dark versace dress, the slender right leg seemed to have a life of its own. Soon enough, it did. By the time angie took hundreds of red carpet shots with her leg permanently extended and then presented an award in the same exposed position, the limb had its own twitter account, @angiesrightleg, with thousands of followers. Buzzfeed had a photo album of angelina's right leg, dubbing it \" the breakout star of this year's academy awards. \" when \" the descendants \" screenwriters alexander payne, nat faxon and jim rash accepted their award for best adapted screenplay, they struck the \" hip out, leg extended \" -- heretofore known as",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "It was the pose seen ' round the world: angelina jolie stepped onto the oscars red carpet, planting her hands on her hips and forcefully jutted her right leg out in front of her, like she was george washington crossing the delaware river. For a woman who typically eschews red carpets altogether and likes to keep a low-profile, angie's bold right leg took plenty of people by surprise. Poking out from a heavy, dark versace dress, the slender right leg seemed to have a life of its own. Soon enough, it did. By the time angie took hundreds of red carpet shots with her leg permanently extended and then presented an award in the same exposed position, the limb had its own twitter account, @angiesrightleg, with thousands of followers. Buzzfeed had a photo album of angelina's right leg, dubbing it \" the breakout star of this year's academy awards. \" when \" the descendants \" screenwriters alexander payne, nat faxon and jim rash accepted their award for best adapted screenplay, they struck the \" hip out, leg extended \" -- heretofore known as"
         ],
         "raw_document": [
             "And the award for best breakout star goes to... Angie's right leg: miss jolie's lithe limb attracts attention, mocking and 10,000 twitter followers by andrea magrath last updated at 3: 31 pm on 27th february 2012 she has faced some criticism in recent weeks over her dull taste in red carpet attire during the promotional tour for her film in the land of blood and honey, choosing matronly gowns and drab colour tones over her previously sexed-up image. But angelina jolie enjoyed a return to her old cheeky, provocative self last night at the oscars, flashing acres of long, lithe leg in a daring thigh-high slit gown. The actress ' apparent determination to show off her enviable limb attracted the desired attention from fans, fellow guests and television viewers - but not all of it was positive. Whole lotta leg: angelina jolie flashes more than a peek of her pin as she walks the red carpet at the 84th academy awards in hollywood last night while the 36-year-old sashayed down the red carpet before the ceremony, stealing the spotlight from best actor nominee brad pitt with her leg-baring antics, social",
@@ -1281,7 +1273,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1306,7 +1298,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1342,12 +1334,11 @@
     },
     {
         "idx": 7748,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The first mad men actress to pose for playboy is … the \"nerdy and romantically-challenged switchboard operator. \" crista flanagan, who plays lois sadler on the set-in-the-'60s show, takes it off in an appropriately retro photo spread. \"it's a modern-day cinderella tale for the 'playboy world ' — the frumpy girl turned sexpot, \" writes tracy clark-flory on salon.",
         "split": "train",
         "cleansed_document": [
-            "See crista flanagan's exclusive nudes in the cyber club! whether she's doing impressions on madtv or mowing down executives on mad men, one thing is certain: there's never a dull moment when crista flanagan is involved. Case in point: the august issue of playboy, featuring her incredibly sexy ( and deliciously retro ) nude pics! and that's only the beginning. Crista brings the same level of excitement to the cyber club, where you can see her complete nude pictorial with online-only outtakes. Sterling cooper's naive office girl stark naked is truly a sight to behold.",
-            "How do you find your place in a world that demeans, underestimates and ignores you, then treats you like a punch line when you're gone? this is the central question of \" mad men's \" \" the beautiful girls, \" but as always, the answers aren't very clear. Whether you draw lines in the sand, stomp your feet and act on principle, or surrender, whimper and weep, then try desperately to regain your footing, you ' ll still end up compromised. You either operate completely outside of the social norms and navigate the world around you with total disregard for what other people expect of you ( like peggy's friend joyce ), or you're constantly pushed into a subordinate role ( like joan, peggy and faye, sharing an alienated elevator ride at the end of the episode ). This week we see what women give up to get what they want. Peggy compromises her principles ( yet again ) in order to remain in a position of power; sally gives up her own safety and security and endangers her relationship with her mother in order to be closer to her father; faye surrenders to don's charms and to his innate sense of privilege in order to have some love in her life; and joan gives in to roger's relentless pursuit once it's clear that he's the only man ( or person, for that matter ) who offers her real support and comfort. Which of these women is honoring her ideals, and which is surrendering some crucial part of herself just to satisfy other people's expectations? \" it's a business of sadists and masochists, \" says mrs. Blankenship to peggy, \" and you know which one you are. \" although the overarching theme of liberation vs. Servitude was, at times, a little too omnipresent, echoing through every scene with the subtlety of a tuba honking away in the corner of a bar, there was still plenty to love in this episode,"
+            "See crista flanagan's exclusive nudes in the cyber club! whether she's doing impressions on madtv or mowing down executives on mad men, one thing is certain: there's never a dull moment when crista flanagan is involved. Case in point: the august issue of playboy, featuring her incredibly sexy ( and deliciously retro ) nude pics! and that's only the beginning. Crista brings the same level of excitement to the cyber club, where you can see her complete nude pictorial with online-only outtakes. Sterling cooper's naive office girl stark naked is truly a sight to behold."
         ],
         "raw_document": [
             "See crista flanagan's exclusive nudes in the cyber club! whether she's doing impressions on madtv or mowing down executives on mad men, one thing is certain: there's never a dull moment when crista flanagan is involved. Case in point: the august issue of playboy, featuring her incredibly sexy ( and deliciously retro ) nude pics! and that's only the beginning. Crista brings the same level of excitement to the cyber club, where you can see her complete nude pictorial with online-only outtakes. Sterling cooper's naive office girl stark naked is truly a sight to behold.",
@@ -1362,7 +1353,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1417,7 +1408,7 @@
             "0": 3,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1519,7 +1510,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1547,18 +1538,17 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 7756,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Jason reitman ( up in the air, juno ) is a respected filmmaker, and kate winslet and josh brolin are respected performers. But critics definitely don't respect their new collaboration labor day, a melodramatic romance between a depressed single mother and an escaped convict, based on a joyce maynard novel. Here's what they're saying: \" labor day is an unintentional howl — a party movie begging for an audience armed with pie crusts, ropes, and a mean streak. It's so terrible it's amazing, \" writes david edelstein at vulture. Reitman \" has labored ( the title is apt ) to make an american classic, \" but just wound up with unintentional camp. Edelstein did, at least, feel bad about laughing at winslet, \" who overacts with all her heart. \" \" quick, somebody check jason reitman's house to see if the real man has been turned into dust by a body snatcher, \" amy nicholson at la weekly writes, because \" labor day is so self-conscious and phony, it must be the work of a pod person. \" brolin's character is \" too flawless even for hollywood fiction, sticking out of every scene like glossy cgi. \" the movie replaces the book's \" barely repressed sexual heat \" with countless well-shot but hopelessly boring details, complains joy tipping at the dallas morning news. \" viewers will be able to make that blasted peach pie \" by the time a much-buzzed-about cooking scene ends. So if you're looking for a nice recipe \" or go all dreamy-eyed at pretty cinematography and over-sentimentality, by all means, this is the film for you. \" but steven rea at the philadelphia inquirer found it \" a strange, strangely compelling romance — one minute it's harlequin bodice-ripper, the next it's jim thompson pulp. \" ok, sure, the ending, which involves old-age makeup, \" is not to be believed, \" but brolin's performance is \" wonderfully sly, \" winslet is \" just extraordinary, \" and the movie buzzes with \" passion, poetry, and humor. \"",
         "split": "train",
         "cleansed_document": [
             "Quick, somebody check jason reitman's house to see if the real man has been turned into dust by a body snatcher. Although his name's on the poster, it's impossible to believe that the sardonic boy wonder of juno, thank you for smoking and young adult would direct this stilted romance between a divorcée and a dreamboat escaped convict. Labor day is so self-conscious and phony, it must be the work of a pod person. Humans, film lovers and fans of reitman's till-now-flawless filmography: we've gotta fight back. The plot of labor day would make a great upworthy article. Let me suggest a title: \" i never thought i'd want my mom to love a murderer until i met this bloody hunk. \" after dad ( clark gregg ) ditches the family for his secretary, 13-year-old henry ( gattlin griffin )",
-            "Jason reitman's tremulous romantic drama labor day is an unintentional howl — a party movie begging for an audience armed with pie crusts, ropes, and a mean streak. It's so terrible it's amazing. The film is based on a joyce maynard ­novel, a wet oedipal fantasy with a dash of kink that turns family-friendly with a vengeance. The narrator is the grown-up henry ( gattlin griffith ), a pubescent lad whose father has decamped and whose mother, adele ( kate winslet ), has become a virtual shut-in — shattered, says henry, not by the loss of her husband but the loss of \"love itself. \" he tries to replace her ex but it won't take. He's not of age. And then, as if out of his fervid imagination, in steps an escaped prisoner, frank ( josh brolin ), a",
-            "I feel like... Doing something eating listening to music drinking like what? anything for a laugh festive/holiday with the family with food and drink with film and movies active artsy music free editors picks at places where? anywhere near me in addison in allen/fairview in the arts district in bishop arts in deep ellum in downtown dallas in the design district in east dallas/lakewood in frisco in knox/henderson in lower greenville in mckinney in oak cliff/south dallas in oak lawn in plano in richardson/lake highlands in uptown in victory park in west dallas/trinity groves in the west end at the state fair of texas at north texas beer week sometime when? anytime today this weekend next 7 days next 30 days what kind of food? anything american upscale asian barbecue burgers european mediterranean mexican &amp; tex-mex pizza seafood steakhouse vegetarian/organic at places where? anywhere near me in addison in allen/fairview in the arts district in bishop arts in deep ellum"
+            "Jason reitman's tremulous romantic drama labor day is an unintentional howl — a party movie begging for an audience armed with pie crusts, ropes, and a mean streak. It's so terrible it's amazing. The film is based on a joyce maynard ­novel, a wet oedipal fantasy with a dash of kink that turns family-friendly with a vengeance. The narrator is the grown-up henry ( gattlin griffith ), a pubescent lad whose father has decamped and whose mother, adele ( kate winslet ), has become a virtual shut-in — shattered, says henry, not by the loss of her husband but the loss of \"love itself. \" he tries to replace her ex but it won't take. He's not of age. And then, as if out of his fervid imagination, in steps an escaped prisoner, frank ( josh brolin ), a"
         ],
         "raw_document": [
             "Quick, somebody check jason reitman's house to see if the real man has been turned into dust by a body snatcher. Although his name's on the poster, it's impossible to believe that the sardonic boy wonder of juno, thank you for smoking and young adult would direct this stilted romance between a divorcée and a dreamboat escaped convict. Labor day is so self-conscious and phony, it must be the work of a pod person. Humans, film lovers and fans of reitman's till-now-flawless filmography: we've gotta fight back. The plot of labor day would make a great upworthy article. Let me suggest a title: \" i never thought i'd want my mom to love a murderer until i met this bloody hunk. \" after dad ( clark gregg ) ditches the family for his secretary, 13-year-old henry ( gattlin griffin )",
@@ -1575,7 +1565,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1647,7 +1637,7 @@
             "4": 0,
             "5": 1,
             "6": 0,
-            "7": 0
+            "7": 1
         }
     },
     {
@@ -1703,7 +1693,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1982,7 +1972,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2071,7 +2061,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2096,17 +2086,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 7775,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Marking what would have been john lennon's 70th birthday, his widow yoko ono revealed yesterday that it was paul mccartney who saved their marriage. Despite the bandmates ' well-known post-beatles feud, mccartney came to lennon's assistance during the infamous \"lost weekend, \" when he ran off with his personal assistant, ono tells the times in an interview obtained by the daily mail. Mccartney \"was genuinely concerned about his old partner, \" ono recalls, and visited her to ask how lennon could win her back. Ono gave mccartney some suggestions, which he then passed on to lennon, who came back to new york to court his wife once again, ultimately winning her back. \"i want the world to know that it was a very touching thing that he did for john, \" ono says. \"even though john was not even asking for help — john, paul, all of them were too proud to ask anything — he helped. John often said he didn't understand why paul did this for us, but he did. \" to see how the web celebrated lennon's 70th, click here.",
         "split": "train",
         "cleansed_document": [
-            "Love me do: yoko reveals it was paul who saved her marriage to john by catherine eade it became a legendary event in john lennon's increasingly eccentric life - famously known as'the lost weekend '. And now, on the day john lennon fans around the world are celebrating what would have been his 70th birthday, his widow, yoko ono, has revealed what happened during those days when john disappeared with their pretty personal assistant. And despite a well known war of words with beatle paul mccartney, yoko credits macca with actually saving their marriage. John and yoko had separated in the summer of 1973 after a period of marital strife, and subsequently lennon began a relationship with his personal assistant may pang - a collusion pang says was entirely orchestrated by yoko. Yoko continued to stay in touch with her errant husband but it was not until they met backstage at an elton john concert in november1974 that they became reconciled. John lennon and yoko ono at their home at tittenhurst park genuinely worried: paul mccartney, pictured earlier this month, wanted to help john sort out his marriage, yoko said in an interview today but the surprise element of the story is that yoko reveals paul mccartney stepped in and brought the couple back together. That the two were not on good terms and a feud developed after lennon",
-            "John lennon would have been 70 today, and tributes abound around the web. He was more than just a beatle – lennon was a political activist for peace and justice, and it's nice to remember him on the day he was born, not the day he was so horribly taken too soon. For moms with teens, lennon often becomes a ghostly presence around the house – i know that's the case for us, as my stepson is 14 and adores the beatles. I was his age when lennon was shot, so all my fandom is overshadowed with sadness; for him, it's all just great songs and round glasses. If you're celebrating the life of john lennon – with your kids or on your own – here are some of the cool tributes from around the web: google's home page ( you might have to log out of igoogle ) features a neato animation in lennon's unique drawing style. If you miss it, you can see it and all the other custom doodles at http://www.google.com/logos/. Youtube's johnlennon channel features special messages from his loved ones and famous fans. Rolling stone has three clips from the upcoming documentary lennonnyc, which will air on pbs's \"american masters \" series on november 22. Yoko and famous pals like lady gaga"
+            "Love me do: yoko reveals it was paul who saved her marriage to john by catherine eade it became a legendary event in john lennon's increasingly eccentric life - famously known as'the lost weekend '. And now, on the day john lennon fans around the world are celebrating what would have been his 70th birthday, his widow, yoko ono, has revealed what happened during those days when john disappeared with their pretty personal assistant. And despite a well known war of words with beatle paul mccartney, yoko credits macca with actually saving their marriage. John and yoko had separated in the summer of 1973 after a period of marital strife, and subsequently lennon began a relationship with his personal assistant may pang - a collusion pang says was entirely orchestrated by yoko. Yoko continued to stay in touch with her errant husband but it was not until they met backstage at an elton john concert in november1974 that they became reconciled. John lennon and yoko ono at their home at tittenhurst park genuinely worried: paul mccartney, pictured earlier this month, wanted to help john sort out his marriage, yoko said in an interview today but the surprise element of the story is that yoko reveals paul mccartney stepped in and brought the couple back together. That the two were not on good terms and a feud developed after lennon"
         ],
         "raw_document": [
             "Love me do: yoko reveals it was paul who saved her marriage to john by catherine eade it became a legendary event in john lennon's increasingly eccentric life - famously known as'the lost weekend '. And now, on the day john lennon fans around the world are celebrating what would have been his 70th birthday, his widow, yoko ono, has revealed what happened during those days when john disappeared with their pretty personal assistant. And despite a well known war of words with beatle paul mccartney, yoko credits macca with actually saving their marriage. John and yoko had separated in the summer of 1973 after a period of marital strife, and subsequently lennon began a relationship with his personal assistant may pang - a collusion pang says was entirely orchestrated by yoko. Yoko continued to stay in touch with her errant husband but it was not until they met backstage at an elton john concert in november1974 that they became reconciled. John lennon and yoko ono at their home at tittenhurst park genuinely worried: paul mccartney, pictured earlier this month, wanted to help john sort out his marriage, yoko said in an interview today but the surprise element of the story is that yoko reveals paul mccartney stepped in and brought the couple back together. That the two were not on good terms and a feud developed after lennon",
@@ -2121,7 +2110,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2212,12 +2201,11 @@
     },
     {
         "idx": 7779,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "And the revelations from dick cheney's new memoir just keep coming: yesterday, news of a secret resignation letter. Today, the new york times, which obtained a copy of in my time, reports that cheney pushed bush to bomb what the us believed to be a nuclear reactor site in syria in 2007. But others in the white house, wary of a repeat of the iraq/wmd scenario, balked, and bush opted to take the diplomatic route. \" i again made the case for us military action against the reactor, \" cheney wrote. \" but i was a lone voice. After i finished, the president asked, 'does anyone here agree with the vice president? ' not a single hand went up around the room. \" the memoir, which charlie savage of the times describes as \" often pugnacious in tone, \" paints cheney as an \" outlier \" in the bush administration. In the book, cheney spills on conflicts with: condoleezza rice, who he saw as naive for pursuing disarmament agreements with north korea; george tenet, the timing of whose resignation as head of the cia was \" unfair to the president \"; and colin powell, who cheney wanted out after the secretary of state privately shared doubts about the iraq war. Click for more revelations.",
         "split": "train",
         "cleansed_document": [
-            "Photo advertisement continue reading the main story washington — former vice president dick cheney says in a new memoir that he urged president george w. Bush to bomb a suspected syrian nuclear reactor site in june 2007. But, he wrote, mr. Bush opted for a diplomatic approach after other advisers — still stinging over \"the bad intelligence we had received about iraq's stockpiles of weapons of mass destruction \" — expressed misgivings. \"i again made the case for u.s. Military action against the reactor, \" mr. Cheney wrote about a meeting on the issue. \"but i was a lone voice. After i finished, the president asked, 'does anyone here agree with the vice president? ' not a single hand went up around the room. \" mr. Bush chose to try diplomatic pressure to force the syrians to abandon the secret program, but the israelis bombed the site in september 2007. Mr. Cheney's account of the discussion appears in his autobiography, \"in my time: a personal and political memoir, \" which is to be published by simon &amp; schuster next week. A copy was obtained by the new york times. Mr. Cheney's book — which is often pugnacious in tone and in which he expresses little regret about many of the most controversial decisions of the bush administration — casts him as something of an outlier among top advisers who increasingly took what he saw as a misguided course on national security issues. While he praises mr. Bush as \"an outstanding leader, \" mr. Cheney, who made guarding the secrecy of internal deliberations a hallmark of his time in office, divulges a number of conflicts with others in the inner circle. He wrote that george j. Tenet, the director of the central intelligence agency, resigned in 2004 just \"when the going got tough, \" a decision he calls \"unfair to the president. \" he wrote that he believes that secretary of state colin l. Powell tried to undermine president bush by privately expressing doubts about the iraq war, and he confirms that he pushed to have mr. Powell removed from the cabinet after the 2004 election. \"it was as though he thought the proper way to express his views was by criticizing administration policy to people outside the government, \" mr. Cheney writes. His resignation \"was for the best. \" he faults former secretary of state condoleezza rice for naïveté in the efforts to forge a nuclear weapons agreement with north korea, and mr. Cheney reports that he fought with white house advisers over softening the president's speeches on iraq. Mr. Cheney acknowledged that the administration underestimated the challenges in iraq",
-            "Get free shipping free 5-8 business-day shipping within the u.s. When you order $ 25 of eligible items sold or fulfilled by amazon."
+            "Photo advertisement continue reading the main story washington — former vice president dick cheney says in a new memoir that he urged president george w. Bush to bomb a suspected syrian nuclear reactor site in june 2007. But, he wrote, mr. Bush opted for a diplomatic approach after other advisers — still stinging over \"the bad intelligence we had received about iraq's stockpiles of weapons of mass destruction \" — expressed misgivings. \"i again made the case for u.s. Military action against the reactor, \" mr. Cheney wrote about a meeting on the issue. \"but i was a lone voice. After i finished, the president asked, 'does anyone here agree with the vice president? ' not a single hand went up around the room. \" mr. Bush chose to try diplomatic pressure to force the syrians to abandon the secret program, but the israelis bombed the site in september 2007. Mr. Cheney's account of the discussion appears in his autobiography, \"in my time: a personal and political memoir, \" which is to be published by simon &amp; schuster next week. A copy was obtained by the new york times. Mr. Cheney's book — which is often pugnacious in tone and in which he expresses little regret about many of the most controversial decisions of the bush administration — casts him as something of an outlier among top advisers who increasingly took what he saw as a misguided course on national security issues. While he praises mr. Bush as \"an outstanding leader, \" mr. Cheney, who made guarding the secrecy of internal deliberations a hallmark of his time in office, divulges a number of conflicts with others in the inner circle. He wrote that george j. Tenet, the director of the central intelligence agency, resigned in 2004 just \"when the going got tough, \" a decision he calls \"unfair to the president. \" he wrote that he believes that secretary of state colin l. Powell tried to undermine president bush by privately expressing doubts about the iraq war, and he confirms that he pushed to have mr. Powell removed from the cabinet after the 2004 election. \"it was as though he thought the proper way to express his views was by criticizing administration policy to people outside the government, \" mr. Cheney writes. His resignation \"was for the best. \" he faults former secretary of state condoleezza rice for naïveté in the efforts to forge a nuclear weapons agreement with north korea, and mr. Cheney reports that he fought with white house advisers over softening the president's speeches on iraq. Mr. Cheney acknowledged that the administration underestimated the challenges in iraq"
         ],
         "raw_document": [
             "Photo advertisement continue reading the main story washington — former vice president dick cheney says in a new memoir that he urged president george w. Bush to bomb a suspected syrian nuclear reactor site in june 2007. But, he wrote, mr. Bush opted for a diplomatic approach after other advisers — still stinging over \"the bad intelligence we had received about iraq's stockpiles of weapons of mass destruction \" — expressed misgivings. \"i again made the case for u.s. Military action against the reactor, \" mr. Cheney wrote about a meeting on the issue. \"but i was a lone voice. After i finished, the president asked, 'does anyone here agree with the vice president? ' not a single hand went up around the room. \" mr. Bush chose to try diplomatic pressure to force the syrians to abandon the secret program, but the israelis bombed the site in september 2007. Mr. Cheney's account of the discussion appears in his autobiography, \"in my time: a personal and political memoir, \" which is to be published by simon &amp; schuster next week. A copy was obtained by the new york times. Mr. Cheney's book — which is often pugnacious in tone and in which he expresses little regret about many of the most controversial decisions of the bush administration — casts him as something of an outlier among top advisers who increasingly took what he saw as a misguided course on national security issues. While he praises mr. Bush as \"an outstanding leader, \" mr. Cheney, who made guarding the secrecy of internal deliberations a hallmark of his time in office, divulges a number of conflicts with others in the inner circle. He wrote that george j. Tenet, the director of the central intelligence agency, resigned in 2004 just \"when the going got tough, \" a decision he calls \"unfair to the president. \" he wrote that he believes that secretary of state colin l. Powell tried to undermine president bush by privately expressing doubts about the iraq war, and he confirms that he pushed to have mr. Powell removed from the cabinet after the 2004 election. \"it was as though he thought the proper way to express his views was by criticizing administration policy to people outside the government, \" mr. Cheney writes. His resignation \"was for the best. \" he faults former secretary of state condoleezza rice for naïveté in the efforts to forge a nuclear weapons agreement with north korea, and mr. Cheney reports that he fought with white house advisers over softening the president's speeches on iraq. Mr. Cheney acknowledged that the administration underestimated the challenges in iraq",
@@ -2232,7 +2220,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2262,12 +2250,11 @@
     },
     {
         "idx": 7781,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Zach galifianakis hit the premiere of his new movie birdman in new york on saturday looking pretty svelte, leading him to joke to e!, \" i ' m dying, \" before adding that he was wearing a \" ladies [ size ] 50. \" he started losing weight last year, telling conan o ' brien, \" i stopped drinking and i just kind of put the weight off … i was having a lot of vodka with sausage … delicious but bad for you. I was getting into too much trouble with the drinking, so i just kind of stopped. \" ( for more galifianakis, click to watch him spank justin bieber. )",
         "split": "train",
         "cleansed_document": [
-            "Whoa, zach galifianakis is looking like a shadow of his former self. While the hangover star originally revealed his initial weight loss last year, he appeared to be thinner than ever over the weekend while promoting his upcoming project. At the new york city premiere of birdman, e! news caught up with the hilarious actor and asked about stepping into unchartered territory for his role in the highly anticipated flick. \" the script kind of called for a more kind of tame person, as opposed to the things maybe that i have played in the past, \" he told us on the red carpet. \" it's a different type of movie … with the tone of the movie, you kind of want to change the tone of your acting. It was challenging because it was new. \"",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Whoa, zach galifianakis is looking like a shadow of his former self. While the hangover star originally revealed his initial weight loss last year, he appeared to be thinner than ever over the weekend while promoting his upcoming project. At the new york city premiere of birdman, e! news caught up with the hilarious actor and asked about stepping into unchartered territory for his role in the highly anticipated flick. \" the script kind of called for a more kind of tame person, as opposed to the things maybe that i have played in the past, \" he told us on the red carpet. \" it's a different type of movie … with the tone of the movie, you kind of want to change the tone of your acting. It was challenging because it was new. \""
         ],
         "raw_document": [
             "Whoa, zach galifianakis is looking like a shadow of his former self. While the hangover star originally revealed his initial weight loss last year, he appeared to be thinner than ever over the weekend while promoting his upcoming project. At the new york city premiere of birdman, e! news caught up with the hilarious actor and asked about stepping into unchartered territory for his role in the highly anticipated flick. \" the script kind of called for a more kind of tame person, as opposed to the things maybe that i have played in the past, \" he told us on the red carpet. \" it's a different type of movie … with the tone of the movie, you kind of want to change the tone of your acting. It was challenging because it was new. \"",
@@ -2284,7 +2271,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2312,17 +2299,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 7783,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "At least $ 8 billion of the $ 60 billion spent by the united states on iraq reconstruction was wasted due to us insistence on large rebuilding projects that the iraqis did not want — that's according to the long-awaited, 171-page report \" learning from iraq, \" released today by the special inspector general for iraq reconstruction, reports the new york times. For the most part, rebuilding projects were poorly planned and supervised, with american managers operating \" in a vacuum \" and little iraqi input, according to one iraqi official. Although there were a few success stories — the report cites the port of umm qasr — in the end, the judgment was \"too much money was spent with too few results, \" says james jeffrey, the american ambassador in iraq from 2010 to 2012. The report also criticizes president obama's withdrawal of troops in december 2011, quoting leon panetta as saying that the end of the us presence cost america much of its leverage to stop the iraqi government from making \" bad decisions \" and \" going off a cliff. \" you can read the full report at the special inspector general for iraq reconstruction website.",
         "split": "train",
         "cleansed_document": [
-            "Washington — before he left his pentagon post, defense secretary leon e. Panetta concluded that the inability of the obama administration to complete an agreement providing for an american military presence in iraq after 2011 had deprived the united states of important political leverage in iraq. When the united states had troops in iraq, the former defense secretary explained, the american commander and the ambassador in baghdad \"created a strong force \" that could often dissuade the iraqi prime minister, nuri kamal al-maliki, from making \"bad decisions \" and \"going off a cliff. \" but the withdrawal of the last complement of american forces in december 2011 reduced the ability of the united states to shape events there, he said. Mr. Panetta's views are contained in a report by stuart w. Bowen jr., the special inspector general for iraq reconstruction. The post was established by congress more than eight years ago, and the 171-page assessment on \"learning from iraq \" is its final major report. Much of the study, which is to be released wednesday, covers the more than $ 60 billion in american aid that was used to carry out projects in iraq. But the report also provides summaries of interviews with senior american and iraqi officials, who in many cases drew remarkably similar conclusions about the mistakes made by the united states. The united states, officials from both",
-            "Learning from iraq a final report from the special inspector general for iraq reconstruction a final report from the special inspector general for iraq reconstruction culminates sigir's nine-year mission overseeing iraq's reconstruction. It serves as a follow-up to our previous comprehensive review of the rebuilding effort, hard lessons: the iraq reconstruction experience. This study provides much more than a recapitulation of what the reconstruction program accomplished and what my office found in the interstices. While examining both of these issues and many more, learning from iraq importantly captures the effects of the rebuilding program as derived from 44 interviews with the recipients ( the iraqi leadership ), the executors ( u.s. Senior leaders ), and the providers ( congressional members ). These interviews piece together an instructive picture of what was the largest stabilization and reconstruction operation ever undertaken by the united states ( until recently overtaken by afghanistan ). The body of this report reveals countless details about the use of more than $ 60 billion in taxpayer dollars to support programs and projects in iraq. It articulates numerous lessons derived from sigir's 220 audits and 170 inspections, and it lists the varying consequences meted out from the 82 convictions achieved through our investigations. It urges and substantiates necessary reforms that could improve stabilization and reconstruction operations, and it highlights the financial benefits accomplished by sigir's work"
+            "Washington — before he left his pentagon post, defense secretary leon e. Panetta concluded that the inability of the obama administration to complete an agreement providing for an american military presence in iraq after 2011 had deprived the united states of important political leverage in iraq. When the united states had troops in iraq, the former defense secretary explained, the american commander and the ambassador in baghdad \"created a strong force \" that could often dissuade the iraqi prime minister, nuri kamal al-maliki, from making \"bad decisions \" and \"going off a cliff. \" but the withdrawal of the last complement of american forces in december 2011 reduced the ability of the united states to shape events there, he said. Mr. Panetta's views are contained in a report by stuart w. Bowen jr., the special inspector general for iraq reconstruction. The post was established by congress more than eight years ago, and the 171-page assessment on \"learning from iraq \" is its final major report. Much of the study, which is to be released wednesday, covers the more than $ 60 billion in american aid that was used to carry out projects in iraq. But the report also provides summaries of interviews with senior american and iraqi officials, who in many cases drew remarkably similar conclusions about the mistakes made by the united states. The united states, officials from both"
         ],
         "raw_document": [
             "Washington — before he left his pentagon post, defense secretary leon e. Panetta concluded that the inability of the obama administration to complete an agreement providing for an american military presence in iraq after 2011 had deprived the united states of important political leverage in iraq. When the united states had troops in iraq, the former defense secretary explained, the american commander and the ambassador in baghdad \"created a strong force \" that could often dissuade the iraqi prime minister, nuri kamal al-maliki, from making \"bad decisions \" and \"going off a cliff. \" but the withdrawal of the last complement of american forces in december 2011 reduced the ability of the united states to shape events there, he said. Mr. Panetta's views are contained in a report by stuart w. Bowen jr., the special inspector general for iraq reconstruction. The post was established by congress more than eight years ago, and the 171-page assessment on \"learning from iraq \" is its final major report. Much of the study, which is to be released wednesday, covers the more than $ 60 billion in american aid that was used to carry out projects in iraq. But the report also provides summaries of interviews with senior american and iraqi officials, who in many cases drew remarkably similar conclusions about the mistakes made by the united states. The united states, officials from both",
@@ -2337,7 +2323,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2365,7 +2351,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2437,7 +2423,7 @@
             "3": 0,
             "4": 1,
             "5": 0,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -2577,12 +2563,11 @@
     },
     {
         "idx": 7792,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The happiest place on earth didn't exactly live up to its name for 17 guests friday night. The 11 adults and six juveniles were hit with fecal matter at disneyland, and initial reports came in that someone might have thrown it at them, causing a hazmat team to respond, an anaheim police sergeant tells cbs la. However, it was soon determined that the poor unfortunate souls had actually been hit with goose poop from geese that were flying over the california theme park at the time, the orange county register reports. The guests were allowed to clean up in a private bathroom, were given new clothes, and returned to the amusement park \" healthy and happy, \" per a tweet from anaheim pd.",
         "split": "train",
         "cleansed_document": [
-            "Anaheim — firefighters responded friday night to disneyland, after 17 people were hit with fecal matter, authorities said. The feces were apparently from geese flying over the park, according to the anaheim police department. The department said 11 adults and 6 juveniles were impacted. \"no crime, \" the department continued. No one was injured or taken to a hospital. The affected guests were allowed to wash up in a private restroom and were provided fresh clothing, disneyland officials said. They then returned to the park. \"all guests are healthy and happy, \" the department said in a tweet.",
-            "The museum of selfies opens in los angeles april 1 the highly anticipated the museum of selfies pop-up museum will showcase over fifteen thought provoking exhibits and a record-breaking selfie stick measuring 90-feet, 6-inches long, extending through the entire length of the museum. Best things to do this weekend in los angeles - march 30 - april 1spring is in full swing. Coupled with the holiday, l.a. Is brimming with cool things to get into. Here is what your weekend looks like in los angeles."
+            "Anaheim — firefighters responded friday night to disneyland, after 17 people were hit with fecal matter, authorities said. The feces were apparently from geese flying over the park, according to the anaheim police department. The department said 11 adults and 6 juveniles were impacted. \"no crime, \" the department continued. No one was injured or taken to a hospital. The affected guests were allowed to wash up in a private restroom and were provided fresh clothing, disneyland officials said. They then returned to the park. \"all guests are healthy and happy, \" the department said in a tweet."
         ],
         "raw_document": [
             "Anaheim — firefighters responded friday night to disneyland, after 17 people were hit with fecal matter, authorities said. The feces were apparently from geese flying over the park, according to the anaheim police department. The department said 11 adults and 6 juveniles were impacted. \"no crime, \" the department continued. No one was injured or taken to a hospital. The affected guests were allowed to wash up in a private restroom and were provided fresh clothing, disneyland officials said. They then returned to the park. \"all guests are healthy and happy, \" the department said in a tweet.",
@@ -2597,17 +2582,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 7793,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Can we thank government for our best opportunities? president obama seems to think so, but charles krauthammer isn't buying it: yes, government builds roads and pays teachers, but \" to say that all individuals are embedded in and the product of society is banal, \" he writes in the washington post. The most powerful influence on individuals \" is civil society, those elements of the collectivity that lie outside government: family, neighborhood, church, rotary club, pta \"... And so on. Worse, says krauthammer, the real threat to civil society \" is the ever-growing leviathan state and those like obama who see it as the ultimate expression of the collective. \" krauthammer goes on to mock the life of julia, \" an obama campaign creation \" that shows how government can help one american woman during her lifetime. \" julia's world is totally atomized, \" he writes. \" it contains no friends, no community and, of course, no spouse. Who needs one? she's married to the provider state. \" click for the full article.",
         "split": "train",
         "cleansed_document": [
-            "\"if you've got a business — you didn't build that. Somebody else made that happen. \" — barack obama, roanoke, va., july 13 and who might that somebody else be? government, says obama. It built the roads you drive on. It provided the teacher who inspired you. It \"created the internet. \" it represents the embodiment of \"we're in this together \" social solidarity that, in obama's view, is the essential origin of individual and national achievement. To say that all individuals are embedded in and the product of society is banal. Obama rises above banality by means of fallacy: equating society with government, the collectivity with the state. Of course we are shaped by our milieu. But the most formative, most important influence on the individual is not government. It is civil society, those elements of the collectivity that lie outside government: family, neighborhood, church, rotary club, pta, the voluntary associations that tocqueville understood to be the genius of america and source of its energy and freedom. Moreover, the greatest threat to a robust, autonomous civil society is the ever-growing leviathan state and those like obama who see it as the ultimate expression of the collective. Obama compounds the fallacy by declaring the state to be the font of entrepreneurial success. How so? it created the infrastructure — roads, bridges, schools, internet — off which we all thrive. Absurd. We don't credit the swiss postal service with the special theory of relativity because it transmitted einstein's manuscript to the annalen der physik. Everyone drives the roads, goes to school, uses the mails. So did steve jobs. Yet only he created the mac and the ipad. Obama's infrastructure argument is easily refuted by what is essentially a controlled social experiment. Roads and schools are the constant. What's variable is the energy, enterprise, risk-taking, hard work and genius of the individual. It is therefore precisely those individual characteristics, not the communal utilities, that account for the different outcomes. The ultimate obama fallacy, however, is the conceit that belief in the value of infrastructure — and willingness to invest in its creation",
-            "Under president obama: julia is enrolled in a head start program to help get her ready for school. Because of steps president obama has taken to improve programs like this one, julia joins thousands of students across the country who will start kindergarten ready to learn and succeed. Under mitt romney: the romney/ryan budget could cut programs like head start by 20 %, meaning the program would offer 200,000 fewer slots per year."
+            "\"if you've got a business — you didn't build that. Somebody else made that happen. \" — barack obama, roanoke, va., july 13 and who might that somebody else be? government, says obama. It built the roads you drive on. It provided the teacher who inspired you. It \"created the internet. \" it represents the embodiment of \"we're in this together \" social solidarity that, in obama's view, is the essential origin of individual and national achievement. To say that all individuals are embedded in and the product of society is banal. Obama rises above banality by means of fallacy: equating society with government, the collectivity with the state. Of course we are shaped by our milieu. But the most formative, most important influence on the individual is not government. It is civil society, those elements of the collectivity that lie outside government: family, neighborhood, church, rotary club, pta, the voluntary associations that tocqueville understood to be the genius of america and source of its energy and freedom. Moreover, the greatest threat to a robust, autonomous civil society is the ever-growing leviathan state and those like obama who see it as the ultimate expression of the collective. Obama compounds the fallacy by declaring the state to be the font of entrepreneurial success. How so? it created the infrastructure — roads, bridges, schools, internet — off which we all thrive. Absurd. We don't credit the swiss postal service with the special theory of relativity because it transmitted einstein's manuscript to the annalen der physik. Everyone drives the roads, goes to school, uses the mails. So did steve jobs. Yet only he created the mac and the ipad. Obama's infrastructure argument is easily refuted by what is essentially a controlled social experiment. Roads and schools are the constant. What's variable is the energy, enterprise, risk-taking, hard work and genius of the individual. It is therefore precisely those individual characteristics, not the communal utilities, that account for the different outcomes. The ultimate obama fallacy, however, is the conceit that belief in the value of infrastructure — and willingness to invest in its creation"
         ],
         "raw_document": [
             "\"if you've got a business — you didn't build that. Somebody else made that happen. \" — barack obama, roanoke, va., july 13 and who might that somebody else be? government, says obama. It built the roads you drive on. It provided the teacher who inspired you. It \"created the internet. \" it represents the embodiment of \"we're in this together \" social solidarity that, in obama's view, is the essential origin of individual and national achievement. To say that all individuals are embedded in and the product of society is banal. Obama rises above banality by means of fallacy: equating society with government, the collectivity with the state. Of course we are shaped by our milieu. But the most formative, most important influence on the individual is not government. It is civil society, those elements of the collectivity that lie outside government: family, neighborhood, church, rotary club, pta, the voluntary associations that tocqueville understood to be the genius of america and source of its energy and freedom. Moreover, the greatest threat to a robust, autonomous civil society is the ever-growing leviathan state and those like obama who see it as the ultimate expression of the collective. Obama compounds the fallacy by declaring the state to be the font of entrepreneurial success. How so? it created the infrastructure — roads, bridges, schools, internet — off which we all thrive. Absurd. We don't credit the swiss postal service with the special theory of relativity because it transmitted einstein's manuscript to the annalen der physik. Everyone drives the roads, goes to school, uses the mails. So did steve jobs. Yet only he created the mac and the ipad. Obama's infrastructure argument is easily refuted by what is essentially a controlled social experiment. Roads and schools are the constant. What's variable is the energy, enterprise, risk-taking, hard work and genius of the individual. It is therefore precisely those individual characteristics, not the communal utilities, that account for the different outcomes. The ultimate obama fallacy, however, is the conceit that belief in the value of infrastructure — and willingness to invest in its creation",
@@ -2622,18 +2606,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 7794,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The alzheimer's association estimates that more than 5 million americans are living with the disease — and that by 2050, that count could triple. But pfizer on saturday announced it's getting out of the alzheimer's game, at least when it comes to researching potential new drugs. The company will \" re-allocate spend across our portfolio, to focus on those areas where our pipeline, and our scientific expertise, is strongest, \" it said in a statement picked up by reuters. Its previously significant investment in alzheimer's and parkinson's disease research and development will cease, and 300 jobs will be cut as a result, reports bloomberg. The wall street journal notes the news follows one high-profile flop: bapineuzumab showed early promise as an alzheimer's drug but didn't pan out in subsequent trials and was abandoned in 2012.",
         "split": "train",
         "cleansed_document": [
             "Pfizer inc. On saturday said it would stop trying to discover new drugs for alzheimer's disease and parkinson's disease, abandoning costly but futile efforts to find effective treatments for the disorders. The cutback will result in layoffs of 300 employees in cambridge and andover in massachusetts and in groton, conn., over several months, according to a company statement. The...",
-            "( in this january 7 story corrects paragraph 3 to show that tanezumab is not yet on the market ) file photo: the pfizer logo is seen at their world headquarters in new york april 28, 2014. Reuters/andrew kelly/file photo new york ( reuters ) - pfizer inc ( pfe.n ) is abandoning research to find new drugs aimed at treating alzheimer's and parkinson's disease, the u.s. Pharmaceutical company announced on saturday. The company said it expects to eliminate 300 positions from the neuroscience discovery and early development programs in andover and cambridge, massachusetts, and groton, connecticut, as it redistributes the money spent on research, according to the emailed statement. Pfizer is not making any changes to research and development funding for tanezumab, which is being tested as a treatment for joint pain from osteoarthritis, fibromyalgia treatment lyrica, or its rare disease program. \"this was an exercise to re-allocate spend across our portfolio, to focus on those areas where our pipeline, and our scientific expertise, is strongest, \" the company said. Pfizer has invested heavily in research for parkinson's and alzheimer's, and is one of several drugmakers",
-            "2018 alzheimer's disease facts and figures quick facts share the facts: prevalence the number of americans living with alzheimer's is growing — and growing fast. An estimated 5.7 million americans of all ages have alzheimer's. An estimated 5.7 million americans of all ages are living with alzheimer's dementia in 2018. This number includes an estimated 5.5 million people age 65 and older and approximately 200,000 individuals under age 65 who have younger-onset alzheimer's. One in 10 people age 65 and older ( 10 percent ) has alzheimer's dementia. Almost two-thirds of americans with alzheimer's are women. Older african-americans are about twice as likely to have alzheimer's or other dementias as older whites. Hispanics are about one and one-half times as likely to have alzheimer's or other dementias as older whites. As the number of older americans grows rapidly, so too will the numbers of new and existing cases of alzheimer's. Today, someone in the united states develops alzheimer's every 65 seconds. By mid-century, someone in the united states will develop the disease every 33 seconds. Get involved. Join"
+            "( in this january 7 story corrects paragraph 3 to show that tanezumab is not yet on the market ) file photo: the pfizer logo is seen at their world headquarters in new york april 28, 2014. Reuters/andrew kelly/file photo new york ( reuters ) - pfizer inc ( pfe.n ) is abandoning research to find new drugs aimed at treating alzheimer's and parkinson's disease, the u.s. Pharmaceutical company announced on saturday. The company said it expects to eliminate 300 positions from the neuroscience discovery and early development programs in andover and cambridge, massachusetts, and groton, connecticut, as it redistributes the money spent on research, according to the emailed statement. Pfizer is not making any changes to research and development funding for tanezumab, which is being tested as a treatment for joint pain from osteoarthritis, fibromyalgia treatment lyrica, or its rare disease program. \"this was an exercise to re-allocate spend across our portfolio, to focus on those areas where our pipeline, and our scientific expertise, is strongest, \" the company said. Pfizer has invested heavily in research for parkinson's and alzheimer's, and is one of several drugmakers"
         ],
         "raw_document": [
             "Pfizer inc. On saturday said it would stop trying to discover new drugs for alzheimer's disease and parkinson's disease, abandoning costly but futile efforts to find effective treatments for the disorders. The cutback will result in layoffs of 300 employees in cambridge and andover in massachusetts and in groton, conn., over several months, according to a company statement. The...",
@@ -2650,7 +2633,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2678,7 +2661,7 @@
         "vote_count": {
             "0": 2,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2708,7 +2691,7 @@
     },
     {
         "idx": 7797,
-        "document_num": 6,
+        "document_num": 5,
         "summary": "Right now, as you sit in your air-conditioned living room or office goofing off online, there are 97 people pushing their bodies to the limit in what has been billed \" the world's toughest foot race. \" the 135-mile slog known as the badwater ultramarathon kicked off yesterday in death valley's badwater basin ( north america's lowest point of elevation ), moves into altitudes as high as 8,300 feet, and ends tomorrow at mount whitney, the tallest summit in the contiguous us, per mashable. This year, 59 veterans and 38 newbies will vie for bragging rights; the youngest competitor is 22, while the oldest is 80, per a press release. The race takes an average 40 hours to finish — running is halted at 48 hours, and if contenders finish before that cutoff, they get a … belt buckle. And the runners have to work for that \" coveted \" prize, enduring blistering heat in the triple digits, per mashable, as well as plain old blisters. The course is so tough that the national park service moved the race last year so it could conduct a \" safety assessment, \" per the los angeles times. The race is back on its regular course for 2015, but with an evening start to take advantage of slightly cooler temps, mashable notes. \" the badwater portion is like having a hair dryer blowing in your face continuously, \" steve maliszewski, who finished last year's race in under 36 hours, tells the houston chronicle. \" we wear long sleeves and wet them with ice water, [ though the cooling effect ] doesn't last long because of the low humidity. \" maliszewski was in so much pain after last year's race he needed help getting back to his car, the paper notes, but there's obviously an appeal that elite runners can't resist. \" i describe it as the most awful thing and the best thing of my life, all wrapped up in one, \" he says. ( the \" queen of ultrarunning \" can go more than 24 hours without sleep. )",
         "split": "train",
         "cleansed_document": [
@@ -2716,8 +2699,7 @@
             "Ultra runners frustrated by badwater race's move away from death valley athletes lament the relocation of'the toughest foot race in the world ' pending a safety review by the national park service. \" it's a disaster, \" said five-time badwater competitor shannon farar-griefer, who said the change would be tantamount to moving the tour de france finish off the champs-elysees. \" this is the granddaddy, the premier event. And it '",
             "For immediate release to download the full press release, media kit, and credential application in pdf format, click here. Death valley, ca: on july 28-30, adventurecorps presents its legendary nutrimatix badwater ® 135. Now in its 38th year, the world-renowned event pits up to 100 of the world's toughest athletes against one another and the elements. In scorching temperatures and at altitudes as high as 8,300 feet, runners, triathletes,",
             "135-mile nonstop race beckons runner again photo: steve maliszewski image 1 of / 6 caption close image 1 of 6 steve maliszewski, a systems analyst for sugar land-based hcss, has been preparing for another run at the badwater 135, which is set for july 28-30. Above, he nears the end of last year's run with jered mansell also a member of his crew. Steve maliszewski, a systems analyst for sugar land-based hcss, has",
-            "Hcss employee steve maliszewski now walks the halls of the company's sugar land, texas, campus with a big ol'shiny belt buckle on his waist. Since the 1970s, it's been tradition to reward finishers of races 100 miles or longer with a belt buckle, and this one is the tell-tale sign of maliszewski's135-mile badwater ultramarathon adventure. Finishing no. 28 overall out of 100 total competitors in the race,",
-            "Seeing mt. Whitney many who visit these parks are interested in seeing mt. Whitney, the tallest mountain in the \" lower 48 \" states. However, mt. Whitney is on the far eastern boundary of these parks. A chain of mountains that runs north/south through the center of sequoia national park called the great western divide blocks views of mt. Whitney from park roads. The best place from which to see mt. Whitney is"
+            "Hcss employee steve maliszewski now walks the halls of the company's sugar land, texas, campus with a big ol'shiny belt buckle on his waist. Since the 1970s, it's been tradition to reward finishers of races 100 miles or longer with a belt buckle, and this one is the tell-tale sign of maliszewski's135-mile badwater ultramarathon adventure. Finishing no. 28 overall out of 100 total competitors in the race,"
         ],
         "raw_document": [
             "No, that's not a scene from forrest gump — it's a photo from an actual marathon in the desert. With a 135 mile stretch, searing hot temperatures, and altitudes reaching as high as 8,300 feet, it's safe to say that the badwater ultramarathon is one of the most demanding footraces in the world. The aptly dubbed ultramarathon takes place over a span of 48 hours, starting in california's",
@@ -2740,7 +2722,7 @@
             "2": 0,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 5
         }
     },
     {
@@ -2765,7 +2747,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {

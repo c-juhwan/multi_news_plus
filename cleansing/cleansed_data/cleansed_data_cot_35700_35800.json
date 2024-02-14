@@ -135,7 +135,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -190,12 +190,10 @@
     },
     {
         "idx": 35707,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Eliot spitzer gave his thoughts on everything from the market meltdown to the madoff scandal in a wide-ranging interview with big think — but who cares about any of that stuff, when client no. 9 also talked looooove — and tiger woods? when asked what advice he would give tiger, he sagely recommended the golfer \"look within \" before going on to offer the even sager, \"when you know something's stupid, don't do it. \" another awkward portion of the interview comes when spitzer is asked to expound on love: \"the sort of exaltation of first meeting and falling in love is, i think everybody would admit, is different than the feelings that you might have after 25 years, \" he says, before awkwardly adding, \"when my wife is watching this, she may say, ' what are you talking about? ' but it is. \" bonus highlight: when asked if it was \"true about the socks, \" he replies simply, \"no. \" watch the entire interview here.",
         "split": "train",
-        "cleansed_document": [
-            "About eliot spitzer eliot spitzer is a former governor of new york state. He served as new york state attorney general from 1998 until 2006 and as the 54th governor of new york from january 2007 until his resignation on march 17, 2008. He is currently a slate magazine columnist and professor of political science at city college of new york."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Part of series: big think's top 10 videos of the first 100 days of 2010, big think's top 10 videos of the first half of 2010 question: are any particular firms or individuals to blame for the market meltdown, or was the system as a whole rotten? eliot spitzer: well, the answer is both. I shy away from either/or questions or answers. I think there would be a simplicity and a desire to say, \"ah ha, we found the one person whose grievous errors in judgment caused this entire cataclysm. \" let's begin it at a different level. There was an ideological framework that began – politically began with the election of president reagan and grew in power, and gained its greatest strength perhaps in alan greenspan as the chair of the federal reserve bank. A belief that deregulation of markets would create greater wealth. Now, those that believed this worldview are not evil, they're not bad people by any stretch. They simply embraced an ideological framework that certainly, i think, is wrong. And i think most of the world now having seen where it took us, would agree that it was wrong. And they fundamentally misunderstood how markets work. That's sort of a broad statement, and yet i think it's accurate. I don't think alan greenspan really understood markets. He didn't understand human behavior. He didn't understand the drive and urge on the part of market participants to play games, to over-leverage, to cheat, to break the rules that are essential for a market to work, and therefore he and those who were participants in this world view did not believe in either parameters for leverage, or enforcement when it came to principles of integrity and transparency. We could have a more complicated discussion of externalities and how you can get to systemic risk, but there was that ideological backdrop. There were also individual malefactors who committed outright fraud. You have bernie madoff at one extreme, you have people who were marketing mortgages that they knew were not real, in the sense that the borrower could not repay. You had people who were putting triple a ratings on debt that was not good. You had people who were lying about the value of the house;",
             "About eliot spitzer eliot spitzer is a former governor of new york state. He served as new york state attorney general from 1998 until 2006 and as the 54th governor of new york from january 2007 until his resignation on march 17, 2008. He is currently a slate magazine columnist and professor of political science at city college of new york."
@@ -209,7 +207,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -234,7 +232,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -356,15 +354,14 @@
     },
     {
         "idx": 35713,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Three suicide bombers killed at least 36 people and injured more than 140 others in a tuesday attack that could result in an escalation of the fight against isis. The blasts struck istanbul's ataturk airport, which is the base of turkish airlines and a target certain to draw a strong response from the turkish government. \" this is a symbolic attack against the heart of turkey, \" soner cagaptay from the washington institute for near east policy tells the washington post. He says that if the attack was indeed the work of isis, as authorities believe, it represents a major escalation and fighting the group will \" now be unavoidable \" for turkey. In other coverage: reuters reports that officials say the three attackers arrived by taxi and blew themselves up in the airport's arrival hall. At least one opened fire in the departures hall. Security footage shows another being shot and falling to the ground before detonating his explosives. Turkish president recep tayyip erdogan said the attack will be a \" turning point \" in the global fight against terrorism, the bbc reports. \" the bombs that exploded in istanbul today could have gone off at any airport in any city around the world, \" he said. Most of the victims are believed to be turkish, but an iranian and a ukrainian were also killed, the ap reports. The airport, europe's third-busiest after london heathrow and paris charles de gaulle, reopened to flights early wednesday. Isis hasn't claimed responsibility, but authorities are focusing on the group instead of turkish militants, the new york times reports. Some analysts suspect the attack is a response to a recent thaw in relations with israel. The guardian reports that the attack will be a serious blow to turkey's tourism industry, which was already struggling. China has now warned its citizens against travel there. The attack was condemned by the us presidential candidates, the washington post reports. \" all americans stand united with the people of turkey against this campaign of hatred and violence, \" hillary clinton said in a statement. Donald trump told a rally in ohio that \" there's something going on that's really, really bad, \" and we must \" do everything in our power to improve our security to keep america safe. \"",
         "split": "train",
         "cleansed_document": [
             "Istanbul ( reuters ) - turkey pointed the finger at islamic state on wednesday for a triple suicide bombing and gun attack that killed 42 people at istanbul's main airport, and president tayyip erdogan called it a turning point in the global fight against terrorism. In the deadliest of a series of suicide bombings this year in turkey, the attackers struck the busy airport, a symbol of istanbul's role as the muslim world's most open and cosmopolitan city, a crossroads between europe and asia. Three bombers opened fire",
             "Image copyright getty images image caption turkey said early signs suggested so-called islamic state was behind the attack a gun and bomb attack on istanbul's ataturk airport has killed 41 people, at least 13 of them foreigners, and injured more than 230, officials say. Three attackers arrived in a taxi and began firing at the terminal entrance late on tuesday. They blew themselves up after police fired back. Pm binali yildirim said early signs pointed to so-called islamic state but no-one has so far admitted the attack. Recent bombings have been",
             "Medics and security members work at the entrance of the ataturk airport after explosions in istanbul, tuesday, june 28, 2016. Two explosions have rocked istanbul's ataturk airport, killing several people... ( associated press ) medics and security members work at the entrance of the ataturk airport after explosions in istanbul, tuesday, june 28, 2016. Two explosions have rocked istanbul's ataturk airport, killing several people and wounding others, turkey's justice minister and another official said tuesday. A turkish official... ( associated press )",
-            "According to turkish officials, three attackers with suicide vests detonated their explosives at istanbul's ataturk international airport, killing at least 41 people and wounding more than 200 others. Editor's note: this video contains graphic content. ( twp ) according to turkish officials, three attackers with suicide vests detonated their explosives at istanbul's ataturk international airport, killing at least 41 people and wounding more than 200 others. Editor's note: this video contains graphic content. ( twp ) three attackers with suicide vests detonated",
-            "On the other side, in the baggage area, you could see where the bomb had gone off. There was dust everywhere, ceiling panels on the floor, shattered glass, blood and big piles of dusty luggage that had obviously been abandoned by people trying to escape. You do think 'shit, if our plane had landed half an hour earlier, that could have been my bag sitting there '. I saw a chap with a bloodied arm, and someone with a rag on his head, but nothing catastrophic, the"
+            "According to turkish officials, three attackers with suicide vests detonated their explosives at istanbul's ataturk international airport, killing at least 41 people and wounding more than 200 others. Editor's note: this video contains graphic content. ( twp ) according to turkish officials, three attackers with suicide vests detonated their explosives at istanbul's ataturk international airport, killing at least 41 people and wounding more than 200 others. Editor's note: this video contains graphic content. ( twp ) three attackers with suicide vests detonated"
         ],
         "raw_document": [
             "Istanbul ( reuters ) - turkey pointed the finger at islamic state on wednesday for a triple suicide bombing and gun attack that killed 42 people at istanbul's main airport, and president tayyip erdogan called it a turning point in the global fight against terrorism. In the deadliest of a series of suicide bombings this year in turkey, the attackers struck the busy airport, a symbol of istanbul's role as the muslim world's most open and cosmopolitan city, a crossroads between europe and asia. Three bombers opened fire",
@@ -385,17 +382,16 @@
             "1": 0,
             "2": 1,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
         "idx": 35714,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Oops. Cnn reports a federal air marshal left her gun in the bathroom during an april 6 delta flight from england to new york. The gun was found by a passenger, who fortunately handed it over to the flight crew. The air marshal failed to report the incident to her superiors for a number of days and apparently wasn't punished when she did, according to the new york times. Former and current air marshals says she should have been. \" if someone with ill intent gets hold of that weapon... They are now armed, \" one former air marshal says. The incident could be used as further fuel for critics of the air marshal program, which costs nearly $ 1 billion per year, covers less than 1 % of domestic flights, and has apparently not prevented any acts of terrorism.",
         "split": "train",
         "cleansed_document": [
-            "Story highlights the incident was reported to the transportation security administration two days later sources within the federal air marshal service said the agent in question is a relatively new hire ( cnn ) a federal air marshal on a transatlantic flight left her loaded service weapon in the airplane's bathroom, where it was discovered by a passenger who gave it to a crew member before it was returned to the federal agent, cnn has learned. The incident happened aboard delta flight 221, which was traveling from manchester, united kingdom, to new york's john f. Kennedy international airport on april 6, and was reported to the air marshal's management days later. In a statement to cnn the tsa would confirm only that it is aware of an incident involving a federal air marshal on that date, and it is reviewing the circumstances. A delta spokesperson said the airline is also aware of the incident but declined to provide further comment. Sources within the federal air marshal service said the agent in question is a relatively new hire who should have been placed on leave for leaving her gun. Instead, the agent remains on active flight duty, cnn has been told. Read more",
-            "\"you can't have inept people leaving weapons in a lavatory, \" said craig sawyer, a former air marshal. \"if someone with ill intent gets hold of that weapon on an aircraft, they are now armed. \" newsletter sign up continue reading the main story get the morning briefing by email what you need to know to start your day, delivered to your inbox monday through friday. Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign up you agree to receive occasional updates and special offers for the new york times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all new york times newsletters. The air marshal who left the weapon unattended, according to people with knowledge of the situation, is a new hire. The t.s.a. Declined to provide any additional information. The disclosure comes after officials received intelligence showing that islamic state militants are actively trying to target aircraft, including by hiding bombs in electronic devices. That revelation led officials in the united states and the united kingdom to bar passengers from airports in 10 muslim-majority countries from carrying laptop computers, ipads and other devices larger than a cellphone aboard direct inbound flights. The episode is the latest in a string of embarrassments that have plagued the air marshal service in recent years, including allegations of sexism and racism and of employees arranging"
+            "Story highlights the incident was reported to the transportation security administration two days later sources within the federal air marshal service said the agent in question is a relatively new hire ( cnn ) a federal air marshal on a transatlantic flight left her loaded service weapon in the airplane's bathroom, where it was discovered by a passenger who gave it to a crew member before it was returned to the federal agent, cnn has learned. The incident happened aboard delta flight 221, which was traveling from manchester, united kingdom, to new york's john f. Kennedy international airport on april 6, and was reported to the air marshal's management days later. In a statement to cnn the tsa would confirm only that it is aware of an incident involving a federal air marshal on that date, and it is reviewing the circumstances. A delta spokesperson said the airline is also aware of the incident but declined to provide further comment. Sources within the federal air marshal service said the agent in question is a relatively new hire who should have been placed on leave for leaving her gun. Instead, the agent remains on active flight duty, cnn has been told. Read more"
         ],
         "raw_document": [
             "Story highlights the incident was reported to the transportation security administration two days later sources within the federal air marshal service said the agent in question is a relatively new hire ( cnn ) a federal air marshal on a transatlantic flight left her loaded service weapon in the airplane's bathroom, where it was discovered by a passenger who gave it to a crew member before it was returned to the federal agent, cnn has learned. The incident happened aboard delta flight 221, which was traveling from manchester, united kingdom, to new york's john f. Kennedy international airport on april 6, and was reported to the air marshal's management days later. In a statement to cnn the tsa would confirm only that it is aware of an incident involving a federal air marshal on that date, and it is reviewing the circumstances. A delta spokesperson said the airline is also aware of the incident but declined to provide further comment. Sources within the federal air marshal service said the agent in question is a relatively new hire who should have been placed on leave for leaving her gun. Instead, the agent remains on active flight duty, cnn has been told. Read more",
@@ -410,17 +406,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
         "idx": 35715,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "\" it wasn't the right age, it wasn't the right fit, it wasn't the right anything and still saved this kid's life. \" so says michigan state police lt. Mike shaw of the car seat that was holding a 1-year-old during an i-94 crash near detroit monday that claimed the lives of four unbuckled adults. The sole survivor of the crash was the toddler. \" the baby was in the car seat, \" witness john wade tells wxyz-tv of the 1am crash. \" that was the only thing that probably... Saved the baby. \" the ap and free-press report the buick suv was driving at high speeds in harper woods when the driver tried to pass another car, lost control, careened across the lanes, and ended up striking a bridge. The dead have been identified as driver doreal rogers, 20; front-seat passenger alesia maddox, 20; and armonie maddox and ervin johnson, both 18, who were in the back. The maddoxes were brother and sister. The front-seat passengers were pinned in the car by the impact; those in the back were ejected. The child, who belonged to alesia maddox, had just turned one on saturday. First responders described the crash as one of the worst they've seen. \" just the amount of carnage i guess involved in this crash, it kind of set a lot of people back, \" says shaw. ( this is one of the weirder car crashes to happen of late. )",
         "split": "train",
         "cleansed_document": [
-            "Harper woods, mich. ( ap ) — a 2-year-old child who was buckled into a car safety seat was the only survivor of a freeway crash in suburban detroit early monday morning that killed four other people, police said. The sport utility vehicle was passing other vehicles at a high speed in the left eastbound lane of interstate 94 in harper woods about 1 a.m. Monday when the driver lost control, crossed three lanes and hit a bridge, michigan state police said in a statement. Four people inside ranging in age from 18 to 25 years and who were not wearing seatbelts died instantly, police said. At least two of them were ejected from the suv during the crash. The child passenger suffered as minor injuries. \" the baby was in the car seat, \" witness john wade told wxyz-tv. \" that was the only thing that probably... Saved the baby. \" the eastbound lanes were closed for several hours on monday morning following the crash. Names of those involved in the crash haven't been released. State police said a traffic crash reconstruction unit is investigating.",
-            "Today's top stories matt lauer fired by nbc news over sexual misconduct allegations &#124; 0: 42 the chairman of nbc news said an employee lodged a complaint against lauer for \" inappropriate sexual behavior in the workplace. \" video provided by newsy newslook 1 of 10 today's top stories eminem announces release date for new album:'revival ' &#124; 0: 40 detroit rapper eminem releases first new album since his \" marshal mathers lp2 \" in 2013. Detroit free press staff 2 of 10 today's top stories when can you see the supermoon? &#124; 0: 53 it's the only one of 2017. Time 3 of 10 today's top stories first look: chevy corvette zr1 convertible at l.a. Auto show &#124; 0: 56 chevrolet unveiled the fastest and most powerful convertible in corvette's 65-year history. Here's a first look at the zr1 convertible at l.a. Auto show. Mark phelan, detroit free press 4 of 10 today's top stories first look: 2019 lincoln nautilus suv &#124; 1: 08 renamed mkx midsize suv offers new looks and name mark phelan, detroit free press 5 of 10 today's top stories foods reimagined for arby's &amp; bdubs merger &#124; 0: 59 since arby's is buying buffalo wild wings, we mashed up a few of our favorite menu items. You can thank us later. Usa today 6 of 10 today's top stories a british royal explainer on who is and who isn't a princess &#124; 1: 29 prince harry is set to marry actress meghan"
+            "Harper woods, mich. ( ap ) — a 2-year-old child who was buckled into a car safety seat was the only survivor of a freeway crash in suburban detroit early monday morning that killed four other people, police said. The sport utility vehicle was passing other vehicles at a high speed in the left eastbound lane of interstate 94 in harper woods about 1 a.m. Monday when the driver lost control, crossed three lanes and hit a bridge, michigan state police said in a statement. Four people inside ranging in age from 18 to 25 years and who were not wearing seatbelts died instantly, police said. At least two of them were ejected from the suv during the crash. The child passenger suffered as minor injuries. \" the baby was in the car seat, \" witness john wade told wxyz-tv. \" that was the only thing that probably... Saved the baby. \" the eastbound lanes were closed for several hours on monday morning following the crash. Names of those involved in the crash haven't been released. State police said a traffic crash reconstruction unit is investigating."
         ],
         "raw_document": [
             "Harper woods, mich. ( ap ) — a 2-year-old child who was buckled into a car safety seat was the only survivor of a freeway crash in suburban detroit early monday morning that killed four other people, police said. The sport utility vehicle was passing other vehicles at a high speed in the left eastbound lane of interstate 94 in harper woods about 1 a.m. Monday when the driver lost control, crossed three lanes and hit a bridge, michigan state police said in a statement. Four people inside ranging in age from 18 to 25 years and who were not wearing seatbelts died instantly, police said. At least two of them were ejected from the suv during the crash. The child passenger suffered as minor injuries. \" the baby was in the car seat, \" witness john wade told wxyz-tv. \" that was the only thing that probably... Saved the baby. \" the eastbound lanes were closed for several hours on monday morning following the crash. Names of those involved in the crash haven't been released. State police said a traffic crash reconstruction unit is investigating.",
@@ -435,7 +430,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -466,7 +461,7 @@
             "0": 2,
             "1": 2,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -498,13 +493,12 @@
     },
     {
         "idx": 35718,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Donald trump has mused about a registry for muslims from high-risk nations to muslims in the us, but an obama administration move places a bit of a roadblock in his way. The new york times reports that the department of homeland security is formally ending a post-9/11 program that targeted males 16 and older from arab or mostly muslim nations via interrogations, fingerprinting, and check-ins, and it's a program that's already been unused since 2011. \" dhs ceased use of nseers more than five years ago, after it was determined the program was redundant, inefficient, and provided no increase in security, \" dhs spokesman neema hakim tells the times. The dhs request will go on the books in the federal registry on friday. The nseers program was deemed a counterterrorism necessity at the time it was created in 2002, including by goper kris kobach, who helped set up the bush program and whose name was floated for head of trump's dhs before gen. John kelly was picked. But critics said it unfairly targeted arabs and muslims, \" regardless of whether they were suspected or accused of any wrongdoing, \" nys attorney general eric schneiderman said in a statement wednesday, per cnn. Cnn noted in november that the program didn't bring a single terrorism conviction. Dhs officials point toward newer, more efficient initiatives that are \" far better equipped to face the evolving landscape of international terrorism, \" says hakim. ( who won't be helping to build a registry: these silicon valley workers. )",
         "split": "train",
         "cleansed_document": [
             "Washington ( cnn ) the obama administration said thursday it was ending a dormant program that once was used to track mostly arab and muslim men. \" the department of homeland security is removing outdated regulations pertaining to the national security entry-exit registration systems ( nseers ) program, with an immediate effective date, \" said neema hakim, a department spokesman. The program was suspended in 2011. Hakim said the \" intervening years have shown that nseers is not only obsolete, but that its use would divert limited personnel and resources from more effective measures. \" president-elect donald trump has suggested instituting a program that would track muslim immigrants to the united states. Trump adviser kellyanne conway said on cnn's \" new day \" thursday that trump would not pursue a ban on muslim immigration to the us based only on religion. \" you're going back to over a year ago in what he",
-            "( cnn ) donald trump and his supporters have been all over the place about his plan for surveilling muslims. The president-elect once advocated for a muslim database. Then he walked it back. Then his spokesman said trump never proposed such a thing. Then a source familiar with the incoming administration told cnn there will be a database and it ' ll be similar to the national security entry-exit registration system ( nseers ). Nseers was a bush-era program enacted shortly after the september 11, 2001 terrorist attacks. It disproportionately targeted arabs and muslims and was a point of contention between rights groups and the federal government for nearly a decade. It was also a mega failure -- both strategically and, critics say, ethically. What is the national security entry-exit registration system? nseers, sometimes referred to as \" special registration, \" was a program for registering non-citizen visa holders -- such as",
-            "Photo newton, iowa — donald j. Trump, who earlier in the week said he was open to requiring muslims in the united states to register in a database, said on thursday night that he \"would certainly implement that — absolutely. \" mr. Trump was asked about the issue by an nbc news reporter and pressed on whether all muslims in the country would be forced to register. \"they have to be, \" he said. \"they have to be. \" when asked how a system of registering muslims would be carried out — whether, for instance, mosques would be where people could register — mr. Trump said: \"different places. You sign up at different places. But it's all about management. Our country has no management. \" asked later, as he signed autographs, how such a database would be different from jews having to register in nazi germany, mr."
+            "( cnn ) donald trump and his supporters have been all over the place about his plan for surveilling muslims. The president-elect once advocated for a muslim database. Then he walked it back. Then his spokesman said trump never proposed such a thing. Then a source familiar with the incoming administration told cnn there will be a database and it ' ll be similar to the national security entry-exit registration system ( nseers ). Nseers was a bush-era program enacted shortly after the september 11, 2001 terrorist attacks. It disproportionately targeted arabs and muslims and was a point of contention between rights groups and the federal government for nearly a decade. It was also a mega failure -- both strategically and, critics say, ethically. What is the national security entry-exit registration system? nseers, sometimes referred to as \" special registration, \" was a program for registering non-citizen visa holders -- such as"
         ],
         "raw_document": [
             "Washington ( cnn ) the obama administration said thursday it was ending a dormant program that once was used to track mostly arab and muslim men. \" the department of homeland security is removing outdated regulations pertaining to the national security entry-exit registration systems ( nseers ) program, with an immediate effective date, \" said neema hakim, a department spokesman. The program was suspended in 2011. Hakim said the \" intervening years have shown that nseers is not only obsolete, but that its use would divert limited personnel and resources from more effective measures. \" president-elect donald trump has suggested instituting a program that would track muslim immigrants to the united states. Trump adviser kellyanne conway said on cnn's \" new day \" thursday that trump would not pursue a ban on muslim immigration to the us based only on religion. \" you're going back to over a year ago in what he",
@@ -521,7 +515,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -555,7 +549,7 @@
             "1": 1,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -608,7 +602,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -718,7 +712,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -768,7 +762,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -903,7 +897,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 1,
+            "1": 2,
             "2": 1,
             "3": 0
         }
@@ -960,12 +954,10 @@
     },
     {
         "idx": 35735,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Things are far from hunky-dory for millions of david bowie fans who woke monday to learn the beloved star has died at the age of 69 after a battle with cancer. Tributes have poured in from across the world, with even the vatican's culture minister paying his respects with some lyrics from \" space oddity. \" a selection: \" ground control to major tom commencing countdown, engines on check ignition and may god's love be with you, \" tweeted cardinal gianfranco ravasi from the vatican. \" very sorry and sad to say it's true. I ' ll be offline for a while. Love to all, \" tweeted duncan jones, bowie's son from his first marriage. \" saddened to hear david bowie has lost his battle with cancer — his music was an inspiration to many, \" tweeted british astronaut tim peake from the international space station. \" david's friendship was the light of my life. I never met such a brilliant person. He was the best there is, \" tweeted iggy pop. \" his death was no different from his life — a work of art, \" producer tony visconti wrote in a facebook post. \" he made blackstar for us, his parting gift, \" visconti wrote, referring to the album bowie released friday. \" i knew for a year this was the way it would be. I wasn't, however, prepared for it. He was an extraordinary man, full of love and life. He will always be with us. For now, it is appropriate to cry. \" \" david bowie was one of my most important inspirations, so fearless, so creative, he gave us magic for a lifetime, \" tweeted kanye west. \" i just lost a hero. Rip david bowie, \" tweeted ricky gervais, hours after hosting the golden globes.",
         "split": "train",
-        "cleansed_document": [
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
@@ -979,9 +971,9 @@
             "The summary discusses the passing of David Bowie and the tributes that followed from various individuals. Document 1, Document 2, and Document 3 all contain generic information about adding location information to tweets and do not provide any relevant details about David Bowie's passing or the tributes. Therefore, the irrelevant documents are: Document 1|Document 2|Document 3"
         ],
         "vote_count": {
-            "0": 5,
-            "1": 5,
-            "2": 0
+            "0": 3,
+            "1": 3,
+            "2": 3
         }
     },
     {
@@ -1006,18 +998,17 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 35737,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Green party candidate jill stein was removed from the hofstra university campus for the second election in a row on monday. Stein — who was arrested before a presidential debate in 2012 — was met by police and campus security after she boarded a media bus to the university ahead of the hillary clinton-donald trump debate and usa today reporter eliza collins tweeted about it. Stein had planned to hold a \" let jill debate \" protest outside the event, which she and libertarian candidate gary johnson were excluded from. Officials say stein was removed because she didn't have the proper credentials. \" she was on the college campus, we asked to verify for proper credentials, she did not have them, and she was nicely escorted off the campus, \" a police spokeswoman tells cnn. Stein went on to live-tweet the debate, offering her own answers, as well as lines like: \" i'd be terrified with trump's finger on the button but i'd also be terrified with clinton's finger on the button. \" johnson also live-tweeted the hofstra debate. \" neither of these candidates is willing to stand up for free trade. Why am i not at these debates? \" he wondered.",
         "split": "train",
         "cleansed_document": [
             "Story highlights she was at the university doing press interviews she was escorted off before she could try to make her way to the debate stage washington ( cnn ) green party presidential nominee jill stein was escorted off the hofstra university campus monday after her prearranged media interviews because she didn't have credentials to be there. Stein's campaign told cnn that she was at the university doing press interviews and was escorted off after an interview with msnbc. \" we were on our way to an interview with @msnbc when we were stopped by hofstra security and nassau county police just now. #debatenight \" she tweeted. We were on our way to an interview with @msnbc when we were stopped by hofstra security and nassau county police just now. #debatenight pic.twitter.com/y0fqjih47y — dr. Jill stein ( @drjillstein ) september 26, 2016 the nassau county police department told cnn that stein failed to provide the proper credentials at the university, which led to her being escorted off campus. \" she was on the college campus, we asked to verify for proper credentials, she did not have them, and she was nicely escorted off the campus, \" a police department spokeswoman said. Read more",
-            "Green party candidate jill stein escorted off debate premises, resorts to twitter close neither gary johnson nor jill stein achieved the 15 % polling mark they needed to make it into the first debate, but hope is not lost. Wibbitz hempstead, n.y. — four years ago stein was arrested for disorderly conduct and handcuffed to a chair at the hofstra university debate. She tried her luck again this year and has already been escorted off campus. In august, stein told usa today that she would be back at this year's first debate and she was \"absolutely \" ready to be arrested again. Stein and libertarian candidate gary johnson didn't make the polling threshold ( 15 % ) in polls to make it on stage. This usa today reporter spotted stein and her team on the bus that took press monday morning and tweeted about the appearance. I ' m pretty sure jill stein just boarded the media bus at the hofstra university #debates2016 — eliza collins ( @elizacollins1 ) september 26, 2016 the tweet scrambled law enforcement officials and they attempted to track down stein, who is not credentialed for the event. According to stein's campaign she was on her way to do a series of interviews with broadcast outlets when they finally caught up with her. \"we were there under",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "Green party candidate jill stein escorted off debate premises, resorts to twitter close neither gary johnson nor jill stein achieved the 15 % polling mark they needed to make it into the first debate, but hope is not lost. Wibbitz hempstead, n.y. — four years ago stein was arrested for disorderly conduct and handcuffed to a chair at the hofstra university debate. She tried her luck again this year and has already been escorted off campus. In august, stein told usa today that she would be back at this year's first debate and she was \"absolutely \" ready to be arrested again. Stein and libertarian candidate gary johnson didn't make the polling threshold ( 15 % ) in polls to make it on stage. This usa today reporter spotted stein and her team on the bus that took press monday morning and tweeted about the appearance. I ' m pretty sure jill stein just boarded the media bus at the hofstra university #debates2016 — eliza collins ( @elizacollins1 ) september 26, 2016 the tweet scrambled law enforcement officials and they attempted to track down stein, who is not credentialed for the event. According to stein's campaign she was on her way to do a series of interviews with broadcast outlets when they finally caught up with her. \"we were there under"
         ],
         "raw_document": [
             "Story highlights she was at the university doing press interviews she was escorted off before she could try to make her way to the debate stage washington ( cnn ) green party presidential nominee jill stein was escorted off the hofstra university campus monday after her prearranged media interviews because she didn't have credentials to be there. Stein's campaign told cnn that she was at the university doing press interviews and was escorted off after an interview with msnbc. \" we were on our way to an interview with @msnbc when we were stopped by hofstra security and nassau county police just now. #debatenight \" she tweeted. We were on our way to an interview with @msnbc when we were stopped by hofstra security and nassau county police just now. #debatenight pic.twitter.com/y0fqjih47y — dr. Jill stein ( @drjillstein ) september 26, 2016 the nassau county police department told cnn that stein failed to provide the proper credentials at the university, which led to her being escorted off campus. \" she was on the college campus, we asked to verify for proper credentials, she did not have them, and she was nicely escorted off the campus, \" a police department spokeswoman said. Read more",
@@ -1034,17 +1025,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 35738,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Roller coasters typically have two rails, which can sometimes make for a rickety ride. If that bothers you, a new coaster in the works at six flags fiesta texas may either delight or terrify you — or perhaps both. The san antonio park is constructing the wonder woman golden lasso coaster, which will be the first single-rail roller coaster that runs on ibox track, reports usa today. It will glide along a 15.5-inch-wide steel track, allowing for turns that are both \" extremely quick \" and \" crazy smooth, \" says a six flags engineer, who makes a distinction between the coaster and slow-paced \" monorail \" systems. The coaster, which will climb a hill 113 feet high and hit 52mph, is due to open next spring.",
         "split": "train",
         "cleansed_document": [
-            "Instead of a wooden coaster's lattice-like timber structure, wonder woman will have steel supports. But its ultra-thin track won't require as many supports as a typical steel coaster. ( photo: six flags entertainment ) six flags announced this august that wonder woman golden lasso coaster will open next spring at its fiesta texas location in san antonio. The park says the new attraction won't look or behave like any thrill machine that preceded it. That's because instead of riding a set of two rails like traditional coasters, its narrow trains would soar along one 15.5-inch-wide steel track. It will be the world's first single-rail ibox track coaster. \" i expect it to be crazy smooth, \" says larry chickola, six flags vp and chief corporate engineer. \" and crazy fun. There will be extremely quick twists and turns – quicker and smoother than regular coasters. \" 0: 00 &#124; 1: 10 this is a 360 ° video experience. Use your mouse or the arrow keys on your keyboard to see the entire 360 ° view. Vr stories put yourself inside the story 360 video is not supported in this browser. Please use google chrome, firefox, or microsoft edge. Like this 360 ° experience? you may also like: x embed autoplay six flags will debut its wonder woman golden lasso coaster in spring 2018. The coaster will open at the fiesta texas location in san antonio. Six flags before settling on \" single-rail \" to describe the new genre of ride, the engineer referred to it as a \" monorail \" coaster. But chickola said the designation might conjure thoughts of the slow and poky vehicles used to transport passengers at airports and elsewhere. Wonder woman, he insists, will be the opposite of poky: a \" high-thrill and edgy experience. \" above all, however, he emphasizes that it should be velvety smooth. Why is chickola forecasting a super-smooth ride? traditional wooden coasters are known for knocking passengers around. Their rickety, rough-and-tumble ride experience is part of their charm. Steel-tracked coasters can mitigate some of the roughness, but even they have an inherent",
-            "Ibox track traditional wood tracks require a lot maintenance and high maintenance equals high costs. Our new ibox track steel technology reduces maintenance costs significantly as well as increasing the track life and in turn reduces the overhead, resulting in substantial long term savings. A complete, all steel track system, the ibox track eliminates the need for a wood stack as the new track sits on all steel ledgers. This new track allows you to add new thrilling elements to the coaster that traditional wood tracks do not allow. Patent us 8,590,455"
+            "Instead of a wooden coaster's lattice-like timber structure, wonder woman will have steel supports. But its ultra-thin track won't require as many supports as a typical steel coaster. ( photo: six flags entertainment ) six flags announced this august that wonder woman golden lasso coaster will open next spring at its fiesta texas location in san antonio. The park says the new attraction won't look or behave like any thrill machine that preceded it. That's because instead of riding a set of two rails like traditional coasters, its narrow trains would soar along one 15.5-inch-wide steel track. It will be the world's first single-rail ibox track coaster. \" i expect it to be crazy smooth, \" says larry chickola, six flags vp and chief corporate engineer. \" and crazy fun. There will be extremely quick twists and turns – quicker and smoother than regular coasters. \" 0: 00 &#124; 1: 10 this is a 360 ° video experience. Use your mouse or the arrow keys on your keyboard to see the entire 360 ° view. Vr stories put yourself inside the story 360 video is not supported in this browser. Please use google chrome, firefox, or microsoft edge. Like this 360 ° experience? you may also like: x embed autoplay six flags will debut its wonder woman golden lasso coaster in spring 2018. The coaster will open at the fiesta texas location in san antonio. Six flags before settling on \" single-rail \" to describe the new genre of ride, the engineer referred to it as a \" monorail \" coaster. But chickola said the designation might conjure thoughts of the slow and poky vehicles used to transport passengers at airports and elsewhere. Wonder woman, he insists, will be the opposite of poky: a \" high-thrill and edgy experience. \" above all, however, he emphasizes that it should be velvety smooth. Why is chickola forecasting a super-smooth ride? traditional wooden coasters are known for knocking passengers around. Their rickety, rough-and-tumble ride experience is part of their charm. Steel-tracked coasters can mitigate some of the roughness, but even they have an inherent"
         ],
         "raw_document": [
             "Instead of a wooden coaster's lattice-like timber structure, wonder woman will have steel supports. But its ultra-thin track won't require as many supports as a typical steel coaster. ( photo: six flags entertainment ) six flags announced this august that wonder woman golden lasso coaster will open next spring at its fiesta texas location in san antonio. The park says the new attraction won't look or behave like any thrill machine that preceded it. That's because instead of riding a set of two rails like traditional coasters, its narrow trains would soar along one 15.5-inch-wide steel track. It will be the world's first single-rail ibox track coaster. \" i expect it to be crazy smooth, \" says larry chickola, six flags vp and chief corporate engineer. \" and crazy fun. There will be extremely quick twists and turns – quicker and smoother than regular coasters. \" 0: 00 &#124; 1: 10 this is a 360 ° video experience. Use your mouse or the arrow keys on your keyboard to see the entire 360 ° view. Vr stories put yourself inside the story 360 video is not supported in this browser. Please use google chrome, firefox, or microsoft edge. Like this 360 ° experience? you may also like: x embed autoplay six flags will debut its wonder woman golden lasso coaster in spring 2018. The coaster will open at the fiesta texas location in san antonio. Six flags before settling on \" single-rail \" to describe the new genre of ride, the engineer referred to it as a \" monorail \" coaster. But chickola said the designation might conjure thoughts of the slow and poky vehicles used to transport passengers at airports and elsewhere. Wonder woman, he insists, will be the opposite of poky: a \" high-thrill and edgy experience. \" above all, however, he emphasizes that it should be velvety smooth. Why is chickola forecasting a super-smooth ride? traditional wooden coasters are known for knocking passengers around. Their rickety, rough-and-tumble ride experience is part of their charm. Steel-tracked coasters can mitigate some of the roughness, but even they have an inherent",
@@ -1059,7 +1049,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1174,18 +1164,17 @@
             "0": 0,
             "1": 1,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 35743,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Benjamin netanyahu presents his much-debated thoughts on iran to congress this morning after what cbs news calls \" extensive hand-wringing \" and tensions between himself and the white house. Some final context: president obama's thoughts: while bibi's appearance isn't \" permanently destructive \" to us-israeli relations, \" it is a distraction from what should be our focus, \" he told reuters yesterday. \" and our focus should be, ' how do we stop iran from getting a nuclear weapon? ' \" what bibi will say: a netanyahu aide yesterday said he ' ll spill details on the nuclear talks. Congress members \" do not necessarily know the details of the deal coming together, which we do not see as a good deal, \" the aide said, per reuters. What happens if he spills too much: \" we've continuously provided detailed classified briefings to israeli officials to keep them updated, \" a state department spokeswoman said, per raw story. \" any release of any kind of information like that would, of course, betray that trust. We want to keep talking, of course, but that would be a problem. \" the timing: netanyahu is trying to deflect criticism that he's using this trip to drum up home support before israeli elections march 17. \" the last thing that i would want is for israel to become a partisan issue, \" he told aipac yesterday, per reuters. But it's a complication for obama, who had hoped to wrap up an iran agreement by the end of march, the new york times notes. Israel's main concern: a particular sticking point is the concept of a so-called \" sunset clause, \" meaning that if iran sticks to the terms of any agreement it makes for 10 to 15 years, it would be declassified as a nuclear state. The israeli embassy tweeted an image of a fake newspaper in the year 2025 that shows what would happen if such a clause materialized. Where iran stands: john kerry met with iranian foreign minister mohammad javad zarif yesterday in switzerland, and iran was pretty clear how it feels about obama's demand that it stop sensitive nuclear activity for 10 years, reuters reports. \" iran will not accept excessive and illogical demands, \" zarif said, per iran's news agency. Iran will continue swiss talks. Last-minute no-show: elizabeth warren announced last night she wouldn't be coming. \" i strongly support israel, and i remain deeply concerned about the prospect of an iranian nuclear weapon, \" she said, per the boston globe. \" it's unfortunate that speaker boehner",
         "split": "train",
         "cleansed_document": [
             "After weeks of controversy, israeli prime minister benjamin netanyahu is finally set to address a joint session of congress tuesday. In january, boehner invited netanyahu to address a joint session of congress to talk about the iran nuclear negotiations, which the prime minister vigorously opposes. Boehner issued the invitation without consulting the white house, which some argue is a violation of protocol. The white house has said president obama will not meet with netanyahu while he is here, citing a precedent that u.s. Officials have a longstanding practice of not meeting with foreign leaders so close to their elections. Israel's elections take place on march 17. Netanyahu spoke to the largest pro-israel lobby in the u.s., the american israel public affairs committee, at its conference monday. While he declined to preview the content of his speech, he did delve into the reason. \" as prime minister of israel, i",
-            "Mr. Netanyahu's address, by far the most anticipated speech to congress by a foreign leader in many years, drove a wedge between democrats and republicans. While he was escorted into the chamber by a bipartisan delegation of lawmakers and greeted with raucous enthusiasm, especially by republicans, more than 50 democrats skipped the event. Representative nancy pelosi, the party's house leader, called his speech an \"insult \" to the united states. Slide show longtime congressional veterans could recall few if any precedents for such a confrontation by a foreign leader on capitol hill, or for such a partisan response. Most foreign dignitaries invited to speak to congress are celebrated figures, like nelson mandela or vaclav havel, or leaders of american allies delivering unifying messages. Perhaps the closest parallel involved not a foreign leader but gen. Douglas macarthur, who was invited to address congress a week after president harry",
-            "Gay ex-ballplayer has the perfect response to christian player's criticism of his 'lifestyle ' here are 9 social panics that gripped america, were totally false, and did lasting damage san diego man with no criminal record faces life in prison for flashing gang signs on facebook angry conservative wishes beheading on oregon city official who opposes 'in god we trust'display arkansas horror story: republican lawmaker gave up adopted 6-year-old to man who then raped her israeli prime minister benjamin netanyahu arrives to address the american israel public affairs committee ( aipac ) conference in washington dc, on march 2, 2015 ( afp ) israeli prime minister benjamin netanyahu goes to capitol hill on tuesday for another round in an increasingly heated battle with the white house over iran's nuclear ambitions. In a landmark speech to congress, netanyahu will seek to mobilise lawmakers to oppose an emerging deal with tehran which is backed by"
+            "Mr. Netanyahu's address, by far the most anticipated speech to congress by a foreign leader in many years, drove a wedge between democrats and republicans. While he was escorted into the chamber by a bipartisan delegation of lawmakers and greeted with raucous enthusiasm, especially by republicans, more than 50 democrats skipped the event. Representative nancy pelosi, the party's house leader, called his speech an \"insult \" to the united states. Slide show longtime congressional veterans could recall few if any precedents for such a confrontation by a foreign leader on capitol hill, or for such a partisan response. Most foreign dignitaries invited to speak to congress are celebrated figures, like nelson mandela or vaclav havel, or leaders of american allies delivering unifying messages. Perhaps the closest parallel involved not a foreign leader but gen. Douglas macarthur, who was invited to address congress a week after president harry"
         ],
         "raw_document": [
             "After weeks of controversy, israeli prime minister benjamin netanyahu is finally set to address a joint session of congress tuesday. In january, boehner invited netanyahu to address a joint session of congress to talk about the iran nuclear negotiations, which the prime minister vigorously opposes. Boehner issued the invitation without consulting the white house, which some argue is a violation of protocol. The white house has said president obama will not meet with netanyahu while he is here, citing a precedent that u.s. Officials have a longstanding practice of not meeting with foreign leaders so close to their elections. Israel's elections take place on march 17. Netanyahu spoke to the largest pro-israel lobby in the u.s., the american israel public affairs committee, at its conference monday. While he declined to preview the content of his speech, he did delve into the reason. \" as prime minister of israel, i",
@@ -1202,7 +1191,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1282,13 +1271,12 @@
     },
     {
         "idx": 35747,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Consumers hoping to snatch up the best black friday deals had their plans somewhat interrupted this morning if they were trying to do so via best buy's website. Bestbuy.com was down for more than an hour this morning, starting at about 9: 50am est, re/code reports; cnbc notes that the site was also briefly down around 9am thanksgiving morning and that other media reported issues wednesday night as well. Customers also reported trouble using best buy's mobile app, saying it would open but not load products, re/code notes. Best buy released a statement saying the outage was caused by a sudden severe spike in mobile traffic. Online sales are key for best buy, which says it experienced nearly 20 % growth in the us in that sector for the fiscal year that ended feb. 1, fortune reports. Consumers who visited the company's site this morning during the affected periods were greeted with a \" we're sorry. Bestbuy.com is currently unavailable. Check back soon \" message when they tried to load the page, and they weren't happy about it. \" if you intend to be one of the leaders among sales in technology and electronics … maybe, just maybe you should know how to run tech, \" one unhappy consumer said on best buy's facebook page, as per cnbc. Nike also reported site issues, sending out a morning tweet saying, \" nike.com is experiencing problems processing orders. Hang tight while we investigate. \" black friday hysteria has even made its way across the pond: the bbc reports that there were major-retailer website outages in britain, too, as well as a number of police-attended \" disturbances \" at local stores as people fought over items. ( ferguson protestors tried to derail black friday. )",
         "split": "train",
         "cleansed_document": [
             "Best buy's website suffered sporadic technical issues throughout the thanksgiving weekend, creating an extended outage during one of the year's busiest shopping periods. After a litany of shopper complaints engulfed the retailer's facebook and twitter feeds late friday afternoon, the company initially attributed the blackout to heavy traffic. However, consumers were still complaining about the lack of service early saturday, suggesting the problem could be more serious. \" bestbuy.com has experienced record levels of website traffic, \" according to a company statement issued friday evening. \" this has affected site performance and we have temporarily taken the site down in response. We are taking measures to restore full performance of the site as quickly as possible. \" read moremillions of shoppers snatched up thanksgiving deals the website continued to face challenges saturday morning, as some users were unable to purchase items they'd selected. @bestbuysupport,",
-            "Black friday website crashes is one of the seven e-commerce trends we are watching for this holiday season, and bestbuy.com appears to be the first major u.s. Shopping site to break under the strain of holiday traffic. Best buy's website has been down since at least 9: 50 am et on friday. Cnbc reported the website also experienced issues around 9 am et. The message on the website currently reads, \"we're sorry. Bestbuy.com is currently unavailable. Check back soon. \" best buy's app for the iphone is also experiencing problems; it opens but isn't loading any products. Earlier, nike.com said on twitter that it was having some trouble processing orders. Last year, walmart.com stumbled on thanksgiving day. We've reached out to best buy for comment. Update: a best buy rep said a surge in web traffic on mobile devices was",
-            "Image copyright pa shoppers fought their way to the tills at uk retailers as the american tradition of black friday pre-christmas discounting took firm hold here. Many retailers traded from midnight to maximise shopping times and put deals online overnight. But websites including john lewis, argos and tesco direct struggled to handle the increased traffic. And currys customers were left drumming their fingers as they waited up to an hour in a virtual queue. At least online shoppers had only their own feelings of frustration to deal with. During the day police were called to a number of disturbances at london and manchester supermarkets as shoppers fought over goods. There were reports of people pinching, punching and kicking to get to the bargains on offer. Media playback is unsupported on your device media caption footage of shoppers scrambling to get their hands on merchandise john lewis, which offered website deals from midnight, said that between"
+            "Black friday website crashes is one of the seven e-commerce trends we are watching for this holiday season, and bestbuy.com appears to be the first major u.s. Shopping site to break under the strain of holiday traffic. Best buy's website has been down since at least 9: 50 am et on friday. Cnbc reported the website also experienced issues around 9 am et. The message on the website currently reads, \"we're sorry. Bestbuy.com is currently unavailable. Check back soon. \" best buy's app for the iphone is also experiencing problems; it opens but isn't loading any products. Earlier, nike.com said on twitter that it was having some trouble processing orders. Last year, walmart.com stumbled on thanksgiving day. We've reached out to best buy for comment. Update: a best buy rep said a surge in web traffic on mobile devices was"
         ],
         "raw_document": [
             "Best buy's website suffered sporadic technical issues throughout the thanksgiving weekend, creating an extended outage during one of the year's busiest shopping periods. After a litany of shopper complaints engulfed the retailer's facebook and twitter feeds late friday afternoon, the company initially attributed the blackout to heavy traffic. However, consumers were still complaining about the lack of service early saturday, suggesting the problem could be more serious. \" bestbuy.com has experienced record levels of website traffic, \" according to a company statement issued friday evening. \" this has affected site performance and we have temporarily taken the site down in response. We are taking measures to restore full performance of the site as quickly as possible. \" read moremillions of shoppers snatched up thanksgiving deals the website continued to face challenges saturday morning, as some users were unable to purchase items they'd selected. @bestbuysupport,",
@@ -1305,7 +1293,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1391,13 +1379,12 @@
     },
     {
         "idx": 35751,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Family members of a teenage inmate in georgia say they're horrified by an assault that ended up on facebook — and by the fact they might not have known about it otherwise. The photo taken at al burruss correctional training center shows two young men standing over a crouched cortez berry, who has a swollen eye and is being held on a makeshift leash, reports the new york daily news. The caption says \" wen yhu disrespect da nation.. It bringz nuthin but pain &amp; sufferingg.. #wedntgettired #gdfolk, \" an apparent reference to the gang known as gangster disciples, or gd nation. Berry's aunt tells nbc news he was attacked on friday, the day before he turned 18, by inmates who tried to get him to join the gang before he was moved to the adult part of the facility. Berry is in prison for violating probation after a carjacking when he was 14. The aunt tells nbc that after the family saw the shocking picture, they could not get through to the facility by phone, and when she went there in person, officials were not aware he had been attacked. A georgia department of corrections spokeswoman tells the augusta chronicle that the incident is under investigation and that cellphones — a \" nationwide issue \" in prisons — are contraband that facilities use body scanners to detect. Berry has now been transferred to smith state prison, and his mother tells nbc she fears for his life at the notoriously violent facility. The photo of him has \" been all over social media, because the world has seen it, \" she says. \" so if they have cellphones in that prison, they have seen it. I ' m afraid they might kill him. \" ( inmates also use cellphones to run scams from behind bars. )",
         "split": "train",
         "cleansed_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. Subscribe disturbing photos of a teen beaten at a georgia prison — apparently captured on an inmate's cellphone — made it onto facebook before corrections officials even knew he had been hurt, the victim's family told nbc news on wednesday. Cortez berry was assaulted at the al burruss correctional training center in forsyth in what his family says was a gang attack. The assailants apparently posted cellphone pictures to facebook showing berry crouched below two shirtless young men, his eye swollen shut and his neck threaded through a makeshift leash. After seeing the pictures online, his relatives say they made panicked calls to the facility that went unanswered until berry's aunt, shavondria wright, drove to the prison and knocked on the door. ( corrects name of shavondria wright )",
-            "A mother is demanding answers after a facebook photo surfaced showing her teenage son brutally beaten and tied up by his neck while serving time at a georgia prison. In the jarring photo, 18-year-old cortez berry, who was sentenced for a 2011 carjacking and robbery, is seen hunched down with a swollen eye in front of two shirtless young men, one who holds the end of a makeshift leash. The photo is believed to have been taken by fellow inmates at al burruss correctional training center before somehow uploaded to facebook on friday. \" i was like oh my god! what happened? how'd it happen? it's a terrifying picture to see, \" berry's mother, demetria harris, told wrdw of the disturbing sight. Cortez aunt's shavondria wright said she visited him on saturday and asked him first-hand what happened. Berry's mom,",
-            "A photo of cortez berry, 18, circulated virally on social media, which shows him being held captive by cellmates. Before sending out a cell phone photo that went viral on social media friday, cellmates of an augusta man serving time in a forsyth, ga., prison called the man's girlfriend and threatened to harm him if she didn't immediately send money to his captors, according to the girlfriend's mother. Connie kennedy said her daughter received a phone call from an untraceable number around 8 p.m. Friday in which a man demanded $ 150 for the safety of cortez berry, 18, an inmate at the burruss correctional training center. Minutes later, the man called back and demanded $ 300 but hung up before kennedy could get the phone from her daughter to ask questions, she said. Shortly after the calls, kennedy's daughter found the"
+            "A mother is demanding answers after a facebook photo surfaced showing her teenage son brutally beaten and tied up by his neck while serving time at a georgia prison. In the jarring photo, 18-year-old cortez berry, who was sentenced for a 2011 carjacking and robbery, is seen hunched down with a swollen eye in front of two shirtless young men, one who holds the end of a makeshift leash. The photo is believed to have been taken by fellow inmates at al burruss correctional training center before somehow uploaded to facebook on friday. \" i was like oh my god! what happened? how'd it happen? it's a terrifying picture to see, \" berry's mother, demetria harris, told wrdw of the disturbing sight. Cortez aunt's shavondria wright said she visited him on saturday and asked him first-hand what happened. Berry's mom,"
         ],
         "raw_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. Subscribe disturbing photos of a teen beaten at a georgia prison — apparently captured on an inmate's cellphone — made it onto facebook before corrections officials even knew he had been hurt, the victim's family told nbc news on wednesday. Cortez berry was assaulted at the al burruss correctional training center in forsyth in what his family says was a gang attack. The assailants apparently posted cellphone pictures to facebook showing berry crouched below two shirtless young men, his eye swollen shut and his neck threaded through a makeshift leash. After seeing the pictures online, his relatives say they made panicked calls to the facility that went unanswered until berry's aunt, shavondria wright, drove to the prison and knocked on the door. ( corrects name of shavondria wright )",
@@ -1414,7 +1401,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1444,14 +1431,13 @@
     },
     {
         "idx": 35753,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "At 94, the leader of the paurata tribe on nararo island has had to abandon his village. \" the sea has started to come inland, it forced us to move up to the hilltop and rebuild our village there away from the sea, \" he says. Nararo is one of six islands in the solomon islands to be severely eroded by rising sea levels, which are climbing seven to 10 millimeters per year in the area, or three times the global average. Nuatambu island has lost half of its habitable land since 2011, and taro in choiseul province may soon become the world's first provincial capital to be abandoned due to climate change, reports the sydney morning herald. But another five uninhabited reef islands have vanished entirely, according to a new study — the first that scientifically \" confirms the numerous anecdotal accounts from across the pacific of the dramatic impacts of climate change on coastlines and people, \" researchers say, per the guardian. Scientists used sea-level records, wave models, and aerial and satellite imagery from 1947 to 2015 to evaluate sea level changes in 33 reef islands, they write at the conversation. The 21 exposed to \" higher wave energy in addition to sea-level rise experienced greatly accelerated loss compared with more sheltered islands. \" the remaining 12, situated in a low wave energy area, \" experienced little noticeable change in shorelines despite being exposed to similar sea-level rise. \" villagers forced to flee sometimes find space on ancestral land. But \" the majority of land is tightly controlled by traditional owners, so moving one group of people onto other peoples ' lands has been the source of ethnic conflict, \" a study author tells the washington post. He adds \" the rates we have recently seen in the solomons will be experienced globally in the second half of this century. \" ( this study offers more bad news. )",
         "split": "train",
         "cleansed_document": [
             "Six more islands have large swaths of land, and villages, washed into sea as coastline of solomon islands eroded and overwhelmed five tiny pacific islands have disappeared due to rising seas and erosion, a discovery thought to be the first scientific confirmation of the impact of climate change on coastlines in the pacific, according to australian researchers. Sea levels set to ' rise far more rapidly than expected'read more the submerged islands were part of the solomon islands, an archipelago that over the last two decades has seen annual sea levels rise as much as 10mm ( 0.4in ), according to research published in the may issue of the online journal environmental research letters. The",
             "A study has found that five of the solomon islands have completely vanished as a result of rising sea levels, and six more are experiencing significant shoreline recession. ( jenny starrs/the washington post ) as the ocean rose, they had to flee. \"the sea has started to come inland, it forced us to move up to the hilltop and rebuild our village there away from the sea, \" said sirilo sutaroti, 94, a leader of the paurata tribe, to a group of australian environmental scientists. The scene of this rising sea is an archipelago of upthrust volcanoes and coral atolls, which dots the pacific to the northeast of australia: the solomon islands.",
-            "Sea-level rise, erosion and coastal flooding are some of the greatest challenges facing humanity from climate change. Recently at least five reef islands in the remote solomon islands have been lost completely to sea-level rise and coastal erosion, and a further six islands have been severely eroded. These islands lost to the sea range in size from one to five hectares. They supported dense tropical vegetation that was at least 300 years old. Nuatambu island, home to 25 families, has lost more than half of its habitable area, with 11 houses washed into the sea since 2011. This is the first scientific evidence, published in environmental research letters, that confirms the numerous anecdotal accounts",
-            "The water rushing roswita nowak already knows what it's like to abandon her home; she's done it three times. Shortly after 8am on april 2, 2007, the mother of eight was making the short stroll from her home at taro's northern end to her work in a government office when she was distracted by an unfamiliar sound. \"i looked down [ toward the village centre ] and could see people running, and then i heard this 'sssshhhh ', and saw the water rushing. Then there was shouting: 'tsunami! tidal wave! ' everyone started to panic, running. People were shouting, 'we have to go, leave"
+            "Sea-level rise, erosion and coastal flooding are some of the greatest challenges facing humanity from climate change. Recently at least five reef islands in the remote solomon islands have been lost completely to sea-level rise and coastal erosion, and a further six islands have been severely eroded. These islands lost to the sea range in size from one to five hectares. They supported dense tropical vegetation that was at least 300 years old. Nuatambu island, home to 25 families, has lost more than half of its habitable area, with 11 houses washed into the sea since 2011. This is the first scientific evidence, published in environmental research letters, that confirms the numerous anecdotal accounts"
         ],
         "raw_document": [
             "Six more islands have large swaths of land, and villages, washed into sea as coastline of solomon islands eroded and overwhelmed five tiny pacific islands have disappeared due to rising seas and erosion, a discovery thought to be the first scientific confirmation of the impact of climate change on coastlines in the pacific, according to australian researchers. Sea levels set to ' rise far more rapidly than expected'read more the submerged islands were part of the solomon islands, an archipelago that over the last two decades has seen annual sea levels rise as much as 10mm ( 0.4in ), according to research published in the may issue of the online journal environmental research letters. The",
@@ -1470,7 +1456,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1573,7 +1559,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1625,7 +1611,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1683,7 +1669,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1789,7 +1775,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1844,12 +1830,11 @@
     },
     {
         "idx": 35768,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Melania trump is heading out on her first solo foreign trip as first lady. She ' ll lead the us delegation to the invictus games, an international sporting events competition in which wounded service members participate, the hill reports. Ninety us athletes are heading to toronto for the third annual games, which start sept. 23 and last for one week. In a statement, trump says she is \" heartened by the great success \" of the games in the two years since prince harry founded them. She will meet the british royal during the event, usa today reports.",
         "split": "train",
         "cleansed_document": [
-            "First lady melania trump will lead the u.s. Delegation to this year's invictus games, the white house announced thursday. The annual international gathering, which features wounded service members competing in sporting events, was founded by britain's prince harry three years ago. This year, 90 american athletes will head to toronto for the weeklong invictus games, starting sep. 23. \"i was heartened by the great success of the inaugural invictus games that took place in london in 2015, and the second games in orlando, florida last year, �? trump said in a statement. Advertisement \"in just two short years, the invictus games have allowed thousands of injured and wounded servicemen and women from many different countries to participate in adaptive sports competitions — something that should be lauded and supported worldwide, \" she added. It's not the first time the event has gotten a boost from a first lady. Michelle obama michelle levaughn robinson obamacelebrities dive into midterms, hoping to thwart trump obamas spotted dancing at beyoncé and jay-z concert in maryland michelle obama joins stars in launch of voter registration push more opened the second annual invictus games last year.",
-            "Close melania trump will head to toronto to lead the u.s. Delegation at the 2017 invictus games in september. Video provided by newsy newslook first lady melania trump at the white house june 19, 2017. ( photo: chip somodevilla, getty images ) first lady melania trump is headed to toronto in september on her first solo foreign trip, to attend prince harry's third invictus games for wounded warriors. Trump's office announced thursday she will lead the u.s. Delegation of 90 athletes slated to compete at the games sept. 23-30. Her spokeswoman, stephanie grisham, said trump will also meet harry, who founded the invictus games in 2014, inspired by the warrior games in denver he attended during a week-long visit to the u.s. In 2013. Toronto will mark the third international meet for wounded warriors, after the opening games in london in 2014 and the second edition in orlando, fla., in 2016. More than 550 wounded servicemen and women from 17 allied nations are expected to compete in toronto in such sports as archery, indoor rowing, powerlifting, sitting volleyball, swimming, and wheelchair basketball, tennis and rugby. The toronto invictus games will likely attract even more attention than usual thanks to trump's presence, but also because that is where harry's girlfriend, american actress meghan markle, lives while she is filming her legal drama, suits. Already on high alert for a possible harry-meghan engagement, the international celebrity media are hoping markle will make an appearance at the games. If so, will trump"
+            "First lady melania trump will lead the u.s. Delegation to this year's invictus games, the white house announced thursday. The annual international gathering, which features wounded service members competing in sporting events, was founded by britain's prince harry three years ago. This year, 90 american athletes will head to toronto for the weeklong invictus games, starting sep. 23. \"i was heartened by the great success of the inaugural invictus games that took place in london in 2015, and the second games in orlando, florida last year, �? trump said in a statement. Advertisement \"in just two short years, the invictus games have allowed thousands of injured and wounded servicemen and women from many different countries to participate in adaptive sports competitions — something that should be lauded and supported worldwide, \" she added. It's not the first time the event has gotten a boost from a first lady. Michelle obama michelle levaughn robinson obamacelebrities dive into midterms, hoping to thwart trump obamas spotted dancing at beyoncé and jay-z concert in maryland michelle obama joins stars in launch of voter registration push more opened the second annual invictus games last year."
         ],
         "raw_document": [
             "First lady melania trump will lead the u.s. Delegation to this year's invictus games, the white house announced thursday. The annual international gathering, which features wounded service members competing in sporting events, was founded by britain's prince harry three years ago. This year, 90 american athletes will head to toronto for the weeklong invictus games, starting sep. 23. \"i was heartened by the great success of the inaugural invictus games that took place in london in 2015, and the second games in orlando, florida last year, �? trump said in a statement. Advertisement \"in just two short years, the invictus games have allowed thousands of injured and wounded servicemen and women from many different countries to participate in adaptive sports competitions — something that should be lauded and supported worldwide, \" she added. It's not the first time the event has gotten a boost from a first lady. Michelle obama michelle levaughn robinson obamacelebrities dive into midterms, hoping to thwart trump obamas spotted dancing at beyoncé and jay-z concert in maryland michelle obama joins stars in launch of voter registration push more opened the second annual invictus games last year.",
@@ -1864,7 +1849,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2028,7 +2013,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2111,7 +2096,7 @@
             "0": 0,
             "1": 2,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2197,12 +2182,11 @@
     },
     {
         "idx": 35781,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The nation is upset with the today show over its choice to air an interview with kris jenner instead of the 9/11 moment of silence — but, perhaps more importantly, kris jenner is upset with the today show. \" she had no idea that she was speaking during the moment of silence, \" a source tells radar. \" she has always been such a strong supporter of the troops and now she's caught in this mess and it's nbc's fault, not hers. \" the source calls jenner \" furious, \" but no word on what, if anything, she's planning to do about it. Meanwhile, as some angry viewers called for a boycott of the show, nbc news president steve capus apologized yesterday, not to the public, but to nbc affiliates. \" while we dedicated a substantial amount of airtime to anniversary events, we still touched a nerve with many of your viewers … and for that we apologize, \" capus wrote in a memo obtained by the new york times.",
         "split": "train",
         "cleansed_document": [
-            "By radar staff kris jenner is furious that she is unwittingly stuck bang smack in the middle of the today 9/11 fiasco, radaronline.com is exclusively reporting. As previously reported, the embattled morning show skipped holding a moment of silence on 9/11, choosing instead to run an interview with the kardashian matriarch where she talked about her breast implants and reality show. Photos: reality tv's top families as backlash grows against nbc and the show, jenner's face has been splashed all over news reports discussing the controversial and unpopular decision, placing her in an extremely uncomfortable position. \"kris is a big supporter of the troops and she's very upset about this, \" a source with knowledge of the situation told radaronline.com exclusively. \"she had absolutely nothing to do with the decision to skip the national moment of silence on 9/11 and suddenly she's in the middle of it and it's her face being shown on tv while it's being discussed. Photos: kris jenner shows off her massive trout pout \"she isn't saying so publicly but she is furious. She's angry the show put her in this position. \" as radaronline.com previously reported, backlash against today is growing, with some people using social media to call for a boycott. Photos: celebs who have slammed the kardashians one person",
-            "Photo as it promised, nbc did not apologize on the air wednesday for its decision not to observe a moment of silence during the \"today \" show on sept. 11. But steve capus, the president of nbc news, did send out a message to the managers of nbc's affiliated stations wednesday, which acknowledged that they had been hit with a storm of criticism from their viewers over the decision – and apologized for putting the stations through that. The incident received wide coverage tuesday, mainly because \"today \" was the only one of the three network morning shows not to participate in the moment of silence in memory of those who died on 9/11, but also because \"today \" happened to be in the midst of a segment that seemed to invite ridicule: an interview with kris jenner, the matriarch of the tabloid-darling kardashian clan, who was discussing her breast augmentation. Mr. Capus sent his memo to nbc affiliate corporation group executives, and began by citing the extensive coverage \"today \" provided wednesday to the attacks on the american embassies in libya and egypt. Then he added: \"yesterday, we made an editorial call resulting in the sept, 11 moment of silence not being seen. While we dedicated a substantial amount of airtime to anniversary events, we still touched a nerve with many of your viewers … and for that we"
+            "By radar staff kris jenner is furious that she is unwittingly stuck bang smack in the middle of the today 9/11 fiasco, radaronline.com is exclusively reporting. As previously reported, the embattled morning show skipped holding a moment of silence on 9/11, choosing instead to run an interview with the kardashian matriarch where she talked about her breast implants and reality show. Photos: reality tv's top families as backlash grows against nbc and the show, jenner's face has been splashed all over news reports discussing the controversial and unpopular decision, placing her in an extremely uncomfortable position. \"kris is a big supporter of the troops and she's very upset about this, \" a source with knowledge of the situation told radaronline.com exclusively. \"she had absolutely nothing to do with the decision to skip the national moment of silence on 9/11 and suddenly she's in the middle of it and it's her face being shown on tv while it's being discussed. Photos: kris jenner shows off her massive trout pout \"she isn't saying so publicly but she is furious. She's angry the show put her in this position. \" as radaronline.com previously reported, backlash against today is growing, with some people using social media to call for a boycott. Photos: celebs who have slammed the kardashians one person"
         ],
         "raw_document": [
             "By radar staff kris jenner is furious that she is unwittingly stuck bang smack in the middle of the today 9/11 fiasco, radaronline.com is exclusively reporting. As previously reported, the embattled morning show skipped holding a moment of silence on 9/11, choosing instead to run an interview with the kardashian matriarch where she talked about her breast implants and reality show. Photos: reality tv's top families as backlash grows against nbc and the show, jenner's face has been splashed all over news reports discussing the controversial and unpopular decision, placing her in an extremely uncomfortable position. \"kris is a big supporter of the troops and she's very upset about this, \" a source with knowledge of the situation told radaronline.com exclusively. \"she had absolutely nothing to do with the decision to skip the national moment of silence on 9/11 and suddenly she's in the middle of it and it's her face being shown on tv while it's being discussed. Photos: kris jenner shows off her massive trout pout \"she isn't saying so publicly but she is furious. She's angry the show put her in this position. \" as radaronline.com previously reported, backlash against today is growing, with some people using social media to call for a boycott. Photos: celebs who have slammed the kardashians one person",
@@ -2217,7 +2201,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2305,7 +2289,7 @@
             "0": 5,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2384,7 +2368,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2674,12 +2658,11 @@
     },
     {
         "idx": 35799,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A red panda made a break for it between feeding times thursday at california's sequoia park zoo — and now staffers are frantically searching for it, the san jose mercury news reports. Masala, a fully grown female described by the zoo as being the \" size of a domestic cat, \" was discovered to be missing when the zoo got a report saying a red panda had been spotted roaming around a eureka-area neighborhood, per the north coast journal. \" we have no idea how she got over the fence, \" gretchen ziegler, the zoo's manager, tells the north coast journal. \" it's contained red pandas since it was built. Animals can do things you can't imagine. \" although staff stress that masala isn't a danger to people, they're concerned because she could be hit by a car or preyed on by another animal, or she may not be able to find a steady supply of food ( she eats bamboo ) or water. Masala is also said to be \" pretty naive \" and \" vulnerable, \" per the manager. \" she's never been out of the exhibit, \" ziegler tells the mercury news. ( a tiger that escaped a flooded zoo earlier this year was \" liquidated. \" )",
         "split": "train",
         "cleansed_document": [
-            "Click to enlarge file one of the city's red pandas has escaped from the zoo and has been seen in the sequoia park forest behind the zoo. The red panda is not a danger to humans. Zoo staff is concerned for the safety of the red panda. City staff along with epd are searching for the panda. If anyone sees the red panda, please don't try to approach or capture. Please call 499-3668 or eureka police dispatch at 441-4044. Masala, a young red panda, is missing from the sequoia park zoo and thought to be in the sequoia park forest. City staff and the eureka police department are searching for her.gretchen ziegler, zoo manager, said staff got a report late this afternoon from \" someone in the community that they saw a red panda in their neighborhood. \" at that point staff confirmed that an animal was missing from its enclosure. \" we have no idea how she got over the fence, \" said ziegler. \" it's contained red pandas since it was built. Animals can do things you can't imagine. We're going to try to figure it out. \" ziegler added that there are a number of concerns about masala's safety. \" she's only been in the panda exhibit her whole life so she's pretty naive. We ' ll be searching all day and all night, \" she said.more information about what to do if you see masala is below.from the city of eureka:",
-            "Marsala, safe and well and back at the zoo. Thank you eureka! late saturday evening, masala was seen and safely captured in the vicinity of the zoo. Thank you to the many volunteers and members of the community who participated in her search and spread the word."
+            "Click to enlarge file one of the city's red pandas has escaped from the zoo and has been seen in the sequoia park forest behind the zoo. The red panda is not a danger to humans. Zoo staff is concerned for the safety of the red panda. City staff along with epd are searching for the panda. If anyone sees the red panda, please don't try to approach or capture. Please call 499-3668 or eureka police dispatch at 441-4044. Masala, a young red panda, is missing from the sequoia park zoo and thought to be in the sequoia park forest. City staff and the eureka police department are searching for her.gretchen ziegler, zoo manager, said staff got a report late this afternoon from \" someone in the community that they saw a red panda in their neighborhood. \" at that point staff confirmed that an animal was missing from its enclosure. \" we have no idea how she got over the fence, \" said ziegler. \" it's contained red pandas since it was built. Animals can do things you can't imagine. We're going to try to figure it out. \" ziegler added that there are a number of concerns about masala's safety. \" she's only been in the panda exhibit her whole life so she's pretty naive. We ' ll be searching all day and all night, \" she said.more information about what to do if you see masala is below.from the city of eureka:"
         ],
         "raw_document": [
             "Click to enlarge file one of the city's red pandas has escaped from the zoo and has been seen in the sequoia park forest behind the zoo. The red panda is not a danger to humans. Zoo staff is concerned for the safety of the red panda. City staff along with epd are searching for the panda. If anyone sees the red panda, please don't try to approach or capture. Please call 499-3668 or eureka police dispatch at 441-4044. Masala, a young red panda, is missing from the sequoia park zoo and thought to be in the sequoia park forest. City staff and the eureka police department are searching for her.gretchen ziegler, zoo manager, said staff got a report late this afternoon from \" someone in the community that they saw a red panda in their neighborhood. \" at that point staff confirmed that an animal was missing from its enclosure. \" we have no idea how she got over the fence, \" said ziegler. \" it's contained red pandas since it was built. Animals can do things you can't imagine. We're going to try to figure it out. \" ziegler added that there are a number of concerns about masala's safety. \" she's only been in the panda exhibit her whole life so she's pretty naive. We ' ll be searching all day and all night, \" she said.more information about what to do if you see masala is below.from the city of eureka:",
@@ -2694,7 +2677,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     }
 ]

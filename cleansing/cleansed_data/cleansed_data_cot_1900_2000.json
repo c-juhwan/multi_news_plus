@@ -2000,12 +2000,13 @@
     },
     {
         "idx": 1973,
-        "document_num": 3,
+        "document_num": 4,
         "summary": "She probably could've tried gofundme, but teresa danks came up with a different plan for raising money to buy supplies for her third-grade classroom: stand on a corner in tulsa, okla., and beg for it. Fox23 reports on the unusual crowdfunding effort by the teacher, who says she spends between $ 2,000 and $ 3,000 of her $ 35,000 annual salary to scoop up materials for her students, in a state that's notorious for low teacher pay. But while she brought in $ 55 on the streets in just over five minutes on tuesday, she says the cash itself isn't the only goal: she wants to raise awareness about the strapped financial situation that educational workers in her state find themselves in. \" we don't want to call it [ begging ], but this kind of shows it is, \" danks, who's been in the educational arena since 1996, tells krmg. Supplies she's looking to acquire to stock her classroom for the fall, among others: beads, egg cartons, yarn, and board games, as well as bigger-ticket items such as a microwave and dorm fridge. Those interested in donating can email danks here, though she stresses people should donate to teachers in their neck of the woods as well.",
         "split": "train",
         "cleansed_document": [
             "Notice you must log in to continue.",
             "While president donald trump backtracked on friday to end a controversial five week partial government shutdown, congressional leaders kick started work on a border security funding agreement, even as the white house threatened to use a national emergency declaration if no border wall money is approved by a february 15 funding deadline. \"we really have no choice but to build a powerful wall or steel barrier, \" the president said friday in remarks from the white house rose garden, as he announced the deal to fund the government for three weeks. \"if we don't get a fair deal from congress, the government will either shut down on february 15th, again, or i will use the powers afforded to me under the laws and the constitution of the",
+            "Careers tulsa public schools is on a journey to be the destination for excellence in teaching and learning, and we invite you to join us! we have positions available throughout the district: from our classrooms, to our transportation hubs, to our district office. If you are ready to make a difference for teachers, children, and families, we have a place for you at tulsa public schools!",
             "0 tulsa teacher turns to panhandling to raise money for classroom supplies tulsa, okla. - quick facts: teresa danks is a tulsa teacher. She says she spends a large portion of her paycheck on classroom supplies. Danks went to a local intersection to ask for money in order to pay for supplies wednesday. Donate to danks ' cause here danks's story is getting national attention, she told fox23 she's getting a huge outpouring of support from the community a tulsa teacher's bold statement is now making the rounds nationally after her story aired on fox23. Danks says the outpour from the community both yesterday and since her story aired has been incredible. So far, she's received about 100 emails from people"
         ],
         "raw_document": [
@@ -2024,10 +2025,10 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 2,
-            "2": 3,
+            "1": 1,
+            "2": 2,
             "3": 0,
-            "4": 4
+            "4": 3
         }
     },
     {
@@ -2189,7 +2190,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 3,
+            "1": 4,
             "2": 0,
             "3": 0,
             "4": 1,

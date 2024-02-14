@@ -73,7 +73,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -129,7 +129,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -154,7 +154,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -196,7 +196,7 @@
             "4": 1,
             "5": 0,
             "6": 1,
-            "7": 0
+            "7": 1
         }
     },
     {
@@ -224,7 +224,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -249,7 +249,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -329,12 +329,11 @@
     },
     {
         "idx": 36312,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "\" we... Would prefer our trademark not be misappropriated for political purposes. \" that's hbo's take on a game of thrones-like image of president trump with the caption \" sanctions are coming november 5 \" that the president tweeted friday, cnbc reports. The message — which imitates'the show's popular \"winter is coming \" catchphrase and font — apparently references trump's re-imposing of sanctions on iran. In its own tweet, hbo says, \"how do you say trademark misuse in dothraki? \" referring to a fictional language from game of thrones. In reaction to trump's tweet, sophie turner, who portrays sansa on the show, tweeted, \"ew. \" ( steven tyler sent the president a cease-and-desist letter. )",
         "split": "train",
         "cleansed_document": [
-            "Hbo isn't happy that president donald trump used \" game of thrones \" imagery and language to promote sanctions against iran. An image of trump posted friday featured a text overlay reading \" sanctions are coming. \" the font of the text is a near-match of the style used in hbo's mega-popular fantasy television series. The text itself appears to imitate \" winter is coming, \" one of the show's most popular slogans. In a statement to cnbc, hbo said, \" we were not aware of this messaging and would prefer our trademark not be misappropriated for political purposes. \" hbo's official twitter account followed up soon after, asking, \" how do you say trademark misuse in dothraki? \" referring to a fictional language used by one of the groups in the show. Asked if hbo planned to take legal action, network spokesman jeff cusson told cnbc there were \" no further steps. \" the white house did not immediately respond to cnbc's request for comment on hbo's statement. It was not immediately clear from trump's tweet which sanctions he was referring to. But the white house's official twitter account appeared to clarify in a follow-up shortly after trump's tweet that the image was intended to reference sanctions on iran. Trump's tweet also noted that the sanctions were \" coming \" on monday, nov. 5, when the administration says it will reimpose all u.s. Sanctions on iran that had been relaxed under the 2015 nuclear deal brokered during the obama administration. This isn't the first time trump has run afoul of hbo's parent company, time warner. The president has repeatedly hammered news network cnn, and his justice department opposed at&t's acquisition of time warner, which was cleared by a federal judge in june. Some stars of \" game of thrones, \" which is set to air its eighth and final season in 2019, responded to trump's allegedly unauthorized use of the show's likeness. Maisie williams, who portrays arya stark on the show, responded, \" not today. \" sophie turner, who plays arya's sister sansa, was even more succinct: \" ew, \" she said. While hbo objected to trump's photo, the show's themes and catchphrases have often shown up in politics. Business insider reported that trump's 2016 rival, former secretary of state hillary clinton, compared herself to another character, cersei lannister",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Hbo isn't happy that president donald trump used \" game of thrones \" imagery and language to promote sanctions against iran. An image of trump posted friday featured a text overlay reading \" sanctions are coming. \" the font of the text is a near-match of the style used in hbo's mega-popular fantasy television series. The text itself appears to imitate \" winter is coming, \" one of the show's most popular slogans. In a statement to cnbc, hbo said, \" we were not aware of this messaging and would prefer our trademark not be misappropriated for political purposes. \" hbo's official twitter account followed up soon after, asking, \" how do you say trademark misuse in dothraki? \" referring to a fictional language used by one of the groups in the show. Asked if hbo planned to take legal action, network spokesman jeff cusson told cnbc there were \" no further steps. \" the white house did not immediately respond to cnbc's request for comment on hbo's statement. It was not immediately clear from trump's tweet which sanctions he was referring to. But the white house's official twitter account appeared to clarify in a follow-up shortly after trump's tweet that the image was intended to reference sanctions on iran. Trump's tweet also noted that the sanctions were \" coming \" on monday, nov. 5, when the administration says it will reimpose all u.s. Sanctions on iran that had been relaxed under the 2015 nuclear deal brokered during the obama administration. This isn't the first time trump has run afoul of hbo's parent company, time warner. The president has repeatedly hammered news network cnn, and his justice department opposed at&t's acquisition of time warner, which was cleared by a federal judge in june. Some stars of \" game of thrones, \" which is set to air its eighth and final season in 2019, responded to trump's allegedly unauthorized use of the show's likeness. Maisie williams, who portrays arya stark on the show, responded, \" not today. \" sophie turner, who plays arya's sister sansa, was even more succinct: \" ew, \" she said. While hbo objected to trump's photo, the show's themes and catchphrases have often shown up in politics. Business insider reported that trump's 2016 rival, former secretary of state hillary clinton, compared herself to another character, cersei lannister"
         ],
         "raw_document": [
             "Hbo isn't happy that president donald trump used \" game of thrones \" imagery and language to promote sanctions against iran. An image of trump posted friday featured a text overlay reading \" sanctions are coming. \" the font of the text is a near-match of the style used in hbo's mega-popular fantasy television series. The text itself appears to imitate \" winter is coming, \" one of the show's most popular slogans. In a statement to cnbc, hbo said, \" we were not aware of this messaging and would prefer our trademark not be misappropriated for political purposes. \" hbo's official twitter account followed up soon after, asking, \" how do you say trademark misuse in dothraki? \" referring to a fictional language used by one of the groups in the show. Asked if hbo planned to take legal action, network spokesman jeff cusson told cnbc there were \" no further steps. \" the white house did not immediately respond to cnbc's request for comment on hbo's statement. It was not immediately clear from trump's tweet which sanctions he was referring to. But the white house's official twitter account appeared to clarify in a follow-up shortly after trump's tweet that the image was intended to reference sanctions on iran. Trump's tweet also noted that the sanctions were \" coming \" on monday, nov. 5, when the administration says it will reimpose all u.s. Sanctions on iran that had been relaxed under the 2015 nuclear deal brokered during the obama administration. This isn't the first time trump has run afoul of hbo's parent company, time warner. The president has repeatedly hammered news network cnn, and his justice department opposed at&t's acquisition of time warner, which was cleared by a federal judge in june. Some stars of \" game of thrones, \" which is set to air its eighth and final season in 2019, responded to trump's allegedly unauthorized use of the show's likeness. Maisie williams, who portrays arya stark on the show, responded, \" not today. \" sophie turner, who plays arya's sister sansa, was even more succinct: \" ew, \" she said. While hbo objected to trump's photo, the show's themes and catchphrases have often shown up in politics. Business insider reported that trump's 2016 rival, former secretary of state hillary clinton, compared herself to another character, cersei lannister",
@@ -349,7 +348,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -543,7 +542,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -651,7 +650,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -732,17 +731,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 36327,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The party's over: the sale of one of the most famous mansions in america — the five-acre playboy mansion in los angeles ' holmby hills — has closed for a not-insubstantial $ 100 million, reuters reports, though it's worth noting that the sale price is half of the original asking price. The mansion also comes with a pajama-clad built-in resident, 90-year-old hugh hefner, who will live out the rest of his days in the estate where he spent his glory days. It was the largest residential sale in la history, according to the hollywood reporter. The buyer was next-door neighbor financier daren metropoulos, 33, who said, \"i feel fortunate and privileged to now own a one-of-a-kind piece of history and art. \" playboy enterprises will pay metropoulos $ 1 million a year in upkeep for the remainder of hef's life; as part of the deal, metropoulos agreed to give hef plenty of notice when he wants to visit. Playboy enterprises paid $ 1.1 million for the gothic tudor-style mansion in 1971. With 20,000 square feet, 29 rooms, a tennis court, and a swimming pool, there was plenty of space for hefner to throw some of la's most hedonistic parties, which he stocked with playboy bunnies and bawdy entertainment for a-list guests like, er, bill cosby. In recent years, though, as the aging magnate's health declined, life at the mansion seemed decidedly less fun, less-than-thrilled guests told the mirror. ( a recent visitor panned it as \"kinda depressing, \" vice reports. ) after hef's tenancy, er, ends, metropoulos, plans to combine the property with a 2.3-acre property next-door he bought in 2009 and use it as his own personal residence. ( \" pontiac fever \" once crashed a playboy mansion party. )",
         "split": "train",
         "cleansed_document": [
-            "Businessman daren metropoulos acquired the property for half of what it was listed for. A $ 100 million deal to sell the historic playboy mansion to businessman daren metropoulos has closed, marking the largest residential sale in the history of los angeles county. \"i feel fortunate and privileged to now own a one-of-a-kind piece of history and art, \" said metropoulos in a statement. \"the playboy mansion is one of the most iconic properties in the world and the crown jewel of holmby hills and the platinum triangle. \" when the deal was announced in early june, the exact price of the playboy mansion was not disclosed, although when the five-acre property initially hit the market in january it had a sticker price of $ 200 million. It ultimately sold for half of that. According to the release, hugh hefner, the founder of playboy enterprises, will continue to occupy the mansion for the remainder",
-            "Get daily news updates directly to your inbox subscribe thank you for subscribing we have more newsletters show me see our privacy notice could not subscribe, try again later invalid email it's a place so notorious, its very name is enough to strike trepidation into the heart of any aspiring young pin-up. For more than four decades, the playboy mansion has been synonymous with sleazy glamour and easy women – a monument to one man's warped view of the world, a grown-up fantasyland known for a-list guests, wild parties and even wilder girls. But today the famed personal fiefdom created by playboy magnate hugh hefner is far from the ­hedonist's paradise imagined by the public, according to british twins carla and melissa howe. In an exclusive interview, the 24-year-old slough sisters, who split their time between the £ 34million ­californian mansion and the uk, tell how the recession"
+            "Businessman daren metropoulos acquired the property for half of what it was listed for. A $ 100 million deal to sell the historic playboy mansion to businessman daren metropoulos has closed, marking the largest residential sale in the history of los angeles county. \"i feel fortunate and privileged to now own a one-of-a-kind piece of history and art, \" said metropoulos in a statement. \"the playboy mansion is one of the most iconic properties in the world and the crown jewel of holmby hills and the platinum triangle. \" when the deal was announced in early june, the exact price of the playboy mansion was not disclosed, although when the five-acre property initially hit the market in january it had a sticker price of $ 200 million. It ultimately sold for half of that. According to the release, hugh hefner, the founder of playboy enterprises, will continue to occupy the mansion for the remainder"
         ],
         "raw_document": [
             "A couple of weeks ago i was invited to the playboy mansion for a screening of that new jennifer lopez/jason statham movie, parker. I don't usually go to press screenings because it's much easier to download the movie and watch it at home and not have to talk to other people, but i'd literally wanted to visit the playboy mansion ever since i'd found out it was an option for me several seconds earlier. So i had to go. Before the screening there was a reception featuring drinks and \" photo opportunities \" with some playboy playmates™ ® in the mansion's main entry hall. Hugh was supposed to be in attendance too, but he was sick. So we had to make do with this thing. The screening was held in the drawing room. Here's an exclusive sneak preview of it. This is from",
@@ -759,7 +757,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -866,13 +864,12 @@
     },
     {
         "idx": 36332,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A chicago man has been removed from the jewish deli his family has owned for three generations after tweeting about the \" relief \" he felt in the wake of the las vegas shooting, the chicago tribune reports. \" soon as i heard it was country music, i felt relief, \" greg morelli, co-owner of max's deli, tweeted monday. \" white people shooting white people isn't terror... It's community outreach. \" according to fox 32, the tweet garnered morelli death threats and max's deli a slew of one-star yelp reviews. \" the owner of this deli is a hateful, vile man, \" reads one such review. One person stoking anti-morelli sentiment is andrew anglin, the head of neo-nazi website the daily stormer, newsweek reports. Joey morelli, greg's brother and co-owner of max's deli along with a cousin, released a statement thursday saying he would be buying out his brother's share of the business asap. \" he is out, he has agreed to be out and he is gone, \" joey morelli says. \" i love him, but he must move on. \" joey says his brother's tweet \" created a toxicity around us. \" but it isn't the first time greg's actions brought negative attention to max's deli. In the wake of the events in charlottesville, greg posted a drawing of someone in nazi garb to the maxi's deli website. Greg morelli says he decided to leave the deli, which he calls \" the love of my life, \" for the good of the business. \" they didn't ask for this, \" he says. He blames \" a bunch of people who hate free speech. \"",
         "split": "train",
         "cleansed_document": [
             "- a chicago-area deli is facing backlash after one of its owners sent out a tweet in response to the las vegas mass shooting, calling it \"community outreach. \" greg morelli of max's deli in highland park, ill. Said he felt \" relief \" when he heard about the shooting because it took place at a country music concert. \" soon as i heard it was country music, i felt relief. White people shooting white people isn't terror … it's community outreach. #lasvegas, \" morelli's tweet read. The tweet, which has since been deleted, was posted monday morning after news broke of the massacre in las vegas, where at least 59 people were killed and over 500 injured. Both morelli and the deli received harsh criticism because of the tweet, with people issuing death threats and leaving dozens of one-star reviews on yelp. One",
-            "Max's deli in highland park has ousted co-owner greg morelli over a controversial tweet that was posted monday after the mass shootings in las vegas. Deli co-owner joey morelli released a statement thursday saying his brother is no longer affiliated with max's deli, which the two own with a cousin. They are the third generation of owners in the family-run business. He later said he plans to buy out his brother's interest in the business as soon as possible. \" he is out, he has agreed to be out and he is gone, \" joey morelli said. \" i love him, but he must move on with his life and address his issues. \" the business has shut down its facebook page. The now deleted tweet, which ignited outrage on social media, read: \" soon as i heard it was country music, i felt relief",
-            "This story will likely be familiar to anyone who has followed the bizarre saga of andrew anglin, an obsessively anti-semitic blogger whose clownish, millennial-targeted neo-nazi website, the daily stormer, has bounced across roughly nine different internet hosts, in the wake of a post he wrote mocking the death of activist heather heyer. She is the woman who was killed after accused suspect james fields rammed his car into a crowd of protesters, according to authorities, at the white nationalist \"unite the right \" event in charlottesville, virginia, in august. Greg morelli, the co-owner of a jewish deli in highland park, illinois, made an inflammatory comment on twitter about the mass shooting that took place in las vegas this past sunday night, suggesting that he felt \"relief \" to hear that shooter stephen paddock targeted white country music fans. \"white people shooting white people isn't terror, \" he"
+            "Max's deli in highland park has ousted co-owner greg morelli over a controversial tweet that was posted monday after the mass shootings in las vegas. Deli co-owner joey morelli released a statement thursday saying his brother is no longer affiliated with max's deli, which the two own with a cousin. They are the third generation of owners in the family-run business. He later said he plans to buy out his brother's interest in the business as soon as possible. \" he is out, he has agreed to be out and he is gone, \" joey morelli said. \" i love him, but he must move on with his life and address his issues. \" the business has shut down its facebook page. The now deleted tweet, which ignited outrage on social media, read: \" soon as i heard it was country music, i felt relief"
         ],
         "raw_document": [
             "- a chicago-area deli is facing backlash after one of its owners sent out a tweet in response to the las vegas mass shooting, calling it \"community outreach. \" greg morelli of max's deli in highland park, ill. Said he felt \" relief \" when he heard about the shooting because it took place at a country music concert. \" soon as i heard it was country music, i felt relief. White people shooting white people isn't terror … it's community outreach. #lasvegas, \" morelli's tweet read. The tweet, which has since been deleted, was posted monday morning after news broke of the massacre in las vegas, where at least 59 people were killed and over 500 injured. Both morelli and the deli received harsh criticism because of the tweet, with people issuing death threats and leaving dozens of one-star reviews on yelp. One",
@@ -889,7 +886,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -969,7 +966,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -997,7 +994,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1258,12 +1255,11 @@
     },
     {
         "idx": 36347,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Manute bol, one of the two tallest players in nba history and a shot-blocking legend, has died at age 47. Bol, who measured just a hair under 7 feet, 7 inches, was drafted by the washington bullets in 1985, but his exotic and unusual story began years before — and thousands of miles away, reports the washington post. Born in sudan, bol was a cattle herder who once killed a lion with a spear... And didn't lay a finger on a basketball until his late teens. He was spotted by an american coach and made his way to the states, ultimately playing 10 seasons in the nba and blocking an astounding 2,086 shots. Bol dedicated his post-basketball life to helping those in sudan ( read more about his hard work here ), where he contracted a painful skin disease that caused the internal bleeding and complications that ultimately killed him. \" i had a good time with the american people, \" he said in a 2001 sports illustrated interview. \" i hope they remember me as a good guy who played hard. I wasn't michael jordan, but i was somebody called manute bol. \"",
         "split": "train",
         "cleansed_document": [
-            "Manute bol, who became a basketball sensation in the 1980s as a skeletally thin shot-blocking giant with the washington bullets and other professional teams, and who devoted his post-basketball life to improving the lot of his fellow natives of sudan, died june 19 at the university of virginia medical center in charlottesville. He was 47. His cousin george bol said mr. Bol had internal bleeding and other complications from stevens-johnson syndrome, a rare skin disease that he contracted from a medication he received in africa. Mr. Bol, one of the two tallest players in nba history, was also one of its most exotic and endearing -- and surely the only one to have killed a lion with a spear. His unusual journey to basketball stardom began in southern sudan, where he was a cattle-herding member of the dinka tribe and never touched a basketball until his late teens. After catching the eye of an american coach working in sudan, mr. Bol made his way to the united states without knowing a word of english. When the bullets drafted him in the second round in 1985, he was measured at 7 feet 6ยพ inches in his bare feet -- usually rounded up to 7-7 -- and he weighed a mere 190 pounds. Mr. Bol had limited basketball skills, but with a fingertip-to-fingertip wingspan of 8 feet 6 inches, he proved to be unusually adept",
-            "Commentary manute bol deserves more recognition for his work in sudan related: photos &#124; nba's manute bol through the years more news the hero is 7 feet 7 inches when he's standing but for now lies on his back, crammed into a standard hospital bed in virginia. His name is manute bol. You might remember him as the tallest player in nba history during his 10 seasons. The story of why he is hooked to tubes in virginia instead of relaxing at his home in olathe is inspiring and embarrassing and humbling and depressing, all at the same time. He knows this story is running today, and wanted to talk, to spread his message. But the pain is too much. Maybe later. So for now, he lays in that bed and takes more tests and grinds through more pain and wonders when he can get back to doing more good. This is the inspiring and humbling part of his story. \"he's making progress, \" says a friend, tom prichard, standing outside bol's room. \"but he's got a long way to go. \" bol is fighting acute kidney failure and a potentially fatal skin disease contracted while trying to help his native sudan. The skin disease is so bad he couldn't eat for 11 days. The man who"
+            "Manute bol, who became a basketball sensation in the 1980s as a skeletally thin shot-blocking giant with the washington bullets and other professional teams, and who devoted his post-basketball life to improving the lot of his fellow natives of sudan, died june 19 at the university of virginia medical center in charlottesville. He was 47. His cousin george bol said mr. Bol had internal bleeding and other complications from stevens-johnson syndrome, a rare skin disease that he contracted from a medication he received in africa. Mr. Bol, one of the two tallest players in nba history, was also one of its most exotic and endearing -- and surely the only one to have killed a lion with a spear. His unusual journey to basketball stardom began in southern sudan, where he was a cattle-herding member of the dinka tribe and never touched a basketball until his late teens. After catching the eye of an american coach working in sudan, mr. Bol made his way to the united states without knowing a word of english. When the bullets drafted him in the second round in 1985, he was measured at 7 feet 6ยพ inches in his bare feet -- usually rounded up to 7-7 -- and he weighed a mere 190 pounds. Mr. Bol had limited basketball skills, but with a fingertip-to-fingertip wingspan of 8 feet 6 inches, he proved to be unusually adept"
         ],
         "raw_document": [
             "Manute bol, who became a basketball sensation in the 1980s as a skeletally thin shot-blocking giant with the washington bullets and other professional teams, and who devoted his post-basketball life to improving the lot of his fellow natives of sudan, died june 19 at the university of virginia medical center in charlottesville. He was 47. His cousin george bol said mr. Bol had internal bleeding and other complications from stevens-johnson syndrome, a rare skin disease that he contracted from a medication he received in africa. Mr. Bol, one of the two tallest players in nba history, was also one of its most exotic and endearing -- and surely the only one to have killed a lion with a spear. His unusual journey to basketball stardom began in southern sudan, where he was a cattle-herding member of the dinka tribe and never touched a basketball until his late teens. After catching the eye of an american coach working in sudan, mr. Bol made his way to the united states without knowing a word of english. When the bullets drafted him in the second round in 1985, he was measured at 7 feet 6ยพ inches in his bare feet -- usually rounded up to 7-7 -- and he weighed a mere 190 pounds. Mr. Bol had limited basketball skills, but with a fingertip-to-fingertip wingspan of 8 feet 6 inches, he proved to be unusually adept",
@@ -1278,7 +1274,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1454,12 +1450,11 @@
     },
     {
         "idx": 36354,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The supreme court was unanimous today in a decision that will allow an arkansas inmate to grow a half-inch beard. The state's rule specified that beard length must be kept to a quarter inch; gregory holt, a muslim man also known as abdul maalik muhammad, had sought permission to grow the slightly longer beard in a compromise: he believes his faith demands a full beard, but was willing to accept the half-inch length in keeping with what california prison policy afford muslim inmates there. In what nbc news terms a \" handwritten plea, \" he noted that arkansas'restriction put inmates in a catch-22: grow the full beard he sees as required by his religion and be disciplined, or give in and violate his faith. Arkansas argued that contraband smuggling would become a concern with the longer beard. Wrote justice samuel alito in the opinion, that \" argument... Is hard to take seriously. An item of contraband would have to be very small indeed to be concealed by \" such a beard, and the inmate would have to devise a way to keep the item in there to boot. Further, \" since the department does not demand that inmates have shaved heads or short crew cuts, it is hard to see why an inmate would seek to hide contraband in a half-inch beard rather than in the longer hair on his head. \" the ap notes that more than 40 states allow inmates to keep beards, and nbc frames arkansas as \" virtually alone in having such a restrictive rule. \" holt has previously served time for threatening president bush's daughters; he's now serving a life sentence for a brutal assault on his girlfriend.",
         "split": "train",
         "cleansed_document": [
-            "A unanimous supreme court ruling has invalidated an arkansas state prison rule that barred inmates from growing beards measuring more than a quarter of an inch long. The rule had been challenged by inmate gregory holt, a muslim man who had asked for permission to grow a half-inch-long beard as a compromise from the full beard he believes is required by his faith. In a ruling announced tuesday, the supreme court said the policy violated holt's religious beliefs. Arkansas was virtually alone in having such a restrictive rule on beards. Holt — who is also known as abdul maalik muhammad — had argued in a handwritten plea to the court that the state's refusal to grant exceptions was oppressive and forced inmates \" to either obey their religious beliefs and face disciplinary action on the one hand, or violate those beliefs in order to acquiesce \" to the grooming policy. The supreme court had earlier granted holt's request to maintain a half-inch long beard while his case worked its way through the appeals process. Holt, who did time for making a threat against president bush's daughters before being convicted in 2010 of knifing his girlfriend, was sentenced to life in prison in 2010. The opinion, written by justice samuel alito, said the state has a legitimate need to prevent the concealment of contraband, which was its stated reason for the policy. But, alito said, \" the argument that this interest would be seriously compromised by allowing an inmate to grow a 1⁄2-inch beard is hard to take seriously. \" \" an item of contraband would have to be very small indeed to be concealed by a 1⁄2-inch beard, and a prisoner seeking to hide an item in such a short beard would have to find a way to prevent the item from falling out. Since the department does not demand that inmates have shaved heads or short crew cuts, it is hard to see why an inmate would seek to hide contraband in a 1⁄2-inch beard rather than in the longer hair on his head, \" alito said.",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "A unanimous supreme court ruling has invalidated an arkansas state prison rule that barred inmates from growing beards measuring more than a quarter of an inch long. The rule had been challenged by inmate gregory holt, a muslim man who had asked for permission to grow a half-inch-long beard as a compromise from the full beard he believes is required by his faith. In a ruling announced tuesday, the supreme court said the policy violated holt's religious beliefs. Arkansas was virtually alone in having such a restrictive rule on beards. Holt — who is also known as abdul maalik muhammad — had argued in a handwritten plea to the court that the state's refusal to grant exceptions was oppressive and forced inmates \" to either obey their religious beliefs and face disciplinary action on the one hand, or violate those beliefs in order to acquiesce \" to the grooming policy. The supreme court had earlier granted holt's request to maintain a half-inch long beard while his case worked its way through the appeals process. Holt, who did time for making a threat against president bush's daughters before being convicted in 2010 of knifing his girlfriend, was sentenced to life in prison in 2010. The opinion, written by justice samuel alito, said the state has a legitimate need to prevent the concealment of contraband, which was its stated reason for the policy. But, alito said, \" the argument that this interest would be seriously compromised by allowing an inmate to grow a 1⁄2-inch beard is hard to take seriously. \" \" an item of contraband would have to be very small indeed to be concealed by a 1⁄2-inch beard, and a prisoner seeking to hide an item in such a short beard would have to find a way to prevent the item from falling out. Since the department does not demand that inmates have shaved heads or short crew cuts, it is hard to see why an inmate would seek to hide contraband in a 1⁄2-inch beard rather than in the longer hair on his head, \" alito said."
         ],
         "raw_document": [
             "A unanimous supreme court ruling has invalidated an arkansas state prison rule that barred inmates from growing beards measuring more than a quarter of an inch long. The rule had been challenged by inmate gregory holt, a muslim man who had asked for permission to grow a half-inch-long beard as a compromise from the full beard he believes is required by his faith. In a ruling announced tuesday, the supreme court said the policy violated holt's religious beliefs. Arkansas was virtually alone in having such a restrictive rule on beards. Holt — who is also known as abdul maalik muhammad — had argued in a handwritten plea to the court that the state's refusal to grant exceptions was oppressive and forced inmates \" to either obey their religious beliefs and face disciplinary action on the one hand, or violate those beliefs in order to acquiesce \" to the grooming policy. The supreme court had earlier granted holt's request to maintain a half-inch long beard while his case worked its way through the appeals process. Holt, who did time for making a threat against president bush's daughters before being convicted in 2010 of knifing his girlfriend, was sentenced to life in prison in 2010. The opinion, written by justice samuel alito, said the state has a legitimate need to prevent the concealment of contraband, which was its stated reason for the policy. But, alito said, \" the argument that this interest would be seriously compromised by allowing an inmate to grow a 1⁄2-inch beard is hard to take seriously. \" \" an item of contraband would have to be very small indeed to be concealed by a 1⁄2-inch beard, and a prisoner seeking to hide an item in such a short beard would have to find a way to prevent the item from falling out. Since the department does not demand that inmates have shaved heads or short crew cuts, it is hard to see why an inmate would seek to hide contraband in a 1⁄2-inch beard rather than in the longer hair on his head, \" alito said.",
@@ -1474,7 +1469,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1531,12 +1526,11 @@
     },
     {
         "idx": 36357,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Tucked away in a new york times profile of marissa mayer from last week is an amusing tidbit about gwyneth paltrow picked up by gawker and the daily mail. It seems that cookbook author and lifestyle-advice purveyor paltrow was under consideration to be hired as a contributing editor for yahoo food, but, one executive says, mayer \" balked \" at the idea because the ceo \" disapproved of the fact that paltrow did not graduate college. \" as gawker notes, paltrow did attend uc santa barbara, but dropped out to pursue stardom.",
         "split": "train",
         "cleansed_document": [
-            "It is said that she ' habitually asked deputies where they attended college'the former google executive was brought in to remake once-great yahoo she may be a oscar-winning actress with best-selling cookbooks and a popular lifestyle blog, but it seems gywneth paltrow is still not quite good enough for yahoo's marissa mayer. According to an article in the new york times, the ceo ' balked ' at the idea of hiring the hollywood actress because she'disapproved of the fact that paltrow did not graduate college '. The lengthy piece revealed that former google executive mayer, who had been drafted in to remake the once-great yahoo, ' habitually asked deputies where they attended college '. Marissa mayer ( left ) ' balked ' at the idea of hiring gwyneth paltrow ( right ) because she'disapproved of the fact that paltrow did not graduate college ' and according to one executive, the fact that paltrow did not even graduate college was the major stumbling block to her being hired as a contributing editor for yahoo food. The decision has been questioned by critics who label mayer as ' a higher education snob ' and point out that internet greats steve jobs, bill gates, and mark zuckerberg dropped out of reed, harvard, and harvard respectively. Mayer, who graduated stanford in 1997, was just 38 when she was hired by",
-            "Yahoo also lured a slate of expensive journalists to helm a series of new \"digital magazines. \" mayer hired david pogue, the new york times's gadget columnist, to be the editor of yahoo tech. She personally recruited joe zee, the creative director of elle, telling him to consider yahoo his \"playground. \" mayer's team asked the former page six editor paula froelich to run yahoo travel; the makeup star bobbi brown would oversee yahoo beauty. And yahoo shine, with its $ 45 million in yearly revenue, was shot down. For the newfronts event in june 2014, mayer wore a designer dress and introduced a slate of buzzy new shows that she personally approved. Behind the scenes, though, her hands-on strategy was backfiring. \"i just think it is a strategic mistake to take on big media where they are strongest, \" jonah peretti, the c.e.o. Of buzzfeed, wrote me in an email earlier this year, referring to her focus on stars, scripted shows and glossy content. \"especially when there is a huge open space at the intersection of media and tech where it is hard for other big companies to compete. \" couric, meanwhile, had done several interviews with high-profile figures, including former secretary of defense robert gates, but yahoo's users weren't clicking on the videos."
+            "It is said that she ' habitually asked deputies where they attended college'the former google executive was brought in to remake once-great yahoo she may be a oscar-winning actress with best-selling cookbooks and a popular lifestyle blog, but it seems gywneth paltrow is still not quite good enough for yahoo's marissa mayer. According to an article in the new york times, the ceo ' balked ' at the idea of hiring the hollywood actress because she'disapproved of the fact that paltrow did not graduate college '. The lengthy piece revealed that former google executive mayer, who had been drafted in to remake the once-great yahoo, ' habitually asked deputies where they attended college '. Marissa mayer ( left ) ' balked ' at the idea of hiring gwyneth paltrow ( right ) because she'disapproved of the fact that paltrow did not graduate college ' and according to one executive, the fact that paltrow did not even graduate college was the major stumbling block to her being hired as a contributing editor for yahoo food. The decision has been questioned by critics who label mayer as ' a higher education snob ' and point out that internet greats steve jobs, bill gates, and mark zuckerberg dropped out of reed, harvard, and harvard respectively. Mayer, who graduated stanford in 1997, was just 38 when she was hired by"
         ],
         "raw_document": [
             "It is said that she ' habitually asked deputies where they attended college'the former google executive was brought in to remake once-great yahoo she may be a oscar-winning actress with best-selling cookbooks and a popular lifestyle blog, but it seems gywneth paltrow is still not quite good enough for yahoo's marissa mayer. According to an article in the new york times, the ceo ' balked ' at the idea of hiring the hollywood actress because she'disapproved of the fact that paltrow did not graduate college '. The lengthy piece revealed that former google executive mayer, who had been drafted in to remake the once-great yahoo, ' habitually asked deputies where they attended college '. Marissa mayer ( left ) ' balked ' at the idea of hiring gwyneth paltrow ( right ) because she'disapproved of the fact that paltrow did not graduate college ' and according to one executive, the fact that paltrow did not even graduate college was the major stumbling block to her being hired as a contributing editor for yahoo food. The decision has been questioned by critics who label mayer as ' a higher education snob ' and point out that internet greats steve jobs, bill gates, and mark zuckerberg dropped out of reed, harvard, and harvard respectively. Mayer, who graduated stanford in 1997, was just 38 when she was hired by",
@@ -1551,7 +1545,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1635,7 +1629,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1690,14 +1684,13 @@
     },
     {
         "idx": 36363,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Cops are seeking a suspect with white overalls, red shoes, red bushy hair, a white face, and a red nose after the latest in a string of disturbing clown sightings in the carolinas. In the latest incident, police in winston-salem, nc, say the suspect tried to lure kids into woods with treats near a residential area sunday night, fox8 reports. Officers say the clown apparently fled the area when they turned up. They say the suspect was seen by two children and was heard, but not seen, by an adult, reports the winston-salem journal. Hours later, a second caller reported a clown in the same area. Police say a search of the woods turned up no evidence of any clowns, but they have stepped up patrols in the neighborhood, the ap reports. Before the latest sightings, police in south carolina said they had received at least eight calls about clowns or suspected clowns, but they've been unable to confirm any of them, reports reuters. Some suspect the sightings could be linked to the new rob zombie horror movie 31, which was released sept. 1 and features a gang of evil clowns. ( the chief of police in greenville, sc, where most of the creepy clown reports have come from, says suspected clowns will be arrested on sight. )",
         "split": "train",
         "cleansed_document": [
             "Please enable javascript to watch this video winston-salem, n.c. -- winston-salem police say someone in a clown costume tried to lure kids into the woods sunday night. The incident happened in the 1200 block of east 29th street off hwy. 52 about 8: 30 p.m. The \" clown \" was described as wearing white overalls, white gloves, red shoes with red bushy hair, a white face and a red nose. The suspect allegedly tried to lure the kids with treats. The suspect was reportedly seen by two children and heard, but not seen, by one adult. The suspect fled the area when officers arrived. A second clown sighting happened just after midnight in the 1600 block of hope lane, two miles from",
             "Winston-salem, n.c. ( ap ) — police say they are doing extra patrols in a winston-salem neighborhood after two children reported seeing a clown trying to lure kids into the woods with treats. Police said in a news release that officers were called to the area around 8: 30 p.m. Sunday. Authorities say two children said they saw the clown, and one adult reported hearing the clown. Officers say they found no evidence of a clown in the woods. About four hours later, a caller who refused to give a name reported seeing a clown about 2 miles away. Police say again they found no evidence of a clown. Several unverified clown sightings in northern south carolina have been in the news recently.",
-            "( reuters ) - one clown showed up on a roadside in a rain poncho, another waved money at children near woods. The reported sightings of silent, menacing clowns in northeastern south carolina may be part of a horror movie publicity stunt or an elaborate hoax, but they are no laughing matter for parents and police. Over the past two weeks, residents have told authorities they have spotted clowns, or people who looked like clowns, on at least eight occasions. Investigators have failed to confirm a single sighting and the descriptions have varied in detail. But police are nevertheless urging parents to be cautious. \"i will usually let my son play in our backyard where i can see him from the kitchen, but now",
-            "Published on jun 14, 2016 from the visionary mind of the man who brought us house of 1000 corpses, the devil's rejects and halloween comes the horrific story of five carnival workers who are kidnapped the night before halloween and held hostage in a large compound. At the mercy of their captors, they are forced to play a twisted game or life or death called 31. For the next 12 hours they must fight for their lives against an endless parade of homicidal maniacs."
+            "( reuters ) - one clown showed up on a roadside in a rain poncho, another waved money at children near woods. The reported sightings of silent, menacing clowns in northeastern south carolina may be part of a horror movie publicity stunt or an elaborate hoax, but they are no laughing matter for parents and police. Over the past two weeks, residents have told authorities they have spotted clowns, or people who looked like clowns, on at least eight occasions. Investigators have failed to confirm a single sighting and the descriptions have varied in detail. But police are nevertheless urging parents to be cautious. \"i will usually let my son play in our backyard where i can see him from the kitchen, but now"
         ],
         "raw_document": [
             "Please enable javascript to watch this video winston-salem, n.c. -- winston-salem police say someone in a clown costume tried to lure kids into the woods sunday night. The incident happened in the 1200 block of east 29th street off hwy. 52 about 8: 30 p.m. The \" clown \" was described as wearing white overalls, white gloves, red shoes with red bushy hair, a white face and a red nose. The suspect allegedly tried to lure the kids with treats. The suspect was reportedly seen by two children and heard, but not seen, by one adult. The suspect fled the area when officers arrived. A second clown sighting happened just after midnight in the 1600 block of hope lane, two miles from",
@@ -1716,17 +1709,15 @@
             "0": 0,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 5
         }
     },
     {
         "idx": 36364,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "California couple patrick and barbara jiron are clearly having a very active retirement — and they're also keeping prosecutors in nebraska busy. The couple, who made headlines last month when they claimed 60 pounds of marijuana found in their car was for christmas presents, were arrested again tuesday on suspicion of carrying drug money, npr reports. Authorities say that after the jirons, who are 80 and 70 years old, respectively, were stopped on interstate 80 for tailgating and a deputy became suspicious, $ 18,000 was found stuffed into a duffel bag in their vehicle. A drug dog detected traces of marijuana on the money and in a garbage bag found in the vehicle, the lincoln journal star reports. When they were stopped in nebraska's york county on dec. 19, the jirons said they were bringing the marijuana, worth around $ 336,000, to vermont and didn't know it was illegal to transport pot through nebraska. Tuesday's arrest was in lancaster county, two counties west. The jirons were released after paying 10 % of $ 2,500 bond each and signing a form stating that they don't claim the $ 18,000 as their own, the york news-times reports. Their daughter, a vermont resident who was driving the vehicle, was not arrested. They have a court appearance relating to the december arrest next week. Their son, justin, is a deputy prosecutor in vermont, where authorities say he has no connection to the drug allegations and is \" extremely disappointed \" by their behavior, the burlington free press reports.",
         "split": "train",
-        "cleansed_document": [
-            "Close get email notifications on riley johnson daily! your notification has been saved. There was a problem saving your notification. Whenever riley johnson posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Sorry, this zipcode is not in our deliverable area for this subscription service. Re-enter zip code or sign up for digital access. Get digital access",
             "Close get email notifications on riley johnson daily! your notification has been saved. There was a problem saving your notification. Whenever riley johnson posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items."
@@ -1740,7 +1731,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1819,7 +1810,7 @@
         "vote_count": {
             "0": 2,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1904,13 +1895,12 @@
     },
     {
         "idx": 36371,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Hilary duff apologized \" from the bottom of her heart \" sunday for the halloween costumes she and new boyfriend jason walsh wore to a halloween party friday. The couple — in a photo that can be seen here — were dressed as a sexy pilgrim and a native american chief, with personal trainer walsh's costume including face paint and a headdress, e! online reports. Native american groups have long said that they consider it offensive for their culture to be used as a costume. People notes that friday was the first time walsh and duff have appeared in public as a couple. Critics say the getup was particularly offensive in light of the ongoing protests at the standing rock sioux reservation in north dakota, where the tribe says a pipeline project will disturb cultural sites, the huffington post reports. \" i am so sorry to people i offended with my costume, \" duff tweeted. \" it was not properly thought through. \" walsh also apologized sunday. \" i meant no disrespect. I only have admiration for the indigenous people of america, \" he said in an instagram post. \" in hindsight i would not have made that decision. \"",
         "split": "train",
         "cleansed_document": [
             "Hilary duff has managed to have a fairly drama-free life in the spotlight — until now. The former disney darling and younger star, 29, stepped out for her first public event with her new boyfriend, trainer jason walsh. And people were less than thrilled with their couple costume: he wore a headdress and face paint as a native american \"chief \"and she dressed as a sexy pilgrim. Many fans took to twitter to share their feelings about duff and her new beau's costume choice, especially in light of the ongoing dakota access pipeline protests. Protesters say the pipeline threatens the local water supply and destroys sacred native american sites, particularly those of the standing rock sioux tribe. Protests aside, native american costumes are generally considered a risky halloween choice as many people view it as an offensive appropriation of their culture. ( chris hemsworth even recently apologized for wearing a native american costume while attending a new year's eve party, saying he was \"stupidly unaware \" of the offense it would cause. ) surprised to see this was",
-            "Advertisement our faves just have to be problematic. Hilary duff has long been one of our favourite disney darlings, and one who ruffles zero feathers. But her costume pick for a halloween party friday night is making us cringe. Hilary duff and boyfriend jason walsh attend casamigos ' halloween party in a controversial couple's costume. ( photo: michael kovac/getty ) duff and her new boyfriend, personal trainer jason walsh, showed up to casamigos tequila's costume party dressed as a sexy pilgrim and native american \" chief. \" where to begin. For the last few years, halloween has sparked campaigns reminding dress-up enthusiasts that cultures are not costumes. And native americans and indigenous peoples are often among the most vocal. Leave the \" indian princess \" costume on the shelf and back away slowly. It's not accurate, cute or respectful. The actual historical relationship between pilgrims and native americans gives this couple's costume an added ick factor. To make matters worse, there are currently thousands protesting the construction of an oil",
-            "Add this tweet to your website by copying the code below. Tuilleadh eolais add this video to your website by copying the code below. Tuilleadh eolais níorbh fhéidir an freastalaí a theagmháil. An dtriailfidh tú arís é? cuirtear an bun-tweet san áireamh bíodh meáin mar chuid de trí ábhar twitter a leabú i do láithreán gréasáin nó aip, tá tú ag aontú le comhaontú an fhorbróra agus polasaí an fhorbróra. Réamhamharc"
+            "Advertisement our faves just have to be problematic. Hilary duff has long been one of our favourite disney darlings, and one who ruffles zero feathers. But her costume pick for a halloween party friday night is making us cringe. Hilary duff and boyfriend jason walsh attend casamigos ' halloween party in a controversial couple's costume. ( photo: michael kovac/getty ) duff and her new boyfriend, personal trainer jason walsh, showed up to casamigos tequila's costume party dressed as a sexy pilgrim and native american \" chief. \" where to begin. For the last few years, halloween has sparked campaigns reminding dress-up enthusiasts that cultures are not costumes. And native americans and indigenous peoples are often among the most vocal. Leave the \" indian princess \" costume on the shelf and back away slowly. It's not accurate, cute or respectful. The actual historical relationship between pilgrims and native americans gives this couple's costume an added ick factor. To make matters worse, there are currently thousands protesting the construction of an oil"
         ],
         "raw_document": [
             "Hilary duff has managed to have a fairly drama-free life in the spotlight — until now. The former disney darling and younger star, 29, stepped out for her first public event with her new boyfriend, trainer jason walsh. And people were less than thrilled with their couple costume: he wore a headdress and face paint as a native american \"chief \"and she dressed as a sexy pilgrim. Many fans took to twitter to share their feelings about duff and her new beau's costume choice, especially in light of the ongoing dakota access pipeline protests. Protesters say the pipeline threatens the local water supply and destroys sacred native american sites, particularly those of the standing rock sioux tribe. Protests aside, native american costumes are generally considered a risky halloween choice as many people view it as an offensive appropriation of their culture. ( chris hemsworth even recently apologized for wearing a native american costume while attending a new year's eve party, saying he was \"stupidly unaware \" of the offense it would cause. ) surprised to see this was",
@@ -1929,7 +1919,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1989,12 +1979,11 @@
     },
     {
         "idx": 36374,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The nhl's minnesota wild signed an emergency goalie today, which is news only because the guy is 51 years old and owns an embroidery store. As it turns out, jim deutsch won't have to suit up for an nhl game, but he came thisclose, reports the minneapolis star tribune. The team got in a pickle when it found out usual starter nik backstrom couldn't play in tonight's game. Backup josh harding got the nod, and the team called up a minor league goalie to back up harding. Problem: it wasn't a sure thing that the minor league goalie's plane would arrive in time. The team turned to deutsch, who plays beer-league hockey and is a buddy of former wild assistant coach mike ramsey, notes the pioneer press. ( he had occasionally filled in for injured goalies during team practices. ) he signed a nonpaying contract to be an amateur tryout — \" i actually was shaking while i was signing it, and it was pretty cool, \" he says — and soon after took the ice for pregame warmups. His daughter's youth team cheered him on as minnesota players fired away on him. After warmups, the minor league goalie's plane arrived, and deutsch's nhl career ended.",
         "split": "train",
         "cleansed_document": [
-            "By michael russo mrusso@startribune.com paul deutsch played hooky from beer-league game at bloomington ice gardens on wednesday night. The 51-year-old, who began tending goal at the tender age of 37, instead wore a wild jersey during warmups wednesday night prior to the wild's game against the nashville predators. After the wild got word that niklas backstrom, slated to be the starter, would have to miss the game for a non-serious personal matter, it recalled third goalie matt hackett from the houston aeros. But hackett's plane didn't arrive until just prior to gametime, so the wild signed deutsch, who owns a screen printing and embroidery story in richfield, to an amateur contract wednesday afternoon to fill in during warmups and potentially back up josh harding if hackett's plane was late. It wasn't. Backstrom should be back with the team in a few days, hackett back in houston. But deutsch still got to wear no. 33 during warmups with his daughter's eastview under-14 youth team cheering on from a suite. \"i actually was shaking while i was signing [ the contract ], \" said deutsch, who filled in \"minnesota roosevelt junior varsity defenseman -- 1978, \" as his previous team on the contract. Deutsch, a former roosevelt high school teammate of former wild assistant mike ramsey, used to fill in for injured wild goalies during practices on an emergency basis. \"every 10 minutes, we used to watch the shade of his face change, \" former wild center wes walz said. \"it would go from white to pink to bright red. When it got dark red, you knew you were close to the end of practice. \"the forwards that hadn't scored in quite some time, they all had to go down to paul's end to get their confidence up. \" goalie coach bob mason called deutsch at work at 3 p.m. The contract needed to be into the nhl offices by 4 p.m. He faxed it over, rushed to the arena and signed three more hard copies. He took over backstrom's locker-room stall and got to sit through coach mike yeo's pregame meetings. \"it's pretty intense, \" he said. Deutsch didn't take a physical and jokingly hoped that a poppy seed muffin he ate would pass the league's drug tests. He said the size of his pads were legal because they previously belonged for former wild goalie manny fernandez. His agent? tom westcott, a salesman at maplewood toyota, deutsch joked. His style? joked friend",
-            "Thank you for visiting twincities.com-pioneer press. We are sorry the article that you requested is no longer available."
+            "By michael russo mrusso@startribune.com paul deutsch played hooky from beer-league game at bloomington ice gardens on wednesday night. The 51-year-old, who began tending goal at the tender age of 37, instead wore a wild jersey during warmups wednesday night prior to the wild's game against the nashville predators. After the wild got word that niklas backstrom, slated to be the starter, would have to miss the game for a non-serious personal matter, it recalled third goalie matt hackett from the houston aeros. But hackett's plane didn't arrive until just prior to gametime, so the wild signed deutsch, who owns a screen printing and embroidery story in richfield, to an amateur contract wednesday afternoon to fill in during warmups and potentially back up josh harding if hackett's plane was late. It wasn't. Backstrom should be back with the team in a few days, hackett back in houston. But deutsch still got to wear no. 33 during warmups with his daughter's eastview under-14 youth team cheering on from a suite. \"i actually was shaking while i was signing [ the contract ], \" said deutsch, who filled in \"minnesota roosevelt junior varsity defenseman -- 1978, \" as his previous team on the contract. Deutsch, a former roosevelt high school teammate of former wild assistant mike ramsey, used to fill in for injured wild goalies during practices on an emergency basis. \"every 10 minutes, we used to watch the shade of his face change, \" former wild center wes walz said. \"it would go from white to pink to bright red. When it got dark red, you knew you were close to the end of practice. \"the forwards that hadn't scored in quite some time, they all had to go down to paul's end to get their confidence up. \" goalie coach bob mason called deutsch at work at 3 p.m. The contract needed to be into the nhl offices by 4 p.m. He faxed it over, rushed to the arena and signed three more hard copies. He took over backstrom's locker-room stall and got to sit through coach mike yeo's pregame meetings. \"it's pretty intense, \" he said. Deutsch didn't take a physical and jokingly hoped that a poppy seed muffin he ate would pass the league's drug tests. He said the size of his pads were legal because they previously belonged for former wild goalie manny fernandez. His agent? tom westcott, a salesman at maplewood toyota, deutsch joked. His style? joked friend"
         ],
         "raw_document": [
             "By michael russo mrusso@startribune.com paul deutsch played hooky from beer-league game at bloomington ice gardens on wednesday night. The 51-year-old, who began tending goal at the tender age of 37, instead wore a wild jersey during warmups wednesday night prior to the wild's game against the nashville predators. After the wild got word that niklas backstrom, slated to be the starter, would have to miss the game for a non-serious personal matter, it recalled third goalie matt hackett from the houston aeros. But hackett's plane didn't arrive until just prior to gametime, so the wild signed deutsch, who owns a screen printing and embroidery story in richfield, to an amateur contract wednesday afternoon to fill in during warmups and potentially back up josh harding if hackett's plane was late. It wasn't. Backstrom should be back with the team in a few days, hackett back in houston. But deutsch still got to wear no. 33 during warmups with his daughter's eastview under-14 youth team cheering on from a suite. \"i actually was shaking while i was signing [ the contract ], \" said deutsch, who filled in \"minnesota roosevelt junior varsity defenseman -- 1978, \" as his previous team on the contract. Deutsch, a former roosevelt high school teammate of former wild assistant mike ramsey, used to fill in for injured wild goalies during practices on an emergency basis. \"every 10 minutes, we used to watch the shade of his face change, \" former wild center wes walz said. \"it would go from white to pink to bright red. When it got dark red, you knew you were close to the end of practice. \"the forwards that hadn't scored in quite some time, they all had to go down to paul's end to get their confidence up. \" goalie coach bob mason called deutsch at work at 3 p.m. The contract needed to be into the nhl offices by 4 p.m. He faxed it over, rushed to the arena and signed three more hard copies. He took over backstrom's locker-room stall and got to sit through coach mike yeo's pregame meetings. \"it's pretty intense, \" he said. Deutsch didn't take a physical and jokingly hoped that a poppy seed muffin he ate would pass the league's drug tests. He said the size of his pads were legal because they previously belonged for former wild goalie manny fernandez. His agent? tom westcott, a salesman at maplewood toyota, deutsch joked. His style? joked friend",
@@ -2009,7 +1998,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2068,12 +2057,11 @@
     },
     {
         "idx": 36377,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Morley safer announced wednesday that he's retiring from 60 minutes at age 84 after nearly a half-century with the show. Cbs plans a tribute to the canadian-born journalist on may 15 after the regular broadcast, reports us weekly. In the meantime, a post at international business times calls attention to safer's reporting from vietnam in the 1960s as among the first in the us media to raise critical questions about the war. This news clip of his, for example, shows an american soldier setting fire to a home's thatched roof with a lighter, and the clip reportedly angered president lyndon johnson so much that he ordered an investigation into whether safer was a communist. \" when told by staffers that safer was ' just a canadian,'the president replied, ' well, i knew he wasn't american, ' \" ibt notes.",
         "split": "train",
         "cleansed_document": [
-            "Cbs newsman and 60 minutes correspondent morley safer is retiring after more than 50 years. The longest-serving 60 minutes correspondent will formally retire this week, cbs announced on wednesday, may 11, and the reporter, who began his career as a cbs regular in 1970, told us weekly via a statement that he's incredibly grateful for his amazing career. Roger kisby/getty images \"after more than 50 years of broadcasting on cbs news and 60 minutes i have decided to retire, \" the 84-year-old said. \" it's been a wonderful run, but the time has come to say goodbye to all of my friends at cbs and the dozens of people who kept me on the air, \" he added. \"but most of all i thank the millions of people who have been loyal to our broadcast. \" safer's unparalleled work will be celebrated in an hourlong special, morley safer: a reporter's life, which will air following the sunday, may 15, regular edition of 60 minutes. \"morley has had a brilliant career as a reporter and as one of the most significant figures in cbs news history, on our broadcast and in many of our lives, \" jeff fager, executive producer of 60 minutes, said. \"morley's curiosity, his sense of adventure and his superb writing all made for",
-            "Editor's note: morley safer died thursday at age 84, just days after retiring from cbs news, reuters reported. The international business times story below was initially published last week, after word of safer's retirement plans. Morley safer is disconnecting his microphone. The 84-year-old, longest-serving correspondent on \"60 minutes \" is retiring after more than a half-century of covering the world, cbs news announced wednesday. \"it's been a wonderful run, but the time has come to say goodbye to all of my friends at cbs and the dozens of people who kept me on the air, \" safer told cbs news. \"but most of all i thank the millions of people who have been loyal to our broadcast. \" \"morley has had a brilliant career as a reporter and as one of the most significant figures in cbs news history, on our broadcast and in many of our lives, \" jeff fager, executive producer of \"60 minutes, \" said in a statement. Unlike the current age of digital journalism that all too frequently requires online users to cobble together an understanding of news events through a stream of abbreviated quick hits and short video takes, safer's work was based in an era that focused on carefully dissecting events and providing readers with a complete picture of a story in carefully crafted segments. Safer"
+            "Cbs newsman and 60 minutes correspondent morley safer is retiring after more than 50 years. The longest-serving 60 minutes correspondent will formally retire this week, cbs announced on wednesday, may 11, and the reporter, who began his career as a cbs regular in 1970, told us weekly via a statement that he's incredibly grateful for his amazing career. Roger kisby/getty images \"after more than 50 years of broadcasting on cbs news and 60 minutes i have decided to retire, \" the 84-year-old said. \" it's been a wonderful run, but the time has come to say goodbye to all of my friends at cbs and the dozens of people who kept me on the air, \" he added. \"but most of all i thank the millions of people who have been loyal to our broadcast. \" safer's unparalleled work will be celebrated in an hourlong special, morley safer: a reporter's life, which will air following the sunday, may 15, regular edition of 60 minutes. \"morley has had a brilliant career as a reporter and as one of the most significant figures in cbs news history, on our broadcast and in many of our lives, \" jeff fager, executive producer of 60 minutes, said. \"morley's curiosity, his sense of adventure and his superb writing all made for"
         ],
         "raw_document": [
             "Cbs newsman and 60 minutes correspondent morley safer is retiring after more than 50 years. The longest-serving 60 minutes correspondent will formally retire this week, cbs announced on wednesday, may 11, and the reporter, who began his career as a cbs regular in 1970, told us weekly via a statement that he's incredibly grateful for his amazing career. Roger kisby/getty images \"after more than 50 years of broadcasting on cbs news and 60 minutes i have decided to retire, \" the 84-year-old said. \" it's been a wonderful run, but the time has come to say goodbye to all of my friends at cbs and the dozens of people who kept me on the air, \" he added. \"but most of all i thank the millions of people who have been loyal to our broadcast. \" safer's unparalleled work will be celebrated in an hourlong special, morley safer: a reporter's life, which will air following the sunday, may 15, regular edition of 60 minutes. \"morley has had a brilliant career as a reporter and as one of the most significant figures in cbs news history, on our broadcast and in many of our lives, \" jeff fager, executive producer of 60 minutes, said. \"morley's curiosity, his sense of adventure and his superb writing all made for",
@@ -2088,7 +2076,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2311,7 +2299,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2394,13 +2382,12 @@
     },
     {
         "idx": 36389,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "\" i knew when i got off the plane that i would never see my mother again, \" carrol amrich tells the pueblo chieftain. \" as soon as she took me off, i knew it. \" amrich got word her 80-year-old mother had been hospitalized jan. 16. The new york times reports amrich couldn't afford the plane ticket from colorado to minnesota to visit her mom, so her landlord, ines prelas, bought her a $ 585 ticket for united airlines through traveler helpdesk. When it became clear amrich's mother was dying, prelas called united and paid an additional $ 75 to get amrich on an earlier flight, according to the ap. And that's where the trouble came in. Amrich was on that earlier plane when a gate agent told her she had to get off. \" they told me... That no one flies for free, \" amrich tells the chieftain. Apparently traveler helpdesk got word that someone changed amrich's ticket and refunded it to protect her from fraud. A customer service supervisor says they're \" so sorry for ms. Amrich's loss \" but prelas should have gone through them to change the flight. The united gate agent wouldn't let prelas buy another ticket over the phone to get amrich back on the flight — the last of the day — so amrich started the 15-hour drive to minnesota. She was still driving when she got word her mother had died. \" i drove 1,000 miles, and she was gone before i got there, \" amrich tells the times. \" i went straight through. And she was gone. \" prelas says united, which had assured her it would be fine to change the ticket through them, offered to send flowers. \" what are the flowers going to do? \" prelas asks. \" you took away from her that she might have been able to see her mother alive. \"",
         "split": "train",
         "cleansed_document": [
             "In a hospital in minnesota, carrol amrich's mother was dying. In pueblo, colo., a thousand miles away, ms. Amrich was frantically trying to get there in time to say goodbye. Holding a united airlines ticket purchased for her by her landlord, she probably would have. But minutes before departure, already buckled into her seat, she was ordered to leave the plane. The gate agent told her that her reservation had been canceled. Traveler help desk, the online agency that sold the ticket, had rescinded it because the landlord made a change directly through united — even though united had assured the landlord that it was not a problem to do so. Unable to fly, ms. Amrich drove through the night, not stopping even to use the bathroom. Her sister, in the hospital room, held a phone to their mother's ear, and ms. Amrich begged her to hold on. She was still driving when her cellphone rang again. Her mother was dead.",
-            "Dallas — a pueblo woman who wanted to visit her dying mother one last time was removed from a plane and left in tears after an online travel agency canceled her ticket just before the flight. The travel agency blames it on a mix-up that started when the woman changed flights without telling them. The agency says it was trying to protect her from fraud. Carrol amrich said friday that united airlines offered no empathy or help for a clearly distraught traveler. After amrich learned that her mother, dixie hanson, was hospitalized in minnesota on jan, 16, her landlord went on traveler helpdesk and bought a $ 585 united ticket. Hanson's condition worsened, however — she was not expected to live through the night. The landlord, ines prelas, called united and paid $ 75 more so that amrich could fly standby on an earlier flight, and the two rushed to the airport in colorado springs. She would fly through denver to minneapolis. Amrich said everything seemed fine as she gave her",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Dallas — a pueblo woman who wanted to visit her dying mother one last time was removed from a plane and left in tears after an online travel agency canceled her ticket just before the flight. The travel agency blames it on a mix-up that started when the woman changed flights without telling them. The agency says it was trying to protect her from fraud. Carrol amrich said friday that united airlines offered no empathy or help for a clearly distraught traveler. After amrich learned that her mother, dixie hanson, was hospitalized in minnesota on jan, 16, her landlord went on traveler helpdesk and bought a $ 585 united ticket. Hanson's condition worsened, however — she was not expected to live through the night. The landlord, ines prelas, called united and paid $ 75 more so that amrich could fly standby on an earlier flight, and the two rushed to the airport in colorado springs. She would fly through denver to minneapolis. Amrich said everything seemed fine as she gave her"
         ],
         "raw_document": [
             "In a hospital in minnesota, carrol amrich's mother was dying. In pueblo, colo., a thousand miles away, ms. Amrich was frantically trying to get there in time to say goodbye. Holding a united airlines ticket purchased for her by her landlord, she probably would have. But minutes before departure, already buckled into her seat, she was ordered to leave the plane. The gate agent told her that her reservation had been canceled. Traveler help desk, the online agency that sold the ticket, had rescinded it because the landlord made a change directly through united — even though united had assured the landlord that it was not a problem to do so. Unable to fly, ms. Amrich drove through the night, not stopping even to use the bathroom. Her sister, in the hospital room, held a phone to their mother's ear, and ms. Amrich begged her to hold on. She was still driving when her cellphone rang again. Her mother was dead.",
@@ -2417,7 +2404,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2471,13 +2458,12 @@
     },
     {
         "idx": 36392,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It can be hard to lose weight without the proper motivation. It turns out a million dollars is proper motivation. Abc news reports professional poker player walter fisher made a $ 1 million bet with his friends to reach his goal weight — and won. After a four-week gambling hot streak collapsed in devastating fashion, the 36-year-old fisher found himself hundreds of thousands of dollars in debt and up to 50 pounds heavier. He tells the new york post he was \" broke, big, and isolated. \" he attributes the weight gain to \" amazing, wonderful, rich \" casino food — double veal parms, full pizzas, single-serving chocolate cakes. \" it was disastrous, \" fisher says. He was 245 pounds with 33 % body fat. His friends bet him $ 1 million he couldn't get down to 10 % body fat in six months. On june 22 — five and a half months later — fisher won the bet: he was 175 pounds with 8.8 % body fat. It wasn't easy to get there. Fisher traded casino food for oatmeal, egg whites, and tilapia. He hired a personal trainer and nutritionist. He worked out seven days a week for up to 10 hours per day, needing cryotherapy to help his body recover in between workouts. \" we don't recommend you try this excessive amount of training to drop weight this fast, \" men's fitness says of fisher's routine. That could be why fisher boasts that 99 % of people couldn't \" do what i did, even with the money as an incentive. \" and in the unlikely case he gains the weight back? fisher says he ' ll just make another bet. ( these are the 10 us cities with the worst diets. )",
         "split": "train",
         "cleansed_document": [
             "Time and time again, studies have found that money is the ultimate workout motivator. But paying yourself for dropping the last 10lbs or seeing newfound muscle gains isn't always enough. A more effective method: the opportunity to make money by hitting the gym — and the threat of losing it all if you fail. A new transformation story proves just that. In december 2016, professional poker player walter fisher found himself in difficult financial straits, the new york post reports. Fisher had been riding a high after turning $ 2,000 into $ 97,000 in blackjack — but he then fell hard, accruing $ 100,000 in debt and gaining close to 50lbs in just one month. The 38-year-old was 6 ' 1 \", 245lbs, and teetering around 33 % body fat when a gambling buddy presented him with a bet: he'd give fisher $ 100,000 if he could slash",
-            "A professional poker player shed seventy pounds after his buddies bet him $ 1 million that he could not drop down to just 10 percent body fat in six months. Walter fisher, 36, said that he blamed his recent weight gain on the fact that he mostly worked in a casino, telling abc news, \" they have all these amazing, wonderful, rich restaurants and i just started ordering by the truckload: veal parmesan, pastas. \" \" the weight piled on, \" he said. \" i was looking in the mirror and i didn't know who this person was. \" fisher said that eight months ago he tipped the scale at 245 pounds. Around the same time, he said a few big losses at the poker table left him more than half a million dollars in debt. Some of his gambling buddies then challenged him with a $ 1",
-            "Walter fisher was on a heater. Gambling lingo for a lucky streak, a \"heater \" is a run of unbridled fortune. From february until june 2016, the 36-year-old poker professional couldn't lose. \"i hit the zone and just felt it, \" he says. \"i ran two grand up to $ 97,000 at blackjack. I put up big numbers at poker. \" he accrued a six-figure windfall and the ride seemed endless — until it wasn't. \"i got overwhelmed and began playing over my head, \" fisher says. It took less than a month for fisher to lose it all — and gain between 40 and 50 pounds. He was more than $ 100,000 in debt, and as his bankroll contracted, his waistline expanded. \"i ordered double veal parms to the poker table; i ate full pizzas, \" says fisher, a forest hills native,"
+            "A professional poker player shed seventy pounds after his buddies bet him $ 1 million that he could not drop down to just 10 percent body fat in six months. Walter fisher, 36, said that he blamed his recent weight gain on the fact that he mostly worked in a casino, telling abc news, \" they have all these amazing, wonderful, rich restaurants and i just started ordering by the truckload: veal parmesan, pastas. \" \" the weight piled on, \" he said. \" i was looking in the mirror and i didn't know who this person was. \" fisher said that eight months ago he tipped the scale at 245 pounds. Around the same time, he said a few big losses at the poker table left him more than half a million dollars in debt. Some of his gambling buddies then challenged him with a $ 1"
         ],
         "raw_document": [
             "Time and time again, studies have found that money is the ultimate workout motivator. But paying yourself for dropping the last 10lbs or seeing newfound muscle gains isn't always enough. A more effective method: the opportunity to make money by hitting the gym — and the threat of losing it all if you fail. A new transformation story proves just that. In december 2016, professional poker player walter fisher found himself in difficult financial straits, the new york post reports. Fisher had been riding a high after turning $ 2,000 into $ 97,000 in blackjack — but he then fell hard, accruing $ 100,000 in debt and gaining close to 50lbs in just one month. The 38-year-old was 6 ' 1 \", 245lbs, and teetering around 33 % body fat when a gambling buddy presented him with a bet: he'd give fisher $ 100,000 if he could slash",
@@ -2494,7 +2480,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2553,13 +2539,12 @@
     },
     {
         "idx": 36395,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It may make you feel posh ( or practical ) to pull up to the pump and request premium unleaded for your tank, but chances are you're throwing away your hard-earned cash on an unnecessary type of gas. Per the american automobile association, us drivers blew about $ 2.1 billion on higher-octane fuel than their cars need, as most engines — about 70 % — are sated with regular unleaded fuel, cnnmoney reports. Aaa says despite this fact, about 16.5 million drivers admitted filling up at least once last year with the higher-grade gas, which costs, on average, about 50 cents more per gallon than regular. \" drivers see the ' premium ' name at the pump and may assume the fuel is better for their vehicle, \" an aaa engineering and repair expert notes. High-octane fuel's benefits, per edmunds.com: it's able to withstand more compression without combusting, making it critical in high-performance engines. But while cars on the \" premium required \" list need that higher-grade fuel to prevent engine damage — about 16 % of americans drive those types of cars, per cnn — edmunds notes cars on the \" premium recommended \" list are likely just fine with regular gas, thanks to advanced engine technology. The engine won't suffer, and the worst effect may be a slight speed reduction ( e.g., a half-second when going from zero to 60mph ). And while some drivers may still buy premium once in a while to flush out the tank, experts note all gas grades have an ample amount of additives for cutting down emissions and keeping engines in tiptop shape. What aaa says is a better bet, per marketwatch: taking your car for regular maintenance checkups and keeping away from low-quality gas, which is different than regular gas from a top-tier brand. ( the southeast is enduring a gas-price spike. )",
         "split": "train",
         "cleansed_document": [
             "Does it pay to pay for premium gasoline? travel and leisure company aaa says it does not — and that u.s. Drivers waste $ 2.1 billion in the past 12 months by paying for premium gas when the regular kind would do just was well. For years, energy companies have tuned their marketing to the belief that, either occasionally or frequently, springing for the pricier stuff at the pump will be a treat for your car — a cleanse of sorts, or perhaps a performance boost that saves money in the long run. For cars designed to run on regular gasoline, aaa could find no difference between premium and regular in terms of horsepower, fuel economy, or lower tailpipe emissions. \"motorists are not treating their vehicle in any meaningful way \" by using premium gas when the vehicle is designed to run on regular, aaa said in a research paper released tuesday. According",
-            "Americans wasted over $ 2 billion last year putting expensive premium gasoline into cars that don't need it, the automobile ownership group aaa said tuesday. Most car engines in america are designed to run on regular gasoline and, despite the superior-sounding name, premium gasoline provides no benefit over cheaper regular gasoline in those engines. Premium has a higher octane rating than regular gas. That means it's able to tolerate higher pressures inside the engine. Engines designed to run on regular don't operate at pressures high enough to require the extra octane, so putting premium fuel into an engine that doesn't require it is simply a waste of money, aaa said. \" drivers see the ' premium ' name at the pump and may assume the fuel is better for their vehicle, \" said john nielsen, aaa's managing director of automotive engineering and repair.",
-            "Smarter engines protect themselves if you're still in doubt about switching to a lower-octane fuel, here's a more in-depth explanation of why the change is unlikely to hurt your car: first of all, premium gas has a higher octane rating, an important factor in helping prevent engine knock or \" pinging. \" depending on where you live, this premium-grade fuel could be 90 octane, 91 octane, or even 94 octane. That's one reason premium costs more. To increase the octane rating and reduce knock, refineries use a more elaborate process that blends an expensive substance called alkylate into the fuel. What is engine knock? after vaporized fuel mixes with air and fills the combustion chamber, rising pistons compress it. The spark plug then fires, initiating the combustion process. But combustion doesn't happen instantaneously. It takes some time for the flame"
+            "Americans wasted over $ 2 billion last year putting expensive premium gasoline into cars that don't need it, the automobile ownership group aaa said tuesday. Most car engines in america are designed to run on regular gasoline and, despite the superior-sounding name, premium gasoline provides no benefit over cheaper regular gasoline in those engines. Premium has a higher octane rating than regular gas. That means it's able to tolerate higher pressures inside the engine. Engines designed to run on regular don't operate at pressures high enough to require the extra octane, so putting premium fuel into an engine that doesn't require it is simply a waste of money, aaa said. \" drivers see the ' premium ' name at the pump and may assume the fuel is better for their vehicle, \" said john nielsen, aaa's managing director of automotive engineering and repair."
         ],
         "raw_document": [
             "Does it pay to pay for premium gasoline? travel and leisure company aaa says it does not — and that u.s. Drivers waste $ 2.1 billion in the past 12 months by paying for premium gas when the regular kind would do just was well. For years, energy companies have tuned their marketing to the belief that, either occasionally or frequently, springing for the pricier stuff at the pump will be a treat for your car — a cleanse of sorts, or perhaps a performance boost that saves money in the long run. For cars designed to run on regular gasoline, aaa could find no difference between premium and regular in terms of horsepower, fuel economy, or lower tailpipe emissions. \"motorists are not treating their vehicle in any meaningful way \" by using premium gas when the vehicle is designed to run on regular, aaa said in a research paper released tuesday. According",
@@ -2576,7 +2561,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2626,7 +2611,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {

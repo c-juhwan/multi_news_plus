@@ -24,7 +24,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -85,12 +85,11 @@
     },
     {
         "idx": 32003,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Coast guard rescuers fear the worst but have not given up after finding a body in the search for a father and three teenage children who disappeared off the coast of florida sunday. The coast guard says it found the body, which was wearing a life jacket, after finding debris including other life jackets near where ace kimberly and children becky, 17, donny, 15, and roger, 13, were last seen on their 29-foot sailboat, cbs 47 reports. \" this is still an ongoing search and rescue, \" a coast guard spokesman says. \" we still have three persons out there that we're trying desperately to locate. \" the coast guard also recovered two kayaks that the family was believed to have been towing from sarasota to fort myers, where kimberly's brother had planned to make repairs to their boat, the palm beach post reports. Boaters on florida's gulf coast say they're shocked by the disappearance of the father and his three children, who apparently lived on the boat. \" this is another reminder that things can change in an instant on the ocean. It doesn't take much to make things deadly serious out there, \" says one local boater. The children, who had been estranged from their mother since their parents split up almost a decade ago, were not registered at any sarasota public school, wtsp reports.",
         "split": "train",
         "cleansed_document": [
-            "Updated: jun 24, 2016 - 9: 45 am st. Petersburg, fla. - a second body has been recovered as crews continue to search the gulf of mexico for a family missing off the coast of southwest florida, the u.s. Coast guard said. A coast guard news release said cape coral fire and rescue found the body thursday morning, about four miles from where the first body was found wednesday. Authorities have not released the identity of either. The coast guard has also found debris from the boat, and thursday received a report of a sailboat mast seen in the search area. The mast sighting was investigated but turned out to be crab and fishing equipment, not the missing sailboat, the coast guard said. Picture of kimberly family missing off florida coast near sanibel island. © 2016 cox media group. Crews have been searching for 45-year-old ace kimberly and his three children, roger kimberly, 13, donny kimberly, 15, and rebecca kimberly, 17, since the family left sarasota on sunday, heading to fort myers in a 29-foot sailboat. They were last heard from sunday evening when kimberly contacted his brother and said they were experiencing \" 6-foot waves and thunderstorms. \" crews of a rescue boat and helicopter reported seeing a flare rise from the ocean for about three seconds at about 2: 30 a.m. Thursday, u.s. Coast guard spokesman captain gregory case said. \" one of our response boats from station cortes and a helicopter saw what they believed to be a flare rise for three seconds within the search area, \" case said. \" at 8: 15 a.m. This morning, one of our response boats from fort myers recovered a bucket in the debris area that contained birth certificates, gps, wallet, cellphone, cigarettes, a pool noodle and a tool box, \" said case. The bucket was located about 5.5 miles from the area where searchers found a body the day before, he said. Debris was found floating about 33 miles off the coast of sanibel island wednesday before the coast guard found the first body in a life jacket floating in the area of the search. Case would not confirm the identity of the body found during the search, but family member sadie ditts told a national news outlet that it was her niece, rebecca kimberly. Dilts said in the telephone interview that rebecca kimberly's body was found about 44",
-            "Just one more thing... We have sent you a verification email. Please check your email and click on the link to activate your profile. If you do not receive the verification message within a few minutes of signing up, please check your spam or junk folder. Close"
+            "Updated: jun 24, 2016 - 9: 45 am st. Petersburg, fla. - a second body has been recovered as crews continue to search the gulf of mexico for a family missing off the coast of southwest florida, the u.s. Coast guard said. A coast guard news release said cape coral fire and rescue found the body thursday morning, about four miles from where the first body was found wednesday. Authorities have not released the identity of either. The coast guard has also found debris from the boat, and thursday received a report of a sailboat mast seen in the search area. The mast sighting was investigated but turned out to be crab and fishing equipment, not the missing sailboat, the coast guard said. Picture of kimberly family missing off florida coast near sanibel island. © 2016 cox media group. Crews have been searching for 45-year-old ace kimberly and his three children, roger kimberly, 13, donny kimberly, 15, and rebecca kimberly, 17, since the family left sarasota on sunday, heading to fort myers in a 29-foot sailboat. They were last heard from sunday evening when kimberly contacted his brother and said they were experiencing \" 6-foot waves and thunderstorms. \" crews of a rescue boat and helicopter reported seeing a flare rise from the ocean for about three seconds at about 2: 30 a.m. Thursday, u.s. Coast guard spokesman captain gregory case said. \" one of our response boats from station cortes and a helicopter saw what they believed to be a flare rise for three seconds within the search area, \" case said. \" at 8: 15 a.m. This morning, one of our response boats from fort myers recovered a bucket in the debris area that contained birth certificates, gps, wallet, cellphone, cigarettes, a pool noodle and a tool box, \" said case. The bucket was located about 5.5 miles from the area where searchers found a body the day before, he said. Debris was found floating about 33 miles off the coast of sanibel island wednesday before the coast guard found the first body in a life jacket floating in the area of the search. Case would not confirm the identity of the body found during the search, but family member sadie ditts told a national news outlet that it was her niece, rebecca kimberly. Dilts said in the telephone interview that rebecca kimberly's body was found about 44"
         ],
         "raw_document": [
             "Updated: jun 24, 2016 - 9: 45 am st. Petersburg, fla. - a second body has been recovered as crews continue to search the gulf of mexico for a family missing off the coast of southwest florida, the u.s. Coast guard said. A coast guard news release said cape coral fire and rescue found the body thursday morning, about four miles from where the first body was found wednesday. Authorities have not released the identity of either. The coast guard has also found debris from the boat, and thursday received a report of a sailboat mast seen in the search area. The mast sighting was investigated but turned out to be crab and fishing equipment, not the missing sailboat, the coast guard said. Picture of kimberly family missing off florida coast near sanibel island. © 2016 cox media group. Crews have been searching for 45-year-old ace kimberly and his three children, roger kimberly, 13, donny kimberly, 15, and rebecca kimberly, 17, since the family left sarasota on sunday, heading to fort myers in a 29-foot sailboat. They were last heard from sunday evening when kimberly contacted his brother and said they were experiencing \" 6-foot waves and thunderstorms. \" crews of a rescue boat and helicopter reported seeing a flare rise from the ocean for about three seconds at about 2: 30 a.m. Thursday, u.s. Coast guard spokesman captain gregory case said. \" one of our response boats from station cortes and a helicopter saw what they believed to be a flare rise for three seconds within the search area, \" case said. \" at 8: 15 a.m. This morning, one of our response boats from fort myers recovered a bucket in the debris area that contained birth certificates, gps, wallet, cellphone, cigarettes, a pool noodle and a tool box, \" said case. The bucket was located about 5.5 miles from the area where searchers found a body the day before, he said. Debris was found floating about 33 miles off the coast of sanibel island wednesday before the coast guard found the first body in a life jacket floating in the area of the search. Case would not confirm the identity of the body found during the search, but family member sadie ditts told a national news outlet that it was her niece, rebecca kimberly. Dilts said in the telephone interview that rebecca kimberly's body was found about 44",
@@ -105,7 +104,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -155,7 +154,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -377,13 +376,12 @@
     },
     {
         "idx": 32014,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Fentanyl suppliers on the so-called \" dark web \" are delisting the drug because it's just too dangerous — and tends to attract police attention, the guardian reports. If true, the move places fentanyl alongside explosives and certain firearms that are too risky for some purveyors to sell. \" there are marketplaces that will not accept listings for weapons and explosives — those are the ones that will not accept listings for fentanyl, \" says vince o ' brien, a drug-enforcement officer at the national crime agency in britain. \" clearly, law enforcement would prioritize the supply of weapons, explosives and fentanyl over, for example, class c drugs — and that might well be why they do this. \" a powerful pain-killer, fentanyl is so dangerous that even a sugar packet of it can kill 500 people, the la times reports. The opioid's rising popularity has caused roughly 160 deaths in the uk and many more in america, where nearly 29,000 people died in 2017 from synthetic-opioid-linked overdoses. Police say labs in china are producing fentanyl, which is often processed by mexican cartels and sold domestically as pills or mixed into heroin and other substances. Some users procure it directly online, where sellers may be getting nervous. Even drug users \" on the dark web say on forums that they don't think it's right that people are selling fentanyl because it is dangerous and kills a lot of people, \" says o ' brien. ( a young man gave a teen fentanyl and raped her dead body. )",
         "split": "train",
         "cleansed_document": [
             "Last october, the justice department unveiled the first-ever indictment against chinese manufacturers of opioids, accusing two groups with operating illicit labs that sold fentanyl and other drugs to u.s. Dealers. The rings were vast — one involved at least 100 distributors — and authorities were able to trace at least four deaths to fentanyl and related chemicals sold by one of the groups, court records show.",
-            "Major dark web drug suppliers have started to voluntarily ban the synthetic opioid fentanyl because it is too dangerous, the national crime agency has said. They are \"delisting \" the high-strength painkiller, effectively classifying it alongside mass-casualty firearms and explosives as commodities that are considered too high-risk to trade. Fentanyl can be up to 100 times stronger than heroin and can easily cause accidental overdoses, particularly when mixed with heroin. Vince o ' brien, one of the nca's leads on drugs, told the observer that dark web marketplace operators appeared to have made a commercial decision, because selling a drug that could lead to fatalities was more likely to prompt attention from police. It is the first known instance of these types of operators moving to effectively ban a drug. O ' brien said: \"if they've got people selling very high-risk commodities then it's going to increase the risk to them. There are marketplaces that will not accept listings for weapons and explosives – those are the ones that will not accept listings for fentanyl. Clearly, law enforcement would prioritise the supply of weapons, explosives and fentanyl over, for example,",
-            "12 month-ending provisional number of drug overdose deaths note: visualization is optimized for a viewing screen of 950 pixels or wider ( i.e., pc and tablets in landscape orientation ). 12 month-ending provisional counts of drug overdose deaths - the following data tables describe the currently displayed dashboard click the titlebars to expand / collapse data tables technical notes nature and sources of data provisional drug overdose death counts are based on death records received and processed by the national center for health statistics ( nchs ) as of a specified cutoff date. The cutoff date is generally the first sunday of each month. National provisional estimates include deaths occurring within the 50 states and the district of columbia. Nchs receives the death records from state vital registration offices through the vital statistics cooperative program ( vscp ). The timeliness of provisional mortality surveillance data in the national vital statistics system ( nvss ) database varies by cause of death. The lag time ( i.e., the time between when the death occurred and when the data are available for analysis ) is longer for drug overdose deaths compared with other causes of death ( 1 ). Thus, provisional estimates of drug overdose deaths"
+            "Major dark web drug suppliers have started to voluntarily ban the synthetic opioid fentanyl because it is too dangerous, the national crime agency has said. They are \"delisting \" the high-strength painkiller, effectively classifying it alongside mass-casualty firearms and explosives as commodities that are considered too high-risk to trade. Fentanyl can be up to 100 times stronger than heroin and can easily cause accidental overdoses, particularly when mixed with heroin. Vince o ' brien, one of the nca's leads on drugs, told the observer that dark web marketplace operators appeared to have made a commercial decision, because selling a drug that could lead to fatalities was more likely to prompt attention from police. It is the first known instance of these types of operators moving to effectively ban a drug. O ' brien said: \"if they've got people selling very high-risk commodities then it's going to increase the risk to them. There are marketplaces that will not accept listings for weapons and explosives – those are the ones that will not accept listings for fentanyl. Clearly, law enforcement would prioritise the supply of weapons, explosives and fentanyl over, for example,"
         ],
         "raw_document": [
             "Last october, the justice department unveiled the first-ever indictment against chinese manufacturers of opioids, accusing two groups with operating illicit labs that sold fentanyl and other drugs to u.s. Dealers. The rings were vast — one involved at least 100 distributors — and authorities were able to trace at least four deaths to fentanyl and related chemicals sold by one of the groups, court records show.",
@@ -400,7 +398,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -425,7 +423,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -450,17 +448,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 32017,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Scandinavian countries apparently know how to steer clear of corruption. Anti-corruption body transparency international is out with its annual list of the least corrupt countries in the world, based on expert opinions, and denmark, norway, and sweden all find a spot in the top 10. Denmark tops the list with a score of 91 out of 100, where 100 means a squeaky-clean reputation, per cnbc. The us improved its score slightly to 76 to sit at 16th, reports the week, while brazil saw the biggest decline, falling seven spots to 76th with a score of 38. The top 10 look pretty good in comparison. Denmark: 91 finland: 90 sweden: 89 new zealand: 88 netherlands: 87 norway: 87 switzerland: 86 singapore: 85 canada: 83 germany: 81 click for the full list.",
         "split": "train",
         "cleansed_document": [
-            "The united states is tied with austria for the 16th least corrupt nation worldwide, according to a new annual report from transparency international. The top ten list is dominated by scandinavian countries — denmark, finland, and sweden take first, second, and third, respectively — and new zealand, singapore, and canada are the only non-european nations included there. ( transparency international ) the united states'score of 76 percent for 2015 marks a small improvement over the previous three years, when it earned 74 or 73 percent. At the bottom of the list, \" five of the 10 most corrupt countries also rank among the 10 least peaceful places in the world, \" the report notes, including somalia and afghanistan, both theaters of the war on terror. Bonnie kristian",
-            "This nine-year-old girl is one of them. She lives in dhaka, bangladesh – one of 114 countries that scores below 50 out of 100 in our 2015 corruption perceptions index, indicating serious levels of public sector corruption. Instead of going to school, she spends her days sorting bottles at a recycling factory. Officially child labour is illegal in bangladesh. Unofficially a bribe paid to the right official can mean exceptions are made. Like all exploitation, child labour remains a sad reality in environments where citizens are trapped in poverty and corrupt officials can be paid off. It's just one example of the devastation fuelled by corruption. Others include human trafficking, child mortality, poor education standards, environmental destruction and terrorism. Put simply – public sector corruption is about so much more than missing money. It's about people's lives, and it's a global problem."
+            "The united states is tied with austria for the 16th least corrupt nation worldwide, according to a new annual report from transparency international. The top ten list is dominated by scandinavian countries — denmark, finland, and sweden take first, second, and third, respectively — and new zealand, singapore, and canada are the only non-european nations included there. ( transparency international ) the united states'score of 76 percent for 2015 marks a small improvement over the previous three years, when it earned 74 or 73 percent. At the bottom of the list, \" five of the 10 most corrupt countries also rank among the 10 least peaceful places in the world, \" the report notes, including somalia and afghanistan, both theaters of the war on terror. Bonnie kristian"
         ],
         "raw_document": [
             "The united states is tied with austria for the 16th least corrupt nation worldwide, according to a new annual report from transparency international. The top ten list is dominated by scandinavian countries — denmark, finland, and sweden take first, second, and third, respectively — and new zealand, singapore, and canada are the only non-european nations included there. ( transparency international ) the united states'score of 76 percent for 2015 marks a small improvement over the previous three years, when it earned 74 or 73 percent. At the bottom of the list, \" five of the 10 most corrupt countries also rank among the 10 least peaceful places in the world, \" the report notes, including somalia and afghanistan, both theaters of the war on terror. Bonnie kristian",
@@ -475,17 +472,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 32018,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Well, we're sure no one will take this the wrong way. Last night donald rumsfeld savaged the obama administration's handling of afghan president hamid karzai, who yesterday came out in support of russia's crimea invasion. \" our relationship with karzai and with afghanistan was absolutely first rate in the bush administration, \" rumsfeld told greta van susteren at fox news. \" it has gone downhill like a toboggan ever since the obama administration came in. \" then he dropped the money quote that's drawn lots of attention: \" we have status of forces agreement, probably with 100, 125 countries in the world. This administration, the white house and the state department have failed to get a status of forces agreement. A trained ape can get a status of forces agreement! it does not take a genius. \"",
         "split": "train",
         "cleansed_document": [
-            "Watch the latest video at video.foxnews.com former secretary of defense donald rumsfeld said a \" trained ape \" could get a status of forces agreement with afghanistan, which the obama administration has yet to do. Rumsfeld on monday night asserted the obama administration has engaged in \" terrible \" diplomacy and damaged its relationship with afghanistan president hamid karzai. Advertisement \"this administration, the white house, and the state department have failed to get a status of forces agreement, \" he said on fox news. \"a trained ape could get a status of forces agreement. It does not take a genius. \" he noted the united states has similar types of agreements with nearly 100 other countries. The agreement would allow a small number of u.s. Forces to remain in the country after the withdrawal of troops later this year. But after a number of failed attempts to get an agreement, president obama told karzai in a phone call last month the u.s. Would begin planning for full troop withdrawal. In a recent interview, karzai said it would be good for the u.s. To negotiate and sign the agreement with his successor after he leaves office later this year. Rumsfeld said the u.s.'s relationship with karzai has gone \" downhill like a toboggan \" during the obama administration. He asserted the relationship during the bush administration was \" absolutely first rate. \" earlier",
-            "Watch the latest video at foxnews.com this is a rush transcript from \" on the record, \" march 24, 2014. This copy may not be in its final form and may be updated. Greta van susteren, fox news host: afghan president hamid karzai snubbing president obama again and doing it very publicly. Afghanistan announcing it is siding with russia supporting its annexation of crimea. So, why is karzai breaking with the west and how could it impact the united states? former secretary of state - - former secretary of defense donald rumsfeld joins us. Good evening, sir. Donald rumsfeld, former secretary of defense: good evening. Van susteren: what can that statement by president karzai, that he recognizes that the annexation of crimea, what do you make of him doing that? rumsfeld: well, i think it's important, particularly for the young men and women who served in afghanistan to appreciate the fact that karzai originally was selected to become president by the loya jirga, the conference, because he didn't have a militia. He was weaker than most of the tribal leaders. And he, therefore -- the country was not really used to a strong central government. And what happened is the united states government and i realize these are tough jobs being president or secretary of state. But"
+            "Watch the latest video at video.foxnews.com former secretary of defense donald rumsfeld said a \" trained ape \" could get a status of forces agreement with afghanistan, which the obama administration has yet to do. Rumsfeld on monday night asserted the obama administration has engaged in \" terrible \" diplomacy and damaged its relationship with afghanistan president hamid karzai. Advertisement \"this administration, the white house, and the state department have failed to get a status of forces agreement, \" he said on fox news. \"a trained ape could get a status of forces agreement. It does not take a genius. \" he noted the united states has similar types of agreements with nearly 100 other countries. The agreement would allow a small number of u.s. Forces to remain in the country after the withdrawal of troops later this year. But after a number of failed attempts to get an agreement, president obama told karzai in a phone call last month the u.s. Would begin planning for full troop withdrawal. In a recent interview, karzai said it would be good for the u.s. To negotiate and sign the agreement with his successor after he leaves office later this year. Rumsfeld said the u.s.'s relationship with karzai has gone \" downhill like a toboggan \" during the obama administration. He asserted the relationship during the bush administration was \" absolutely first rate. \" earlier"
         ],
         "raw_document": [
             "Watch the latest video at video.foxnews.com former secretary of defense donald rumsfeld said a \" trained ape \" could get a status of forces agreement with afghanistan, which the obama administration has yet to do. Rumsfeld on monday night asserted the obama administration has engaged in \" terrible \" diplomacy and damaged its relationship with afghanistan president hamid karzai. Advertisement \"this administration, the white house, and the state department have failed to get a status of forces agreement, \" he said on fox news. \"a trained ape could get a status of forces agreement. It does not take a genius. \" he noted the united states has similar types of agreements with nearly 100 other countries. The agreement would allow a small number of u.s. Forces to remain in the country after the withdrawal of troops later this year. But after a number of failed attempts to get an agreement, president obama told karzai in a phone call last month the u.s. Would begin planning for full troop withdrawal. In a recent interview, karzai said it would be good for the u.s. To negotiate and sign the agreement with his successor after he leaves office later this year. Rumsfeld said the u.s.'s relationship with karzai has gone \" downhill like a toboggan \" during the obama administration. He asserted the relationship during the bush administration was \" absolutely first rate. \" earlier",
@@ -500,7 +496,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -541,13 +537,12 @@
     },
     {
         "idx": 32020,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The trump-putin summit is indeed happening, and now it has a date: the two leaders will meet july 16 in helsinki, finland. The white house and kremlin announced the date simultaneously, which the guardian sees as part of a \" carefully choreographed rollout \" from both sides. This summit will likely be about \" optics \" as much as anything tangible that might emerge on arms control or other security issues, writes andrew roth. For putin, it's about showing that russia is part of the world community, and for trump, it's about defying critics who think the white house is too warm to the kremlin. On thursday morning, trump continued to belittle the investigation into possible collusion between his campaign and russia, notes the ap. \" russia continues to say they had nothing to do with meddling in our election! \" trump tweeted. \" where is the dnc server, and why didn't shady james comey and the now disgraced fbi agents take and closely examine it? why isn't hillary/russia being looked at? so many questions, so much corruption! \" trump and putin have met face-to-face twice informally at previous world gatherings, but this will be their first formal summit.",
         "split": "train",
         "cleansed_document": [
             "Russian president vladimir putin, left, and u.s. National security adviser john bolton greet each other as russian foreign minister sergey lavrov, center, looks at them during the meeting in the kremlin... ( associated press ) russian president vladimir putin, left, and u.s. National security adviser john bolton greet each other as russian foreign minister sergey lavrov, center, looks at them during the meeting in the kremlin in moscow, russia, wednesday, june 27, 2018. Bolton is meeting putin for talks intended to set the... ( associated press ) moscow ( ap ) — the latest on the meeting between u.s. President donald trump and russian president vladimir putin ( all times local ): 3: 15 p.m. President donald trump is repeating his denials of any russian election interference as details are released on his upcoming summit with russian president vladimir putin. The white house and the kremlin announced thursday that the two leaders would meet in helsinki on july 16. Ahead of the announcement, trump tweeted, \" russia continues to say they had nothing to do with meddling in our election! \" trump has continually parroted the kremlin's denial of interference in the 2016 elections. That move has put him out of step with the findings",
-            "Kremlin and white house announce details of helsinki summit after trump repeats moscow's claim that it did not meddle in us election donald trump and vladimir putin will hold their first official summit in helsinki on 16 july, the kremlin and the white house have announced, scheduling an encounter that is certain to generate fresh controversy for the white house. The optics of the meeting are likely to be as important to the leaders as its results. Moscow is keen to show it is not isolated on the world stage, while trump has ignored criticism at home to plot a course towards closer relations with putin. \"i've said it from day one, getting along with russia and with china and with everybody is a very good thing, \" trump said, adding that syria, ukraine and \"many other subjects \" would be discussed at the summit. \"it's good for the world, it's good for us, it's good for everybody. \" trump trashed nato at g7, calling it 'as bad as nafta ', officials confirm read more however, us allies are concerned that a show of warmth with putin in helsinki, especially if it follows a combative nato summit in brussels five days",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Kremlin and white house announce details of helsinki summit after trump repeats moscow's claim that it did not meddle in us election donald trump and vladimir putin will hold their first official summit in helsinki on 16 july, the kremlin and the white house have announced, scheduling an encounter that is certain to generate fresh controversy for the white house. The optics of the meeting are likely to be as important to the leaders as its results. Moscow is keen to show it is not isolated on the world stage, while trump has ignored criticism at home to plot a course towards closer relations with putin. \"i've said it from day one, getting along with russia and with china and with everybody is a very good thing, \" trump said, adding that syria, ukraine and \"many other subjects \" would be discussed at the summit. \"it's good for the world, it's good for us, it's good for everybody. \" trump trashed nato at g7, calling it 'as bad as nafta ', officials confirm read more however, us allies are concerned that a show of warmth with putin in helsinki, especially if it follows a combative nato summit in brussels five days"
         ],
         "raw_document": [
             "Russian president vladimir putin, left, and u.s. National security adviser john bolton greet each other as russian foreign minister sergey lavrov, center, looks at them during the meeting in the kremlin... ( associated press ) russian president vladimir putin, left, and u.s. National security adviser john bolton greet each other as russian foreign minister sergey lavrov, center, looks at them during the meeting in the kremlin in moscow, russia, wednesday, june 27, 2018. Bolton is meeting putin for talks intended to set the... ( associated press ) moscow ( ap ) — the latest on the meeting between u.s. President donald trump and russian president vladimir putin ( all times local ): 3: 15 p.m. President donald trump is repeating his denials of any russian election interference as details are released on his upcoming summit with russian president vladimir putin. The white house and the kremlin announced thursday that the two leaders would meet in helsinki on july 16. Ahead of the announcement, trump tweeted, \" russia continues to say they had nothing to do with meddling in our election! \" trump has continually parroted the kremlin's denial of interference in the 2016 elections. That move has put him out of step with the findings",
@@ -564,7 +559,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -729,7 +724,7 @@
         "vote_count": {
             "0": 0,
             "1": 3,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -754,7 +749,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -812,7 +807,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -918,12 +913,11 @@
     },
     {
         "idx": 32034,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Michele bachmann still thinks minimum wage needs a review — and she says john quincy adams was a founding father. Noting that politifact says she's gotten more \"facts \" wrong than any other gop hopeful, george stephanopoulos asked her if she wanted to \"clear up \" some past comments, like her suggestion that the founding fathers \"worked tirelessly \" to abolish slavery. \"if you look at one of our founding fathers, john quincy adams, that's absolutely true, \" bachmann said on good morning america. When stephanopoulos noted that adams wasn't a founding father, bachmann said he \"most certainly was a part of the revolutionary war era. \" the interviewer then asked about her 2005 comment that ending minimum wage would fix unemployment. \"i think we need to look at all regulations, \" bachmann said, \"whatever ones are inhibiting job growth. \" asked if that included minimum wage, bachman replied, \"all regulations, george. \" check out the full transcript.",
         "split": "train",
         "cleansed_document": [
-            "On the heels of her official entry into the presidential campaign in iowa yesterday, congresswoman michele bachmann came to \"gma \" today. I gave her the opportunity to clear up some of her past statements that caused chris wallace to ask if she is a \"flake \" and the pulitzer-prize winning website politifact to find that bachmann has made more false statements than any of the other gop contenders. Top of my list – bachmann's contention earlier this year that the founding fathers \"worked tirelessly \" to end slavery. And her 2005 argument that eliminating the minimum wage could \"virtually eliminate \" unemployment. Here's the transcript: stephanopoulos: sarah palin in iowa, president obama in iowa, one step ahead of them - congresswoman michele bachmann. She made it official in iowa yesterday. This morning she is in new hampshire. Thanks for joining us congresswoman. Bachmann: thank you george, it is great to be with you this morning. Stephanopoulos: in your announcement you said ' my voice is part of a movement to take back our country. ' from whom? bachmann: well, from the people all across the nation. The voice that i learned growing up in iowa was a very reasonable common sense voice and that is one that i've learned, that i've taken to – very successfully to the",
-            "Michele bachmann, the house member from minnesota and a tea party favorite, is winning positive reviews for her performance at monday night's debate among republican candidates for president. We've been fact-checking bachmann since 2009. We've rated 23 statements on the truth-o-meter. Here's how the tally breaks down: true 1 mostly true 0 half true 2 barely true 4 false 9 pants on fire 7 bachmann earned her first true for a statement she made monday night about president barack obama's position on the debt ceiling. She said that when obama was a u.s. Senator, he \" refused to raise the debt ceiling because he said president bush had failed in leadership. \" obama's voting record and remarks in the congressional record showed that to be the case. Here's a summary of some of bachmann's other statements that we've rated on the truth-o-meter. ( browse all the statements we've rated. ) on the health care law and jobs bachmann vehemently opposes the health care law passed by obama and the democrats in 2010. \" the cbo, the congressional budget office has said that obamacare will kill 800,000 jobs, \" she said at the debate. We found that's a major distortion of what the cbo said. Most of the reduction in the labor force would"
+            "On the heels of her official entry into the presidential campaign in iowa yesterday, congresswoman michele bachmann came to \"gma \" today. I gave her the opportunity to clear up some of her past statements that caused chris wallace to ask if she is a \"flake \" and the pulitzer-prize winning website politifact to find that bachmann has made more false statements than any of the other gop contenders. Top of my list – bachmann's contention earlier this year that the founding fathers \"worked tirelessly \" to end slavery. And her 2005 argument that eliminating the minimum wage could \"virtually eliminate \" unemployment. Here's the transcript: stephanopoulos: sarah palin in iowa, president obama in iowa, one step ahead of them - congresswoman michele bachmann. She made it official in iowa yesterday. This morning she is in new hampshire. Thanks for joining us congresswoman. Bachmann: thank you george, it is great to be with you this morning. Stephanopoulos: in your announcement you said ' my voice is part of a movement to take back our country. ' from whom? bachmann: well, from the people all across the nation. The voice that i learned growing up in iowa was a very reasonable common sense voice and that is one that i've learned, that i've taken to – very successfully to the"
         ],
         "raw_document": [
             "On the heels of her official entry into the presidential campaign in iowa yesterday, congresswoman michele bachmann came to \"gma \" today. I gave her the opportunity to clear up some of her past statements that caused chris wallace to ask if she is a \"flake \" and the pulitzer-prize winning website politifact to find that bachmann has made more false statements than any of the other gop contenders. Top of my list – bachmann's contention earlier this year that the founding fathers \"worked tirelessly \" to end slavery. And her 2005 argument that eliminating the minimum wage could \"virtually eliminate \" unemployment. Here's the transcript: stephanopoulos: sarah palin in iowa, president obama in iowa, one step ahead of them - congresswoman michele bachmann. She made it official in iowa yesterday. This morning she is in new hampshire. Thanks for joining us congresswoman. Bachmann: thank you george, it is great to be with you this morning. Stephanopoulos: in your announcement you said ' my voice is part of a movement to take back our country. ' from whom? bachmann: well, from the people all across the nation. The voice that i learned growing up in iowa was a very reasonable common sense voice and that is one that i've learned, that i've taken to – very successfully to the",
@@ -938,7 +932,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -963,7 +957,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1102,7 +1096,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1295,7 +1289,7 @@
             "1": 0,
             "2": 4,
             "3": 2,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1325,12 +1319,11 @@
     },
     {
         "idx": 32049,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's been almost 20 years since bill watterson stopped drawing calvin and hobbes, and we've hardly heard from him since. But this week, another comic, pearls before swine, took on a new style — and fans speculated that something unusual might be going on. They were right: much of the strip over the past few days has been drawn by watterson himself, the washington post reports. Pearls writer stephan pastis tells the story on his blog: he didn't expect a reply from the reclusive watterson when he sent his hero a recent email. But not only did watterson reply, he suggested a storyline involving a character within pearls taking over the strip. The work of this character — in the end, a second-grader named libby — would really be drawn by watterson himself. The resulting strips, viewable here, will be auctioned off to benefit parkinson's research. \" i think we both got some surprises, \" watterson tells the post. \" i didn't know what ( pastis ) was going to write, and he didn't know how i was going to draw it. \" watterson's work made another rare appearance a few months ago.",
         "split": "train",
         "cleansed_document": [
-            "Courtesy of stephan pastis / distributed by universal uclick writer's note: on monday night, after he and i did a public q&a for nearly 500 people at the washington post building, stephan pastis — acclaimed author of \"pearls before swine \" and bestselling author of the \"timmy failure \" books — made a few self-deprecating jokes about his own drawing ability. Because pastis and \"calvin and hobbes \" creator bill watterson have confirmed this exclusive report ( below ), i can now say: pastis has just executed a gift at \"drawing \" that few cartoonists can top: 1. Amazingly, he drew the long-retired, once-reclusive watterson … out of retirement — and got him to create fresh art for this week's \"pearls \"; and 2. Pastis managed to draw out his watterson-week storyline brilliantly, layering humor upon meta-humor in a hilarious house-of-mirrors reflection on the comic-strip industry past and present. Has anyone in recent memory drawn such feats as that? it is special to have watterson back into the comic-page spotlight, even if only for a few wonderful days. – m.c. At the end of 1995, the beloved \"calvin and hobbes \" sledded off the comics page for the final time, and its long-reclusive legendary creator, bill watterson, retired from the business, never to draw another syndicated newspaper strip. Until now. This week,",
-            "Bill watterson is the bigfoot of cartooning. He is legendary. He is reclusive. And like bigfoot, there is really only one photo of him in existence. Few in the cartooning world have ever spoken to him. Even fewer have ever met him. In fact, legend has it that when steven spielberg called to see if he wanted to make a movie, bill wouldn't even take the call. So it was with little hope of success that i set out to try and meet him last april. I was traveling through cleveland on a book tour, and i knew that he lived somewhere in the area. I also knew that he was working with washington post cartoonist nick galifianakis on a book about cul de sac cartoonist richard thompson's art. So i took a shot and wrote to nick. And nick in turn wrote to watterson. And the meeting didn't happen. Bill apparently had something to do. Or more likely, wanted nothing to do with me. Which is smart. But nick encouraged me to send an email to bill anyways. I said i didn't want to bother him. But a week or so later, this pearls strip ran in the newspaper: and i figured this was as good of a time to write to him as any."
+            "Courtesy of stephan pastis / distributed by universal uclick writer's note: on monday night, after he and i did a public q&a for nearly 500 people at the washington post building, stephan pastis — acclaimed author of \"pearls before swine \" and bestselling author of the \"timmy failure \" books — made a few self-deprecating jokes about his own drawing ability. Because pastis and \"calvin and hobbes \" creator bill watterson have confirmed this exclusive report ( below ), i can now say: pastis has just executed a gift at \"drawing \" that few cartoonists can top: 1. Amazingly, he drew the long-retired, once-reclusive watterson … out of retirement — and got him to create fresh art for this week's \"pearls \"; and 2. Pastis managed to draw out his watterson-week storyline brilliantly, layering humor upon meta-humor in a hilarious house-of-mirrors reflection on the comic-strip industry past and present. Has anyone in recent memory drawn such feats as that? it is special to have watterson back into the comic-page spotlight, even if only for a few wonderful days. – m.c. At the end of 1995, the beloved \"calvin and hobbes \" sledded off the comics page for the final time, and its long-reclusive legendary creator, bill watterson, retired from the business, never to draw another syndicated newspaper strip. Until now. This week,"
         ],
         "raw_document": [
             "Courtesy of stephan pastis / distributed by universal uclick writer's note: on monday night, after he and i did a public q&a for nearly 500 people at the washington post building, stephan pastis — acclaimed author of \"pearls before swine \" and bestselling author of the \"timmy failure \" books — made a few self-deprecating jokes about his own drawing ability. Because pastis and \"calvin and hobbes \" creator bill watterson have confirmed this exclusive report ( below ), i can now say: pastis has just executed a gift at \"drawing \" that few cartoonists can top: 1. Amazingly, he drew the long-retired, once-reclusive watterson … out of retirement — and got him to create fresh art for this week's \"pearls \"; and 2. Pastis managed to draw out his watterson-week storyline brilliantly, layering humor upon meta-humor in a hilarious house-of-mirrors reflection on the comic-strip industry past and present. Has anyone in recent memory drawn such feats as that? it is special to have watterson back into the comic-page spotlight, even if only for a few wonderful days. – m.c. At the end of 1995, the beloved \"calvin and hobbes \" sledded off the comics page for the final time, and its long-reclusive legendary creator, bill watterson, retired from the business, never to draw another syndicated newspaper strip. Until now. This week,",
@@ -1345,7 +1338,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1395,7 +1388,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1525,18 +1518,17 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 32057,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Jennifer lawrence returned fire saturday in a debate about women's pay in hollywood and the country in general, usa today reports. Speaking at a presser for the hunger games: mockingjay — part 2, jennifer lawrence addressed a website's response to her essay about being paid less than her male co-stars on american hustle: \" even after i wrote it, i don't remember the website, but they called it ' jennifer lawrence's bratty display, ' \" she says. \" and i was like,'thank you for completely making my point. ' if a woman speaks up, is assertive and has a voice, she's going to be called ' a brat. ' i don't see a man being called ' a brat. ' \" nina jacobson, co-producer of the hunger games sequel, had her back: \" what jen spoke to, i found really powerful, \" she says. \" you don't want or feel entitled to be a spokesperson as a woman. \" the criticism came from redstate.com, where kimberly ross wrote: \" not only is jennifer lawrence's complaint a bratty display from a wealthy youngster, but it highlights that claims of pay inequality are oftentimes not the complete story, and hollywood is the least appropriate voice on the subject. \" calling lawrence \" a privileged 1-percenter, \" ross argued that the equal pay act of 1963 already makes it illegal \" to pay a woman less than a man solely based on gender \" — so when women get paid less it's often because their work experience is limited by family duties. She adds that lawrence \" is most definitely in fewer scenes than the male actors \" in american hustle. But in her essay, lawrence says women just need to negotiate more aggressively: \" i ' m over trying to find the ' adorable ' way to state my opinion and still be likable! \" she writes. \" f --- that. \"",
         "split": "train",
         "cleansed_document": [
             "When i think of hollywood, i think of those who are as far-removed from reality as possible, with little connection to the lives of us in middle america. The product of their careers is entertainment, and while they sometimes like to play the part of \"activist \", such roles are an ill fit. Such is the case with jennifer lawrence, a young, beautiful, very popular actress seen in wildly successful movie franchises like \"the hunger games \" and \"x-men \". She recently shared her thoughts regarding hollywood pay disparity in an online publication called lenny's letter, a lena dunham product. Jennifer lawrence slammed the gender pay inequality in hollywood in a scathing essay addressing revelations from the sony hack that she was earning less than her male co-stars in \"american hustle. \" \"when the sony hack happened and i found out how much less i was being paid than the lucky people",
-            "Jennifer lawrence: being called ' bratty ' proved a hollywood point actress jennifer lawrence: go ahead, call me \" bratty. \" it's only proving my point. ( photo: afp/getty images ) jennifer lawrence says she did not mind when she was called \" bratty \" for a recent essay she penned about the treatment of women in hollywood and pay inequality. In fact, lawrence believes the \" bratty \" comment proved her point. At a press conference saturday for the hunger games: mockingjay -- part 2, lawrence said she wrote the essay \" why do i make less than my male co‑stars? \" to show how hard it is to be a woman and talk about inequality and salaries in general. Because people take shots at you just for saying it. \" i hoped to just write about my own fears of how am i going to be portrayed?",
-            "The equal pay act of 1963 editor's note: the following is the text of the equal pay act of 1963 ( pub. L. 88-38 ) ( epa ), as amended, as it appears in volume 29 of the united states code, at section 206( d ). The epa, which is part of the fair labor standards act of 1938, as amended ( flsa ), and which is administered and enforced by the eeoc, prohibits sex-based wage discrimination between men and women in the same establishment who perform jobs that require substantially equal skill, effort and responsibility under similar working conditions. Cross references to the epa as enacted appear in italics following the section heading. Additional provisions of the equal pay act of 1963, as amended, are included as they appear in volume 29 of the united states code. Minimum wage sec. 206. [ section 6 ]"
+            "Jennifer lawrence: being called ' bratty ' proved a hollywood point actress jennifer lawrence: go ahead, call me \" bratty. \" it's only proving my point. ( photo: afp/getty images ) jennifer lawrence says she did not mind when she was called \" bratty \" for a recent essay she penned about the treatment of women in hollywood and pay inequality. In fact, lawrence believes the \" bratty \" comment proved her point. At a press conference saturday for the hunger games: mockingjay -- part 2, lawrence said she wrote the essay \" why do i make less than my male co‑stars? \" to show how hard it is to be a woman and talk about inequality and salaries in general. Because people take shots at you just for saying it. \" i hoped to just write about my own fears of how am i going to be portrayed?"
         ],
         "raw_document": [
             "When i think of hollywood, i think of those who are as far-removed from reality as possible, with little connection to the lives of us in middle america. The product of their careers is entertainment, and while they sometimes like to play the part of \"activist \", such roles are an ill fit. Such is the case with jennifer lawrence, a young, beautiful, very popular actress seen in wildly successful movie franchises like \"the hunger games \" and \"x-men \". She recently shared her thoughts regarding hollywood pay disparity in an online publication called lenny's letter, a lena dunham product. Jennifer lawrence slammed the gender pay inequality in hollywood in a scathing essay addressing revelations from the sony hack that she was earning less than her male co-stars in \"american hustle. \" \"when the sony hack happened and i found out how much less i was being paid than the lucky people",
@@ -1553,7 +1545,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1578,17 +1570,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 32059,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Faced with having to sell off his racehorses to pay for mounting legal bills in the death of girlfriend reeva steenkamp, oscar pistorius is despondent, a family friend tells the bbc in an upcoming special, as picked up by itv. \" i would say that, just speaking to him, that he is a broken man and that i would go as far to say that he would be on the verge of suicide, \" says mike azzie, known to the sprinter as \" uncle mike. \" it really worries me. \" of steenkamp, azzie says, \" he just always seems to mention reeva and to ask us to pray for her and her family. \"",
         "split": "train",
         "cleansed_document": [
-            "Oscar pistorius, who is due to go on trial for the alleged murder of his girlfriend, may compete at the world championships in russia after his bail conditions were changed. A close friend of oscar pistorius said the paralympian is \" on the verge of suicide \" as he is forced to sell off his belongings to fight a charge of murdering his girlfriend reeva steenkamp. Mike azzie, who pistorius refers to as uncle mike, said the athlete was a \" broken man \" after he was tasked with selling his racehorses to raise money to pay for spiralling legal fees. Oscar pistorius is charged with premeditated murder. Credit: reuters speaking in a bbc3 documentary, oscar pistorius: what really happened?, mr azzie said: \" he just always seems to mention reeva and to ask us to pray for her and her family. \" but most of all, you've got to understand that we are there for him and we will always be his friend. He has no confidence in his tone of voice and he is just a man that is almost like someone that is walking around in circles and doesn't know where he is going.",
-            "Police say the death of reeva steenkamp was premeditated murder. The accused, her boyfriend oscar pistorius, says it was an innocent accident. A documentary team has been in pretoria, south africa, digging deeper into a death that shocked the world. Presented by rick edwards, who covered pistorius's gold-medal winning, world record-breaking achievements at the london 2012 paralympics, the programme features interviews with friends of both the victim and the accused. Aged 26, oscar pistorius is the poster boy of the paralympics movement - his prosthetic lower legs have given him the nickname blade runner. So fast and powerful, he became the first double leg amputee to participate in the olympics, competing in the 400m and 4x400m relay. But since that glorious summer, reports have emerged of a different side of oscar pistorius - involved in brawls and late night fracas. Observers note that when setting bail, the judge made it conditional that until he returns to court in june, pistorius must not consume alcohol and will be randomly tested to ensure he complies. Featuring special 3-d graphics, sworn testimony and exclusive interviews, the film attempts to give the most complete picture yet of what may have happened in oscar pistorius's apartment in the early hours of february 14th."
+            "Oscar pistorius, who is due to go on trial for the alleged murder of his girlfriend, may compete at the world championships in russia after his bail conditions were changed. A close friend of oscar pistorius said the paralympian is \" on the verge of suicide \" as he is forced to sell off his belongings to fight a charge of murdering his girlfriend reeva steenkamp. Mike azzie, who pistorius refers to as uncle mike, said the athlete was a \" broken man \" after he was tasked with selling his racehorses to raise money to pay for spiralling legal fees. Oscar pistorius is charged with premeditated murder. Credit: reuters speaking in a bbc3 documentary, oscar pistorius: what really happened?, mr azzie said: \" he just always seems to mention reeva and to ask us to pray for her and her family. \" but most of all, you've got to understand that we are there for him and we will always be his friend. He has no confidence in his tone of voice and he is just a man that is almost like someone that is walking around in circles and doesn't know where he is going."
         ],
         "raw_document": [
             "Oscar pistorius, who is due to go on trial for the alleged murder of his girlfriend, may compete at the world championships in russia after his bail conditions were changed. A close friend of oscar pistorius said the paralympian is \" on the verge of suicide \" as he is forced to sell off his belongings to fight a charge of murdering his girlfriend reeva steenkamp. Mike azzie, who pistorius refers to as uncle mike, said the athlete was a \" broken man \" after he was tasked with selling his racehorses to raise money to pay for spiralling legal fees. Oscar pistorius is charged with premeditated murder. Credit: reuters speaking in a bbc3 documentary, oscar pistorius: what really happened?, mr azzie said: \" he just always seems to mention reeva and to ask us to pray for her and her family. \" but most of all, you've got to understand that we are there for him and we will always be his friend. He has no confidence in his tone of voice and he is just a man that is almost like someone that is walking around in circles and doesn't know where he is going.",
@@ -1603,7 +1594,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1738,12 +1729,11 @@
     },
     {
         "idx": 32065,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "One of the women who has accused donald trump of sexual misconduct retells her story in a front-page washington post feature that caught the attention of the president himself. \" a woman i don't know and, to the best of my knowledge, never met, is on the front page of the fake news washington post saying i kissed her ( for two minutes yet ) in the lobby of trump tower 12 years ago, \" he tweeted about rachel crooks. \" never happened! \" he added that it makes no sense he would do such a thing in a public place, in view of security cameras. \" another false accusation, \" he wrote, adding that the media should instead report on \" the women taking money to make up stories about me. \" crooks maintains that when she was a 22-year-old receptionist at trump tower in 2006, trump \" forced himself on me \" with an unwanted kiss on the lips. Crooks says she went over to trump to introduce herself as he waited for an elevator. \" he started kissing me on one cheek, then the other cheek, \" she says. \" he was talking to me in between kisses, asking where i was from, or if i wanted to be a model. He wouldn't let go of my hand, and then he went right in and started kissing me on the lips. \" the 35-year-old is now telling the story more frequently as she runs in her first political race to become a democratic state representative in ohio. The post story notes that she has asked trump to release tapes from security cameras that day. Barring that, she cites emails she sent at the time, including to her mom: \" hey ma, my day started off rough... Had a weird incident with mr. Trump. \" and to another relative: \" ah yes, the donald kiss... Very creepy man, let me tell you! \"",
         "split": "train",
         "cleansed_document": [
-            "She believed her best chance to be heard was through sheer repetition, so rachel crooks took her seat at the dining table and prepared to tell the story again. She was used to difficult audiences, to skeptics and internet trolls who flooded her facebook page with threats, but this was a generous crowd: a dozen women, all friends of her aunt, gathered for a casual dinner party on a friday night. The hostess turned off the music, clanked a fork against her wineglass and gestured to crooks. \"would you mind telling us about the famous incident? \" she asked. \"not the sound-bite version, but the real version. \" \"the real version, \" crooks said, nodding back. She took a sip of water and folded a napkin onto her lap. Rachel crooks is one of the 19 women who accused president donald trump of sexual assault. \"it all happened at trump tower, \" she said. \"i had just moved to new york, and i was working as a secretary for another company in the building. That's where he forced himself on me. \" crooks, 35, had been publicly reliving this story for much of the past two years, ever since she first described it in an email to the new york times several months before the 2016 election. \"i don't know if people will really care about this or if this will matter at all, \" she had written then, and after donald trump's election she had repeated her story at the women's march, on the \"today \" show and at a news conference organized by women's rights attorney gloria allred. Crooks had spoken to people dressed in #metoo sweatshirts and to her rural neighbors whose yards were decorated with trump signs. In early february, she launched a campaign to become a democratic state representative in ohio, in part so she could share her story more widely with voters across the state. And yet, after dozens of retellings, she still wasn't sure: did people really care? did it matter at all? despite her story, and the similar stories of more than a dozen other women, nothing had changed. Trump, who had denied all of the accusations, was still president of the united states, and crooks was still circling back to the same moments on jan. 11, 2006, that had come to define so much about her life. Rachel",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "She believed her best chance to be heard was through sheer repetition, so rachel crooks took her seat at the dining table and prepared to tell the story again. She was used to difficult audiences, to skeptics and internet trolls who flooded her facebook page with threats, but this was a generous crowd: a dozen women, all friends of her aunt, gathered for a casual dinner party on a friday night. The hostess turned off the music, clanked a fork against her wineglass and gestured to crooks. \"would you mind telling us about the famous incident? \" she asked. \"not the sound-bite version, but the real version. \" \"the real version, \" crooks said, nodding back. She took a sip of water and folded a napkin onto her lap. Rachel crooks is one of the 19 women who accused president donald trump of sexual assault. \"it all happened at trump tower, \" she said. \"i had just moved to new york, and i was working as a secretary for another company in the building. That's where he forced himself on me. \" crooks, 35, had been publicly reliving this story for much of the past two years, ever since she first described it in an email to the new york times several months before the 2016 election. \"i don't know if people will really care about this or if this will matter at all, \" she had written then, and after donald trump's election she had repeated her story at the women's march, on the \"today \" show and at a news conference organized by women's rights attorney gloria allred. Crooks had spoken to people dressed in #metoo sweatshirts and to her rural neighbors whose yards were decorated with trump signs. In early february, she launched a campaign to become a democratic state representative in ohio, in part so she could share her story more widely with voters across the state. And yet, after dozens of retellings, she still wasn't sure: did people really care? did it matter at all? despite her story, and the similar stories of more than a dozen other women, nothing had changed. Trump, who had denied all of the accusations, was still president of the united states, and crooks was still circling back to the same moments on jan. 11, 2006, that had come to define so much about her life. Rachel"
         ],
         "raw_document": [
             "She believed her best chance to be heard was through sheer repetition, so rachel crooks took her seat at the dining table and prepared to tell the story again. She was used to difficult audiences, to skeptics and internet trolls who flooded her facebook page with threats, but this was a generous crowd: a dozen women, all friends of her aunt, gathered for a casual dinner party on a friday night. The hostess turned off the music, clanked a fork against her wineglass and gestured to crooks. \"would you mind telling us about the famous incident? \" she asked. \"not the sound-bite version, but the real version. \" \"the real version, \" crooks said, nodding back. She took a sip of water and folded a napkin onto her lap. Rachel crooks is one of the 19 women who accused president donald trump of sexual assault. \"it all happened at trump tower, \" she said. \"i had just moved to new york, and i was working as a secretary for another company in the building. That's where he forced himself on me. \" crooks, 35, had been publicly reliving this story for much of the past two years, ever since she first described it in an email to the new york times several months before the 2016 election. \"i don't know if people will really care about this or if this will matter at all, \" she had written then, and after donald trump's election she had repeated her story at the women's march, on the \"today \" show and at a news conference organized by women's rights attorney gloria allred. Crooks had spoken to people dressed in #metoo sweatshirts and to her rural neighbors whose yards were decorated with trump signs. In early february, she launched a campaign to become a democratic state representative in ohio, in part so she could share her story more widely with voters across the state. And yet, after dozens of retellings, she still wasn't sure: did people really care? did it matter at all? despite her story, and the similar stories of more than a dozen other women, nothing had changed. Trump, who had denied all of the accusations, was still president of the united states, and crooks was still circling back to the same moments on jan. 11, 2006, that had come to define so much about her life. Rachel",
@@ -1758,7 +1748,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1860,7 +1850,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1887,7 +1877,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1942,13 +1932,12 @@
     },
     {
         "idx": 32073,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Poor david hasselhoff: he's already the butt of so many cheeseburger-related jokes, and now he can probably expect some dancing with the stars jokes to come his way. Despite being the early favorite to win, last night the hoff became the first celeb to leave the show this season, popeater reports. Watch his ( apparently sober ) cha-cha, which one judge called \"a potpourri of insanity disguised as dance, \" in the gallery. For last night's elimination video, click here.",
         "split": "train",
         "cleansed_document": [
             "And the'dancing with the stars'results... Email this after an eventful season 11 premiere of'dancing with the stars, ' one star had to foxtrot home. Who was sent packing? find out the results. ( spoiler alert! ) >> after an eventful season 11 premiere of'dancing with the stars, ' one star had to foxtrot home. Who was sent packing? find out the results. 2010 aol llc. All rights reserved. Copyright 2009 the associated press. The information contained in the ap news report may not be published, broadcast, rewritten or otherwise distributed without the prior written authority of the associated press. Active hyperlinks have been inserted by aol. He was king of the beach on ' baywatch, ' but david hasselhoff didn't fare so well on'dwts.'the 58-year-old entertainer was the first celebrity voted off the",
-            "David hasselhoff is the early'dwts ' favorite email this we had some questions when we first heard the cast announcement for this season's'dancing with the stars.'they're probably the same ones that popped into most of your heads, so we feel comfortable sharing them today after the news has sunk in. Can all of these quandaries have made us pretty psyched for the upcoming season. We spoke with some dance experts about who we can expect to do well on the reality show this time around and the surprising answer from the lot of them... None other than the hoff!!! \" he's already established as a musical entertainer -- especially in germany -- so he knows how to perform. I might be biased because i worked with him on ' baywatch, ' but he's obviously athletic, so he's got a",
-            "Infamous cheeseburger video the main meal in david hasselhoff comedy roast email this when major media fallout followed, and the video became something of a cultural phenomenon, attracting more than a billion views on the internet. Three year's later, the hoff's greatest viral embarrassment, as well as his longtime struggle with alcohol, provides the fuel for the ' comedy central roast of david hasselhoff.'scheduled to air on august 15, the roast was filmed sunday night and is shockingly the first time hasselhoff has ever addressed the infamous video or his reported alcohol relapses. When david hasselhoff's now infamous cheeseburger video hit the internet in 2007, the shocking image of the shirtless, slurring ' baywatch'star on the floor struggling to eat fast food was no laughing matter.major media fallout followed, and the video became something of a cultural phenomenon, attracting more than a billion"
+            "David hasselhoff is the early'dwts ' favorite email this we had some questions when we first heard the cast announcement for this season's'dancing with the stars.'they're probably the same ones that popped into most of your heads, so we feel comfortable sharing them today after the news has sunk in. Can all of these quandaries have made us pretty psyched for the upcoming season. We spoke with some dance experts about who we can expect to do well on the reality show this time around and the surprising answer from the lot of them... None other than the hoff!!! \" he's already established as a musical entertainer -- especially in germany -- so he knows how to perform. I might be biased because i worked with him on ' baywatch, ' but he's obviously athletic, so he's got a"
         ],
         "raw_document": [
             "And the'dancing with the stars'results... Email this after an eventful season 11 premiere of'dancing with the stars, ' one star had to foxtrot home. Who was sent packing? find out the results. ( spoiler alert! ) >> after an eventful season 11 premiere of'dancing with the stars, ' one star had to foxtrot home. Who was sent packing? find out the results. 2010 aol llc. All rights reserved. Copyright 2009 the associated press. The information contained in the ap news report may not be published, broadcast, rewritten or otherwise distributed without the prior written authority of the associated press. Active hyperlinks have been inserted by aol. He was king of the beach on ' baywatch, ' but david hasselhoff didn't fare so well on'dwts.'the 58-year-old entertainer was the first celebrity voted off the",
@@ -1965,7 +1954,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2017,7 +2006,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2048,17 +2037,15 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 32077,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Vincent hancock of the us has won the gold medal in the men's skeet competition at the london olympics, his second straight. It gives the us a skeet sweep, after kimberly rhode won the women's competition earlier this week. Hancock clinched the gold on his next-to-last shot, and missed only twice in 150 tries today. Anders golding of denmark finished two targets back to win the silver, and qatar's nasser al-attiya won a shoot-off over russia's valery shomin for the bronze. Hancock topped his own olympic record by hitting 123 targets in qualifying earlier today, and was a perfect 25-for-25 in the medal round to wrap up the gold. Elsewhere at the london olympics: queen elizabeth's granddaughter, zara phillips, has a shiny new silver medal in team equestrian eventing. Phillips, however, knocked down a rail, which precluded team great britain from taking home the gold, reports the ap. \" unfortunately we couldn't quite do it, \" phillips said. American beach volleyball star kerri walsh jennings isn't going to let a little case of pinkeye get her down, and intends to play, reports the ap. British sculler alan campbell had the fastest qualifying time in the men's single sculls today, as britain looks to dominate the olympic regatta, reports the ap.",
         "split": "train",
-        "cleansed_document": [
-            "Alan campbell of britain upstaged a number of world and olympic champions to qualify fastest for the semifinals of the men's single sculls on tuesday, providing another boost to a host nation that is threatening to dominate the olympic regatta. Peru's victor aspillaga alayza rows to the starting position before a men's rowing single sculls in eton dorney, near windsor, england, at the 2012 summer olympics, tuesday, july 31, 2012. ( ap photo/chris... ( associated press ) netherlands ' maaike head and rianne sigmond, in background, pass new zealand's julia edward, left, and louise ayling to win a lightweight women's rowing double sculls repechage in eton dorney, near windsor,... ( associated press ) campbell crossed in 6 minutes, 52.10 seconds in the first quarterfinal to beat the times of fellow winners mahe drysdale of new zealand, lassi karonen of sweden and ondrej synek, the pre-regatta favorite from the czech republic. Reigning two-time champion"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "The queen's granddaughter zara phillips added to the family silver on tuesday, helping team britain to a second-place finish behind germany in olympic equestrian eventing. Zara phillips of great britain rides high kingdom as she competes in the equestrian eventing cross-country stage at the 2012 summer olympics, monday, july 30, 2012, in london. ( ap photo/ng han guan ) ( associated press ) zara phillips of great britain rides high kingdom as she competes in the equestrian eventing cross country phase at greenwich park, at the 2012 summer olympics, monday, july 30, 2012, in london. ( ap photo/markus... ( associated press ) zara phillips of great britain rides high kingdom as she competes in the equestrian eventing cross-country phase at greenwich park, at the 2012 summer olympics, monday, july 30, 2012, in london. ( ap photo/ng... ( associated press ) princes william and harry and william's wife kate were in the stands to cheer on their cousin as she",
             "American beach volleyball star kerri walsh jennings has pinkeye. She says she ' ll keep competing at the london olympics. Walsh jennings ' left eye was red and watery and she was squinting tuesday at a meet-and-greet arranged by the international governing body of beach volleyball. She is taking antibiotics. Walsh jennings and partner misty may-treanor are two-time defending olympic gold medalists. They have opened the london games with victories in their first two matches in pool play, virtually assuring them a spot in the knockout round. Casey jennings, her husband, also has an eye infection. Her sons have avoided it, but walsh jennings says she hasn't been able to hold them to avoid passing it along.",
@@ -2074,7 +2061,7 @@
         "vote_count": {
             "0": 3,
             "1": 4,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2208,7 +2195,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2266,12 +2253,11 @@
     },
     {
         "idx": 32085,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "What's behind the market meltdown? some on-the-fly observations: ezra klein, washington post: the market is \" diving because of forces washington can't control, and in many cases, doesn't understand very well. How many members of congress do you think could give a coherent account of what has happened to oil or steel prices over the last three years? or what's happening in the eurozone? or to the yuan? \" nobody knows where the recovery will come from, and the markets are reflecting that panic. Steve goldstein, marketwatch: hmm, tim geithner stays and the markets tank. \" of course, that is very unfair to geithner, but there's a kernel of truth to it. It's not simply that the us economy is in danger of falling back into recession... Or that the euro-zone debt situation threatens to spiral out of control. It's that there is a lack of confidence globally that these problems can be addressed by policy makers. \" paul krugman, new york times: yeah, stocks are bad, but the bond markets tell the real tale. \" the us 10-year bond rate is now down to 2.5 %. So much for those bond vigilantes. What this rate is saying is that markets are pricing in terrible economic performance, quite possibly a double dip. And it also says that washington's deficit obsession has been utterly, totally wrong-headed. \"",
         "split": "train",
         "cleansed_document": [
-            "The reason the markets are diving ( scott olson - getty images ) washington likes to talk about the economy in terms of things it can control. Spending and deficits. Stimulus. Policy uncertainty. But the dow jones isn't diving because spending has risen, deficits have grown or stimulus policy has changed. It's diving because of forces washington can't control, and in many cases, doesn't understand very well. How many members of congress do you think could give a coherent account of what has happened to oil or steel prices over the last three years? or what's happening in the eurozone? or to the yuan? a dramatic gap has opened between the economy as washington sees it -- and wants to intervene in it -- and the economy that actually exists. Whatever weak recovery we might have hoped for is being hindered by global",
-            "Reuters st. Louis fed president james bullard is just waiting for a draft of the fomc statement to fall into his hands. Everyone's speculating about what message from janet yellen, stanley fischer and company will emerge when the federal open market committee meets in two weeks'time. So here's a stab at what the fomc should say, given the recent economic data, market moves and speeches and comments from federal reserve officials. Just to be crystal clear, this is isn't based on any whispers in the ear or inside information from anyone at the central bank. Here goes... For immediate release information received since the federal open market committee met in july indicates that economic activity has been expanding moderately in recent months. Growth in household spending has been moderate, and the housing sector has shown continued improvement. Business fixed investment has gathered pace, while net"
+            "The reason the markets are diving ( scott olson - getty images ) washington likes to talk about the economy in terms of things it can control. Spending and deficits. Stimulus. Policy uncertainty. But the dow jones isn't diving because spending has risen, deficits have grown or stimulus policy has changed. It's diving because of forces washington can't control, and in many cases, doesn't understand very well. How many members of congress do you think could give a coherent account of what has happened to oil or steel prices over the last three years? or what's happening in the eurozone? or to the yuan? a dramatic gap has opened between the economy as washington sees it -- and wants to intervene in it -- and the economy that actually exists. Whatever weak recovery we might have hoped for is being hindered by global"
         ],
         "raw_document": [
             "A key part of the senate tax bill is repeal of the individual health insurance mandate. The budget scoring relies on this repeal reducing federal deficits by $ 318 billion — and the bulk of these spending cuts would hit lower-income families. Republicans argue, however, that these families won't really be hurt, because they ' ll be making a voluntary choice not to be covered and collect government subsidies. This argument might make sense in a world of hyper-rational individuals. In the world we actually live in, however, it's a very bad argument. In fact, the very budget savings republicans are counting on depend on people making bad choices. For if you look at cbo's estimates of the savings from mandate repeal, more than half come from a reduction in the number of people on medicaid. Why wouldn't someone eligible for medicaid sign up",
@@ -2288,7 +2274,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2317,7 +2303,7 @@
             "0": 5,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2344,7 +2330,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2369,17 +2355,16 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 32089,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Days after the new york times came out with a report alleging that facebook improperly let other companies have access to users ' personal information comes a follow-up from the times that reports the group included four chinese companies — one of which us intelligence has identified as a possible national security threat. That company is smartphone maker huawei; the others are lenovo, oppo, and tcl, and the deals they have with facebook date to 2010 and are still active, though the huawei one won't be by week's end. Facebook itself was the source for this latest times'story, and it explains that the companies'deal was akin to blackberry's, meaning they had access to information on a user's friends without their consent. That data allowed huawei to power an app that rounded up social media and other messages in one location. Facebook says the data was stored on the device, not on chinese servers. A rep for huawei tells the ap the company \" worked with facebook \" but \" has never collected or stored any facebook user data. \" per axios, lawmakers are wringing their hands over the report, and mike allen explains what dc and facebook just don't \" get \": politicians don't understand these partnerships \" were pretty standard at the time... Nor were they a secret. \" but facebook doesn't seem to comprehend just how low its credibility is in dc, especially regarding data privacy: \" throw huawei's name in the mix and things go from toxic to radioactive. \" the washington post reports huawei allegedly has ties to the chinese government, stoking fears china could access communications via the devices; the pentagon now bars the sale of the company's smartphones on us military bases.",
         "split": "train",
         "cleansed_document": [
-            "File - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data... ( associated press ) file - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data to target american voters in the 2016 election and data privacy. The new york times says facebook has... ( associated press ) file - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data to target american voters in the 2016 election and data privacy. The new york times says facebook has... ( associated press ) file - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data... ( associated press ) beijing ( ap ) — chinese mobile phone maker huawei said wednesday it has never collected or stored facebook user data, after the social media giant acknowledged it shared such data with huawei and other manufacturers. Huawei, a company flagged by",
-            "Senate intelligence committee vice chair mark warner ( d-va. ), who has been working closely with tech companies in the russia investigation, told me onstage yesterday at an axios event: \" facebook... Is a great company, but we're seeing this pattern repeated. \" vice chair mark warner ( d-va. ), who has been working closely with tech companies in the russia investigation, told me onstage yesterday at an axios event: \" facebook... Is a great company, but we're seeing this pattern repeated. \" warner added: \" they've got some folks that know politics... They should realize: come clean with the whole story in the first 24 hours. Don't let this dribble out. And i've got some very serious questions, particularly because of the ongoing threat that these chinese telecom companies pose. \" the new revelations show just how little facebook and d.c. Still understand about the way the other works, axios chief tech correspondent ina fried writes: what d.c. Doesn't get: the partnerships facebook had with phone makers were pretty standard at the time, as phone makers looked to build support for services from facebook, twitter, google and others into their devices. Nor were they a secret.: the partnerships facebook had with phone makers were pretty standard at the time"
+            "File - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data... ( associated press ) file - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data to target american voters in the 2016 election and data privacy. The new york times says facebook has... ( associated press ) file - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data to target american voters in the 2016 election and data privacy. The new york times says facebook has... ( associated press ) file - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data... ( associated press ) beijing ( ap ) — chinese mobile phone maker huawei said wednesday it has never collected or stored facebook user data, after the social media giant acknowledged it shared such data with huawei and other manufacturers. Huawei, a company flagged by"
         ],
         "raw_document": [
             "File - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data... ( associated press ) file - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data to target american voters in the 2016 election and data privacy. The new york times says facebook has... ( associated press ) file - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data to target american voters in the 2016 election and data privacy. The new york times says facebook has... ( associated press ) file - in this april 11, 2018, file photo, facebook ceo mark zuckerberg departs after testifying before a house energy and commerce hearing on capitol hill in washington about the use of facebook data... ( associated press ) beijing ( ap ) — chinese mobile phone maker huawei said wednesday it has never collected or stored facebook user data, after the social media giant acknowledged it shared such data with huawei and other manufacturers. Huawei, a company flagged by",
@@ -2394,7 +2379,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2483,13 +2468,12 @@
     },
     {
         "idx": 32093,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A new federal report points to the environmental benefits of a vegan diet, and the meat industry is not exactly happy about it. Industry representatives say sustainability isn't within the purview of the dietary guidelines advisory committee, whose recommendations factor into guidelines by the federal agriculture and health departments, the hill reports. \" the same concern would exist if an expert sustainability committee were making nutrition policy recommendations, \" says a rep for the north american meat institute. \" it is not appropriate for the person designing a better light bulb to be telling americans how to make a better sandwich. \" indeed, secretary of agriculture tom vilsack seemed to agree in an interview last month with the wall street journal, the hill notes. \" i read the actual law, \" he noted. \" our job ultimately is to formulate dietary and nutrition guidelines. \" but earlier this year, the committee noted a need to address the \" complete challenge \" in order \" to ensure a healthy food supply will be available for future generations, \" the journal reported. The chair of the committee also points out that the committee outlines three separate diets, with one vegetarian-focused, one mediterranean, and one american. \" if people took the time to understand, this is not a meat-free diet and this is not [ a ] vegan approach, \" she tells the hill. \" they'd realize this is a healthy dietary pattern with three models that offers consumers a lot of choice. \" the group is accepting public comment until next month.",
         "split": "train",
         "cleansed_document": [
             "A federal panel that helps set federal dietary guidelines is recommending americans eat less meat because it's better for the environment, sparking outrage from industry groups representing the nation's purveyors of beef, pork and poultry. The dietary guidelines advisory committee, a federally appointed panel of nutritionists created in 1983, decided for the first time this year to factor in environmental sustainability in its recommendations. They include a finding that a diet lower in animal-based foods is not only healthier, but has less of an environmental impact. The meat industry is lashing back, contending the panel has neither the authority nor the expertise to make such a judgment. Advertisement \"when you talk about the lens of the dietary guidelines it's just not appropriate for the advisory committee to enter that conversation when they were asked to look at nutrition and health science, \" said kristina butts, executive director of legislative affairs for the national cattlemen's beef association.the north american meat institute ( nami ) agrees, saying sustainability is a complex issue best left",
-            "Healthy eating habits can also protect the environment, according to recommendations from the dietary guidelines advisory committee. The panel's vice chair alice lichtenstein discusses with sara murray. U.s. Dietary guidelines, the government's benchmark for balanced nutrition, have long advised americans to eat dark, leafy greens. Now, there is another way the standards could be going green. A panel of nutrition experts recruited by the obama administration to help craft the next set of guidelines, to be issued this year, said in long-awaited recommendations thursday that the government should consider the environment when deciding what people should eat....",
-            "Scientific report of the 2015 dietary guidelines advisory committee in february 2015, the 2015 dietary guidelines advisory committee ( advisory committee ) submitted the scientific report of the 2015 dietary guidelines advisory committee ( advisory report ) to the secretaries of the u.s. Departments of health and human services ( hhs ) and agriculture ( usda ). The advisory report helps to inform the federal government of the body of scientific evidence on topics related to diet, nutrition, and health. The advisory report is not the dietary guidelines policy or a draft of the policy. Access the complete 2015 – 2020 dietary guidelines for americans. Download advisory report pdf – 22.8mb online-only supplementary material appendices e-2 and e-3 contain links to additional report content that is available online only, and cannot be found in the printed or pdf versions of the advisory report. This supplementary material can be accessed through the links below: suggested citation dietary guidelines advisory committee. 2015. Scientific report of the 2015 dietary guidelines advisory committee: advisory report to the secretary of health and human services and the"
+            "Healthy eating habits can also protect the environment, according to recommendations from the dietary guidelines advisory committee. The panel's vice chair alice lichtenstein discusses with sara murray. U.s. Dietary guidelines, the government's benchmark for balanced nutrition, have long advised americans to eat dark, leafy greens. Now, there is another way the standards could be going green. A panel of nutrition experts recruited by the obama administration to help craft the next set of guidelines, to be issued this year, said in long-awaited recommendations thursday that the government should consider the environment when deciding what people should eat...."
         ],
         "raw_document": [
             "A federal panel that helps set federal dietary guidelines is recommending americans eat less meat because it's better for the environment, sparking outrage from industry groups representing the nation's purveyors of beef, pork and poultry. The dietary guidelines advisory committee, a federally appointed panel of nutritionists created in 1983, decided for the first time this year to factor in environmental sustainability in its recommendations. They include a finding that a diet lower in animal-based foods is not only healthier, but has less of an environmental impact. The meat industry is lashing back, contending the panel has neither the authority nor the expertise to make such a judgment. Advertisement \"when you talk about the lens of the dietary guidelines it's just not appropriate for the advisory committee to enter that conversation when they were asked to look at nutrition and health science, \" said kristina butts, executive director of legislative affairs for the national cattlemen's beef association.the north american meat institute ( nami ) agrees, saying sustainability is a complex issue best left",
@@ -2506,7 +2490,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2656,13 +2640,12 @@
     },
     {
         "idx": 32099,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Donald trump may be the gop frontrunner — the most recent cnn/orc poll awarded him the support of 24 % of registered republicans, trailed by jeb bush with a distant 13 % — but he's probably not at the top of heidi klum's list. The german supermodel and america's got talent judge first lost donald's affections a decade ago when he made a comment about her to howard stern after she had given birth, telling him, \" i looked at her the other day, and it's off. There's no question. \" he kept that 10-year-old insult going in a new york times article over the weekend when he was asked how he gets away with insulting people like john mccain and ranking famous beauties like klum. \" sometimes i do go a little bit far, \" the almost-septuagenarian admitted in the article, before adding, \" heidi klum. Sadly, she's no longer a 10. \" however, as the los angeles times points out, \" in 2005, social media wasn't what it is in 2015, \" and klum harnessed the power of instagram this time to fight back. The 42-year-old posted a short video yesterday showing her modeling a white tee with a paper number \" 10 \" on the front, until someone wearing a trump mask comes up behind her and rips the number off — only to reveal a \" 9.99 \" underneath. Her reaction to her downgrade in the video? a big ol'shrug, as well as the hashtags #ihadagoodrun, #heiditrumpstrump, and #beautyisintheeyeofthebeheld. ( meanwhile, trump and his rivals are hawking some strange merchandise. )",
         "split": "train",
         "cleansed_document": [
             "Property tycoon donald trump has embarrassed his pregnant wife melania, by declaring her expanding waistline makes her look \" like a blimp \". The apprentice reality tv star, 59, discussed the slovenian model's appearance on shock jock howard stern's new k-rock radio show yesterday ( 07dec05 ), reports pagesix.com. Trump says, \" you know, they just blow up, right? \" like a blimp - in the right places. In her case, the right places. I mean she really has become a monster - in all the right places. \" i mean monster in the most positive way. She has gotten very, very large - in all the right places. \" however, despite loving his wife's pregnancy shape, trump says his crush on supermodel heidi klum has finished since she gave birth to her two kids leni and henry. Trump reveals",
-            "Donald trump informed the public almost a decade ago that he'd stopped crushing on heidi klum, but he brought her up again in an interview published over the weekend, and this time the supermodel talked back. \" sometimes i do go a little bit far, \" the presidential hopeful told the new york times while discussing, among other things, how he gets away with outrageous comments. \" heidi klum, \" he added after a pause. \" sadly, she's no longer a 10. \" klum's name, however, wasn't just pulled out of thin air. Back in 2005, trump was talking to howard stern about how his then-pregnant wife, melania, had blown up \" like a blimp — in the right places. In her case, the right places. I mean she really has become a monster — in all the",
-            "Washington ( cnn ) donald trump has won his party's trust on top issues more than any other republican presidential candidate, and now stands as the clear leader in the race for the gop nomination, according to a new cnn/orc poll. Trump is the biggest gainer in the poll, up 6 points since july according to the first nationwide cnn/orc poll since the top candidates debated in cleveland on aug. 6. Carson gained 5 points and fiorina 4 points. Trump has also boosted his favorability numbers among republicans and republican-leaning voters, 58 % have a favorable view of trump now, that figure stood at 50 % in the july survey. These nationwide findings follow recent polling in iowa and new hampshire showing trump also leads the republican field in those two key early states. Bush, who held the top spot in the field in most cnn/orc polls on the race between last fall and"
+            "Donald trump informed the public almost a decade ago that he'd stopped crushing on heidi klum, but he brought her up again in an interview published over the weekend, and this time the supermodel talked back. \" sometimes i do go a little bit far, \" the presidential hopeful told the new york times while discussing, among other things, how he gets away with outrageous comments. \" heidi klum, \" he added after a pause. \" sadly, she's no longer a 10. \" klum's name, however, wasn't just pulled out of thin air. Back in 2005, trump was talking to howard stern about how his then-pregnant wife, melania, had blown up \" like a blimp — in the right places. In her case, the right places. I mean she really has become a monster — in all the"
         ],
         "raw_document": [
             "Property tycoon donald trump has embarrassed his pregnant wife melania, by declaring her expanding waistline makes her look \" like a blimp \". The apprentice reality tv star, 59, discussed the slovenian model's appearance on shock jock howard stern's new k-rock radio show yesterday ( 07dec05 ), reports pagesix.com. Trump says, \" you know, they just blow up, right? \" like a blimp - in the right places. In her case, the right places. I mean she really has become a monster - in all the right places. \" i mean monster in the most positive way. She has gotten very, very large - in all the right places. \" however, despite loving his wife's pregnancy shape, trump says his crush on supermodel heidi klum has finished since she gave birth to her two kids leni and henry. Trump reveals",
@@ -2679,7 +2662,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     }
 ]

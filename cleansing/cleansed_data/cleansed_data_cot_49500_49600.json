@@ -25,13 +25,12 @@
     },
     {
         "idx": 49501,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Donald trump's latest is a wilder-than-usual attack on ted cruz: trump says cruz's father was in the company of lee harvey oswald just months before oswald shot john f. Kennedy in 1963. His comments are based on a national enquirer story that claims a previously unidentified man photographed with oswald handing out leaflets in support of fidel castro in new orleans is actually rafael cruz. The report cites \" experts \" who reviewed photos of rafael cruz from the time period and found he \" looks to be the same person \" as oswald's companion, per the miami herald. \" what was he doing with lee harvey oswald? \" trump says, per politico. \" it's horrible. \" though rafael cruz admits to once supporting castro, he says he was \" duped \" and didn't know castro was a communist. A cruz rep says it's \" another garbage story in a tabloid full of garbage \" ( the enquirer has endorsed trump ) and \" that is not rafael in the picture. \" still, trump's criticisms don't stop there. He also slams cruz's father for urging evangelicals to vote for his son. \" i exhort every member of the body of christ to vote according to the word of god and vote for the candidate that stands on the word of god … and i am convinced that man is my son, \" rafael cruz says in a facebook video, per the washington examiner. \" it's disgraceful that his father can go out and do that, \" trump tells fox news. ( the national enquirer claims cruz had five mistresses. )",
         "split": "val",
         "cleansed_document": [
             "Poster= \" http://v.politico.com/images/1155968404/201605/578/1155968404_4876063332001_4876048442001-vs.jpg?pubid=1155968404 \" true trump accuses cruz's father of helping jfk's assassin trump accuses cruz's father of helping jfk's assassin donald trump on tuesday alleged that ted cruz's father was with john f. Kennedy's assassin shortly before he murdered the president, parroting a national enquirer story claiming that rafael cruz was pictured with lee harvey oswald handing out pro-fidel castro pamphlets in new orleans in 1963. A cruz campaign spokesperson told the miami herald, which pointed out numerous flaws in the enquirer story, that it was \"another garbage story in a tabloid full of garbage. \" \"his father was with lee harvey oswald prior to oswald's being — you know, shot. I mean, the whole thing is ridiculous, \" trump said tuesday during a phone interview with fox news. \"what is this, right prior to his being shot, and nobody even",
-            "Donald trump hit back hard tuesday at ted cruz's father after he made an appeal to \"every member of the body of christ \" to vote for his son, and not the \"wicked \" – calling the comments \"disgraceful \" and \"horrible. \" in a sharp turn, the republican presidential front-runner also abruptly invoked a tabloid story about rafael cruz's supposed connection to john f. Kennedy assassin lee harvey oswald. The cruz campaign already has rejected that national enquirer report from last month as \"garbage. \" but trump unleashed on the cuban-born rafael cruz, a pastor, after he made his religious appeal to indiana and other voters to support his son in the republican presidential nominating contest. Indiana is voting tuesday. \"i think it's a disgrace that he's allowed to do it. I think it's a disgrace that he's allowed to say it, \" trump",
-            "Lafayette, ind. — with time running short and polls looking grim, ted cruz is turning up the intensity as he tries to make the final hours of the indiana primary campaign a turning point in his uphill presidential run. If there were any doubts about the stakes, cruz's friend rep. Louie gohmert, who has been traveling with a sometimes motley cruz campaign entourage, set the stage sunday by telling about 1,000 supporters gathered at the sprawling faith church complex, \" this is the defining moment. Tuesday in indiana is the defining moment. \" no pressure. At stake is not victory — there's already no way for cruz to win enough delegates to clinch the republican nomination before the convention — but cruz's hopes of holding donald trump below the 1,237 delegates he needs to win going into cleveland. If cruz loses here tuesday, he ' ll have"
+            "Donald trump hit back hard tuesday at ted cruz's father after he made an appeal to \"every member of the body of christ \" to vote for his son, and not the \"wicked \" – calling the comments \"disgraceful \" and \"horrible. \" in a sharp turn, the republican presidential front-runner also abruptly invoked a tabloid story about rafael cruz's supposed connection to john f. Kennedy assassin lee harvey oswald. The cruz campaign already has rejected that national enquirer report from last month as \"garbage. \" but trump unleashed on the cuban-born rafael cruz, a pastor, after he made his religious appeal to indiana and other voters to support his son in the republican presidential nominating contest. Indiana is voting tuesday. \"i think it's a disgrace that he's allowed to do it. I think it's a disgrace that he's allowed to say it, \" trump"
         ],
         "raw_document": [
             "Poster= \" http://v.politico.com/images/1155968404/201605/578/1155968404_4876063332001_4876048442001-vs.jpg?pubid=1155968404 \" true trump accuses cruz's father of helping jfk's assassin trump accuses cruz's father of helping jfk's assassin donald trump on tuesday alleged that ted cruz's father was with john f. Kennedy's assassin shortly before he murdered the president, parroting a national enquirer story claiming that rafael cruz was pictured with lee harvey oswald handing out pro-fidel castro pamphlets in new orleans in 1963. A cruz campaign spokesperson told the miami herald, which pointed out numerous flaws in the enquirer story, that it was \"another garbage story in a tabloid full of garbage. \" \"his father was with lee harvey oswald prior to oswald's being — you know, shot. I mean, the whole thing is ridiculous, \" trump said tuesday during a phone interview with fox news. \"what is this, right prior to his being shot, and nobody even",
@@ -48,17 +47,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 49502,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Meet greg packer: he's the first person in line for an ipad at new york city's fifth avenue store, and he's been waiting since tuesday. But he's not necessarily a big mac fan … just a big fan of being first in line for things, from book releases ( he nabbed harry potter and the half-blood prince first ) to product launches ( he got he iphone first, too ). Business insider goes so far as to call him, \"the same stupid guy who's first in line for everything. \" gawker notes the ap sent out a memo to reporters in 2003 warning them about the retired long island highway maintenance worker and his love of being quoted. But he's not the only one excited about tomorrow's ipad release: stephen colbert gave apple some free product placement on last night's show, where he demonstrated his favorite ipad app: vegetable chopper. Watch it in the gallery. Abc, which also gave the device lots of free publicity on modern family ( clip in the gallery ), will release an app that makes ad-supported episodes of 20 of its shows available for free on the ipad, according to the hollywood reporter.",
         "split": "val",
         "cleansed_document": [
-            "Abc's shows will be available on apple's ipad, with disney releasing an app that extends the network's video player to the new hand-held device.the abc player app will allow viewers to watch free, ad-supported episodes from 20 abc shows via a wi-fi connection. Users can also purchase episodes via apple's itunes store. \" the ipad provides a very compelling consumer experience, and we are pleased to have new forms of original, interactive content on this great device, \" said bob iger, president and ceo of the walt disney co.the announcement comes on the heels of abc's \" modern family \" heavily featuring the device in wednesday's episode. Apple ceo steve jobs is on the board of directors for the network.",
-            "The seed for wide00014 was: - slash pages from every domain on the web: -- a ranking of all urls that have more than one incoming inter-domain link ( rank was determined by number of incoming links using wide00012 inter domain links ) -- up to a maximum of 100 most highly ranked urls per domain - top ranked pages ( up to a max of 100 ) from every linked-to domain using the wide00012 inter-domain navigational link graph"
+            "Abc's shows will be available on apple's ipad, with disney releasing an app that extends the network's video player to the new hand-held device.the abc player app will allow viewers to watch free, ad-supported episodes from 20 abc shows via a wi-fi connection. Users can also purchase episodes via apple's itunes store. \" the ipad provides a very compelling consumer experience, and we are pleased to have new forms of original, interactive content on this great device, \" said bob iger, president and ceo of the walt disney co.the announcement comes on the heels of abc's \" modern family \" heavily featuring the device in wednesday's episode. Apple ceo steve jobs is on the board of directors for the network."
         ],
         "raw_document": [
             "Abc's shows will be available on apple's ipad, with disney releasing an app that extends the network's video player to the new hand-held device.the abc player app will allow viewers to watch free, ad-supported episodes from 20 abc shows via a wi-fi connection. Users can also purchase episodes via apple's itunes store. \" the ipad provides a very compelling consumer experience, and we are pleased to have new forms of original, interactive content on this great device, \" said bob iger, president and ceo of the walt disney co.the announcement comes on the heels of abc's \" modern family \" heavily featuring the device in wednesday's episode. Apple ceo steve jobs is on the board of directors for the network.",
@@ -73,7 +71,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -101,7 +99,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -126,7 +124,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -180,7 +178,7 @@
         "vote_count": {
             "0": 3,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -361,12 +359,11 @@
     },
     {
         "idx": 49514,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Prime minister benjamin netanyahu has announced that national elections will be held within three months — some eight months ahead of schedule — because he knows his conservative coalition government won't be able to agree on a budget. \" for the benefit of israel, \" the elections will be held \" as quickly as possible, \" he said on national tv, reports haaretz. Holding the elections quickly will help maintain a stability to aid israel in maintaining a \" responsible economic and defense policy, \" especially now when the nation is so concerned that iran is close to developing a nuclear bomb, he noted. The \" lightning-quick \" elections are also likely to help him win re-election, ap reports. He's enjoying a wave of popularity, and the opposition is fragmented. Immediately after the announcement, the head of the israel labor party said that labor is the only real alternative to netanyahu and his likud party. The elections will be a choice \" between two paths: whether we will live in a jungle where the strong takes everything, or an enlightened and moral society, \" said party chief shelly yachimovich. The former leader of kadima, tzipi livni, said on facebook that after four \" isolated, introspective \" years under netanyahu, it's time for israel to \" choose its path again. \"",
         "split": "val",
         "cleansed_document": [
-            "Prime minister benjamin netanyahu announced early elections on tuesday. In a televised statement, netanyahu said that, as his coalition government would not be able to agree on a national budget for 2013, he had \" decided, for the benefit of israel, to hold elections now and as quickly as possible. \" the elections would take place within three months, the prime minister said. \" in a few months, the tenure of the most stable government in decades will come to an end, \" netanyahu said. \" this stability has helped us achieve the two main objectives we promised the citizens of israel – to strengthen security at a time when a dangerous upheaval is gripping the middle east, and [ to fortify ] the economy during … a financial turmoil. \" \" we must maintain a responsible economic and defense policy, \" netanyahu added, \" to ensure that iran does not have a nuclear bomb. \" he said that early elections are a \" national interest, \" and thanked the citizens of israel for the privilege they have granted him. Responding to the news, foreign minister and deputy prime minister avigdor lieberman, head of yisrael beitenu, said that his party was ready and prepared for early elections. Yisrael beitenu would continue to be a key, influential and responsible player even after the elections, he said",
-            "Israel's prime minister on tuesday ordered new parliamentary elections in early 2013, roughly eight months ahead of schedule, setting the stage for a lightning quick campaign that will likely win him re-election. Israeli prime minister benjamin netanyahu gestures during a press conference at the prime minister's office in jerusalem, tuesday, oct. 9, 2012. Netanyahu has ordered new parliamentary elections in early... ( associated press ) israeli prime minister benjamin netanyahu speaks during a press conference at the prime minister's office in jerusalem, tuesday, oct. 9, 2012. Netanyahu has ordered new parliamentary elections in early... ( associated press ) israeli prime minister benjamin netanyahu arrives at a conference room at the prime minister's office in jerusalem, tuesday, oct. 9, 2012. Netanyahu has ordered new parliamentary elections in early 2013,... ( associated press ) israeli prime minister benjamin netanyahu speaks during a press conference at the prime minister's office in jerusalem, tuesday, oct. 9, 2012. Netanyahu has ordered new parliamentary elections in early... ( associated press ) for nearly four years, prime minister benjamin netanyahu has presided over a conservative coalition that has proven stable in a country where governments rarely serve out a full term. Re-election could grant him a fresh mandate to continue his tough stance toward iran's suspect nuclear program, put the already deadlocked"
+            "Prime minister benjamin netanyahu announced early elections on tuesday. In a televised statement, netanyahu said that, as his coalition government would not be able to agree on a national budget for 2013, he had \" decided, for the benefit of israel, to hold elections now and as quickly as possible. \" the elections would take place within three months, the prime minister said. \" in a few months, the tenure of the most stable government in decades will come to an end, \" netanyahu said. \" this stability has helped us achieve the two main objectives we promised the citizens of israel – to strengthen security at a time when a dangerous upheaval is gripping the middle east, and [ to fortify ] the economy during … a financial turmoil. \" \" we must maintain a responsible economic and defense policy, \" netanyahu added, \" to ensure that iran does not have a nuclear bomb. \" he said that early elections are a \" national interest, \" and thanked the citizens of israel for the privilege they have granted him. Responding to the news, foreign minister and deputy prime minister avigdor lieberman, head of yisrael beitenu, said that his party was ready and prepared for early elections. Yisrael beitenu would continue to be a key, influential and responsible player even after the elections, he said"
         ],
         "raw_document": [
             "Prime minister benjamin netanyahu announced early elections on tuesday. In a televised statement, netanyahu said that, as his coalition government would not be able to agree on a national budget for 2013, he had \" decided, for the benefit of israel, to hold elections now and as quickly as possible. \" the elections would take place within three months, the prime minister said. \" in a few months, the tenure of the most stable government in decades will come to an end, \" netanyahu said. \" this stability has helped us achieve the two main objectives we promised the citizens of israel – to strengthen security at a time when a dangerous upheaval is gripping the middle east, and [ to fortify ] the economy during … a financial turmoil. \" \" we must maintain a responsible economic and defense policy, \" netanyahu added, \" to ensure that iran does not have a nuclear bomb. \" he said that early elections are a \" national interest, \" and thanked the citizens of israel for the privilege they have granted him. Responding to the news, foreign minister and deputy prime minister avigdor lieberman, head of yisrael beitenu, said that his party was ready and prepared for early elections. Yisrael beitenu would continue to be a key, influential and responsible player even after the elections, he said",
@@ -381,7 +378,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -411,13 +408,12 @@
     },
     {
         "idx": 49516,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Andie macdowell says that she ' ll no longer be doing two things: paying for first class on american airlines and complaining on twitter. Usa today reports that a kerfuffle began on friday, when the groundhog day star tweeted \" help \" to @americanair because she had been downgraded from first class to tourist after having been assigned to seat 1a, meaning there was no seat in front of her under which to place the dog she was traveling with. She also complained that while checking in for her flight in charlotte, nc, she met \" the rudest person i have ever had to deal with, \" though she conceded that there was \" more legroom in tourist. \" many twitter users failed to be moved by her plight, with one tweeting \" god bless you for tolerating the peasants, \" e! online reports. But macdowell's fans sprang to her defense, sparking a fierce debate in which the star fired off dozens of tweets to both supporters and critics, reports usa today. \" i ' m very happy flying in coach i ' m happy on a bus or the subway but if i [ pay ] for first class, that's where i want to be, \" she wrote. By sunday, having apparently \" learned the hard way that tweeting a complaint doesn't always get sympathy on social media, \" she said it was time to move on, the cbc reports. ( click to read about 13 celebrities behaving badly on planes. )",
         "split": "val",
         "cleansed_document": [
             "Andie macdowell has learned the hard way that tweeting a complaint doesn't always get sympathy on social media. The 57-year-old actress, known for her roles in the films groundhog day, four weddings and a funeral and sex, lies and videotape, tweeted at american airlines on friday after getting bumped from the first-class section: \" paid for first class &amp; they put me in tourist because of my dog that i pre-booked &amp; paid for. \" actress andie macdowell didn't get much sympathy from social media after complaining on twitter she was bumped from first class and put in \" tourist. \" company shaming online can be an effective tool when customer service goes wrong, but macdowell's story didn't sit well with a lot of people who saw the post. The magic mike xxl star was bombarded with complaints directed not at the airline, but at macdowell herself",
-            "Andie macdowell was not happy when she and her dog were downgraded from first class to what she called \" tourist \" class on a recent american airlines flight. The 57-year-old four weddings and a funeral, magic mike xxl and groundhog day actress took to twitter recent to vent her frustration. \" @americanair help i paid for first class &amp; they put me in tourist because of my dog that i pre-booked &amp; paid for, \" she tweeted friday, alongside a selfie with fellow coach passengers. She doesn't look that peeved in the photo — in fact, the actress is smiling widely. Macdowell said she encountered \" the rudest person i have ever had to deal with \" while checking in for her flight in charlotte, n.c. \" i was checked 1a when i left la they told me they would reassigned me charlotte first class he did not want to help, \" she",
-            "Celebrities are not known for being patient – and they probably didn't get famous for being nice. So, not surprisingly, this list of celebrities who have been kicked off planes isn't short. No, it's a nice fat list chock full of examples of celebs going totally rogue and then getting themselves thrown off of flights ( not in mid-air, though the crew probably thought about it ), arrested in airports, and slammed in the media by those who witnessed their obnoxious behavior first-hand. Just because you're famous doesn't mean you can act like a complete a** anywhere you want. There are consequences! pity these people's handlers, trying to explain away their client's craziness. Behold, a definitive list of stars who have been thrown off of flights, thrown in the slammer, and even thrown right under the"
+            "Andie macdowell was not happy when she and her dog were downgraded from first class to what she called \" tourist \" class on a recent american airlines flight. The 57-year-old four weddings and a funeral, magic mike xxl and groundhog day actress took to twitter recent to vent her frustration. \" @americanair help i paid for first class &amp; they put me in tourist because of my dog that i pre-booked &amp; paid for, \" she tweeted friday, alongside a selfie with fellow coach passengers. She doesn't look that peeved in the photo — in fact, the actress is smiling widely. Macdowell said she encountered \" the rudest person i have ever had to deal with \" while checking in for her flight in charlotte, n.c. \" i was checked 1a when i left la they told me they would reassigned me charlotte first class he did not want to help, \" she"
         ],
         "raw_document": [
             "Andie macdowell has learned the hard way that tweeting a complaint doesn't always get sympathy on social media. The 57-year-old actress, known for her roles in the films groundhog day, four weddings and a funeral and sex, lies and videotape, tweeted at american airlines on friday after getting bumped from the first-class section: \" paid for first class &amp; they put me in tourist because of my dog that i pre-booked &amp; paid for. \" actress andie macdowell didn't get much sympathy from social media after complaining on twitter she was bumped from first class and put in \" tourist. \" company shaming online can be an effective tool when customer service goes wrong, but macdowell's story didn't sit well with a lot of people who saw the post. The magic mike xxl star was bombarded with complaints directed not at the airline, but at macdowell herself",
@@ -434,7 +430,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -484,7 +480,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -517,7 +513,7 @@
     },
     {
         "idx": 49520,
-        "document_num": 6,
+        "document_num": 5,
         "summary": "Not so fast, amazon. The tech giant's $ 13.7 billion acquisition of whole foods made headlines last week, but the los angeles times reports it may not be as done a deal as previously believed. Amazon agreed to pay $ 42 per share for the grocery chain, but those shares closed at more than $ 43 monday. That means investors expect a higher bid to come in, with one expert calling it \" highly likely. \" potential bidders include kroger, albertsons, and walmart. And while it's unlikely anyone could outbid amazon, its competitors have an obvious interest in making amazon's takeover of whole foods as financially painful for it as possible. Here's what else you need to know: vox reports an amazon-operated whole foods could be a nightmare for other grocery chains. That's because while grocery stores have tiny profit margins, amazon intentionally has essentially no profit margins at all: money that comes in is reinvested in new endeavors. Amazon could immediately cut prices at the notoriously expensive whole foods, undercutting competitors without worry for its own bottom line. Whole foods ceo john mackey says the amazon takeover started with a \" blind date \" six weeks ago. \"we just fell in love, \" the wall street journal quotes mackey as saying. \"it was truly love at first sight. \" one economist expects amazon's acquisition of whole foods to start \" a supermarket war of historic proportions, \" and cnbc reports that would lead to plummeting prices that could kill the expected rise in inflation the fed was hoping for. Bloomberg argues it's not grocery stores that should be most worried, but the companies that make the packaged goods that line their shelves. Amazon is already making its own diapers and batteries and could decimate the profit margins of consumer-goods companies by expanding that program through whole foods. Amazon could hurt packaged food companies like kellogg and campbell soup in another way, cnbc reports. Customers were already turning toward fresher food options, and the acquisition of whole foods could accelerate that process. Finally, the acquisition of whole foods would increase the net worth of amazon ceo jeff bezos by approximately $ 1.8 billion, according to upi. That would increase his wealth to $ 84.6 billion, bringing him within $ 5 billion of bill gates, the world's richest man.",
         "split": "val",
         "cleansed_document": [
@@ -525,8 +521,7 @@
             "Whole foods inc. Chief executive john mackey said amazon.com inc.'s amzn 2.08 % pursuit of the health food chain began with \"a blind date \" more than six weeks ago, a whirlwind courtship that culminated in amazon's largest acquisition by far. In a town hall meeting at whole foods ' austin, texas, headquarters on friday, the day the deal was announced, mr. Mackey and other executives applauded the \"historical moment \" for whole",
             "Amazon ceo jeff bezos has changed the way the retail world operates. He may be about to exert a similar level of pressure on the economy and expectations for future price trends at the supermarket. At a time when central banks are starting to gird against an expected rise in inflation ahead, bezos ' move to acquire whole foods looks to be a significant counterweight. Analysts expect amazon to rein in the famously high prices of the upscale grocery",
             "\" your margin is my opportunity. \" this aphorism favored by amazon founder and ceo jeff bezos is the lens through which we should evaluate amazon's intention to buy whole foods. After the announcement on friday, investors were harsh on grocery stores and big box retailers -- but it's not their margins in which amazon sees an opportunity. This modern conglomerate is not primarily going after the stores, but the products on the shelves",
-            "Founder and ceo of amazon jeff bezos ' personal wealth increased by nearly $ 2 billion after amazon's purchase of whole foods. File photo by jim ruymen/upi &#124; license photo june 19 ( upi ) -- amazon founder and ceo jeff bezos is about $ 5 billion away from becoming the world's richest man after his company purchased whole foods last week. The whole foods buy increased his wealth by $ 1.8 billion, bringing his overall",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a"
+            "Founder and ceo of amazon jeff bezos ' personal wealth increased by nearly $ 2 billion after amazon's purchase of whole foods. File photo by jim ruymen/upi &#124; license photo june 19 ( upi ) -- amazon founder and ceo jeff bezos is about $ 5 billion away from becoming the world's richest man after his company purchased whole foods last week. The whole foods buy increased his wealth by $ 1.8 billion, bringing his overall"
         ],
         "raw_document": [
             "Amazon's takeover of whole foods sent the stock of competing grocery chains plummeting. To understand why, you need to know something much simpler than amazon's far-reaching ambitions or possible vision for transformation of the grocery industry: amazon doesn't make any money. Competing with amazon is terrifying for any incumbent business because the company's executive team operates on a radical model whereby the company's overall net income is nearly zero",
@@ -549,7 +544,7 @@
             "2": 0,
             "3": 0,
             "4": 1,
-            "5": 0
+            "5": 4
         }
     },
     {
@@ -850,7 +845,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1122,12 +1117,11 @@
     },
     {
         "idx": 49542,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Online-coupon phenom groupon has tweaked its articles of incorporation to allow it to raise up to $ 950 million of new capital, reports vc experts. That financing could give the chicago-based company a post-money valuation of $ 6.4 billion, says vc experts, in excess of the $ 6 billion reportedly offered by google earlier this month. Groupon had a valuation of \" only \" $ 1.3 billion in its last capital raising round in april. Revenues at groupon for 2010 are estimated at $ 500 million. Click for one take on what groupon plans to do with all that money.",
         "split": "val",
         "cleansed_document": [
-            "Sponsored links word is bubbling up ( with a hat tip to story-breaker vcexperts ) that groupon is about to close a $ 950 million funding round that values the company at somewhere between $ 4 billion and $ 8 billion. No surprise there: after groupon ceo andrew mason decided that he didn't want to sell his company to google, he knew he'd need to raise some cash for world domination.groupon is clearly focused on precisely that goal. But since the company is already the global leader in group buying and is, according to web-tracker hitwise, growing much faster than other group-buying sites, why does groupon need so much money? and why would it take on this cash and dilute value for its existing shareholders?the answer is: i wasn't kidding about world domination. My guess is that the following will happen.first, look for groupon to make rapid acquisitions of rival group-buying shops in all shapes and sizes. This will have multiple salutary effects for the company. Buying email lists is actually pretty cheap compared to building them from scratch. Further, by taking many of its hundreds of competitors out of the market, groupon could put itself in a position to solidify pricing and make group-buying more manageable for merchants.as i wrote in a dailyfinance article last month, every restaurant owner i know is now being deluged by group-buying pitches. While groupon has said that it's not seeing any price erosion, i know some of these smaller rivals are offering much better terms -- sometimes well under the 30 % revenue split that its chief competitor, livingsocial, offers merchants and hugely under the 50 % split offered by groupon.second, groupon will rapidly staff up to increase its local sales force presence. This has been something of an achilles ' heel for groupon, and it could turn out to be a major risk as every local newspaper and tv station begins offering group-buying deals -- not to mention ratings site yelp and restaurant booking site opentable. All of those entities have solid local sales forces. Groupon does have a local presence in most of its cities, but to my knowledge, not one on par with traditional media sales operations.in reality, groupon doesn't need that much manpower, but a one-person sales team in a major",
-            "News the vc buzz current buzz: earnouts: a deal making tool in a tough economy by: seth i. Rubin, ruskin moscou faltischek, p.c add the buzz to your favorite news reader. Online now there are 261 other vc and pe professionals online with you. See what they have to say about vc experts. Subscribe today get access to everything vc experts has to offer by becoming a premium subscriber."
+            "Sponsored links word is bubbling up ( with a hat tip to story-breaker vcexperts ) that groupon is about to close a $ 950 million funding round that values the company at somewhere between $ 4 billion and $ 8 billion. No surprise there: after groupon ceo andrew mason decided that he didn't want to sell his company to google, he knew he'd need to raise some cash for world domination.groupon is clearly focused on precisely that goal. But since the company is already the global leader in group buying and is, according to web-tracker hitwise, growing much faster than other group-buying sites, why does groupon need so much money? and why would it take on this cash and dilute value for its existing shareholders?the answer is: i wasn't kidding about world domination. My guess is that the following will happen.first, look for groupon to make rapid acquisitions of rival group-buying shops in all shapes and sizes. This will have multiple salutary effects for the company. Buying email lists is actually pretty cheap compared to building them from scratch. Further, by taking many of its hundreds of competitors out of the market, groupon could put itself in a position to solidify pricing and make group-buying more manageable for merchants.as i wrote in a dailyfinance article last month, every restaurant owner i know is now being deluged by group-buying pitches. While groupon has said that it's not seeing any price erosion, i know some of these smaller rivals are offering much better terms -- sometimes well under the 30 % revenue split that its chief competitor, livingsocial, offers merchants and hugely under the 50 % split offered by groupon.second, groupon will rapidly staff up to increase its local sales force presence. This has been something of an achilles ' heel for groupon, and it could turn out to be a major risk as every local newspaper and tv station begins offering group-buying deals -- not to mention ratings site yelp and restaurant booking site opentable. All of those entities have solid local sales forces. Groupon does have a local presence in most of its cities, but to my knowledge, not one on par with traditional media sales operations.in reality, groupon doesn't need that much manpower, but a one-person sales team in a major"
         ],
         "raw_document": [
             "Sponsored links word is bubbling up ( with a hat tip to story-breaker vcexperts ) that groupon is about to close a $ 950 million funding round that values the company at somewhere between $ 4 billion and $ 8 billion. No surprise there: after groupon ceo andrew mason decided that he didn't want to sell his company to google, he knew he'd need to raise some cash for world domination.groupon is clearly focused on precisely that goal. But since the company is already the global leader in group buying and is, according to web-tracker hitwise, growing much faster than other group-buying sites, why does groupon need so much money? and why would it take on this cash and dilute value for its existing shareholders?the answer is: i wasn't kidding about world domination. My guess is that the following will happen.first, look for groupon to make rapid acquisitions of rival group-buying shops in all shapes and sizes. This will have multiple salutary effects for the company. Buying email lists is actually pretty cheap compared to building them from scratch. Further, by taking many of its hundreds of competitors out of the market, groupon could put itself in a position to solidify pricing and make group-buying more manageable for merchants.as i wrote in a dailyfinance article last month, every restaurant owner i know is now being deluged by group-buying pitches. While groupon has said that it's not seeing any price erosion, i know some of these smaller rivals are offering much better terms -- sometimes well under the 30 % revenue split that its chief competitor, livingsocial, offers merchants and hugely under the 50 % split offered by groupon.second, groupon will rapidly staff up to increase its local sales force presence. This has been something of an achilles ' heel for groupon, and it could turn out to be a major risk as every local newspaper and tv station begins offering group-buying deals -- not to mention ratings site yelp and restaurant booking site opentable. All of those entities have solid local sales forces. Groupon does have a local presence in most of its cities, but to my knowledge, not one on par with traditional media sales operations.in reality, groupon doesn't need that much manpower, but a one-person sales team in a major",
@@ -1142,7 +1136,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1277,12 +1271,11 @@
     },
     {
         "idx": 49548,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Da vinci code author dan brown is bringing back fictional code-breaker robert langdon in a new novel in may. Inferno will center on dante, taking its name from the first part of his 14th-century work, the divine comedy. Brown and doubleday announced the title today in a social media stunt done with the today show — as people tweeted or posted about it on facebook, a mosaic filled in revealing the title. It worked so well, the servers supporting the mosaic crashed temporarily, notes the wall street journal. \"although i studied dante's inferno in high school, it wasn't until recently, while researching in florence, that i came to appreciate the enduring influence of dante's work on the modern world, \" brown said in a statement. \"with this new novel, i am excited to take readers deep into this mysterious realm … a landscape of codes, symbols, and more than a few secret passageways. \"",
         "split": "val",
         "cleansed_document": [
-            "Dan brown, the bestselling author behind such books as \"the da vinci code \" and \"the lost symbol, \" revealed the title of his new novel \"inferno. \" the title of the book was revealed following an online event that encouraged readers to participate via twitter and facebook. The new novel features longtime brown protagonist robert langdon, a harvard symbologist and will be released by publisher doubleday on may 14. According to the publisher, here's the plot: \"set in the heart of europe, langdon is drawn into a harrowing world centered on one of history's most enduring and mysterious literary masterpieces. \" on the \"today \" show, brown said in a statement that the new book was inspired by dante, author of \"the divine comedy, \" an epic poem written in the 14th century that follows the author's allegorical journey through hell, purgatory, and heaven. The poem is broken up into three parts: inferno, purgatorio and paradiso.",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Dan brown, the bestselling author behind such books as \"the da vinci code \" and \"the lost symbol, \" revealed the title of his new novel \"inferno. \" the title of the book was revealed following an online event that encouraged readers to participate via twitter and facebook. The new novel features longtime brown protagonist robert langdon, a harvard symbologist and will be released by publisher doubleday on may 14. According to the publisher, here's the plot: \"set in the heart of europe, langdon is drawn into a harrowing world centered on one of history's most enduring and mysterious literary masterpieces. \" on the \"today \" show, brown said in a statement that the new book was inspired by dante, author of \"the divine comedy, \" an epic poem written in the 14th century that follows the author's allegorical journey through hell, purgatory, and heaven. The poem is broken up into three parts: inferno, purgatorio and paradiso."
         ],
         "raw_document": [
             "Dan brown, the bestselling author behind such books as \"the da vinci code \" and \"the lost symbol, \" revealed the title of his new novel \"inferno. \" the title of the book was revealed following an online event that encouraged readers to participate via twitter and facebook. The new novel features longtime brown protagonist robert langdon, a harvard symbologist and will be released by publisher doubleday on may 14. According to the publisher, here's the plot: \"set in the heart of europe, langdon is drawn into a harrowing world centered on one of history's most enduring and mysterious literary masterpieces. \" on the \"today \" show, brown said in a statement that the new book was inspired by dante, author of \"the divine comedy, \" an epic poem written in the 14th century that follows the author's allegorical journey through hell, purgatory, and heaven. The poem is broken up into three parts: inferno, purgatorio and paradiso.",
@@ -1297,7 +1290,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1330,7 +1323,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1461,7 +1454,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1591,7 +1584,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1831,12 +1824,11 @@
     },
     {
         "idx": 49569,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A tip for anyone planning to attend a tim mcgraw concert: he does not appear to like it very much if you grab his pants. Tmz obtained two videos from a sunday show in atlanta — shot from different angles — that appear to show the country singer slapping a female audience member after she ripped his jeans. But, a rep insists to e!, mcgraw didn't actually hit the fan: \" someone firmly grabbed onto his leg and wouldn't let go as he was moving through the crowd. He instinctively swatted to try and keep them from ripping his jeans ( which they succeeded at doing! ), and so he could get to more fans who were trying to slap hands with him before the end of the show. He didn't know who had grabbed him and was simply trying to keep his jeans from being torn. \"",
         "split": "val",
         "cleansed_document": [
-            "Tim mcgraw bitch slaps woman during concert ( update: new video ) tim mcgraw -- bitch slaps female fan during concert ( update: new video ) exclusive ferociously slapped a woman in the face during a concert sunday... After she appeared to aggressively rip his jeans.tmz got video of tim's concert at aaron's amphitheatre at lakewood in atlanta. You see him walk into the crowd and a sea of hands engulfs him as he sings, \" truck yeah. \" look closely... You see a woman slap tim twice... First on his knee and then she goes in a second time.tim then smacks her.tim's rep tells tmz, \" tim was singing out in the audience and someone firmly grabbed onto his leg and wouldn't let go as he was moving through the crowd.the rep says, \" he instinctively swatted to try to keep them from ripping his jeans ( which they succeeded at doing! ), and so he could get to more fans who could slap hands with him before the end of the show. \"",
-            "The seed for this crawl was a list of every host in the wayback machine this crawl was run at a level 1 ( urls including their embeds, plus the urls of all outbound links including their embeds ) the warc files associated with this crawl are not currently available to the general public."
+            "Tim mcgraw bitch slaps woman during concert ( update: new video ) tim mcgraw -- bitch slaps female fan during concert ( update: new video ) exclusive ferociously slapped a woman in the face during a concert sunday... After she appeared to aggressively rip his jeans.tmz got video of tim's concert at aaron's amphitheatre at lakewood in atlanta. You see him walk into the crowd and a sea of hands engulfs him as he sings, \" truck yeah. \" look closely... You see a woman slap tim twice... First on his knee and then she goes in a second time.tim then smacks her.tim's rep tells tmz, \" tim was singing out in the audience and someone firmly grabbed onto his leg and wouldn't let go as he was moving through the crowd.the rep says, \" he instinctively swatted to try to keep them from ripping his jeans ( which they succeeded at doing! ), and so he could get to more fans who could slap hands with him before the end of the show. \""
         ],
         "raw_document": [
             "Tim mcgraw bitch slaps woman during concert ( update: new video ) tim mcgraw -- bitch slaps female fan during concert ( update: new video ) exclusive ferociously slapped a woman in the face during a concert sunday... After she appeared to aggressively rip his jeans.tmz got video of tim's concert at aaron's amphitheatre at lakewood in atlanta. You see him walk into the crowd and a sea of hands engulfs him as he sings, \" truck yeah. \" look closely... You see a woman slap tim twice... First on his knee and then she goes in a second time.tim then smacks her.tim's rep tells tmz, \" tim was singing out in the audience and someone firmly grabbed onto his leg and wouldn't let go as he was moving through the crowd.the rep says, \" he instinctively swatted to try to keep them from ripping his jeans ( which they succeeded at doing! ), and so he could get to more fans who could slap hands with him before the end of the show. \"",
@@ -1851,7 +1843,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1904,7 +1896,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1959,12 +1951,11 @@
     },
     {
         "idx": 49574,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When we think of the iliad and the odyssey, we shouldn't give credit to a single man, says a historian: \" it's a mistake to think of homer as a person, \" historian adam nicolson tells national geographic. \" homer is an ' it. ' a tradition. An entire culture coming up with ever more refined and ever more understanding ways of telling stories that are important to it, \" adds the author of why homer matters. Modern readers want to know the story of individual writers, but \" homer has no biography, \" nicolson says. He also argues that the works may have emerged some 1,200 years before many historians say homer lived; he dates the epic poems to around 2000 bc. He supports his theory by noting that parts of homeric stories \" are shared among the indo-european world as a whole, all the way from north india through greece to germanic and icelandic stories. \" what's more, greece, in the iliad, is full of \" barbarians, \" and that description \" doesn't make sense any later than about 1800 to 1700 bc. \" the works combine the \" hero-based culture of the eurasian steppes \" with the \" sophisticated, authoritarian, and literate cities and palaces of the eastern mediterranean, \" nicolson writes, as guardian reviewer charlotte higgins notes. Meanwhile, the washington post observes that questions over homer's existence, or lack thereof, aren't new; no \" reliable historical information \" exists about the poet, terrence mccoy writes. ( shakespeare, of course, is another writer whose identity has been questioned; some have said he wasn't alone in his work. )",
         "split": "val",
         "cleansed_document": [
-            "The iliad and the odyssey are two of the key works of western civilization. But almost nothing is known about their author and the date and manner of their creation. In why homer matters, historian and award-winning author adam nicolson suggests that homer be thought of not as a person but as a tradition and that the works attributed to him go back a thousand years earlier than generally believed. Speaking from his home in england, nicolson describes how being caught in a storm at sea inspired his passion for homer, how the oral bards of the scottish hebrides may hold the key to understanding homer's works, and why smartphones are connecting us to ancient oral traditions in new and surprising ways. Your book begins with a storm at sea. About ten years ago, i set off sailing with a friend of mine. We wanted a big adventure, so we decided to",
-            "October 1816. John keats is 20, working as a surgeon's assistant at guy's. He goes to visit his friend, charles cowden clarke – who has in his rooms early folio editions of the then neglected translations of the iliad and odyssey made by george chapman ( 1559-1634 ). Keats knows homer only through pope's translation – which seemed then, as it does now, to pretty-up the raw rough power of the epics in a frill of politeness ( despite pope's insight that homer's verses \" pour along like a fire that sweeps the whole earth before it \" ). The friends spend the night plunging into chapman's verse, letting its cool, stimulating, unknowably vast expanse wash over them. Next morning, keats writes his famous sonnet \" on first looking into chapman's homer \". The night had made him feel"
+            "The iliad and the odyssey are two of the key works of western civilization. But almost nothing is known about their author and the date and manner of their creation. In why homer matters, historian and award-winning author adam nicolson suggests that homer be thought of not as a person but as a tradition and that the works attributed to him go back a thousand years earlier than generally believed. Speaking from his home in england, nicolson describes how being caught in a storm at sea inspired his passion for homer, how the oral bards of the scottish hebrides may hold the key to understanding homer's works, and why smartphones are connecting us to ancient oral traditions in new and surprising ways. Your book begins with a storm at sea. About ten years ago, i set off sailing with a friend of mine. We wanted a big adventure, so we decided to"
         ],
         "raw_document": [
             "A marble bust of the greek poet homer in a 2008 exhibition. ( georgios kefalas/ap/keystone ) nearly 200 years ago, a french painter created what would become a famous depiction of the greek author homer. In it, homer looks like a pretty big deal. In the shadows of the pantheon, he's ensconced among a throng of muscle-bound specimens draped in robes, one of whom is playing the harp. \"homer, in this view, was the product of a new, dynamic, politically inventive and culturally burgeoning moment in greek history, \" writes historian adam nicolson in a new book on homer. \"homer was the poet of a boom. \" but this image of homer, nicolson said, is inaccurate. The painting glorifies all the antiquated theories that held that homer was a blind, illiterate genius poet who singlehandedly created two of the greatest stories in human history, the",
@@ -1981,7 +1972,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2266,7 +2257,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2296,13 +2287,12 @@
     },
     {
         "idx": 49587,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Words uber would likely rather not hear in the same sentence: its name, and \" kidnapping. \" one of the ride-sharing service's california drivers was arrested monday on suspicion of kidnapping an intoxicated woman he was supposed to be driving home, ktla reports. The 26-year-old woman was bar-hopping in west hollywood sunday night, and police say that at her last stop, the greystone manor nightclub, a valet asked driver frederick dencer, 32, to drive her home. Police point out that it wasn't an \" official uber assignment \" and the woman didn't use the uber app. She was also apparently too drunk to give him her address; police say dencer \" took advantage of the situation \" and allegedly drove her to a motel, the los angeles times reports. The woman woke up at 6am monday next to a shirtless dencer, who put his hand on her and wanted to have sex, police say. La weekly adds that the woman says he \" fondled her over her clothes. \" but he let her leave, and she called police from a nearby 7-eleven. She told them she did not remember how she had gotten to the motel. Surveillance footage showed she had been practically unable to walk and that dencer carried her into the room. In its official response, uber says it's \" certainly unclear that this is an uber-related incident, \" but that passenger safety is its top priority and dencer has been suspended. He faces a charge of kidnapping for the purpose of sexual assault, and his bail was set at $ 1 million. ( earlier this year, an uber driver was sued for hitting and killing a 6-year-old. )",
         "split": "val",
         "cleansed_document": [
             "Update: no charges were filed against frederick dencer in the alleged kidnapping, a spokeswoman for the district attorney's office said wednesday. An encino man who drives for the ride-sharing company uber was arrested on suspicion of kidnapping a woman with the intention of sexually assaulting her, police said tuesday. Frederick dencer, 32, was booked monday after officers found him in a van nuys motel room, according to an lapd news release. He is accused of taking an intoxicated 26-year-old woman to the location after picking her up sunday night at a west hollywood nightclub. The woman called 911 from a panorama city convenience store after waking up next to the man, who was shirtless, and leaving the motel, the release said. She was not injured. Although dencer had at least one uber fare on sunday night, the woman did not use the mobile app to request a ride at greystone manor, located at 643 la cienega blvd., police said. Investigators believe dencer had been hanging out at the",
-            "Tue, jun 3, 2014 at 2: 48 pm click to enlarge uber.... Took advantage of the situation, and drove her to a cheap motel, which he had visited before, and carried her into the room. He slept the night in the room, and when she awoke, he let her leave, though he asked her to stay, according to the victim. Think dencer answered questions but his story didn't make sense. Once the officers watched video from the motel, they realized the victim was carried into the motel, and that didn't jive with dencer's several stories.... It looks like he made a rash decision to take advantage of a vulnerable woman, and he's not the first man to try that. The irony is, the victim was trying to be responsible by calling for a ride, but she unwittingly put herself in another vulnerable situation. Hopefully, others will learn from this, and thankfully she was not assaulted or",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Tue, jun 3, 2014 at 2: 48 pm click to enlarge uber.... Took advantage of the situation, and drove her to a cheap motel, which he had visited before, and carried her into the room. He slept the night in the room, and when she awoke, he let her leave, though he asked her to stay, according to the victim. Think dencer answered questions but his story didn't make sense. Once the officers watched video from the motel, they realized the victim was carried into the motel, and that didn't jive with dencer's several stories.... It looks like he made a rash decision to take advantage of a vulnerable woman, and he's not the first man to try that. The irony is, the victim was trying to be responsible by calling for a ride, but she unwittingly put herself in another vulnerable situation. Hopefully, others will learn from this, and thankfully she was not assaulted or"
         ],
         "raw_document": [
             "Update: no charges were filed against frederick dencer in the alleged kidnapping, a spokeswoman for the district attorney's office said wednesday. An encino man who drives for the ride-sharing company uber was arrested on suspicion of kidnapping a woman with the intention of sexually assaulting her, police said tuesday. Frederick dencer, 32, was booked monday after officers found him in a van nuys motel room, according to an lapd news release. He is accused of taking an intoxicated 26-year-old woman to the location after picking her up sunday night at a west hollywood nightclub. The woman called 911 from a panorama city convenience store after waking up next to the man, who was shirtless, and leaving the motel, the release said. She was not injured. Although dencer had at least one uber fare on sunday night, the woman did not use the mobile app to request a ride at greystone manor, located at 643 la cienega blvd., police said. Investigators believe dencer had been hanging out at the",
@@ -2319,7 +2309,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2369,7 +2359,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2402,18 +2392,17 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
         "idx": 49591,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "If louise linton hoped to avoid future criticism for her luxury lifestyle, well, better luck next year. While touring the bureau of engraving and printing in washington, dc, on wednesday, the scottish actress posed with her husband, treasury secretary steven mnuchin, while holding a sheet of new $ 1 bills. The photograph was meant to celebrate the first time the signatures of mnuchin and treasurer jovita carranza appear on the bills, which are to enter circulation next month, reports cnn money. But social media users couldn't help but interpret it as the newlyweds continuing to flaunt their wealth — even if they were holding only $ 50 — given the scandal over an instagram photo that erupted in august and saw linton likened to marie antoinette, per the washington post. The instagram photo showed the couple leaving a government jet, linton in head-to-toe designer clothes. When a user criticized the photo, linton snapped back, but later apologized for being \" condescending \" and referred to the controversy as a wake-up call. Yet this latest photo, showing linton in black gloves extending past her elbow, \" is not going to help her reputation for being ostentatious, \" notes slate, while the post describes linton as \" ( clasping ) the sheet of money the way a royal might hold her hand to be kissed. \" \" why do treasury sec mnuchin and his wife insist on posing for photos that make them look like bond villains? \" writes cnbc's christina wilkie. \" only way this could be worse would be if linton and mnuchin were lighting cigars with flaming dollar bills, \" adds writer james surowiecki, per the post. \" picking out wallpaper for the cognac-swirling room, \" andy richter captions the photo on twitter.",
         "split": "val",
         "cleansed_document": [
             "Louise linton, the wife of treasury secretary steven mnuchin, looks thrilled that her husband's signature made it onto the dollar bill. Linton and mnuchin posed with sheets of new $ 1 bills on wednesday at the bureau of engraving and printing in washington, d.c. The notes are the first to feature mnuchin's signature, along with that of u.s. Treasurer jovita carranza, and are expected to enter circulation in december. Linton was widely criticized earlier this year when she posted a photo on instagram that showed her stepping off a government plane. She flaunted her designer wardrobe by tagging the designers she was wearing, then argued with a commenter who criticized her \" getaway. \" the photo kicked off an investigation into mnuchin's use of government planes. The treasury department's inspector general ultimately found no evidence of wrongdoing, but said the trump administration had cut corners during the approval process for mnuchin's trips. On wednesday, social media lit up with jokes about the wealthy couple's photo shoot. Before he joined the trump team, mnuchin worked in finance, with stints as a goldman sachs banker and hollywood movie producer. Linton is an actress. The couple married over the summer, and they live in a d.c. Mansion. Picking out wallpaper for the cognac-swirling room pic.twitter.com/gaqp6wostd — andy richter ( @andyrichter ) november 15, 2017 you cannot parody these folks pic.twitter.com/pfdxb0qxtp — southpaw ( @nycsouthpaw ) november 15, 2017",
-            "Treasury secretary steve mnuchin and his wife, louise linton, have already gotten in hot water more than once for acting like out-of-touch snobs whose primary hobby is wasting taxpayer money on their extravagant lifestyle. ( linton went so far as to label an instagram picture of herself deboarding a government-funded private jet with the names of the numerous luxury products she's depicted wearing in it. ) helpfully, as you can see above, they have now provided the media with a perfect distillation of their public image for use if and when mnuchin is axed from the administration as a pr scapegoat after the backlash against trump's extremely rich-person-friendly tax bill reaches a fever pitch.",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Treasury secretary steve mnuchin and his wife, louise linton, have already gotten in hot water more than once for acting like out-of-touch snobs whose primary hobby is wasting taxpayer money on their extravagant lifestyle. ( linton went so far as to label an instagram picture of herself deboarding a government-funded private jet with the names of the numerous luxury products she's depicted wearing in it. ) helpfully, as you can see above, they have now provided the media with a perfect distillation of their public image for use if and when mnuchin is axed from the administration as a pr scapegoat after the backlash against trump's extremely rich-person-friendly tax bill reaches a fever pitch."
         ],
         "raw_document": [
             "Louise linton, the wife of treasury secretary steven mnuchin, looks thrilled that her husband's signature made it onto the dollar bill. Linton and mnuchin posed with sheets of new $ 1 bills on wednesday at the bureau of engraving and printing in washington, d.c. The notes are the first to feature mnuchin's signature, along with that of u.s. Treasurer jovita carranza, and are expected to enter circulation in december. Linton was widely criticized earlier this year when she posted a photo on instagram that showed her stepping off a government plane. She flaunted her designer wardrobe by tagging the designers she was wearing, then argued with a commenter who criticized her \" getaway. \" the photo kicked off an investigation into mnuchin's use of government planes. The treasury department's inspector general ultimately found no evidence of wrongdoing, but said the trump administration had cut corners during the approval process for mnuchin's trips. On wednesday, social media lit up with jokes about the wealthy couple's photo shoot. Before he joined the trump team, mnuchin worked in finance, with stints as a goldman sachs banker and hollywood movie producer. Linton is an actress. The couple married over the summer, and they live in a d.c. Mansion. Picking out wallpaper for the cognac-swirling room pic.twitter.com/gaqp6wostd — andy richter ( @andyrichter ) november 15, 2017 you cannot parody these folks pic.twitter.com/pfdxb0qxtp — southpaw ( @nycsouthpaw ) november 15, 2017",
@@ -2430,7 +2419,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2538,7 +2527,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2573,12 +2562,11 @@
     },
     {
         "idx": 49597,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Could a livestream of a street in jackson hole, wyoming, replace cat videos as the latest online time waste? probably not, but for whatever reason, thousands of viewers have been clicking on webcam footage of the town's central intersection since \"see jackson hole \" went live. While picturesque jackson hole, nestled in the grand tetons, boasts stunning views, the intersection is, well, an intersection. There are pedestrians, and cars and trucks braking at a stoplight, time notes. The chat section offers a real-time commentary on \"events \" as they happen. A red truck has been repeatedly ogled and appraised on twitter, inspiring a red truck twitter account and tweets like this one: \" too much happiness for #redtruck can't help but jump #jacksonhole. \" in an effort to boost tourism, officials in the popular mountain town set up a youtube channel six weeks ago linking to several webcams. But it was the town square on broadway that went viral this week. Is this a case of people with way too much time on their hands? one of them mused on twitter: \"theres a live feed of a town square on yt with 1400+ watching nobody knows why theyre here. \" the independent reports that the origin of the craze was likely a now-deleted post on web bulletin board 4chan that was picked up by reddit users and spread. \"at this point, many people appear to be watching as part of a collective absurdist joke, \" notes the paper. ( the world's slowest tv show is coming to netflix. )",
         "split": "val",
         "cleansed_document": [
-            "More than 2,000 people are currently watching a livestream from a webcam located at a traffic intersection in the small town of jackson hole, wyoming – and nobody knows why, least of all the viewers themselves. The live feed was set up about six weeks ago as part of a drive to draw more visitors to the town, a popular tourist retreat for outdoorsy types, at the base of the teton mountains close to teton national park. The town set up several webcams, but while the scenic vista at spring creek had just one viewer – me – at the time of writing, thousands have been tuning in to the town square crossroads since sunday, for no apparent reason. Reports suggest the surge in viewer traffic began when a user on the web bulletin board 4chan posted a link to the feed and said he would travel to jackson hole to do something in front of the camera. Users on reddit spread the now-deleted post, which got hundreds watching the video, at which point it ended up on youtube's homepage due to its growing popularity. At this point, many people appear to be watching as part of a collective absurdist joke. The fast-scrolling comments on the video consist mostly of observations as to the vehicles passing through the intersection: bus, coach, truck and so on. Perhaps it's the first american example of \"slow tv \"?",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "More than 2,000 people are currently watching a livestream from a webcam located at a traffic intersection in the small town of jackson hole, wyoming – and nobody knows why, least of all the viewers themselves. The live feed was set up about six weeks ago as part of a drive to draw more visitors to the town, a popular tourist retreat for outdoorsy types, at the base of the teton mountains close to teton national park. The town set up several webcams, but while the scenic vista at spring creek had just one viewer – me – at the time of writing, thousands have been tuning in to the town square crossroads since sunday, for no apparent reason. Reports suggest the surge in viewer traffic began when a user on the web bulletin board 4chan posted a link to the feed and said he would travel to jackson hole to do something in front of the camera. Users on reddit spread the now-deleted post, which got hundreds watching the video, at which point it ended up on youtube's homepage due to its growing popularity. At this point, many people appear to be watching as part of a collective absurdist joke. The fast-scrolling comments on the video consist mostly of observations as to the vehicles passing through the intersection: bus, coach, truck and so on. Perhaps it's the first american example of \"slow tv \"?"
         ],
         "raw_document": [
             "More than 2,000 people are currently watching a livestream from a webcam located at a traffic intersection in the small town of jackson hole, wyoming – and nobody knows why, least of all the viewers themselves. The live feed was set up about six weeks ago as part of a drive to draw more visitors to the town, a popular tourist retreat for outdoorsy types, at the base of the teton mountains close to teton national park. The town set up several webcams, but while the scenic vista at spring creek had just one viewer – me – at the time of writing, thousands have been tuning in to the town square crossroads since sunday, for no apparent reason. Reports suggest the surge in viewer traffic began when a user on the web bulletin board 4chan posted a link to the feed and said he would travel to jackson hole to do something in front of the camera. Users on reddit spread the now-deleted post, which got hundreds watching the video, at which point it ended up on youtube's homepage due to its growing popularity. At this point, many people appear to be watching as part of a collective absurdist joke. The fast-scrolling comments on the video consist mostly of observations as to the vehicles passing through the intersection: bus, coach, truck and so on. Perhaps it's the first american example of \"slow tv \"?",
@@ -2593,18 +2581,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 49598,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The komodo dragon is the only known creature on the planet today to boast teeth that are serrated, like a jagged-edged steak knife. But now researchers have discovered that the mighty t. Rex not only sported serrated teeth, but also secret folds hidden toward the bottom of those teeth that both increased the size and strength of the serration and allowed the beast to shred the flesh of its prey, reports the washington post. \" this means that teeth could last longer in the jaw, preventing gaps from occurring in the tooth row while a new tooth is developing, allowing for a more efficient bite when piercing through the flesh of its meal, \" says the lead author of the study, which appears this week in the journal scientific reports. Her team investigated the teeth of theropods, a group of primarily carnivorous and bipedal dinosaurs like t. Rex and velociraptor, to sort out why they were cracked at the bottom. It turns out the mysterious structures were deep folds that helped the mighty beasts tear apart their prey. ( previous theories suggested these structures were signs of wear and tear. ) \" the structure is actually in all theropods, and it's not actually a crack, \" the lead researcher tells livescience. \" it's really cool that such a small, little change in the tooth structure, a small arrangement of the dental tissues, could completely change the ways these animals are living. \" ( as if the teeth weren't enough, the t. Rex's bite was likely the equivalent of this huge animal sitting on you. )",
         "split": "val",
         "cleansed_document": [
             "An illustration of a gorgosaurus using its serrated teeth to rip apart its meal, a young corythosaurus in alberta, 75 million years ago. Secret structures hidden within the serrated teeth of tyrannosaurus rex and other theropods helped the fearsome dinosaurs tear apart their prey without chipping their pearly whites, a new study finds. Researchers looked at the teeth of theropods — a group of bipedal, largely carnivorous dinosaurs that includes t. Rex and velociraptor — to study the mysterious structures that looked like cracks within each tooth. The investigation showed that these structures weren't cracks at all, but deep folds within the tooth that strengthened each individual serration and helped prevent breakage when the dinosaur pierced through its prey, said study lead researcher kirstin brink, a postdoctoral researcher of biology at the university of toronto mississauga. [ image gallery: the life of t. Rex ] the new study upends one from the",
-            "Gorgosaurus -- one of the t. Rex relatives studied -- is shown using its specialized teeth for feeding on a young corythosaurus in alberta, canada, 75 million years ago. ( danielle dufault ) as if tyrannosaurus rex needed to get any cooler, new research suggests that the famous dinosaur had teeth that were serrated like a steak knife. These days, just one living terrestrial animal can boast such a magnificent mouth -- the komodo dragon. But according to the new research published tuesday in scientific reports, t. Rex teeth stood in a class of their own. While lots of other dinosaurs ( and the living komodo dragon ) had teeth that seem similar to those in the jaw of a t. Rex, researchers found that they were only superficially related. [ dinosaurs aren't really extinct ] the teeth of t. Rex and its close relatives, it seems, were formed by a",
-            "Erupted teeth erupted homodont maxillary teeth ( fig. 1a ) show a level of tissue organization in the serrated cutting edge that is common to archosaurs. Deep folds are present in the dentine at the base of each externally visible interdental sulcus, reminiscent of the dentine folds present in teeth with tightly-folded plicidentine17, effectively increasing the size of the individual denticles inside the tooth on both the mesial and distal carinae ( fig. 1 ). The denticles in all theropod teeth have similarly sized denticle bases along the length of the carina that are tightly apposed ( fig. 1 ), but denticle sizes vary in ziphodont teeth in taxa that lack deep folds ( fig. 2 ). Figure 1: microanatomy of ziphodont archosaur teeth with deep interdental folds. ( a ) skull of gorgosaurus libratus, a tyrannosaurid dinosaur, drawn by danielle dufault. ( b ) complete tooth ( rom 31535 )"
+            "Gorgosaurus -- one of the t. Rex relatives studied -- is shown using its specialized teeth for feeding on a young corythosaurus in alberta, canada, 75 million years ago. ( danielle dufault ) as if tyrannosaurus rex needed to get any cooler, new research suggests that the famous dinosaur had teeth that were serrated like a steak knife. These days, just one living terrestrial animal can boast such a magnificent mouth -- the komodo dragon. But according to the new research published tuesday in scientific reports, t. Rex teeth stood in a class of their own. While lots of other dinosaurs ( and the living komodo dragon ) had teeth that seem similar to those in the jaw of a t. Rex, researchers found that they were only superficially related. [ dinosaurs aren't really extinct ] the teeth of t. Rex and its close relatives, it seems, were formed by a"
         ],
         "raw_document": [
             "An illustration of a gorgosaurus using its serrated teeth to rip apart its meal, a young corythosaurus in alberta, 75 million years ago. Secret structures hidden within the serrated teeth of tyrannosaurus rex and other theropods helped the fearsome dinosaurs tear apart their prey without chipping their pearly whites, a new study finds. Researchers looked at the teeth of theropods — a group of bipedal, largely carnivorous dinosaurs that includes t. Rex and velociraptor — to study the mysterious structures that looked like cracks within each tooth. The investigation showed that these structures weren't cracks at all, but deep folds within the tooth that strengthened each individual serration and helped prevent breakage when the dinosaur pierced through its prey, said study lead researcher kirstin brink, a postdoctoral researcher of biology at the university of toronto mississauga. [ image gallery: the life of t. Rex ] the new study upends one from the",
@@ -2621,19 +2608,18 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 49599,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Witnesses for the defense are again taking the stand after a 17-day break in oscar pistorius ' murder trial. Pointing to scheduling conflicts, prosecutor gerrie nel called for the break; judge thokozile masipa supported the idea given the lengthy trial, nbc news reports. It was originally supposed to take just three weeks. What's next for the trial, in what the ap calls \" a critical phase \": defense lawyer barry roux has said he ' ll call witnesses to testify that pistorius, when stressed, screams like a woman, eyewitness news reports. That's important because neighbors said they heard male and female voices shouting before gunshots rang out; the defense is arguing that the screams were all pistorius '. An ex-girlfriend, however, testified that he \" screams like a man \" — a sound she was quite familiar with, given that he screamed at her often. The first person to testify today, neighbor johan stander, says pistorius \" was broken \" after he shot girlfriend reeva steenkamp, the bbc reports. Stander was the first call pistorius made after the shooting; he quoted pistorius as saying, \" i shot reeva. I thought she was an intruder. Please come quick. \" \" i saw the truth that morning and i feel it, \" stander said. \" he was desperate to save her ( and ) prayed to god. \" the defense may call up to 17 witnesses. One, a psychologist, is expected to testify regarding pistorius'sense of vulnerability. Despite questions over contradictory statements from pistorius, he should be found not guilty if his team can show that steenkamp's death was a mistake, experts tell the ap. The new testimony follows a columnist's allegation that pistorius took acting classes to prepare for the trial.",
         "split": "val",
         "cleansed_document": [
             "Media caption oscar pistorius day 25 in 60 seconds south african athlete oscar pistorius \" was broken \" after shooting his girlfriend, his neighbour has said, as the murder trial resumed after a two-week break. Johan stander was the first person the athlete called after shooting reeva steenkamp on valentine's day last year. The south african olympic sprinter denies intentionally killing her. He says he shot through a toilet door while in a state of panic, fearing there was an intruder in his house. The trial resumed after an easter break. At-the-scene today we heard from the first people oscar pistorius entrusted with the chilling confession that he had just shot his girlfriend reeva steenkamp. Johan stander and his daughter carice arrived at he pistorius house, minutes after the shooting. Both seemed distraught on the stand as they testified",
             "The sensational trial of olympian oscar \" blade runner \" pistorius — charged with premeditated murder for killing his girlfriend with four shots fired through his bathroom door on valentine's day of last year — resumed on monday after a 17-day hiatus. Following weeks of drama fit for the big screen — which was broadcast on small screens in south africa and around the world — chief prosecutor gerrie nel called for a break, citing schedule conflicts. Judge thokozile masipa approved because the case was dragging on longer than she had expected. Play facebook twitter embed oscar pistorius friend testifies as trial resumes 3: 09 the defense is picking back up with the first person pistorius called after the shooting, neighbor johan stander, on monday. Here's a refresher of what has already developed since the beginning of the trial on",
-            "Pretoria, south africa ( ap ) — oscar pistorius ' murder trial enters a critical phase monday as his defense team attempts to recover from a faltering start and reinforce the disabled athlete's claim that he fatally shot girlfriend reeva steenkamp by mistake because he was overwhelmed by a long-held fear of violent crime. File: in this friday april 11, 2014 file photo, oscar pistorius puts on his jacket as he arrives at the high court in pretoria, south africa. The murder trial of pistorius is expected to enter a critical... ( associated press ) file: in this monday, april 14, 2014 file photo, oscar pistorius leaves the high court in pretoria, south africa. The murder trial of pistorius is expected to enter a critical phase of testimony monday... ( associated press ) file:",
-            "Expert testimony to lead pistorius trial the trial will resume on 5 may after a two week adjournment. Oscar pistorius, oscar pistorius murder trial, oscar pistorius trial, oscar pistorius in court, barry roux, gerrie nel local"
+            "Pretoria, south africa ( ap ) — oscar pistorius ' murder trial enters a critical phase monday as his defense team attempts to recover from a faltering start and reinforce the disabled athlete's claim that he fatally shot girlfriend reeva steenkamp by mistake because he was overwhelmed by a long-held fear of violent crime. File: in this friday april 11, 2014 file photo, oscar pistorius puts on his jacket as he arrives at the high court in pretoria, south africa. The murder trial of pistorius is expected to enter a critical... ( associated press ) file: in this monday, april 14, 2014 file photo, oscar pistorius leaves the high court in pretoria, south africa. The murder trial of pistorius is expected to enter a critical phase of testimony monday... ( associated press ) file:"
         ],
         "raw_document": [
             "Media caption oscar pistorius day 25 in 60 seconds south african athlete oscar pistorius \" was broken \" after shooting his girlfriend, his neighbour has said, as the murder trial resumed after a two-week break. Johan stander was the first person the athlete called after shooting reeva steenkamp on valentine's day last year. The south african olympic sprinter denies intentionally killing her. He says he shot through a toilet door while in a state of panic, fearing there was an intruder in his house. The trial resumed after an easter break. At-the-scene today we heard from the first people oscar pistorius entrusted with the chilling confession that he had just shot his girlfriend reeva steenkamp. Johan stander and his daughter carice arrived at he pistorius house, minutes after the shooting. Both seemed distraught on the stand as they testified",
@@ -2652,7 +2638,7 @@
             "0": 1,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     }
 ]

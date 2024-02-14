@@ -68,14 +68,13 @@
     },
     {
         "idx": 25102,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "For a guy who stashed a treasure chest full of gold and jewels believed to be worth around $ 2 million and gave cryptic clues to its location, forrest fenn sounds almost surprised by the level of public interest. The treasure hunt is \" out of control, \" the 84-year-old author and retired art dealer tells koat, predicting that 50,000 people from all over the world will join the hunt this summer. Fenn, whose clues were presented in a poem, says he buried the treasure five years ago and nobody has found it yet, although a few have come as close as 200 feet from the spot, which he says is wet and is higher than 5,000 feet above sea level. Most of the searchers have been looking in new mexico — where the state tourist board calls the search \" the gift that keeps on giving, \" per krqe — but fenn says people are also looking in montana and wyoming. What they're precisely hunting for: a 10-inch-by-10-inch box that fenn says holds 265 gold coins ( including american eagles and double eagles ) and gold nuggets, plus \" lots of rubies, emeralds, sapphires, and diamonds and other things. \" the former fighter pilot says he came up with the idea after he was diagnosed with what was thought to be terminal cancer back in 1988, abc news reports, and for him, the hunt's goal has already been achieved. \" i wanted the monetary value to be a consideration for those who are looking for it, but mostly my motive was to get kids off the couch and away from their texting machines and out in the mountains, \" he tells koat. \" i would love if somebody found it tomorrow. But if nobody found it for 100 years, that's ok with me, too. \" ( one searcher had to be rescued from below-freezing temperatures in the mountains. )",
         "split": "train",
         "cleansed_document": [
             "Fenn has said, and i believe, that in order to find his hidden treasure, all you need is a copy of the poem he's written. The poem consists of 6 stanzas, and each stanza has four lines, like this: as i have gone alone in there and with my treasures bold, i can keep my secret where, and hint of riches new and old. Begin it where warm waters halt and take it in the canyon down, not far, but too far to walk. Put in below the home of brown. From there it's no place for the meek, the end is ever drawing nigh;",
             "Related coverage treasure hunt event comes to new mexico santa fe ( krqe ) – collector and author forrest fenn has released a new nugget of information about where he hid a treasure chest containing gold and jewels in a video produced by the new mexico tourism department. In the new mexico true story video, posted online wednesday, fenn said the \"treasure chest is wet. \" story continues below: the lure of fenn's treasure, with an estimated worth of more than $ 2 million, has drawn many seekers to new mexico. The santa fe resident alluded to the treasure in a poem in his self-published memoir \"the thrill of the chase. \" in another book,",
-            "More than five years ago, art collector and author forrest fenn decided to hide a treasure chest in the rocky mountains. Since then, he says tens of thousands of people have tried to find it. The 84-year old millionaire, who lives in santa fe, new mexico, left clues in his book, \"the thrill of the chase \" -- but so far, no one has been successful. \" i think it's out of control, \" fenn told abc albuquerque affiliate koat, estimating that 30,000 people looked for the treasure last summer and that 50,000 may look for the treasure this summer. Fenn has never revealed the value of the treasure chest",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "More than five years ago, art collector and author forrest fenn decided to hide a treasure chest in the rocky mountains. Since then, he says tens of thousands of people have tried to find it. The 84-year old millionaire, who lives in santa fe, new mexico, left clues in his book, \"the thrill of the chase \" -- but so far, no one has been successful. \" i think it's out of control, \" fenn told abc albuquerque affiliate koat, estimating that 30,000 people looked for the treasure last summer and that 50,000 may look for the treasure this summer. Fenn has never revealed the value of the treasure chest"
         ],
         "raw_document": [
             "Fenn has said, and i believe, that in order to find his hidden treasure, all you need is a copy of the poem he's written. The poem consists of 6 stanzas, and each stanza has four lines, like this: as i have gone alone in there and with my treasures bold, i can keep my secret where, and hint of riches new and old. Begin it where warm waters halt and take it in the canyon down, not far, but too far to walk. Put in below the home of brown. From there it's no place for the meek, the end is ever drawing nigh;",
@@ -94,7 +93,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -188,12 +187,11 @@
     },
     {
         "idx": 25106,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "In an attempt to appease the tens of millions of angry customers who were affected by the days-long blackberry outage last week, research in motion is handing out $ 100 worth of free premium apps starting wednesday. \" we've worked hard to earn [ customers ' ] trust over the past 12 years and we're committed to providing the high standard of reliability they expect, \" says the company's co-ceo in a statement. \"we are taking immediate and aggressive steps to help prevent something like this from happening again. \" but the expensive solution may not be enough to earn back the trust of corporate customers, reuters notes. In addition to the free apps, enterprise customers will get a free month of technical support. Some mobile operators will also compensate their customers, though they might push rim to foot the bill. Rim's move is a smart one, says one analyst, because it will \"attract users to the app world \" and could ultimately result in more downloads. But another analyst notes that even this swift response \"won't undo the damage done to its reputation. \" engadget reports that 12 apps are included in the package, with more to come. So far, the apps include sims 3, bejeweled, ispeech translator pro, texas hold ' em poker 2, and shazam.",
         "split": "train",
         "cleansed_document": [
-            "Show full pr text research in motion offers free premium apps to customers following service interruptions waterloo, on - research in motion ( rim ) ( nasdaq: rimm; tsx: rim ) announced today that a selection of premium apps worth a total value of more than us $ 100 will be offered free of charge to subscribers as an expression of appreciation for their patience during the recent service disruptions. The apps will be made available to customers over the coming weeks on blackberry ® app world™ and will continue to be available until december 31, 2011. * \" our global network supports the communications needs of more than 70 million customers, \" said rim co-ceo mike lazaridis. \" we truly appreciate and value our relationship with our customers. We've worked hard to earn their trust over the past 12 years, and we're committed to providing the high standard of reliability they expect, today and in the future. \" the complete selection of premium apps will become available to download at blackberry app world over a period of four weeks beginning wednesday, october 19th. The selections over this period will include the following ( with more to come ): sims 3 - electronic arts bejeweled - electronic arts n.o.v.a. - gameloft texas hold ' em poker 2 - gameloft bubble bash 2 - gameloft photo editor ultimate - ice",
-            "Toronto ( reuters ) - an offer of free games, translation software or other apps to compensate blackberry users for last week's prolonged outage left research in motion investors cool on monday, and the shares fell 6 percent. Rim declined to say if it would need to amend its earnings forecasts to account for the cost of its promise to give $ 100 of free apps to every blackberry smartphone user. Rim is also offering a period of free technical support to businesses that use the gadget, which has steadily lost market share to apple's sleeker, sexier iphone. Rim's stock has dropped 60 percent over the past year. \" rim has responded swiftly but this won't undo the damage done to its reputation, \" analyst geoff blaber at ccs insight told reuters earlier on monday. \" this may go some way to appeasing customers but what's critical is that the problem does not repeat itself. \" highlighting the challenges, apple said it sold 4 million of its new iphone 4s in the three days after its launch last week. Tens of millions of blackberry users were left without mobile email and other messaging for up to four days last week after a failure at a rim data center in england triggered a service disruption across five continents. Developers conference rim may reveal more about its strategy"
+            "Show full pr text research in motion offers free premium apps to customers following service interruptions waterloo, on - research in motion ( rim ) ( nasdaq: rimm; tsx: rim ) announced today that a selection of premium apps worth a total value of more than us $ 100 will be offered free of charge to subscribers as an expression of appreciation for their patience during the recent service disruptions. The apps will be made available to customers over the coming weeks on blackberry ® app world™ and will continue to be available until december 31, 2011. * \" our global network supports the communications needs of more than 70 million customers, \" said rim co-ceo mike lazaridis. \" we truly appreciate and value our relationship with our customers. We've worked hard to earn their trust over the past 12 years, and we're committed to providing the high standard of reliability they expect, today and in the future. \" the complete selection of premium apps will become available to download at blackberry app world over a period of four weeks beginning wednesday, october 19th. The selections over this period will include the following ( with more to come ): sims 3 - electronic arts bejeweled - electronic arts n.o.v.a. - gameloft texas hold ' em poker 2 - gameloft bubble bash 2 - gameloft photo editor ultimate - ice"
         ],
         "raw_document": [
             "Show full pr text research in motion offers free premium apps to customers following service interruptions waterloo, on - research in motion ( rim ) ( nasdaq: rimm; tsx: rim ) announced today that a selection of premium apps worth a total value of more than us $ 100 will be offered free of charge to subscribers as an expression of appreciation for their patience during the recent service disruptions. The apps will be made available to customers over the coming weeks on blackberry ® app world™ and will continue to be available until december 31, 2011. * \" our global network supports the communications needs of more than 70 million customers, \" said rim co-ceo mike lazaridis. \" we truly appreciate and value our relationship with our customers. We've worked hard to earn their trust over the past 12 years, and we're committed to providing the high standard of reliability they expect, today and in the future. \" the complete selection of premium apps will become available to download at blackberry app world over a period of four weeks beginning wednesday, october 19th. The selections over this period will include the following ( with more to come ): sims 3 - electronic arts bejeweled - electronic arts n.o.v.a. - gameloft texas hold ' em poker 2 - gameloft bubble bash 2 - gameloft photo editor ultimate - ice",
@@ -208,7 +206,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -399,7 +397,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -480,17 +478,16 @@
             "0": 0,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 25117,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Five michigan teens are facing life in prison after allegedly throwing a 6-pound rock off an overpass oct. 18, killing a passenger in a van below. It wasn't anything new for the teens, genesee county sheriff robert pickell now tells people. \"there's a continuing behavior, \" pickell says. \"these [ aren't ] pranks. They're deliberate, intentional actions that knowingly could hurt people. \" he says the teens threw a tire, chair, shopping cart, and other objects off various local overpasses in the month leading up to the death of 32-year-old keith white. On the day white was killed, pickell says the teens threw more than a dozen rocks, damaging multiple vehicles. He says they went to mcdonald's after hitting the van in which white was a passenger. Kyle anger, 17; alex miller, 15; mark sekelsky, 16; mikaydyn payne, 16; and trevor gray, 15, are being charged as adults with second-degree murder and more. They pleaded not guilty on thursday. The situation has been shocking for the teens ' hometown because, as one person puts it, \" nothing really happens in clio, \" mlive reports. \" this is an extremely difficult time for our entire community, \" the clio areas schools superintendent says. \" many of us have a personal connection with this senseless tragedy. \" both of anger's parents ran for the school board last year and sekelsky's mother actually won a seat. \" it is sad because kids trying to have fun ruined their own lives and ruined the lives of other people, \" a neighbor says.",
         "split": "train",
         "cleansed_document": [
-            "The five teenagers accused of killing a michigan man by allegedly throwing a rock from an overpass had allegedly thrown items from overpasses multiple times before the fatal incident, genesee county sheriff robert pickell tells people. \"there's a continuing behavior, \" pickell alleges. \"these [ aren't ] pranks. They're deliberate, intentional actions that knowingly could hurt people. \" kyle anger, 17, alex miller, 15, mark sekelsky, 16, mikaydyn payne, 16, and trevor gray, 15, have been charged as adults with second-degree murder, conspiracy to commit second-degree murder and malicious destruction of property. On oct. 18, kenneth andrew white, 32, was hit by a rock allegedly thrown by the teens while he was in the passenger seat of a vehicle. Kyle anger the teens allegedly threw more than a dozen rocks, striking multiple moving vehicles, including a van in which white was riding. After the vehicle was hit, pickell says, the teens went to a local mcdonald's. Alex miller according to pickel, in previous weeks, the teens allegedly threw items like a tire, a chair and a shopping cart in other incidents. Mark sekelsky \"in the last 30 days there were a number of incidents on all of the [ local ] overpasses and one in saginaw, which happened within",
-            "Update: clio students, staff raise $ 1,500 for family of victim of deadly rock-throwing vienna twp., mi - the bonds are strong in the clio school district. Mustang pride signs, decked out in the school's orange and black colors, are staked into yards and the names of players on the football team are displayed by families. Children and parents in neighborhoods become friends, attending school and church together, graduation parties and funerals. But a tear has appeared in the community's tight-knit fabric after five teenagers from the area were allegedly involved in the throwing of six-pound rock that ended the life of a mt. Morris man and left the area's residents asking why. Kenneth alexander white died after a rock was dropped oct. 18 from the dodge road overpass onto southbound interstate 75, crashing through the windshield of a vehicle he was riding in. He later died at a local hospital. Kyle anger, 17; 16-year-olds mark sekelsky and mikadyn payne; and 15-year-olds alexzander miller and trevor gray; were charged this week on charges of second-degree murder, conspiracy to commit second-degree murder, malicious destruction of property and other felony and misdemeanor charges in connection to white's death. Judge denies bail for 5 teens in deadly i-75 rock-throwing incident addresses for the suspects reveal tree-lined rural streets and a modest subdivision in"
+            "The five teenagers accused of killing a michigan man by allegedly throwing a rock from an overpass had allegedly thrown items from overpasses multiple times before the fatal incident, genesee county sheriff robert pickell tells people. \"there's a continuing behavior, \" pickell alleges. \"these [ aren't ] pranks. They're deliberate, intentional actions that knowingly could hurt people. \" kyle anger, 17, alex miller, 15, mark sekelsky, 16, mikaydyn payne, 16, and trevor gray, 15, have been charged as adults with second-degree murder, conspiracy to commit second-degree murder and malicious destruction of property. On oct. 18, kenneth andrew white, 32, was hit by a rock allegedly thrown by the teens while he was in the passenger seat of a vehicle. Kyle anger the teens allegedly threw more than a dozen rocks, striking multiple moving vehicles, including a van in which white was riding. After the vehicle was hit, pickell says, the teens went to a local mcdonald's. Alex miller according to pickel, in previous weeks, the teens allegedly threw items like a tire, a chair and a shopping cart in other incidents. Mark sekelsky \"in the last 30 days there were a number of incidents on all of the [ local ] overpasses and one in saginaw, which happened within"
         ],
         "raw_document": [
             "The five teenagers accused of killing a michigan man by allegedly throwing a rock from an overpass had allegedly thrown items from overpasses multiple times before the fatal incident, genesee county sheriff robert pickell tells people. \"there's a continuing behavior, \" pickell alleges. \"these [ aren't ] pranks. They're deliberate, intentional actions that knowingly could hurt people. \" kyle anger, 17, alex miller, 15, mark sekelsky, 16, mikaydyn payne, 16, and trevor gray, 15, have been charged as adults with second-degree murder, conspiracy to commit second-degree murder and malicious destruction of property. On oct. 18, kenneth andrew white, 32, was hit by a rock allegedly thrown by the teens while he was in the passenger seat of a vehicle. Kyle anger the teens allegedly threw more than a dozen rocks, striking multiple moving vehicles, including a van in which white was riding. After the vehicle was hit, pickell says, the teens went to a local mcdonald's. Alex miller according to pickel, in previous weeks, the teens allegedly threw items like a tire, a chair and a shopping cart in other incidents. Mark sekelsky \"in the last 30 days there were a number of incidents on all of the [ local ] overpasses and one in saginaw, which happened within",
@@ -505,7 +502,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -533,7 +530,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -614,7 +611,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -672,14 +669,13 @@
     },
     {
         "idx": 25124,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Fire officials found robert wylie banging on the door of the fire department, holding his 13-year-old son's unconscious body. But the doses of narcan they administered couldn't save the teen. Nathan wylie died of a suspected heroin overdose on saturday, four days after he was taken to a dayton, ohio, hospital, reports the dayton daily news. Officials say nathan had access to drugs because his father is an addict. Wylie had already been arrested for child endangerment after another minor who lived at wylie's home sent a relative a photo of white powder, a razor blade, and a crack pipe in the home in feb. 2016, police say. He was later arrested for drug possession after he was found with heroin and crack cocaine during a traffic stop in december, with nathan in the backseat, police say, per cbs news. It isn't clear why nathan remained at the residence. A rep for montgomery county children services tells the daily news only that there was \" a case open with this family \" and that nathan's sibling was removed from the home following nathan's death. After nathan was taken to the hospital — a witness told officials wylie \" was on drugs and the boy got into his stuff, \" per wxix — wylie was again arrested on suspicion of child endangerment. The 40-year-old was released in that case on thursday. However, he remains in montgomery county jail in relation to the december case. Wylie's live-in girlfriend, tina davis — who was previously charged in the february case — faces new charges of drunk driving and drug possession after an arrest on sunday. ( kids found their parents dead of an overdose. )",
         "split": "train",
         "cleansed_document": [
             "Dayton, ohio -- a 13-year-old ohio boy died of a suspected heroin overdose, and his father has been jailed in a previous drug-related case, according to authorities. Nathan wylie's father and a co-worker frantically carried the unconscious boy on march 28 from a mechanic's lot to a fire station next door, cbs dayton affiliate whio reports. They indicated that nathan got into his father's drugs. A police report said medics administered four milligrams of narcan without any response before nathan was taken to a hospital because he was not breathing. The boy died saturday at a hospital. Police said monday they were interviewing witnesses to determine exactly what kind of drugs the boy accessed and how. \"we don't know what kind of drugs, \" dayton police lt. Andrew booher said. \"we '",
             "The father and another man took the unconscious boy to the fire department thursday. A witness told a medic that the boy's father \" was on drugs and the boy got into his stuff, \" the police report reads.",
-            "Dayton police previously found drug paraphernalia in the home of 13-year-old nathan wylie, the boy who died saturday of a suspected heroin overdose. The montgomery county coroner's office said nathan died at 11: 56 a.m. April 1. Police reports indicate that in february 2016, another minor child who then lived in wylie's valley street home sent a relative a photo of a plastic bag of white powder and a razor blade sitting on a plate. The photo made its way to law enforcement. \"the razor had white residue on the razor's edge, \" the feb. 8, 2016 report said, later adding that montgomery county children services was contacted. \"next to the plate was a metal crack pipe with a burnt end along with a cut straw. \" related: father arrested after 13-year-old overdoses the boy",
-            "The girlfriend of the man whose 13-year-old son died of a suspected heroin overdose from his father's stash received a break in court, according to dayton municipal court records. Tina m. Davis, 37, tested positive for drugs and violated her probation from a 2016 child endangerment case but only served about a month of a six-month sentence imposed because a judge wrote that it was in the \"interests of justice. \" davis is the girlfriend of robert wylie, 40, whose son nathan died saturday at dayton children's hospital from an overdose, according to police reports. Related: police saw prior drug use in house of 13-year-old who died from overdose a montgomery county children services spokesman said case files are confidential, but that the agency was referred to wylie's valley street address. \"we have had a"
+            "Dayton police previously found drug paraphernalia in the home of 13-year-old nathan wylie, the boy who died saturday of a suspected heroin overdose. The montgomery county coroner's office said nathan died at 11: 56 a.m. April 1. Police reports indicate that in february 2016, another minor child who then lived in wylie's valley street home sent a relative a photo of a plastic bag of white powder and a razor blade sitting on a plate. The photo made its way to law enforcement. \"the razor had white residue on the razor's edge, \" the feb. 8, 2016 report said, later adding that montgomery county children services was contacted. \"next to the plate was a metal crack pipe with a burnt end along with a cut straw. \" related: father arrested after 13-year-old overdoses the boy"
         ],
         "raw_document": [
             "Dayton, ohio -- a 13-year-old ohio boy died of a suspected heroin overdose, and his father has been jailed in a previous drug-related case, according to authorities. Nathan wylie's father and a co-worker frantically carried the unconscious boy on march 28 from a mechanic's lot to a fire station next door, cbs dayton affiliate whio reports. They indicated that nathan got into his father's drugs. A police report said medics administered four milligrams of narcan without any response before nathan was taken to a hospital because he was not breathing. The boy died saturday at a hospital. Police said monday they were interviewing witnesses to determine exactly what kind of drugs the boy accessed and how. \"we don't know what kind of drugs, \" dayton police lt. Andrew booher said. \"we '",
@@ -698,7 +694,7 @@
             "0": 0,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -726,7 +722,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -751,17 +747,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 25127,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "With elections 15 months away at a minimum and the ruling military junta cracking down hard on dissent, thais opposed to the military coup are getting creative. Public gatherings of more than five people are banned and protesting the military takeover is now a crime, but flash mobs of dozens of people have been springing up around bangkok, flashing a three-fingered salute inspired by the hunger games series before melting into crowds, global post finds. But even this form of protest has its risks: one woman who gave the salute was seen being hauled screaming into a taxi by people presumed to be plainclothes undercover police, and the ap reports the country's military leaders say they will arrest those in large groups who ignore warnings to lower their arms. Asked what the symbol meant, protesters have given varying explanations. Some say it stands for the french revolution's trinity of values: liberty, equality, fraternity. Others say it means freedom, election, and democracy. Meanwhile, dissidents have also started gathering in small groups to read 1984 and other dystopian novels in public. \" my friends told me when they read 1984 for the first time they could never imagine there would be a country like that, but it's happening now in thailand, \" one activist tells the christian science monitor. \" people are really watching you, your computers are being monitored … and many people have been detained in undisclosed locations. \" mcdonald's, meanwhile, isn't happy about how activists have started using its golden arches logo to form the \" m \" in \" democracy \" on protest signs, time reports. The company says protesters must \" cease and refrain \" using its logo or face \" appropriate measures. \"",
         "split": "train",
         "cleansed_document": [
-            "Bangkok, thailand — they materialize suddenly, by the dozens, raising a three-finger salute toward the sky. Then they vanish as quickly as they appear, melting into crowds to evade scores of armed troops and police. They are bangkok's anti-coup flash mobs. Under thailand's new military junta, which seized power from an elected government in late may, protesting the armed takeover is a crime. Those daring enough to defy the coup have been reduced to cat-and-mouse games — swift public demonstrations designed to evaporate before police or soldiers can haul off offenders. The flash mobs'three-finger salute is inspired by the hunger games, the popular science-fiction series depicting a futuristic totalitarian regime. In the hunger games series, dissent toward a cruel dictatorship is signaled by raising three fingers; in bangkok, the salute draws an unflattering comparison to the real-life junta that just seized power. As in the hunger games, flashing the signal carries risks. Cops and soldiers, which are now heavily deployed throughout the thai capital, dispersed small crowds raising the salute around a downtown shopping mall on sunday. The salute emerged after anti-coup protesters were previously nabbed for nothing more than raising sheets of paper printed up with anti-coup slogans. Adopting the salute as a resistance symbol has tactical perks. Making paper signs creates evidence. Making hand signs does not. The three-finger gesture carries significance beyond the world of fiction. It is also said to represent the french revolutionary slogan, \"liberty, equality, fraternity. \" but these",
-            "Thai-army soldiers stand guard outside a mcdonalds outlet ahead of a planned gathering in bangkok on may 25, 2014. Thai-army soldiers stand guard outside a mcdonalds outlet ahead of a planned gathering in bangkok on may 25, 2014. Manan vatsyayana — afp/getty images mcdonald's has warned thailand's anti-coup protesters to \" cease and refrain \" from copying its logo onto protest signs or face \" appropriate measures. \" the warning came as protesters rallying near a mcdonald's in bangkok began carrying signs that read \" democracy, \" only with \" m \" replaced by mcdonald's iconic golden arches. \" such aforesaid use of the mcdonald's logo, symbol and trademark was carried out without any participation, authorisation [ sic ], acceptance or endorsement whatsoever on the part of mcthai co., ltd., \" read an official statement posted to mcdonald's thai facebook page. Just in case the chain's apolitical aspiration to sell burgers wasn't clear enough, the company added, \" mcthai has and continues to maintain a neutral stance in the current political situation in thailand. \" red shirt or yellow shirt, all are welcome to a happy meal."
+            "Bangkok, thailand — they materialize suddenly, by the dozens, raising a three-finger salute toward the sky. Then they vanish as quickly as they appear, melting into crowds to evade scores of armed troops and police. They are bangkok's anti-coup flash mobs. Under thailand's new military junta, which seized power from an elected government in late may, protesting the armed takeover is a crime. Those daring enough to defy the coup have been reduced to cat-and-mouse games — swift public demonstrations designed to evaporate before police or soldiers can haul off offenders. The flash mobs'three-finger salute is inspired by the hunger games, the popular science-fiction series depicting a futuristic totalitarian regime. In the hunger games series, dissent toward a cruel dictatorship is signaled by raising three fingers; in bangkok, the salute draws an unflattering comparison to the real-life junta that just seized power. As in the hunger games, flashing the signal carries risks. Cops and soldiers, which are now heavily deployed throughout the thai capital, dispersed small crowds raising the salute around a downtown shopping mall on sunday. The salute emerged after anti-coup protesters were previously nabbed for nothing more than raising sheets of paper printed up with anti-coup slogans. Adopting the salute as a resistance symbol has tactical perks. Making paper signs creates evidence. Making hand signs does not. The three-finger gesture carries significance beyond the world of fiction. It is also said to represent the french revolutionary slogan, \"liberty, equality, fraternity. \" but these"
         ],
         "raw_document": [
             "Bangkok, thailand — they materialize suddenly, by the dozens, raising a three-finger salute toward the sky. Then they vanish as quickly as they appear, melting into crowds to evade scores of armed troops and police. They are bangkok's anti-coup flash mobs. Under thailand's new military junta, which seized power from an elected government in late may, protesting the armed takeover is a crime. Those daring enough to defy the coup have been reduced to cat-and-mouse games — swift public demonstrations designed to evaporate before police or soldiers can haul off offenders. The flash mobs'three-finger salute is inspired by the hunger games, the popular science-fiction series depicting a futuristic totalitarian regime. In the hunger games series, dissent toward a cruel dictatorship is signaled by raising three fingers; in bangkok, the salute draws an unflattering comparison to the real-life junta that just seized power. As in the hunger games, flashing the signal carries risks. Cops and soldiers, which are now heavily deployed throughout the thai capital, dispersed small crowds raising the salute around a downtown shopping mall on sunday. The salute emerged after anti-coup protesters were previously nabbed for nothing more than raising sheets of paper printed up with anti-coup slogans. Adopting the salute as a resistance symbol has tactical perks. Making paper signs creates evidence. Making hand signs does not. The three-finger gesture carries significance beyond the world of fiction. It is also said to represent the french revolutionary slogan, \"liberty, equality, fraternity. \" but these",
@@ -776,18 +771,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 25128,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A top newspaper in malaysia has produced a guide on spotting homosexuals on the street. It may sound nuts, but the guardian has some of the tips from the daily sinar harian. Gay men, it seems, are partial to facial hair and branded clothing, \" like to wear tight clothes to show off their six-pack abs, \" and frequent the gym not only to work out but to watch other men work out. Lesbians, on the other hand, are always hugging each other, holding hands, and saying bad things about men. Got it? as you might expect, the list is being ridiculed far and wide and might be funnier if not for one thing: homosexuality is illegal in malaysia and punishable by an old colonial law of up to 20 years in prison, notes the washington post. Advocates are worried the list may set off anti-gay violence in a nation known for it. Last year, for instance, an 18-year-old student was burned to death by classmates who suspected him of being gay. \"if you really want to educate society then explain to them the traits of a pedophile, a molester, a murderer, a kidnapper, people who actually endanger the lives of others, \" says one of the nation's biggest social media stars, arwind kumar, in a youtube video. \" how the hell does a gay person endanger your life? \" ( also last year, disney had to pull beauty and the beast from malaysia over a \" gay moment. \" )",
         "split": "train",
         "cleansed_document": [
             "Among the things the malaysian newspaper sinar harian saw fit to print in the past week: a story about a pricey government plan to prevent coastal erosion, an article on a proposed soccer match between the malaysian and ukrainian national teams, and a handy, foldable guide to detecting the homosexuals in our midst. Gay men, the newspaper's bulleted list noted, \"like to wear tight clothes to show off their six-pack abs, \" according to a translation by the guardian. They go to the gym to work on said abs, but also to ogle other men. They also apparently \"adore beards, mustaches and [ name-brand ] clothes. \" lesbians, on the other hand, \"enjoy hugging one another and holding hands \" and can be spotted by alert readers because they \"hate men and enjoy belittling them. \" the newspaper's news-you-can-use piece was widely mocked as it reverberated across the world on monday, but it also sparked an outcry among lgbt advocates and set off another ripple of fear among malaysians who don't happen to be straight. In malaysia, a person can be sent to jail for up to 20 years for being gay thanks to a colonial-era",
-            "A leading malaysian newspaper has published a list of pointers for identifying potential gay and lesbian people, drawing anger from activists who said lives were being put at risk. The article in sinar harian featured bullet points of supposedly distinctive qualities that revealed lgbt people. They stated that gay men were easy to identify because of their love of beards, going to the gym – not for exercise but to check out other men – and branded clothing. Their eyes light up when they see handsome men, the article said. The stand-out attributes for lesbians were that they tend to hug each other, hold hands and belittle men, according to the newspaper. Homosexuality is illegal in malaysia and punishable under a colonial-era sodomy law that carries a 20-year prison sentence. Campaigners have called for a softening of rhetoric in malaysian media after a series of recent deaths of men and women suspected of being gay or transgender. An 18-year old student, t nhaveen, was beaten and burned to death last year by classmates who said he was pondan, a colloquial term for a gay man. A 27-year-old transgender woman, sameera krishnan, was attacked with a knife and and shot three times",
-            "Published on feb 10, 2018 it all comes down to respecting an individual's choice of sexuality. One's sexual preference is not an excuse to judge. Use your wise time to spread actual awareness on actual issues. Lgbt is not an issue. However, being a judgmental prick is a big time issue."
+            "A leading malaysian newspaper has published a list of pointers for identifying potential gay and lesbian people, drawing anger from activists who said lives were being put at risk. The article in sinar harian featured bullet points of supposedly distinctive qualities that revealed lgbt people. They stated that gay men were easy to identify because of their love of beards, going to the gym – not for exercise but to check out other men – and branded clothing. Their eyes light up when they see handsome men, the article said. The stand-out attributes for lesbians were that they tend to hug each other, hold hands and belittle men, according to the newspaper. Homosexuality is illegal in malaysia and punishable under a colonial-era sodomy law that carries a 20-year prison sentence. Campaigners have called for a softening of rhetoric in malaysian media after a series of recent deaths of men and women suspected of being gay or transgender. An 18-year old student, t nhaveen, was beaten and burned to death last year by classmates who said he was pondan, a colloquial term for a gay man. A 27-year-old transgender woman, sameera krishnan, was attacked with a knife and and shot three times"
         ],
         "raw_document": [
             "Among the things the malaysian newspaper sinar harian saw fit to print in the past week: a story about a pricey government plan to prevent coastal erosion, an article on a proposed soccer match between the malaysian and ukrainian national teams, and a handy, foldable guide to detecting the homosexuals in our midst. Gay men, the newspaper's bulleted list noted, \"like to wear tight clothes to show off their six-pack abs, \" according to a translation by the guardian. They go to the gym to work on said abs, but also to ogle other men. They also apparently \"adore beards, mustaches and [ name-brand ] clothes. \" lesbians, on the other hand, \"enjoy hugging one another and holding hands \" and can be spotted by alert readers because they \"hate men and enjoy belittling them. \" the newspaper's news-you-can-use piece was widely mocked as it reverberated across the world on monday, but it also sparked an outcry among lgbt advocates and set off another ripple of fear among malaysians who don't happen to be straight. In malaysia, a person can be sent to jail for up to 20 years for being gay thanks to a colonial-era",
@@ -804,7 +798,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -856,7 +850,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1083,7 +1077,7 @@
             "0": 3,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1108,7 +1102,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1141,12 +1135,11 @@
     },
     {
         "idx": 25141,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Donald trump isn't a man known for letting things go, but fox news says it's time for him to get over his \" sick obsession \" with megyn kelly. The network issued an angry statement after trump targeted the anchor yet again on friday, urging his followers to boycott kelly's show, the hill reports. \" she is sick, &amp; the most overrated person on tv, \" tweeted trump, who called kelly \" crazy megyn \" after skipping a fox debate she was supposed to moderate earlier in the week. A fox spokesperson said trump's \" vitriolic attacks against megyn kelly and his extreme, sick obsession with her is beneath the dignity of a presidential candidate who wants to occupy the highest office in the land. \" fox is very proud of kelly, and will continue to \" fully support her throughout every day of trump's endless barrage of crude and sexist verbal assaults, \" the statement continued. \" as the mother of three young children, with a successful law career and the second highest rated show in cable news, it's especially deplorable for her to be repeatedly abused just for doing her job. \" cnn reports that the trump campaign fired back on friday night, claiming that the network had \" begged trump to do a prime time special \" with kelly. Fox denied that anybody associated with the network had asked trump to appear on kelly's upcoming special.",
         "split": "train",
         "cleansed_document": [
-            "Gop presidential front-runner donald trump donald john trumpsteve king defends arpaio: ' i don't agree that profiling is wrong ' eminem leads anti-trump chant at music fest enraged dems vow to protect 'dreamers ' program more is urging his supporters to stop watching megyn kelly's show on fox news. \"everybody should boycott the @megynkelly show, \" he tweeted friday, referencing \"the kelly file. \" \" never worth watching. [ it is ] always a hit on trump. She is sick [ and ] the most overrated person on tv. \" everybody should boycott the @megynkelly show. Never worth watching. Always a hit on trump! she is sick, &amp; the most overrated person on tv. — donald j. Trump ( @realdonaldtrump ) march 18, 2016 fox news personality geraldo rivera took to twitter to defend his colleague. \"i love you man but basta, \" he tweeted at the outspoken billionaire. \" this obsession with @megynkelly is weird [ and ] unhelpful. She's doing her job, you do yours. \" @realdonaldtrump @megynkelly i love you man but basta. This obsession w @megynkelly is weird &amp; unhelpful. She's doing her job, you do yours. — geraldo rivera ( @geraldorivera ) march 18, 2016 a spokesperson for fox news fired back at trump, saying he has a \"sick obsession \" with kelly. \"donald trump's vitriolic attacks against megyn kelly and his extreme, sick obsession with her is beneath the dignity of a presidential candidate who wants to occupy the highest office in the land. \" megyn is an exemplary journalist and one of the leading anchors in america — we're extremely proud of her phenomenal work and continue to fully support her throughout every day of trump's endless barrage of crude and sexist verbal assaults. As the mother of three young children, with a successful law career and the second highest rated show in cable news, it's especially deplorable for her to be repeatedly abused just for doing her job. \" trump's call for a boycott is just the latest escalation in his feud with kelly. The two sparred during the first gop presidential debate in cleveland on aug. 6th. Kelly, a moderator, sharply questioned trump over his past remarks towards women. Trump was outraged by kelly's questioning, saying a day later that \"she had blood coming out of her nose – out of her wherever. \" he then skipped the a fox news-hosted debate in des moines, objecting to kelly's role as a",
-            "Everybody should boycott the @ megynkelly show. Never worth watching. Always a hit on trump! she is sick, &amp; the most overrated person on tv."
+            "Gop presidential front-runner donald trump donald john trumpsteve king defends arpaio: ' i don't agree that profiling is wrong ' eminem leads anti-trump chant at music fest enraged dems vow to protect 'dreamers ' program more is urging his supporters to stop watching megyn kelly's show on fox news. \"everybody should boycott the @megynkelly show, \" he tweeted friday, referencing \"the kelly file. \" \" never worth watching. [ it is ] always a hit on trump. She is sick [ and ] the most overrated person on tv. \" everybody should boycott the @megynkelly show. Never worth watching. Always a hit on trump! she is sick, &amp; the most overrated person on tv. — donald j. Trump ( @realdonaldtrump ) march 18, 2016 fox news personality geraldo rivera took to twitter to defend his colleague. \"i love you man but basta, \" he tweeted at the outspoken billionaire. \" this obsession with @megynkelly is weird [ and ] unhelpful. She's doing her job, you do yours. \" @realdonaldtrump @megynkelly i love you man but basta. This obsession w @megynkelly is weird &amp; unhelpful. She's doing her job, you do yours. — geraldo rivera ( @geraldorivera ) march 18, 2016 a spokesperson for fox news fired back at trump, saying he has a \"sick obsession \" with kelly. \"donald trump's vitriolic attacks against megyn kelly and his extreme, sick obsession with her is beneath the dignity of a presidential candidate who wants to occupy the highest office in the land. \" megyn is an exemplary journalist and one of the leading anchors in america — we're extremely proud of her phenomenal work and continue to fully support her throughout every day of trump's endless barrage of crude and sexist verbal assaults. As the mother of three young children, with a successful law career and the second highest rated show in cable news, it's especially deplorable for her to be repeatedly abused just for doing her job. \" trump's call for a boycott is just the latest escalation in his feud with kelly. The two sparred during the first gop presidential debate in cleveland on aug. 6th. Kelly, a moderator, sharply questioned trump over his past remarks towards women. Trump was outraged by kelly's questioning, saying a day later that \"she had blood coming out of her nose – out of her wherever. \" he then skipped the a fox news-hosted debate in des moines, objecting to kelly's role as a"
         ],
         "raw_document": [
             "Gop presidential front-runner donald trump donald john trumpsteve king defends arpaio: ' i don't agree that profiling is wrong ' eminem leads anti-trump chant at music fest enraged dems vow to protect 'dreamers ' program more is urging his supporters to stop watching megyn kelly's show on fox news. \"everybody should boycott the @megynkelly show, \" he tweeted friday, referencing \"the kelly file. \" \" never worth watching. [ it is ] always a hit on trump. She is sick [ and ] the most overrated person on tv. \" everybody should boycott the @megynkelly show. Never worth watching. Always a hit on trump! she is sick, &amp; the most overrated person on tv. — donald j. Trump ( @realdonaldtrump ) march 18, 2016 fox news personality geraldo rivera took to twitter to defend his colleague. \"i love you man but basta, \" he tweeted at the outspoken billionaire. \" this obsession with @megynkelly is weird [ and ] unhelpful. She's doing her job, you do yours. \" @realdonaldtrump @megynkelly i love you man but basta. This obsession w @megynkelly is weird &amp; unhelpful. She's doing her job, you do yours. — geraldo rivera ( @geraldorivera ) march 18, 2016 a spokesperson for fox news fired back at trump, saying he has a \"sick obsession \" with kelly. \"donald trump's vitriolic attacks against megyn kelly and his extreme, sick obsession with her is beneath the dignity of a presidential candidate who wants to occupy the highest office in the land. \" megyn is an exemplary journalist and one of the leading anchors in america — we're extremely proud of her phenomenal work and continue to fully support her throughout every day of trump's endless barrage of crude and sexist verbal assaults. As the mother of three young children, with a successful law career and the second highest rated show in cable news, it's especially deplorable for her to be repeatedly abused just for doing her job. \" trump's call for a boycott is just the latest escalation in his feud with kelly. The two sparred during the first gop presidential debate in cleveland on aug. 6th. Kelly, a moderator, sharply questioned trump over his past remarks towards women. Trump was outraged by kelly's questioning, saying a day later that \"she had blood coming out of her nose – out of her wherever. \" he then skipped the a fox news-hosted debate in des moines, objecting to kelly's role as a",
@@ -1161,7 +1154,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1272,12 +1265,11 @@
     },
     {
         "idx": 25146,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Hollywood's joss whedon has the reputation of creating strong female characters and championing feminist values, but his ex-wife has just delivered a stinging assault to that image. In a guest blog at the wrap, kai cole alleges that whedon cheated on her, a lot, going back 15 years to the set of buffy the vampire slayer. She quotes his own apologetic letters to her years after the fact in which he explains that he was \" surrounded by beautiful, needy, aggressive young women \" as he adjusted to his new role as a powerful hollywood producer. \" despite understanding, on some level, that what he was doing was wrong, he never conceded the hypocrisy of being out in the world preaching feminist ideals, while at the same time, taking away my right to make choices for my life and my body based on the truth, \" writes cole, an architect and producer. When he finally ' fessed up, cole says she was shattered and diagnosed with ptsd, and now she's out to deflate her ex-husband's image. \" i want to let women know that he is not who he pretends to be, \" she writes, adding that organizations that plan to honor him for his feminist work should \" think twice. \" in an editor's note at the end of the piece, a spokesperson for whedon says that the blog contains \" inaccuracies and misrepresentations \" but that whedon won't comment in detail to shield their kids and out of respect for cole. A post sympathetic to cole at the mary sue notes that the recently divorced often say terrible things about their exes and that monogamy isn't necessarily a feminist ideal, \" but don't try and use them to dismiss it, okay? \" ( read cole's blog in full here. )",
         "split": "train",
         "cleansed_document": [
-            "Architect and producer kai cole has posted a devastating account of her and joss whedon's 16-year marriage, which ended after a very private five-year separation. In her piece, cole reveals that whedon cheated on her multiple times and lied about it, and she accuses whedon of \"the hypocrisy of being out in the world preaching feminist ideals, while at the same time, taking away my right to make choices for my life and my body based on the truth. \" \"he deceived me for 15 years, \" cole writes, \"so he could have everything he wanted. I believed, everyone believed, that he was one of the good guys, committed to fighting for women's rights, committed to our marriage, and to the women he worked with. But i now see how he used his relationship with me as a shield, both during and after our marriage,",
-            "I've been asked some questions by the press recently about my divorce from joss whedon, to whom i was married for 16 years. There is misinformation out there and i feel the best way to clear up the situation is to tell my truth. Let me begin by saying i am a very private person and the act of writing this is antithetical to who i am and everything i stand for. Yet, at the same time, i feel compelled to go on the record and clear up some misperceptions. I don't think it is fair to me or other women to remain silent any longer. I met joss in 1991. I was driving across the country from massachusetts on a whim, and met him when i was passing through los angeles. We fell in love and i moved to l.a. So we could be together. I was with him when"
+            "Architect and producer kai cole has posted a devastating account of her and joss whedon's 16-year marriage, which ended after a very private five-year separation. In her piece, cole reveals that whedon cheated on her multiple times and lied about it, and she accuses whedon of \"the hypocrisy of being out in the world preaching feminist ideals, while at the same time, taking away my right to make choices for my life and my body based on the truth. \" \"he deceived me for 15 years, \" cole writes, \"so he could have everything he wanted. I believed, everyone believed, that he was one of the good guys, committed to fighting for women's rights, committed to our marriage, and to the women he worked with. But i now see how he used his relationship with me as a shield, both during and after our marriage,"
         ],
         "raw_document": [
             "Architect and producer kai cole has posted a devastating account of her and joss whedon's 16-year marriage, which ended after a very private five-year separation. In her piece, cole reveals that whedon cheated on her multiple times and lied about it, and she accuses whedon of \"the hypocrisy of being out in the world preaching feminist ideals, while at the same time, taking away my right to make choices for my life and my body based on the truth. \" \"he deceived me for 15 years, \" cole writes, \"so he could have everything he wanted. I believed, everyone believed, that he was one of the good guys, committed to fighting for women's rights, committed to our marriage, and to the women he worked with. But i now see how he used his relationship with me as a shield, both during and after our marriage,",
@@ -1294,19 +1286,18 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 25147,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The parents of a boy with an incredibly rare disease say they've run out of money and options and are asking for the public's help. Tim and natalie rogers of alamosa, colorado, say their 12-year-old son, jaiden, is essentially turning to stone because of a condition called stiff skin syndrome, reports people. \" it's like tapping on a countertop, \" natalie rogers has previously said of her son's skin in places. Only a few dozen people have ever been diagnosed with the syndrome since it was discovered in the 1970s, according to the clinical geneticist treating jaiden at children's hospital colorado. As wsmv notes, the condition causes the entire body to harden and will eventually lead to immobility. Jaiden's parents, however, are now hoping to get him into a treatment program currently unavailable in the us. They want to fly him to europe to undergo a stem cell treatment for rare skin diseases, according to a gofundme page dedicated to raising $ 1.5 million. \" if we can't raise the money to save jaiden, we are left with nothing to do for him, \" wrote the couple. The fund had raised about $ 77,000 as of saturday. ( this rare disease was for the first time diagnosed in a female. )",
         "split": "train",
         "cleansed_document": [
             "On a hot summer day in late june, jaiden rogers looks like every other 12-year-old boy avoiding the blistering heat. Sitting on a chair in the living room of his alamosa, colorado, home, he watches the twilight zone and then plays on the computer in his harry potter-themed bedroom. But he only wishes that he could actually be like other boys his age, his mother natalie rogers tells people in this week's issue. That's because six years ago, in january 2013, jaiden was diagnosed with stiff skin syndrome — an extremely rare disease that slowly causes his entire body to harden. \"his skin is basically like stone, \" says natalie, 51. \"it's like tapping on a countertop. \" the disease first started in his thigh and has quickly made its way though his hips, stomach and back — causing",
             "The parents of the 12-year-old boy who was diagnosed with stiff skin syndrome — which is causing his entire body to harden — is refusing to give up on finding a cure that could save their little boy's life. Jaiden rogers, of alamosa, colorado, has lived with the extremely rare condition for half his life. In september 2012, his father, tim rogers, felt a hard spot on jaiden's right thigh. Biopsy results the following january revealed he has the condition. Only a few other dozen people in the world share his diagnosis. Ultimately, jaiden could \"become entombed within himself, \" and become bedridden, according to his mother, natalie rogers. And while the disease isn't fatal in itself, it could restrict his chest and lung cavity, eventually leaving him unable to breathe. \"we hit walls all",
-            "( meredith ) -- he was diagnosed with stiff skin syndrome in 2013, now 12-year-old jaiden rogers is racing against the clock to find a cure before his entire body becomes immobile. Stiff skin syndrome is an ultra-rare condition discovered in the early 1970s where the skin and inner tissues begin to harden, leading to limited joint mobility. Little is known about the condition, including the cause or treatment. It's only been reported 41 times throughout history. \" nobody is really looking at it because there's just not a lot of people that have it in the world, \" said tom rogers, jaiden's father. \" so, we reach out to doctors all over the place. Maybe there's a medication that's being used for something else that can be used for jaiden to try, to at least try",
-            "Gofundme has verified that the funds raised will go directly to the intended recipient. What does verified mean?"
+            "( meredith ) -- he was diagnosed with stiff skin syndrome in 2013, now 12-year-old jaiden rogers is racing against the clock to find a cure before his entire body becomes immobile. Stiff skin syndrome is an ultra-rare condition discovered in the early 1970s where the skin and inner tissues begin to harden, leading to limited joint mobility. Little is known about the condition, including the cause or treatment. It's only been reported 41 times throughout history. \" nobody is really looking at it because there's just not a lot of people that have it in the world, \" said tom rogers, jaiden's father. \" so, we reach out to doctors all over the place. Maybe there's a medication that's being used for something else that can be used for jaiden to try, to at least try"
         ],
         "raw_document": [
             "On a hot summer day in late june, jaiden rogers looks like every other 12-year-old boy avoiding the blistering heat. Sitting on a chair in the living room of his alamosa, colorado, home, he watches the twilight zone and then plays on the computer in his harry potter-themed bedroom. But he only wishes that he could actually be like other boys his age, his mother natalie rogers tells people in this week's issue. That's because six years ago, in january 2013, jaiden was diagnosed with stiff skin syndrome — an extremely rare disease that slowly causes his entire body to harden. \"his skin is basically like stone, \" says natalie, 51. \"it's like tapping on a countertop. \" the disease first started in his thigh and has quickly made its way though his hips, stomach and back — causing",
@@ -1325,7 +1316,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1401,7 +1392,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1426,7 +1417,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1481,12 +1472,11 @@
     },
     {
         "idx": 25154,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Susan sarandon talks about her latest film ( wall street: money never sleeps ) and her latest hobby ( ping-pong ) with the telegraph, but — more interestingly — she also opens up about her split from tim robbins after 23 years together. \" people were coming up to me in the street and saying, ' i cried and cried when i heard, ' \" she says. \" well, i was sadder! i didn't think it would ever happen, either. \" she says they never married because \" i thought that if you didn't get married you wouldn't take each other for granted as easily, \" but adds, \" i don't know if after twentysomething years that was still true. \" she implies the romance ran its course ( \" you bring people into your life at certain times. Maybe you have a relationship to have children and you realize that it's fulfilled after that point. \" ), and laughs off rumors of an affair with her ping-pong business partner, 31-year-old jonathan bricklin: \" you have to have a sense of humor. There are lots of people in my life at the moment. \" for more on the bricklin rumors, click here.",
         "split": "train",
         "cleansed_document": [
-            "Couple susan sarandon, 63, has long denied dating 31-year-old business partner jonathan bricklin. However, after a recent appearance to italy together, we're not so sure. Yes, it was a trip to the giffoni film festival, but still -- italy! c ' mon! thepair of good, good friends were spotted strolling and shopping in the town of ravello on june 26. Sarandon, who co-owns new york city ping-pong club spin with bricklin, gave entertainment weekly a coy \" no comment \" when asked about a romantic link in april, though she did say: \" i certainly love the idea of being in love, and i love the idea of companionship. Whatever happens next in terms of romance or partners, i don't know. But it's exhilarating and terrifying. I think the point is to just keep moving, and to just say yes to life. \" sarandon split from partner tim robbins after 23 years last fall. Robbins -- who admitted to recording a \" mid-life crisis album \" about the breakup -- was 12 years her junior.",
-            "On susan sarandon's wrist is an unusual tattoo. At first glance it looks like a jagged bracelet, but if you look closer you can see the letters andand. ' it stands for a new dawn a new day,'says sarandon, twisting her wrist round to show me. ' it's supposed to remind me that if there are disappointments or mistakes, the next day i can just start again. One of my strongest attributes is being able to change direction when i ' m given the gift of something i didn't anticipate.'sarandon has recently suffered her fair share of disappointments. Last christmas she and the actor tim robbins, one of hollywood's most enduring couples, announced their separation after 23 years together. Then on a trip to haiti a few weeks later ( she was visiting a hospital with artists for peace and justice ) she damaged her foot so badly that she had to have a bone replaced in her toe and has been limping around on crutches ever since. Even her on-screen characters cannot escape misfortune. Her latest film, wall street: money never sleeps, is the sequel to the academy award-winning 1987 film wall street. It sees michael douglas reprise his role as the ruthless gordon gekko, just released from jail. Sarandon plays sylvia moore, the hapless mother-in-law to gekko's estranged daughter, winnie. Sarandon's character experiences financial ruin when her real-estate business crashes. ' i represent everyman because i ' m bottom of the heap financially. Sylvia could have drawn some strength from my"
+            "Couple susan sarandon, 63, has long denied dating 31-year-old business partner jonathan bricklin. However, after a recent appearance to italy together, we're not so sure. Yes, it was a trip to the giffoni film festival, but still -- italy! c ' mon! thepair of good, good friends were spotted strolling and shopping in the town of ravello on june 26. Sarandon, who co-owns new york city ping-pong club spin with bricklin, gave entertainment weekly a coy \" no comment \" when asked about a romantic link in april, though she did say: \" i certainly love the idea of being in love, and i love the idea of companionship. Whatever happens next in terms of romance or partners, i don't know. But it's exhilarating and terrifying. I think the point is to just keep moving, and to just say yes to life. \" sarandon split from partner tim robbins after 23 years last fall. Robbins -- who admitted to recording a \" mid-life crisis album \" about the breakup -- was 12 years her junior."
         ],
         "raw_document": [
             "Couple susan sarandon, 63, has long denied dating 31-year-old business partner jonathan bricklin. However, after a recent appearance to italy together, we're not so sure. Yes, it was a trip to the giffoni film festival, but still -- italy! c ' mon! thepair of good, good friends were spotted strolling and shopping in the town of ravello on june 26. Sarandon, who co-owns new york city ping-pong club spin with bricklin, gave entertainment weekly a coy \" no comment \" when asked about a romantic link in april, though she did say: \" i certainly love the idea of being in love, and i love the idea of companionship. Whatever happens next in terms of romance or partners, i don't know. But it's exhilarating and terrifying. I think the point is to just keep moving, and to just say yes to life. \" sarandon split from partner tim robbins after 23 years last fall. Robbins -- who admitted to recording a \" mid-life crisis album \" about the breakup -- was 12 years her junior.",
@@ -1501,7 +1491,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1526,7 +1516,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1556,7 +1546,7 @@
             "0": 0,
             "1": 4,
             "2": 2,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1606,18 +1596,17 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 25159,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Melanie griffith's divorce from antonio banderas may be amicable, but that doesn't mean she wants his name permanently affixed inside a heart tattoo on her shoulder. Griffith used make-up to cover up the name, though the rest of the tattoo remained visible, when she attended the taormina film festival yesterday in italy, page six reports, noting that she was also sans wedding ring. And maybe the split won't be so friendly — tmz reported over the weekend that the pair is set for a custody battle... Over their three dogs. Click for pictures of the altered tattoo.",
         "split": "train",
         "cleansed_document": [
             "Melanie griffith is covering up her past. The 56-year-old actress, who filed for divorce from antonio banderas after 18 years of marriage earlier this month, attended the taormina film festival tuesday with an altered tattoo. The ink usually reads \"antonio, \" but was blotted out with makeup while the heart shape remained visible. Griffith, who partied alongside friend eva longoria, left her wedding band at home and wore an animal print dress to the function. The former couple is gearing up for a custody battle over their three dogs — a terrier mix and two shepherd lab mixes. Griffith and banderas'daughter, stella banderas, will turn 18 in september. An insider told page six, \"melanie and antonio have had issues for a long time. They used to be so affectionate with each other, but more recently they've been drifting apart. \"",
-            "Melanie &amp; antonio divorce she wants custody... Of the dogs! melanie griffith &amp; antonio banderas divorce -- she wants custody... Of the dogs! exclusive thinks she's a better parent than -- a dog parent, that is -- and she's dead set on getting custody of their three dogs in the divorce... Tmz has learned.as tmz first reported, griffith filed for divorce on june 6 after 18 years of marriage to banderas.child custody won't be an issue -- their daughter turns 18 in september -- but sources close to griffith tell tmz she is angling for custody of their three dogs. The former couple has one terrier mix and two shepherd lab mixes they adopted last february our sources say melanie is the better dog owner between herself and antonio... And the pooches mean the world to her.",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Melanie &amp; antonio divorce she wants custody... Of the dogs! melanie griffith &amp; antonio banderas divorce -- she wants custody... Of the dogs! exclusive thinks she's a better parent than -- a dog parent, that is -- and she's dead set on getting custody of their three dogs in the divorce... Tmz has learned.as tmz first reported, griffith filed for divorce on june 6 after 18 years of marriage to banderas.child custody won't be an issue -- their daughter turns 18 in september -- but sources close to griffith tell tmz she is angling for custody of their three dogs. The former couple has one terrier mix and two shepherd lab mixes they adopted last february our sources say melanie is the better dog owner between herself and antonio... And the pooches mean the world to her."
         ],
         "raw_document": [
             "Melanie griffith is covering up her past. The 56-year-old actress, who filed for divorce from antonio banderas after 18 years of marriage earlier this month, attended the taormina film festival tuesday with an altered tattoo. The ink usually reads \"antonio, \" but was blotted out with makeup while the heart shape remained visible. Griffith, who partied alongside friend eva longoria, left her wedding band at home and wore an animal print dress to the function. The former couple is gearing up for a custody battle over their three dogs — a terrier mix and two shepherd lab mixes. Griffith and banderas'daughter, stella banderas, will turn 18 in september. An insider told page six, \"melanie and antonio have had issues for a long time. They used to be so affectionate with each other, but more recently they've been drifting apart. \"",
@@ -1634,7 +1623,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1748,7 +1737,7 @@
             "0": 2,
             "1": 2,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1778,13 +1767,12 @@
     },
     {
         "idx": 25165,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Amazon figured out a great way to appear altruistic while also taking a shot at its biggest competitor, announcing a discounted prime member for low-income americans on tuesday. Yahoo reports the 45 % discount lowers the cost of prime, which bestows free two-day delivery, to $ 5.99 for anyone with an ebt card, which is used for food stamps and other government assistance. Qualifying people will also get the first 30 days of prime for free, according to npr. Approximately 60 % of american households already have a prime membership, business insider reports. But most of those memberships are found in upper income brackets, where membership is reaching saturation. On the other hand, some 45 million low-income americans are now eligible for a discounted prime membership. Industry insiders reacted with skepticism to amazon's announcement. After all, low-income americans don't shop online as much and have limited internet access. But retail consultant doug stephens says even a small amount of new customers can pay off for amazon through loyalty. \" prime is the gateway drug for the heroin that is amazon, \" he says. One amazon investor agrees, saying discounted prime membership will get low-income people used to buying online. Even better: it will eat into walmart's customer base. Nearly $ 1 out of every $ 5 in food stamps was spent at walmart in 2016. For its part, walmart has been actively trying to steal amazon customers, recently experimenting with employees delivering orders at the end of their shift.",
         "split": "train",
         "cleansed_document": [
             "Now that more than 70 % of households that earn more than $ 112,000 annually are amazon prime members, amazon ( amzn ) is focusing its attention on the rest of the country. On tuesday, the behemoth announced a 45 % discount to its prime membership for those on food stamps. Anyone who has an electronic benefit transfer ( ebt ) card can join amazon prime for $ 5.99 per month rather than $ 10.99. Somewhere between 64 and 69 million households — or around 60 % of all american families — are prime members, according to piper jaffray estimates. Though the company does not share total number of prime customers, amazon spokeswoman julie law confirmed it has \"tens of millions of prime members, \" which it first disclosed this february. She added that the company added 20 million new members in 2016 alone. But now it's trying to tap into the rest",
-            "Amazon lowers prime membership rate for low-income customers enlarge this image toggle caption mark lennihan/ap mark lennihan/ap amazon is attempting to lure low-income shoppers from walmart by offering a discount on its pay-by-month prime membership for people who receive government assistance. The giant online retailer said in a statement tuesday that people who have a valid electronic benefits transfer card — used for programs such as the supplemental nutrition assistance programs, or food stamps — will pay $ 5.99 per month for a year. Amazon is offering a 30-day free trial for qualifying customers. The typical prime membership is $ 99 a year, though people have the option to pay $ 10.99 a month. Prime benefits include free shipping, unlimited streaming of movies and tv shows, and a rotating selection of free e-books and magazines. \" we designed this membership option for customers receiving government assistance to make our everyday selection and savings more accessible, including",
-            "Amazon is going after walmart's shoppers. Ap amazon's decision to go after lower-income customers with a discounted prime membership has puzzled some industry experts, but it could turn out to be a brilliant strategy. Critics say that shoppers on government assistance, whom amazon is targeting with its new discount, are less active online and have limited access to broadband internet, smartphones, and credit cards. The discount slashes the cost of amazon's monthly prime membership nearly in half, to $ 5.99 a month, for customers who have an electronic benefit transfer card, which is used for government assistance like the supplemental nutrition assistance program, better known as food stamps. \" these consumers have always indexed lower in online transactions, and their living circumstances are often not well-suited to package delivery, and many of these consumers don't have vehicles to drive to a location to"
+            "Amazon lowers prime membership rate for low-income customers enlarge this image toggle caption mark lennihan/ap mark lennihan/ap amazon is attempting to lure low-income shoppers from walmart by offering a discount on its pay-by-month prime membership for people who receive government assistance. The giant online retailer said in a statement tuesday that people who have a valid electronic benefits transfer card — used for programs such as the supplemental nutrition assistance programs, or food stamps — will pay $ 5.99 per month for a year. Amazon is offering a 30-day free trial for qualifying customers. The typical prime membership is $ 99 a year, though people have the option to pay $ 10.99 a month. Prime benefits include free shipping, unlimited streaming of movies and tv shows, and a rotating selection of free e-books and magazines. \" we designed this membership option for customers receiving government assistance to make our everyday selection and savings more accessible, including"
         ],
         "raw_document": [
             "Now that more than 70 % of households that earn more than $ 112,000 annually are amazon prime members, amazon ( amzn ) is focusing its attention on the rest of the country. On tuesday, the behemoth announced a 45 % discount to its prime membership for those on food stamps. Anyone who has an electronic benefit transfer ( ebt ) card can join amazon prime for $ 5.99 per month rather than $ 10.99. Somewhere between 64 and 69 million households — or around 60 % of all american families — are prime members, according to piper jaffray estimates. Though the company does not share total number of prime customers, amazon spokeswoman julie law confirmed it has \"tens of millions of prime members, \" which it first disclosed this february. She added that the company added 20 million new members in 2016 alone. But now it's trying to tap into the rest",
@@ -1801,18 +1789,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 25166,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Crying jordan, no more. The bbc reports basketball legend and internet meme michael jordan has won a lawsuit against a chinese sportswear company capitalizing on his name. The chinese characters for jordan's name are read \" qiaodan, \" and qiaodan sports has been using them for a decade, along with his \" 23 \" jersey number, according to reuters. Jordan first took qiaodan sports to court in 2012, and the people's supreme court of china ruled in his favor this week. \" chinese consumers deserve to know that qiaodan sports and its products have no connection to me, \" jordan says in a statement. It's rare for foreign brands to win these kinds of cases in china, and in fact jordan's victory is not a complete one: qiaodan sports can no longer use the chinese characters for his name but can continue to use the romanized spelling \" qiaodan. \"",
         "split": "train",
         "cleansed_document": [
             "Image copyright getty images china's supreme court has ruled in favour of us basketball legend michael jordan in a trademark dispute. The people's supreme court ruled a chinese sportswear company must stop using the characters for jordan's name, read as qiaodan in chinese. Qiaodan sports registered the name more than a decade ago but jordan's lawyers said it built its business around his chinese name without his permission. Jordan has welcomed the decision which overturns previous rulings against him. \" i am happy that the supreme people's court has recognized the right to protect my name through its ruling in the trademark cases, \" he said in a statement sent to the bbc. \" chinese consumers deserve to know that qiaodan sports and its products have no connection to me. \" \" nothing is more important than protecting your own name, and today's decision shows",
-            "Shanghai ( reuters ) - china's highest court has ruled in favor of former basketball star michael jordan in a long-running trademark case relating to a local sportswear firm using the chinese version of his name, overturning earlier rulings against the athlete. The ruling is a rare bit of good news for a foreign brand in china, where companies, including iphone maker apple inc and shoe brand new balance, have often come out on the losing side in trademark disputes. The former chicago bulls player sued qiaodan sports in 2012, saying the company located in southern fujian province had built its business around his chinese name and famous jersey number \"23 \" without his permission. In 2015 a court ruled in favor of qiaodan sports over the trademark dispute, a ruling which was then upheld by the beijing municipal high people's court. After that ruling jordan's legal team said they",
-            "From wikipedia, the free encyclopedia the original associated press photograph crying jordan, crying mj, or crying michael jordan is an internet meme in which an image of nba player michael jordan crying is superimposed on images of athletes or others who have suffered misfortune. The source photo was taken by associated press photographer stephan savoia during jordan's speech at his basketball hall of fame induction ceremony on september 11, 2009. [ 1 ] creation and timeline [ edit ] the image was used in 2012, without modification, to comment on jordan's decision to buy the charlotte bobcats nba franchise, and was in use on a variety of message boards by 2014. [ 2 ] \" crying jordan \" began to attract mainstream media attention in late 2015 and early 2016. [ 3 ] [ 4 ] the meme began to spark a backlash in the sports media in early 2016,"
+            "Shanghai ( reuters ) - china's highest court has ruled in favor of former basketball star michael jordan in a long-running trademark case relating to a local sportswear firm using the chinese version of his name, overturning earlier rulings against the athlete. The ruling is a rare bit of good news for a foreign brand in china, where companies, including iphone maker apple inc and shoe brand new balance, have often come out on the losing side in trademark disputes. The former chicago bulls player sued qiaodan sports in 2012, saying the company located in southern fujian province had built its business around his chinese name and famous jersey number \"23 \" without his permission. In 2015 a court ruled in favor of qiaodan sports over the trademark dispute, a ruling which was then upheld by the beijing municipal high people's court. After that ruling jordan's legal team said they"
         ],
         "raw_document": [
             "Image copyright getty images china's supreme court has ruled in favour of us basketball legend michael jordan in a trademark dispute. The people's supreme court ruled a chinese sportswear company must stop using the characters for jordan's name, read as qiaodan in chinese. Qiaodan sports registered the name more than a decade ago but jordan's lawyers said it built its business around his chinese name without his permission. Jordan has welcomed the decision which overturns previous rulings against him. \" i am happy that the supreme people's court has recognized the right to protect my name through its ruling in the trademark cases, \" he said in a statement sent to the bbc. \" chinese consumers deserve to know that qiaodan sports and its products have no connection to me. \" \" nothing is more important than protecting your own name, and today's decision shows",
@@ -1829,7 +1816,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1857,7 +1844,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1887,13 +1874,12 @@
     },
     {
         "idx": 25169,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The largest meat producer in america averaged nearly two worker amputations per month in its factories to start 2015. And that's likely just the tip of the iceberg. Celeste monforton, a professor of occupational health, requested federal injury reports for tyson foods for the first nine months of 2015, buzzfeed reports. What she found is the stuff of nightmares. According to monforton's blog, 17 amputations were reported at 10 tyson meat processing plants during those months. One arkansas employee lost the tip of a finger to an \" impeller. \" an employee in nebraska lost three fingers to a \" skinner. \" and one poor missouri employee lost both hands to an \" auger. \" \" the names of these tools tell just part of the story of why these amputations occurred, \" monforton writes. \" their names, however, provide more than an inkling about the physical demands of these jobs. \" monforton decided to look into the injuries because of a new occupational health and safety agency rule that went into effect at the start of 2015, iowa public radio reports. It requires companies to report all work-related amputations or hospitalizations within 24 hours. Experts have long considered osha data on injuries within the meat industry to be underreported by up to 70 % for a variety of reasons. Employers were in charge of reporting the data, osha didn't verify it, workers were punished for reporting injuries, and so on. And the problem is likely even worse than what monforton's numbers show. Ten states with tyson factories have their own osha programs and weren't included in the tally, not to mention the factories of other major meat producers. ( a slaughterhouse allegedly swapped cancerous cow heads for healthy ones to fool inspectors. )",
         "split": "train",
         "cleansed_document": [
             "Whole digits, tips of fingers, and parts of a thumb. These are body parts of tyson foods ' employees which were severed last year in 10 of the company's plants. The details are made possible by a new osha regulation that took effect on january 1, 2015. The regulation requires employers to report within 24 hours any work-related incident that results in an amputation or hospitalization. After nearly a year on the books, i was curious to find out what just a single large employer had reported to federal osha. I picked tyson foods. It has more than more than 400 facilities in 30 us states and it processes 35 million chickens, 400,000 hog, and 128,000 cattle per week. I sent a foia request to federal osha in october asking for data on injury reports submitted by tyson foods. I wasn't sure what to expect. How many incidents",
-            "In the first nine months of 2015, workers in meat-packing plants owned by tyson foods averaged at least one amputation a month. That report was gleaned from a freedom of information act request by celeste monforton, a george washington university occupational health professor. Monforton writes on her blog that she sought the data because of a new regulation that requires companies to report injuries to osha within 24 hours. She focused on one of the big meatpackers, tyson, to get a feel for how the new rule, which kicked in on jan. 1, 2015, would play out. \" skinners. Band saws. Wing saws. Hide grippers. The names of these tools tell just part of the story of why these amputations occurred, \" monforton wrote. \" their names, however, provide more than an inkling about the physical demands of these jobs. \" most of the amputations occurred",
-            "Turning chickens into chicken nuggets can be a rough business. A new osha report lists the fingers and other body parts lost in meat factories. One year ago, a sanitation worker at a meat-processing plant in missouri lost both his hands in a work-related accident. Two months later, a worker amputated part of his right thumb while running flat steaks over a skinner ( a blade that removes the outer layer of meat ) in an amarillo, texas factory. \" skinners. Band saws. Wing saws. Hide grippers. The names of these tools tell just part of the story of why these amputations occurred, \" wrote celeste monforton, a professor of occupational health at george washington university. Monforton was referring to the kind of machines that caused 34 injuries at 10 meatpacking plants run by tyson foods in the first nine months of 2015 — for an average of one amputation per month"
+            "In the first nine months of 2015, workers in meat-packing plants owned by tyson foods averaged at least one amputation a month. That report was gleaned from a freedom of information act request by celeste monforton, a george washington university occupational health professor. Monforton writes on her blog that she sought the data because of a new regulation that requires companies to report injuries to osha within 24 hours. She focused on one of the big meatpackers, tyson, to get a feel for how the new rule, which kicked in on jan. 1, 2015, would play out. \" skinners. Band saws. Wing saws. Hide grippers. The names of these tools tell just part of the story of why these amputations occurred, \" monforton wrote. \" their names, however, provide more than an inkling about the physical demands of these jobs. \" most of the amputations occurred"
         ],
         "raw_document": [
             "Whole digits, tips of fingers, and parts of a thumb. These are body parts of tyson foods ' employees which were severed last year in 10 of the company's plants. The details are made possible by a new osha regulation that took effect on january 1, 2015. The regulation requires employers to report within 24 hours any work-related incident that results in an amputation or hospitalization. After nearly a year on the books, i was curious to find out what just a single large employer had reported to federal osha. I picked tyson foods. It has more than more than 400 facilities in 30 us states and it processes 35 million chickens, 400,000 hog, and 128,000 cattle per week. I sent a foia request to federal osha in october asking for data on injury reports submitted by tyson foods. I wasn't sure what to expect. How many incidents",
@@ -1910,18 +1896,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 25170,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "As the slaughter continues in syria, the pentagon has begun looking at options for supporting the rebels fighting bashar al-assad's regime — though officials were quick to note that us policy remains focused on using only non-military options at present. Arming the rebels \" is not being considered for now, \" says a white house spokesman. But the pentagon has begun a preliminary review of its capabilities in light of its other current commitments in the region, because \" it wouldn't be doing its job if it didn't put some ideas on the table, \" a senior military official tells cnn. He adds that this kind of review is a typical one, and cnn explains that the options are being assembled in case president obama were to request them. With western powers and their arab allies weighing their options for supporting the opposition, and iran and russia supporting assad's regime, analysts suspect a long and bloody proxy war lies ahead, likely with the us looking the other way as qatar and saudi arabia arm the syrian opposition, notes the los angeles times. Russia's foreign minister, who arrived in damascus for talks yesterday, says assad wants his vice president to hold peace talks with the opposition. Activists say more than 40 people have been killed today as government forces continue their assault on homs, which residents tell the bbc is under the heaviest shelling yet.",
         "split": "train",
         "cleansed_document": [
             "Washington has warned syrian president bashar assad that his days are numbered, but it now faces the vexing problem of how to dislodge a defiant leader intent on snuffing out the 11-month uprising against him.one option increasingly under consideration is arming the rebels; another is to just look the other way should its persian gulf allies do so.the obama administration said tuesday that it would not support giving weapons to the syrian opposition — for now, at least — despite calls from some congressional leaders to do so. Washington said its current focus is to organize a \" contact group \" to build stronger ties with the syrian opposition and pressure assad with tightened economic sanctions.but diplomats acknowledge privately that although this effort has value, it is likely to have a limited effect even as the syrian death toll continues to rise.meanwhile, assad stood his ground tuesday, welcoming russia'sforeign minister to damascus, the syrian capital.",
-            "By barbara starr although the u.s. Focus remains on exerting diplomatic and economic pressure on syria, the pentagon and the u.s. Central command have begun a preliminary internal review of u.s. Military capabilities, cnn has learned. The options are being prepared in the event president barack obama were to call for them. Two senior administration officials who spoke about the review to cnn emphasized that u.s. Policy for now remains the use of non-military options. The focus on diplomatic options was underscored by the u.s. Ambassador to the united nations in an interview with cnn on tuesday. \" before we start talking about military options, we very much want to ensure that we have exhausted all the political, economic and diplomatic means at our disposal, \" ambassador susan rice said on cnn's \"situation room with wolf blitzer. \" the president has also said that the u.s. Is working on non-military options first. \" i",
-            "Media playback is unsupported on your device media caption mother in homs: \" the outside world won't help us \" the syrian city of homs has come under renewed bombardment for the fifth day running - the heaviest so far, residents have told the bbc. Activists say tanks are on the streets, and pro-government militias are murdering civilians in their homes. On tuesday, president bashar al-assad had promised to end the violence. The us says it has run out of tools it can use to stop the killings in homs, after russia and china blocked a un security council resolution last week. \" in the coming days we will continue our very active discussions... To crystallise the international community's next steps in that effort to halt the slaughter of the syrian people, \" white house press secretary jay carney said. He said the us was not actively considering military intervention"
+            "By barbara starr although the u.s. Focus remains on exerting diplomatic and economic pressure on syria, the pentagon and the u.s. Central command have begun a preliminary internal review of u.s. Military capabilities, cnn has learned. The options are being prepared in the event president barack obama were to call for them. Two senior administration officials who spoke about the review to cnn emphasized that u.s. Policy for now remains the use of non-military options. The focus on diplomatic options was underscored by the u.s. Ambassador to the united nations in an interview with cnn on tuesday. \" before we start talking about military options, we very much want to ensure that we have exhausted all the political, economic and diplomatic means at our disposal, \" ambassador susan rice said on cnn's \"situation room with wolf blitzer. \" the president has also said that the u.s. Is working on non-military options first. \" i"
         ],
         "raw_document": [
             "Washington has warned syrian president bashar assad that his days are numbered, but it now faces the vexing problem of how to dislodge a defiant leader intent on snuffing out the 11-month uprising against him.one option increasingly under consideration is arming the rebels; another is to just look the other way should its persian gulf allies do so.the obama administration said tuesday that it would not support giving weapons to the syrian opposition — for now, at least — despite calls from some congressional leaders to do so. Washington said its current focus is to organize a \" contact group \" to build stronger ties with the syrian opposition and pressure assad with tightened economic sanctions.but diplomats acknowledge privately that although this effort has value, it is likely to have a limited effect even as the syrian death toll continues to rise.meanwhile, assad stood his ground tuesday, welcoming russia'sforeign minister to damascus, the syrian capital.",
@@ -1938,7 +1923,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1963,7 +1948,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1988,7 +1973,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2039,7 +2024,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2144,7 +2129,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2331,12 +2316,11 @@
     },
     {
         "idx": 25186,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The week culls steve jobs coverage to present seven little-known facts about him, including: famous sister: his biological sister is novelist mona simpson, who once \" painted a not-altogether-flattering picture of jobs in her silicon valley novel, a regular guy. \" still, jobs called her one of his \" best friends. \" calligraphy: he dropped out of liberal reed college in portland, but he said a calligraphy course he took there influenced his apple products. Acid trip: he tried lsd and called it \" one of the two or three most important things he has done in his life. \" ( this one is from the new york times. ) famous date: he once dated folk singer joan baez. Click for the full list or here to see how he differed from thomas edison.",
         "split": "train",
         "cleansed_document": [
-            "Steve jobs once dated joan baez and diane keaton? interesting new facts about the entrepreneur's personal life are bubbling to the surface in the wake of his death. Reuters/robert galbraith in the days following his death, obituaries and reflections on steve jobs are revealing intriguing, little-known facts about the enigmatic apple co-founder who closely guarded his private life. Here are seven: 1. He was adopted, and his biological father was syrian jobs was adopted, and his biological father, abdulfattah jandali, was a syrian man who went on to become a political science professor. Arabs embraced jobs because of his syrian roots, and the international business times once called him \" the most famous arab in the world. \" jandali, now 80 and living in nevada, had only light contact with his famous son through the years, sending him a birthday greeting but little else. \" this might sound strange, though, but i am not prepared, even if either of us was on our deathbeds, to pick up the phone to call him, \" jandali said in an interview less than two months ago. \" steve will have to do that, as the syrian pride in me does not want him ever to think i am after his fortune. \" 2. His biological sister is novelist mona simpson jobs ' biological parents, jandali",
-            "By then, having mastered digital technology and capitalized on his intuitive marketing sense, mr. Jobs had largely come to define the personal computer industry and an array of digital consumer and entertainment businesses centered on the internet. He had also become a very rich man, worth an estimated $ 8.3 billion. Tributes to mr. Jobs flowed quickly on wednesday evening, in formal statements and in the flow of social networks, with president obama, technology industry leaders and legions of apple fans weighing in. \"for those of us lucky enough to get to work with steve, it's been an insanely great honor, \" said bill gates, the microsoft co-founder. \"i will miss steve immensely. \" a twitter user named matt galligan wrote: \"r.i.p. Steve jobs. You touched an ugly world of technology and made it beautiful. \" eight years after founding apple, mr. Jobs led the team that designed the macintosh computer, a breakthrough in making personal computers easier to use. After a 12-year separation from the company, prompted by a bitter falling-out with his chief executive, john sculley, he returned in 1997 to oversee the creation of one innovative digital device after another — the ipod, the iphone and the ipad. These transformed not only product categories like music players and cellphones but also entire industries, like music and mobile communications. During"
+            "Steve jobs once dated joan baez and diane keaton? interesting new facts about the entrepreneur's personal life are bubbling to the surface in the wake of his death. Reuters/robert galbraith in the days following his death, obituaries and reflections on steve jobs are revealing intriguing, little-known facts about the enigmatic apple co-founder who closely guarded his private life. Here are seven: 1. He was adopted, and his biological father was syrian jobs was adopted, and his biological father, abdulfattah jandali, was a syrian man who went on to become a political science professor. Arabs embraced jobs because of his syrian roots, and the international business times once called him \" the most famous arab in the world. \" jandali, now 80 and living in nevada, had only light contact with his famous son through the years, sending him a birthday greeting but little else. \" this might sound strange, though, but i am not prepared, even if either of us was on our deathbeds, to pick up the phone to call him, \" jandali said in an interview less than two months ago. \" steve will have to do that, as the syrian pride in me does not want him ever to think i am after his fortune. \" 2. His biological sister is novelist mona simpson jobs ' biological parents, jandali"
         ],
         "raw_document": [
             "Steve jobs once dated joan baez and diane keaton? interesting new facts about the entrepreneur's personal life are bubbling to the surface in the wake of his death. Reuters/robert galbraith in the days following his death, obituaries and reflections on steve jobs are revealing intriguing, little-known facts about the enigmatic apple co-founder who closely guarded his private life. Here are seven: 1. He was adopted, and his biological father was syrian jobs was adopted, and his biological father, abdulfattah jandali, was a syrian man who went on to become a political science professor. Arabs embraced jobs because of his syrian roots, and the international business times once called him \" the most famous arab in the world. \" jandali, now 80 and living in nevada, had only light contact with his famous son through the years, sending him a birthday greeting but little else. \" this might sound strange, though, but i am not prepared, even if either of us was on our deathbeds, to pick up the phone to call him, \" jandali said in an interview less than two months ago. \" steve will have to do that, as the syrian pride in me does not want him ever to think i am after his fortune. \" 2. His biological sister is novelist mona simpson jobs ' biological parents, jandali",
@@ -2351,18 +2335,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 25187,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Curious to see the facebook ads bought by russian agents? democrats on the house intelligence committee just released about 3,500 of them on issues from gun control to black lives matter to immigration — often taking multiple sides on the same issue, the washington post reports. \" they sought to harness americans'very real frustrations and anger over sensitive political matters in order to influence american thinking, voting and behavior, \" says rep. Adam schiff, the committee's top democrat. Using targeting tools to reach specific people — like fox news fans or gay or black users — the kremlin-tied ads reached about 146 million users on facebook and its photo-sharing service, instagram. Among divisive messages from the kremlin-backed internet research agency: \" anti-beyoncé protest rally \" and \" pro-beyoncé protest rally, \" both outside the nfl's new york city headquarters at the same time and place; a \" brown power \" page showing defiant images of latino political self-assertion while \" south united \" used the confederate flag to promote nationalism, cnn money reports; a \" black matters \" page criticizing police brutality while \" american made \" urged people to support police, the guardian reports. Many of the ads are partly redacted to protect personal information, re/code notes, and don't include so-called \" organic \" content that the ira didn't pay to have posted. The ads ran from 2015 to 2017 and cost about $ 100,000.",
         "split": "train",
         "cleansed_document": [
             "The russian government-linked troll group indicted by special counsel robert mueller in february targeted more parts of the american population than had previously been reported, documents released thursday by democrats on the house intelligence committee show. The release includes more than 3,000 facebook and instagram ads purchased by the troll group, known as the internet research agency, between 2015 and 2017. The committee had previously released only a few dozen ads, making thursday's disclosure the most comprehensive insight into the trolls ' paid online activity that is publicly available. Cnn and others have previously reported on how the russian group operated a network of thousands of fake social media accounts that were designed to look like they were run by real american activists — including fake groups imitating black lives matter, muslims and donald trump supporters. Thursday's release shows the russians also targeted mexican-americans. It's not clear exactly when the russian page targeting mexican-americans was set up, but in 2017 it had more than 200,000 followers and many of its posts were shared thousands of times, the records released by the house intelligence committee show. The group also had a presence on instagram. Related: the unwitting: the trump supporters used by russia the page was titled \" brown power, \" and featured artwork that",
-            "The us congress has published 3,500 facebook ads that were created by russia's internet research agency in an effort to divide americans ahead of the 2016 presidential election and beyond. The ads cover a range of issues, including racial injustice, gun control, lgbt rights, immigration and patriotism. Included with each ad is information about how many people saw or engaged with the ad, the price paid in rubles and the target audience. A sample of the ads bought by the notorious russian troll factory between 2015 and 2017 for a total of about $ 100,000 was previously released by democrats on the house intelligence committee last year. Facebook provided them to the panel last year as part of an investigation into russian meddling in the election. The guardian view on facebook's business: a danger to democracy &#124; editorial read more the collection doesn't include the 80,000 posts that were shared by 120 fake russian-backed pages, shared by 29 million americans directly and viewed by as many as 126 million americans. Among the cache are sponsored posts describing police brutality against black people, including the killings of the 12-year-old tamir rice, the ferguson teenager michael brown and the unarmed motorist walter scott. They link to the \"black matters \" page on facebook. Facebook twitter",
-            "Note: there are no records from june 2017. To read more about these advertisements and russia's effort to sow discord online, click here."
+            "The us congress has published 3,500 facebook ads that were created by russia's internet research agency in an effort to divide americans ahead of the 2016 presidential election and beyond. The ads cover a range of issues, including racial injustice, gun control, lgbt rights, immigration and patriotism. Included with each ad is information about how many people saw or engaged with the ad, the price paid in rubles and the target audience. A sample of the ads bought by the notorious russian troll factory between 2015 and 2017 for a total of about $ 100,000 was previously released by democrats on the house intelligence committee last year. Facebook provided them to the panel last year as part of an investigation into russian meddling in the election. The guardian view on facebook's business: a danger to democracy &#124; editorial read more the collection doesn't include the 80,000 posts that were shared by 120 fake russian-backed pages, shared by 29 million americans directly and viewed by as many as 126 million americans. Among the cache are sponsored posts describing police brutality against black people, including the killings of the 12-year-old tamir rice, the ferguson teenager michael brown and the unarmed motorist walter scott. They link to the \"black matters \" page on facebook. Facebook twitter"
         ],
         "raw_document": [
             "The russian government-linked troll group indicted by special counsel robert mueller in february targeted more parts of the american population than had previously been reported, documents released thursday by democrats on the house intelligence committee show. The release includes more than 3,000 facebook and instagram ads purchased by the troll group, known as the internet research agency, between 2015 and 2017. The committee had previously released only a few dozen ads, making thursday's disclosure the most comprehensive insight into the trolls ' paid online activity that is publicly available. Cnn and others have previously reported on how the russian group operated a network of thousands of fake social media accounts that were designed to look like they were run by real american activists — including fake groups imitating black lives matter, muslims and donald trump supporters. Thursday's release shows the russians also targeted mexican-americans. It's not clear exactly when the russian page targeting mexican-americans was set up, but in 2017 it had more than 200,000 followers and many of its posts were shared thousands of times, the records released by the house intelligence committee show. The group also had a presence on instagram. Related: the unwitting: the trump supporters used by russia the page was titled \" brown power, \" and featured artwork that",
@@ -2379,7 +2362,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2488,7 +2471,7 @@
             "2": 0,
             "3": 0,
             "4": 5,
-            "5": 0
+            "5": 1
         }
     },
     {

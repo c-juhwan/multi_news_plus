@@ -21,7 +21,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -218,18 +218,17 @@
             "3": 3,
             "4": 1,
             "5": 0,
-            "6": 0
+            "6": 2
         }
     },
     {
         "idx": 9708,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "An illinois hardware store is looking for a man who apparently tried on a pair of snug work gloves and left a ring inside, the ap reports. Mark driscoll, owner of ace hardware in sugar grove, illinois, says he found the ring when he went to buy a pair of his own store's gloves before a trip to wisconsin. \" what the heck... \" he said to himself as he pulled out what he calls a quality piece of jewelry, per the chicago tribune. He says it could be a wedding band, but he doesn't want to give many details. Initially, he hoped the owner would come back to retrieve it; now he's put a \" lost ring \" post on the store's facebook page and expects the owner to provide a good description. \" if you can describe the ring, it is yours, \" the post says. Two women have contacted him with images of rings their husbands have lost, and one was \" fairly \" close, driscoll says, but not close enough. \" it's a mystery, but one that i hope has a happy ending, \" he says. \" no one wants to leave a wedding ring inside a work glove. \"",
         "split": "train",
         "cleansed_document": [
             "It's a mystery. Maybe not the kind that would end up as a netflix documentary or a \"dateline \" episode. But the case of the lost man's ring is a head-scratcher, nevertheless. It was mark driscoll who found it — of all places, inside a man's black work glove that was for sale, packaged and hanging from a display at ace hardware in sugar grove. Driscoll opened the business that sits not far from the intersection of galena boulevard and route 47 a few years ago. He was getting ready to head to his cabin in wisconsin for memorial day when he decided to buy a pair of the $ 17 ironclad gloves from his own store so he could complete a few home improvement projects at his out-of-state retreat. But when driscoll stuck his hand into the left glove — they were packaged together — he felt something inside the ring finger. \"what the heck... \" he muttered as he pulled out the ring. Discroll describes it as a nice piece of jewelry — could likely be a wedding band — but does not want to give away much more detail so it can get returned to the rightful owner. He was hoping that person would immediately realize the ring was missing and contact the store. But on monday, when no one had come forward, he put up a \"lost ring \" post on the store's facebook page, hoping it would get that",
-            "In this thursday, june 14, 2018 photo, mark driscoll, owner of the ace hardware in sugar grove, ill., holds a pair of gloves like the type he tried on recently and discovered a man's ring in one of the fingers. He's now trying to find the owner of the ring but so far has had no luck. ( denise crosby/chicago... ( associated press ) in this thursday, june 14, 2018 photo, mark driscoll, owner of the ace hardware in sugar grove, ill., holds a pair of gloves like the type he tried on recently and discovered a man's ring in one of the... ( associated press )",
-            "... Ile then finally going to the cashier and asking for help. Also they have a policy where they won't shake already opened paint cans. Fyi. News to me. So i had to go to home depot where they shook two cans for me and they were royal brand paint too. I definitely don't plan on returning anytime soon. Which is too bad because i live in sugar grove. It's always difficult to get any service in the paint section. I find myself standing there for a wh"
+            "In this thursday, june 14, 2018 photo, mark driscoll, owner of the ace hardware in sugar grove, ill., holds a pair of gloves like the type he tried on recently and discovered a man's ring in one of the fingers. He's now trying to find the owner of the ring but so far has had no luck. ( denise crosby/chicago... ( associated press ) in this thursday, june 14, 2018 photo, mark driscoll, owner of the ace hardware in sugar grove, ill., holds a pair of gloves like the type he tried on recently and discovered a man's ring in one of the... ( associated press )"
         ],
         "raw_document": [
             "It's a mystery. Maybe not the kind that would end up as a netflix documentary or a \"dateline \" episode. But the case of the lost man's ring is a head-scratcher, nevertheless. It was mark driscoll who found it — of all places, inside a man's black work glove that was for sale, packaged and hanging from a display at ace hardware in sugar grove. Driscoll opened the business that sits not far from the intersection of galena boulevard and route 47 a few years ago. He was getting ready to head to his cabin in wisconsin for memorial day when he decided to buy a pair of the $ 17 ironclad gloves from his own store so he could complete a few home improvement projects at his out-of-state retreat. But when driscoll stuck his hand into the left glove — they were packaged together — he felt something inside the ring finger. \"what the heck... \" he muttered as he pulled out the ring. Discroll describes it as a nice piece of jewelry — could likely be a wedding band — but does not want to give away much more detail so it can get returned to the rightful owner. He was hoping that person would immediately realize the ring was missing and contact the store. But on monday, when no one had come forward, he put up a \"lost ring \" post on the store's facebook page, hoping it would get that",
@@ -246,7 +245,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -495,12 +494,11 @@
     },
     {
         "idx": 9718,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The seahawks'derrick coleman is legally deaf, a fact that millions of people have discovered via a popular ad for duracell featuring the player. ( it's got more than 10 million views on youtube. ) but adweek takes note of a nice side story: a 9-year-old girl who is hearing impaired herself ( along with her identical twin sister ) wrote a letter of thanks and encouragement to coleman that got tweeted to him by her dad. Coleman then posted a hand-written letter of his own in response. \" i want you to know that i always try my best in everything i do and have faith in you &amp; your twin sister too, \" he wrote. \" even though we wear hearing aids, we can still accomplish our goals &amp; dreams! \" classy move, the father of letter-writer riley kovalcik tells the new york daily news. \" he's somebody to look up to, and he made her feel like hearing aids are cool. \"",
         "split": "train",
         "cleansed_document": [
-            "Derrick coleman has a lifelong fan in this little girl from new jersey. Coleman, the deaf fullback for the super bowl bound seattle seahawks, received a touching tweet after the team's big win sunday from hearing impaired girl riley kovalcik, 9, of roxbury, n.j. \"i know how you feel. I also have hearing aids, \" kovalcik, who started losing her hearing at the age of 1, wrote in the tender note. \"i have faif ( sic ) in you derrick good job on january 20th game. \" after riley kovalcik, 9, watched the seahawks'dramatic victory on sunday and the fullback's duracell commercial, she was inspired to write him a letter. Her father, jake, posted a photo of it on twitter and it quickly went viral. ( @jakeismobile via twitter ) a photo of kovalcik's heartwarming handwritten letter — posted from her father jake kovalcik's twitter account on tuesday — quickly circulated around the internet and caught the attention of the seahawks and coleman, who penned his own response to his more than 23,000 followers. \"really was great hearing from a friend who i have so much in common with, \" the gritty gridiron gladiator wrote on wednesday. \"even though we wear hearing aids, we can still accomplish our goals &amp; dreams! if you or your family ever in seattle, i hope we can all get together &amp; play some sports or games! \" seahawks fullback derrick coleman reached out to bond with young riley kovalcik. ( ted mase for new york daily news ) riley's initial message has been recirculated more than 1,100 times in just one day. Her dad expressed disbelief at how much attention his little girl's letter attracted. \"the only reason i put the tweet out was so that he can get to see that he's an inspiration for my kids, \" the doting dad told the daily news. \"i don't think she's ever written to anyone like that, ever. \" so moved by the child's letter, coleman wrote her back with his own, stating in part: ' even though we wear hearing aids, we can still accomplish our goals &amp; dreams. ' ( @dc2forlife via twitter ) coleman was recently featured in a slick duracell commercial that chronicled his amazing journey from bullied deaf youngster to football sensation. Prior to the commercial, coleman's hearing impairment was a relative secret. The fullback has always given a stiff-arm",
-            "We've detected that javascript is disabled in your browser. Would you like to proceed to legacy twitter? yes"
+            "Derrick coleman has a lifelong fan in this little girl from new jersey. Coleman, the deaf fullback for the super bowl bound seattle seahawks, received a touching tweet after the team's big win sunday from hearing impaired girl riley kovalcik, 9, of roxbury, n.j. \"i know how you feel. I also have hearing aids, \" kovalcik, who started losing her hearing at the age of 1, wrote in the tender note. \"i have faif ( sic ) in you derrick good job on january 20th game. \" after riley kovalcik, 9, watched the seahawks'dramatic victory on sunday and the fullback's duracell commercial, she was inspired to write him a letter. Her father, jake, posted a photo of it on twitter and it quickly went viral. ( @jakeismobile via twitter ) a photo of kovalcik's heartwarming handwritten letter — posted from her father jake kovalcik's twitter account on tuesday — quickly circulated around the internet and caught the attention of the seahawks and coleman, who penned his own response to his more than 23,000 followers. \"really was great hearing from a friend who i have so much in common with, \" the gritty gridiron gladiator wrote on wednesday. \"even though we wear hearing aids, we can still accomplish our goals &amp; dreams! if you or your family ever in seattle, i hope we can all get together &amp; play some sports or games! \" seahawks fullback derrick coleman reached out to bond with young riley kovalcik. ( ted mase for new york daily news ) riley's initial message has been recirculated more than 1,100 times in just one day. Her dad expressed disbelief at how much attention his little girl's letter attracted. \"the only reason i put the tweet out was so that he can get to see that he's an inspiration for my kids, \" the doting dad told the daily news. \"i don't think she's ever written to anyone like that, ever. \" so moved by the child's letter, coleman wrote her back with his own, stating in part: ' even though we wear hearing aids, we can still accomplish our goals &amp; dreams. ' ( @dc2forlife via twitter ) coleman was recently featured in a slick duracell commercial that chronicled his amazing journey from bullied deaf youngster to football sensation. Prior to the commercial, coleman's hearing impairment was a relative secret. The fullback has always given a stiff-arm"
         ],
         "raw_document": [
             "Go to the legal help page to request content changes for legal reasons.",
@@ -517,7 +515,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -607,13 +605,12 @@
     },
     {
         "idx": 9722,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The latest mystery buzzing around the internet: is beyonce pregnant? media take out reports that she is, citing a \"rock solid source \" and adding that she's healthy and hubby jay-z is very excited. The huffington post, the daily mail, and the new york post were convinced enough by the report to at least — somewhat tentatively — reprint it.",
         "split": "train",
         "cleansed_document": [
             "Update: gossipcop calls the report totally fake and says beyonce is, according to their sources, not with child. They call mediatakeout.com \" media fake out. \" previously: is beyonce pregnant? mediatakeout.com reports that she and jay-z are expecting their first child. March 25, 2010. It's been a long time waiting... But now it's finally happened. Mediatakeout.com just learned from a rock solid source that legendary singer beyonce and her hip hop mogul husband jay z are expecting their first child together. According to our source beyonce is doing fine and resting ( for now ), but she's expected to continue working throughout her pregnancy. And we're also told that jay z is extremely happy to be having his first child with bey. Beyonce has spoken about the hard work of having a baby, having watched her younger sister solange marry and have a son while she was still a teenager. If it's true, congrats! if not, nevermind! the pair have been married almost two years and she's coming off a world tour.",
-            "Jay z and beyonce are expecting their first child, according to a report. Mediatakeout.com, a blog which claims to be \"the most visited urban website in the world, \" says that beyonce is pregnant. The website apparently \"learned from a rock solid source \" that she's expecting, and \"is doing fine and resting ( for now ). \" the site also reported that jay z is \"extremely happy to be having his first child with bey. \" beyonce's spokesman refused to discuss the pregnancy report, while a rep for jay-z did not immediately respond to calls seeking comments. \"no comment, \" said alan nierob, beyonce's publicist. \"we don't respond to private-matter inquiries. \" beyonce will reportedly continue to work through the pregnancy, the site said. The couple wed in a tented, rooftop, candlelit ceremony in april 2008, but have always been discreet about their personal relationship. Beyonce wasn't seen sporting a wedding ring until four months later, when she flashed a big rock at the fashion rocks concert at fashion week. The couple started dating in 2002 after they collaborated on several projects.",
-            "Richard madden, pictured with keeley hawes, said he will return to los angeles later this month to consider future projects, joking: ' if i ' m going to sit and read scripts, i'd rather do it here by a pool. '"
+            "Jay z and beyonce are expecting their first child, according to a report. Mediatakeout.com, a blog which claims to be \"the most visited urban website in the world, \" says that beyonce is pregnant. The website apparently \"learned from a rock solid source \" that she's expecting, and \"is doing fine and resting ( for now ). \" the site also reported that jay z is \"extremely happy to be having his first child with bey. \" beyonce's spokesman refused to discuss the pregnancy report, while a rep for jay-z did not immediately respond to calls seeking comments. \"no comment, \" said alan nierob, beyonce's publicist. \"we don't respond to private-matter inquiries. \" beyonce will reportedly continue to work through the pregnancy, the site said. The couple wed in a tented, rooftop, candlelit ceremony in april 2008, but have always been discreet about their personal relationship. Beyonce wasn't seen sporting a wedding ring until four months later, when she flashed a big rock at the fashion rocks concert at fashion week. The couple started dating in 2002 after they collaborated on several projects."
         ],
         "raw_document": [
             "Update: gossipcop calls the report totally fake and says beyonce is, according to their sources, not with child. They call mediatakeout.com \" media fake out. \" previously: is beyonce pregnant? mediatakeout.com reports that she and jay-z are expecting their first child. March 25, 2010. It's been a long time waiting... But now it's finally happened. Mediatakeout.com just learned from a rock solid source that legendary singer beyonce and her hip hop mogul husband jay z are expecting their first child together. According to our source beyonce is doing fine and resting ( for now ), but she's expected to continue working throughout her pregnancy. And we're also told that jay z is extremely happy to be having his first child with bey. Beyonce has spoken about the hard work of having a baby, having watched her younger sister solange marry and have a son while she was still a teenager. If it's true, congrats! if not, nevermind! the pair have been married almost two years and she's coming off a world tour.",
@@ -630,7 +627,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -761,13 +758,12 @@
     },
     {
         "idx": 9727,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Anthony weiner stuck to script: he resigned his congressional seat this afternoon as expected. Weiner again apologized, \" particularly to my wife, huma, \" and said the \" distraction that i have created \" by his sexting scandal made it impossible for him to stay in office, reports cnn. ( read the full text here. ) he spoke for only a few minutes and again heard from rowdy hecklers, including benjy bronk of the howard stern show in a repeat performance, notes tmz. ( see video in the gallery. ) the good news is no more stories like these. The bad news? weiner was actually a pretty good congressman, writes chris smith at new york. \" weiner loved this city, he loved politics, and he had the talent to use the latter to make the former a better place. \" a showboat, yes, but he also did good things when the cameras weren't rolling. \" we've all lost something with anthony weiner's political demise. \"",
         "split": "train",
         "cleansed_document": [
             "Washington ( cnn ) -- democratic rep. Anthony weiner heeded calls from across the political spectrum by resigning from office thursday, saying the sexting scandal he first lied about and then admitted caused such a distraction that it was impossible for him to continue his work in congress. In a brief statement to reporters interrupted repeatedly by a heckler, the new york congressman apologized \" for the personal mistakes i have made and for the embarrassment i have caused \" to his neighbors, to his constituents and \" particularly to my wife. \" \" unfortunately, the distraction that i have created \" made it \" impossible \" to continue working in congress, weiner said. Key dates in weiner scandal he was greeted by some cheers when he entered the room at a community center in his home district to make the announcement. One onlooker, however, heckled weiner by shouting \" pervert \" and later yelled",
-            "Anthony weiner heckled as he resigns from congress weiner heckled as he resigns from congress anthony weiner just resigned his seat in congress, as people in the room heckled him. Kathy sad case. Sad man. Looks like its going to be difficult for him -- can't blame anyone but himself. Celebrities suck good lord, why are people making it such an issue at least we all know he's normal. Most of the people that are yelling out are probably perverts themselves. \" let any one of you who is without sin be the first to throw the first stone \" jxtr it's a shame that an ignorant person, or persons were shouting vulgar and inappropriate language during the press conference. This type of behavior is not funny and not warranted. This person( s ) behavior demonstrates the stupidity in our society. Weiner apologized to his constituents and to",
-            "In a time long ago, before twitter existed, anthony weiner's campaign day ended at the staten island yankees ballpark. He worked the aisles, gabbing happily with old ladies and little kids, then climbed up to the concession area behind home plate and bought a beer. Then he did something really unusual: he didn't insist that his beer be off the record. I can't remember another politician i've covered voluntarily consuming alcohol in public; the few who had a glass of wine with a dinner interview only did so after extracting a promise the drink never appear in print; whether it was public or private, they all looked so uncomfortable and unfamiliar with adult beverages that they might as well have been picking up nuclear fuel rods. Weiner looked like a guy at a game on a hot day with his sleeves rolled up drinking a beer"
+            "Anthony weiner heckled as he resigns from congress weiner heckled as he resigns from congress anthony weiner just resigned his seat in congress, as people in the room heckled him. Kathy sad case. Sad man. Looks like its going to be difficult for him -- can't blame anyone but himself. Celebrities suck good lord, why are people making it such an issue at least we all know he's normal. Most of the people that are yelling out are probably perverts themselves. \" let any one of you who is without sin be the first to throw the first stone \" jxtr it's a shame that an ignorant person, or persons were shouting vulgar and inappropriate language during the press conference. This type of behavior is not funny and not warranted. This person( s ) behavior demonstrates the stupidity in our society. Weiner apologized to his constituents and to"
         ],
         "raw_document": [
             "Washington ( cnn ) -- democratic rep. Anthony weiner heeded calls from across the political spectrum by resigning from office thursday, saying the sexting scandal he first lied about and then admitted caused such a distraction that it was impossible for him to continue his work in congress. In a brief statement to reporters interrupted repeatedly by a heckler, the new york congressman apologized \" for the personal mistakes i have made and for the embarrassment i have caused \" to his neighbors, to his constituents and \" particularly to my wife. \" \" unfortunately, the distraction that i have created \" made it \" impossible \" to continue working in congress, weiner said. Key dates in weiner scandal he was greeted by some cheers when he entered the room at a community center in his home district to make the announcement. One onlooker, however, heckled weiner by shouting \" pervert \" and later yelled",
@@ -784,7 +780,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -876,7 +872,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -992,13 +988,12 @@
     },
     {
         "idx": 9735,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Republican candidate greg gianforte has prevailed in the race for montana's only us house seat despite having been charged with assaulting a reporter on the eve of the special election. Gianforte had 51 % of the vote when the race was called for him, with democratic folk singer rob quist at 44 % and libertarian candidate mark wicks at 6 %, politico reports. At his victory party thursday night, gianforte apologized to the reporter he allegedly grabbed and slammed to the ground, the ap reports. \" i should not have responded the way i did and for that i am sorry, \" he said. Quist, a first-time candidate, was attempting to become the first democrat elected to the seat since 1997. After the incident with guardian reporter ben jacobs, which was witnessed by a fox news crew, democrats called for gianforte to withdraw from the race, the state's leading newspapers withdrew their endorsements, and republicans including paul ryan called for an apology. But gianforte, a technology entrepreneur, managed to hang on, helped by the fact that more than 200,000 of the state's 700,000 eligible voters had cast early ballots, the washington post reports. Quist adviser matt mckenna accused gianforte of running an ugly campaign and said that despite the win, gianforte's political career is doomed, with the governor's office now probably out of reach and jail still a possibility.",
         "split": "train",
         "cleansed_document": [
             "Republican greg gianforte won montana's special house election thursday night, beating democrat rob quist a day after gianforte was charged with assault for allegedly attacking a reporter covering his campaign. The incident threatened to sink a red-state campaign that was already worrying republicans nationally, despite president donald trump's 20-point win in montana just last year. But gianforte's win preserved the gop's 24-seat edge in the house of representatives, frustrating democratic activists who poured money into quist's campaign and demanded more help from party groups that saw the uphill, red-state race as unwinnable. Story continued below gianforte, a technology executive, had 51 percent of the vote when the associated press called the race at about 10: 30 p.m. Mountain time. Quist, a folk singer and first-time candidate, had 44 percent of the vote. A libertarian candidate, mark wicks, had 6 percent",
-            "Republican businessman greg gianforte won montana's sole house district in a special election thursday, keeping a seat in republican hands despite facing assault charges for allegedly attacking a reporter who'd asked him about the gop's health-care bill. In his victory speech, gianforte admitted to the attack and apologized for it. \"i shouldn't have treated that reporter that way, \" he told supporters at his rally here. The victory, called by the associated press, offered some relief for republicans, who have struggled to sell their obamacare overhaul, the american health care act. But it was a closer call than the party had expected when it tapped the multimillionaire to run in a state president trump carried by 20 points — and when democrats nominated folk singer rob quist instead of an experienced politician. With 83 percent of the vote counted, gianforte led quist 51 percent to",
-            "File - in this march 6, 2017 file photo technology entrepreneur greg gianforte speaks to republican delegates before a candidate forum in helena, mont. Gianforte won montana's only u.s. House seat on... ( associated press ) file - in this march 6, 2017 file photo technology entrepreneur greg gianforte speaks to republican delegates before a candidate forum in helena, mont. Gianforte won montana's only u.s. House seat on thursday, may 25, despite being charged a day earlier with assault after witnesses said he grabbed a... ( associated press ) bozeman, mont. ( ap ) — the latest on the misdemeanor assault case against greg gianforte, a republican candidate for a montana congressional seat in a special election thursday. ( all times local ): 10: 55 p.m. Newly elected republican congressman greg gianforte apologized to the reporter he's charged with assaulting. After being declared"
+            "Republican businessman greg gianforte won montana's sole house district in a special election thursday, keeping a seat in republican hands despite facing assault charges for allegedly attacking a reporter who'd asked him about the gop's health-care bill. In his victory speech, gianforte admitted to the attack and apologized for it. \"i shouldn't have treated that reporter that way, \" he told supporters at his rally here. The victory, called by the associated press, offered some relief for republicans, who have struggled to sell their obamacare overhaul, the american health care act. But it was a closer call than the party had expected when it tapped the multimillionaire to run in a state president trump carried by 20 points — and when democrats nominated folk singer rob quist instead of an experienced politician. With 83 percent of the vote counted, gianforte led quist 51 percent to"
         ],
         "raw_document": [
             "Republican greg gianforte won montana's special house election thursday night, beating democrat rob quist a day after gianforte was charged with assault for allegedly attacking a reporter covering his campaign. The incident threatened to sink a red-state campaign that was already worrying republicans nationally, despite president donald trump's 20-point win in montana just last year. But gianforte's win preserved the gop's 24-seat edge in the house of representatives, frustrating democratic activists who poured money into quist's campaign and demanded more help from party groups that saw the uphill, red-state race as unwinnable. Story continued below gianforte, a technology executive, had 51 percent of the vote when the associated press called the race at about 10: 30 p.m. Mountain time. Quist, a folk singer and first-time candidate, had 44 percent of the vote. A libertarian candidate, mark wicks, had 6 percent",
@@ -1015,7 +1010,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1051,13 +1046,12 @@
     },
     {
         "idx": 9737,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "As mediaite notes, you probably heard the most \" shocking \" revelations from lady gaga's larry king interview long before the interview actually aired last night: she tested \" borderline positive \" for lupus, she was set to open for michael jackson's \" this is it \" tour, etc, etc. Watch the full interview above ( as compiled by the huffington post ) or check out the best moments, courtesy of gawker and flavorwire: the intro: hearing larry king say the word \" freak \" is decidedly amusing. King's awkwardness: he stumbles over gaga's given name, and later, when presenting a question from twitter, says, \" we have a tweeter question twitted to us. \" her career: what would gaga be doing if not working in showbiz? \" i would be dead. \" the outfits: since gaga was dressed up like larry king, suspenders and all, he took a moment to put on some shades in an effort to imitate her. Her aspirations: when did she know she wanted to perform? \" in the womb, larry. In my mother's warm womb. \" her costumes: \" lots of the new and original pieces are meant to be a rejection of the way people view women. I guess i ' m a feminist. \"",
         "split": "train",
         "cleansed_document": [
             "In less than two years as a household name, lady gaga has done some outrageous things: she's made weird, beautiful videos. She's worn a dress made of kermits. Her drag-like persona has inspired rumors that she's a man, baby. Recently, she invited a reporter to \"come party with gaga \" at a sex club, where she peed through her fishnets. But tonight she's made perhaps the most inexplicable move of her career. Reader, she went on larry king live. What do a 24-year-old poster child for all things new, pop, and camp and a 77-year-old news dinosaur have to talk about? find out after the jump, where we compile the interview's many awkward, incongruous, and magical moments. First things first: gaga is dressed like a glam-rock larry king, in sequined suspenders and a tie",
-            "In one of the most anticipated interviews on larry king live since snoop dogg took larry king to roscoe's chicken and waffles, it was finally lady gaga's turn to sit down, like so many hundreds of stars, with king tonight. Most of her points weren't shocking – or, at least, not shocking in the context of lady gaga – but there were echoes of other prominent american women in the way she hinted at her love/hate relationship with the media. Gaga showed up dressed in her best larry king halloween outfit and sitting in what looked like an abandoned set from the old snl sketch \"the prince show, \" which seemed strangely appropriate for their first on-air meeting. Many of the \"shockers \" of the interview were released beforehand – she may have lupus! she was set to open for michael jackson! – and her strongest philosophical points about her dedication",
-            "Please confirm your birth date: please confirm your birth date: please enter a valid date please enter your full birth year this content is restricted. This content is restricted. Omgaga! tonight's episode of larry king live was an hour full of lady gaga goodness — and it delivered. Video of the best moments — awkward exchanges, gaga's thoughts on fame and religion, a preview of the \" alejandro \" video, and more — is inside. The freaky intro who knew that hearing king say \" freak \" in a voiceover could be so entertaining? name butchering when king attempted to ask gaga how she got her name, he had some trouble pronouncing the one with which she was born. Gaga's michael jackson revelation did you know that gaga was set to open for jackson's \" this is it \" tour? well, you do"
+            "In one of the most anticipated interviews on larry king live since snoop dogg took larry king to roscoe's chicken and waffles, it was finally lady gaga's turn to sit down, like so many hundreds of stars, with king tonight. Most of her points weren't shocking – or, at least, not shocking in the context of lady gaga – but there were echoes of other prominent american women in the way she hinted at her love/hate relationship with the media. Gaga showed up dressed in her best larry king halloween outfit and sitting in what looked like an abandoned set from the old snl sketch \"the prince show, \" which seemed strangely appropriate for their first on-air meeting. Many of the \"shockers \" of the interview were released beforehand – she may have lupus! she was set to open for michael jackson! – and her strongest philosophical points about her dedication"
         ],
         "raw_document": [
             "In less than two years as a household name, lady gaga has done some outrageous things: she's made weird, beautiful videos. She's worn a dress made of kermits. Her drag-like persona has inspired rumors that she's a man, baby. Recently, she invited a reporter to \"come party with gaga \" at a sex club, where she peed through her fishnets. But tonight she's made perhaps the most inexplicable move of her career. Reader, she went on larry king live. What do a 24-year-old poster child for all things new, pop, and camp and a 77-year-old news dinosaur have to talk about? find out after the jump, where we compile the interview's many awkward, incongruous, and magical moments. First things first: gaga is dressed like a glam-rock larry king, in sequined suspenders and a tie",
@@ -1074,7 +1068,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1239,7 +1233,7 @@
             "0": 2,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1267,7 +1261,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1297,12 +1291,11 @@
     },
     {
         "idx": 9746,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "If you're far from an atm belonging to your own bank, brace yourself to shell out a few bucks. Banks across the country are hiking atm fees, credit.com reports. Chase, for example, is charging non-customers $ 5 to use their atms in an illinois pilot program — and that's on top of any fee the users ' own banks are demanding. So why the soaring surcharge? banks say it's to make up for the cost of last year's wall street reform, including restrictions on debit card fees. \"the new regulations add up to big money, \" says a consultant. Other experts disagree: banks have been increasing their atm fees for a decade now, notes one. With the debit card rule due to take effect april 21, \"i look at these higher fees as a scare tactic aimed at roiling congressional waters, \" says another. The week has more on the fees.",
         "split": "train",
         "cleansed_document": [
-            "J pmorgan chase is raising eyebrows by charging non – chase customers $ 5 withdrawal fees at chase atms in illinois. But if this pilot program and another $ 4-a-pop one in texas prove successful, getting cash may become more expensive nationwide. What's behind the sudden dramatic ratcheting up of atm fees, and is there any way to avoid them? here, a brief guide. How is chase justifying the fee hike? atms are expensive to set up and maintain. Chase, for example, says it spends $ 200 million a year to run its 16,000 atms nationwide. Banks are also searching for new sources of revenue, thanks to the financial reform law that passed last year, which limits the amount they can charge customers for overdrafts or debit cards. \" how depressing \" that \" regulations installed to help the man and woman on the street, are now working against them, \" says katya wachtel at business insider. So it's washington's fault? don't be so sure. Atm fees have been on the rise for decades, skeptics note, and the timing here is suspicious. Banks are lobbying congress heavily to postpone the april 21 start of the debit-card restrictions, and this stinks of \" a scare tactic aimed at roiling congressional waters, \" says ed mierzwinski at the u.s.",
-            "Hello, reader! thanks for checking out credit.com. We hope you find the site and the journalism we produce useful. We wanted to take some time to tell you a bit about ourselves. Our people the credit.com editorial team is staffed by a team of editors and reporters, each with many years of financial reporting experience. We've worked for places like the new york times, american banker, frontline, thestreet.com, business insider, abc news, nbc news, cnbc and many others. We also employ a few freelancers and more than 50 contributors ( these are typically subject matter experts from the worlds of finance, academia, politics, business and elsewhere ). Our reporting we take great pains to ensure that the articles, video and graphics you see on credit.com are thoroughly reported and fact-checked. Each story is read by two separate editors, and we adhere to the highest editorial standards. We're not perfect, however, and if you see something that you think is wrong, please email us at editorial team [ at ] credit [ dot ] com, the credit.com editorial team is committed to providing our readers and viewers with sound, well-reported and understandable information designed to inform and empower. We won't tell you what to do. We will, however, do our best to explain"
+            "J pmorgan chase is raising eyebrows by charging non – chase customers $ 5 withdrawal fees at chase atms in illinois. But if this pilot program and another $ 4-a-pop one in texas prove successful, getting cash may become more expensive nationwide. What's behind the sudden dramatic ratcheting up of atm fees, and is there any way to avoid them? here, a brief guide. How is chase justifying the fee hike? atms are expensive to set up and maintain. Chase, for example, says it spends $ 200 million a year to run its 16,000 atms nationwide. Banks are also searching for new sources of revenue, thanks to the financial reform law that passed last year, which limits the amount they can charge customers for overdrafts or debit cards. \" how depressing \" that \" regulations installed to help the man and woman on the street, are now working against them, \" says katya wachtel at business insider. So it's washington's fault? don't be so sure. Atm fees have been on the rise for decades, skeptics note, and the timing here is suspicious. Banks are lobbying congress heavily to postpone the april 21 start of the debit-card restrictions, and this stinks of \" a scare tactic aimed at roiling congressional waters, \" says ed mierzwinski at the u.s."
         ],
         "raw_document": [
             "J pmorgan chase is raising eyebrows by charging non – chase customers $ 5 withdrawal fees at chase atms in illinois. But if this pilot program and another $ 4-a-pop one in texas prove successful, getting cash may become more expensive nationwide. What's behind the sudden dramatic ratcheting up of atm fees, and is there any way to avoid them? here, a brief guide. How is chase justifying the fee hike? atms are expensive to set up and maintain. Chase, for example, says it spends $ 200 million a year to run its 16,000 atms nationwide. Banks are also searching for new sources of revenue, thanks to the financial reform law that passed last year, which limits the amount they can charge customers for overdrafts or debit cards. \" how depressing \" that \" regulations installed to help the man and woman on the street, are now working against them, \" says katya wachtel at business insider. So it's washington's fault? don't be so sure. Atm fees have been on the rise for decades, skeptics note, and the timing here is suspicious. Banks are lobbying congress heavily to postpone the april 21 start of the debit-card restrictions, and this stinks of \" a scare tactic aimed at roiling congressional waters, \" says ed mierzwinski at the u.s.",
@@ -1317,7 +1310,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1455,12 +1448,11 @@
     },
     {
         "idx": 9752,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Criticisms that the oscars are too white may not simply result in changes to the membership of the academy of motion picture arts and sciences. The los angeles times reports the board of governors is considering stipulating that 10 movies always be named in the best picture category from here on out. It may also name eight or 10 nominees in the acting categories, but the new york times reports this is a \" less likely \" option considering how \" sacrosanct \" the five-person approach is regarded as being. \" it's a knee-jerk response to this year's #oscarssowhite controversy that, if enacted, won't necessarily solve anything other than the academy's current public relations disaster, \" an unnamed academy member says. Five movies were nominated for best picture from 1944 to 2008, while 10 films were nominated for 2009 and 2010. Since then, the academy has been open to nominating five to 10 movies. The nyt points out that those two 10-film years don't exactly signal instant success: the blind side and precious ( both released in 2009 ) were the only films that could legitimately identify as being ethnically diverse in those years. The guardian floats one more idea apparently on the table: rescinding the voting rights of older members who don't vote regularly; a 2012 report described the 6,300-person academy as 94 % white, 77 % male, 2 % black; and less than 2 % latino. The academy will discuss possible changes at a meeting on tuesday.",
         "split": "train",
         "cleansed_document": [
-            "Nominee lists could be upped to 10 and less active voting members pruned in wake of furore over all-white acting nominations for second year the academy of motion picture arts and sciences will make substantial changes to overhaul the oscars awards ceremony, according to the new york times. In the wake of a furious debate over diversity, after all 20 acting nominations went to white people for the second year running, the academy will examine whether the number of nominees for each category should be expanded. And it will consider rule changes to increase the current low number of voters from black and ethnic minority backgrounds. Oscars race row rule change and the terminator, terminated – dailies film podcast read more the easiest change the academy might make would be to restore the number of best picture nominees to 10 – the number has recently varied between five and 10 depending on whether potential nominees achieved a minimum of 5 % of the overall vote by members in a given year. There have been 10 nominated films before - between 2010 and 2011, when the rule-change was introduced to avoid popular movies such as the dark knight missing out on nominations and rendering the oscars less relevant. Previously, the number of nominees had been five. According to the new york times's sources, the academy is also considering a more radical ( and less likely )",
-            "Also possible is a requirement that academy members cast a ballot regularly, or lose voting privileges temporarily. It was not immediately clear how a use-it-or-lose-it provision would change the voting. No firm plan to change voting methods, or possibly the membership process, is likely before a meeting of the academy's 51-member governing board on tuesday, according to the people briefed on the matter. But officers and executives of the academy have been scrambling to find changes that might broaden the nominees next year, even as they wait for a push for diversity to substantially change a voting base that in the past was heavily white, older and male. The academy's membership is made up of more than 6,000 movie professionals from around the world. Invitations to join are extended annually based on achievement and other contributions to the industry. In a statement on monday the group's president, cheryl boone isaacs, pointed toward \"dramatic steps \" and an immediate review of how members are recruited. An academy spokeswoman declined to discuss the expected steps. But a larger best picture field might have opened the door this year to \"straight outta compton \" or \"creed. \" the current nominating system, in which voters are asked to list five films in order of preference and then the field is winnowed to a group that can vary from five to 10"
+            "Nominee lists could be upped to 10 and less active voting members pruned in wake of furore over all-white acting nominations for second year the academy of motion picture arts and sciences will make substantial changes to overhaul the oscars awards ceremony, according to the new york times. In the wake of a furious debate over diversity, after all 20 acting nominations went to white people for the second year running, the academy will examine whether the number of nominees for each category should be expanded. And it will consider rule changes to increase the current low number of voters from black and ethnic minority backgrounds. Oscars race row rule change and the terminator, terminated – dailies film podcast read more the easiest change the academy might make would be to restore the number of best picture nominees to 10 – the number has recently varied between five and 10 depending on whether potential nominees achieved a minimum of 5 % of the overall vote by members in a given year. There have been 10 nominated films before - between 2010 and 2011, when the rule-change was introduced to avoid popular movies such as the dark knight missing out on nominations and rendering the oscars less relevant. Previously, the number of nominees had been five. According to the new york times's sources, the academy is also considering a more radical ( and less likely )"
         ],
         "raw_document": [
             "Nominee lists could be upped to 10 and less active voting members pruned in wake of furore over all-white acting nominations for second year the academy of motion picture arts and sciences will make substantial changes to overhaul the oscars awards ceremony, according to the new york times. In the wake of a furious debate over diversity, after all 20 acting nominations went to white people for the second year running, the academy will examine whether the number of nominees for each category should be expanded. And it will consider rule changes to increase the current low number of voters from black and ethnic minority backgrounds. Oscars race row rule change and the terminator, terminated – dailies film podcast read more the easiest change the academy might make would be to restore the number of best picture nominees to 10 – the number has recently varied between five and 10 depending on whether potential nominees achieved a minimum of 5 % of the overall vote by members in a given year. There have been 10 nominated films before - between 2010 and 2011, when the rule-change was introduced to avoid popular movies such as the dark knight missing out on nominations and rendering the oscars less relevant. Previously, the number of nominees had been five. According to the new york times's sources, the academy is also considering a more radical ( and less likely )",
@@ -1475,18 +1467,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
         "idx": 9753,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Celebrate the end of the work week and continued survival of our planet friday with a glance up at the sky. There, you could get a glimpse of an asteroid whipping past earth at a distance of 39,000 miles — roughly five times closer to us than the moon — around 5: 30pm est. Only discovered on sunday, the asteroid known as 2018 cb is believed to be 50 to 130 feet wide, making it bigger than the one that caused such a stir when it landed in chelyabinsk, russia, in 2013, notes the la times. This one won't hit earth, but it's \" a reminder that asteroids can pass very close to our planet and it's important that we find these objects when they do get close, \" paul chodas of the center for near-earth object studies at nasa's jet propulsion laboratory tells the guardian. The asteroid — spotted by astronomers at the catalina sky survey in arizona — will actually be the third to zip near earth this week. While eyes were glued to spacex's tuesday rocket launch, an asteroid estimated to be 50 to 100 feet wide came within 114,000 miles of earth, roughly half the distance to the moon, reports astronomy. Dubbed 2018 cc, it was discovered at the same time as 2018 cb, meaning we had only two days ' notice of its arrival. A third asteroid passed within 2.6 million miles of earth on sunday, per space.com. If any of these visits freak you out, you might want to start preparing now for 2029. That's when a monster 1,000-foot-wide asteroid will pass earth at one-tenth of the distance to the moon, per the guardian. ( a skull-shaped asteroid is still to come in 2018. )",
         "split": "train",
         "cleansed_document": [
             "This article is over 11 months old the space rock 2018 cb is up to 40m long and will come within 64,000km of the planet's surface asteroid passing close to earth today – no need to worry an asteroid is headed our way – the second this week – but there's no need to worry. The newly discovered space rock will pass within 39,000 miles ( 63,000km ) of earth on friday evening gmt. That's less than one-fifth the distance to the moon. Designated 2018 cb, the asteroid is an estimated 50ft to 130ft ( 15 meters to 40 meters",
-            "Two small asteroids recently discovered by astronomers at the nasa-funded catalina sky survey ( css ) near tucson, arizona, are safely passing by earth within one lunar distance this week. The first of this week's close-approaching asteroids -- discovered by css on feb. 4 -- is designated asteroid 2018 cc. Its close approach to earth came tuesday ( feb. 6 ) at 12: 10 p.m. Pst ( 3: 10 p.m. Est ) at a distance of about 114,000 miles ( 184,000 kilometers ). The asteroid is estimated to be between 50 and 100 feet ( 15 and 30 meters ) in",
-            "A fast-moving asteroid will make a close flyby of earth this super bowl sunday ( feb. 4 ), but it poses no risk of hitting our planet, according to nasa. The asteroid, called 2002 aj129, will make its closest approach to earth at 4: 30 p.m. Est ( 2130 gmt ), and will be about 2.6 million miles ( 4.2 million kilometers ) from our planet at its closest point, nasa officials said. It's traveling at a breathtaking speed of about 76,000 mph ( 122,310 km/h ), faster than most near-earth asteroids, they added. But while"
+            "Two small asteroids recently discovered by astronomers at the nasa-funded catalina sky survey ( css ) near tucson, arizona, are safely passing by earth within one lunar distance this week. The first of this week's close-approaching asteroids -- discovered by css on feb. 4 -- is designated asteroid 2018 cc. Its close approach to earth came tuesday ( feb. 6 ) at 12: 10 p.m. Pst ( 3: 10 p.m. Est ) at a distance of about 114,000 miles ( 184,000 kilometers ). The asteroid is estimated to be between 50 and 100 feet ( 15 and 30 meters ) in"
         ],
         "raw_document": [
             "This article is over 11 months old the space rock 2018 cb is up to 40m long and will come within 64,000km of the planet's surface asteroid passing close to earth today – no need to worry an asteroid is headed our way – the second this week – but there's no need to worry. The newly discovered space rock will pass within 39,000 miles ( 63,000km ) of earth on friday evening gmt. That's less than one-fifth the distance to the moon. Designated 2018 cb, the asteroid is an estimated 50ft to 130ft ( 15 meters to 40 meters",
@@ -1507,7 +1498,7 @@
             "1": 1,
             "2": 4,
             "3": 5,
-            "4": 0
+            "4": 4
         }
     },
     {
@@ -1565,7 +1556,7 @@
             "1": 0,
             "2": 3,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1598,12 +1589,11 @@
     },
     {
         "idx": 9757,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When alex craig pitched a business idea to his girlfriend over dinner one night earlier this year, her instant reaction was, \" this is the stupidest idea i've ever heard, \" he tells wfaa. But craig was determined to see his inspiration take root — and now, just a few months later, potatoparcel is here, bringing in more than $ 10,000 in profit per month for the texas entrepreneur. His brainchild: charge customers between $ 8 and $ 10 for a potato, write a custom message on it with a pilot g210 retractable rollerball pen, and mail it ( anonymously ) to the recipient of the customer's choice. \" i would say the two things that hold everyone back in life is fear and doubt, \" he says, explaining what drew him to this project. \" the fear of failure and the fear of wasting your time, and the doubt that you can actually achieve something big on a huge scale. \" craig knew soon after promoting his service that \" huge \" was an apt way to describe public reaction. At the very least, he proved wrong his girlfriend, who had proclaimed, \" you will not sell a single potato. \" \" on our second day that we were live … we started promoting it on reddit and we got $ 2,000 in orders, and i just knew this was it, \" he tells wfaa. They've sold more than 2,000 tubers since the site's launch in may. What's really \" cool, \" according to craig, is that \" it takes me about 30 seconds to write on a potato. \" and that, \" in some sort of weird way, we've had an impact on somebody's life — even for a split second, \" he says. He also may have become, as brobible notes, \" the first man in history who figured out how to make reddit profitable. \" ( just don't send potatoes to this guy, whatever you do. )",
         "split": "train",
         "cleansed_document": [
-            "As we want our customers to spread laughter, kind words, and unexpected fun with our products, we do realize that we are using a valuable food resource to do so. Because of this, potato parcel donates one potato for every one sold. We have partnered with local food banks to help us distribute them to those in need. We're proud to say that tens of thousands have been donated and consumed thus far! the rest of our potatoes go to you. Once your potato has reached the end of its life, we really encourage you to plant it to make more! send us a video of you planting your potato parcel. #plantthepotato 🌱",
-            "Welcome to the brobible x huckberry shop. This store has been carefully curated by the editors at brobible with the active, adventurous and upwardly mobile guy in mind. Here you will find everything you need and nothing you don't."
+            "As we want our customers to spread laughter, kind words, and unexpected fun with our products, we do realize that we are using a valuable food resource to do so. Because of this, potato parcel donates one potato for every one sold. We have partnered with local food banks to help us distribute them to those in need. We're proud to say that tens of thousands have been donated and consumed thus far! the rest of our potatoes go to you. Once your potato has reached the end of its life, we really encourage you to plant it to make more! send us a video of you planting your potato parcel. #plantthepotato 🌱"
         ],
         "raw_document": [
             "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain.",
@@ -1620,7 +1610,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1648,7 +1638,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1707,12 +1697,11 @@
     },
     {
         "idx": 9761,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Do you line up bumper-to-bumper when approaching a traffic light? though driver training groups say it's a no-no likely to increase one's risk of a collision, researchers at the virginia tech college of engineering say it's a \" widely accepted \" practice based on the idea that \" the closer a car is to a traffic light, the more likely that car will be to pass through the intersection before the light turns red again. \" the science behind that: well, there isn't any. After recording footage of 10 volunteer drivers at traffic lights, researchers say in a release that those who stopped close to cars in front of them, and therefore closer to traffic lights, gained no advantage over drivers who stopped at a distance of up to 25 feet, because the former group had to establish space before accelerating once the light turned green. The research, published in the new journal of physics, also confirmed that tailgating leads to more rear-end collisions. \" when my father was teaching me how to drive, he told me that to prevent an accident, you should stop so you can easily see the rear bumper of the car in front of you at a traffic light, \" says researcher farzad ahmadi. But \" i've never done that until i analyzed the data of this experiment. \" it shows \" there's no point in getting closer to the car in front of you when traffic comes to a stop, \" adds study co-author jonathan boreyko. In other cases, it does pay to get close, however. A similar experiment performed using pedestrians found \" the closer people got to each other, the faster they could empty the line \" since humans can accelerate \" very quickly, \" boreyko says. ( stopping at red lights could also be bad for your respiratory and heart health. )",
         "split": "train",
         "cleansed_document": [
-            "Jonathan boreyko ( left ) and graduate student farzad ahmadi monitor pedestrian spacing as a line empties at the cube in virginia tech's moss arts center. The team found that people move slowly but accelerate quickly, meaning packing tightly in lines increases pedestrians ' chances of moving through faster. Credit: virginia tech when pulling up to a traffic light, most drivers get pretty close to the car in front of them, leaving just several feet of space between their bumper and the next. The practice of packing tightly at traffic lights is widely accepted. Traditional thinking says the closer a car is to a traffic light, the more likely that car will be to pass through the intersection before the light turns red again. Thanks to new research by virginia tech college of engineering professors and students, drivers now have a good reason to dismiss this faulty line of roadway intuition. The study, published this month in the new journal of physics, used video cameras attached to drone helicopters to capture footage of cars accelerating through a traffic light on the virginia tech transportation institute's smart road. By systematically controlling the packing density of the cars, the researchers discovered that any decrease in distance to the light was completely offset by the time it took for cars to regain a comfortable spacing before drivers could accelerate. Drivers who pack",
-            "It is already well known that the saturation flow rate of vehicles passing through a green light is generally fixed around 1500 – 1800 vphg ( vehicles per hour of green ) over a wide variety of natural driving conditions [ 42 – 44 ]. However, this is because the saturation flow rate only considers the steady-state case of cars that are already crossing the intersection with a constant liquid-phase headway ( figure c2 ( a ) ) [ 45 – 47 ], thus ignoring the initial start-up lost time where the solid-to-liquid transition actually occurs. Our focus here is therefore not on the saturation flow rate, but on the start-up lost time ( i.e. Departure flow rate ) which considers the time required for the first four cars in the queue to cross the intersection when the light first turns green. By breaking up the total time required for all 10 cars to cross the intersection into the transient and steady times, we observe that both the departure flow rate and the saturation flow rate are insensitive to for all solid and liquid-phase packing densities ( figures 3 ( a ), c2 ( b ) ). By definition, it is obvious that the saturation flow rate is independent of, so we emphasize that our surprising finding is that even the start-up lost time is invariant with due to the effect of latent heat. Previous reports have"
+            "Jonathan boreyko ( left ) and graduate student farzad ahmadi monitor pedestrian spacing as a line empties at the cube in virginia tech's moss arts center. The team found that people move slowly but accelerate quickly, meaning packing tightly in lines increases pedestrians ' chances of moving through faster. Credit: virginia tech when pulling up to a traffic light, most drivers get pretty close to the car in front of them, leaving just several feet of space between their bumper and the next. The practice of packing tightly at traffic lights is widely accepted. Traditional thinking says the closer a car is to a traffic light, the more likely that car will be to pass through the intersection before the light turns red again. Thanks to new research by virginia tech college of engineering professors and students, drivers now have a good reason to dismiss this faulty line of roadway intuition. The study, published this month in the new journal of physics, used video cameras attached to drone helicopters to capture footage of cars accelerating through a traffic light on the virginia tech transportation institute's smart road. By systematically controlling the packing density of the cars, the researchers discovered that any decrease in distance to the light was completely offset by the time it took for cars to regain a comfortable spacing before drivers could accelerate. Drivers who pack"
         ],
         "raw_document": [
             "Jonathan boreyko ( left ) and graduate student farzad ahmadi monitor pedestrian spacing as a line empties at the cube in virginia tech's moss arts center. The team found that people move slowly but accelerate quickly, meaning packing tightly in lines increases pedestrians ' chances of moving through faster. Credit: virginia tech when pulling up to a traffic light, most drivers get pretty close to the car in front of them, leaving just several feet of space between their bumper and the next. The practice of packing tightly at traffic lights is widely accepted. Traditional thinking says the closer a car is to a traffic light, the more likely that car will be to pass through the intersection before the light turns red again. Thanks to new research by virginia tech college of engineering professors and students, drivers now have a good reason to dismiss this faulty line of roadway intuition. The study, published this month in the new journal of physics, used video cameras attached to drone helicopters to capture footage of cars accelerating through a traffic light on the virginia tech transportation institute's smart road. By systematically controlling the packing density of the cars, the researchers discovered that any decrease in distance to the light was completely offset by the time it took for cars to regain a comfortable spacing before drivers could accelerate. Drivers who pack",
@@ -1727,7 +1716,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1870,7 +1859,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2188,14 +2177,13 @@
     },
     {
         "idx": 9779,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Donald trump's new \" pay to play \" trouble continues to generate negative headlines for the candidate. On wednesday, campaign manager kellyanne conway found herself fending off questions from george stephanopoulos of abc on whether her boss used a big political donation to sway florida's attorney general into skipping an investigation into trump university, reports politico. Conway dismissed the allegations as a non-story and accused hillary clinton of being the real pay-to-play scoundrel. The issue surfaced earlier this week when the washington post reported that trump had paid a $ 2,500 irs fine for making an illegal $ 25,000 contribution to attorney general pam bondi's pac in 2013. The donation violated federal tax regulations because it came from his charitable organization, the trump foundation. The trump campaign has called it more of a clerical error than anything else, but critics are pouncing at the timing: it came while bondi was considering whether to join a multi-state investigation of trump's real-estate program; she ultimately did not do so. It also flips a big narrative of the campaign: trump has long accused clinton of pay-to-play politics, and now he's under scrutiny for the same. Both the new york times and the miami herald editorial pages are calling for a deeper investigation into the controversy. And the times has a separate front-page news story that explores how the irs fine \" is only the latest slap of his wrist in a decades-long record of shattering political donation limits and circumventing the rules governing contributions and lobbying. \"",
         "split": "train",
         "cleansed_document": [
             "Donald j. Trump, who has repeatedly denounced pay-to-play politics during his insurgent campaign, is now defending himself against claims that he donated $ 25,000 to a group supporting the florida attorney general, pam bondi, to sway her office's review of fraud allegations at trump university. Mr. Trump's payment of a $ 2,500 penalty to the internal revenue service over that 2013 campaign gift amounted to only the latest slap of his wrist in a decades-long record of shattering political donation limits and circumventing the rules governing contributions and lobbying. In the 1980s, mr. Trump was compelled to testify under oath before new york state officials after he directed tens of thousands of dollars to",
             "Poster= \" http://v.politico.com/images/1155968404/201609/3798/1155968404_5116952678001_5116941334001-vs.jpg?pubid=1155968404 \" true trump's pay-for-play scandal intensifies the republican nominee has denied any wrongdoing in his donation to florida attorney general pam bondi. The swirl of scandal around donald trump's donation to florida attorney general pam bondi is intensifying, with the republican nominee and his aides vigorously pushing back against the idea that he bought the decision by bondi to not pursue an investigation into his trump university. The controversy whipped back up last week when news emerged that trump paid a $ 2,500 fine because his foundation improperly donated $ 25,000 to bondi's political election committee in 2013 ( tax-exempt charitable groups are not allowed to make political contributions ). Story continued",
-            "Donald trump is greeted by florida attorney general pam bondi at a march 14 campaign event in tampa. ( gerald herbert/ap ) donald trump paid the irs a $ 2,500 penalty this year, an official at trump's company said, after it was revealed that trump's charitable foundation had violated tax laws by giving a political contribution to a campaign group connected to florida's attorney general. The improper donation, a $ 25,000 gift from the donald j. Trump foundation, was made in 2013. At the time, attorney general pam bondi was considering whether to investigate fraud allegations against trump university. She decided not to pursue the case. Earlier this year,",
-            "In light of the suspicions hanging over donald trump and pam bondi, the florida attorney general, this opening quote from her republican national convention speech is particularly rich. \"nov. 8 is a day of reckoning for all those who have abused their power, \" she said. \"winning this election means reclaiming something to which i've dedicated my entire career: the rule of law. \" while it hasn't been proved that mr. Trump or ms. Bondi violated bribery law, there's little doubt that they abused the public trust in 2013, when ms. Bondi received a $ 25,000 campaign contribution from mr. Trump four days after her office announced that florida was"
+            "Donald trump is greeted by florida attorney general pam bondi at a march 14 campaign event in tampa. ( gerald herbert/ap ) donald trump paid the irs a $ 2,500 penalty this year, an official at trump's company said, after it was revealed that trump's charitable foundation had violated tax laws by giving a political contribution to a campaign group connected to florida's attorney general. The improper donation, a $ 25,000 gift from the donald j. Trump foundation, was made in 2013. At the time, attorney general pam bondi was considering whether to investigate fraud allegations against trump university. She decided not to pursue the case. Earlier this year,"
         ],
         "raw_document": [
             "Donald j. Trump, who has repeatedly denounced pay-to-play politics during his insurgent campaign, is now defending himself against claims that he donated $ 25,000 to a group supporting the florida attorney general, pam bondi, to sway her office's review of fraud allegations at trump university. Mr. Trump's payment of a $ 2,500 penalty to the internal revenue service over that 2013 campaign gift amounted to only the latest slap of his wrist in a decades-long record of shattering political donation limits and circumventing the rules governing contributions and lobbying. In the 1980s, mr. Trump was compelled to testify under oath before new york state officials after he directed tens of thousands of dollars to",
@@ -2214,7 +2202,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -2271,14 +2259,13 @@
     },
     {
         "idx": 9782,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "After vladimir putin said he wouldn't deport us diplomats after the latest round of us sanctions against russia, donald trump once again praised the russian president, mediaite reports. Putin said he would delay any sanctions until after trump takes office, and the us president-elect tweeted in response, \" great move on delay ( by v. Putin ) - i always knew he was very smart! \" the declaration got quite a bit of attention, with mashable referring to it as \" our absurd political reality summed up in one tweet \" and the guardian noting that the tweet puts trump at odds even with his own party. Vanity fair says twitter had a \" meltdown \" in reaction, with users wondering if it amounted to \" sedition \" and \" treason. \" trump followed that tweet up with another reading, \" russians are playing @cnn and @nbcnews for such fools - funny to watch, they don't have a clue! @foxnews totally gets it! \"",
         "split": "train",
         "cleansed_document": [
             "In a friday tweet, president-elect donald trump again praised russian leader vladimir putin, saying he was \"very smart \" for delaying any sanctions against the united states until he took office. After sending the tweet, trump even took the unusual measure of \"pinning \" it, ensuring that would be the first tweet anyone looking at his timeline would see. Trump's tweet comes after a long history of praising putin both during and after the 2016 presidential election, most recently saying that putin's criticism of democrats was \"so true! \" and that \"his thoughts are so correct. \" [ image via screengrab ] — >>follow alex griswold ( @hashtaggriswold ) on twitter have a tip we should know? tips@mediaite.com",
             "Donald trump is back to fanning the flames of his love affair with russian president vladimir putin. In a tweet ( with no spelling mistakes! ), trump praised putin's decision to wait on expelling any u.s. Diplomats from russia in retaliation to president barack obama's sanctions announced thursday. Great move on delay ( by v. Putin ) - i always knew he was very smart! — donald j. Trump ( @realdonaldtrump ) december 30, 2016 the russian foreign minister had made it very clear the country would not take obama's decision lying down, but then putin stepped in and told everyone to calm down and wait for trump's arrival in three short weeks. This apparently prompted trump to pull out his favorite megaphone, twitter. Before putin's \" delay \" was announced, trump on thursday released a fairly benign statement about meeting with",
-            "What will applauding the russian president's response to barack obama's expulsion of 35 russian diplomats mean when trump takes office? trump praises putin over us sanctions – a move that puts him at odds with gop trump praises putin over us sanctions – a move that puts him at odds with gop after the obama administration's tough new sanctions against russia put the president-elect in a vulnerable political position at home, in his own party and abroad, donald trump chose to respond in familiar fashion – with praise for vladimir putin. Putin says russia will not expel us diplomats in tit-for-tat measure read more the president-elect has repeatedly spoken approvingly of putin and called for closer relations with russia. On friday, he used twitter to applaud putin's restrained response to the expulsion by the us of 35 diplomats and the closure of two russian compounds. Donald j. Trump",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "What will applauding the russian president's response to barack obama's expulsion of 35 russian diplomats mean when trump takes office? trump praises putin over us sanctions – a move that puts him at odds with gop trump praises putin over us sanctions – a move that puts him at odds with gop after the obama administration's tough new sanctions against russia put the president-elect in a vulnerable political position at home, in his own party and abroad, donald trump chose to respond in familiar fashion – with praise for vladimir putin. Putin says russia will not expel us diplomats in tit-for-tat measure read more the president-elect has repeatedly spoken approvingly of putin and called for closer relations with russia. On friday, he used twitter to applaud putin's restrained response to the expulsion by the us of 35 diplomats and the closure of two russian compounds. Donald j. Trump"
         ],
         "raw_document": [
             "In a friday tweet, president-elect donald trump again praised russian leader vladimir putin, saying he was \"very smart \" for delaying any sanctions against the united states until he took office. After sending the tweet, trump even took the unusual measure of \"pinning \" it, ensuring that would be the first tweet anyone looking at his timeline would see. Trump's tweet comes after a long history of praising putin both during and after the 2016 presidential election, most recently saying that putin's criticism of democrats was \"so true! \" and that \"his thoughts are so correct. \" [ image via screengrab ] — >>follow alex griswold ( @hashtaggriswold ) on twitter have a tip we should know? tips@mediaite.com",
@@ -2297,7 +2284,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -2328,7 +2315,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2436,7 +2423,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2514,7 +2501,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2552,13 +2539,12 @@
     },
     {
         "idx": 9792,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Kayla greenwood understands the desire to see one's father a final time. In 1999, when she was 5, greenwood's dad was killed when an escaped prisoner in a stolen truck slammed into his vehicle during a police chase. That escaped prisoner, convicted of killing two others, is now scheduled to be executed in arkansas at 7pm thursday, reports the springfield news-leader. But while greenwood isn't able to speak to her dad one last time, she wanted to give kenneth williams'daughter that chance. After learning 21-year-old jasmine hadn't seen her father in 17 years, greenwood reached out to her tuesday, with her mother offering to pay for her and her 3-year-old daughter to fly to little rock to see williams before his execution. \" at least that can be something good and beautiful that can come out of something so horrible, \" greenwood, whose family has appealed for williams ' life to be spared, tells kspr. She adds williams cried \" when he found out that we are bringing his daughter and granddaughter to see him. \" williams, 38, appeared less grateful when he initially avoided the death penalty for the 1998 murder of a college cheerleader, reportedly taunting the victim's family after his sentence of life in prison was read out. He escaped from prison weeks later, killed a man who lived nearby, and stole his truck before crashing into one driven by michael greenwood, 24, per reuters. He was later sentenced to death. All requests to stay his execution have been denied, reports katv.",
         "split": "train",
         "cleansed_document": [
             "Grady, ark. ( reuters ) - arkansas on thursday executed its fourth inmate in eight days, administering a lethal injection to a man who killed two people after escaping from a prison where he had been serving a life sentence for murdering a cheerleader. Kenneth williams, 38, was pronounced dead at 11: 05 p.m. At the state's cummins unit prison. The state, which had not held an execution in 12 years until this month, had already put three other inmates to death since april 20. Pool media reports show that after the lethal injection process began, williams was shaking and appeared to be gasping for air. \"there was no indication on his face of any pain, the lurching appeared to be involuntary, \" according to a pool report from three media witnesses. Arkansas had initially planned to execute eight inmates in 11 days in april, the most of",
-            "Arkansas death row inmate kenneth williams is scheduled to die by lethal injection thursday evening. Williams killed a total of four people, and according to arkansas attorney general leslie rutledge, he has no other motions or requests pending before the arkansas state supreme court as of wednesday. Back in 1999, williams was sentenced to life in prison for killing uapb cheerleader dominique hurd and jerrell jenkins. He escaped prison a few weeks later and made his way to the farm of cecil boren, where he shot and killed the grady man and hid his body in a nearby bayou. In 2000, williams was sentenced to death for boren's murder. Katv recently sat down with boren's family, who says not only are they ready for the state to carry out williams ' execution, but they ' ll be there to witness it. \" it's time that our country",
-            "Ozark, mo. ( kspr ) - the family of a man from the ozarks who was killed by an escaped murderer almost two decades ago said they do not want his killer to be executed. \" i believe justice has already been served. He hasn't been able to kill anyone else. Executing him is more of revenge, \" said stacey yaw, who was michael greenwood's wife. Kenneth williams is set to die thursday, april 27. Michael greenwood of springfield and his wife had just found out they were expecting twins when williams escaped from an arkansas prison. Williams led law enforcement officers on a chase in a stolen truck and crashed into greenwood's work truck near urbana, north of buffalo, killing greenwood. Now, greenwood's family asks for his killer's life to be spared. \" i miss him when i ' m"
+            "Arkansas death row inmate kenneth williams is scheduled to die by lethal injection thursday evening. Williams killed a total of four people, and according to arkansas attorney general leslie rutledge, he has no other motions or requests pending before the arkansas state supreme court as of wednesday. Back in 1999, williams was sentenced to life in prison for killing uapb cheerleader dominique hurd and jerrell jenkins. He escaped prison a few weeks later and made his way to the farm of cecil boren, where he shot and killed the grady man and hid his body in a nearby bayou. In 2000, williams was sentenced to death for boren's murder. Katv recently sat down with boren's family, who says not only are they ready for the state to carry out williams ' execution, but they ' ll be there to witness it. \" it's time that our country"
         ],
         "raw_document": [
             "Grady, ark. ( reuters ) - arkansas on thursday executed its fourth inmate in eight days, administering a lethal injection to a man who killed two people after escaping from a prison where he had been serving a life sentence for murdering a cheerleader. Kenneth williams, 38, was pronounced dead at 11: 05 p.m. At the state's cummins unit prison. The state, which had not held an execution in 12 years until this month, had already put three other inmates to death since april 20. Pool media reports show that after the lethal injection process began, williams was shaking and appeared to be gasping for air. \"there was no indication on his face of any pain, the lurching appeared to be involuntary, \" according to a pool report from three media witnesses. Arkansas had initially planned to execute eight inmates in 11 days in april, the most of",
@@ -2575,7 +2561,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2600,7 +2586,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2707,12 +2693,11 @@
     },
     {
         "idx": 9798,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A middle-aged nebraska dad who found himself accidentally tripping on pot brownies this week was apparently finally feeling free enough to tell his cat how he really feels. The omaha world-herald reports the unnamed 53-year-old man's adult children left their marijuana brownies in the back of his car. He found them tuesday night and — unaware they were special — ate four. He started getting \" bad anxiety \" while watching tv, and his wife called 911. Paramedics determined the man was ok apart from his behavior: he was, as the world-herald puts it, \" crawling around on the floor, randomly using profanities, and calling the family cat ' a bitch. ' \" he said he felt like he was \" tripping. \" paramedics put the man to bed, and no charges were filed. Marijuana politics points out minor marijuana possession hasn't been an arrestable offense in nebraska since the 1970s.",
         "split": "train",
         "cleansed_document": [
-            "Omaha, nebraska – omaha police officers were called to investigate a situation tuesday night involving a 53-year-old man who'd ingested brownies containing marijuana. The omaha world-herald reports that the man had let his adult children use his car. When he later used the car to get groceries, he found the brownies in the back of the car. As he unloaded the groceries, he ate four of the brownies, unaware they were laced with marijuana. As the man sat to watch television with his wife, he told her he was feeling \"bad anxiety \". The wife tried to reach the children to find out what he may have eaten, but to no avail. Paramedics called to the scene noted the man was agitated, but his vital signs were otherwise normal. However, he was crawling around on the floor, sputtering profanities, and calling the family cat \"a bitch \", according to reports. He told the paramedics he felt like \"he's trippin ' \" but declined to go to the hospital, retiring to his bed instead. As police were investigating, one of the adult sons returned to the home, confirmed that the brownies contained marijuana, and said that they belonged to his siblings. As of press time, omaha police have not filed any charges over the marijuana. Nebraska is one of eleven states that decriminalized marijuana possession in the 1970s. Possession of marijuana less than one ounce is merely a ticket for a first infraction with a $ 300 fine. A second charge is a misdemeanor with a $ 500 fine, but no jail time. Subsequent charges earn seven days in jail.",
-            "Upgrade to full digital for only $ 3 extra per month. If you need assistance, call us at ( 844 ) 466-1452 or e-mail owhdigital@ggl.bhmginc.com. Your sports-only digital subscription does not include access to this section. To start a new subscription or to add digital access to your print subscription, click sign up to join subscriber plus. If you're already a digital subscriber, log in. If you need other assistance, call ( 844 ) 466-1452 or email owhdigital@ggl.bhmginc.com. Learn more about subscriber plus."
+            "Omaha, nebraska – omaha police officers were called to investigate a situation tuesday night involving a 53-year-old man who'd ingested brownies containing marijuana. The omaha world-herald reports that the man had let his adult children use his car. When he later used the car to get groceries, he found the brownies in the back of the car. As he unloaded the groceries, he ate four of the brownies, unaware they were laced with marijuana. As the man sat to watch television with his wife, he told her he was feeling \"bad anxiety \". The wife tried to reach the children to find out what he may have eaten, but to no avail. Paramedics called to the scene noted the man was agitated, but his vital signs were otherwise normal. However, he was crawling around on the floor, sputtering profanities, and calling the family cat \"a bitch \", according to reports. He told the paramedics he felt like \"he's trippin ' \" but declined to go to the hospital, retiring to his bed instead. As police were investigating, one of the adult sons returned to the home, confirmed that the brownies contained marijuana, and said that they belonged to his siblings. As of press time, omaha police have not filed any charges over the marijuana. Nebraska is one of eleven states that decriminalized marijuana possession in the 1970s. Possession of marijuana less than one ounce is merely a ticket for a first infraction with a $ 300 fine. A second charge is a misdemeanor with a $ 500 fine, but no jail time. Subsequent charges earn seven days in jail."
         ],
         "raw_document": [
             "Omaha, nebraska – omaha police officers were called to investigate a situation tuesday night involving a 53-year-old man who'd ingested brownies containing marijuana. The omaha world-herald reports that the man had let his adult children use his car. When he later used the car to get groceries, he found the brownies in the back of the car. As he unloaded the groceries, he ate four of the brownies, unaware they were laced with marijuana. As the man sat to watch television with his wife, he told her he was feeling \"bad anxiety \". The wife tried to reach the children to find out what he may have eaten, but to no avail. Paramedics called to the scene noted the man was agitated, but his vital signs were otherwise normal. However, he was crawling around on the floor, sputtering profanities, and calling the family cat \"a bitch \", according to reports. He told the paramedics he felt like \"he's trippin ' \" but declined to go to the hospital, retiring to his bed instead. As police were investigating, one of the adult sons returned to the home, confirmed that the brownies contained marijuana, and said that they belonged to his siblings. As of press time, omaha police have not filed any charges over the marijuana. Nebraska is one of eleven states that decriminalized marijuana possession in the 1970s. Possession of marijuana less than one ounce is merely a ticket for a first infraction with a $ 300 fine. A second charge is a misdemeanor with a $ 500 fine, but no jail time. Subsequent charges earn seven days in jail.",
@@ -2727,7 +2712,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {

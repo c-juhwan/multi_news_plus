@@ -22,10 +22,10 @@
             "The summary discusses Britney Spears' new record and the mixed reviews it has received. Document 1 and Document 2 are related to Britney Spears and her music album. Document 3 provides a general commentary on Britney Spears but does not specifically discuss her new record, making it irrelevant to the summary. Document 4 is about Britney Spears' album, so it is relevant to the summary. Therefore, the irrelevant document is: Document 3"
         ],
         "vote_count": {
-            "0": 4,
+            "0": 3,
             "1": 2,
-            "2": 5,
-            "3": 0
+            "2": 4,
+            "3": 2
         }
     },
     {
@@ -110,18 +110,16 @@
             "0": 0,
             "1": 2,
             "2": 0,
-            "3": 0,
+            "3": 1,
             "4": 0
         }
     },
     {
         "idx": 33504,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "A former trump campaign aide has decided 18 months in prison for fraud-related charges is the best deal he's going to get from robert mueller's team, insiders tell the los angeles times. The sources say that in return for leniency, rick gates plans to change his plea to guilty and will testify against former campaign chief paul manafort, who worked with him in political consulting for around 10 years. Both men are accused of money laundering and other offenses related to their work in ukraine. One of the times'sources says gates, who has four children, can't afford an expensive legal team to defend him in the mueller probe. If \" you go to trial on this, that's $ 1 million to $ 1.5 million, \" the source says. Sources tell cnn that gates had hoped to benefit from a legal defense fund, but major gop donors aren't interested in coughing up money to defend him and manafort. Gates, 45, joined the trump campaign in june 2016, the same time as manafort, but stayed on long after manafort was fired in august. One of the times'sources says gates'testimony against manafort could be the \" cherry on top \" of mueller's case, though he doesn't believe gates has information that would help \" turn the screws on trump. \" the new york times reports that on friday, the justice department disclosed that california computer specialist richard pinedo had pleaded guilty to identity theft and was cooperating with the investigation of 13 russians charged with interfering in the 2016 election. He allegedly used stolen identities to set up bank accounts used by the russians.",
         "split": "train",
-        "cleansed_document": [
-            "Washington — it was a lucrative business. For several years, richard pinedo, a southern california computer science major, would open bank accounts in his name and sell them online to shadowy purchasers for cash. In other cases, he served as a middle man, buying accounts in other people's names and flipping them on the internet. The operation was illegal, \"designed to circumvent the security features of large online digital payment companies, \" according to court papers. The company mr. Pinedo set up, auction essistance, brought in tens of thousands of dollars between 2014 and december 2017. Some of that business, it now appears, was done with a russian operation that used social media platforms to sow political discord around the 2016 presidential election. The connection was revealed on friday, when the special counsel investigating moscow's interference in the 2016 election unsealed two new indictments related to the case. One charged 13 russian nationals and three russian organizations with illegally seeking to disrupt the american political process. The other laid out a case against mr. Pinedo, a 28-year-old computer enthusiast from santa paula, calif."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "On friday, a justice department official announced the guilty plea on identity theft charges of a computer specialist from santa paula, calif., richard pinedo, whose illicit services — unbeknownst to pinedo — were used by russian operatives who tried to influence the 2016 election. The intrigue was spelled out in an indictment, also made public friday, of 13 russian nationals and three russian entities on charges of interfering with the election by exploiting counterfeit identities of individuals and entities.",
             "Washington — it was a lucrative business. For several years, richard pinedo, a southern california computer science major, would open bank accounts in his name and sell them online to shadowy purchasers for cash. In other cases, he served as a middle man, buying accounts in other people's names and flipping them on the internet. The operation was illegal, \"designed to circumvent the security features of large online digital payment companies, \" according to court papers. The company mr. Pinedo set up, auction essistance, brought in tens of thousands of dollars between 2014 and december 2017. Some of that business, it now appears, was done with a russian operation that used social media platforms to sow political discord around the 2016 presidential election. The connection was revealed on friday, when the special counsel investigating moscow's interference in the 2016 election unsealed two new indictments related to the case. One charged 13 russian nationals and three russian organizations with illegally seeking to disrupt the american political process. The other laid out a case against mr. Pinedo, a 28-year-old computer enthusiast from santa paula, calif."
@@ -135,7 +133,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -238,7 +236,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -268,13 +266,12 @@
     },
     {
         "idx": 33510,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A charismatic joplin teenager whose disappearance in sunday's tornado captured national attention has been found dead, reports cnn. Will norton was driving home from his high school graduation with his father when the violent storm snapped his seat belt and pulled him through the sunroof of his hummer h3. His body was found in a pond nearby. \" mark ( norton's father ) said that he reached over and he grabbed will with both of his arms... He held on to him until he possibly couldn't anymore and so he's feeling really bad about that because as a dad you don't want to ever let go of your kids. You want to protect them forever. But at least we know that he did absolutely everything he possibly could, \" said norton's aunt, tracey presslor. A facebook page, findwillnorton, attracted 50,000 fans; norton was also a minor youtube star who planned on a career in film — check his channel out here. Elsewhere, the death toll in joplin has hit 139.",
         "split": "train",
         "cleansed_document": [
             "The numbers look increasingly bleak for families hoping for the best after a monster tornado that devastated the town of joplin, with city officials saying death toll is at least 139. State officials say 100 people are still missing. Unidentified friends of will norton console each other before a news conference with family members at freeman hospital in joplin, mo. Saturday, may 28, 2011. Norton's body was found friday in a pond... ( associated press ) unidentified friends of will norton console each other before a news conference with family members at freeman hospital in joplin, mo. On saturday, may 28, 2011. Norton's body was found friday in a pond... ( associated press ) haily judd carries salvaged belongings from her grandfather's devastated apartment in joplin, mo. Friday, may 27, 2011. An ef-5 tornado tore through much of the city sunday, damaging a hospital and hundreds... ( associated press ) tracey presslor, center, the aunt of will norton, hugs unidentified friends of his after a news conference",
-            "( cnn ) -- missouri authorities have identified additional people killed in last weekend's tornado, bringing the toll of the united states'single deadliest twister ever recorded to 142 deaths, authorities said saturday. Among the dead was will norton, a recent high school graduate who attracted national attention when he disappeared during the storm. The 18-year-old was driving home from his graduation sunday when the tornado destroyed the hummer h3 he and his father were in. \" mark ( norton's father ) said that he reached over and he grabbed will with both of his arms... He held on to him until he possibly couldn't anymore and so he's feeling really bad about that because as a dad you don't want to ever let go of your kids. You want to protect them forever. But at least we know that he did absolutely everything he possibly could, \" said tracey presslor, norton's aunt, through tears. Norton's body was found friday by divers in a pond close",
-            "You must be logged in to view this video. The following content has been identified by the youtube community as being potentially offensive or inappropriate. Viewer discretion is advised. Please confirm that you wish to view this video. This video or group may contain content that is inappropriate for some users, as determined by the video uploader. To view this video or group, please click here to sign in or sign up and verify that you are of the appropriate age. This video requires that you log in to verify your age. Please confirm that you wish to view this video."
+            "( cnn ) -- missouri authorities have identified additional people killed in last weekend's tornado, bringing the toll of the united states'single deadliest twister ever recorded to 142 deaths, authorities said saturday. Among the dead was will norton, a recent high school graduate who attracted national attention when he disappeared during the storm. The 18-year-old was driving home from his graduation sunday when the tornado destroyed the hummer h3 he and his father were in. \" mark ( norton's father ) said that he reached over and he grabbed will with both of his arms... He held on to him until he possibly couldn't anymore and so he's feeling really bad about that because as a dad you don't want to ever let go of your kids. You want to protect them forever. But at least we know that he did absolutely everything he possibly could, \" said tracey presslor, norton's aunt, through tears. Norton's body was found friday by divers in a pond close"
         ],
         "raw_document": [
             "The numbers look increasingly bleak for families hoping for the best after a monster tornado that devastated the town of joplin, with city officials saying death toll is at least 139. State officials say 100 people are still missing. Unidentified friends of will norton console each other before a news conference with family members at freeman hospital in joplin, mo. Saturday, may 28, 2011. Norton's body was found friday in a pond... ( associated press ) unidentified friends of will norton console each other before a news conference with family members at freeman hospital in joplin, mo. On saturday, may 28, 2011. Norton's body was found friday in a pond... ( associated press ) haily judd carries salvaged belongings from her grandfather's devastated apartment in joplin, mo. Friday, may 27, 2011. An ef-5 tornado tore through much of the city sunday, damaging a hospital and hundreds... ( associated press ) tracey presslor, center, the aunt of will norton, hugs unidentified friends of his after a news conference",
@@ -291,7 +288,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -323,12 +320,11 @@
     },
     {
         "idx": 33512,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The united states military academy at west point has apologized for a \" prank \" that injured the air force academy's official mascot. Aurora, a 22-year-old white gyrfalcon, suffered injuries initially thought to be life-threatening after she was abducted along with another bird ahead of saturday's annual army-air force football game in west point, the colorado spring gazette reports. Aurora was returned saturday morning with bloodied wings. The rare birds have a life expectancy of around 25 years in captivity and authorities initially feared aurora would have to be put down. Officials said sunday, however, that in an \" extremely good sign, \" she was able to fly around her pen again. She didn't make it to the game, which the army won 17-14. Sam dollar, the air force's falconry team adviser, tells the new york times that two west point cadets threw sweaters over the birds and stuffed them into dog crates. He believes aurora injured her wings while she was thrashing around inside the crate. \" i think they had them for a couple hours and then they realized it was a bad mistake, \" says dollar, who believes the bird will be fine after \" a little bit of antibiotics and food and rest. \" he notes that handling of gyrfalcons is so tightly restricted that unless you're \" federally licensed, you can't even touch them. \" west point spokeswoman lt. Col. Chevelle thomas says the army is investigating the incident, which it is taking \" very seriously. \" ( the air force also uses falcons to protect its planes. )",
         "split": "train",
         "cleansed_document": [
-            "As saturday approached, the united states military academy revved up for a football game against the visiting air force academy in west point, n.y., in a highly charged clash of rivals. And with the rivalry came an idea of mischief. But a scheme by west point cadets to swipe two falcons belonging to the air force academy ended with one of the birds bloodied, the start of an investigation and a public apology from west point. The episode began sometime on friday night, sam dollar, the air force academy's falconry team adviser, said on sunday. Aurora, a 22-year-old gyrfalcon who is the academy's official mascot, and oblio, a peregrine falcon about seven years younger, were taken by two west point cadets.",
-            "Close get email notifications on joel millman daily! your notification has been saved. There was a problem saving your notification. Whenever joel millman posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items."
+            "As saturday approached, the united states military academy revved up for a football game against the visiting air force academy in west point, n.y., in a highly charged clash of rivals. And with the rivalry came an idea of mischief. But a scheme by west point cadets to swipe two falcons belonging to the air force academy ended with one of the birds bloodied, the start of an investigation and a public apology from west point. The episode began sometime on friday night, sam dollar, the air force academy's falconry team adviser, said on sunday. Aurora, a 22-year-old gyrfalcon who is the academy's official mascot, and oblio, a peregrine falcon about seven years younger, were taken by two west point cadets."
         ],
         "raw_document": [
             "As saturday approached, the united states military academy revved up for a football game against the visiting air force academy in west point, n.y., in a highly charged clash of rivals. And with the rivalry came an idea of mischief. But a scheme by west point cadets to swipe two falcons belonging to the air force academy ended with one of the birds bloodied, the start of an investigation and a public apology from west point. The episode began sometime on friday night, sam dollar, the air force academy's falconry team adviser, said on sunday. Aurora, a 22-year-old gyrfalcon who is the academy's official mascot, and oblio, a peregrine falcon about seven years younger, were taken by two west point cadets.",
@@ -343,7 +339,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -428,15 +424,14 @@
     },
     {
         "idx": 33516,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Rihanna, kim kardashian, and others have gone to bat for a woman fighting a life sentence for killing a man when she was a teen, after she says she was forced into prostitution by her pimp boyfriend. Now, per people, the tennessee supreme court has ruled that cyntoia brown, 30, must serve at least 51 years before she can get parole; she'd be 69 when eligible. It was a unanimous decision thursday, cnn notes, after the us sixth circuit court of appeals asked the state supreme court to weigh in, as state law was unclear. The ruling was in response to brown's argument that the us supreme court ruled it unconstitutional to give juveniles mandatory life sentences without parole ( a lower court noted her life sentence did include the possibility of parole ), as well as that it's \" cruel and unusual punishment. \" the appeals court rejected her first argument but is still reviewing the second. Brown was 16 when she killed johnny mitchell allen in 2004, a real estate agent she says solicited her for sex after she was forced to serve as a prostitute by her boyfriend, \" kut throat, \" huffpost notes. She contends she shot allen after she saw him reach for a gun; prosecutors, however, said she was trying to rob allen, and she was tried and convicted as an adult. Many are noting that brown, a woman of color who says she killed in self-defense, is receiving a more severe punishment than whites who commit crimes. Huffpost cites the example of jeffrey epstein, the hedge fund manager sentenced to just 13 months in prison after being accused of sex-trafficking young girls. \" the system has failed, \" kim kardashian tweeted last year, calling the case \" heartbreaking \" and saying she was going to get her lawyers involved. ( teen prostitutes are a \" human rights scandal \" in us. )",
         "split": "train",
         "cleansed_document": [
             "A 30-year-old tennessee woman who has controversially been imprisoned since she was a teenager for murdering a man who solicited her for sex must remain behind bars for at least 51 years, the state's supreme court said this week. The decision, issued thursday, is a blow to cyntoia brown's years-long efforts to overturn her sentence in the 2004 shooting of johnny mitchell allen, a 43-year-old real estate agent. Get push notifications with news, features and more. Brown has long maintained she was forced to be an underage prostitute by a boyfriend who then took the money that she would make. She claimed that after allen picked her up in august 2004, she shot",
             "( cnn ) a woman who was 16 when she killed a nashville man who solicited her for sex must serve at least 51 years in prison before she's eligible for release, according to the tennessee supreme court. On thursday the court said defendants like cyntoia brown, who are convicted of first-degree murder committed after july 1, 1995, and sentenced to life imprisonment, can't become eligible for release from prison before serving more than five decades. The court's five justices were unanimous in their decision against brown, who was convicted of killing a 43-year-old man in 2004 when he took her to his house for sex. Brown has said she killed him",
             "The system has failed. It's heart breaking to see a young girl sex trafficked then when she has the courage to fight back is jailed for life! we have to do better &amp; do what's right. I've called my attorneys yesterday to see what can be done to fix this. # freecyntoiabrownpic.twitter.com/73y26mlp7u",
-            "Cyntoia brown, a tennessee woman who was convicted as a teenager for shooting a man who picked her up while she was a victim of sex-trafficking, must remain in prison for at least 51 years before she is eligible for release, tennessee's supreme court said thursday. The court's opinion was in response to a lawsuit that argues that brown's life sentence is unconstitutional due to a 2012 ruling by the u.s. Supreme court that said mandatory life sentences without parole for juveniles violates the u.s. Constitution. In response to the court's opinion, the women's march on saturday announced a nationwide march in support of brown and other sex-trafficking victims to be",
-            "The tennessee court system provides this site as a public service, offering convenient public access to court reports, court information, and employment opportunities in the court system, as well as tennessee appellate court opinions. Information posted on this site is believed to be accurate, but is not guaranteed."
+            "Cyntoia brown, a tennessee woman who was convicted as a teenager for shooting a man who picked her up while she was a victim of sex-trafficking, must remain in prison for at least 51 years before she is eligible for release, tennessee's supreme court said thursday. The court's opinion was in response to a lawsuit that argues that brown's life sentence is unconstitutional due to a 2012 ruling by the u.s. Supreme court that said mandatory life sentences without parole for juveniles violates the u.s. Constitution. In response to the court's opinion, the women's march on saturday announced a nationwide march in support of brown and other sex-trafficking victims to be"
         ],
         "raw_document": [
             "A 30-year-old tennessee woman who has controversially been imprisoned since she was a teenager for murdering a man who solicited her for sex must remain behind bars for at least 51 years, the state's supreme court said this week. The decision, issued thursday, is a blow to cyntoia brown's years-long efforts to overturn her sentence in the 2004 shooting of johnny mitchell allen, a 43-year-old real estate agent. Get push notifications with news, features and more. Brown has long maintained she was forced to be an underage prostitute by a boyfriend who then took the money that she would make. She claimed that after allen picked her up in august 2004, she shot",
@@ -457,7 +452,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 5
         }
     },
     {
@@ -510,7 +505,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -545,12 +540,11 @@
     },
     {
         "idx": 33520,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Matt damon has apologized after sparking an uproar at sunday night's project greenlight premiere. The hbo show features a panel of writers, directors, and producers deciding which director should be given the opportunity to direct a $ 3 million feature film; producer effie brown, who is black, is part of this season's panel, and sunday discussed her preference for the most diverse directing team that made it to the finals — a woman and a vietnamese man — noting that she thought they'd have the sensitivity required for the film. She asked the other panelists ( all of whom are white, nbc news notes ) to remember that \" the only black person \" in the film project is \" a hooker who gets hit by her white pimp, \" and because of that they should be careful which director they choose. That was the point at which damon interrupted brown to say, among other things, \" when we're talking about diversity, you do it in the casting of the film, not in the casting of the show. \" her response was a simple \" wow. \" twitter had a lot more to say, dubbing the moment #damonsplaining. Sample tweet: \" ' you see, successful black woman, diversity is whatever white, straight, men say it is. ' - matt damon, 2015. \" per nbc news, damon apologized thusly:. \" my comments were part of a much broader conversation about diversity in hollywood and the fundamental nature of project greenlight which did not make the show, \" he says. \" i am sorry that they offended some people, but, at the very least, i am happy that they started a conversation about diversity in hollywood. That is an ongoing conversation that we all should be having. \"",
         "split": "train",
         "cleansed_document": [
-            "During the show, damon appeared to disregard brown's call for diversity on project greenlight, which offers filmmakers a chance to direct a $ 3 million feature film. Brown advised a group of white film makers to be cautious of which director to select because \" the only black person \" in the film they're producing is \" a hooker who gets hit by her white pimp, \" and suggested that a woman and an asian man take on the script, damon interrupted and said, \" when we're talking about diversity, you do it in the casting of the film, not in the casting of the show. \" \" wow, \" brown replied. A hashtag followed — \"#damonsplaining \" — and the actor was ruthlessly mocked on twitter. In the statement, damon said that his \"comments were part of a much broader conversation about diversity in hollywood and the fundamental nature of 'project greenlight ' which did not make the show. \" \" i am sorry that they offended some people, but, at the very least, i am happy that they started a conversation about diversity in hollywood, \" damon said. \" that is an ongoing conversation that we all should be having. \" the full statement is below:",
-            "Indie film vet effie brown has joined hbo's revival of \"project greenlight \" in the role of producer and mentor to the winner of the filmmaking competition. Brown, whose most recent pic is the buzzy comedy \"dear white people, \" will guide the winning director through the process of getting a movie made on time and on budget. The series, produced by matt damon and ben affleck and adaptive studios, is targeted to premiere in the spring. \"i am beyond thrilled at the opportunity to shepherd a new creative voice into the indie film community, \" brown said. \"i loved 'project greenlight ' when it was on hbo years ago. I would watch it and think of all the things i would say and do if i were in this situation or that 'crisis. ' now a decade later, we're bringing it back and i get to put my money where my mouth is. \" shepherded by damon and affleck, \"project greenlight \" seasons previously ran on hbo in 2001 and 2003. The first-time director at the center of the show is selected from deep pool of short-film submissions. The latest \"project greenlight \" winner is to be unveiled friday as part of the project greenlight filmmaker showcase event in hollywood. Affleck and damon will be on hand, along with jennifer todd, peter farrelly, bobby farrelly, adaptive studios ' marc joubert and hbo films prexy len amato. Brown's other producing credits"
+            "During the show, damon appeared to disregard brown's call for diversity on project greenlight, which offers filmmakers a chance to direct a $ 3 million feature film. Brown advised a group of white film makers to be cautious of which director to select because \" the only black person \" in the film they're producing is \" a hooker who gets hit by her white pimp, \" and suggested that a woman and an asian man take on the script, damon interrupted and said, \" when we're talking about diversity, you do it in the casting of the film, not in the casting of the show. \" \" wow, \" brown replied. A hashtag followed — \"#damonsplaining \" — and the actor was ruthlessly mocked on twitter. In the statement, damon said that his \"comments were part of a much broader conversation about diversity in hollywood and the fundamental nature of 'project greenlight ' which did not make the show. \" \" i am sorry that they offended some people, but, at the very least, i am happy that they started a conversation about diversity in hollywood, \" damon said. \" that is an ongoing conversation that we all should be having. \" the full statement is below:"
         ],
         "raw_document": [
             "During the show, damon appeared to disregard brown's call for diversity on project greenlight, which offers filmmakers a chance to direct a $ 3 million feature film. Brown advised a group of white film makers to be cautious of which director to select because \" the only black person \" in the film they're producing is \" a hooker who gets hit by her white pimp, \" and suggested that a woman and an asian man take on the script, damon interrupted and said, \" when we're talking about diversity, you do it in the casting of the film, not in the casting of the show. \" \" wow, \" brown replied. A hashtag followed — \"#damonsplaining \" — and the actor was ruthlessly mocked on twitter. In the statement, damon said that his \"comments were part of a much broader conversation about diversity in hollywood and the fundamental nature of 'project greenlight ' which did not make the show. \" \" i am sorry that they offended some people, but, at the very least, i am happy that they started a conversation about diversity in hollywood, \" damon said. \" that is an ongoing conversation that we all should be having. \" the full statement is below:",
@@ -565,17 +559,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 33521,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Although many think of the british royal family more as figureheads than active participants in governance, government ministers have in fact had to get prince charles ' permission to pass at least a dozen bills since 2005. The revelation stems from an investigation by the guardian into what it calls a \" secretive constitutional loophole \": charles is apparently granted the right to veto any bills that could affect his personal interests, particularly the $ 1.2 billion duchy of cornwall, which he controls. In the past six years, six departments have sought his consent on bills related to the london olympics, gambling, shipwrecks, and road safety. The duke of cornwall and the queen are the only two british royals who possess veto power over legislation related to their interests, notes the guardian. A spokesman for prince charles refused to comment on whether the prince had ever withheld his consent or what sort of changes he had required to legislation. Parliamentarians are upset. \" anyone who enjoys exceptional influence or veto should exercise it with complete transparency, \" said a liberal democrat mp. \" the duchy asserts that it is merely a private estate. Most people will be astonished to learn that it appears to have effective powers of veto over the government. \"",
         "split": "train",
         "cleansed_document": [
-            "Ministers have been forced to seek permission from prince charles to pass at least a dozen government bills, according to a guardian investigation into a secretive constitutional loophole that gives him the right to veto legislation that might affect his private interests. Since 2005, ministers from six departments have sought the prince of wales ' consent to draft bills on everything from road safety to gambling and the london olympics, in an arrangement described by constitutional lawyers as a royal \" nuclear deterrent \" over public policy. Unlike royal assent to bills, which is exercised by the queen as a matter of constitutional law, the prince's power applies when a new bill might affect his own interests, in particular the duchy of cornwall, a private £ 700m property empire that last year provided him with an £ 18m income. Neither the government nor clarence house will reveal what, if any, alterations to legislation charles has requested, or exactly why he was asked to grant consent to such a wide range of laws. Correspondence seen by the guardian reveals that one minister wrote to the prince's office requesting his consent to a new bill about planning reform because it was \" capable of applying to... [ the ] prince of wales ' private interests \". In the last two parliamentary sessions charles has been asked to consent to draft bills on",
-            "The title and property of the duchy of cornwall were created in 1337 by edward iii, and were given by royal charter to his son, the prince of wales also known as the black prince. Under the charter, the duchy always belongs to the sovereign's eldest son who is the heir apparent. If the heir apparent dies without leaving children, the property of the duchy reverts to the crown. So although the duchy belongs to the prince of wales, who is also the duke of cornwall, there is a theoretical possibility that it could revert to the sovereign, who therefore has a contingent personal interest in matters that affect the property of the duchy. Bills in parliament that would affect the sovereign's private interests ( or the royal prerogative ) require the queen's consent; by extension, therefore, bills that would affect the duchy also require consent, and since the prince of wales administers the duchy he also performs the function of considering and granting relevant requests for consent. Queen's consent and prince's consent are fundamentally different from royal assent. The consents are required as a matter of parliamentary procedure, as a method of protecting crown prerogative and private interests. Royal assent is a feature of constitutional law rather than merely parliamentary procedure: it is the method by which a bill"
+            "Ministers have been forced to seek permission from prince charles to pass at least a dozen government bills, according to a guardian investigation into a secretive constitutional loophole that gives him the right to veto legislation that might affect his private interests. Since 2005, ministers from six departments have sought the prince of wales ' consent to draft bills on everything from road safety to gambling and the london olympics, in an arrangement described by constitutional lawyers as a royal \" nuclear deterrent \" over public policy. Unlike royal assent to bills, which is exercised by the queen as a matter of constitutional law, the prince's power applies when a new bill might affect his own interests, in particular the duchy of cornwall, a private £ 700m property empire that last year provided him with an £ 18m income. Neither the government nor clarence house will reveal what, if any, alterations to legislation charles has requested, or exactly why he was asked to grant consent to such a wide range of laws. Correspondence seen by the guardian reveals that one minister wrote to the prince's office requesting his consent to a new bill about planning reform because it was \" capable of applying to... [ the ] prince of wales ' private interests \". In the last two parliamentary sessions charles has been asked to consent to draft bills on"
         ],
         "raw_document": [
             "Ministers have been forced to seek permission from prince charles to pass at least a dozen government bills, according to a guardian investigation into a secretive constitutional loophole that gives him the right to veto legislation that might affect his private interests. Since 2005, ministers from six departments have sought the prince of wales ' consent to draft bills on everything from road safety to gambling and the london olympics, in an arrangement described by constitutional lawyers as a royal \" nuclear deterrent \" over public policy. Unlike royal assent to bills, which is exercised by the queen as a matter of constitutional law, the prince's power applies when a new bill might affect his own interests, in particular the duchy of cornwall, a private £ 700m property empire that last year provided him with an £ 18m income. Neither the government nor clarence house will reveal what, if any, alterations to legislation charles has requested, or exactly why he was asked to grant consent to such a wide range of laws. Correspondence seen by the guardian reveals that one minister wrote to the prince's office requesting his consent to a new bill about planning reform because it was \" capable of applying to... [ the ] prince of wales ' private interests \". In the last two parliamentary sessions charles has been asked to consent to draft bills on",
@@ -590,7 +583,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -615,7 +608,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -773,7 +766,7 @@
         "vote_count": {
             "0": 0,
             "1": 3,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -803,12 +796,11 @@
     },
     {
         "idx": 33530,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "There's no fracking or tectonic plate boundaries in connecticut, so experts haven't got a ready explanation for a swarm of earthquakes that has hit the eastern part of the state over the last week. There have been 12 quakes since last thursday, the strongest of them a 3.3-magnitude quake that came amid five smaller quakes on monday. State officials plan to hold a briefing to discuss preparedness in case the quakes continue, nbc connecticut reports. The quakes are centered around the town of plainfield, where police have fielded hundreds of calls from worried residents; some homes have sustained damage to drywall or had pictures knocked off walls, reports the providence journal. Experts say quakes are unusual but not completely unheard of in the region, and the quake swarm could be linked to pressure in a 400-million-year-old fault line near plainfield. \" the hypothesis is that you're getting the release of stress when these ancient faults are breaking, \" a yale geology professor tells cbs. \" if you look at a geological map of eastern connecticut, there are a lot of faults and there may well be faults we don't know about because they don't extend to the surface. \" she says it's impossible to tell whether the quakes could end tomorrow or continue for months. ( could the east coast be due for a big one? )",
         "split": "train",
         "cleansed_document": [
-            "Connecticut is not known as a hotbed of seismic activity, but residents in and around plainfield, in the eastern part of the state, have felt tremors more than a half dozen times in the past few days. The first reports came in thursday morning, jan. 8 -- a 2.0 magnitude earthquake centered near danielson, about 10 miles from plainfield, near the rhode island border. By some accounts, as many as nine more quakes, one reaching as high as 3.3, were reported over the next six days, including six on monday and one early wednesday. The cluster of quakes, all close together both in time and in place, is what scientists call a \" swarm. \" yet another quake hit plainfield early thursday -- this one a 2.2 magnitude temblor. Usgs \" moderate to large earthquakes are rare in new england, but as we have seen over the past week, connecticut is not immune to earthquake activity, \" connecticut department of emergency services and public protection commissioner dora b. Schriro said in a statement wednesday. \" these small quakes have not and typically do not result in injuries or significant damage to property, but we want to assure everyone that we continue to work with all of our public safety partners to mitigate any potential issues that may arise. \" \" this is fairly unusual, \" said maureen long, an assistant professor in the geology department at yale university. \" it's definitely been an interesting week for us. \" long said that swarms are not unprecedented in connecticut -- one in the 1980s in the village of moodus, farther west in the state, comprised hundreds of small quakes -- but they are very rare. Connecticut is located in the middle of a tectonic plate, far from a boundary where the movement of two plates can cause strong and frequent quakes, like in california. But the geology of the state is actually quite complex, owing to lots of tectonic activity in its prehistoric past. Plainfield is not far from an ancient fault called the",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Connecticut is not known as a hotbed of seismic activity, but residents in and around plainfield, in the eastern part of the state, have felt tremors more than a half dozen times in the past few days. The first reports came in thursday morning, jan. 8 -- a 2.0 magnitude earthquake centered near danielson, about 10 miles from plainfield, near the rhode island border. By some accounts, as many as nine more quakes, one reaching as high as 3.3, were reported over the next six days, including six on monday and one early wednesday. The cluster of quakes, all close together both in time and in place, is what scientists call a \" swarm. \" yet another quake hit plainfield early thursday -- this one a 2.2 magnitude temblor. Usgs \" moderate to large earthquakes are rare in new england, but as we have seen over the past week, connecticut is not immune to earthquake activity, \" connecticut department of emergency services and public protection commissioner dora b. Schriro said in a statement wednesday. \" these small quakes have not and typically do not result in injuries or significant damage to property, but we want to assure everyone that we continue to work with all of our public safety partners to mitigate any potential issues that may arise. \" \" this is fairly unusual, \" said maureen long, an assistant professor in the geology department at yale university. \" it's definitely been an interesting week for us. \" long said that swarms are not unprecedented in connecticut -- one in the 1980s in the village of moodus, farther west in the state, comprised hundreds of small quakes -- but they are very rare. Connecticut is located in the middle of a tectonic plate, far from a boundary where the movement of two plates can cause strong and frequent quakes, like in california. But the geology of the state is actually quite complex, owing to lots of tectonic activity in its prehistoric past. Plainfield is not far from an ancient fault called the"
         ],
         "raw_document": [
             "Connecticut is not known as a hotbed of seismic activity, but residents in and around plainfield, in the eastern part of the state, have felt tremors more than a half dozen times in the past few days. The first reports came in thursday morning, jan. 8 -- a 2.0 magnitude earthquake centered near danielson, about 10 miles from plainfield, near the rhode island border. By some accounts, as many as nine more quakes, one reaching as high as 3.3, were reported over the next six days, including six on monday and one early wednesday. The cluster of quakes, all close together both in time and in place, is what scientists call a \" swarm. \" yet another quake hit plainfield early thursday -- this one a 2.2 magnitude temblor. Usgs \" moderate to large earthquakes are rare in new england, but as we have seen over the past week, connecticut is not immune to earthquake activity, \" connecticut department of emergency services and public protection commissioner dora b. Schriro said in a statement wednesday. \" these small quakes have not and typically do not result in injuries or significant damage to property, but we want to assure everyone that we continue to work with all of our public safety partners to mitigate any potential issues that may arise. \" \" this is fairly unusual, \" said maureen long, an assistant professor in the geology department at yale university. \" it's definitely been an interesting week for us. \" long said that swarms are not unprecedented in connecticut -- one in the 1980s in the village of moodus, farther west in the state, comprised hundreds of small quakes -- but they are very rare. Connecticut is located in the middle of a tectonic plate, far from a boundary where the movement of two plates can cause strong and frequent quakes, like in california. But the geology of the state is actually quite complex, owing to lots of tectonic activity in its prehistoric past. Plainfield is not far from an ancient fault called the",
@@ -823,7 +815,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -911,7 +903,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -935,18 +927,17 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 33535,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A freak accident that claimed the life of a british man in australia may be the first of its kind on record. The 23-year-old working on a fishing trawler off the northern territory was lifting a net onto the boat when he was bitten by a sea snake on thursday. The bbc reports the snakes are extremely venomous but cnn reports most typically don't transmit a lethal dose of the venom with their bites. ( the new york times previously explained they're designed to deliver enough to paralyze smaller prey, not creatures of our size. ) further, the snakes rarely come into contact with humans, and when they do, one australian professor describes them as peaceful. \" people go scuba diving with them all the time, \" he says. The key difference here is that the snake was tangled in the net and potentially injured, and \" perhaps looking to lash out. \" there are 70 known species of sea snake, nearly half of which are found in australian waters; officials didn't say which species bit the man. ( here's how a sea snake that can't drink seawater survives. )",
         "split": "train",
         "cleansed_document": [
             "( cnn ) a 23-year-old british man has died after being bitten by a sea snake on a fishing trawler off australia. The snake bit him while he was pulling up a net, northern territory police told cnn. The incident took place on thursday in the gulf of carpentaria off the northern territory. Medical emergency service careflight and other ships in the area rushed to help with medical supplies and assistance, police added. The trawler made its way to the town of borroloola where the man was declared dead. At least 32 species of sea snakes have been found in warmer waters off the northern territory and queensland, according to the marine education society of australasia ( mesa ). Most bites reportedly occur on fishing trawlers, as workers pull in nets, as was the case last week, mesa said on its website. Read more",
-            "Image copyright getty images image caption sea snakes are often encountered by fishing crews in northern australia a british man has died after being bitten by a sea snake on a fishing trawler in australia, police have said. The man, 23, thought to be a backpacker, had just pulled up a net off the coast of the northern territory when he was bitten about 09: 00 local time on thursday ( 23: 00 gmt wednesday ). Emergency crews were called to the boat, near island groote eylandt, but were unable to save the man. It may be the first recorded death from a sea snake in australia. The man was working on the trawler and was bitten by the sea snake while pulling the net onto the boat, police said. The man's body was taken to the mainland town of borroloola on thursday. Northern territory police said a post-mortem would be conducted. A",
-            "This large snake, resistant to the very potent venoms of its prey, would appear then to be impervious. But we all know the story of the mongoose, if not from wildlife programs then from rudyard kipling's tale \"rikki-tikki-tavi. \" how does the mongoose defeat the king cobra? the mongoose's quick reflexes help it dodge the cobra's defensive bite, and its powerful jaws can dispatch a snake in one blow. But there are also genetic grounds for the mongoose's courage. Sometimes an attacking mongoose is bitten, but it has another line of defense against the venom — its acetylcholine receptor has also evolved so that the cobra neurotoxin cannot bind to it. A set of changes in the mongoose's receptor makes it resemble the cobra's own resistant receptor. Photo the mongoose's evolutionary adaptation is not unique. Other small, humble creatures have evolved ways to endure"
+            "Image copyright getty images image caption sea snakes are often encountered by fishing crews in northern australia a british man has died after being bitten by a sea snake on a fishing trawler in australia, police have said. The man, 23, thought to be a backpacker, had just pulled up a net off the coast of the northern territory when he was bitten about 09: 00 local time on thursday ( 23: 00 gmt wednesday ). Emergency crews were called to the boat, near island groote eylandt, but were unable to save the man. It may be the first recorded death from a sea snake in australia. The man was working on the trawler and was bitten by the sea snake while pulling the net onto the boat, police said. The man's body was taken to the mainland town of borroloola on thursday. Northern territory police said a post-mortem would be conducted. A"
         ],
         "raw_document": [
             "( cnn ) a 23-year-old british man has died after being bitten by a sea snake on a fishing trawler off australia. The snake bit him while he was pulling up a net, northern territory police told cnn. The incident took place on thursday in the gulf of carpentaria off the northern territory. Medical emergency service careflight and other ships in the area rushed to help with medical supplies and assistance, police added. The trawler made its way to the town of borroloola where the man was declared dead. At least 32 species of sea snakes have been found in warmer waters off the northern territory and queensland, according to the marine education society of australasia ( mesa ). Most bites reportedly occur on fishing trawlers, as workers pull in nets, as was the case last week, mesa said on its website. Read more",
@@ -963,17 +954,15 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 33536,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "There are as of this moment 366 people seeking the office of president of the united states of america next year, and as much as we apparently love the idea of he who shall not be named 2016, some of the actual humans who've declared their candidacy sound just as fictional. The new york times runs through some of the more colorful characters, many of whom seem quite taken with capital letters, who would like to get their hands on the nuclear codes: president princess khadijah m. Jacob-fambro, revolutionary party: instead of listing a presidential campaign committee, she made a marriage proposal to a celeb: \" from one alien to another alien... ' lil wayne \" dwayne michael carter jr. \" president carter ' will you marry me? i am god!!! ( smiley emoticon ) president princess khadijah m. Jacob-fambro \" hrm caesar saint augustine de buonaparte emperor of the united states of turtle island, absolute dictator party: we ' ll just call him caesar. The times notes that this is his sixth run for the oval; he rails against \" freaks running the planet \" in his filing. Here's his youtube channel, but his fec filing is, er, thorough. John green ferguson, national eco/green party &amp; the revolutionary'third party ' movement: ferguson appears to have caps lock on lockdown, and looks forward to \" being elected your next new 45th usa president in 2016!!! \" he offers his views and hawks things here. Kevin deame, pirate party: presumably unpopular among the pixie-dust set, the connecticut man filed in april. The bar for filing fec paperwork is pretty low, a rep tells the times: \" the only requirement to file that form is if they raise or spend more than $ 5,000. Anyone can file that fec form. \" for more, including vermin supreme, check out the times ' full piece. ( americans, it turns out, are more jazzed about fictional villains than clintons or bushes. )",
         "split": "train",
-        "cleansed_document": [
-            "This collection contains web crawls performed as the post-inauguration crawl for part of the end of term web archive, a collaborative project that aims to preserve the u.s. Federal government web presence at each change of administration. Content includes publicly-accessible government websites hosted on.gov,.mil, and relevant non-.gov domains, as well as government social media materials. The web archiving was performed in the winter of 2016 and spring of 2017 to capture websites after the january 20, 2017 inauguration. For more information, see."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "This collection contains web crawls performed as the post-inauguration crawl for part of the end of term web archive, a collaborative project that aims to preserve the u.s. Federal government web presence at each change of administration. Content includes publicly-accessible government websites hosted on.gov,.mil, and relevant non-.gov domains, as well as government social media materials. The web archiving was performed in the winter of 2016 and spring of 2017 to capture websites after the january 20, 2017 inauguration. For more information, see.",
             "Best of youtube sign in now to see your channels and recommendations!",
@@ -991,7 +980,7 @@
             "0": 4,
             "1": 3,
             "2": 4,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -1119,7 +1108,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1291,13 +1280,12 @@
     },
     {
         "idx": 33548,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Humans have been ruling earth for a while now, but are we just a flash in the pan? scientists are analyzing other species and asking whether any will eventually take over should we perish by plague, climate change, war, famine, you name it. Or perhaps one already dominates without our realizing it. Among the contenders: of course, rats. They're intelligent, they thrive around the world, and have an impressive social structure, livescience reports. And don't be underwhelmed by their size: one expert notes that precursors to big creatures like horses, mastodons, and mammoths were only about rat-sized until the dinosaurs died off, care2 reports. Then the little guys took advantage and grew — a phenomenon known as \" gigantism. \" bacteria already outperform humans in some ways, a professor tells livescience. \" there are infinitely more of them — well, almost — than there are of us, \" he says. They also reproduce faster, have been around longer, and \" will be around after we are gone. \" ants are also silent rulers, outweighing us in numbers and total weight. African army ants are so effective that some move in 100-foot-long swarms that can kill a tethered cow or possibly a human baby. \" there is a reason why women in equatorial africa carry babies on their back and don't put them in a crib, \" an entomologist says. Should we die off, contenders include dolphins and porpoises ( intelligence ) and cephalopods like octopuses and squids ( relatively big brains and eyes ) — at least underwater, pacific standard reports. One expert notes that all contenders are social species, yet there's one exception: artificial intelligence. \" if something else intelligent arises, it will be electronic and [ we ' ll have ] made it, \" a paleobiologist tells livescience. ( see how humans may have made mammoths go extinct. )",
         "split": "train",
         "cleansed_document": [
             "If large mammals continue to die off, incredibly big rats may one day become the dominant species on earth. That's not the plot for an upcoming sci-fi miniseries. \"sharknado \" was fantasy, but rats the size of sheep or even cows will likely populate earth's future one day, says a scientist from the united kingdom. Dr. Jan zalasiewicz of the university of leicester's department of geology says that as large mammals continue to go extinct, we should expect to see opportunistic rats step up to wield greater and greater influence in their place. Rats will have no problem filling an ecological niche it's all a matter of available ecospace and the hardy, competitive nature of rats, says dr. Zalasiewicz. \"rats are one of the best examples of a species that we have helped spread around the world, and that have successfully adapted to many of the",
-            "In the film \" dawn of the planet of the apes, \" a mutant chimp named caesar can speak english. In the newly released film, \" dawn of the planet of the apes, \" humans and apes vie for dominance after a virus has made apes hyperintelligent while wiping out most humans. But though apes riding horses, reading and writing in english, and hunting like stone age humans is probably far-fetched, the idea of another species or life form dominating the planet isn't, scientists say. In fact, depending on how dominance is defined, other creatures may already be in charge, experts say. [ the 5 smartest non-primates on the planet ] tough competition with humans around, it's very difficult for another superintelligent species to evolve, said jan zalasiewicz, a paleobiologist at the university of leicester. \" humans have been quite good at removing the",
-            "• matt berridge is trying to destroy us all. Well, maybe not. But he's doing something crazy, that much is clear. A wildlife caretaker at the toronto zoo, berridge is giving orangutans ipads. Not just for fun, either; it's for learning. The program he uses, \"apps for apes \" is currently in 13 zoos and animal centers across the world and is exactly what it sounds like. The program's goals, according to the official website, are \"1. To provide stimulating enrichment &amp; immediate gratification for the orangutans using ipads, 2. To raise awareness among zoo visitors of the critical need to protect orangutans in the wild, and 3. To promote the conservation efforts of orangutan outreach. \" it sounds nice, right? but can we really trust orangutans with some of the same tools we're using to mold young elementary"
+            "In the film \" dawn of the planet of the apes, \" a mutant chimp named caesar can speak english. In the newly released film, \" dawn of the planet of the apes, \" humans and apes vie for dominance after a virus has made apes hyperintelligent while wiping out most humans. But though apes riding horses, reading and writing in english, and hunting like stone age humans is probably far-fetched, the idea of another species or life form dominating the planet isn't, scientists say. In fact, depending on how dominance is defined, other creatures may already be in charge, experts say. [ the 5 smartest non-primates on the planet ] tough competition with humans around, it's very difficult for another superintelligent species to evolve, said jan zalasiewicz, a paleobiologist at the university of leicester. \" humans have been quite good at removing the"
         ],
         "raw_document": [
             "If large mammals continue to die off, incredibly big rats may one day become the dominant species on earth. That's not the plot for an upcoming sci-fi miniseries. \"sharknado \" was fantasy, but rats the size of sheep or even cows will likely populate earth's future one day, says a scientist from the united kingdom. Dr. Jan zalasiewicz of the university of leicester's department of geology says that as large mammals continue to go extinct, we should expect to see opportunistic rats step up to wield greater and greater influence in their place. Rats will have no problem filling an ecological niche it's all a matter of available ecospace and the hardy, competitive nature of rats, says dr. Zalasiewicz. \"rats are one of the best examples of a species that we have helped spread around the world, and that have successfully adapted to many of the",
@@ -1314,7 +1302,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1445,12 +1433,11 @@
     },
     {
         "idx": 33553,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "First rule when you're an uber exec trying to mend fences with the media: don't blurt out you've been thinking about digging up dirt on the media. Apparently that was the strategy of emil michael at a friday dinner in nyc, where he spouted outrage over a column critical of the ride-sharing app last month on pandodaily, reports buzzfeed. Michael singled out pando founder and column author sarah lacy, saying she should be held \" personally responsible \" for women who get assaulted if they dump uber. He then mentioned coughing up \" a million dollars \" to hire opposition researchers and journalists to dig into the personal lives and families of overly critical journos — especially lacy, whom he said this hypothetical team could target for a \" very specific claim about her personal life. \" \" no one would know it was us, \" he reportedly said. Michael believed the dinner was off the record, but the buzzfeed reporter allegedly hadn't been told that. Lacy, a vocal critic of uber, its ceo travis kalanick, and silicon valley sexism, posted a column last night addressing his statements. Michael issued his own statement, as well as an emailed apology to lacy, through uber last night: \" the remarks attributed to me at a private dinner — borne out of frustration during an informal debate over what i feel is sensationalistic media coverage of the company i am proud to work for — do not reflect my actual views and have no relation to the company's views or approach. They were wrong no matter the circumstance and i regret them. \" an uber spokeswoman said there are no plans to do \" oppo research. \" ( this washington post writer thinks uber and lyft are becoming \" big bullies. \" )",
         "split": "train",
         "cleansed_document": [
-            "A senior executive at uber suggested that the company should consider hiring a team of opposition researchers to dig up dirt on its critics in the media — and specifically to spread details of the personal life of a female journalist who has criticized the company. The executive, emil michael, made the comments in a conversation he later said he believed was off the record. In a statement through uber monday evening, he said he regretted them and that they didn't reflect his or the company's views. His remarks came as uber seeks to improve its relationship with the media and the image of its management team, who have been cast as insensitive and hyper-aggressive even as the company's business and cultural reach have boomed. Michael, who has been at uber for more than a year as its senior vice president of business, floated the idea at a dinner friday",
-            "We shared this in our news ticker already, but i still can't believe that an office of uber -- a company valued at $ 18 billion and held up as a bastion of modern entrepreneurship -- posted an ad that encouraged, played on, and celebrated treating women who may choose to drive cars to make extra money like hookers. As a woman in this industry struggling mightily with growing sexism in tech demonstrated by people like uber founder travis kalanick, it felt like a punch to the stomach. I didn't actually think uber could shock me anymore. I was wrong. I've spent weeks since my 6,000-word rant on silicon valley assholes having private conversations with the vcs who fund them. Almost none has argued with the premise of my story. But what some have argued is that those who are able to start great companies are a breed apart:"
+            "A senior executive at uber suggested that the company should consider hiring a team of opposition researchers to dig up dirt on its critics in the media — and specifically to spread details of the personal life of a female journalist who has criticized the company. The executive, emil michael, made the comments in a conversation he later said he believed was off the record. In a statement through uber monday evening, he said he regretted them and that they didn't reflect his or the company's views. His remarks came as uber seeks to improve its relationship with the media and the image of its management team, who have been cast as insensitive and hyper-aggressive even as the company's business and cultural reach have boomed. Michael, who has been at uber for more than a year as its senior vice president of business, floated the idea at a dinner friday"
         ],
         "raw_document": [
             "A big debate among the pando staff for the past two years has been over just how morally bankrupt uber is. Earlier this evening, a bombshell story by buzzfeed editor-in-chief ben smith proves the reality is way worse than anyone on our team could have expected. And that's saying something. Back in 2012, paul carr first raised serious concerns about the company's view that both riders and drivers are disposable commodities in an all-out randian battle to maximize profits. He uninstalled the app when he wrote that piece, and he started a drumbeat of press around these concerns. Then, in 2014, carmel deamicis exposed that an uber driver accused of assault had a criminal record that should have been uncovered by the background checks uber claimed to do. She further documented a \"blame the passenger \" culture at the company when such complaints came up. It started to snowball:",
@@ -1467,7 +1454,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1520,17 +1507,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 33556,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A frantic search in the waters of florida's tampa bay by a local fire department, college dive team, and the us coast guard ended sadly this morning after the body of a 5-year-old girl was recovered. Making the story even more tragic is that little phoebe jonchuck ( also spelled jonchuk in various media outlets ) was said to have been killed by her own father, 25-year-old john jonchuck, after he allegedly threw her off a tampa bridge, the ap reports. A police officer who was driving home just after midnight said he tried to stop a pt cruiser that zipped by him at around 100mph, but as they approached the skyway bridge, the cruiser pulled over and the officer says jonchuck got out, tossed his daughter over the side of the bridge, and drove south. Jonchuck was picked up by manatee county police about 30 minutes later, according to wfts. Rescue personnel that included the coast guard and st. Petersburg fire rescue searched for phoebe, who had plunged 62 feet and fallen into the water, but it was eckerd college divers who finally found her; revival attempts were unsuccessful, and she was pronounced dead at 2: 44am at a local hospital, the ap notes. Jonchuck has been charged with first-degree murder, aggravated fleeing and eluding, and aggravated assault with a motor vehicle on a police officer, wftv reports. The station also says jonchuck has a \" long criminal history, \" including dui and non-domestic battery. Still, \" we have no idea why anybody would do something like this, \" a st. Petersburg police department spokeswoman tells wftv. ( an oregon mom accused of throwing her son off a bridge blamed autism. )",
         "split": "train",
         "cleansed_document": [
-            "St. Petersburg, fla. - st. Petersburg, fla. - a 5-year-old girl died early thursday after her father threw her off a bridge near the sunshine skyway, according to st. Petersburg police. Authorities say john nicholas jonchuck, jr., tossed his daughter, phoebe, from the dick misener bridge just after midnight. An officer was headed home, southbound on i-275, when he was passed by a chrysler pt cruiser. The officer said the car was going about 100 miles per hour, so he turned on his lights to stop the car. When the officer reached the dick misener bridge ( on the approach to the skyway ), jonchuck, 25, had pulled over. The officer watched as jonchuck went around the vehicle, got the girl out of the car, and threw her over the railing. She fell 62 feet and plunged into the frigid waters of tampa bay, police said. Related: mother calls phoebe her little angel \" the officer went directly to the bridge to see if he could locate the child in the water. The officer called out what he had just seen. He went off the side of the bridge, down a ladder to get to the water to see if he could locate the child. The subject [ jonchuck ] then just drove off, not at a high rate of speed",
-            "Florida's department of children and families is changing its abuse hotline criteria after a man threw his 5-year-old daughter off a st. Petersburg bridge into tampa bay thursday morning. Dcf secretary mike carroll announced the changes later that day. John jonchuck was arrested and taken to the pinellas county jail after police said he killed his 5-year-old daughter, phoebe. During his arraignment, jonchuck asked for divine intervention. \" i don't want a court-appointed lawyer. I want to leave it in the hands of god, \" jonchuck said. Raw video: father arrested, taken to jail photos: victim phoebe jonchuck &#124; father's arrest, scene pics news conference: police on dad accused in child's death hillsboro county deputies said they did a well-being check wednesday on jonchuck, who was with his priest, after he was making similar religious statements. His attorney feared jonchuck may harm his daughter and frantically called 911 wednesday morning, saying, \" he's out of his mind and he has a minor child with him, driving to a church now, and i should have kept the child. \" fernandez said rescuers attempted to resuscitate phoebe. She was taken to a hospital, where she was pronounced dead early thursday morning. \" we have no idea why anybody would do something like this, \" said yolanda"
+            "St. Petersburg, fla. - st. Petersburg, fla. - a 5-year-old girl died early thursday after her father threw her off a bridge near the sunshine skyway, according to st. Petersburg police. Authorities say john nicholas jonchuck, jr., tossed his daughter, phoebe, from the dick misener bridge just after midnight. An officer was headed home, southbound on i-275, when he was passed by a chrysler pt cruiser. The officer said the car was going about 100 miles per hour, so he turned on his lights to stop the car. When the officer reached the dick misener bridge ( on the approach to the skyway ), jonchuck, 25, had pulled over. The officer watched as jonchuck went around the vehicle, got the girl out of the car, and threw her over the railing. She fell 62 feet and plunged into the frigid waters of tampa bay, police said. Related: mother calls phoebe her little angel \" the officer went directly to the bridge to see if he could locate the child in the water. The officer called out what he had just seen. He went off the side of the bridge, down a ladder to get to the water to see if he could locate the child. The subject [ jonchuck ] then just drove off, not at a high rate of speed"
         ],
         "raw_document": [
             "St. Petersburg, fla. - st. Petersburg, fla. - a 5-year-old girl died early thursday after her father threw her off a bridge near the sunshine skyway, according to st. Petersburg police. Authorities say john nicholas jonchuck, jr., tossed his daughter, phoebe, from the dick misener bridge just after midnight. An officer was headed home, southbound on i-275, when he was passed by a chrysler pt cruiser. The officer said the car was going about 100 miles per hour, so he turned on his lights to stop the car. When the officer reached the dick misener bridge ( on the approach to the skyway ), jonchuck, 25, had pulled over. The officer watched as jonchuck went around the vehicle, got the girl out of the car, and threw her over the railing. She fell 62 feet and plunged into the frigid waters of tampa bay, police said. Related: mother calls phoebe her little angel \" the officer went directly to the bridge to see if he could locate the child in the water. The officer called out what he had just seen. He went off the side of the bridge, down a ladder to get to the water to see if he could locate the child. The subject [ jonchuck ] then just drove off, not at a high rate of speed",
@@ -1545,7 +1531,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1598,7 +1584,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1699,7 +1685,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1723,7 +1709,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1808,7 +1794,7 @@
             "0": 1,
             "1": 3,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1927,18 +1913,17 @@
             "1": 4,
             "2": 0,
             "3": 1,
-            "4": 0
+            "4": 1
         }
     },
     {
         "idx": 33571,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Joe biden's parks and recreation guest spot — which the atlantic wire calls \" the most anticipated cameo by a politician on a television show of all time \" — aired last night, and the vp got himself sniffed by amy poehler's character, leslie knope, who has long harbored a crush on him. The scene finds leslie's fiance arranging a surprise meeting for her with biden, during which leslie gets a bit confused and thinks she's being asked to replace hillary clinton as secretary of state. In other big nbc sitcom news, the network announced yesterday that tina fey's 30 rock character, liz lemon, will be marrying her boyfriend — played by james marsden — on the nov. 29 episode, us reports. The announcement came via a \" save the date \" card, which notes that though liz will be married, she won't be getting hitched in \" a creepy way that perpetuates the idea that brides are virgins and women are property. \" ( click to see it. )",
         "split": "train",
         "cleansed_document": [
             "There's a tv wedding in the works! tina fey's liz lemon will be marrying james marsden's chris chross in the nov. 29 episode of 30 rock, nbc announced nov. 15. According to the fictional couple's save-the-date, liz will be presenting herself to marry the entrepreneur, \" but not in a creepy way that perpetuates the idea that brides are virgins and women are property. \" photos: 30 rock's most memorable guest stars the save the date also advises viewers to \" bring your own snacks. \" ( marsden joined the show as a guest star during season 6 in 2011. ) fey's character, a 42-year-old unlucky-in-love tv producer, previously dated commercial pilot carol burnett ( matt damon ), juvenile businessman dennis duffy ( dean winters ) and hapless-but-hunky dr. Drew baird ( jon hamm ). Photos: funniest female stars 30 rock,",
-            "We're pretty confident when we declare joe biden's guest spot on thursday night's episode of parks and recreation the most anticipated cameo by a politician on a television show of all time. Biden's appearance would have had a longer buildup if it wasn't for people who care about a level playing field in unimportant things like federal elections. The show was warned that if word of biden's cameo got out before election day they would have to, in the interest of fairness, orchestrate a cameo for paul ryan too: \"it was all very byzantine and complicated, \" mr. Schur said. \"there seem to be all kinds of specific rules, which i never fully understood. But we decided to err on the side of caution. \" instead, we only just found out about biden's appearance last week. Leslie knope's love",
-            "30 rock: liz lemon marrying criss chross in november 29 episode! there's a tv wedding in the works! tina fey's liz lemon will be marrying james marsden's chris chross in the nov. 29 episode of 30 rock, nbc announced nov. 15. According to the fictional couple's save-the-date, liz will be presenting herself to marry the entrepreneur, \" but not in a creepy way that perpetuates the idea that brides are virgins and women are property. \" photos: 30 rock's most memorable guest stars the save the date also advises viewers to \" bring your own snacks. \" ( marsden joined the show as a guest star during season 6 in 2011. ) credit: nbc fey's character, a 42-year-old unlucky-in-love tv producer, previously dated commercial pilot carol burnett ( matt damon ), juvenile businessman dennis duffy ( dean winters ) and hapless-but-hunky"
+            "We're pretty confident when we declare joe biden's guest spot on thursday night's episode of parks and recreation the most anticipated cameo by a politician on a television show of all time. Biden's appearance would have had a longer buildup if it wasn't for people who care about a level playing field in unimportant things like federal elections. The show was warned that if word of biden's cameo got out before election day they would have to, in the interest of fairness, orchestrate a cameo for paul ryan too: \"it was all very byzantine and complicated, \" mr. Schur said. \"there seem to be all kinds of specific rules, which i never fully understood. But we decided to err on the side of caution. \" instead, we only just found out about biden's appearance last week. Leslie knope's love"
         ],
         "raw_document": [
             "There's a tv wedding in the works! tina fey's liz lemon will be marrying james marsden's chris chross in the nov. 29 episode of 30 rock, nbc announced nov. 15. According to the fictional couple's save-the-date, liz will be presenting herself to marry the entrepreneur, \" but not in a creepy way that perpetuates the idea that brides are virgins and women are property. \" photos: 30 rock's most memorable guest stars the save the date also advises viewers to \" bring your own snacks. \" ( marsden joined the show as a guest star during season 6 in 2011. ) fey's character, a 42-year-old unlucky-in-love tv producer, previously dated commercial pilot carol burnett ( matt damon ), juvenile businessman dennis duffy ( dean winters ) and hapless-but-hunky dr. Drew baird ( jon hamm ). Photos: funniest female stars 30 rock,",
@@ -1955,19 +1940,18 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 33572,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Michael banks ' engagement couldn't have gotten off to a rockier start. Police say the 27-year-old fresno man illegally scaled the 600-foot morro rock off california's central coast after sunrise thursday to propose to his girlfriend over the facetime app. She said yes, but was upset that he'd climbed the rock at all, reports ksby. Then, rather than return down the south side of the rock, banks chose a steeper path down the eastern face and got stuck on a small chunk of rock. \" he couldn't go any direction, on a sheer ledge, with his feet dangling 80 feet off the ground, \" a fire chief tells the ap. Locals heard him calling for help around 8: 45am, and a helicopter soon arrived to rescue him. \" it was a pretty amazing rescue on the part of the fire department, \" a morro bay state park ranger tells the san luis obispo tribune, noting the helicopter's blades had to get close to the rock face to deliver a harness to banks, who was back on the ground unscathed by 9: 30am. He was issued a misdemeanor citation for trespassing — the fire chief says it's illegal to climb the rock \" because it kills people \" — and was told he'd have to pay for the rescue, which likely cost thousands. But things only went downhill from there. Banks was \" found to be under the influence and in possession of methamphetamine \" and ended the happy day in san luis obispo county jail, reports kfsn. ( another proposal with iffy judgment involved stopping cars in the middle of a highway. )",
         "split": "train",
         "cleansed_document": [
             "A fresno man rescued after getting stuck on top of morro rock is now under arrest.investigators said 27-year-old michael banks climbed to the top to propose to his girlfriend but then got stuck on the way down. The morro bay fire department had to wrap banks in a harness to remove him from the steep part of the rock.banks was found to be under the influence and in possession of methamphetamine.he is now at the san luis obispo county jail.",
             "A firefighter rescues a man from the side of morro rock in morro bay. ( photos courtesy morro bay fire department ) emergency crews were called to morro rock thursday morning after a man became stuck while illegally climbing it. Morro bay fire chief steve knuckles says a witness heard the man yelling for help at about 8: 45 a.m. And called rescue crews. The man was reportedly stranded on a very small piece of rock about three-quarters of the way down. A california highway patrol helicopter was used to lower a firefighter to the man and rescue him. That man has been identified as michael banks of fresno. The firefighter who rescued him says banks told him he climbed the rock in order to propose to his girlfriend over facetime. She reportedly said yes, but was upset by",
-            "In this photo provided by bob isenberg, michael banks is rescued after being stranded on a ledge some 80 off the ground on morro rock, a landmark in morro bay, calif., thursday, april 7, 2016. He had... ( associated press ) morro bay, calif. ( ap ) — as marriage proposals go, michael banks ' was a cliff-hanger. Banks, 27, scaled 600-foot morro rock just off california's central coast early thursday morning to propose to his girlfriend, who was watching via facetime video. The good news: banks ' girlfriend said yes, according to morro bay fire capt. Todd gailey. The bad news: banks got stuck, and had to be plucked by helicopter for a tricky, post-proposal flight to safety. Banks \" took a different",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "In this photo provided by bob isenberg, michael banks is rescued after being stranded on a ledge some 80 off the ground on morro rock, a landmark in morro bay, calif., thursday, april 7, 2016. He had... ( associated press ) morro bay, calif. ( ap ) — as marriage proposals go, michael banks ' was a cliff-hanger. Banks, 27, scaled 600-foot morro rock just off california's central coast early thursday morning to propose to his girlfriend, who was watching via facetime video. The good news: banks ' girlfriend said yes, according to morro bay fire capt. Todd gailey. The bad news: banks got stuck, and had to be plucked by helicopter for a tricky, post-proposal flight to safety. Banks \" took a different"
         ],
         "raw_document": [
             "A fresno man rescued after getting stuck on top of morro rock is now under arrest.investigators said 27-year-old michael banks climbed to the top to propose to his girlfriend but then got stuck on the way down. The morro bay fire department had to wrap banks in a harness to remove him from the steep part of the rock.banks was found to be under the influence and in possession of methamphetamine.he is now at the san luis obispo county jail.",
@@ -1986,7 +1970,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2036,7 +2020,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2063,7 +2047,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2088,7 +2072,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2145,12 +2129,11 @@
     },
     {
         "idx": 33579,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Today is, supposedly, the absolute last day for debt limit legislation to be introduced in the house if the us wants to avoid defaulting on aug. 2. As we wait to see if lawmakers make the deadline, uri friedman, writing in in the atlantic wire, looks at all the deadlines they've missed so far: may 16: timothy geithner originally named this as the date the us would risk default, but when it passed without congress raising the debt ceiling, the treasury shuffled some clamshells to postpone the default date to aug. 2 — at which point \" the borrowing authority of the united states will be exhausted. \" june 31: on june 1, john boehner said that a deal must be made in the next month in order to avoid \" rattling investors. \" july 4: joe biden predicted a plan would be formulated before the july 4 congressional recess, and at the time, politico noted that \" much of july \" would still be needed for congress to actually complete the complicated work of raising the debt ceiling. July 16: on july 14, president obama gave congressional leaders working on a plan \" 24 to 36 hours \" to complete one that would pass both chambers. July 22: earlier in the month, the obama administration had floated this as the absolute-last-minute date, in order to get a deal actually passed by aug. 2. July 24: boehner originally wanted a new plan by yesterday, before the asian markets opened; that didn't happen. See the atlantic wire for more.",
         "split": "train",
         "cleansed_document": [
-            "With republicans and democrats at loggerheads about how to raise the $ 14.3 trillion debt ceiling, house speaker john boehner and treasury secretary timothy geithner have both indicated that debt limit legislation must be introduced in the house today in order for it to win approval from both houses of congress and president obama by august 2, when the treasury department says the u.s. Will default on its spending obligations. So, will monday bring big news on the legislative front -- some meaningful breakthrough in the political gridlock? if lawmakers ' history of missing debt limit deadlines over the past several months is any indication, we shouldn't hold our breath. Let's review: may 16 - in three letters to senate majority leader harry reid and speaker john boehner on january 6, april 4, and may 2, treasury secretary timothy geithner urges congress to raise the debt ceiling by may 16 or risk a u.s. Default. When congress misses the deadline, the treasury department takes \" extraordinary measures \" to \" temporarily postpone the date that the united states would otherwise default on its obligations \" to august 2, when \" the borrowing authority of the united states will be exhausted. \" june 31 - on june 1, speaker boehner tells reporters a deal \" needs to be done over the next month \" if \" we're serious about",
-            "Picking up the pace, the white house wants three meetings a week with lawmakers for the remainder of june in hopes of hammering out a deficit-reduction agreement by the july 4th recess. The accelerated schedule reflects both the political and very practical challenges of the immense task ahead. Text size - + reset politico 44 the july 4th target leaves time for president barack obama to step in and make final decisions with leaders like speaker john boehner who are not part of the immediate talks. And even if a deal is reached, much of july is still needed for congress to write complicated changes in federal programs and raise the federal debt ceiling before the aug. 2 deadline set by the treasury department. Adding to the urgency is the recent spate of bad economic news and concern that the continued impasse over the debt ceiling is becoming a drag on the recovery. \"the news economically on the jobs front in the last several days underscored the importance of this meeting that we just came out of, \" said house majority leader eric cantor ( r-va. ) \"there's a commitment for next week that we will be engaging, once again, in a robust series of meetings to see if we can achieve a result. \" \"we believe that many of the problems surrounding the lack of job creation and growth in this country have to do with the"
+            "With republicans and democrats at loggerheads about how to raise the $ 14.3 trillion debt ceiling, house speaker john boehner and treasury secretary timothy geithner have both indicated that debt limit legislation must be introduced in the house today in order for it to win approval from both houses of congress and president obama by august 2, when the treasury department says the u.s. Will default on its spending obligations. So, will monday bring big news on the legislative front -- some meaningful breakthrough in the political gridlock? if lawmakers ' history of missing debt limit deadlines over the past several months is any indication, we shouldn't hold our breath. Let's review: may 16 - in three letters to senate majority leader harry reid and speaker john boehner on january 6, april 4, and may 2, treasury secretary timothy geithner urges congress to raise the debt ceiling by may 16 or risk a u.s. Default. When congress misses the deadline, the treasury department takes \" extraordinary measures \" to \" temporarily postpone the date that the united states would otherwise default on its obligations \" to august 2, when \" the borrowing authority of the united states will be exhausted. \" june 31 - on june 1, speaker boehner tells reporters a deal \" needs to be done over the next month \" if \" we're serious about"
         ],
         "raw_document": [
             "With republicans and democrats at loggerheads about how to raise the $ 14.3 trillion debt ceiling, house speaker john boehner and treasury secretary timothy geithner have both indicated that debt limit legislation must be introduced in the house today in order for it to win approval from both houses of congress and president obama by august 2, when the treasury department says the u.s. Will default on its spending obligations. So, will monday bring big news on the legislative front -- some meaningful breakthrough in the political gridlock? if lawmakers ' history of missing debt limit deadlines over the past several months is any indication, we shouldn't hold our breath. Let's review: may 16 - in three letters to senate majority leader harry reid and speaker john boehner on january 6, april 4, and may 2, treasury secretary timothy geithner urges congress to raise the debt ceiling by may 16 or risk a u.s. Default. When congress misses the deadline, the treasury department takes \" extraordinary measures \" to \" temporarily postpone the date that the united states would otherwise default on its obligations \" to august 2, when \" the borrowing authority of the united states will be exhausted. \" june 31 - on june 1, speaker boehner tells reporters a deal \" needs to be done over the next month \" if \" we're serious about",
@@ -2165,7 +2148,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2197,13 +2180,12 @@
     },
     {
         "idx": 33581,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Hungry humans are in danger of eating nearly a quarter of all endangered land mammals into extinction, according to a study published this week in royal society open science. Quartz reports that 301 species of land mammals — from bats and primates to rodents and big cats — are being hunted into extinction. And for the vast majority — 285 species — the reason is food, not poaching or sport hunting. Some estimates claims more than a million metric tons of wild animal meat is collected in africa every year. And approximately $ 200 million worth of wild animal meat is harvested yearly in the brazilian amazon, according to the telegraph. \" these species will continue to decline unless there is major global action to save them, \" the study's lead author, bill ripple, says. The 285 species are found in poorer countries where protein is hard to find, with the most living in madagascar, indonesia, the philippines, and brazil. Researchers say tens of millions of people around the world rely on wild animals for meat. They lay out a series of solutions for what they call a \" global crisis, \" phys.org reports. Those include creating more protected land for wild animals, providing legal rights for sustainable hunting, swapping high-protein plants like soy and tubers for wild animal meat, and increasing access to education and family planning. Fifteen leading conservation scientists have signed on to the study. ( something is killing the scrotum frogs of lake titicaca. )",
         "split": "train",
         "cleansed_document": [
             "Some 300 wild mammal species in asia, africa and latin america are being driven to extinction by humanity's voracious appetite for bushmeat, according to a world-first assessment released wednesday. The species at risk range from rats to rhinoceros, and include docile, ant-eating pangolins as well as flesh-ripping big cats. The findings, published in the journal royal society open science, are evidence of a \" global crisis \" for warm-blooded land animals, 15 top conservation scientists concluded. \" terrestrial mammals are experiencing a massive collapse in their population sizes and geographical ranges around the world, \" the study warned. This decline, it said, was part of a larger trend known as a \" mass extinction event, \" only the sixth time in half a billion years that earth's species are dying out at more than 1,000 times the usual rate.",
-            "Credit: wikipedia. The ongoing decline of more than 300 species of animals is having significant environmental impacts and posing a food security threat for millions of people in asia, africa and south america, according to the first global assessment of the hunting and trapping of terrestrial mammals. Species of large wild ungulates, primates and bats are threatened primarily by unregulated or illegal hunting, according to data collected by the international union for the conservation of nature ( iucn ), a nongovernmental organization. Researchers concluded that only bold changes and political will can diminish the possibility of humans consuming many of the world's wild mammals to the point of extinction. An international team led by william ripple, distinguished professor of ecology at oregon state university, analyzed data on the iucn red list to reach their findings, which were published today in royal society open science, a professional journal. The animals at risk range from large ( grey ox, bactrian camels, bearded and warty pigs ) to small ( golden-capped fruit bat, black-bearded flying fox and bulmer's fruit bat ). Hunting endangers more primate species - 126, including the lowland gorilla, chimpanzee, bonobo and many species of lemurs and monkeys - than any other group. Populations of other species are declining and similarly threatened. Javan and black rhinoceroses, tapirs, deer, tree kangaroos, armadillos, pangolins, rodents and large carnivores are all hunted or trapped for meat, medicine, body parts, trophies or live pets. Scientists reviewed iucn data on 1,169 of the world's terrestrial mammals that are listed as threatened with extinction. These animals represent 26 percent of all",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Credit: wikipedia. The ongoing decline of more than 300 species of animals is having significant environmental impacts and posing a food security threat for millions of people in asia, africa and south america, according to the first global assessment of the hunting and trapping of terrestrial mammals. Species of large wild ungulates, primates and bats are threatened primarily by unregulated or illegal hunting, according to data collected by the international union for the conservation of nature ( iucn ), a nongovernmental organization. Researchers concluded that only bold changes and political will can diminish the possibility of humans consuming many of the world's wild mammals to the point of extinction. An international team led by william ripple, distinguished professor of ecology at oregon state university, analyzed data on the iucn red list to reach their findings, which were published today in royal society open science, a professional journal. The animals at risk range from large ( grey ox, bactrian camels, bearded and warty pigs ) to small ( golden-capped fruit bat, black-bearded flying fox and bulmer's fruit bat ). Hunting endangers more primate species - 126, including the lowland gorilla, chimpanzee, bonobo and many species of lemurs and monkeys - than any other group. Populations of other species are declining and similarly threatened. Javan and black rhinoceroses, tapirs, deer, tree kangaroos, armadillos, pangolins, rodents and large carnivores are all hunted or trapped for meat, medicine, body parts, trophies or live pets. Scientists reviewed iucn data on 1,169 of the world's terrestrial mammals that are listed as threatened with extinction. These animals represent 26 percent of all"
         ],
         "raw_document": [
             "Some 300 wild mammal species in asia, africa and latin america are being driven to extinction by humanity's voracious appetite for bushmeat, according to a world-first assessment released wednesday. The species at risk range from rats to rhinoceros, and include docile, ant-eating pangolins as well as flesh-ripping big cats. The findings, published in the journal royal society open science, are evidence of a \" global crisis \" for warm-blooded land animals, 15 top conservation scientists concluded. \" terrestrial mammals are experiencing a massive collapse in their population sizes and geographical ranges around the world, \" the study warned. This decline, it said, was part of a larger trend known as a \" mass extinction event, \" only the sixth time in half a billion years that earth's species are dying out at more than 1,000 times the usual rate.",
@@ -2220,18 +2202,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 33582,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "President obama surely expected that his decision to make it easier for younger illegal immigrants to stay in the country wouldn't play well on the right. But he probably didn't expect to confront that criticism in the middle of his rose garden announcement. As abc news notes, neil munro from the daily caller interrupted obama's statement, at one point shouting out, \" why do you favor foreigners over american workers? \" a clearly annoyed obama admonished munro for interrupting and shot back that his executive order loosening deportation rules \" was the right thing to do. \" ( they had two back-and-forths during the statement. ) tommy christopher at mediaite called it a \" remarkable display of unprofessionalism \" on munro's part. Munro himself said in a statement afterward that he shouted out only because he thought obama was finishing his statement and the president \" rarely takes questions. \" his daily caller boss, tucker carlson, defended him: \"i don't remember diane sawyer scolding her colleague sam donaldson for heckling president reagan, \" he said. \" a reporter's job is to ask questions and get answers. Our job is to find out what the federal government is up to. Politicians often don't want to tell us. A good reporter gets the story. We're proud of neil munro. \" ( for more on obama's defense of his executive order, see ap. )",
         "split": "train",
         "cleansed_document": [
             "In a remarkable display of unprofessionalism, daily caller reporter neil munro heckled president obama as he delivered remarks in the white house's rose garden regarding a shift in immigration policy friday afternoon. Munro's angst is apparently connected to comments the president made in march of 2011, in which he ruled out using an executive order to change immigration policy, even though no executive order was used for the current policy change. Munro, the video indicates, was attending the remarks with a temporary press pass. The daily caller's matt lewis flagged this exchange earlier today, ostensibly to demonstrate a contradiction with today's announcement of a policy change by the department of homeland security: mr. Ramos: mr. President, my question will be as follows: with an executive order, could you be able to stop deportations of the students? and if that's so, that links",
-            "President obama flashed anger for the first time in recent memory today as an eccentric conservative reporter interrupted his speech on immigration in the rose garden. Neil munro of the daily caller, a conservative news site, shouted at obama in the middle of his speech formally announcing looser deportation rules, \" why do you favor foreigners over american workers? \" irritated, obama glared at munro and told him not to interrupt, said he \" didn't ask for an argument \" and said the new order is \" the right thing to do. \" the change on immigration relaxes rules for younger illegal immigrants who haven't broken the law since coming into the country as children, a move that has riled republicans while bringing the issue back into the fore of the 2012 election. The homeland security department will no longer deport such immigrants, and work permits will be given to them",
-            "President barack obama eased enforcement of immigration laws friday, offering a chance for hundreds of thousands of illegal immigrants to stay in the u.s. And work. Immediately embraced by hispanics, the extraordinary step touched off an election-year confrontation with congressional republicans. Students from left: david buenrostro, adrian james, and jahel ramos protest outside the obama campaign offices in culver city, calif., thursday, june 14, 2012. The students demand that president obama... ( associated press ) \" let's be clear, this is not amnesty, this is not immunity, this is not a path to citizenship, this is not a permanent fix, \" obama said from the white house rose garden. \" this is the right thing to do. \" the policy change will affect as many as 800,000 immigrants who have lived in fear of deportation. It bypasses congress and partially achieves the goals of"
+            "President obama flashed anger for the first time in recent memory today as an eccentric conservative reporter interrupted his speech on immigration in the rose garden. Neil munro of the daily caller, a conservative news site, shouted at obama in the middle of his speech formally announcing looser deportation rules, \" why do you favor foreigners over american workers? \" irritated, obama glared at munro and told him not to interrupt, said he \" didn't ask for an argument \" and said the new order is \" the right thing to do. \" the change on immigration relaxes rules for younger illegal immigrants who haven't broken the law since coming into the country as children, a move that has riled republicans while bringing the issue back into the fore of the 2012 election. The homeland security department will no longer deport such immigrants, and work permits will be given to them"
         ],
         "raw_document": [
             "In a remarkable display of unprofessionalism, daily caller reporter neil munro heckled president obama as he delivered remarks in the white house's rose garden regarding a shift in immigration policy friday afternoon. Munro's angst is apparently connected to comments the president made in march of 2011, in which he ruled out using an executive order to change immigration policy, even though no executive order was used for the current policy change. Munro, the video indicates, was attending the remarks with a temporary press pass. The daily caller's matt lewis flagged this exchange earlier today, ostensibly to demonstrate a contradiction with today's announcement of a policy change by the department of homeland security: mr. Ramos: mr. President, my question will be as follows: with an executive order, could you be able to stop deportations of the students? and if that's so, that links",
@@ -2248,7 +2229,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2276,7 +2257,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2306,12 +2287,11 @@
     },
     {
         "idx": 33585,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A 5-year-old boy with leukemia has a wish: he wants to be batman. So the make-a-wish foundation asked for help from san francisco residents, and more than 7,000 have signed up so far. They ' ll help stage a series of stunts on friday, during which little miles will get to rescue someone in trouble on a cable car, chase the penguin, capture the riddler, and be thanked ( and given a key to the city ) by the mayor and the police chief at city hall. The thousands of people who signed up will form crowds of bystanders who will cheer batman on. \" since he wants to be a superhero, we felt like having a large crowd there waiting with signs and cheering him on would make him feel like a hero, \" a make-a-wish manager tells abc news. It's the foundation's biggest event yet, mashable reports, and some of the volunteers are flying into the city specifically to take part. Foursquare and twitter are also getting involved: participants can check in at \" gotham city \" on foursquare, and twitter has set up an account for the penguin — who is, of course, using it to taunt \" batkid. \" dc comics may even give him his own comic book.",
         "split": "train",
         "cleansed_document": [
-            "In the annals of the make-a-wish foundation, there's never been anything as big as this. A five-year-old boy named miles, who lives in northern california, has leukemia. He loves superheroes, and his fondest wish is to be batman. So make-a-wish put out a call for help from the citizens of san francisco, where miles ' wish is to be realized in an elaborate set of stunts on friday, nov. 15. They got more than they bargained for — 10,000 rsvps on the website, and counting. [ update: the number jumped from 7,100 to 8,100 overnight, and hit 10,000 on tuesday afternoon. ] the plan is for miles to have an action-packed day around the city: rescuing a damsel in distress on a cable car, capturing the riddler in a downtown vault, chasing the penguin around union square, and finally receiving the thanks of a grateful mayor and police chief on the steps of city hall. Volunteers were needed to form large, appreciative crowds to witness batkid's deeds, and urge him on in all those locations; organizers say they had no idea they'd be getting this many sign-ups. It may not be a world record for largest flash mob, but it is certainly the largest event the foundation has ever put on. A number of supporters from around the u.s. Have",
-            "Frequently asked questions has this wish increased donations? we were delighted by the response we got from across the bay area, the country and worldwide. We saw an increase in offers of help across all areas, including donations, volunteers, referrals and other services. In fact, the volume of traffic on our servers caused our system-wide websites to go down for several hours on the day of his wish! but miles ' wish to be batkid was not a fundraising event and we do not have numbers to share. How much did this wish cost? this wish would never have been possible without the assistance of countless individuals, businesses, and city services. It is not our practice to share the costs associated with specific wishes, but the average wish cost is $ 10,000 and we have never turned a child away or put them on a waiting list for lack of funding. What did it cost the mayor's office? when the event grew from a few hundred people on the steps of city hall to what would become a 20,000+ crowd and an event that would be broadcast to the world, a different set up was required quickly. The mayor's office worked closely with make-a-wish greater bay area to successfully co-host the civic center public viewing event. After the wish took place, make-a-wish donors john and"
+            "In the annals of the make-a-wish foundation, there's never been anything as big as this. A five-year-old boy named miles, who lives in northern california, has leukemia. He loves superheroes, and his fondest wish is to be batman. So make-a-wish put out a call for help from the citizens of san francisco, where miles ' wish is to be realized in an elaborate set of stunts on friday, nov. 15. They got more than they bargained for — 10,000 rsvps on the website, and counting. [ update: the number jumped from 7,100 to 8,100 overnight, and hit 10,000 on tuesday afternoon. ] the plan is for miles to have an action-packed day around the city: rescuing a damsel in distress on a cable car, capturing the riddler in a downtown vault, chasing the penguin around union square, and finally receiving the thanks of a grateful mayor and police chief on the steps of city hall. Volunteers were needed to form large, appreciative crowds to witness batkid's deeds, and urge him on in all those locations; organizers say they had no idea they'd be getting this many sign-ups. It may not be a world record for largest flash mob, but it is certainly the largest event the foundation has ever put on. A number of supporters from around the u.s. Have"
         ],
         "raw_document": [
             "In the annals of the make-a-wish foundation, there's never been anything as big as this. A five-year-old boy named miles, who lives in northern california, has leukemia. He loves superheroes, and his fondest wish is to be batman. So make-a-wish put out a call for help from the citizens of san francisco, where miles ' wish is to be realized in an elaborate set of stunts on friday, nov. 15. They got more than they bargained for — 10,000 rsvps on the website, and counting. [ update: the number jumped from 7,100 to 8,100 overnight, and hit 10,000 on tuesday afternoon. ] the plan is for miles to have an action-packed day around the city: rescuing a damsel in distress on a cable car, capturing the riddler in a downtown vault, chasing the penguin around union square, and finally receiving the thanks of a grateful mayor and police chief on the steps of city hall. Volunteers were needed to form large, appreciative crowds to witness batkid's deeds, and urge him on in all those locations; organizers say they had no idea they'd be getting this many sign-ups. It may not be a world record for largest flash mob, but it is certainly the largest event the foundation has ever put on. A number of supporters from around the u.s. Have",
@@ -2326,18 +2306,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 33586,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "At age 12, ibtihaj muhammad chose to learn fencing because she considered it the easiest sport in which she could compete while wearing a hijab. Eighteen years later, she's made history as team usa's first hijab-wearing olympian, reports the bbc. The 30-year-old former world champion, ranked eighth in the world at her sport, says it's \" groundbreaking to have a muslim woman on the us team, \" and hopes to inspire others \" who have been told they don't belong. \" born and raised in new jersey, muhammad was recently confronted on the street by a man who asked if she was going to blow something up. And despite security concerns in rio, she fears more for her safety at home. \" [ i feel unsafe ] all the time, \" muhammad tells the daily beast. The first comment under her bio on the team usa website, for example, reads, \" what a disgrace, this is disgusting, \" per the telegraph. \" when i hear people here say they want to throw all muslims back to their country, i think: well, where am i going to go? this is my home, \" says muhammad, also a \" modest \" fashion designer and one of time's 100 most influential people. Muhammad — who came in second in a vote to choose the american flag bearer — advanced to the round of 16 in the individual sabre event monday, per the los angeles times, and has been instructed by president obama to \" bring home the gold. \" but \" i am excited to represent not just myself, my family, and my country — but also the greater muslim community, \" she says. \" we as a country have to change and i feel like this is our moment. \" ( muhammad was asked to remove the hijab at south by southwest in march. )",
         "split": "train",
         "cleansed_document": [
             "Media playback is not supported on this device us fencer muhammad makes history in hijab olympic games on the bbc hosts: rio de janeiro dates: 5-21 august rio time: bst -4 coverage: watch on bbc one, bbc two, bbc four, red button and up to 24 hd video streams on mobile, desktop, connected tvs and app, plus follow on radio 5 live and via live text commentary. She gave the first lady a fencing lesson, just two weeks after being asked in the street if she was going to blow something up. Now ibtihaj muhammad is preparing for the \" defining moment \" in her life - becoming team usa's first hijab-wearing olympian. \" in this particular political climate in the history of this country, it is groundbreaking to have a muslim woman on the us team, \" muhammad tells bbc sport. \" i am excited to challenge the stereotypes and misconceptions people have about muslim women. I want to show people",
-            "Rio de janeiro, brazil — forget claims that this is the most dangerous olympic games in sporting history, one american star says she doesn't feel safe back at home. Ibtihaj muhammad, an american fencer and the country's first olympian who wears a hijab, said there is now a climate of anti-islamic sentiment in united states that makes her feel unsafe. Speaking in rio, where scare stories abound about robberies, viruses, sewage, and instability, muhammad was more concerned about the dangers awaiting her when she returns to u.s. Soil. \"[ i feel unsafe ] all the time. I had someone follow me home from practice and try to report me to police, \" she said. \"and this is right on 28th and 7th in new york city. \" \"i ' m very vocal about these things because i want people to know i ' m not a novelty, i ' m not special in any way, i ' m a woman who",
-            "( wally skalij / los angeles times ) my medal platform of memories is filled by two people and a team that not only successfully defended their titles, but made history doing it. The bronze goes to judoka kayla harrison, who become the first american to win two gold medals in her sport. The silver goes to middleweight boxer claressa shields, the first american — male or female — to win two olympic boxing titles. And the gold goes to the women's water polo team, which not only became the first repeat champion in the history of its sport, but did it with a heavy heart after the brother of coach adam krikorian died of a heart attack two days before the games began."
+            "Rio de janeiro, brazil — forget claims that this is the most dangerous olympic games in sporting history, one american star says she doesn't feel safe back at home. Ibtihaj muhammad, an american fencer and the country's first olympian who wears a hijab, said there is now a climate of anti-islamic sentiment in united states that makes her feel unsafe. Speaking in rio, where scare stories abound about robberies, viruses, sewage, and instability, muhammad was more concerned about the dangers awaiting her when she returns to u.s. Soil. \"[ i feel unsafe ] all the time. I had someone follow me home from practice and try to report me to police, \" she said. \"and this is right on 28th and 7th in new york city. \" \"i ' m very vocal about these things because i want people to know i ' m not a novelty, i ' m not special in any way, i ' m a woman who"
         ],
         "raw_document": [
             "Media playback is not supported on this device us fencer muhammad makes history in hijab olympic games on the bbc hosts: rio de janeiro dates: 5-21 august rio time: bst -4 coverage: watch on bbc one, bbc two, bbc four, red button and up to 24 hd video streams on mobile, desktop, connected tvs and app, plus follow on radio 5 live and via live text commentary. She gave the first lady a fencing lesson, just two weeks after being asked in the street if she was going to blow something up. Now ibtihaj muhammad is preparing for the \" defining moment \" in her life - becoming team usa's first hijab-wearing olympian. \" in this particular political climate in the history of this country, it is groundbreaking to have a muslim woman on the us team, \" muhammad tells bbc sport. \" i am excited to challenge the stereotypes and misconceptions people have about muslim women. I want to show people",
@@ -2354,7 +2333,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2682,7 +2661,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {

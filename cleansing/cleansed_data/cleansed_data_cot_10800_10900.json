@@ -79,7 +79,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -106,7 +106,7 @@
         "vote_count": {
             "0": 0,
             "1": 3,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -169,14 +169,13 @@
     },
     {
         "idx": 10806,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "In 1912, an ambitious lawyer named charles dawson discovered a fossilized skeleton with the skull of a man but the jaws of an ape in a british gravel pit, the telegraph reports. For the next three decades, eoanthropus dawsoni — better known as piltdown man, named for the location it was discovered — was seen as an important step in human evolution, a \" missing link \" between apes and humans. In reality, it was \" arguably the greatest scientific crime ever committed in britain, \" paleoanthropologist isabelle de groote writes in scientific american. In a study published wednesday in royal society open science, de groote and her team believe they've finally solved once and for all who faked piltdown man by combining, carving, and dyeing human and orangutan bones. After new scientific methods proved piltdown man was a fake in 1953, blame was placed alternately at the feet of dawson, a british paleontologist, a priest who helped with the excavation, and sir arthur conan doyle, creator of sherlock holmes — or some combination thereof, science reports. An expert says conan doyle's motivation would have been to get revenge on \" the scientists who mocked him for expressing a belief in spiritualism. \" but de groote's research puts the blame solely on dawson, who likely worked alone. She says piltdown man shows \" evidence of one hand, one maker, one signature. \" that maker is probably dawson, who was found to have committed at least 38 forgeries and desperately wanted to be recognized by the scientific community. ( these real-life hobbit fossils are almost certainly not hoaxes. )",
         "split": "train",
         "cleansed_document": [
             "It is arguably the greatest scientific crime ever committed in britain. In december 1912, charles dawson, an amateur antiquarian and solicitor archaeologist, presented part of a human-like skull to the world which he claimed was the \"missing link \" between ape and human. While the discovery made waves at the time, new dating technologies in the 1950s revealed that these bones were nowhere near old enough to make up such a link and that the fossils had therefore been a hoax. So who did it? suspects have ranged from french priest and palaeontologist teilhard de chardin to writer sir arthur conan doyle, but many archaeologists naturally suspect dawson. But the evidence has so far been",
             "The hundred-year-old mystery of who hoaxed the scientific world with the piltdown man fossils may finally have been solved … and sir arthur conan doyle is in the clear researchers at the natural history museum and liverpool john moores university have found new evidence which points the finger at amateur archaeologist charles dawson, who originally found the remains, but who was thought incapable of such an elaborate deception. The new results clear conan doyle, the sherlock holmes author, who many believed had perpetrated the stunt to embarrass scientists for mocking his spiritualist beliefs. Dr isabelle de groote from liverpool john moores university, the lead author on the paper, said: \" although multiple individuals have been accused",
-            "The big-brained, ape-jawed piltdown man was hailed as a major missing link in human evolution when he was discovered in a gravel pit outside a small u.k. Village in 1912. The find set the pace for evolutionary research for decades and established the united kingdom as an important site in human evolution. The only problem? piltdown man turned out to be one of the most famous frauds in scientific history — a human cranium paired with an orangutan's jaw and teeth. Now, scientists think they've figured out once and for all that a single hoaxer was responsible, not a duplicitous cabal. The saga of piltdown started in 1907. That year, a sand mine",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "The big-brained, ape-jawed piltdown man was hailed as a major missing link in human evolution when he was discovered in a gravel pit outside a small u.k. Village in 1912. The find set the pace for evolutionary research for decades and established the united kingdom as an important site in human evolution. The only problem? piltdown man turned out to be one of the most famous frauds in scientific history — a human cranium paired with an orangutan's jaw and teeth. Now, scientists think they've figured out once and for all that a single hoaxer was responsible, not a duplicitous cabal. The saga of piltdown started in 1907. That year, a sand mine"
         ],
         "raw_document": [
             "It is arguably the greatest scientific crime ever committed in britain. In december 1912, charles dawson, an amateur antiquarian and solicitor archaeologist, presented part of a human-like skull to the world which he claimed was the \"missing link \" between ape and human. While the discovery made waves at the time, new dating technologies in the 1950s revealed that these bones were nowhere near old enough to make up such a link and that the fossils had therefore been a hoax. So who did it? suspects have ranged from french priest and palaeontologist teilhard de chardin to writer sir arthur conan doyle, but many archaeologists naturally suspect dawson. But the evidence has so far been",
@@ -195,7 +194,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -227,12 +226,10 @@
     },
     {
         "idx": 10808,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "\" i went to puerto rico and i met with the president of the virgin islands, \" cnn quotes president trump as saying friday during the value voter summit. He later added: \" the virgin islands and the president of the virgin islands, these are people that are incredible people. \" there's just one problem: trump is the president of the virgin islands, which is a us territory. Trump almost certainly meant the governor of the virgin islands, kenneth mapp, and the official white house transcript was corrected to reflect that. But that didn't stop the jokes, some of which were rounded up by people. \" trump claims he met with the president of the u.s. Virgin islands, signaling a major breakthrough in human cloning technology, \" the daily show tweets. \" he meets the president of the virgin islands daily, in fact, \" adds cnn reporter hunter schwarz. ( energy secretary rick perry made a similar mistake on thursday, referring to the virgin islands as a country. )",
         "split": "train",
-        "cleansed_document": [
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
@@ -246,7 +243,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -274,7 +271,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -309,12 +306,11 @@
     },
     {
         "idx": 10811,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "\" if you know someone who has lost a house, let me know, \" a canadian man wrote on facebook this week after stumbling upon a complete house in the middle of his property. His plea worked. Patrick maze tells the cbc he was driving past a section of his property near pilot butte, sask., on oct. 26 when he noticed — it was hard not to notice — a gray dwelling on a trailer parked in the middle of a field maze rents to a local farmer. \" i assumed that it was just to be left overnight and they would come back right away, \" he says. But when the house remained days later, maze turned to facebook for help in tracking down its owner. \" that's my house, \" brenda robertson responded after his post, which included several photos, was shared nearly 300 times, per metro. Robertson, who lives roughly 30 miles from pilot butte in lumsden, went on to explain there had been issues in the delivery of her new house from neighboring manitoba. Though the home had reached saskatchewan, robertson was told it had to be taken back across province lines in order to have permits reissued — \" so it's quite a surprise to see my house on your land, \" she wrote. Robertson says she has since learned the house mover was instructed to leave the house behind and tried but failed to contact maze and his neighbors. Maze now says the home is expected to leave his property thursday. And though he joked that he might be able to keep it \" under ' finders-keepers ' laws, \" he says its departure will bring a \" happy ending. \" ( a canadian couple accused neighbors of copying their house. )",
         "split": "train",
         "cleansed_document": [
-            "It's not every day that you wake up and find a house in your field. Patrick maze said he was driving to work at about 5: 30 a.m. Last thursday when he came across a house on an empty quarter section he owns, northeast of pilot butte, sask. \" at the time i assumed that it was just to be left overnight and they would come back right away, \" maze said. \" several days later, i'd actually forgotten about the house. I went for a walk on the property and there it still was. \" then i kind of thought,'that's strange. Something's up here. ' \" the quarter section was previously unoccupied. ( patrick maze/facebook ) maze posted his predicament to facebook on sunday afternoon. In no time it had hundreds of shares. Multiple people commented that the story was \" so saskatchewan. \" it got so much attention online that the owner of the house even saw it. Brenda robertson lives in lumsden, sask., with her family. Their new house was on the way from winnipeg. Robertson says she was told there was a problem with saskpower permits, and the house had to go back to manitoba for them to be re-issued. \" so it's quite a surprise to see my house on",
-            "Share this article with google plus dorothy? is that you? ( picture: facebook/ patrick maze ) don't you just hate it when you wake up and find someone has dumped an entire house in your field? yes, we do too. Donald trump's personal lawyer michael cohen faces 30 years jail for paying porn star but someone who hates it a little more is patrick maze – mainly because it actually happened to him. The canadian man was walking past his land on his way to work when he first spotted the large property. Posting a picture on facebook, he said: 'have any of you ever found a house?'the canadian man was walking past his land on his way to work when he first spotted the large property. ( picture: facebook/ patrick maze ) posting a picture on facebook, he said: 'have any of you ever found a house? ' ( picture: facebook/ patrick maze ) he added: 'so i've never run into this situation before, but maybe my facebook friends have, so i am reaching out for some guidance. Advertisement advertisement 'perhaps someone stole it and took it for a joy ride, then ditched it on my property? there was no one in it, so i don't think it's a bold move by squatters. Donald"
+            "It's not every day that you wake up and find a house in your field. Patrick maze said he was driving to work at about 5: 30 a.m. Last thursday when he came across a house on an empty quarter section he owns, northeast of pilot butte, sask. \" at the time i assumed that it was just to be left overnight and they would come back right away, \" maze said. \" several days later, i'd actually forgotten about the house. I went for a walk on the property and there it still was. \" then i kind of thought,'that's strange. Something's up here. ' \" the quarter section was previously unoccupied. ( patrick maze/facebook ) maze posted his predicament to facebook on sunday afternoon. In no time it had hundreds of shares. Multiple people commented that the story was \" so saskatchewan. \" it got so much attention online that the owner of the house even saw it. Brenda robertson lives in lumsden, sask., with her family. Their new house was on the way from winnipeg. Robertson says she was told there was a problem with saskpower permits, and the house had to go back to manitoba for them to be re-issued. \" so it's quite a surprise to see my house on"
         ],
         "raw_document": [
             "It's not every day that you wake up and find a house in your field. Patrick maze said he was driving to work at about 5: 30 a.m. Last thursday when he came across a house on an empty quarter section he owns, northeast of pilot butte, sask. \" at the time i assumed that it was just to be left overnight and they would come back right away, \" maze said. \" several days later, i'd actually forgotten about the house. I went for a walk on the property and there it still was. \" then i kind of thought,'that's strange. Something's up here. ' \" the quarter section was previously unoccupied. ( patrick maze/facebook ) maze posted his predicament to facebook on sunday afternoon. In no time it had hundreds of shares. Multiple people commented that the story was \" so saskatchewan. \" it got so much attention online that the owner of the house even saw it. Brenda robertson lives in lumsden, sask., with her family. Their new house was on the way from winnipeg. Robertson says she was told there was a problem with saskpower permits, and the house had to go back to manitoba for them to be re-issued. \" so it's quite a surprise to see my house on",
@@ -329,7 +325,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -742,7 +738,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -775,12 +771,11 @@
     },
     {
         "idx": 10828,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Fortune named houston's hilcorp energy as the 20th best place to work in the us last year. And boy were they not kidding. The houston business journal reports the oil and gas company recently handed out $ 100,000 bonuses to every employee as a reward for meeting the company's five-year goals of doubling production rates, reserves, and equity. \" mr. Jeff hilldebrand and our president greg lalicker, they are such amazing motivators, \" amanda thompson, who has been a receptionist at hilcorp for a decade, tells kdfw. \" some days i just kind of look down the hall and say, ' i cant believe these are my bosses. ' \" all 1,381 hilcorp employees were eligible for the bonus, though they were \" prorated based on time of service, \" according to the business journal. Thompson tells kdfw her coworkers used their bonuses from what she calls an \" oprah day \" for everything from vacations to college funds to early retirements. \" we all were able to celebrate and enjoy that life-changing day together, \" she says. \" we cried with happiness for each other, we hugged. \" this isn't the first time hilcorp employees have been majorly rewarded for their hard work. After hitting their goals in 2010, employees were given the choice of a $ 50,000 car or $ 35,000 cash, fortune reports. And the business journal notes the company also made fortune's lists of best workplaces for diversity and millennials.",
         "split": "train",
         "cleansed_document": [
-            "Houston company gives every employee $ 100k bonus texas houston company gives every employee 100k bonus this holiday season a houston-based company is rewarding its workers with a major bonus. - this holiday season a houston-based company is rewarding its workers with a major bonus. Hilcorp has 1,381 employees total, and all of them were given a one-hundred thousand dollar bonus to top off an excellent year. Amanda thompson has been the receptionist at hilcorp for 10 years and she said she along with all of her coworkers have a good reason to give it their all everyday. \" it's just a true gift, \" said thompson. \" and i think myself, as long as everyone else is not going to give any less than one-hundred percent each day. \" hilcorp is one of the largest privately-held oil and natural gas exploration and production companies in the united states and was also named to the 2015 fortune 100 best companies to work for list. That makes it their third year in a row on that list. \" mr. Jeff hilldebrand, and our president greg lalicker, they are such amazing motivators, \" said thompson. \" somedays i just kind of look down the hall and say i cant believe these are my bosses and they're the best. \" thompson said hildebrand stands by every promise he makes to his employees if",
-            "Methodology fortune and great place to work partnered with essence and people en español to determine which companies have made diversity a top priority. These diversity lists are a \"best of the best \" ranking. The winners come from a universe of approximately 630 companies with published great place to work reviews, meaning they are serious about creating a great workplace and comfortable with transparency. Companies needed to have at least 30 employees with at least 15 % women and 15 % racial/ethnical minorities in order to be considered for the list. Data about the population of lesbian, gay, bisexual, and transgender ( lgbt ) employees was not provided by the companies, so therefore could not be included as part of the methodology. To determine the winners, great place to work surveyed 128,000 women and nearly 70,000 minorities at 630 companies who answered a detailed questionnaire considering everything from how comfortable they are being themselves; the degree of favoritism or insider politics they observe in the workplace; the fairness of promotions; the feeling of honest connection with coworkers; their access to senior leadership; and who receives information and professional development and who doesn't. Employees answered 58 questions in total, including an overall assessment of whether the company is a great place to work. Survey results have a high degree of reliability in accurately reflecting employees ' experiences: in"
+            "Houston company gives every employee $ 100k bonus texas houston company gives every employee 100k bonus this holiday season a houston-based company is rewarding its workers with a major bonus. - this holiday season a houston-based company is rewarding its workers with a major bonus. Hilcorp has 1,381 employees total, and all of them were given a one-hundred thousand dollar bonus to top off an excellent year. Amanda thompson has been the receptionist at hilcorp for 10 years and she said she along with all of her coworkers have a good reason to give it their all everyday. \" it's just a true gift, \" said thompson. \" and i think myself, as long as everyone else is not going to give any less than one-hundred percent each day. \" hilcorp is one of the largest privately-held oil and natural gas exploration and production companies in the united states and was also named to the 2015 fortune 100 best companies to work for list. That makes it their third year in a row on that list. \" mr. Jeff hilldebrand, and our president greg lalicker, they are such amazing motivators, \" said thompson. \" somedays i just kind of look down the hall and say i cant believe these are my bosses and they're the best. \" thompson said hildebrand stands by every promise he makes to his employees if"
         ],
         "raw_document": [
             "Houston company gives every employee $ 100k bonus texas houston company gives every employee 100k bonus this holiday season a houston-based company is rewarding its workers with a major bonus. - this holiday season a houston-based company is rewarding its workers with a major bonus. Hilcorp has 1,381 employees total, and all of them were given a one-hundred thousand dollar bonus to top off an excellent year. Amanda thompson has been the receptionist at hilcorp for 10 years and she said she along with all of her coworkers have a good reason to give it their all everyday. \" it's just a true gift, \" said thompson. \" and i think myself, as long as everyone else is not going to give any less than one-hundred percent each day. \" hilcorp is one of the largest privately-held oil and natural gas exploration and production companies in the united states and was also named to the 2015 fortune 100 best companies to work for list. That makes it their third year in a row on that list. \" mr. Jeff hilldebrand, and our president greg lalicker, they are such amazing motivators, \" said thompson. \" somedays i just kind of look down the hall and say i cant believe these are my bosses and they're the best. \" thompson said hildebrand stands by every promise he makes to his employees if",
@@ -795,7 +790,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -820,7 +815,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -848,7 +843,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -905,13 +900,12 @@
     },
     {
         "idx": 10833,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Five members of an \" unsanctioned \" fraternity at the state university of new york at albany have been charged in the hazing death of a pledge. Olaf jablonski, yuval sucov, jonathan maldonado, steven vila, and keith rosengarten, 20 to 22, are charged with first-degree hazing after 19-year-old trevor duffy died after an initiation ritual for zeta beta tau on nov. 15, 2014, reports nbc news. Police say duffy and other pledges were forced to drink 60 ounces of vodka. A student says she found duffy passed out in a shower with rosengarten — his \" big brother \" who was monitoring his intake, students allege — standing over him around 1am. An hour later, duffy's lips were bluish purple, she says, per the albany times union. She adds she yelled for someone to call 911, but several men debated whether to do so. They eventually moved duffy outside to keep police from entering the residence. Duffy was rushed to a hospital, where his blood alcohol level registered.583 — more than seven times the legal driving limit, reports the wall street journal. He died nov. 17. One of four other students taken to the hospital says he was told his blood tested positive for various drugs, though he didn't knowingly take any. A suny albany rep says 24 people were sanctioned after a university investigation, and some were expelled, including rosengarten, who petitioned the state supreme court to reverse the ruling. Court documents show frat members had assured duffy that no one ever died in hazing rituals just hours before. The university says zbt lost recognition as a campus frat in 1997 but kept an underground presence. A zbt chapter that reformed on campus in 2011 was separate from the one linked to duffy's death. ( five frat members face 20 years over this hazing death. )",
         "split": "train",
         "cleansed_document": [
             "A fifth person has been arrested in connection with the hazing death of a 19-year-old fraternity pledge last november, police told nbc news. Keith rosengarten, 20, turned himself into albany police friday morning and was charged with first-degree hazing, a misdemeanor. Students arrested in connection with an alcohol-related death in albany, new york, from left to right: keith rosengarten, olaf jablonski, yuval sucov, steven villa and jonathan maldonado. Albany, new york, police department the charge comes after olaf jablonski and yuval sucov, both 20, were arrested wednesday; both are former students at the state university of new york at albany, nbc station wnyt reported. Jonathan maldonado, 21, who is identified as a student on his arrest report, was charged the next day, along with steven vila, 22. All four are accused of first-degree hazing. According to arrest reports, the pledge, trevor duffy, was attending what they called an initiation for \" zeta beta tau \" on the night of nov. 15. \" duffy, along with other initiants, was required, ordered, and encouraged to drink 1.75 liters of alcohol of their choice, \" police reports say.",
-            "Four former university at albany-suny students were charged with hazing this week in connection with an alcohol-related death stemming from a fraternity initiation ritual, the albany police department said on thursday. More arrests are expected in the coming weeks, police said. Steven vila, 22 years old, and jonathan maldonado, 21,...",
-            "An albany police car sits outside 461 hamilton street at the scene of an alleged underage drinking party tuesday afternoon, nov. 18, 2014 in albany, n.y. Police responded to a call early sunday morning and found five intoxicated 19-year-old men, all university at albany students. One of them, trevor duffy, 19, of bronx, died monday at albany medical center after excessive alcohol consumption.the other students were treated and released from area hospitals. ( skip dickstein/times union ) less an albany police car sits outside 461 hamilton street at the scene of an alleged underage drinking party tuesday afternoon, nov. 18, 2014 in albany, n.y. Police responded to a call early sunday morning and... More photo: skip dickstein buy photo photo: skip dickstein image 1 of / 1 caption close ualbany student death: fatal hazing details in court 1 / 1 back to gallery albany hours before the nov. 15 party that lead to his death from alcohol poisoning, university at albany student trevor duffy was promised by the brothers of an underground fraternity that no one was ever killed while pledging, according to court documents. After a night of being forced to consume a handle, or a bottle with"
+            "Four former university at albany-suny students were charged with hazing this week in connection with an alcohol-related death stemming from a fraternity initiation ritual, the albany police department said on thursday. More arrests are expected in the coming weeks, police said. Steven vila, 22 years old, and jonathan maldonado, 21,..."
         ],
         "raw_document": [
             "A fifth person has been arrested in connection with the hazing death of a 19-year-old fraternity pledge last november, police told nbc news. Keith rosengarten, 20, turned himself into albany police friday morning and was charged with first-degree hazing, a misdemeanor. Students arrested in connection with an alcohol-related death in albany, new york, from left to right: keith rosengarten, olaf jablonski, yuval sucov, steven villa and jonathan maldonado. Albany, new york, police department the charge comes after olaf jablonski and yuval sucov, both 20, were arrested wednesday; both are former students at the state university of new york at albany, nbc station wnyt reported. Jonathan maldonado, 21, who is identified as a student on his arrest report, was charged the next day, along with steven vila, 22. All four are accused of first-degree hazing. According to arrest reports, the pledge, trevor duffy, was attending what they called an initiation for \" zeta beta tau \" on the night of nov. 15. \" duffy, along with other initiants, was required, ordered, and encouraged to drink 1.75 liters of alcohol of their choice, \" police reports say.",
@@ -928,17 +922,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 10834,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Nancy pelosi, john boehner, and stripper ginger lee have got something in common: they all think anthony weiner should step down. Lee, a former porn actress, says she exchanged more than a hundred messages with weiner but she was discussing politics and didn't respond in kind to his suggestive emails. She says weiner would attempt to turn the conversation around to sex with messages such as, \" i have wardrobe demands, too. I need to highlight my package, \" the los angeles times reports. Lee, speaking yesterday at a press conference with attorney gloria allred, repeated her accusation that weiner asked her to lie about their exchanges when the scandal broke, abc news reports. Allred says lee started following weiner on twitter because he supported planned parenthood and health care reform. \" i think that anthony weiner should resign, because he lied to the public and the press for more than a week, \" lee said. \" if he lied about this, i can't have much faith in him about anything else. \"",
         "split": "train",
         "cleansed_document": [
-            "Former porn star ginger lee, during a press conference today in new york city, said rep. Anthony weiner, d-n.y., asked her to lie about their correspondence. Lee said she never sent photos to or received photos from the congressman, and although he tried to make their conversations sexual by references to his \" package, \" she \" did not reciprocate. \" \" ' i have wardrobe demands, too. I need to highlight my package, ' \" weiner wrote in an email to lee that was read aloud at the press conference by lee's attorney, gloria allred. Allred said that lee began following weiner on twitter because he supported planned parenthood and health care, two issues that are important to her. After the photo of weiner's crotch went public, lee said, \" he asked me to lie \" about the relationship. She said she issued a three-sentence statement at weiner's request. On june 2, lee said weiner called her and told her to avoid the media. According to lee, weiner believed if they both said nothing the story would calm down and die. Now lee wants weiner to resign. \" i think that anthony weiner should resign, because he lied. He lied to the public and the press for more than a week, \" she said. \"",
-            "Amid all the chaos and confusion of rep. Anthony weiner's sexting scandal, somehow los angeles attorney gloria allred got connected with one of the new york democrat's female electronic correspondents. And today, the pair opted to call a news conference in new york to announce that they would really like to avoid publicity and get on with their private lives. Because weiner has refrained from publicly texting his whereabouts and desires the last couple of days, times were slow on the power/sex news front. So, fewer than several hundred news media showed up at the friars club to watch the shy women enter down a spiral staircase. Weiner's texting partner is a tennessean known as ginger lee. She is a former porn actress and what allred calls a \" featured dancer, \" who is studying to become a real estate agent and likes long walks on the beac h. We made up that last part. Lee carefully read a written statement ( see video below ). Mainly, in her attempt to duck publicity, lee said she had not responded in kind to weiner's suggestive sexts but had continued exchanging maybe 100 messages since march, mostly about politics, she said. And especially about the managed care opt-out for certain states that obtain healthcare waivers by the deadline set out in section 14 ( v )."
+            "Former porn star ginger lee, during a press conference today in new york city, said rep. Anthony weiner, d-n.y., asked her to lie about their correspondence. Lee said she never sent photos to or received photos from the congressman, and although he tried to make their conversations sexual by references to his \" package, \" she \" did not reciprocate. \" \" ' i have wardrobe demands, too. I need to highlight my package, ' \" weiner wrote in an email to lee that was read aloud at the press conference by lee's attorney, gloria allred. Allred said that lee began following weiner on twitter because he supported planned parenthood and health care, two issues that are important to her. After the photo of weiner's crotch went public, lee said, \" he asked me to lie \" about the relationship. She said she issued a three-sentence statement at weiner's request. On june 2, lee said weiner called her and told her to avoid the media. According to lee, weiner believed if they both said nothing the story would calm down and die. Now lee wants weiner to resign. \" i think that anthony weiner should resign, because he lied. He lied to the public and the press for more than a week, \" she said. \""
         ],
         "raw_document": [
             "Former porn star ginger lee, during a press conference today in new york city, said rep. Anthony weiner, d-n.y., asked her to lie about their correspondence. Lee said she never sent photos to or received photos from the congressman, and although he tried to make their conversations sexual by references to his \" package, \" she \" did not reciprocate. \" \" ' i have wardrobe demands, too. I need to highlight my package, ' \" weiner wrote in an email to lee that was read aloud at the press conference by lee's attorney, gloria allred. Allred said that lee began following weiner on twitter because he supported planned parenthood and health care, two issues that are important to her. After the photo of weiner's crotch went public, lee said, \" he asked me to lie \" about the relationship. She said she issued a three-sentence statement at weiner's request. On june 2, lee said weiner called her and told her to avoid the media. According to lee, weiner believed if they both said nothing the story would calm down and die. Now lee wants weiner to resign. \" i think that anthony weiner should resign, because he lied. He lied to the public and the press for more than a week, \" she said. \"",
@@ -953,7 +946,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -983,12 +976,11 @@
     },
     {
         "idx": 10836,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The first of six baltimore police officers to be put on trial in the death of freddie gray took the stand wednesday, the ap reports. Officer william porter has been charged with manslaughter in the death of the 25-year-old gray, which set off massive riots in baltimore last april. Prosecutors claim gray died from a spinal injury while in the back of a police van. In his first chance to defend himself, porter says he didn't call for an ambulance despite gray's repeated requests for a medic because gray \" was unable to give any reason for any kind of medical emergency \" and didn't show signs of having one, reports the baltimore sun. He says he heard gray claim he couldn't breathe during his arrest but not while in the back of the van. Overall, porter and his defense attempted to paint a picture of an officer who was trying to do what was right but \" didn't know what the situation was, \" the sun reports. Porter demonstrated how he helped gray off the floor of the van during one of its stops. He also claims he told the van's driver — who had \" primary responsibility \" — they needed to take gray to the hospital but couldn't order the driver to do so. He says when he found gray unconscious during another stop, he tried to stabilize his airway and waited with him until a medic arrived. \" it was a very traumatic day for me also, \" porter says. \" just seeing him in the neighborhood every day, then calling his name and not getting a response. \" as for why gray wasn't wearing a seatbelt in the van, porter says in hundreds of incidences he's never seen arrestees belted in.",
         "split": "train",
         "cleansed_document": [
-            "Baltimore ( ap ) — the latest on the trial of a baltimore police officer who is charged with manslaughter in the death of freddie gray, a 25-year-old black man who was injured in the back of a police transport van ( all times local ). 11: 50 a.m. A baltimore police officer charged with manslaughter in the death of freddie gray says the man showed no physical signs of injury and gave no reason to call for a medic during a van stop. William porter testified wednesday in his own defense. He talked about the fourth stop of the police van carrying gray. That's where prosecutors say gray suffered the spinal injury that eventually killed him porter said that \" after talking to freddie gray, he was unable to give me a reason for a medical emergency. \" porter was asked whether gray said he couldn't breathe at the van stop. He testified, \" absolutely not. \" when asked why he didn't buckle gray into a seat belt, porter said the wagon is \" pretty tight. \" he said he's been a part of about 200 arrests involving wagon transport and no prisoners were belted in. ___ 10: 50 a.m. A baltimore police officer charged with manslaughter in the death of freddie gray has taken the witness stand to begin testifying in his own defense.",
-            "What led to mistrial for officer william g. Porter in freddie gray case prosecutors and defense lawyers have sparred for days on many issues in the trial of officer william g. Porter, who faced four charges in the april death of freddie gray. Jurors have not specified why they were deadlocked, but here's a summary of key conflicts that confronted jurors: when gray's injury occurred: dr. Carol allan, the assistant state medical examiner who performed the autopsy on gray, said he was injured between the second and fourth stops. She would not have ruled the death a homicide, she said, had porter or the van's driver, officer caesar r. Goodson jr., sought medical care for gray at the fourth stop. A defense witness, dr. Vincent dimaio, said gray's catastrophic injury must have occurred between the fifth and final stops of the van. Had it occurred any earlier, gray would not have been able to ask for help, kneel, or move his body in any way. Seat-belting: prosecutors argued that baltimore police department rules clearly require officers to seat-belt arrestees. Porter's lawyers argued that police rarely seat-belted prisoners and that the departmental rule — updated just weeks before gray died — was not well-known. Medical care: prosecutors argued that departmental rules require officers to provide medical care"
+            "Baltimore ( ap ) — the latest on the trial of a baltimore police officer who is charged with manslaughter in the death of freddie gray, a 25-year-old black man who was injured in the back of a police transport van ( all times local ). 11: 50 a.m. A baltimore police officer charged with manslaughter in the death of freddie gray says the man showed no physical signs of injury and gave no reason to call for a medic during a van stop. William porter testified wednesday in his own defense. He talked about the fourth stop of the police van carrying gray. That's where prosecutors say gray suffered the spinal injury that eventually killed him porter said that \" after talking to freddie gray, he was unable to give me a reason for a medical emergency. \" porter was asked whether gray said he couldn't breathe at the van stop. He testified, \" absolutely not. \" when asked why he didn't buckle gray into a seat belt, porter said the wagon is \" pretty tight. \" he said he's been a part of about 200 arrests involving wagon transport and no prisoners were belted in. ___ 10: 50 a.m. A baltimore police officer charged with manslaughter in the death of freddie gray has taken the witness stand to begin testifying in his own defense."
         ],
         "raw_document": [
             "Baltimore ( ap ) — the latest on the trial of a baltimore police officer who is charged with manslaughter in the death of freddie gray, a 25-year-old black man who was injured in the back of a police transport van ( all times local ). 11: 50 a.m. A baltimore police officer charged with manslaughter in the death of freddie gray says the man showed no physical signs of injury and gave no reason to call for a medic during a van stop. William porter testified wednesday in his own defense. He talked about the fourth stop of the police van carrying gray. That's where prosecutors say gray suffered the spinal injury that eventually killed him porter said that \" after talking to freddie gray, he was unable to give me a reason for a medical emergency. \" porter was asked whether gray said he couldn't breathe at the van stop. He testified, \" absolutely not. \" when asked why he didn't buckle gray into a seat belt, porter said the wagon is \" pretty tight. \" he said he's been a part of about 200 arrests involving wagon transport and no prisoners were belted in. ___ 10: 50 a.m. A baltimore police officer charged with manslaughter in the death of freddie gray has taken the witness stand to begin testifying in his own defense.",
@@ -1003,7 +995,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1241,12 +1233,11 @@
     },
     {
         "idx": 10845,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A limousine driver who planned to launch himself into the sky in a homemade rocket this saturday to prove the earth is flat won't be doing that, and not just because the earth is definitely not flat. \" mad \" mike hughes says he had to call off his planned launch after the us bureau of land management stepped in — and also after his \" motorhome/rocket launcher \" broke down in his driveway, the desert sun reports. Hughes, 61, tells the washington post he got verbal permission from the bureau of land management last year to launch from public property in amboy, california. A spokesperson for the bureau says it has no record of speaking to hughes, who didn't apply for a needed permit. The spokesperson says they reached out to hughes after seeing media coverage ahead of his launch. \"this is what happens anytime you have to deal with any kind of government agency, \" hughes says. He calls the decision to cancel the launch \" very disappointing. \" he says he plans to try again from private property next week. Hughes spent $ 20,000 building a steam-powered rocket in his garage. Gizmodo reports he planned to use it to launch himself 1,800 feet into the air at 500mph. Should he survive that, he says he plans to eventually launch himself miles above the earth in order to definitely prove it's flat. Hughes recently converted to the theory of a flat earth in what could easily be interpreted as a way to increase donations toward his rocket.",
         "split": "train",
         "cleansed_document": [
-            "A california man who planned to launch himself 1,800 feet high saturday in a homemade scrap-metal rocket — in an effort to prove that earth is flat — said he is postponing the experiment after he couldn't get permission from a federal agency to conduct it on public land. Instead, mike hughes said the launch will take place sometime next week on private property, albeit still in amboy, calif., an unincorporated community in the mojave desert along historic route 66. \"it's still happening. We're just moving it three miles down the road, \" hughes told the washington post on friday. \"this is what happens anytime you have to deal with any kind of government agency. \" hughes claimed the bureau of land management said he couldn't launch his rocket as planned saturday in amboy. He claimed the federal agency had given him verbal permission more than a year ago, pending approval from the federal aviation administration. A blm spokeswoman said its local field office had no record of speaking with hughes and that he had not applied for the necessary special recreation permit to hold an event on public land. \" someone from our local office reached out to him after seeing some of these news articles [ about the launch ], because that was news to them, \" blm spokeswoman samantha storms said. Representatives from the",
-            "Close kyrie irving got into a heated argument with a reporter during all-star media availability over his recent comments that the earth is flat. Usa today sports in this wednesday, nov. 15, 2017, photograph, daredevil/limousine driver mad mike hughes is shown with with his steam=powered rocket constructed out of salvage parts on a five-acre property that he leases in apple valley, cal. Hughes plans to launch his homemade contraption on saturday near the ghost town of amboy, cal., at a speed of roughly 500 miles-per-hour. ( waldo stakes/ho courtesy of mad mike hughes via ap ) ( photo: waldo stakes/ap ) a man who believes the earth is flat and was ready to launch himself from a rocket in amboy saturday afternoon to prove it has canceled his plans. At least for now. Not having the required federal permits plus mechanical problems with his \" motorhome/rocket launcher \" have forced self-taught rocket scientist \" mad \" mike hughes to put his experiment on hold. The united states bureau of land management \" told me they would not allow me to do the event... At least not at that location, \" hughes said in a youtube announcement, amid international attention over his plans to launch into the ' atmosflat. ' \" it's been very disappointing, \" he said. Read more: \" mad \" mike hughes sets out to"
+            "A california man who planned to launch himself 1,800 feet high saturday in a homemade scrap-metal rocket — in an effort to prove that earth is flat — said he is postponing the experiment after he couldn't get permission from a federal agency to conduct it on public land. Instead, mike hughes said the launch will take place sometime next week on private property, albeit still in amboy, calif., an unincorporated community in the mojave desert along historic route 66. \"it's still happening. We're just moving it three miles down the road, \" hughes told the washington post on friday. \"this is what happens anytime you have to deal with any kind of government agency. \" hughes claimed the bureau of land management said he couldn't launch his rocket as planned saturday in amboy. He claimed the federal agency had given him verbal permission more than a year ago, pending approval from the federal aviation administration. A blm spokeswoman said its local field office had no record of speaking with hughes and that he had not applied for the necessary special recreation permit to hold an event on public land. \" someone from our local office reached out to him after seeing some of these news articles [ about the launch ], because that was news to them, \" blm spokeswoman samantha storms said. Representatives from the"
         ],
         "raw_document": [
             "A california man who planned to launch himself 1,800 feet high saturday in a homemade scrap-metal rocket — in an effort to prove that earth is flat — said he is postponing the experiment after he couldn't get permission from a federal agency to conduct it on public land. Instead, mike hughes said the launch will take place sometime next week on private property, albeit still in amboy, calif., an unincorporated community in the mojave desert along historic route 66. \"it's still happening. We're just moving it three miles down the road, \" hughes told the washington post on friday. \"this is what happens anytime you have to deal with any kind of government agency. \" hughes claimed the bureau of land management said he couldn't launch his rocket as planned saturday in amboy. He claimed the federal agency had given him verbal permission more than a year ago, pending approval from the federal aviation administration. A blm spokeswoman said its local field office had no record of speaking with hughes and that he had not applied for the necessary special recreation permit to hold an event on public land. \" someone from our local office reached out to him after seeing some of these news articles [ about the launch ], because that was news to them, \" blm spokeswoman samantha storms said. Representatives from the",
@@ -1261,7 +1252,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1291,13 +1282,12 @@
     },
     {
         "idx": 10847,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A slow jam in a traffic jam is how a newlywed couple in ohio dealt with a wedding day setback on saturday, wlwt reports. Jeff and rebecca payne were headed from their ceremony to their reception in dayton when they got stuck in traffic on us route 35 after a multicar crash, the dayton daily news reports. After an hour or so of waiting, someone in a nearby car recommended the paynes celebrate their first dance right in the middle of the highway, and so they did, to alison krauss ' \" when you say nothing at all, \" with their videographer capturing the whole thing on video. People notes that while their guests waited at the reception, the internet celebrated with them, using the #rescuethepaynes hashtag on social media. The daily news adds there were no serious injuries as a result of the accident that caused the snarl. ( a paramedic bride helped at the scene of an accident. )",
         "split": "train",
         "cleansed_document": [
             "Newlyweds stuck in traffic have first dance on ohio highway a pair of newlyweds made the best of a traffic jam that interrupted their wedding plans saturday. The couple was driving from their wedding ceremony to their reception with their photographers and videographer levi curby of levi curby media when traffic screeched to a halt on u.s. Route 35. Advertisement they were stopped for about an hour before someone in another car suggested that they have their first dance on the spot, curby said. Soon after that, they were rescued and taken to their reception, where they were greeted with loud cheers. Watch a recap of the rescue here. Alertme",
-            "The 2016 award for \"most constructive use of a traffic jam \" goes to jeff and rebecca payne of centerville, ohio. On saturday, the newlyweds were on their way to their reception when a multiple-car accident shut down the highway for two hours. ( one person was taken to the hospital, and no serious injuries were reported. ) but the resourceful pair decided to go ahead with their first dance out on u.s. 35, an event documented by various strangers, including videographer levi curby, whose footage is shown above. Need a little inspiration? click here to subscribe to the daily smile newsletter for uplifting, feel-good stories that brighten up your inbox. \"#rescuethepaynes \" became the hashtag surrounding the event, with posts on facebook, twitter and instagram commemorating the pair's plight. Congratulations to the paynes! hope the honeymoon is somewhere with less congested highways.",
-            "Rating is available when the video has been rented. This feature is not available right now. Please try again later."
+            "The 2016 award for \"most constructive use of a traffic jam \" goes to jeff and rebecca payne of centerville, ohio. On saturday, the newlyweds were on their way to their reception when a multiple-car accident shut down the highway for two hours. ( one person was taken to the hospital, and no serious injuries were reported. ) but the resourceful pair decided to go ahead with their first dance out on u.s. 35, an event documented by various strangers, including videographer levi curby, whose footage is shown above. Need a little inspiration? click here to subscribe to the daily smile newsletter for uplifting, feel-good stories that brighten up your inbox. \"#rescuethepaynes \" became the hashtag surrounding the event, with posts on facebook, twitter and instagram commemorating the pair's plight. Congratulations to the paynes! hope the honeymoon is somewhere with less congested highways."
         ],
         "raw_document": [
             "Just one more thing... We have sent you a verification email. Please check your email and click on the link to activate your daytondailynews.com profile. If you do not receive the verification message within a few minutes of signing up, please check your spam or junk folder. Close",
@@ -1316,7 +1306,7 @@
             "0": 5,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1346,7 +1336,7 @@
     },
     {
         "idx": 10849,
-        "document_num": 6,
+        "document_num": 5,
         "summary": "One of the letters was said to have been to aaron hernandez's fiancee, a second to his young daughter. But the nature of a third suicide note hernandez is believed to have left behind remains shrouded in mystery — and now the lawyer of kyle kennedy, who says he was a \" close friend \" of hernandez in prison, says his client wants that third letter ( which he believes was written to him ) released, nbc news reports. Attorney larry army jr. Also said at a wednesday presser that kennedy would eventually reveal the \" nature and extent \" of his relationship with the ex-patriots player. But sources tell tmz the third letter was actually penned to hernandez's lawyer, jose baez, who issued a statement tuesday via nbc's profootballtalk bashing whispers of a letter \" to a gay lover, in or out of prison \" as \" false \" and calling the rumors \" malicious leaks used to tarnish someone who is dead. \" per the boston globe, however, army says the letter may have been written in a kind of prison code, and that his client may have been referred to by his prison nickname. Army also revealed hernandez had referenced suicide weeks before his death in a different letter to kennedy, writing, \" i think i ' m going to hang it up. \" he adds his client wants a $ 47,000 watch he says hernandez gave him, the ap reports. Rumblings about the men's relationship began after a newsweek story claiming the third letter was left to hernandez's \" prison boyfriend, \" subsequently id'd by the daily mail as kennedy, who's serving a sentence for armed robbery. The worcester county da's office hasn't been much help, with a rep telling nbc monday, \" the information i have is unclear. \" kennedy released a statement with condolences for hernandez's family, saying, \" i miss my friend, aaron hernandez, \" per nbc.",
         "split": "train",
         "cleansed_document": [
@@ -1354,7 +1344,6 @@
             "The lawyer representing an inmate who says he was close with aaron j. Hernandez in prison demanded the release of a note the former football star allegedly intended to leave to his client, despite persistent denials that such a note exists. At a news conference in worcester on wednesday, larry army jr. Said his client, a 22-year-old worcester-area man named kyle kennedy, had been told by someone inside souza-baranowski correctional center that a note to him was found",
             "On april 19, sometime before 3 a.m., aaron hernandez, the former star new england patriots tight end, scrawled three notes — one to his fiancée, the mother of his little girl, one to that daughter and a third to his close prison friend — and placed them next to a bible in his solitary prison cell in the souza baranowski correctional center in shirley, massachusetts. The bible was opened to a section of the new",
             "The mystery prisoner who aaron hernandez wrote to before his shocking suicide is a 22-year-old man jailed for a knife point robbery at a gas station near his home, dailymail.com can exclusively reveal. Kyle kennedy was the last person to see the former new england patriot alive and is now on suicide watch inside the maximum security souza-baranowski corrections center, sources say. He is the man to whom hernandez gave a $ 50,000 watch and other property shortly before",
-            "Ap last week, after the family of aaron hernandez began to ask questions about the circumstances surrounding his death in prison, unnamed law enforcement sources began to leak that hernandez was bisexual. The specific information reported by newsweek was that one of the three notes hernandez left in his cell was addressed to his prison lover. ( newsweek also reported that the june 2013 murder of odin lloyd may have been motivated by a desire to conceal that hernandez",
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. April 26, 2017, 7: 48 pm gmt / updated april 26, 2017, 9: 28 pm gmt by daniella silva the lawyer for a massachusetts inmate alleged to be a \"close friend \" of convicted murderer and former new england patriot aaron hernandez called upon a district attorney and lawyers for the former football star to"
         ],
         "raw_document": [
@@ -1375,10 +1364,10 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0,
+            "2": 1,
             "3": 0,
-            "4": 2,
-            "5": 0
+            "4": 3,
+            "5": 2
         }
     },
     {
@@ -1456,7 +1445,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1541,13 +1530,12 @@
     },
     {
         "idx": 10856,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Norway's 8-hour tv program that featured nothing but wood burning is amateur hour compared to this: a 13-hour, 5 minute, 11-second commercial of brisket smoking. That spot, which aired saturday, has set a guinness world record ( the former record-holding commercial, by nivea, was a measly hour ), and the honor goes to none other than arby's. The fast-food chain created the half-day commercial as a promo for its smokehouse brisket sandwich, a limited edition offering that fox news reports is packed with bbq sauce, fried onions, smoked gouda, and brisket that has been smoked for, you guessed it, 13 hours. The must-see tv was dialogue-free, reports the new york times, and filming it was not without its drama. The goal was to shoot it in a single take, and the first two efforts at doing so flopped, due to too much smoke and a burnt-out light bulb. The commercial aired at 1pm saturday on my9, a station in duluth, minn., and wrapped up at 2am sunday with quite the climax: the previously shut door to the smoker opened, the brisket was removed, and the sandwich was made. Why duluth? the town's news tribune asked that, and got a sort-of answer from a rep for the company, which says a commercial of that length \" required that we cast a pretty wide net. There were very few folks who could do this the right way, and we had the most confidence in working with my9. \" the commercial then aired a single time online, and will next head to youtube. ( another guinness record was set this week. )",
         "split": "train",
         "cleansed_document": [
             "This is some pretty slow fast food. Fast-food giant arby's has taken food porn to the next level with a new 13 hour commercial that features smoking beef brisket. The spot ran in its entirety on my9, a station in duluth, minn. On may 24, setting a new world record for the longest commercial to air — ever. Similar to the ever-popular yule log fire available during the holidays, \" arby's 13 hour brisket \" is just that, a slab of meat smoking away. The half-day promo is drumming up excitement for their limited edition smokehouse brisket sandwich with smoked gouda, a tangy barbecue sauce, fried onions and layers of arby's slow-smoked beef brisket that the company claims is actually cooked for 13 hours. When a static shot of succulent meat just isn't good enough, diehard foodies can check out the full commercial online starting",
-            "A still frame from hour 6 of a 13-hour arby's commercial, showing beef brisket being smoked in a texas smokehouse, that is set to air only in duluth on saturday. The commercial will set a record for world's longest tv ad. ( image courtesy of arby's ) and it won't end until 2 a.m. On sunday. The place: your living room. The event is a 13-hour commercial for arby's smokehouse brisket sandwich. Later next week, it will be available online for anyone with internet access. But on saturday, it will be seen on my9 ( channel 9 on cable, digital channel 6.2 ), and nowhere else. Why here? \"as you'd expect, the idea around airing a commercial for 13 hours required that we cast a pretty wide net, \" said jeff baker, whose title for the",
-            "Television commercials have grown shorter over the decades, with 60-second spots the norm at the dawn of the medium, 30-second spots growing popular in the 1970s, and 15-second spots catching on in the 1980s. The number of 15-second ads grew more than 80 percent between 2008 and 2012, according to nielsen, which notes the popularity of mobile devices, where commercials must impress quickly as users toggle among apps. Arby's, however, is about to air a commercial long enough to tax the battery life of even the heartiest of mobile devices — 13 hours. When it appears once on a single television station in duluth, minn., beginning saturday afternoon, it is expected to enter the guinness book of world records, shattering the record for the longest television commercial of 60 minutes, held by the nivea brand for a spot that ran in switzerland in 2011. To promote its smokehouse"
+            "A still frame from hour 6 of a 13-hour arby's commercial, showing beef brisket being smoked in a texas smokehouse, that is set to air only in duluth on saturday. The commercial will set a record for world's longest tv ad. ( image courtesy of arby's ) and it won't end until 2 a.m. On sunday. The place: your living room. The event is a 13-hour commercial for arby's smokehouse brisket sandwich. Later next week, it will be available online for anyone with internet access. But on saturday, it will be seen on my9 ( channel 9 on cable, digital channel 6.2 ), and nowhere else. Why here? \"as you'd expect, the idea around airing a commercial for 13 hours required that we cast a pretty wide net, \" said jeff baker, whose title for the"
         ],
         "raw_document": [
             "This is some pretty slow fast food. Fast-food giant arby's has taken food porn to the next level with a new 13 hour commercial that features smoking beef brisket. The spot ran in its entirety on my9, a station in duluth, minn. On may 24, setting a new world record for the longest commercial to air — ever. Similar to the ever-popular yule log fire available during the holidays, \" arby's 13 hour brisket \" is just that, a slab of meat smoking away. The half-day promo is drumming up excitement for their limited edition smokehouse brisket sandwich with smoked gouda, a tangy barbecue sauce, fried onions and layers of arby's slow-smoked beef brisket that the company claims is actually cooked for 13 hours. When a static shot of succulent meat just isn't good enough, diehard foodies can check out the full commercial online starting",
@@ -1564,7 +1552,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1652,7 +1640,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1682,13 +1670,12 @@
     },
     {
         "idx": 10861,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Jen gann was talking with someone earlier this year about her toddler dudley's cystic fibrosis, a noncurable genetic disorder that afflicts sufferers with thick mucus in the lungs, causing lung infections and, for many, early death. In her piece for the cut, gann says that when the woman she was conversing with asked her what she would have done had prenatal tests revealed dudley had cf, she thought: \" i do know exactly what it is i would have done. \" she says she and her husband, tag, had discussed their options even before she became pregnant, and they'd jointly agreed they would have an abortion if something was wrong with the fetus. Which leads to the unique situation gann now finds herself in: trying to save her son's life by showing she would've ended it before it started. That's because she and tag have filed a wrongful-birth lawsuit, a complaint against a practitioner for failing to diagnose or inform parents-to-be about the possibility of a severe condition. When plaintiffs win these cases, the awarded funds go toward the often \" astronomically high \" costs of the child's medical care. \" in other words, a mother desperate to help her child declares that she would not have had that child, \" gann writes. She documents the pushback from anti-abortion activists for this type of suit, her \" biological remorse, \" and the hatred she sometimes feels for mothers who choose to not even get tested. This, despite her concession that advances in cf have extended life spans and furthered patients ' hope: \" it's something almost beyond me to imagine, looking into dudley's eyes and saying, ' i ' m sorry i didn't save you, from your own life. ' \" gann's story here, including her chat with the woman who set the stage for wrongful-birth suits.",
         "split": "train",
         "cleansed_document": [
             "519 s.w.2d 846 ( 1975 ) george s. Jacobs et ux., petitioners, v. Louis m. Theimer, respondent. No. B-4583. Supreme court of texas. February 19, 1975. Rehearing denied march 19, 1975. *847 strasburger, price, kelton, martin &amp; unis, royal h. Brin, jr., bean, francis, ford, francis &amp; wills, dallas, for petitioners. Fillmore, lambert, farabee &amp; purtle, glynn r. Purtle and larry l. Lambert, wichita falls, for respondent. Reavley, justice. Dortha jean jacobs contracted rubella in the first trimester of pregnancy and subsequently gave birth to a child whose major organs were defective. Mrs. Jacobs and her husband brought this suit against dr. Louis m. Theimer, alleging his negligence in failing to diagnose the rubella and to advise them of the attendant risk, and seeking damages for the medical expenses for treatment and care of",
-            "Cystic fibrosis is a progressive, genetic disease that causes persistent lung infections and limits the ability to breathe over time. In people with cf, mutations in the cystic fibrosis transmembrane conductance regulator ( cftr ) gene cause the cftr protein to become dysfunctional. When the protein is not working correctly, it's unable to help move chloride -- a component of salt -- to the cell surface. Without the chloride to attract water to the cell surface, the mucus in various organs becomes thick and sticky. In the lungs, the mucus clogs the airways and traps germs, like bacteria, leading to infections, inflammation, respiratory failure, and other complications. For this reason, minimizing contact with germs is a top concern for people with cf. In the pancreas, the buildup of mucus prevents the release of digestive enzymes that help the body absorb food and key nutrients, resulting",
-            "Twice a day in our house, we turn on a projector that casts cartoon music videos on a blank stretch of wall. The songs are catchy and bright and usually keep our toddler captivated for the amount of time we need him to hold still. \"there are no monsters who live in our home, \" goes one of my favorites. \"there's only me and my family who live in our home / ' cause there are no monsters that live here. \" up on the wall, two healthy-looking cartoon children learn not to be scared of the dark, while my son clutches my forearm and breathes dutifully into a mask. Sometimes he spots something familiar — an animal with a noise he can make, a color he knows how to say — and rushes to point it out, only to have his voice muffled by medical equipment. Unlike the home in the song"
+            "Cystic fibrosis is a progressive, genetic disease that causes persistent lung infections and limits the ability to breathe over time. In people with cf, mutations in the cystic fibrosis transmembrane conductance regulator ( cftr ) gene cause the cftr protein to become dysfunctional. When the protein is not working correctly, it's unable to help move chloride -- a component of salt -- to the cell surface. Without the chloride to attract water to the cell surface, the mucus in various organs becomes thick and sticky. In the lungs, the mucus clogs the airways and traps germs, like bacteria, leading to infections, inflammation, respiratory failure, and other complications. For this reason, minimizing contact with germs is a top concern for people with cf. In the pancreas, the buildup of mucus prevents the release of digestive enzymes that help the body absorb food and key nutrients, resulting"
         ],
         "raw_document": [
             "519 s.w.2d 846 ( 1975 ) george s. Jacobs et ux., petitioners, v. Louis m. Theimer, respondent. No. B-4583. Supreme court of texas. February 19, 1975. Rehearing denied march 19, 1975. *847 strasburger, price, kelton, martin &amp; unis, royal h. Brin, jr., bean, francis, ford, francis &amp; wills, dallas, for petitioners. Fillmore, lambert, farabee &amp; purtle, glynn r. Purtle and larry l. Lambert, wichita falls, for respondent. Reavley, justice. Dortha jean jacobs contracted rubella in the first trimester of pregnancy and subsequently gave birth to a child whose major organs were defective. Mrs. Jacobs and her husband brought this suit against dr. Louis m. Theimer, alleging his negligence in failing to diagnose the rubella and to advise them of the attendant risk, and seeking damages for the medical expenses for treatment and care of",
@@ -1705,7 +1692,7 @@
         "vote_count": {
             "0": 2,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1849,12 +1836,11 @@
     },
     {
         "idx": 10867,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Roughly a month ago, an indiana man's huskee lawn tractor was impounded. The reason? barry ridge of franklin was arrested april 8 in a kroger parking lot while allegedly driving it drunk. Police say it wasn't a one-time occurrence. The indianapolis star reports the 46-year-old was pulled over after 5pm saturday while riding atop a red mower. Police had been called by a local resident who said ridge had started mowing their lawn; the indy channel reports the man told ridge to exit his property. Police who located ridge driving the mower down county road 100 north reportedly noted \" glassy \" eyes and had him take a breathalyzer test, which registered a bac of 0.189. Ridge allegedly said he'd consumed three beers an hour prior. The mower was impounded like the first time, and he was arrested on a preliminary charge of owi. The star notes ridge has yet to stand trial for the april incident.",
         "split": "train",
         "cleansed_document": [
-            "Franklin, ind. -- a franklin man who's been arrested once for driving his lawnmower while drunk was arrested again saturday for the same reason, according to the johnson county sheriff's office. A sheriff's deputy was sent to the 5600 block of e 100 north in franklin around 5: 15 p.m. After a caller said a man wearing a neon green shirt, riding a red lawnmower, pulled into his yard and began to mow his grass. The caller said he told the man to get off his property. A franklin police officer spotted the man headed west on his lawnmower on county road 100 north. The man was identified by his drivers id card as barry k. Ridge. Ridge told the sheriff's deputy that he was headed from his uncle's house back to his home. The deputy said he noticed ridge's eyes appeared glassy. He asked ridge if he drank any alcohol and ridge reportedly told the deputy he had three beers about an hour ago. According to the police report, ridge's breath test at the johnson county jail registered.165. The legal limit in indiana is.08. Ridge was arrested on a preliminary charge of owi with a previous conviction. His lawnmower was also impounded. Ridge is currently awaiting trial on an owi arrest from april 8, 2018",
-            "Close south carolina police dash-cam video shows a man driving a lawn mower down a city street with, what they say, looked like a beer in his hand. The officers were surprised to find out the man was in fact the town's mayor. Usa today barry ridge, 46 ( photo: photo provided by the johnson county sheriff's department ) indianapolis, ind. — a franklin man was arrested and charged with operating while intoxicated on saturday — but he wasn't behind the wheel of a car. Officers pulled over 46-year-old barry ridge while he was driving down county road 100 north on a red lawn mower, according to the johnson county sheriff's department. The franklin police department received a complaint just after 5 p.m. From someone upset that ridge had driven onto their yard and started mowing the grass. Ridge then headed down the road toward franklin. He's tried to buy it before: colts owner jim irsay buys alcoholics anonymous founding document not much time left: on your mark. Get set. Read our voter guide for the may 8 primary. Officers said ridge's eyes appeared \" glassy. \" he failed a breathalyzer test, which found his blood-alcohol level of 0.189. This isn't the first time ridge was arrested for driving his lawnmower while drunk, according to"
+            "Franklin, ind. -- a franklin man who's been arrested once for driving his lawnmower while drunk was arrested again saturday for the same reason, according to the johnson county sheriff's office. A sheriff's deputy was sent to the 5600 block of e 100 north in franklin around 5: 15 p.m. After a caller said a man wearing a neon green shirt, riding a red lawnmower, pulled into his yard and began to mow his grass. The caller said he told the man to get off his property. A franklin police officer spotted the man headed west on his lawnmower on county road 100 north. The man was identified by his drivers id card as barry k. Ridge. Ridge told the sheriff's deputy that he was headed from his uncle's house back to his home. The deputy said he noticed ridge's eyes appeared glassy. He asked ridge if he drank any alcohol and ridge reportedly told the deputy he had three beers about an hour ago. According to the police report, ridge's breath test at the johnson county jail registered.165. The legal limit in indiana is.08. Ridge was arrested on a preliminary charge of owi with a previous conviction. His lawnmower was also impounded. Ridge is currently awaiting trial on an owi arrest from april 8, 2018"
         ],
         "raw_document": [
             "Franklin, ind. -- a franklin man who's been arrested once for driving his lawnmower while drunk was arrested again saturday for the same reason, according to the johnson county sheriff's office. A sheriff's deputy was sent to the 5600 block of e 100 north in franklin around 5: 15 p.m. After a caller said a man wearing a neon green shirt, riding a red lawnmower, pulled into his yard and began to mow his grass. The caller said he told the man to get off his property. A franklin police officer spotted the man headed west on his lawnmower on county road 100 north. The man was identified by his drivers id card as barry k. Ridge. Ridge told the sheriff's deputy that he was headed from his uncle's house back to his home. The deputy said he noticed ridge's eyes appeared glassy. He asked ridge if he drank any alcohol and ridge reportedly told the deputy he had three beers about an hour ago. According to the police report, ridge's breath test at the johnson county jail registered.165. The legal limit in indiana is.08. Ridge was arrested on a preliminary charge of owi with a previous conviction. His lawnmower was also impounded. Ridge is currently awaiting trial on an owi arrest from april 8, 2018",
@@ -1869,7 +1855,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1983,7 +1969,7 @@
             "3": 0,
             "4": 0,
             "5": 1,
-            "6": 0
+            "6": 2
         }
     },
     {
@@ -2008,7 +1994,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2041,7 +2027,7 @@
             "1": 0,
             "2": 0,
             "3": 5,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -2066,7 +2052,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2151,7 +2137,7 @@
             "0": 2,
             "1": 2,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2342,7 +2328,7 @@
             "0": 5,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2370,17 +2356,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 10886,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When someone is dying these days, it often seems to be cancer — but that doesn't mean we've lost the war against this dreadful disease, writes george johnson at the new york times. Cancer's resilience is partly statistical: heart disease has plummeted 68 % since 1958 while cancer has dropped only 10 %, making cancer nearly our no. 1 cause of death ( as per this cdc graph ). But also, \" the comparison is unfair, \" johnson writes. \" cancer is, by far, the harder problem — a condition deeply ingrained in the nature of evolution and multicellular life. \" in other words, the cellular mutations that make cancer possible are necessary for evolution. Cancer cells are following the darwinian rules — mutating and evolving — only they're spreading a genetic error that is ultimately lethal. Despite this, we've significantly reduced stomach cancer ( thanks to better refrigeration and public sanitation ) and lung cancer ( where anti-smoking campaigns have taken hold ). So give scientists a break — especially considering that cancer becomes more likely as our cells mutate over the years. \" a body will come to a point where it has outwitted every peril life has thrown at it, \" writes johnson. \" if the heart holds out, then waiting at the end will be cancer. \" click for his full piece, or read about treatment that kills cancer \" like a cold. \"",
         "split": "train",
         "cleansed_document": [
-            "The newest cancer report, which came out in mid-december, put the best possible face on things. If one accounts for the advancing age of the population — with the graying of the baby boomers, death itself is on the rise — cancer mortality has actually been decreasing bit by bit in recent decades. But the decline has been modest compared with other threats. A graph from the centers for disease control and prevention tells the story. There are two lines representing the age-adjusted mortality rate from heart disease and from cancer. In 1958 when the diagram begins, the line for heart disease is decisively on top. But it plunges by 68 percent while cancer declines so slowly — by only about 10 percent — that the slope appears far less significant. Measuring from 1990, when tobacco had finished the worst of its damage and cancer deaths were peaking, the difference is somewhat less pronounced: a decline of 44 percent for heart disease and 20 percent for cancer. But as the collision course continues, cancer seems insistent on becoming the one left standing — death's final resort. ( the wild card in the equation is death from complications of alzheimer's disease, which has been advancing year after year. ) advertisement continue reading the main story though not exactly consoling, the fact that we have reached this standoff is a kind of success. A century ago average life expectancy at birth was in the low to mid-50s. Now it is almost 79, and if you make it to 65 you're likely to live into your mid-80s. The median age of cancer death is 72. We live long enough for it to get us. The diseases that once killed earlier in life — bubonic plague, smallpox, influenza, tuberculosis — were easier obstacles. For each there was a single infectious agent, a precise cause that could be confronted. Even aids is being managed more and more as a chronic condition. Progress against heart disease has been slower. But the toll has been steadily reduced, or pushed further into the future, with diet, exercise and medicines that help control blood pressure and cholesterol. When difficulties do arise they can often be treated as mechanical problems — clogged piping, worn-out valves — for which there may be a temporary fix. Because of these interventions, people between",
-            "Iowa state universityarchive-it partner since: sep, 2007organization type: colleges &amp; universitiesorganization url: http://www.lib.iastate.edu the mission of the iowa state university library special collections department is to identify, select, preserve, create access to, provide reference assistance for, and promote the use of rare and unique research materials that support major research areas of iowa state university."
+            "The newest cancer report, which came out in mid-december, put the best possible face on things. If one accounts for the advancing age of the population — with the graying of the baby boomers, death itself is on the rise — cancer mortality has actually been decreasing bit by bit in recent decades. But the decline has been modest compared with other threats. A graph from the centers for disease control and prevention tells the story. There are two lines representing the age-adjusted mortality rate from heart disease and from cancer. In 1958 when the diagram begins, the line for heart disease is decisively on top. But it plunges by 68 percent while cancer declines so slowly — by only about 10 percent — that the slope appears far less significant. Measuring from 1990, when tobacco had finished the worst of its damage and cancer deaths were peaking, the difference is somewhat less pronounced: a decline of 44 percent for heart disease and 20 percent for cancer. But as the collision course continues, cancer seems insistent on becoming the one left standing — death's final resort. ( the wild card in the equation is death from complications of alzheimer's disease, which has been advancing year after year. ) advertisement continue reading the main story though not exactly consoling, the fact that we have reached this standoff is a kind of success. A century ago average life expectancy at birth was in the low to mid-50s. Now it is almost 79, and if you make it to 65 you're likely to live into your mid-80s. The median age of cancer death is 72. We live long enough for it to get us. The diseases that once killed earlier in life — bubonic plague, smallpox, influenza, tuberculosis — were easier obstacles. For each there was a single infectious agent, a precise cause that could be confronted. Even aids is being managed more and more as a chronic condition. Progress against heart disease has been slower. But the toll has been steadily reduced, or pushed further into the future, with diet, exercise and medicines that help control blood pressure and cholesterol. When difficulties do arise they can often be treated as mechanical problems — clogged piping, worn-out valves — for which there may be a temporary fix. Because of these interventions, people between"
         ],
         "raw_document": [
             "The newest cancer report, which came out in mid-december, put the best possible face on things. If one accounts for the advancing age of the population — with the graying of the baby boomers, death itself is on the rise — cancer mortality has actually been decreasing bit by bit in recent decades. But the decline has been modest compared with other threats. A graph from the centers for disease control and prevention tells the story. There are two lines representing the age-adjusted mortality rate from heart disease and from cancer. In 1958 when the diagram begins, the line for heart disease is decisively on top. But it plunges by 68 percent while cancer declines so slowly — by only about 10 percent — that the slope appears far less significant. Measuring from 1990, when tobacco had finished the worst of its damage and cancer deaths were peaking, the difference is somewhat less pronounced: a decline of 44 percent for heart disease and 20 percent for cancer. But as the collision course continues, cancer seems insistent on becoming the one left standing — death's final resort. ( the wild card in the equation is death from complications of alzheimer's disease, which has been advancing year after year. ) advertisement continue reading the main story though not exactly consoling, the fact that we have reached this standoff is a kind of success. A century ago average life expectancy at birth was in the low to mid-50s. Now it is almost 79, and if you make it to 65 you're likely to live into your mid-80s. The median age of cancer death is 72. We live long enough for it to get us. The diseases that once killed earlier in life — bubonic plague, smallpox, influenza, tuberculosis — were easier obstacles. For each there was a single infectious agent, a precise cause that could be confronted. Even aids is being managed more and more as a chronic condition. Progress against heart disease has been slower. But the toll has been steadily reduced, or pushed further into the future, with diet, exercise and medicines that help control blood pressure and cholesterol. When difficulties do arise they can often be treated as mechanical problems — clogged piping, worn-out valves — for which there may be a temporary fix. Because of these interventions, people between",
@@ -2395,7 +2380,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2428,13 +2413,12 @@
     },
     {
         "idx": 10888,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Will president trump meet his match in 2020? a tweet from oprah winfrey has revived speculation in conservative outlets including the daily caller and washington examiner that she is planning to seek the democratic nomination. She retweeted a link to a new york post opinion piece from john podhoretz that called her the \" democrats ' best hope for 2020. \" \" thanks for your vote of confidence! \" wrote winfrey, who said in march that trump's win made her realize that lacking experience in government is no barrier to running for office. In june, however, she said she would \" never run for public office. \" podhoretz praised winfrey's moderation of a political discussion on 60 minutes and said she was \" uniquely positioned \" to challenge trump in 2020. \" if you need to set a thief to catch a thief, you need a star — a grand, outsized, fearless star whom trump can neither intimidate nor outshine — to catch a star, \" he wrote. \" we're through the looking glass here. America is discarding old approaches in politics. Democrats will have to do the same to match the mood to the moment. \" he described winfrey as \" the mirror image of trump, but more so. \" \" she's america's generous aunt and he's america's crazy uncle, \" he wrote. Click for the full piece.",
         "split": "train",
         "cleansed_document": [
             "Oprah winfrey might just run for president in 2020. The media mogul said in june that she \"will never run for public office, \" but she promoted an article thursday saying she is the democratic party's best hope for the 2020 election. \"thanks for your vote of confidence! \" oprah tweeted at conservative writer john podhoretz with a link to his new york post article: \"democrats ' best hope for 2020: oprah. \" the piece argued that winfrey, 63, is effectively the perfect foil to president donald trump. \"she is the mirror image of trump, but more so. Of course, she's female and he's male; she's america's generous aunt and he's america's crazy uncle. And yes, she's black and he's white, she's liberal and he's whatever he is,",
-            "Oprah winfrey fueled anticipation thursday that she was considering a tilt for the 2020 democratic presidential nomination. \" thanks for your vote of confidence! \" the media mogul tweeted in response to a column heralding her as the democratic party's \" best hope \" to reclaim the white house during the next presidential election cycle. @jpodhoretz thanks for your vote of confidence! democrats best hope for 2020: oprah new york post https://t.co/tvt82v8cmh — oprah winfrey ( @oprah ) september 28, 2017 winfrey's tweet sparked a social media frenzy from supporters and detractors alike. \" oprah you know that you have my vote and i will work hard to make you the first woman president of the usa!!! what do you think? \" jorge mendoza‏ tweeted. \" oprah, i think you would be phenomenal. Suggest you start in congress ( senate perhaps? ) to learn the ropes.",
-            "On sunday night's \"60 minutes, \" a panel of michigan voters spent 20 minutes discussing their political differences on screen. It was a moving segment and a powerful one, but it wasn't all that novel if you've been paying attention to the political divide over the past year. The power came not really from what the panelists were saying but who the moderator was: oprah winfrey. Listening, asking, speaking without judgment, trying to find common ground — it was a superb performance by oprah, and i use the word \"performance \" advisedly. She was dazzling in exactly the way that oprah could always be dazzling, finding a tone appropriate for the moment without being heavy-handed. If any figure in the united states bears watching over the next couple of years as our political culture continues the radical transformation that led to the election of donald trump,"
+            "Oprah winfrey fueled anticipation thursday that she was considering a tilt for the 2020 democratic presidential nomination. \" thanks for your vote of confidence! \" the media mogul tweeted in response to a column heralding her as the democratic party's \" best hope \" to reclaim the white house during the next presidential election cycle. @jpodhoretz thanks for your vote of confidence! democrats best hope for 2020: oprah new york post https://t.co/tvt82v8cmh — oprah winfrey ( @oprah ) september 28, 2017 winfrey's tweet sparked a social media frenzy from supporters and detractors alike. \" oprah you know that you have my vote and i will work hard to make you the first woman president of the usa!!! what do you think? \" jorge mendoza‏ tweeted. \" oprah, i think you would be phenomenal. Suggest you start in congress ( senate perhaps? ) to learn the ropes."
         ],
         "raw_document": [
             "Oprah winfrey might just run for president in 2020. The media mogul said in june that she \"will never run for public office, \" but she promoted an article thursday saying she is the democratic party's best hope for the 2020 election. \"thanks for your vote of confidence! \" oprah tweeted at conservative writer john podhoretz with a link to his new york post article: \"democrats ' best hope for 2020: oprah. \" the piece argued that winfrey, 63, is effectively the perfect foil to president donald trump. \"she is the mirror image of trump, but more so. Of course, she's female and he's male; she's america's generous aunt and he's america's crazy uncle. And yes, she's black and he's white, she's liberal and he's whatever he is,",
@@ -2451,7 +2435,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2539,12 +2523,11 @@
     },
     {
         "idx": 10892,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A grieving new york mother recognized by president trump at the state of the union in his campaign against ms-13 gang violence was struck by an suv and killed at her slain daughter's memorial site friday after a confrontation with the driver. Evelyn rodriguez was hit around 4pm in brentwood — the epicenter of the fight against ms-13 violence on long island — near where the body of her 16-year-old daughter, kayla cuevas, was found beaten and slashed two years ago, police say. Cuevas ' friend, nisa mickens, 15, was also killed, per the ap. Rodriguez and the driver, a relative of a person who lives near the memorial, were arguing over its placement, police say. Rodriguez, 50, and another person were seen standing in the street and yelling at the suv's driver before the vehicle sped forward and struck her. The driver, who wasn't hurt, remained at the scene and called 911, police say. \" my thoughts and prayers are with evelyn rodriguez this evening, along with her family and friends. #ripevelyn, \" trump tweeted. So far, there's no evidence of ties to ms-13 or any indication the crash was retribution by the gang, a law enforcement official says. Suffolk county da tim sini, who was police commissioner when cuevas and mickens were killed, says rodriguez was \" fearless \" and \" one of the strongest people \" he's ever met. Rodriguez spoke out against the gang and the local school district after cuevas and mickens were attacked with machetes and baseball bats. Mickens ' body was found near an elementary school on sept. 13, 2016. Cuevas ' body was found the next day, a few hundred feet away. The girls ' alleged killers, who were arrested along with about a dozen other suspected ms-13 members, are facing murder charges that could result in the death penalty.",
         "split": "train",
         "cleansed_document": [
-            "File- in this march 2, 2017 file photo, evelyn rodriguez, mother of kayla cuevas, 16, who was brutally slain in 2016 allegedly by members of the ms-13 street gang, stops to talk members of the press gathered... ( associated press ) file- in this march 2, 2017 file photo, evelyn rodriguez, mother of kayla cuevas, 16, who was brutally slain in 2016 allegedly by members of the ms-13 street gang, stops to talk members of the press gathered outside u.s. District court in central islip, n.y. Rodriguez, who was recognized by president... ( associated press ) new york ( ap ) — a grieving new york mother recognized by president donald trump at the state of the union in his campaign against deadly ms-13 gang violence was struck by an suv and killed at her slain daughter's memorial site friday after a heated confrontation with the driver. Evelyn rodriguez was hit around 4 p.m. In brentwood, near where her 16-year-old daughter kayla cuevas ' body was found beaten and slashed two years ago to the day, police said. Cuevas ' friend, 15-year-old nisa mickens was also killed. The community is the epicenter of the fight against ms-13 violence on long island. Rodriguez and the driver, a relative of a person who lives near the memorial, were arguing over its placement, police said. Rodriguez, 50, and another person were seen standing in the street and yelling at the driver of the suv before the vehicle sped forward and struck her. News 12 long island aired video of the argument but didn't show rodriguez being hit. The driver, who wasn't hurt, remained at the scene and called 911, police said. They have not released her name. Trump said in a tweet: \" my thoughts and prayers are with evelyn rodriguez this evening, along with her family and friends. #ripevelyn. \" so far, there is no evidence of ties to ms-13 or any indication that the crash was retribution by the gang, a law enforcement official told the associated press. The official was not authorized to discuss an ongoing investigation publicly and spoke to the ap on condition of anonymity. U.s. Rep. Peter king, r-n.y., who had worked with rodriguez on a campaign ad, was on his way to a vigil at the memorial site when he learned that she had been hit. He said it happened about an hour before a service was scheduled to",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "File- in this march 2, 2017 file photo, evelyn rodriguez, mother of kayla cuevas, 16, who was brutally slain in 2016 allegedly by members of the ms-13 street gang, stops to talk members of the press gathered... ( associated press ) file- in this march 2, 2017 file photo, evelyn rodriguez, mother of kayla cuevas, 16, who was brutally slain in 2016 allegedly by members of the ms-13 street gang, stops to talk members of the press gathered outside u.s. District court in central islip, n.y. Rodriguez, who was recognized by president... ( associated press ) new york ( ap ) — a grieving new york mother recognized by president donald trump at the state of the union in his campaign against deadly ms-13 gang violence was struck by an suv and killed at her slain daughter's memorial site friday after a heated confrontation with the driver. Evelyn rodriguez was hit around 4 p.m. In brentwood, near where her 16-year-old daughter kayla cuevas ' body was found beaten and slashed two years ago to the day, police said. Cuevas ' friend, 15-year-old nisa mickens was also killed. The community is the epicenter of the fight against ms-13 violence on long island. Rodriguez and the driver, a relative of a person who lives near the memorial, were arguing over its placement, police said. Rodriguez, 50, and another person were seen standing in the street and yelling at the driver of the suv before the vehicle sped forward and struck her. News 12 long island aired video of the argument but didn't show rodriguez being hit. The driver, who wasn't hurt, remained at the scene and called 911, police said. They have not released her name. Trump said in a tweet: \" my thoughts and prayers are with evelyn rodriguez this evening, along with her family and friends. #ripevelyn. \" so far, there is no evidence of ties to ms-13 or any indication that the crash was retribution by the gang, a law enforcement official told the associated press. The official was not authorized to discuss an ongoing investigation publicly and spoke to the ap on condition of anonymity. U.s. Rep. Peter king, r-n.y., who had worked with rodriguez on a campaign ad, was on his way to a vigil at the memorial site when he learned that she had been hit. He said it happened about an hour before a service was scheduled to"
         ],
         "raw_document": [
             "File- in this march 2, 2017 file photo, evelyn rodriguez, mother of kayla cuevas, 16, who was brutally slain in 2016 allegedly by members of the ms-13 street gang, stops to talk members of the press gathered... ( associated press ) file- in this march 2, 2017 file photo, evelyn rodriguez, mother of kayla cuevas, 16, who was brutally slain in 2016 allegedly by members of the ms-13 street gang, stops to talk members of the press gathered outside u.s. District court in central islip, n.y. Rodriguez, who was recognized by president... ( associated press ) new york ( ap ) — a grieving new york mother recognized by president donald trump at the state of the union in his campaign against deadly ms-13 gang violence was struck by an suv and killed at her slain daughter's memorial site friday after a heated confrontation with the driver. Evelyn rodriguez was hit around 4 p.m. In brentwood, near where her 16-year-old daughter kayla cuevas ' body was found beaten and slashed two years ago to the day, police said. Cuevas ' friend, 15-year-old nisa mickens was also killed. The community is the epicenter of the fight against ms-13 violence on long island. Rodriguez and the driver, a relative of a person who lives near the memorial, were arguing over its placement, police said. Rodriguez, 50, and another person were seen standing in the street and yelling at the driver of the suv before the vehicle sped forward and struck her. News 12 long island aired video of the argument but didn't show rodriguez being hit. The driver, who wasn't hurt, remained at the scene and called 911, police said. They have not released her name. Trump said in a tweet: \" my thoughts and prayers are with evelyn rodriguez this evening, along with her family and friends. #ripevelyn. \" so far, there is no evidence of ties to ms-13 or any indication that the crash was retribution by the gang, a law enforcement official told the associated press. The official was not authorized to discuss an ongoing investigation publicly and spoke to the ap on condition of anonymity. U.s. Rep. Peter king, r-n.y., who had worked with rodriguez on a campaign ad, was on his way to a vigil at the memorial site when he learned that she had been hit. He said it happened about an hour before a service was scheduled to",
@@ -2559,7 +2542,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2609,19 +2592,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 10895,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Another huge setback for a republican governor with ambitions for 2016: some 27,000 emails were released yesterday relating to a probe that led to the arrest and conviction of former aides to wisconsin gov. Scott walker, and some of them could prove highly damaging. Some key facts, as per the milwaukee journal-sentinel, the washington post, and the huffington post: the emails link walker, then county executive, to a secret email system used by his taxpayer-funded staff to break campaign law by communicating directly with his 2010 campaign for governor during business hours. \" consider yourself now in the ' inner circle, ' \" his administration director told another county employee. \" i use this private account quite a bit to communicate with skw and nardelli, \" she wrote, referring to walker by his initials. The emails show that walker appears to have been \" aware that laptops were being used in the county executive's office for accessing things on non-county networks, \" the chief investigator says, a sign that use of the private email system was widespread. Several highly racist emails were forwarded among walker's staff, including one recounting a \" nightmare \" of waking up \" black, jewish, disabled, gay with a mexican boyfriend. \" walker ordered staff to get rid of a doctor at the county's behavioral health division who had worked as a thong model. \" get rid of the md asap, \" walker wrote after being told the modeling wasn't \" pornographic, but is quite suggestive. \" the walker affair hasn't received as much attention as chris christie's traffic jam scandal, though both feature gop governors with \" national profiles and national ambitions, allegedly using their public office to boost their political standing, all the while distancing themselves from the work their staffs sullied themselves with, \" writes emma roller at slate, predicting the emails will haunt him through next year's tough re-election fight and beyond.",
         "split": "train",
         "cleansed_document": [
             "People line up wednesday morning at the clerk's office of the court of appeals ' in madison for the release of thousands of emails and other records that have been under court seal. The records open a new window into the years-long john doe probe run by milwaukee county district attorney john chisholm. John doe proceedings are often conducted in secret and give prosecutors the power to compel people to produce documents and testify. Credit: dee j. Hall / wisconsin state journal by of the madison — thousands of documents unsealed wednesday link gov. Scott walker to a secret email system used in his office that would avoid public scrutiny when he was milwaukee county executive. The",
             "Wisconsin gov. Scott walker, who has had his eye on a 2016 presidential run since his battles with labor unions made him a republican star, is dealing with the fallout of two criminal investigations at home that could complicate his move to the national stage. One is ongoing, and although the other is closed and found no wrongdoing by walker, it has the potential to embarrass him. That was evident wednesday with the release of more than 25,000 pages of e-mails from a former staff member that were gathered as part of the concluded inquiry. The investigation focused on walker's time as milwaukee county executive in the run-up to his 2010 election as governor and",
-            "Photo by mandel ngan/afp/getty images more than 27,000 emails were unsealed wednesday after a years-long investigation into scott walker's campaign for wisconsin governor. And, for the first time, walker has been directly tied to a secret email system that members of his staff used to coordinate his gubernatorial campaign while walker was milwaukee county executive. Among the pile of emails, it was found that walker also used his campaign email to conduct county executive business. In june 2010, walker emailed the conservative radio host charlie sykes and encouraged him to get information on democratic groups from his office. \" ask [ my official office ] and we would be happy to send over the info",
-            "A 2010 email exchange between two employees of scott walker, then the milwaukee county executive, included a racist, homophobic, anti-semitic chain message laying out a \"nightmare \" scenario: waking up \"black, jewish, disabled, gay with a mexican boyfriend. \" the chain email reads: in the nightmare... I am a homosexual, and on top of that with a mexican boyfriend. Oh, my god... Black, jewish, disabled, gay with a mexican boyfriend, drug addict, and hiv-positive!!!... Say it isn't so!!! i can handle being a black, disabled, one armed, drug-addicted, jewish homosexual on a pacemaker"
+            "Photo by mandel ngan/afp/getty images more than 27,000 emails were unsealed wednesday after a years-long investigation into scott walker's campaign for wisconsin governor. And, for the first time, walker has been directly tied to a secret email system that members of his staff used to coordinate his gubernatorial campaign while walker was milwaukee county executive. Among the pile of emails, it was found that walker also used his campaign email to conduct county executive business. In june 2010, walker emailed the conservative radio host charlie sykes and encouraged him to get information on democratic groups from his office. \" ask [ my official office ] and we would be happy to send over the info"
         ],
         "raw_document": [
             "People line up wednesday morning at the clerk's office of the court of appeals ' in madison for the release of thousands of emails and other records that have been under court seal. The records open a new window into the years-long john doe probe run by milwaukee county district attorney john chisholm. John doe proceedings are often conducted in secret and give prosecutors the power to compel people to produce documents and testify. Credit: dee j. Hall / wisconsin state journal by of the madison — thousands of documents unsealed wednesday link gov. Scott walker to a secret email system used in his office that would avoid public scrutiny when he was milwaukee county executive. The",
@@ -2640,7 +2622,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {

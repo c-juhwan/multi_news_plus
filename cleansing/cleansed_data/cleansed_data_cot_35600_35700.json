@@ -23,7 +23,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -100,7 +100,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -255,15 +255,14 @@
     },
     {
         "idx": 35610,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "The us preventive services task force has issued two big changes to its recommendations for depression screening: every adult should be screened for depression at some point. Primary care physicians, including family doctors and gynecologists, should include screenings as a routine part of every over-18 patient's care, cnn reports. The patient health questionnaire, a nine-question test with questions about mood, appetite, fatigue, and concentration, among other things, can identify 80 % of depression cases, per an editorial on the new recommendations in jama. There is also a seven-question test that can be used; patients often complete such tests while waiting to see a doctor, and anyone who is found to be at risk gets a more thorough evaluation. Pregnant women should be screened for depression while pregnant and after giving birth. Maternal mental illness has been found to be more common than was previously believed, the new york times reports, and new research has also found that postpartum depression often starts during pregnancy. Ppd can lead to premature birth, low birth weight, and even mood disorders and developmental delays in babies born to affected mothers. A 10-question test called the edinburgh postnatal depression scale is recommended. Because the safety of antidepressants while pregnant or breastfeeding is not 100 % confirmed, doctors are recommended to try therapy as a first line of treatment in at-risk cases. The last set of recommendations, issued in 2009, only said adults should be screened if clinicians have the resources to treat depression; the new guidelines say that systems should be in place to ensure \" accurate diagnosis, effective treatment, and appropriate follow-up, \" medpage today reports. The 2009 recommendations did not specifically mention depression related to pregnancy and the postpartum period.",
         "split": "train",
         "cleansed_document": [
             "( cnn ) have you felt down a lot in the last couple of weeks? how often have you felt tired or felt as if you couldn't concentrate? these are some of the questions your doctor might ask to determine if you are at risk of depression. And if new recommendations by the u.s. Preventive services task force are followed, primary care physicians will do this type of depression screening for all adult patients at least once. The recommendations by the task force, an independent expert panel, update its 2009 advice",
             "Action points note that this update to prior united states preventative services task force recommendations includes routine depression screening for all adults. Be aware that the guidelines also include a focus on antenatal and postpartum depression screening. All adults, including pregnant and postpartum women, should be screened for depression, said the u.s. Preventative service task force ( uspstf ) after finalizing their b grade recommendation ( high certainty that the net benefit is moderate ) for depression screening in all adults. Moreover, there should be adequate systems in place to ensure \" accurate",
             "As the field has evolved, some aspects have changed since publication of the uspstf's first report in 2002. Nevertheless, the 2 most essential recommendations are unchanged: ( 1 ) sufficiently reliable patient-reported screening scales for depression are readily available and feasible in primary care, and ( 2 ) such screening can lead to accurate diagnosis and treatment in primary care. With respect to specific screening tools, the 9-item depression scale of the patient health questionnaire ( phq-9 ) has emerged as the first choice for most primary care settings and adult populations",
-            "\"it's very significant that the task force is now putting forth a recommendation that's specific to pregnant and postpartum women, \" said katy kozhimannil, an associate professor of public health at the university of minnesota. \"policy makers will pay attention to it. Increased screening and detection of depression is an enormous public health need. \" the panel gave its recommendation, which was published in the journal jama, a \"b \" rating, which means depression screening must be covered under the affordable care act. For years, obstetricians and",
-            "Corresponding author: albert l. Siu, md, msph ( albert.siu@mssm.edu ). Author contributions: dr siu had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. Study concept and design: siu, grossman, davidson, ebell, garcia, owens, phillips, pignone. Acquisition, analysis, or interpretation of data: siu, bibbins-domingo, baumann, gillman, herzstein, kemper, krist, kurth, phillips, phipps, pignone. Drafting"
+            "\"it's very significant that the task force is now putting forth a recommendation that's specific to pregnant and postpartum women, \" said katy kozhimannil, an associate professor of public health at the university of minnesota. \"policy makers will pay attention to it. Increased screening and detection of depression is an enormous public health need. \" the panel gave its recommendation, which was published in the journal jama, a \"b \" rating, which means depression screening must be covered under the affordable care act. For years, obstetricians and"
         ],
         "raw_document": [
             "( cnn ) have you felt down a lot in the last couple of weeks? how often have you felt tired or felt as if you couldn't concentrate? these are some of the questions your doctor might ask to determine if you are at risk of depression. And if new recommendations by the u.s. Preventive services task force are followed, primary care physicians will do this type of depression screening for all adult patients at least once. The recommendations by the task force, an independent expert panel, update its 2009 advice",
@@ -282,9 +281,9 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 1,
+            "2": 2,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -394,12 +393,11 @@
     },
     {
         "idx": 35615,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A lifelong seattle seahawks fan, michael vedvik died of a heart attack early monday in his home in kent, wa., hours after his beloved team threw the fateful interception that cost them the super bowl. According to his obituary in the spokesman-review, vedvik, 53, \" loved his family, work, clients, traveling, the seahawks, and life. We blame the seahawks lousy play call for mike's untimely demise. \" the spokesman-review dug deeper into the story: vedvik's sister wrote the obituary — her husband added the jab about the seahawks — and while vedvik's wife says it's not completely accurate, vedvik \" would have thought it was hysterical. \" vedvik didn't actually watch the super bowl. He recorded it, planning to watch it later, and went to bed. \" he hadn't been feeling well on and off, but he wouldn't go to the doctor, \" wife stephanie vedvik says. \" he thought it was indigestion or stress. \" doctors suspect he died around 4am. \" my husband was a very large personality and he was just his very own person, \" stephanie tells kiro radio, per mynorthwest.com. \" he wouldn't want us to sit around and cry, that would not be him at all. \" he's survived by his wife, parents, two sisters, three daughters, two stepdaughters, and two grandchildren. ( this man's obituary unmasked spider-man. )",
         "split": "train",
         "cleansed_document": [
-            "You thought you took the seahawks stunning super bowl loss hard? one family says it killed a beloved kent businessman, albeit with their tongues firmly in cheek. Michael sven vedvik died february 2 of undisclosed causes. But in an obituary published thursday in the spokane spokesman review, his family writes: \" we blame the seahawks lousy play call for mike's untimely demise. \" related: pete carroll admits crying over super bowl loss his wife stephanie vedvik says he would have thought the line was hysterical. \" he would want everybody to laugh and it's just the way he was. He was just that kind of guy, \" she tells kiro radio. The 53-year-old kent man actually didn't see the game. He recorded the game, intending to watch it later, and went to sleep not feeling well, thinking it was indigestion or stress. He died in bed, stephanie says. The obituary says vedvik, 53 - the owner of gendron's surveying and construction instruments in kent - loved his family, work, clients, traveling, the seahawks and life. Stephanie says his brother-in-law added the line about seattle's unsuccessful last play to the obituary and she approved. Mike vedvik's funeral will be saturday at mount spokane church in mead. The spokane native is survived by his wife and a large, extended family, many of whom seem to have a pretty big sense of humor, even in death. \" my husband was a very large personality and he was just his very own person, \" says stephanie, who admits she's devastated by his untimely death. But she says the outpouring of support from family and friends has helped bring comfort in a time of such tragedy. \" he wouldn't want us to sit around and cry, that would not be him at all, \" she says. The associated press contributed to this report.",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "You thought you took the seahawks stunning super bowl loss hard? one family says it killed a beloved kent businessman, albeit with their tongues firmly in cheek. Michael sven vedvik died february 2 of undisclosed causes. But in an obituary published thursday in the spokane spokesman review, his family writes: \" we blame the seahawks lousy play call for mike's untimely demise. \" related: pete carroll admits crying over super bowl loss his wife stephanie vedvik says he would have thought the line was hysterical. \" he would want everybody to laugh and it's just the way he was. He was just that kind of guy, \" she tells kiro radio. The 53-year-old kent man actually didn't see the game. He recorded the game, intending to watch it later, and went to sleep not feeling well, thinking it was indigestion or stress. He died in bed, stephanie says. The obituary says vedvik, 53 - the owner of gendron's surveying and construction instruments in kent - loved his family, work, clients, traveling, the seahawks and life. Stephanie says his brother-in-law added the line about seattle's unsuccessful last play to the obituary and she approved. Mike vedvik's funeral will be saturday at mount spokane church in mead. The spokane native is survived by his wife and a large, extended family, many of whom seem to have a pretty big sense of humor, even in death. \" my husband was a very large personality and he was just his very own person, \" says stephanie, who admits she's devastated by his untimely death. But she says the outpouring of support from family and friends has helped bring comfort in a time of such tragedy. \" he wouldn't want us to sit around and cry, that would not be him at all, \" she says. The associated press contributed to this report."
         ],
         "raw_document": [
             "You thought you took the seahawks stunning super bowl loss hard? one family says it killed a beloved kent businessman, albeit with their tongues firmly in cheek. Michael sven vedvik died february 2 of undisclosed causes. But in an obituary published thursday in the spokane spokesman review, his family writes: \" we blame the seahawks lousy play call for mike's untimely demise. \" related: pete carroll admits crying over super bowl loss his wife stephanie vedvik says he would have thought the line was hysterical. \" he would want everybody to laugh and it's just the way he was. He was just that kind of guy, \" she tells kiro radio. The 53-year-old kent man actually didn't see the game. He recorded the game, intending to watch it later, and went to sleep not feeling well, thinking it was indigestion or stress. He died in bed, stephanie says. The obituary says vedvik, 53 - the owner of gendron's surveying and construction instruments in kent - loved his family, work, clients, traveling, the seahawks and life. Stephanie says his brother-in-law added the line about seattle's unsuccessful last play to the obituary and she approved. Mike vedvik's funeral will be saturday at mount spokane church in mead. The spokane native is survived by his wife and a large, extended family, many of whom seem to have a pretty big sense of humor, even in death. \" my husband was a very large personality and he was just his very own person, \" says stephanie, who admits she's devastated by his untimely death. But she says the outpouring of support from family and friends has helped bring comfort in a time of such tragedy. \" he wouldn't want us to sit around and cry, that would not be him at all, \" she says. The associated press contributed to this report.",
@@ -414,7 +412,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -560,13 +558,12 @@
     },
     {
         "idx": 35621,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Uber finds itself persona non grata this weekend, after it kept giving rides — and turned off surge pricing — at jfk saturday as taxi drivers stopped work to protest president trump's executive order on refugees and immigration. Its rival finds itself on the other end of the press stick: lyft in a sunday blog post calls trump's move \" antithetical to both lyft's and our nation's core values \" and says that it \" will not be silent. \" the ridesharing company is speaking with its wallet: the co-founders write that the company will donate $ 1 million to the american civil liberties union over the next four years \" to defend our constitution. \" airbnb is taking a stand, too, with ceo brian chesky tweeting saturday, \" airbnb is providing free housing to refugees and anyone not allowed in the us. Stayed tuned for more, contact me if urgent need for housing. \" he elaborated in a statement picked up by cnbc: \" airbnb is providing free housing to refugees and anyone else who needs it in the event they are denied the ability to board a us-bound flight and are not in your city/country of residence. We have 3 million homes, so we can definitely find people a place to stay. \"",
         "split": "train",
         "cleansed_document": [
             "Home-sharing service airbnb will provide free housing to detainees and travelers impacted by the trump administration's sudden travel restrictions, u.s. Ceo brian chesky said on sunday. Chesky joined other silicon valley firms in lashing out at president donald trump's executive order, which blocked refugees, visa holders and other citizens of seven muslim-majority countries from entering the u.s. Other technology companies immediately moved to provide assistance to their employees, but airbnb appeared to be the first to offer free services to members of the public directly affected by the travel ban. \" airbnb is providing free housing to refugees and anyone not allowed in the us. Stayed tuned for more, contact me if urgent need for housing, \" chesky posted on twitter early sunday.",
-            "We created lyft to be a model for the type of community we want our world to be: diverse, inclusive, and safe. This weekend, trump closed the country's borders to refugees, immigrants, and even documented residents from around the world based on their country of origin. Banning people of a particular faith or creed, race or identity, sexuality or ethnicity, from entering the u.s. Is antithetical to both lyft's and our nation's core values. We stand firmly against these actions, and will not be silent on issues that threaten the values of our community. We know this directly impacts many of our community members, their families, and friends. We stand with you, and are donating $ 1,000,000 over the next four years to the aclu to defend our constitution. We ask that you continue to be there for each other - and together, continue proving the power of community. John &amp; logan lyft co-founders",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "We created lyft to be a model for the type of community we want our world to be: diverse, inclusive, and safe. This weekend, trump closed the country's borders to refugees, immigrants, and even documented residents from around the world based on their country of origin. Banning people of a particular faith or creed, race or identity, sexuality or ethnicity, from entering the u.s. Is antithetical to both lyft's and our nation's core values. We stand firmly against these actions, and will not be silent on issues that threaten the values of our community. We know this directly impacts many of our community members, their families, and friends. We stand with you, and are donating $ 1,000,000 over the next four years to the aclu to defend our constitution. We ask that you continue to be there for each other - and together, continue proving the power of community. John &amp; logan lyft co-founders"
         ],
         "raw_document": [
             "Home-sharing service airbnb will provide free housing to detainees and travelers impacted by the trump administration's sudden travel restrictions, u.s. Ceo brian chesky said on sunday. Chesky joined other silicon valley firms in lashing out at president donald trump's executive order, which blocked refugees, visa holders and other citizens of seven muslim-majority countries from entering the u.s. Other technology companies immediately moved to provide assistance to their employees, but airbnb appeared to be the first to offer free services to members of the public directly affected by the travel ban. \" airbnb is providing free housing to refugees and anyone not allowed in the us. Stayed tuned for more, contact me if urgent need for housing, \" chesky posted on twitter early sunday.",
@@ -583,7 +580,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -608,7 +605,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -777,7 +774,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -842,13 +839,12 @@
     },
     {
         "idx": 35631,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The farrelly brothers ' new film, hall pass, tells the story of two men given a week off from marriage. Don't expect any surprises: \"the farrellys are exploring nominally adult realms, like marital fatigue and cheating, but too often these apparent good intentions get the best of them and their timing, \" writes manohla dargis in the new york times. Plus, they're \"oblivious to camera movement, blocking, lighting and all the filmmaking rest. \" \"ever catch yourself thinking, 'man, i wish beer commercials lasted just 104 minutes longer? ' \" asks elizabeth weitzman in the new york daily news. \"the farrelly brothers are ready to make your dreams come true. \" the film continues its directors ' \"creative slide into everyday crude ( because watching a guy poop in a sand trap is neither clever nor funny ), \" notes betsy sharkey in the los angeles times. \"for all the off-colors they wave, the farrellys have a winning sentimental side, too. It's time for them to get past their peter pan potty-mouth days. \"",
         "split": "train",
         "cleansed_document": [
             "Hall pass ' hall pass'review: owen wilson and jason sudeikis star in farrelly brothers beer commercial iovino/warner bros ' hall pass'stars owen wilson ( r. ) and jason sudeikis ( l. ) as two boy-men who get a free pass from their wives. With owen wilson, jason sudeikis. Comedy about bored middle-aged husbands. Directors: bobby farrelly, peter farrelly ( 1: 45 ). R: nudity, sexuality, language, crude humor. At area theaters. Ever catch yourself thinking, \" man, i wish beer commercials lasted just 104 minutes longer \"? the farrelly brothers are ready to make your dreams come true. At this point, we're so well-conditioned by ads and judd apatow movies that it almost seems reasonable to believe two clueless boy-men like fred ( jason sudeikis ) and rick ( owen wilson, the cast standout ) would be married to",
-            "Maybe it's finally time for peter and bobby farrelly, the filmmaking sibs who brought us the very salty treat of \" there's something about mary, \" to give up on the raunch and give into the romance. After scoring big in 1998 with \" mary \" — the zipper issue, the \" hair gel \" mix-up, the roving troubadours — their raw inventive edge has never been quite as sharp. \" hall pass, \" starring owen wilson and jason sudeikis, continues that creative slide into everyday crude ( because watching a guy poop in a sand trap is neither clever nor funny ). Caught in a tug-of-war between the filmmakers ' cleaned up conventional romance à la 2005's \" fever pitch \" and the grosser stuff found in 2000's split personality spoof \" me, myself &amp; irene, \" the film is a messed-up mix of both.wilson '",
-            "The bodily fluids that peter and bobby farrelly let fly and sometimes squirt in their movies, along with the assaults visited on their hapless male characters and those men's various body parts, might suggest that these filmmaking brothers are stuck in a developmental quagmire. They don't just like to play around in human messes, those both ickily literal and situational; they also revel in them. Yet while all this foul play can make you blanch, these excesses are affirmations of the humanity that comes with the yuks. Their characters poop, therefore they are — or at least the guys are. Like most of the farrellys ' central male figures, the two in the brothers ' latest film, \"hall pass \" — rick ( owen wilson ) and fred ( jason sudeikis ) — are overgrown innocents if also adult, here with the middle-age paunch and wrinkles to prove it"
+            "Maybe it's finally time for peter and bobby farrelly, the filmmaking sibs who brought us the very salty treat of \" there's something about mary, \" to give up on the raunch and give into the romance. After scoring big in 1998 with \" mary \" — the zipper issue, the \" hair gel \" mix-up, the roving troubadours — their raw inventive edge has never been quite as sharp. \" hall pass, \" starring owen wilson and jason sudeikis, continues that creative slide into everyday crude ( because watching a guy poop in a sand trap is neither clever nor funny ). Caught in a tug-of-war between the filmmakers ' cleaned up conventional romance à la 2005's \" fever pitch \" and the grosser stuff found in 2000's split personality spoof \" me, myself &amp; irene, \" the film is a messed-up mix of both.wilson '"
         ],
         "raw_document": [
             "Hall pass ' hall pass'review: owen wilson and jason sudeikis star in farrelly brothers beer commercial iovino/warner bros ' hall pass'stars owen wilson ( r. ) and jason sudeikis ( l. ) as two boy-men who get a free pass from their wives. With owen wilson, jason sudeikis. Comedy about bored middle-aged husbands. Directors: bobby farrelly, peter farrelly ( 1: 45 ). R: nudity, sexuality, language, crude humor. At area theaters. Ever catch yourself thinking, \" man, i wish beer commercials lasted just 104 minutes longer \"? the farrelly brothers are ready to make your dreams come true. At this point, we're so well-conditioned by ads and judd apatow movies that it almost seems reasonable to believe two clueless boy-men like fred ( jason sudeikis ) and rick ( owen wilson, the cast standout ) would be married to",
@@ -865,7 +861,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -915,7 +911,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -971,7 +967,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1054,7 +1050,7 @@
             "1": 0,
             "2": 3,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1234,7 +1230,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1263,13 +1259,12 @@
     },
     {
         "idx": 35647,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Female sex workers ' prices seem to be dropping, the economist finds: a 12-country study of prostitute-review websites shows that an hour of sex today costs a customer about $ 260, whereas in 2006 it was $ 340. Why is that? first off, there's the financial crisis; cities affected the most, like cleveland, have seen a particular drop in prices. Then there's migration, the magazine notes: when a city has an influx of migrant sex workers, prices drop. Supply has also probably increased as a result of the internet, where prostitutes can advertise without revealing their identities. What's more, with premarital sex more accepted and casual meetings more common these days, there may be fewer men seeking out prostitutes. Despite the drop in prices, however, prostitutes may not be taking such a big hit, the economist notes. The internet has meant less need for brothels and pimps, allowing the workers themselves to take a higher percentage of the price. What's more, some cities are still seeing 2006-level prices: boston prostitutes, for instance, charge some $ 370 an hour, boston.com notes, via the economist, while san francisco prostitutes charge $ 360 and seattle $ 350. ( in hawaii, cops were only recently banned from having sex with prostitutes. )",
         "split": "train",
         "cleansed_document": [
             "The life of a sex worker may not be glamorous, but boston's prostitutes are raking in the dough, comparatively. According to the economist, boston's female escorts earn an average of $ 370 an hour — more than any other city listed. That's more than san francisco ( $ 360 ), seattle ( $ 350 ), atlanta ( $ 320 ), new york, and los angeles ( both about $ 315 ). And much more than chicago's $ 270, the lowest us. City listed. The lowest city overall, at just under $ 160 an hour, was tokyo. Boston's average was also better than the worldwide average of about $ 260 an hour. Advertisement - continue reading below the economist based its data on an analysis of almost 200,000 profiles on an \"international review site. \" the magazine wouldn't",
-            "The economist analysed 190,000 profiles of female sex workers on websites where customers post reviews. The data cover 84 cities in 12 countries, with the biggest number of workers in america and most of the rest in big cities in rich countries. According to the analysis, the price of an hour of sex with a female prostitute has been dropping fairly steadily in recent years. In 2006 the average cost was around $ 340. By 2014 it had dropped to about $ 260. Get our daily newsletter upgrade your inbox and get our daily dispatch and editor's picks. A prostitute's hourly rate depends on a variety of factors, including the services she provides and her reported physical characteristics. Those who conform most closely to the stereotypical version of western beauty — slim, with long blonde hair and full breasts — earn the most. Those who provide niche services — for",
-            "Warning: we rarely feel the need to alert readers to explicit content. But our discussion of the online sex trade requires frank language, and some may find the topic distasteful. Get our daily newsletter upgrade your inbox and get our daily dispatch and editor's picks. For those seeking commercial sex in berlin, peppr, a new app, makes life easy. Type in a location and up pops a list of the nearest prostitutes, along with pictures, prices and physical particulars. Results can be filtered, and users can arrange a session for a € 5-10 ( $ 6.50-13 ) booking fee. It plans to expand to more cities. Peppr can operate openly since prostitution, and the advertising of prostitution, are both legal in germany. But even where they are not, the internet is transforming the sex trade. Prostitutes and punters have always struggled to find each"
+            "The economist analysed 190,000 profiles of female sex workers on websites where customers post reviews. The data cover 84 cities in 12 countries, with the biggest number of workers in america and most of the rest in big cities in rich countries. According to the analysis, the price of an hour of sex with a female prostitute has been dropping fairly steadily in recent years. In 2006 the average cost was around $ 340. By 2014 it had dropped to about $ 260. Get our daily newsletter upgrade your inbox and get our daily dispatch and editor's picks. A prostitute's hourly rate depends on a variety of factors, including the services she provides and her reported physical characteristics. Those who conform most closely to the stereotypical version of western beauty — slim, with long blonde hair and full breasts — earn the most. Those who provide niche services — for"
         ],
         "raw_document": [
             "The life of a sex worker may not be glamorous, but boston's prostitutes are raking in the dough, comparatively. According to the economist, boston's female escorts earn an average of $ 370 an hour — more than any other city listed. That's more than san francisco ( $ 360 ), seattle ( $ 350 ), atlanta ( $ 320 ), new york, and los angeles ( both about $ 315 ). And much more than chicago's $ 270, the lowest us. City listed. The lowest city overall, at just under $ 160 an hour, was tokyo. Boston's average was also better than the worldwide average of about $ 260 an hour. Advertisement - continue reading below the economist based its data on an analysis of almost 200,000 profiles on an \"international review site. \" the magazine wouldn't",
@@ -1286,7 +1281,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1366,7 +1361,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1446,17 +1441,15 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 35654,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Latin may be a dead language, but it's very much alive on twitter, thanks to an unexpectedly social-media-savvy old man: the pope. Pope francis ' latin language twitter account began under the auspices of pope benedict in january ( it is the official language of the holy see, after all ), and under francis ' watch has now grown to more than 100,000 followers, npr reports. At 112,795 followers ( as of printing ), the latin feed has more followers than his polish, german, and arabic accounts. Latin is a particularly succinct language, making it easy to condense long thoughts into short sentences. The vatican originally expected only 5,000 followers, but learned a valuable lesson: never underestimate the enthusiasm of language nerds. \" the surprise is that nerds are in all walks of life — cab drivers from south africa, homemakers, journalists, \" says a language expert at the vatican's latin office. Now, when can we expect the ancient aramaic account to launch?",
         "split": "train",
-        "cleansed_document": [
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
@@ -1470,7 +1463,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1652,18 +1645,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 35662,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Police in australia say they've solved a 36-year-old murder that fascinated worldwide listeners of a true-crime podcast. More than 27 million people have listened to the teacher's pet produced by the australian — which hit no. 1 in the us, canada, and the uk — since it began in may exploring lynette dawson's 1982 murder, reports the bbc. Inquests previously recommended murder charges against a known suspect, though prosecutors decided there was insufficient evidence. With new witness statements as a result of increased media coverage, however, police now say they're \" confident \" in charging chris dawson, who previously claimed the mother of his two daughters ran off to join a religious cult, per news.com.au. Arrested in queensland on wednesday, the 70-year-old is to be extradited to new south wales, where the murder allegedly occurred. Investigators say the former high school teacher engaged in sexual relationships with students, including a 16-year-old who moved into the dawsons ' home two days after lynette's disappearance, which chris reported six weeks later. Police eventually dug up one of lynette's cardigans showing \" marks consistent with stabbing, \" but no body was ever found, per news.com.au. \" from our perspective, it is not crucial to finalizing the matter, \" says an officer, while the sydney morning herald reports prosecutors plan to present evidence of domestic violence. The outlet also references a family portrait lynette had planned as evidence that she didn't plan to run away. Her brother says he's \" over the moon \" about the arrest. Meanwhile, chris ' family touts his innocence, citing \" uncontested evidence that lyn dawson was alive long after she left chris. \" ( officers dug up the couple's former home this year. )",
         "split": "train",
         "cleansed_document": [
             "Image copyright supplied image caption lynette dawson's disappearance has been given wider attention by a popular podcast australian police have arrested the husband of a sydney woman whose disappearance in 1982 has been the subject of a popular crime podcast. Chris dawson, 70, is to be charged with murdering lynette dawson, new south wales ( nsw ) authorities said. Mr dawson has denied killing mrs dawson, with whom he has two children. He has said that she abandoned the family for a religious group. A podcast, the teacher's pet, brought global attention to the case this year. Police arrested mr dawson in queensland and said he would be extradited to nsw. Mrs dawson's brother, greg simms, said he was \" ecstatic \" about the development. \" we've always been determined to find the truth and that's the reason why we '",
-            "Chris dawson has been extradited to nsw and has been charged with his wife's 1982 murder. Former newtown jets rugby league star chris dawson — the subject of popular podcast the teacher's pet — has been refused bail and will be extradited to nsw where he is expected to be charged with the murder of his wife, lyn. He appeared in the dock of southport magistrates court for his extradition hearing, wearing a crumpled t-shirt and shorts. According to the courier mail, he showed no emotion, had his head in his hands and covered his ears as the magistrate read out police evidence, including allegations of domestic violence against his wife. Nsw police confirmed a 70-year-old man was arrested shortly before 8am ( aest ) in relation to the murder of lyn dawson. The case has grabbed worldwide media attention since the launch of the the australian's investigative podcast series",
-            "The australian's investigative journalist hedley thomas and composer/producer slade gibson were announced as the winners of australian journalism's highest honour in brisbane tonight. The teacher's pet explored the 1982 disappearance of sydney mother lyn dawson, bringing investigative reporting to 27 million listeners around the world. Thomas wrote and recorded an average of more than 15,000 words each week, as new informants came forward and the investigation unfolded in real time. Gibson added original music and audio production. The teacher's pet is the only australian podcast to go to number 1 in the us, the uk, canada and new zealand. The judges described the podcast as \"a masterclass in investigative journalism … the investigation uncovered long-lost statements and new witnesses, and prompted police to dig again for the body of lyn dawson. \" having won the gold walkley previously in 2007, thomas joins an elite club. The"
+            "Chris dawson has been extradited to nsw and has been charged with his wife's 1982 murder. Former newtown jets rugby league star chris dawson — the subject of popular podcast the teacher's pet — has been refused bail and will be extradited to nsw where he is expected to be charged with the murder of his wife, lyn. He appeared in the dock of southport magistrates court for his extradition hearing, wearing a crumpled t-shirt and shorts. According to the courier mail, he showed no emotion, had his head in his hands and covered his ears as the magistrate read out police evidence, including allegations of domestic violence against his wife. Nsw police confirmed a 70-year-old man was arrested shortly before 8am ( aest ) in relation to the murder of lyn dawson. The case has grabbed worldwide media attention since the launch of the the australian's investigative podcast series"
         ],
         "raw_document": [
             "Image copyright supplied image caption lynette dawson's disappearance has been given wider attention by a popular podcast australian police have arrested the husband of a sydney woman whose disappearance in 1982 has been the subject of a popular crime podcast. Chris dawson, 70, is to be charged with murdering lynette dawson, new south wales ( nsw ) authorities said. Mr dawson has denied killing mrs dawson, with whom he has two children. He has said that she abandoned the family for a religious group. A podcast, the teacher's pet, brought global attention to the case this year. Police arrested mr dawson in queensland and said he would be extradited to nsw. Mrs dawson's brother, greg simms, said he was \" ecstatic \" about the development. \" we've always been determined to find the truth and that's the reason why we '",
@@ -1680,19 +1672,18 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 35663,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A canadian woman and her american boyfriend were murdered before their bodies were left in a sugarcane field, police in belize have confirmed. An autopsy found that francesca matus, 52, and 36-year-old drew devoursney were strangled, the cbc reports. The bodies were found monday, almost a week after they were last seen. A police spokesman tells the canadian press that the bodies were \" nowhere close to \" matus'vehicle, which was abandoned in another field. Police say the bodies were in an \" advanced state of decomposition \" and both matus and devoursney had their wrists duct-taped. The couple were last seen leaving a bar around 15 miles away last tuesday night. \" we believe they had a lot of money in their possession and someone tried to rob them, \" a police official tells the national post. Friends tells the toronto star that matus, the mother of 22-year-old twin sons, spent every winter in belize and had never run into problems before. They say she was \" very organized \" and definitely wouldn't flash her wealth. Devoursney, who had been with matus for a few months, was a former us marine from georgia. A friend who served with him in iraq says a gofundme campaign started to fund the search will now be used to hire a private investigator.",
         "split": "train",
         "cleansed_document": [
             "Liam casey, the canadian press the deaths of a 52-year-old toronto woman and her 36-year-old american boyfriend who had been missing for almost a week in belize has been ruled a homicide by local police. The bodies of francesca matus and drew de voursney from georgia were discovered by local authorities in a sugar cane field in chan chen village in the country's northern corozal district, near the mexican border on monday afternoon. The couple had been missing since last tuesday. They were last seen leaving a local bar around 11 p.m. Dozens of canadian and american expats were involved in the search, scouring beaches, waterways and brush around corozal where matus owned a home.",
             "Police in belize are now investigating the death of an ontario mother of two and her boyfriend as a homicide after autopsy results tuesday showed the pair had been strangled. The bodies of francesca matus, 52, and her american boyfriend drew de voursney, 36, were discovered around 7 p.m. Et. Monday in a sugar cane field in the village of chan chen, about six kilometres outside of corozal, an officer at the corozal police department said tuesday. The pair were well known in the area. Matus travelled to the central american country every winter and her family said she considered it a second home. News of matus's death got to her family",
-            "Francesca matus was living her dream. The 52-year-old mother of two had always wanted a warm, sunny place to escape to during the canadian winters, and after establishing herself as a successful property manager in toronto, she found a retreat in the tropical central american nation of belize. Francesca matus, 52, of toronto and her american boyfriend drew devoursney, 36, were last seen driving away from a bar, headed for matus's house. They were found monday afternoon in a sugar cane field in the corozal district. ( joe milholen ) \"that's just what francesca was — she was someone who was very simple and living her dream, \"",
-            "My name is timothy brandon barfield. Most people called me by my middle name, brandon. I met my best friend, drew devoursney, while serving in fallujah, iraq in 2004 with 1st marines. After that, he went back for another tour in iraq with 11th marines. Then he served as a contractor in afghanistan.after living with me here in west palm beach in the fall of 2016 while he was completing dive school, drew, relocated to corozal, belize. As of 11: 00 p.m. Tuesday, april 25th, drew and his girlfriend, francesca matus, have gone missing.with the support of the local belize authority along with the canadian and us"
+            "Francesca matus was living her dream. The 52-year-old mother of two had always wanted a warm, sunny place to escape to during the canadian winters, and after establishing herself as a successful property manager in toronto, she found a retreat in the tropical central american nation of belize. Francesca matus, 52, of toronto and her american boyfriend drew devoursney, 36, were last seen driving away from a bar, headed for matus's house. They were found monday afternoon in a sugar cane field in the corozal district. ( joe milholen ) \"that's just what francesca was — she was someone who was very simple and living her dream, \""
         ],
         "raw_document": [
             "Liam casey, the canadian press the deaths of a 52-year-old toronto woman and her 36-year-old american boyfriend who had been missing for almost a week in belize has been ruled a homicide by local police. The bodies of francesca matus and drew de voursney from georgia were discovered by local authorities in a sugar cane field in chan chen village in the country's northern corozal district, near the mexican border on monday afternoon. The couple had been missing since last tuesday. They were last seen leaving a local bar around 11 p.m. Dozens of canadian and american expats were involved in the search, scouring beaches, waterways and brush around corozal where matus owned a home.",
@@ -1711,7 +1702,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1735,7 +1726,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1811,7 +1802,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1886,18 +1877,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 35671,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The suspect in the nov. 27 shooting rampage at a planned parenthood clinic in colorado springs says \" his dream \" is for aborted fetuses to \" thank him what for what he did \" when he dies and goes to heaven. Robert lewis dear, the self-proclaimed \" warrior for the babies \" who confessed in court, made the comments to police after his arrest, according to arrest and search warrants unsealed monday, per nbc news. He also says he was angry with planned parenthood for performing abortions and for \" the selling of body parts, \" and the attack left him \" happy, \" per reuters. A police officer, a us army vet, and a young mom were killed, and nine were injured in the shooting, dear faces murder and attempted murder charges. The unsealed documents reveal that dear stopped to get directions to the clinic on the day of the attack and even called the clinic itself. He showed up wearing a vest of silver coins and duct tape and shot a woman in the parking lot with one of four semi-automatic rifles, telling her she \" shouldn't have come here today, \" the documents state. He later told police he \" thought very highly \" of paul hill, who murdered a florida abortion provider in 1994, per the documents. Dear has said he plans to represent himself in court, though a court-appointed evaluation found he was incompetent to do so. His lawyer is expected to argue that dear should be put in a state psychiatric hospital during a hearing on his competency to stand trial on april 28.",
         "split": "train",
         "cleansed_document": [
             "Denver ( reuters ) - the man accused of fatally shooting three people at a colorado planned parenthood clinic last year said he hoped that when he died fetuses in heaven would thank him for stopping more abortions, court documents showed on monday. A deputy tries to calm robert lewis dear, 57, accused of shooting three people to death and wounding nine others at a planned parenthood clinic in colorado last month, as he spoke out at his hearing to face 179 counts of various criminal charges at an el paso county court in colorado springs, colorado december 9, 2015. Reuters/andy cross/pool robert lewis dear, 57, made the comments to police after he surrendered following a shooting rampage and five-hour siege last november at the colorado springs clinic that also left nine others injured. Dear is charged with first-degree murder and attempted murder. Among those killed were a young mother, a u.s. Army veteran and a police officer from a nearby university who responded to the scene. The new disclosures emerged after el paso county district",
-            "Play facebook twitter google plus embed documents: accused planned parenthood gunman was ' happy ' after attack 1: 52 the man accused of gunning down three people at a planned parenthood clinic in colorado last fall told police he was \" happy \" after the attack — and dreamed aborted fetuses would be grateful for what he had done, according to newly released arrest warrants. Robert dear jr. Has confessed to the nov. 27 killings during outbursts in court proceedings, but he has yet to enter a formal plea. Related: robert dear, accused planned parenthood killer, tries to fire lawyers in the documents, which shed light on why the reclusive suspect allegedly opened fire on the colorado springs facility, dear told a detective that \" his dream \" was that, when he died, he would be met \" by all the aborted fetuses at the gates of heaven and they would thank him what for what he did because his actions saved lives of other unborn fetuses, \" the document says. He was \"",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Play facebook twitter google plus embed documents: accused planned parenthood gunman was ' happy ' after attack 1: 52 the man accused of gunning down three people at a planned parenthood clinic in colorado last fall told police he was \" happy \" after the attack — and dreamed aborted fetuses would be grateful for what he had done, according to newly released arrest warrants. Robert dear jr. Has confessed to the nov. 27 killings during outbursts in court proceedings, but he has yet to enter a formal plea. Related: robert dear, accused planned parenthood killer, tries to fire lawyers in the documents, which shed light on why the reclusive suspect allegedly opened fire on the colorado springs facility, dear told a detective that \" his dream \" was that, when he died, he would be met \" by all the aborted fetuses at the gates of heaven and they would thank him what for what he did because his actions saved lives of other unborn fetuses, \" the document says. He was \""
         ],
         "raw_document": [
             "Denver ( reuters ) - the man accused of fatally shooting three people at a colorado planned parenthood clinic last year said he hoped that when he died fetuses in heaven would thank him for stopping more abortions, court documents showed on monday. A deputy tries to calm robert lewis dear, 57, accused of shooting three people to death and wounding nine others at a planned parenthood clinic in colorado last month, as he spoke out at his hearing to face 179 counts of various criminal charges at an el paso county court in colorado springs, colorado december 9, 2015. Reuters/andy cross/pool robert lewis dear, 57, made the comments to police after he surrendered following a shooting rampage and five-hour siege last november at the colorado springs clinic that also left nine others injured. Dear is charged with first-degree murder and attempted murder. Among those killed were a young mother, a u.s. Army veteran and a police officer from a nearby university who responded to the scene. The new disclosures emerged after el paso county district",
@@ -1914,7 +1904,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1939,7 +1929,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2059,13 +2049,12 @@
     },
     {
         "idx": 35677,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A watchdog report has some thrilling news for taxpayers: $ 43 million of your hard-earned money went toward building a single gas station in afghanistan with an initial budget of $ 3 million. If that's not bad enough, the special inspector general for afghanistan reconstruction says the department of defense has been unable or unwilling to explain the high cost of afghanistan's first compressed natural gas filling station, built in sheberghan in 2011. The dod told sigar it lacked the \" personnel expertise \" to respond because the task force in charge of the operation closed in march. \" i've never encountered anything like this, \" says sigar's john sopko, who calls the project \" an outrageous waste of money, \" per nbc news. \" there may be fraud. There may be corruption. But i cannot currently find out more about this because of the lack of cooperation. \" the dod tells nbc it's now providing access to records. But the report found \" no indication \" that the task force investigated the viability of the project, aimed at easing afghanistan's reliance on imports, or the obstacles it might face before breaking ground. \" even considering security costs associated with construction and operation in afghanistan, this level of expenditure appears gratuitous and extreme, \" the report states, noting such a project in pakistan would cost just $ 500,000. Sigar also couldn't determine whether the station was still operational; documents show the business that took it over in 2014 didn't renew its business license that year, reports fox news. Sopko adds he's still investigating the task force's other projects, for which it was given $ 820 million from 2010 to 2014.",
         "split": "train",
         "cleansed_document": [
             "\" even considering security costs associated with construction and operation in afghanistan, this level of expenditure appears gratuitous and extreme, \" sigar said in a report issued monday. The agency's top official went further. \"it's an outrageous waste of money that raises suspicions that there is something more there than just stupidity, \" john sopko, the special inspector general, told nbc news. \"there may be fraud. There may be corruption. But i cannot currently find out more about this because of the lack of cooperation. \" despite having vast natural gas reserves, afghanistan is heavily reliant on importing petroleum products. The downstream gas utilization project — overseen by the task force for stability and business operations ( tfbso ) — was aimed at changing that. The mission involved building and operating afghanistan's first compressed natural gas filling station in the city of sheberghan and helping develop the commercial market for domestic natural gas. The problem was, according to sigar, is that there was \" no indication",
-            "It might be the world's most expensive gas station — not to mention a gross misuse of taxpayer money, according to a top government watchdog. The department of defense spent $ 43 million to build a gas station in afghanistan that should have cost roughly $ 500,000, the lead oversight team monitoring u.s. Spending in afghanistan has found. The discovery came as part of a broader investigation into allegations of criminal activity within the dod's premiere program to kick-start the afghan economy. \" it's fright-night at the pentagon, \" john sopko, special inspector general for afghanistan reconstruction ( sigar ), told foxnews.com, calling the spending \" outrageous to the taxpayer. \" at issue is spending by the task force for stability and business operations, known as tfbso or the task force, which ended in march 2015. But most alarming, according to sopko, is the dod's failure to answer questions about the $ 800 million program and its claim the task force's employees no longer work",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "It might be the world's most expensive gas station — not to mention a gross misuse of taxpayer money, according to a top government watchdog. The department of defense spent $ 43 million to build a gas station in afghanistan that should have cost roughly $ 500,000, the lead oversight team monitoring u.s. Spending in afghanistan has found. The discovery came as part of a broader investigation into allegations of criminal activity within the dod's premiere program to kick-start the afghan economy. \" it's fright-night at the pentagon, \" john sopko, special inspector general for afghanistan reconstruction ( sigar ), told foxnews.com, calling the spending \" outrageous to the taxpayer. \" at issue is spending by the task force for stability and business operations, known as tfbso or the task force, which ended in march 2015. But most alarming, according to sopko, is the dod's failure to answer questions about the $ 800 million program and its claim the task force's employees no longer work"
         ],
         "raw_document": [
             "\" even considering security costs associated with construction and operation in afghanistan, this level of expenditure appears gratuitous and extreme, \" sigar said in a report issued monday. The agency's top official went further. \"it's an outrageous waste of money that raises suspicions that there is something more there than just stupidity, \" john sopko, the special inspector general, told nbc news. \"there may be fraud. There may be corruption. But i cannot currently find out more about this because of the lack of cooperation. \" despite having vast natural gas reserves, afghanistan is heavily reliant on importing petroleum products. The downstream gas utilization project — overseen by the task force for stability and business operations ( tfbso ) — was aimed at changing that. The mission involved building and operating afghanistan's first compressed natural gas filling station in the city of sheberghan and helping develop the commercial market for domestic natural gas. The problem was, according to sigar, is that there was \" no indication",
@@ -2082,7 +2071,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2415,7 +2404,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2472,7 +2461,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2656,13 +2645,12 @@
     },
     {
         "idx": 35699,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Lindsay lohan's attorney told a judge yesterday that she was safely \" ensconced in the bosom \" of a california rehab facility, but she actually never checked in. For a while, as the ap reported, her whereabouts were unknown; she ended up checking into a different california facility late yesterday, tmz reports. Apparently lohan spent just a few minutes at morningside recovery in newport beach, which was already a last-minute switcheroo from the new york facility she originally chose. Morningside had not been approved by prosecutors and it's not licensed for residential in-patient rehab — a problem since lohan was supposed to be at a lockdown facility. Lohan \" was not happy with the place, \" dad michael says of morningside, according to cnn. \" lindsay had no idea that morningside wasn't approved. \" so she ended up at betty ford, hours before prosecutors were set to seek an arrest warrant. ( the rancho mirage facility is the same one where lohan was accused of brawling with a staffer in 2010. ) she also re-hired her old attorney, shawn holley, who negotiated the betty ford deal for her with the santa monica city attorney; now the judge just needs to sign off on it, which he is expected to do. Bizarrely, the new york daily news spotted her wandering around an electronics store yesterday; that paper says she wanted to fly back to new york, and according to the quotes it got from michael lohan, lindsay really has no grasp of the way the legal system works: \" she said,'daddy, how can they arrest me? ' \" says michael, who convinced her to stay in la.",
         "split": "train",
         "cleansed_document": [
             "Los angeles ( cnn ) -- lindsay lohan checked into a california rehab center early friday, ending -- at least for now -- a drama that has had more twists and turns than a high-speed car chase. Shawn holley, the lawyer who guided lohan through years of legal turmoil until the actress abruptly fired her in january, helped her avoid jail once again by brokering a deal, her father told cnn friday. \" i am so thankful to shawn holley and evan haney, her manager, for doing this, \" michael lohan said. While he wouldn't name the california facility his daughter entered, he noted it is a rehab program she's been in before. The actress underwent three months of court-ordered substance abuse rehab at the betty ford clinic at the end of 2010, but she was in legal trouble again weeks later -- facing a shoplifting charge that led to her current woes. Lohan, 26, \" wants to settle in \" for a few days while arrangements can be made to transfer her to the lukens institute in palm beach gardens, florida, which bills itself as a",
-            "Lindsay lohan checked into california's betty ford center rehab facility late thursday, dodging arrest after whirlwind confusion surrounding the actress ' whereabouts, sources told the daily news. It's the same place the troubled starlet sought help in 2010, where she got into a physical altercation with a staffer. Laywer shawn holley — who lohan convinced to return thursday night — worked \" all night \" to get the actress into betty ford, the sources said. Lindsay lohan was spotted a few miles from morningside rehab center in newport beach, calif., where she is planning to spend a 90-day stint. ( exclusive photo: splash news ) \" i just found out she's okay, \" dad michael lohan said. \" according to the judge and the city attorney's orders, lindsay has checked into rehab. I will not and can not disclose where, but it was no thanks to mark heller. \" lindsay lohan is pictured spending her last day before she enters rehab in the soho area of new york city with her friends and family. ( splash news ) earlier thursday, prosecutors expected",
-            "The seed for wide00014 was: - slash pages from every domain on the web: -- a ranking of all urls that have more than one incoming inter-domain link ( rank was determined by number of incoming links using wide00012 inter domain links ) -- up to a maximum of 100 most highly ranked urls per domain - top ranked pages ( up to a max of 100 ) from every linked-to domain using the wide00012 inter-domain navigational link graph"
+            "Lindsay lohan checked into california's betty ford center rehab facility late thursday, dodging arrest after whirlwind confusion surrounding the actress ' whereabouts, sources told the daily news. It's the same place the troubled starlet sought help in 2010, where she got into a physical altercation with a staffer. Laywer shawn holley — who lohan convinced to return thursday night — worked \" all night \" to get the actress into betty ford, the sources said. Lindsay lohan was spotted a few miles from morningside rehab center in newport beach, calif., where she is planning to spend a 90-day stint. ( exclusive photo: splash news ) \" i just found out she's okay, \" dad michael lohan said. \" according to the judge and the city attorney's orders, lindsay has checked into rehab. I will not and can not disclose where, but it was no thanks to mark heller. \" lindsay lohan is pictured spending her last day before she enters rehab in the soho area of new york city with her friends and family. ( splash news ) earlier thursday, prosecutors expected"
         ],
         "raw_document": [
             "Los angeles ( cnn ) -- lindsay lohan checked into a california rehab center early friday, ending -- at least for now -- a drama that has had more twists and turns than a high-speed car chase. Shawn holley, the lawyer who guided lohan through years of legal turmoil until the actress abruptly fired her in january, helped her avoid jail once again by brokering a deal, her father told cnn friday. \" i am so thankful to shawn holley and evan haney, her manager, for doing this, \" michael lohan said. While he wouldn't name the california facility his daughter entered, he noted it is a rehab program she's been in before. The actress underwent three months of court-ordered substance abuse rehab at the betty ford clinic at the end of 2010, but she was in legal trouble again weeks later -- facing a shoplifting charge that led to her current woes. Lohan, 26, \" wants to settle in \" for a few days while arrangements can be made to transfer her to the lukens institute in palm beach gardens, florida, which bills itself as a",
@@ -2679,7 +2667,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     }
 ]

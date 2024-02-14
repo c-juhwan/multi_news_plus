@@ -29,7 +29,7 @@
             "1": 0,
             "2": 5,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -54,7 +54,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -89,7 +89,7 @@
             "2": 0,
             "3": 0,
             "4": 5,
-            "5": 0
+            "5": 1
         }
     },
     {
@@ -201,7 +201,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -373,13 +373,12 @@
     },
     {
         "idx": 44313,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The guy who's diligently working on a plan to transport humans to mars has also been toiling on a project that makes use of the sun. That project, a rechargeable lithium-ion battery made by tesla called powerwall, is designed to be installed in homes and store solar energy to be used at night or during power outages, cnnmoney reports. And that guy who announced it last night in a live-streamed unveiling in california is elon musk, the ambitious tesla ceo who hopes this energy alternative will reduce our need for fossil fuels, the detroit free press reports. \" the issue with existing batteries is that they suck, \" he said, per the newspaper. \" they're really horrible. \" not the powerwall, according to musk, which is scheduled to start shipping sometime this summer, the ap reports. The 220-pound wall-mounted battery charges \" using electricity generated from solar panels, or when utility rates are low, \" the powerwall site explains. But there's a cost to get there: the batteries go for $ 3,000 or $ 3,500, depending on its juice capacity, plus installation. \" the value proposition now is around reliability and backup power more than it is around savings, but over time that may change, \" says an analyst with gtm research. Indeed, musk's brother kimbal, one of tesla's board members, told cnnmoney earlier in the week that the battery would cut electricity bills by 25 %. As the ap explains, as more utilities permit power prices to fluctuate throughout the day based on market conditions, powerwall software will let customers use their own home-generated power — and not costly grid power — when grid prices are highest.",
         "split": "train",
         "cleansed_document": [
             "Tesla has unveiled a suite of new energy products, including a wall-mounted battery that will be sold for use in consumers ' homes. Tesla is calling the rechargeable lithium-ion battery the \" powerwall. \" as the name suggests, the unit is designed to be mounted on a wall, and connected to the local power grid. It will be sold to installers for $ 3,500 for 10kwh, and $ 3,000 for 7kwh. Deliveries will begin in late summer. Home batteries power up overnight, when energy companies typically charge less for electricity. Then, they can be turned on during the day to power a home. The batteries typically cost thousands of dollars, though many utility companies offer rebates. Related: is the tesla home battery worth the cost? depends where you live. Kimbal musk, a tesla board member, told",
-            "The device is expected to become available in small quantities within a few months, musk said. The tesla powerwall is a wall-mounted home battery unit that can store renewable energy. ( photo: tesla motors ) silicon valley electric-vehicle automaker tesla motors is expanding its presence beyond luxury cars with plans to produce a wall-mounted battery pack designed to store renewable energy in the home. Tesla ceo elon musk revealed the tesla powerwall unit in an event late thursday in california that was live streamed online. The unit, he said, would go into small-scale production in three to four months at the company's fremont, calif., plant. Next year it will hit production at the company's currently-under-construction battery factory in nevada. Customers can place orders online. The reveal of the tesla powerwall underscores the company's transition from electric-vehicle designer",
-            "Elon musk, the billionaire entrepreneur behind the private spaceflight company spacex, says he will unveil his concepts for mars colonization later this year. Spacex ceo elon musk poses with the firm's manned dragon v2 spacecraft during an unveiling event at the company's headquarters in hawthorne, california on may 29, 2014. Credit: rod pyle/space.com in an \" ask me anything \" session on reddit monday evening ( jan. 5 ), musk told readers that the details of his mars colonial transporter would be unveiled by the end of the year, and that the plan would be different from the dragon capsules and falcon 9 rockets spacex is flying today. \" the mars transport system will be a completely new architecture, \" musk wrote in the reddit ama. \" am hoping to present that towards the end of this year. Good thing"
+            "The device is expected to become available in small quantities within a few months, musk said. The tesla powerwall is a wall-mounted home battery unit that can store renewable energy. ( photo: tesla motors ) silicon valley electric-vehicle automaker tesla motors is expanding its presence beyond luxury cars with plans to produce a wall-mounted battery pack designed to store renewable energy in the home. Tesla ceo elon musk revealed the tesla powerwall unit in an event late thursday in california that was live streamed online. The unit, he said, would go into small-scale production in three to four months at the company's fremont, calif., plant. Next year it will hit production at the company's currently-under-construction battery factory in nevada. Customers can place orders online. The reveal of the tesla powerwall underscores the company's transition from electric-vehicle designer"
         ],
         "raw_document": [
             "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain.",
@@ -398,7 +397,7 @@
             "0": 5,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -508,13 +507,12 @@
     },
     {
         "idx": 44318,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "At least 97 people have been confirmed dead in the wake of the tropical storm double-whammy that hit mexico this week, mexican authorities announced today — and that's not counting the many still missing. In the small town of la pintada, for instance, 68 of the town's 800 residents are missing after a massive landslide monday, the ap reports. \" half the homes in town were smothered and buried, \" one woman says. Several entire families were wiped out in the disaster. Tropical storm manuel is believed to have caused almost $ 400 million in damage, voice of america reports. Thousands of tourists have been evacuated from acapulco. Cnn meanwhile visited the hard-hit town of renacimiento, and found that cleanup crews had only just begun to arrive yesterday. \" the government ignores us, \" complained one resident who watched flood waters wash away his kitchen. \" they help everyone else, but they've forgotten about renacimiento. \"",
         "split": "train",
         "cleansed_document": [
             "Story highlights in one town, 68 people remain missing after a mudslide residents complain that government aid has been slow officials say help is on the way after \" historic \" rains storms have killed at least 97 people in mexico as raging floodwaters swept away half of his timber shack, saturnino medina climbed to the roof. He pointed thursday to the place where river waters broke through a container wall and washed away his kitchen. Medina and his family have almost nothing left now, after the wind and rain of manuel hit the town of renacimiento, located about 20 km northeast of the resort city of acapulco. Days after the storm made landfall as a tropical depression in the mexican state of guerrero, thousands of tourists are still trapped in acapulco and thousands of families are struggling to recover. Medina and his family were left to eat eggs and tortillas donated by neighbors and drink expired",
-            "Days usually start long before sunrise in la pintada, where able-bodied men and the women without young children leave home before 6 a.m. To work the coffee fields around the tiny village deep in the rugged green mountains of southern mexico. Residents of the storm-battered southern mexican state of guerrero use the courtesy phones provided at a temporary shelter in the convention center in acapulco, mexico, thursday, sept. 19, 2013. Hundreds... ( associated press ) nancy gomez, 21, an injured resident of la pintada, and her 1-year-old baby, receive medical attention in a shelter at the convention center in acapulco, mexico, thursday, sept. 19, 2013. Federal police... ( associated press ) residents from the village la pintada rest inside the acapulco convention center after their town was affected by flooding, in acapulco, mexico, thursday, sept. 19, 2013. Tropical storm manuel, the same... (",
-            "U.s. President barack obama will host a summit of african leaders in washington this august, a sign that his administration is paying more attention to the continent than in the past. As voa's kent klein reports, many africans and africa experts say he has not done enough. Video obama africa policy gaining momentum u.s. President barack obama will host a summit of african leaders in washington this august, a sign that his administration is paying more attention to the continent than in the past. As voa's kent klein reports, many africans and africa experts say he has not done enough. Video us south gets unexpected snow harsher weather than usual is striking americans living in the southern united states. And for people unaccustomed to slick and slippery conditions, driving - especially - can be dangerous, if not deadly. Traffic piles up as the white stuff comes down and ' winter"
+            "Days usually start long before sunrise in la pintada, where able-bodied men and the women without young children leave home before 6 a.m. To work the coffee fields around the tiny village deep in the rugged green mountains of southern mexico. Residents of the storm-battered southern mexican state of guerrero use the courtesy phones provided at a temporary shelter in the convention center in acapulco, mexico, thursday, sept. 19, 2013. Hundreds... ( associated press ) nancy gomez, 21, an injured resident of la pintada, and her 1-year-old baby, receive medical attention in a shelter at the convention center in acapulco, mexico, thursday, sept. 19, 2013. Federal police... ( associated press ) residents from the village la pintada rest inside the acapulco convention center after their town was affected by flooding, in acapulco, mexico, thursday, sept. 19, 2013. Tropical storm manuel, the same... ("
         ],
         "raw_document": [
             "Story highlights in one town, 68 people remain missing after a mudslide residents complain that government aid has been slow officials say help is on the way after \" historic \" rains storms have killed at least 97 people in mexico as raging floodwaters swept away half of his timber shack, saturnino medina climbed to the roof. He pointed thursday to the place where river waters broke through a container wall and washed away his kitchen. Medina and his family have almost nothing left now, after the wind and rain of manuel hit the town of renacimiento, located about 20 km northeast of the resort city of acapulco. Days after the storm made landfall as a tropical depression in the mexican state of guerrero, thousands of tourists are still trapped in acapulco and thousands of families are struggling to recover. Medina and his family were left to eat eggs and tortillas donated by neighbors and drink expired",
@@ -531,7 +529,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -559,7 +557,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -613,7 +611,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -730,7 +728,7 @@
             "2": 0,
             "3": 1,
             "4": 0,
-            "5": 0
+            "5": 1
         }
     },
     {
@@ -898,7 +896,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1125,7 +1123,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1208,7 +1206,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1233,7 +1231,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1258,7 +1256,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1390,7 +1388,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1496,7 +1494,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1531,12 +1529,11 @@
     },
     {
         "idx": 44355,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "While many travelers fret about whether they've exceeded the tsa limits for liquids in their carry-on luggage or whether they mistakenly packed their e-cigarettes in their checked bags ( not allowed ), others saunter right up to security checkpoints and baggage drop-offs with what the tsa calls \" more offbeat items. \" the agency has compiled a short clip of the weirdest things its agents found in 2017, both in checked and carry-on luggage, and it's hard to imagine anyone would think these things would clear security. Here, the top five, which includes a scythe in a carry-on bag:",
         "split": "train",
         "cleansed_document": [
-            "Adult toys yes yes aerosol insecticide aerosol insecticides are not allowed in carry-on; however they are allowed in checked bags as long as they are not labeled as hazardous material ( hazmat ). No yes ( special instructions ) airbrush make-up machine yes yes alcoholic beverages alcoholic beverages with more than 24 % but not more than 70 % alcohol are limited in checked bags to 5 liters ( 1.3 gallons ) per passenger and must be in unopened retail packaging. Alcoholic beverages with 24 % alcohol or less are not subject to limitations in checked bags. Mini bottles of alcohol in carry-on must be able to comfortably fit into a single quart-sized bag. For more information, see faa regulation: 49 cfr 175.10( a ) ( 4 ). Yes ( less than 3.4oz/100 ml allowed ) yes alcoholic beverages over 140 proof alcoholic beverages with more than 70 % alcohol ( up to 140 proof ), including grain alcohol and 151 proof rum. For more information, see faa regulation: 49 cfr 175.10( a ) ( 4 ). No no ammunition check with your airline if ammunition is allowed in checked bags. Small arms ammunitions must be securely packed in fiber, wood or metal boxes or other packaging specifically designed to carry small amounts of ammunition. Ask the airline about limitations or fees. Read the guidelines for traveling with firearms. When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government. No yes ( special instructions ) antlers you may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane. Yes yes artificial skeleton bones yes yes axes and hatchets no yes baby carrier you may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Adult toys yes yes aerosol insecticide aerosol insecticides are not allowed in carry-on; however they are allowed in checked bags as long as they are not labeled as hazardous material ( hazmat ). No yes ( special instructions ) airbrush make-up machine yes yes alcoholic beverages alcoholic beverages with more than 24 % but not more than 70 % alcohol are limited in checked bags to 5 liters ( 1.3 gallons ) per passenger and must be in unopened retail packaging. Alcoholic beverages with 24 % alcohol or less are not subject to limitations in checked bags. Mini bottles of alcohol in carry-on must be able to comfortably fit into a single quart-sized bag. For more information, see faa regulation: 49 cfr 175.10( a ) ( 4 ). Yes ( less than 3.4oz/100 ml allowed ) yes alcoholic beverages over 140 proof alcoholic beverages with more than 70 % alcohol ( up to 140 proof ), including grain alcohol and 151 proof rum. For more information, see faa regulation: 49 cfr 175.10( a ) ( 4 ). No no ammunition check with your airline if ammunition is allowed in checked bags. Small arms ammunitions must be securely packed in fiber, wood or metal boxes or other packaging specifically designed to carry small amounts of ammunition. Ask the airline about limitations or fees. Read the guidelines for traveling with firearms. When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government. No yes ( special instructions ) antlers you may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane. Yes yes artificial skeleton bones yes yes axes and hatchets no yes baby carrier you may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the"
         ],
         "raw_document": [
             "Adult toys yes yes aerosol insecticide aerosol insecticides are not allowed in carry-on; however they are allowed in checked bags as long as they are not labeled as hazardous material ( hazmat ). No yes ( special instructions ) airbrush make-up machine yes yes alcoholic beverages alcoholic beverages with more than 24 % but not more than 70 % alcohol are limited in checked bags to 5 liters ( 1.3 gallons ) per passenger and must be in unopened retail packaging. Alcoholic beverages with 24 % alcohol or less are not subject to limitations in checked bags. Mini bottles of alcohol in carry-on must be able to comfortably fit into a single quart-sized bag. For more information, see faa regulation: 49 cfr 175.10( a ) ( 4 ). Yes ( less than 3.4oz/100 ml allowed ) yes alcoholic beverages over 140 proof alcoholic beverages with more than 70 % alcohol ( up to 140 proof ), including grain alcohol and 151 proof rum. For more information, see faa regulation: 49 cfr 175.10( a ) ( 4 ). No no ammunition check with your airline if ammunition is allowed in checked bags. Small arms ammunitions must be securely packed in fiber, wood or metal boxes or other packaging specifically designed to carry small amounts of ammunition. Ask the airline about limitations or fees. Read the guidelines for traveling with firearms. When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government. No yes ( special instructions ) antlers you may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane. Yes yes artificial skeleton bones yes yes axes and hatchets no yes baby carrier you may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the",
@@ -1551,7 +1548,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1576,7 +1573,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1740,7 +1737,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1797,12 +1794,11 @@
     },
     {
         "idx": 44365,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Taliban insurgents beheaded 17 men and women yesterday for participating in a music event in afghanistan's helmand province, officials report. The decapitations occurred after people gathered for a celebration, and were playing music and dancing, according to the chief of the musa qala government. They were apparently punished for breaking religious strictures. The area where the slaughter took place is completely in taliban control. Gunfire was also reported by witnesses, so the victims may have been shot before they were beheaded, ap reports.",
         "split": "train",
         "cleansed_document": [
-            "Afghan officials say taliban insurgents have beheaded 17 afghan civilians for taking part in a music event in a taliban-controlled area of southern afghanistan. The interior ministry says the attack happened sunday in helmand province and that gunfire was also involved. Helmand provincial government spokesman daoud ahmadi says the attack happened in musa qala district. Ahmadi says all of the victims had their heads chopped off. He says it was not clear if they were shot first. The musa qala government chief says the people had gathered for a celebration and were playing music and dancing and the insurgents wanted to stop the event. Neyamatullah khan says the area where the slaughter took place is completely in taliban control and so he does not have more details yet.",
-            "Story highlights the two u.s. Troops were killed by an afghan soldier in eastern afghanistan the deaths raise the number of troops killed in such attacks to at least 42 a group of afghan soldiers turn their guns on their own unit, killing 10, officials say the interior ministry says the taliban is behind the killings of 17 people an afghan soldier killed two american troops monday in the latest attack by afghan security forces on coalition soldiers, authorities said. The killings occurred the same day 10 afghan soldiers were killed when members of their own unit opened fire on them at an army post in southern helmand province, according to provincial officials. The latest attacks come at a sensitive time for the united states and its nato-led allies, who are preparing to withdraw the majority of their troops by 2014 under a plan that requires afghan forces to take responsibility for the country's security. Nato: most attacks on coalition troops driven by personal grievances a defense official not authorized to speak on the record confirmed the nationality of the two americans. The official said circumstances are still under investigation, but it appears to be an insider attack. With monday's killing of the two, at least 42 nato troops have been killed in attacks by afghan forces or insurgents disguised as soldiers or police, according to coalition officials. Just watched pentagon: afghans killing u.s. Troops replay more videos... Must watch pentagon: afghans killing u.s. Troops 02: 14 just watched special ops troops lured then killed replay more videos... Must watch special ops troops lured then killed 02: 06 u.s. Marine gen. John allen, chief of the nato-led international security assistance force, said last week that an estimated 25 % of such attacks are carried out by taliban infiltrators. The coalition did not provide details of the attack in eastern afghanistan, saying only that nato \" troops returned fire, killing the... Soldier who committed the attack. \" afghan authorities, meanwhile, are investigating"
+            "Afghan officials say taliban insurgents have beheaded 17 afghan civilians for taking part in a music event in a taliban-controlled area of southern afghanistan. The interior ministry says the attack happened sunday in helmand province and that gunfire was also involved. Helmand provincial government spokesman daoud ahmadi says the attack happened in musa qala district. Ahmadi says all of the victims had their heads chopped off. He says it was not clear if they were shot first. The musa qala government chief says the people had gathered for a celebration and were playing music and dancing and the insurgents wanted to stop the event. Neyamatullah khan says the area where the slaughter took place is completely in taliban control and so he does not have more details yet."
         ],
         "raw_document": [
             "Afghan officials say taliban insurgents have beheaded 17 afghan civilians for taking part in a music event in a taliban-controlled area of southern afghanistan. The interior ministry says the attack happened sunday in helmand province and that gunfire was also involved. Helmand provincial government spokesman daoud ahmadi says the attack happened in musa qala district. Ahmadi says all of the victims had their heads chopped off. He says it was not clear if they were shot first. The musa qala government chief says the people had gathered for a celebration and were playing music and dancing and the insurgents wanted to stop the event. Neyamatullah khan says the area where the slaughter took place is completely in taliban control and so he does not have more details yet.",
@@ -1817,7 +1813,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1897,7 +1893,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2101,12 +2097,11 @@
     },
     {
         "idx": 44376,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "As for what the \" eu referendum rules triggering a 2nd eu referendum \" petition has to say, you may have to take the independent's word for it: the petition.parliament.uk site was mostly down this morning, ostensibly due to an inability to keep up with the flow of traffic to it. The independent reports that the petition requests the \" hm government to implement a rule that if the remain or leave vote is less than 60 % based on a turnout less than 75 % there should be another referendum. \" per the guardian, turnout fell shy of that mark, at 72.16 %; leave captured 52 % of the vote. Petitions that hit 100,000 signatures must be addressed by parliament; after several tries, newser accessed the petition, which was up to 104,029 signatures.",
         "split": "train",
         "cleansed_document": [
-            "The 48 % of voters who wished to remain in the european union are so mortified by the leave result that a parliamentary petition calling for a second referendum is swelling in signatures. 'we the undersigned call upon hm government to implement a rule that if the remain or leave vote is less than 60 % based on a turnout less than 75 % there should be another referendum,'the petition, filed pre-referendum, reads. At the time of writing, the petition is difficult to access, presumably due to a surge of traffic. The count is at 55,000 right now and climbing at roughly a thousand signatures a minute. Join independent minds for exclusive articles, events and an advertising-free read for just £ 5.99 € 6.99 $ 9.99 a month get the best of the independent with an independent minds subscription for just £ 5.99 € 6.99 $ 9.99 a month get the best of the independent without the ads – for just £ 5.99 € 6.99 $ 9.99 a month all petitions to the site that receive over 100,000 signatures must be considered for debate in parliament by law, as was the case with the cannabis legalisation one. Update 9: 04am: petition.parliament.uk completely inaccessible. Update 11: 54am: the 100,000 threshhold is passed, with 101,526 signees. Update 5: 12pm: 145,570 and climbing *live coverage of the eu referendum fallout and prime minister david cameron's resignation* shape created with sketch. 6 ways britain leaving the eu will affect you show all 6 left created with sketch. Right created with sketch. Shape created with sketch. 6 ways britain leaving the eu will affect you 1/6 more expensive foreign holidays the first practical effect of a vote to leave is that the pound will be worth less abroad, meaning foreign holidays will cost us more nito100 2/6 no immediate change in immigration status the prime minister will have to address other immediate concerns. He is likely to reassure nationals of other eu countries living in the uk that their status is unchanged. That is what the leave campaign has said, so, even after the brexit negotiations are complete, those who are already in the uk would be allowed to stay getty 3/6 higher inflation a lower pound means that imports would become more expensive. This is likely to mean the return of inflation – a phenomenon with which many",
-            "This is a set of web collections curated by mark graham using the archive-it service of the internet archive. They include web captures of the iskme.org website as well as captures from sites hosted by igc.org.these web captures are available to the general public.for more information about this collection please feel free to contact mark via send mail"
+            "The 48 % of voters who wished to remain in the european union are so mortified by the leave result that a parliamentary petition calling for a second referendum is swelling in signatures. 'we the undersigned call upon hm government to implement a rule that if the remain or leave vote is less than 60 % based on a turnout less than 75 % there should be another referendum,'the petition, filed pre-referendum, reads. At the time of writing, the petition is difficult to access, presumably due to a surge of traffic. The count is at 55,000 right now and climbing at roughly a thousand signatures a minute. Join independent minds for exclusive articles, events and an advertising-free read for just £ 5.99 € 6.99 $ 9.99 a month get the best of the independent with an independent minds subscription for just £ 5.99 € 6.99 $ 9.99 a month get the best of the independent without the ads – for just £ 5.99 € 6.99 $ 9.99 a month all petitions to the site that receive over 100,000 signatures must be considered for debate in parliament by law, as was the case with the cannabis legalisation one. Update 9: 04am: petition.parliament.uk completely inaccessible. Update 11: 54am: the 100,000 threshhold is passed, with 101,526 signees. Update 5: 12pm: 145,570 and climbing *live coverage of the eu referendum fallout and prime minister david cameron's resignation* shape created with sketch. 6 ways britain leaving the eu will affect you show all 6 left created with sketch. Right created with sketch. Shape created with sketch. 6 ways britain leaving the eu will affect you 1/6 more expensive foreign holidays the first practical effect of a vote to leave is that the pound will be worth less abroad, meaning foreign holidays will cost us more nito100 2/6 no immediate change in immigration status the prime minister will have to address other immediate concerns. He is likely to reassure nationals of other eu countries living in the uk that their status is unchanged. That is what the leave campaign has said, so, even after the brexit negotiations are complete, those who are already in the uk would be allowed to stay getty 3/6 higher inflation a lower pound means that imports would become more expensive. This is likely to mean the return of inflation – a phenomenon with which many"
         ],
         "raw_document": [
             "What term do you want to search? search with google",
@@ -2123,7 +2118,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2262,7 +2257,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2287,7 +2282,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2337,7 +2332,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2366,12 +2361,11 @@
     },
     {
         "idx": 44386,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "At least 18-people were injured saturday in hong kong when a 150-foot-long escalator suddenly stopped and reversed, speeding up as it sent shoppers tumbling, the south china morning post reports. The escalator travels between the fourth and eighth floors of the shopping mall at langham place; it's one of the longest escalators in hong kong. It was acting as an \" up \" escalator saturday afternoon when what officials believe was a malfunction instantly turned it into a \" down \" escalator. Witnesses estimate it sped up to anywhere between twice and quadruple its normal speed. Shoppers lost their footing and fell, piling up at the bottom of the escalator. Others tried to run up it or jumped over the sides. \" i heard screaming, \" one witness says. \" people started to panic. \" another witness says the escalator reversed \" so sudden that people couldn't respond in time. \" one of the injured shoppers was in serious condition with a head injury. A spokesperson for langham place says the escalator passed its most recent inspection on thursday. Officials are investigating the cause of the malfunction. Video of the scary scene can be seen here and here.",
         "split": "train",
         "cleansed_document": [
-            "At least 18 people were injured in an escalator accident in a bustling mong kok shopping mall on saturday afternoon. Rescue workers rushed to langham place on argyle street after the one of longest indoor escalators in hong kong suddenly stopped and reversed direction at around 4pm saturday. Video footage obtained by the post showed the 45-metre-long escalator quickly changed directions at high speed, causing people to fall and pile up at the base of the escalator. In another video, some people could be heard screaming as others tumbled down the escalator. Others managed to grab the handrail and steady themselves. Eyewitnesses said the 14 women and three men lost their balance and rolled down the escalator. A police spokeswoman said one man suffered a head injury and was sent to queen elizabeth hospital. Langham place is a hk$ 11 billion urban renewal project which was completed in 2004. \"i was going up the escalator, and it was like two times faster than normal, \" a woman who injured her leg said at the scene. I was going up the escalator, and it was like two times faster than normal injured woman another woman said she saw the escalator increase speed during the accident, which lasted less than one minute. \"i heard people screaming... The escalator was going down but the speed accelerated, \" the woman, who identified herself as tina, said. \"people started to panic... And some fell down. \" she recalled that the same escalator had stopped for a few minutes earlier in the day, around noon. Lau kit-ying, who was eating at a nearby burger shop when the accident happened, said the speed of the escalator was around two or three times faster than normal. \"it was fast and people couldn't respond immediately... More than 10 people piled up near the base of the escalator afterwards, \" lau said. Broken chain may have caused hong kong mall escalator accident that injured almost 20 people she said she saw a man laying on the floor, bleeding. \"i ' m not sure if he was conscious, but a foreign man and a few mall staff helped stop his bleeding with a first aid kit, \" she said. \"but most of the [ injured ] were young people and they stood up quickly afterwards... I ' m glad that there wasn't any elderly at that time, \" she said. Judy chu, manager of a nearby dessert cafe, recalled the panic following the accident. \"some people ran",
-            "Published on mar 25, 2017 this major incident happened at langham place mong kok in hong kong on sat 25th march 2017 at a major shopping centre. It has one of the longest escalators in hong kong."
+            "At least 18 people were injured in an escalator accident in a bustling mong kok shopping mall on saturday afternoon. Rescue workers rushed to langham place on argyle street after the one of longest indoor escalators in hong kong suddenly stopped and reversed direction at around 4pm saturday. Video footage obtained by the post showed the 45-metre-long escalator quickly changed directions at high speed, causing people to fall and pile up at the base of the escalator. In another video, some people could be heard screaming as others tumbled down the escalator. Others managed to grab the handrail and steady themselves. Eyewitnesses said the 14 women and three men lost their balance and rolled down the escalator. A police spokeswoman said one man suffered a head injury and was sent to queen elizabeth hospital. Langham place is a hk$ 11 billion urban renewal project which was completed in 2004. \"i was going up the escalator, and it was like two times faster than normal, \" a woman who injured her leg said at the scene. I was going up the escalator, and it was like two times faster than normal injured woman another woman said she saw the escalator increase speed during the accident, which lasted less than one minute. \"i heard people screaming... The escalator was going down but the speed accelerated, \" the woman, who identified herself as tina, said. \"people started to panic... And some fell down. \" she recalled that the same escalator had stopped for a few minutes earlier in the day, around noon. Lau kit-ying, who was eating at a nearby burger shop when the accident happened, said the speed of the escalator was around two or three times faster than normal. \"it was fast and people couldn't respond immediately... More than 10 people piled up near the base of the escalator afterwards, \" lau said. Broken chain may have caused hong kong mall escalator accident that injured almost 20 people she said she saw a man laying on the floor, bleeding. \"i ' m not sure if he was conscious, but a foreign man and a few mall staff helped stop his bleeding with a first aid kit, \" she said. \"but most of the [ injured ] were young people and they stood up quickly afterwards... I ' m glad that there wasn't any elderly at that time, \" she said. Judy chu, manager of a nearby dessert cafe, recalled the panic following the accident. \"some people ran"
         ],
         "raw_document": [
             "At least 18 people were injured in an escalator accident in a bustling mong kok shopping mall on saturday afternoon. Rescue workers rushed to langham place on argyle street after the one of longest indoor escalators in hong kong suddenly stopped and reversed direction at around 4pm saturday. Video footage obtained by the post showed the 45-metre-long escalator quickly changed directions at high speed, causing people to fall and pile up at the base of the escalator. In another video, some people could be heard screaming as others tumbled down the escalator. Others managed to grab the handrail and steady themselves. Eyewitnesses said the 14 women and three men lost their balance and rolled down the escalator. A police spokeswoman said one man suffered a head injury and was sent to queen elizabeth hospital. Langham place is a hk$ 11 billion urban renewal project which was completed in 2004. \"i was going up the escalator, and it was like two times faster than normal, \" a woman who injured her leg said at the scene. I was going up the escalator, and it was like two times faster than normal injured woman another woman said she saw the escalator increase speed during the accident, which lasted less than one minute. \"i heard people screaming... The escalator was going down but the speed accelerated, \" the woman, who identified herself as tina, said. \"people started to panic... And some fell down. \" she recalled that the same escalator had stopped for a few minutes earlier in the day, around noon. Lau kit-ying, who was eating at a nearby burger shop when the accident happened, said the speed of the escalator was around two or three times faster than normal. \"it was fast and people couldn't respond immediately... More than 10 people piled up near the base of the escalator afterwards, \" lau said. Broken chain may have caused hong kong mall escalator accident that injured almost 20 people she said she saw a man laying on the floor, bleeding. \"i ' m not sure if he was conscious, but a foreign man and a few mall staff helped stop his bleeding with a first aid kit, \" she said. \"but most of the [ injured ] were young people and they stood up quickly afterwards... I ' m glad that there wasn't any elderly at that time, \" she said. Judy chu, manager of a nearby dessert cafe, recalled the panic following the accident. \"some people ran",
@@ -2386,19 +2380,18 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 44387,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A cia analyst known for his dire economic predictions is speaking up again, warning that the next great depression may be right around the corner. Jim rickards, a \" financial threat and asymmetric warfare adviser \" for the cia, tells money morning that americans should be preparing for a $ 100 trillion financial catastrophe. \" everybody knows we have a dangerous level of debt, \" he says. \" everybody knows the fed has recklessly printed trillions of dollars.... But all signs are now flashing bright red that our chickens are about to come home to roost. \" another reason for gloom: according to rickards, the so-called misery index maintained by the federal reserve contains far worse data than most people believe. The misery index adds the true unemployment rate with the true inflation rate, but rickards contends that the fed has altered the index's calculations in order to hide the truth — that \" the misery index has reached more dangerous levels than we saw prior to the great depression, \" he says. \" this is a signal of a complex system that's about to collapse. \" his prediction? a \" 70 % stock market crash \" followed by a 25-year depression, possibly sparked by a \" major credit collapse \" in china, he tells reuters. His advice? invest in \" hard assets \" like railroads, coal, wheat, or gold. Again, he's not known for mild predictions: in a recent monthly newsletter, rickards claimed that by 2020, all g-20 gold will be hidden under a swiss mountain to keep it away from the world's economic system, goldseek reports.",
         "split": "train",
         "cleansed_document": [
             "Meet the editor jim rickards is the editor of jim rickards'strategic intelligence. He's an american lawyer, economist, and investment banker with 35 years of experience working in capital markets on wall street. Rickards advised clients of the impending 2008 financial collapse, of a decline in the dollar and a sharp rise in the price of gold, all years in advance. Rickards is the author of the new york times bestseller currency wars, published in 2011 and the death of money, published in 2014. View more peter coyne is the managing editor of the daily reckoning and jim rickards'strategic intelligence. He received his degree in economics and political science from",
             "Cia insider warns: \" 25-year great depression is about to strike america \" you will want to remember this date. According to one of the top minds in the u.s. Intelligence community, that is when the united states will enter the darkest economic period in our nation's history. A 25-year great depression. Does this signal the end of the dollar? an alarming pattern has caused many in the intelligence community to secretly prepare for a \" worst-case scenario. \" click here to see it.... An alarming pattern has caused many in the intelligence community to secretly prepare for a \" worst-case scenario. \" and alarmingly, he and his colleagues believe the evidence they",
-            "New york ever wondered when the next financial crisis will be? possibly in just a couple of years with the \" coming collapse of the international monetary system. \" that is the not-so-subtle subtitle of jim rickards ' bestselling book, \" the death of money \". As you might gather, the portfolio manager at investment-management firm west shore group doesn't foresee a smooth ride ahead for investors. Think 2008, but worse. Reuters sat down with rickards recently, to chat about how much we should be trusting the numbers in our bank accounts. Q: most people assume that the money in their wallets is safe and secure. But is it really?",
-            "-- published: sunday, 19 october 2014 &#124; print &#124; disqus by peter cooper in what pretends to be a history looking back from the future 'currency wars ' author and fund manager jim rickards argues that by 2020 all the gold of the g-20 nations will be confiscated and buried in a former nuclear bunker under a mountain in switzerland to take it out of the global financial system. This is the conclusion to the astonishing tour de force article that kicks off his new monthly newsletter 'rickards'strategic intelligence ' for agora financial, publisher of highly successful financial newsletters like chris mayers \"capital &amp; crisis '. Has the normally sober and thoughful mr. Rickards lost his marbles"
+            "New york ever wondered when the next financial crisis will be? possibly in just a couple of years with the \" coming collapse of the international monetary system. \" that is the not-so-subtle subtitle of jim rickards ' bestselling book, \" the death of money \". As you might gather, the portfolio manager at investment-management firm west shore group doesn't foresee a smooth ride ahead for investors. Think 2008, but worse. Reuters sat down with rickards recently, to chat about how much we should be trusting the numbers in our bank accounts. Q: most people assume that the money in their wallets is safe and secure. But is it really?"
         ],
         "raw_document": [
             "Meet the editor jim rickards is the editor of jim rickards'strategic intelligence. He's an american lawyer, economist, and investment banker with 35 years of experience working in capital markets on wall street. Rickards advised clients of the impending 2008 financial collapse, of a decline in the dollar and a sharp rise in the price of gold, all years in advance. Rickards is the author of the new york times bestseller currency wars, published in 2011 and the death of money, published in 2014. View more peter coyne is the managing editor of the daily reckoning and jim rickards'strategic intelligence. He received his degree in economics and political science from",
@@ -2417,7 +2410,7 @@
             "0": 0,
             "1": 2,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -2497,7 +2490,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2552,7 +2545,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2602,7 +2595,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2627,7 +2620,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {

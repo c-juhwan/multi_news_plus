@@ -46,7 +46,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -105,13 +105,12 @@
     },
     {
         "idx": 34204,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "With donald trump the last gop presidential candidate standing, some conservatives are starting to get nervous about the supreme court. \" there is absolutely no reason to drag this out any longer, \" managing editor leon wolf writes at conservative blog redstate. \" garland is not a great choice, but he is not a terrible one, either. \" wolf believes that, deep down, republicans know trump is going to lose, and hillary clinton would be likely to nominate someone younger and more liberal than obama's choice, merrick garland. Wolf calls garland a \" gift that should not be squandered \" and says, \" if i were the republicans, my main concern right now would be that barack obama would withdraw garland's nomination today. \" he might not be wrong to worry. The huffington post cites polling that shows trump would lose 47 % to 40 % to clinton in november while being the \" least popular major party nominee in modern history. \" and a more liberal, clinton-nominated justice would be a \" tectonic shift of power on the court. \" but not everyone agrees. A former redstate editor says senate republicans confirming garland would send a message to voters that they've given up hope, politico reports. Meanwhile, mitch mcconnell still refuses to hear garland's nomination. \" republicans continue to believe that the american people should have a voice in this decision and the next president should make the nomination, \" a mcconnell spokesperson tells nbc news.",
         "split": "train",
         "cleansed_document": [
             "Hours after donald trump became the likely gop nominee, the conservative website redstate urged the senate to confirm president barack obama's supreme court nominee merrick garland. Site managing editor leon wolf argued that trump can't beat likely democratic nominee hillary clinton — and warned that she would chose somebody more liberal than garland. \"republicans must know that there is absolutely no chance that we will win the white house in 2016 now. They must also know that we are likely to lose the senate as well. So the choices, essentially, are to confirm garland and have another bite at the apple in a decade, or watch as president clinton nominates someone who is radically more leftist and 10-15 years younger, and we are in no position to stop it, \" wolf wrote on redstate. President barack obama, with vice president joe biden, announces his supreme court nominee, merrick",
-            "\"there is absolutely no reason to drag this out any longer, \" redstate.com managing editor leon wolf wrote. \"garland is not a great choice, but he is not a terrible one, either. \" &#124; ap photo conservative blog calls for gop to confirm merrick garland redstate has a message for senate republicans: confirm merrick garland for the supreme court now — before hillary clinton picks someone much worse next year. Leon wolf, the managing editor of conservative blog redstate.com, wrote in a post wednesday that with ted cruz dropping out of the race for the gop nomination and donald trump positioned to take it, \"this is not even a close call. \" story continued below \"there is absolutely no reason to drag this out any longer, \" wolf wrote. \"garland is not a great choice, but he is not a terrible one, either. \" after writing that \"republicans must know \" they will",
-            "Washington -- senate majority leader mitch mcconnell ( r-ky. ) is continuing his no-holds-barred blockade of merrick garland, president barack obama's nominee to the supreme court, despite the risk that he may get a less palatable choice from presumptive gop presidential nominee donald trump, a spokesman for mcconnell confirmed wednesday. The conservative wing of the party, angry with trump's record and principles, is up in arms at gop officials for coming around to the brash businessman. Some elected officials and party members on tuesday made clear they would rather disown the gop -- one even burned his registration card -- than vote for the real estate tycoon. Some conservatives are even urging the gop to cut its losses and confirm garland, a mostly middle-of-the-road u.s. Court of appeals judge widely respected by members of both parties, rather than deal with a more liberal nominee if democratic presidential front-runner hillary clinton trounces trump"
+            "\"there is absolutely no reason to drag this out any longer, \" redstate.com managing editor leon wolf wrote. \"garland is not a great choice, but he is not a terrible one, either. \" &#124; ap photo conservative blog calls for gop to confirm merrick garland redstate has a message for senate republicans: confirm merrick garland for the supreme court now — before hillary clinton picks someone much worse next year. Leon wolf, the managing editor of conservative blog redstate.com, wrote in a post wednesday that with ted cruz dropping out of the race for the gop nomination and donald trump positioned to take it, \"this is not even a close call. \" story continued below \"there is absolutely no reason to drag this out any longer, \" wolf wrote. \"garland is not a great choice, but he is not a terrible one, either. \" after writing that \"republicans must know \" they will"
         ],
         "raw_document": [
             "Hours after donald trump became the likely gop nominee, the conservative website redstate urged the senate to confirm president barack obama's supreme court nominee merrick garland. Site managing editor leon wolf argued that trump can't beat likely democratic nominee hillary clinton — and warned that she would chose somebody more liberal than garland. \"republicans must know that there is absolutely no chance that we will win the white house in 2016 now. They must also know that we are likely to lose the senate as well. So the choices, essentially, are to confirm garland and have another bite at the apple in a decade, or watch as president clinton nominates someone who is radically more leftist and 10-15 years younger, and we are in no position to stop it, \" wolf wrote on redstate. President barack obama, with vice president joe biden, announces his supreme court nominee, merrick",
@@ -128,7 +127,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -233,7 +232,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -371,12 +370,11 @@
     },
     {
         "idx": 34214,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Dave matthews band will take the stage in their hometown for a concert to benefit the victims of violence in charlottesville, va. The sept. 24 concert at the university of virginia will be the only live performance of the year for the band, which was first to suggest such a event, according to the school. A slew of other performers will also appear for \" an evening of music and unity, \" including justin timberlake, pharrell williams, ariana grande, and the roots, per variety. Tickets can be requested through the concert website until monday and are free, though donations to the concert fund are strongly encouraged.",
         "split": "train",
         "cleansed_document": [
-            "Performances by dave matthews band, justin timberlake, pharrell and ariana grande will be among the highlights of a blockbuster free concert scheduled for scott stadium on sept. 24. \"a concert for charlottesville \" promises to energize and uplift the community in a celebration of inclusion. Dave matthews band, host of the \"evening of music and unity, \" generated the idea of the multi-act show following the violent demonstrations at uva on aug. 11 and in downtown charlottesville on aug. 12. \"a concert for charlottesville \" will feature dave matthews band, pharrell williams, justin timberlake, ariana grande, chris stapleton, brittany howard of alabama shakes, the roots, cage the elephant and special guests. The concert is produced by live nation, starr hill presents and the university of virginia. For dave matthews band, formed in charlottesville in 1991, \"a concert for charlottesville \" will be the iconic band's only live performance of 2017. While tickets are free, attendees are encouraged to make a donation to the \"concert for charlottesville fund \" at the charlottesville area community foundation. Donations can be made here. Beneficiaries of the fund will include victims of the events in charlottesville on aug. 11 and 12, and their families, first responders, and organizations devoted to the promotion of healing, unity and justice locally and nationwide. Tickets will be allocated initially to residents of the greater charlottesville area, and also to uva students, faculty and staff. An online ticket request period is currently underway at www.concertforcharlottesville.com and will end on monday, sept. 11, at noon",
-            "Heal charlottesville the heal charlottesville fund was founded in response to the white supremacist attacks in charlottesville in august of 2017. Throughout the summer, charlottesville was terrorized by white supremacists and ku klux klan members, culminating in two days of violent clashes and a car attack. Our community was deeply saddened by the loss of heather heyer, lt. H. Jay cullen, and trooper berke bates. A generous outpouring of support resulted in the creation of three funds: heal charlottesville, concert for charlottesville, and unity cville. These funds are housed at the community foundation and are coordinating their work to help injured individuals, ensure trauma counseling services for the community, and address the impacts of structural racism. Overview of distributed funds we are extremely grateful to all who responded to the events of last summer by making a generous financial gift. Please find the complete list of contributors here. More than 3,000 people made a contribution to the heal charlottesville or concert for charlottesville funds. We received gifts from across the country, from individuals and businesses alike, and at all levels of giving. The charlottesville community is deeply grateful for your overwhelming show of support."
+            "Performances by dave matthews band, justin timberlake, pharrell and ariana grande will be among the highlights of a blockbuster free concert scheduled for scott stadium on sept. 24. \"a concert for charlottesville \" promises to energize and uplift the community in a celebration of inclusion. Dave matthews band, host of the \"evening of music and unity, \" generated the idea of the multi-act show following the violent demonstrations at uva on aug. 11 and in downtown charlottesville on aug. 12. \"a concert for charlottesville \" will feature dave matthews band, pharrell williams, justin timberlake, ariana grande, chris stapleton, brittany howard of alabama shakes, the roots, cage the elephant and special guests. The concert is produced by live nation, starr hill presents and the university of virginia. For dave matthews band, formed in charlottesville in 1991, \"a concert for charlottesville \" will be the iconic band's only live performance of 2017. While tickets are free, attendees are encouraged to make a donation to the \"concert for charlottesville fund \" at the charlottesville area community foundation. Donations can be made here. Beneficiaries of the fund will include victims of the events in charlottesville on aug. 11 and 12, and their families, first responders, and organizations devoted to the promotion of healing, unity and justice locally and nationwide. Tickets will be allocated initially to residents of the greater charlottesville area, and also to uva students, faculty and staff. An online ticket request period is currently underway at www.concertforcharlottesville.com and will end on monday, sept. 11, at noon"
         ],
         "raw_document": [
             "Performances by dave matthews band, justin timberlake, pharrell and ariana grande will be among the highlights of a blockbuster free concert scheduled for scott stadium on sept. 24. \"a concert for charlottesville \" promises to energize and uplift the community in a celebration of inclusion. Dave matthews band, host of the \"evening of music and unity, \" generated the idea of the multi-act show following the violent demonstrations at uva on aug. 11 and in downtown charlottesville on aug. 12. \"a concert for charlottesville \" will feature dave matthews band, pharrell williams, justin timberlake, ariana grande, chris stapleton, brittany howard of alabama shakes, the roots, cage the elephant and special guests. The concert is produced by live nation, starr hill presents and the university of virginia. For dave matthews band, formed in charlottesville in 1991, \"a concert for charlottesville \" will be the iconic band's only live performance of 2017. While tickets are free, attendees are encouraged to make a donation to the \"concert for charlottesville fund \" at the charlottesville area community foundation. Donations can be made here. Beneficiaries of the fund will include victims of the events in charlottesville on aug. 11 and 12, and their families, first responders, and organizations devoted to the promotion of healing, unity and justice locally and nationwide. Tickets will be allocated initially to residents of the greater charlottesville area, and also to uva students, faculty and staff. An online ticket request period is currently underway at www.concertforcharlottesville.com and will end on monday, sept. 11, at noon",
@@ -391,7 +389,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -419,7 +417,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -500,7 +498,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -609,7 +607,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -637,7 +635,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -690,7 +688,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -838,7 +836,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -947,17 +945,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 34235,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Ebola survivor dr. Ian crozier was released from atlanta's emory university hospital in october when his blood showed no sign of the virus. His ebola troubles weren't over, though. Two months later, he developed inflammation, searing pain, and high blood pressure in his left eye; he could soon see only the movement of a doctor's fingers. One day, his blue iris suddenly turned green. When a doctor drained fluid from the eye, it tested positive for ebola, though crozier's tears and surrounding tissue were clear of it, meaning those who came in casual contact with him weren't in danger, the ap reports. How surprised were doctors? shocked. The one who drew the fluid hadn't even donned a protective mask when he did so. With treatment from an unnamed experimental antiviral drug and a steroid injection, crozier began to regain sight in his eye. Even more remarkable, however, is that his iris changed back to blue — a reversal so rare that a professor of ophthalmology at harvard medical school tells the new york times he's never seen such a thing happen in his 40-year career. Doctors say the case is basically a mystery. Though ebola can remain in semen for months after it leaves a person's blood, doctors weren't aware it could lurk in other body fluids, though other ebola survivors have reported eye problems. One doctor at a clinic in liberia says about 40 % of survivors there have reported eye pain, inflammation, blurred vision, and blind spots, the new york times reports. Experts say the virus may linger in the eye because, like testicles, it is \" immune-privileged, \" meaning it's mostly blocked off from the immune system as a way to ward against vision-damaging inflammation, explains the times. This can also allow viruses to replicate unhindered. Read more on the fascinating color-change mystery at the times.",
         "split": "train",
         "cleansed_document": [
-            "For the first time, ebola has been discovered inside the eyes of a patient months after the virus was gone from his blood. This undated colorized transmission electron micrograph image made available by the cdc shows an ebola virus virion. For the first time, ebola has been discovered inside the eyes of a patient months after... ( associated press ) ebola has infected more than 26,000 people since december 2013 in west africa. Some survivors have reported eye problems but how often they occur isn't known. The virus also is thought to be able to persist in semen for several months. The new report concerns dr. Ian crozier, a 43-year-old american physician diagnosed with ebola in september while working with the world health organization in sierra leone. He was treated at emory university hospital's special ebola unit in atlanta and released in october when ebola was no longer detected in his blood. Two months later, he developed an inflammation and very high blood pressure in one eye, which causes swelling and potentially serious vision problems. He returned to emory, where ophthalmologist dr. Steven yeh drained some of the fluid and had it tested for ebola. It contained the virus but tears and tissue around the outside of his eye did not. That suggests that casual contact with an ebola survivor poses no public health risk, but shows that",
-            "A previously healthy 43-year-old male physician received a diagnosis of evd on september 6, 2014, while he was working in an ebola treatment unit in kenema, sierra leone. He was transferred to emory university hospital in atlanta and arrived 4 days after the onset of symptoms. He was treated with an experimental small interfering rna antiviral agent ( tkm-100802, tekmira pharmaceuticals ), convalescent plasma, and aggressive supportive care.5 the hospital course was complicated by multiorgan system failure requiring mechanical ventilation for 12 days and hemodialysis for 24 days.6 after extubation, the patient had altered mental status, difficulty walking related to severe proximal weakness and deconditioning, and extreme fatigue. On day 44 of the illness, hemodialysis was no longer required and his mental status had markedly improved, with some residual mild word-finding difficulty. Ambulation was limited to short distances because of exertional fatigue. Blood and urine tested negative for ebov on quantitative reverse-transcriptase – polymerase-chain-reaction ( rt-pcr ) assay on serial specimens, and he was discharged home. A semen sample obtained on the day of discharge was positive for ebov rna on quantitative rt-pcr assay, and ebov was isolated from semen by means of culture at the centers for disease control and prevention ( cdc ).7 the patient was advised to abstain from sex or to use condoms for at least 3 months.8 longitudinal monitoring of semen specimens for ebov is"
+            "For the first time, ebola has been discovered inside the eyes of a patient months after the virus was gone from his blood. This undated colorized transmission electron micrograph image made available by the cdc shows an ebola virus virion. For the first time, ebola has been discovered inside the eyes of a patient months after... ( associated press ) ebola has infected more than 26,000 people since december 2013 in west africa. Some survivors have reported eye problems but how often they occur isn't known. The virus also is thought to be able to persist in semen for several months. The new report concerns dr. Ian crozier, a 43-year-old american physician diagnosed with ebola in september while working with the world health organization in sierra leone. He was treated at emory university hospital's special ebola unit in atlanta and released in october when ebola was no longer detected in his blood. Two months later, he developed an inflammation and very high blood pressure in one eye, which causes swelling and potentially serious vision problems. He returned to emory, where ophthalmologist dr. Steven yeh drained some of the fluid and had it tested for ebola. It contained the virus but tears and tissue around the outside of his eye did not. That suggests that casual contact with an ebola survivor poses no public health risk, but shows that"
         ],
         "raw_document": [
             "For the first time, ebola has been discovered inside the eyes of a patient months after the virus was gone from his blood. This undated colorized transmission electron micrograph image made available by the cdc shows an ebola virus virion. For the first time, ebola has been discovered inside the eyes of a patient months after... ( associated press ) ebola has infected more than 26,000 people since december 2013 in west africa. Some survivors have reported eye problems but how often they occur isn't known. The virus also is thought to be able to persist in semen for several months. The new report concerns dr. Ian crozier, a 43-year-old american physician diagnosed with ebola in september while working with the world health organization in sierra leone. He was treated at emory university hospital's special ebola unit in atlanta and released in october when ebola was no longer detected in his blood. Two months later, he developed an inflammation and very high blood pressure in one eye, which causes swelling and potentially serious vision problems. He returned to emory, where ophthalmologist dr. Steven yeh drained some of the fluid and had it tested for ebola. It contained the virus but tears and tissue around the outside of his eye did not. That suggests that casual contact with an ebola survivor poses no public health risk, but shows that",
@@ -972,18 +969,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 34236,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Two limo drivers, a housekeeper, a teacher, and a small-business owner finally have enough money to form a village people for the new millennium after winning a $ 106 million lottery jackpot last month. But, they ' ll probably just use it for travel or something. Wnbc-tv reports the five friends — announced as winners thursday — have been buying lottery tickets together for a decade. Last month, it was limo driver edgar lopez's turn to buy the ticket, which he did at a convenience store in yonkers, new york, according to cbs new york. After the numbers were announced, lopez had some news to deliver. \" i told them that something good has happened, \" he tells wabc-tv. Wnbc reports the five longtime friends will be splitting the winnings evenly, with each getting a check for approximately $ 8.5 million. \" we promised each other that we would split the prize if we ever won, \" lopez says. \" we have worked hard all of our lives, and to have this happen is just amazing. \" some of the winners are planning trips to france and miami, while others say they ' ll save their share of the prize. But it wasn't just a big win for lopez and his friends. According to the journal news, the yonkers convenience store that sold the ticket gets a $ 10,000 cut, which store owner sammy patel says he ' ll share with his employees. \" this is good for my store, \" he tells the journal news. \" it's a lucky store, maybe. \" ( a 7-eleven clerk's mistake won a man $ 380,000. )",
         "split": "train",
         "cleansed_document": [
             "For more than 10 years, five friends would pool their money and take turns to buy lottery tickets for the mega millions jackpot. It was 52-year-old edgar lopez's turn when he bought the winning quick pick ticket for a jackpot of $ 106 million.lopez, a limousine driver from yonkers, went to yonkers grocery and convenience on yonkers avenue to buy a ticket for the sept. 11 mega millions drawing. \" we take turns buying tickets and it was my turn, \" said lopez in a news release from the nys gaming commission. Lopez told his friends that they won the jackpot the weekend following the drawing. \" i told them that something good has happened, \" he said, giving them all a copy of the winning ticket.the winning numbers from the drawing were 05, 11, 31, 50, 67 and the mega ball was 14.the other lucky winners and long time friends of lopez include: husband and wife manuel hernandez, 45, also a limousine driver from yonkers, and acela hernandez",
-            "Two limo drivers, a housekeeper, a teacher and a small-business owner are splitting a $ 106 million mega millions jackpot drawn last month. Lottery officials in new york introduced the group of five friends to the public thursday. Limo driver edgar lopez purchased the ticket for the sept. 11 drawing at yonkers grocery and convenience in yonkers when it was his turn to buy the group's pool ticket. Storm team 4 blizzard watch announced as region prepares for nor ' easter after the drawing, lopez had very good news for his longtime friends-turned-mega-millionaires. \" i told them that something good has happened, \" he said. \" we won the lottery and i gave them all a copy of the ticket. \" the week in pictures: jarramplas, pakistan attacks, and more lopez is splitting the winnings with 45-year-old limo driver manuel hernandez, 51-year-old housekeeper acela hernandez, 45-year-old day care teacher angela pajes and 47-year-old hvac business owner miguel acosta, for a lump individual sum of $ 13,102,595 or a net check of",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Two limo drivers, a housekeeper, a teacher and a small-business owner are splitting a $ 106 million mega millions jackpot drawn last month. Lottery officials in new york introduced the group of five friends to the public thursday. Limo driver edgar lopez purchased the ticket for the sept. 11 drawing at yonkers grocery and convenience in yonkers when it was his turn to buy the group's pool ticket. Storm team 4 blizzard watch announced as region prepares for nor ' easter after the drawing, lopez had very good news for his longtime friends-turned-mega-millionaires. \" i told them that something good has happened, \" he said. \" we won the lottery and i gave them all a copy of the ticket. \" the week in pictures: jarramplas, pakistan attacks, and more lopez is splitting the winnings with 45-year-old limo driver manuel hernandez, 51-year-old housekeeper acela hernandez, 45-year-old day care teacher angela pajes and 47-year-old hvac business owner miguel acosta, for a lump individual sum of $ 13,102,595 or a net check of"
         ],
         "raw_document": [
             "For more than 10 years, five friends would pool their money and take turns to buy lottery tickets for the mega millions jackpot. It was 52-year-old edgar lopez's turn when he bought the winning quick pick ticket for a jackpot of $ 106 million.lopez, a limousine driver from yonkers, went to yonkers grocery and convenience on yonkers avenue to buy a ticket for the sept. 11 mega millions drawing. \" we take turns buying tickets and it was my turn, \" said lopez in a news release from the nys gaming commission. Lopez told his friends that they won the jackpot the weekend following the drawing. \" i told them that something good has happened, \" he said, giving them all a copy of the winning ticket.the winning numbers from the drawing were 05, 11, 31, 50, 67 and the mega ball was 14.the other lucky winners and long time friends of lopez include: husband and wife manuel hernandez, 45, also a limousine driver from yonkers, and acela hernandez",
@@ -1000,7 +996,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1056,7 +1052,7 @@
             "0": 0,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1088,13 +1084,12 @@
     },
     {
         "idx": 34240,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Santa claus came early to the toys r us store in raleigh, nc, on friday, even as 800 toys r us stores across the country prepared to close their doors for good. According to cbs, an anonymous good samaritan paid $ 1 million to purchase all the toys that remained in the raleigh store, so instead of selling the last remaining toys to last-minute shoppers, the staff put a \"closed \" sign on the door and spent the last day boxing up toys for the buyer. Shoppers who showed up hoping for bargains didn't seem put out when they arrived and were told that the toys had been sold to a donor. \"oh wow, that's nice, \" said vivian smith, when she heard the news. The toy store chain, which opened in 1948 as children's bargain town, per cnbc, filed for bankruptcy in september and announced in january that it would close 180 stores, according to the deseret news. In february it announced that an additional 200 stores would close, and on march 14, the company confirmed that all stores in the us would be closing, per newsweek. The company is continuing to operate stores in europe and australia, as well as 255 licensed stores and joint venture partnerships in asia, which were not part of the bankruptcy filing. Meanwhile, shoppers in raleigh would like to thank the mysterious donor. \"i like the idea of donating the toys. That's pretty rad, \" customer dan paulson told cbs. \"maybe it's bill gates, \" another shopper quipped.",
         "split": "train",
         "cleansed_document": [
             "Salt lake city — children of the millennial generation, get ready to have your heart shattered. A heartbreaking photo of toys r us mascot geoffrey the giraffe leaving the toy store went viral thursday, the day before the retail chain closed the rest of its stores. The photo depicts geoffrey leaving the empty toy store while holding a suitcase and saying goodbye to the empty shelves. Rene johnpiere, who is believed to be a toys r us employee, shared the photo along with other pictures of the empty store, according to cbs news. Several stores that have run out of stock closed, according to aol. Many of those stores held clearance sales that sold products with 60 to 90 percent-off discounts. The company announced back in september 2017 plans to file for bankruptcy, according to the deseret news. It was only a few months later in january 2018 that the chain announced",
-            "A photo of beloved toys r us mascot geoffrey has gone viral after he was snapped with a small suitcase, saying goodbye to the chain. The toy store chain announced in march they would be closing down and the few remaining stores are closing for good this week. Decked out in a shirt, sunglasses and a hat, the giraffe waves goodbye at the camera as it prepares to depart with its green luggage. The mascot stood surrounded by empty shelves and space, presumably in a toys r us store. Rene johnpiere, who is believed to have worked for toys r us, uploaded the image to social media on wednesday. It has been shared almost 300,000 times since. She also shared photos of the store closing for the last time, with final day sale posters plastered across the shop. Toys r us filed for bankruptcy in a september in a bid to stay",
-            "We went to toys r us on its second to last day 1: 29 pm et thu, 9 aug 2018 &#124; 05: 53 the famous toy retailer toys r us is finally closing up shop at more than 800 stores across america on friday. In the lead-up to its final day, the retailer slashed prices to move its inventory. Toys r us has long been a staple in american retail history. The store first opened in 1948 under its original name, children's bargain town. Almost a decade later, owner charles lazarus rebranded his stores with what would become a household name, toys r us. It soon became the one-stop shop for buying toys. Toys r us became one of the most popular stores in the country in the 1980s and 1990s. In 2005, toys r us was scooped up by a trio of investors, which loaded the company"
+            "A photo of beloved toys r us mascot geoffrey has gone viral after he was snapped with a small suitcase, saying goodbye to the chain. The toy store chain announced in march they would be closing down and the few remaining stores are closing for good this week. Decked out in a shirt, sunglasses and a hat, the giraffe waves goodbye at the camera as it prepares to depart with its green luggage. The mascot stood surrounded by empty shelves and space, presumably in a toys r us store. Rene johnpiere, who is believed to have worked for toys r us, uploaded the image to social media on wednesday. It has been shared almost 300,000 times since. She also shared photos of the store closing for the last time, with final day sale posters plastered across the shop. Toys r us filed for bankruptcy in a september in a bid to stay"
         ],
         "raw_document": [
             "Salt lake city — children of the millennial generation, get ready to have your heart shattered. A heartbreaking photo of toys r us mascot geoffrey the giraffe leaving the toy store went viral thursday, the day before the retail chain closed the rest of its stores. The photo depicts geoffrey leaving the empty toy store while holding a suitcase and saying goodbye to the empty shelves. Rene johnpiere, who is believed to be a toys r us employee, shared the photo along with other pictures of the empty store, according to cbs news. Several stores that have run out of stock closed, according to aol. Many of those stores held clearance sales that sold products with 60 to 90 percent-off discounts. The company announced back in september 2017 plans to file for bankruptcy, according to the deseret news. It was only a few months later in january 2018 that the chain announced",
@@ -1111,7 +1106,7 @@
         "vote_count": {
             "0": 2,
             "1": 2,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1171,14 +1166,13 @@
     },
     {
         "idx": 34243,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Work-life balance is the american worker's goal, but for japanese employees, work and life may be one and the same. The washington post takes a look at japan's toil-til-you-drop culture, where 12-hour days are typical and there's even a word ( \" karoshi \" ) that means \" death by overwork. \" it's not a metaphor, either: stats from japan's labor ministry show nearly 200 karoshi deaths — including suicides, heart attacks, and strokes, the latter two often symptoms of stress and lack of sleep, the post notes — in 2015, though some say they may have numbered in the thousands. Victims tend to be in their 20s and male, though more women are succumbing to the trend: the labor ministry says work-related suicides among women rose 39 % over the last four years, per the international business times; the health care, social services, shipping, and construction industries see the most cases. \" it's... Not rare in japan for people in their early 30s to have heart attacks, \" says hiroshi kawahito, a victims ' advocacy group lawyer who himself has \" cut back \" to 60 hours a week at age 66. It's an issue with financial repercussions for the government, which offers compensation to families of those officially deemed karoshi victims; there was a record high of 2,310 karoshi claims in the year ending in march, per government calculations ( though only about one-third of claims are usually accepted ). The problem is complicated by the fact that workers in japan tend to stick with one company for the long haul, making it hard to resist a company's overworked culture, and the country's aging population means fewer people in the workforce and greater workloads for those who keep punching a time clock. The government has passed legislation to cut working hours ( kawahito claims those efforts are mostly propaganda, per reuters ) and encourages vacation time. But one kansai university professor says destroying karoshi will take more than a few simple rule changes. \" long working hours are the root of all evil in japan, \" he notes. \" people are so busy they don't even have the time to complain. \" ( long workdays could lead to a risky habit. )",
         "split": "train",
         "cleansed_document": [
             "Kiyoshi, left, and mitsuko serizawa sit in their living room with a portrait of their son, kiyotaka, who killed himself a year ago after working 90-hour weeks as a supervisor at a building maintenance company ( anna fifield/the washington post ) in the united states, there's no end to stories and listicles and books telling you how to work more productively so you can spend more time with your family or doing the things you love. In japan, there's not even a term for \"work-life balance. \" what there is, though, is a word for \"death by overwork. \" it's \"karoshi, \" and it's considered such an",
             "Tokyo ( reuters ) - japan is witnessing a record number of compensation claims related to death from overwork, or \"karoshi \", a phenomenon previously associated with the long-suffering \"salary man \" that is increasingly afflicting young and female employees. Labor demand, with 1.28 jobs per applicant, is the highest since 1991, which should help prime minister shinzo abe draw more people into the workforce to counter the effect of a shrinking population, but lax enforcement of labor laws means some businesses are simply squeezing more out of employees, sometimes with tragic consequences. Claims for compensation for karoshi rose to a record high of 1,456 in the year to end-march 2015, according to labor ministry",
-            "Death by overwork is on the rise among japan's workers. The country is now seeing a record number of compensation claims relating to death from overwork or karoshi. According to labour ministry data, claims for compensation for karoshi rose to a record high of 1,456 in the year ending march 2015. Most of the cases pertained to the health care, social services, shipping and construction industries. All these industries are facing severe worker shortages. According to the japan times, labour demand, at 1.28 jobs per applicant, is at its highest since 1991. However lax enforcement of labour laws effectively means that some businesses try to get as much as they can from their",
-            "It's true: your job is killing you. ( istockphoto ) for decades now, the modern worker has been urged to slow down, chill out, de-stress. Doctors link long shifts and on-the-job anxiety to high blood pressure, heart disease, depression and stroke. Many think the consequences can be fatal. In japan, the government compensates families who lose loved ones to employment-related exhaustion or suicide. The japanese call this phenomenon karoshi, or death by overwork. Yet, so far, the connection between job strain and bad health has mostly been correlational — we haven't known whether stressful jobs directly cause our health to deteriorate. Surveys show that"
+            "Death by overwork is on the rise among japan's workers. The country is now seeing a record number of compensation claims relating to death from overwork or karoshi. According to labour ministry data, claims for compensation for karoshi rose to a record high of 1,456 in the year ending march 2015. Most of the cases pertained to the health care, social services, shipping and construction industries. All these industries are facing severe worker shortages. According to the japan times, labour demand, at 1.28 jobs per applicant, is at its highest since 1991. However lax enforcement of labour laws effectively means that some businesses try to get as much as they can from their"
         ],
         "raw_document": [
             "Kiyoshi, left, and mitsuko serizawa sit in their living room with a portrait of their son, kiyotaka, who killed himself a year ago after working 90-hour weeks as a supervisor at a building maintenance company ( anna fifield/the washington post ) in the united states, there's no end to stories and listicles and books telling you how to work more productively so you can spend more time with your family or doing the things you love. In japan, there's not even a term for \"work-life balance. \" what there is, though, is a word for \"death by overwork. \" it's \"karoshi, \" and it's considered such an",
@@ -1197,7 +1191,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1252,14 +1246,13 @@
     },
     {
         "idx": 34246,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "More potential contenders for the gop's 2016 presidential nomination are lining up, and they include some very familiar faces. First up: sarah palin, who yesterday told the washington post that \" you can absolutely say that i am seriously interested \" in a run. That followed similar comments on abc news. \" when you have a servant's heart, when you know that there is opportunity to do all you can to put yourself forward in the name of offering service, anybody would be interested, \" she told abc. But it seems she lacks what donald trump sees as an essential qualification: being donald trump. \" i ' m the one person who can make this country great again, that's all i know, \" he said in iowa today, as cnn reports. \" nobody else can. \" those who can't apparently include jeb bush and mitt romney, both of whom, he said, would \" ultimately fail. \" \" you can't have romney; he choked, \" he said, as the los angeles times reports. And \" the last thing we need is another bush. \" trump, however, could have beaten president obama and could also beat hillary clinton, he says.",
         "split": "train",
         "cleansed_document": [
             "Just before she heads to iowa for the first major conservative showcase of the 2016 election cycle, sarah palin said \"of course \" she's interested in the 2016 presidential election. Interested in? add as an interest to stay up to date on the latest news, video, and analysis from abc news. Add interest \"yeah, i mean, of course, when you have a servant's heart, when you know that there is opportunity to do all you can to put yourself forward in the name of offering service, anybody would be interested, \" palin told abc news ' neal karlinsky while serving wild boar chili to the homeless in las vegas",
             "Sarah palin speaking a5 a trade show this week in las vegas. ( john locher/ap ) des moines — former alaska governor sarah palin told the washington post in an interview friday that she is \"seriously interested \" in running for the white house in 2016. \"you can absolutely say that i am seriously interested, \" palin said, when asked to clarify her thinking about a possible presidential bid. Palin, the gop's 2008 vice-presidential nominee, said she stood by comments she made thursday in las vegas to abc news, where she first expressed enthusiasm about potentially competing for the republican presidential nomination. \"i am. As i said yesterday, i ' m really interested",
-            "Washington ( cnn ) with a clinton, a bush and a romney all seriously teasing presidential runs, why not a palin? why not, indeed. Sarah palin, the former alaska governor and 2008 gop vice presidential candidate was asked by abc news if she's interested in running for the white house. \" of course, \" she said during the interview, which was conducted as she served wild boar chili to the homeless in las vegas. \" yeah, i mean, of course, when you have a servant's heart, when you know that there is opportunity to do all you can to put yourself forward in the name of offering",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Washington ( cnn ) with a clinton, a bush and a romney all seriously teasing presidential runs, why not a palin? why not, indeed. Sarah palin, the former alaska governor and 2008 gop vice presidential candidate was asked by abc news if she's interested in running for the white house. \" of course, \" she said during the interview, which was conducted as she served wild boar chili to the homeless in las vegas. \" yeah, i mean, of course, when you have a servant's heart, when you know that there is opportunity to do all you can to put yourself forward in the name of offering"
         ],
         "raw_document": [
             "Just before she heads to iowa for the first major conservative showcase of the 2016 election cycle, sarah palin said \"of course \" she's interested in the 2016 presidential election. Interested in? add as an interest to stay up to date on the latest news, video, and analysis from abc news. Add interest \"yeah, i mean, of course, when you have a servant's heart, when you know that there is opportunity to do all you can to put yourself forward in the name of offering service, anybody would be interested, \" palin told abc news ' neal karlinsky while serving wild boar chili to the homeless in las vegas",
@@ -1278,7 +1271,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1371,7 +1364,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1407,12 +1400,11 @@
     },
     {
         "idx": 34251,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Investors might finally be falling out of love with apple. Despite the buzz around the ipad mini, apple's shares have fallen 20 % since their september peak, from $ 700 a share down to $ 558, the new york times reports. Why? because where a layperson might see a big slate of exciting new products, wall street sees profit liabilities — new products tend to have thinner margins at first, until the manufacturing process gets streamlined and volume picks up. Case in point: foxconn yesterday admitted that it can't keep up with demand for the ipad mini, reports the afp. \" we can't really fulfill apple's requests, \" says its chairman. \" our shipments are insufficient. \" add that to the recent management shakeup, a report that android's market share had jumped from 57.5 % to 75 %, and the always looming worries that apple, already the market's most valuable company, is running out of room to grow and people to sell gadgets to, and you've got plenty of food for bears. \" it has just been wave after wave of bad news, \" one analyst says. But cupertino executives say the company is still growing just fine, and hey, the stock is still up 38 % on the year.",
         "split": "train",
         "cleansed_document": [
-            "Foxconn says cannot meet demand for iphone 5 taipei — taiwan's foxconn has admitted that it cannot meet strong demand for apple's new iphone 5 due to difficulties in building the gadget, as investors grow concerned about the us giant's future earnings. \" we can't really fulfil apple's requests. Our shipments are insufficient... Given the huge market demand, \" foxconn chairman terry gou told reporters late wednesday. He added that the design of the iphone 5, of which five million were sold over its launch weekend in september, has made production difficult, but did not elaborate. He declined to say whether foxconn plans to outsource some of the iphone orders to other makers. The iphone has been a huge driver of apple's phenomenal profits, along with the ipad, both of which are made by foxconn, which also manufactures products for other firms such as nokia, intel and sony. Peter oppenheimer, apple's chief financial officer, said on october 25 that demand for the iphone 5 continued to outstrip supply, but that it was working hard to catch up. Last month the firm, which is based in cupertino, california, said net profit in the july-september quarter climbed to $ 8.2 billion thanks to a 58 percent jump in sales of its phones and a 26",
-            "Autumn is traditionally the time of year when people start snapping up apple products. It's also when investors, in anticipation of another blockbuster holiday season from the company, do the same with apple shares. But this year, even though apple's iphones and ipads don't seem to have lost any of their allure for holiday shoppers, its stock seems headed straight for the discount rack. On wednesday, apple's shares slid 3.8 percent. They outpaced a broader decline in the stock market set off by investors ' uncertainty about how the outcome of the presidential election will affect taxes and consumer demand for the types of products apple sells. During the campaign, president obama proposed increasing capital gains tax rates for people earning over $ 250,000 to 20 percent from the existing rate of 15 percent, and his re-election tuesday night may have prompted some investors to unload shares in anticipation of a broader sell-off in stocks ahead of a tax increase, analysts said. Owners of apple shares would have good reason to fear higher taxes on capital gains. Apple shares have appreciated mightily since 2005 when they were about $ 35 apiece; they began this year at $ 411 and peaked at more than $ 700 in late september. The drop on wednesday only added to what has been a grim few weeks for apple shares"
+            "Foxconn says cannot meet demand for iphone 5 taipei — taiwan's foxconn has admitted that it cannot meet strong demand for apple's new iphone 5 due to difficulties in building the gadget, as investors grow concerned about the us giant's future earnings. \" we can't really fulfil apple's requests. Our shipments are insufficient... Given the huge market demand, \" foxconn chairman terry gou told reporters late wednesday. He added that the design of the iphone 5, of which five million were sold over its launch weekend in september, has made production difficult, but did not elaborate. He declined to say whether foxconn plans to outsource some of the iphone orders to other makers. The iphone has been a huge driver of apple's phenomenal profits, along with the ipad, both of which are made by foxconn, which also manufactures products for other firms such as nokia, intel and sony. Peter oppenheimer, apple's chief financial officer, said on october 25 that demand for the iphone 5 continued to outstrip supply, but that it was working hard to catch up. Last month the firm, which is based in cupertino, california, said net profit in the july-september quarter climbed to $ 8.2 billion thanks to a 58 percent jump in sales of its phones and a 26"
         ],
         "raw_document": [
             "Foxconn says cannot meet demand for iphone 5 taipei — taiwan's foxconn has admitted that it cannot meet strong demand for apple's new iphone 5 due to difficulties in building the gadget, as investors grow concerned about the us giant's future earnings. \" we can't really fulfil apple's requests. Our shipments are insufficient... Given the huge market demand, \" foxconn chairman terry gou told reporters late wednesday. He added that the design of the iphone 5, of which five million were sold over its launch weekend in september, has made production difficult, but did not elaborate. He declined to say whether foxconn plans to outsource some of the iphone orders to other makers. The iphone has been a huge driver of apple's phenomenal profits, along with the ipad, both of which are made by foxconn, which also manufactures products for other firms such as nokia, intel and sony. Peter oppenheimer, apple's chief financial officer, said on october 25 that demand for the iphone 5 continued to outstrip supply, but that it was working hard to catch up. Last month the firm, which is based in cupertino, california, said net profit in the july-september quarter climbed to $ 8.2 billion thanks to a 58 percent jump in sales of its phones and a 26",
@@ -1427,7 +1419,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1565,7 +1557,7 @@
             "1": 0,
             "2": 4,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1590,7 +1582,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1618,7 +1610,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1668,7 +1660,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1700,12 +1692,11 @@
     },
     {
         "idx": 34262,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two photographs hidden in the national archives for decades may be rare images of abraham lincoln's funeral procession in new york city, the washington post reports. They capture the blur of a big black object — possibly a horse-drawn carriage — and hundreds of men, some with bowed heads, outside what may be new york's historic grace church on broadway. Paul taylor, a retired federal government accountant, spotted the photos on an archives flickr photo-sharing site and \" was just struck by the scene, \" he said. Believing the black blur \" had to be \" lincoln's hearse, taylor did research until he identified the church and connected the images to lincoln's \" death pageant. \" the funeral was viewed by millions of people in baltimore, harrisburg, philadelphia, and new york, often with the president's lid kept open — \" not a pleasant sight, \" reported the new york times. A lincoln-funeral expert calls the photo find \" a big deal, \" but an archivist says the pics may depict \" other processions, maybe even other funerals \" from that period. \" i don't think its possible to establish this without any doubt. \" see the photos at the post, or a stunning colorized shot of lincoln at cbs chicago.",
         "split": "train",
         "cleansed_document": [
-            "In the first photograph, the crowd outside the church seems to be waiting for something to come down the street. Children stand up front so they can see. Women, in the garb of the mid-1800s, shield themselves from the sun with umbrellas. White-gloved soldiers mill around. And a few people have climbed a tree for a better view. ( mathew brady/the national archives ) in this second shot, some heads are bowed. Men have taken off their hats. And the blur of a large black object is disappearing along the street to the left of the frame. What the scene depicts, why it was photographed, or where, has been a mystery for decades, experts at the national archives say. But a maryland man has now offered the theory that the two photos are rare, long-forgotten images of abraham lincoln's funeral procession in new york city. ( mathew brady/the national archives ) paul taylor, 60, of columbia, a retired federal government accountant, believes the scene is on broadway, outside new york's historic grace church. The day is tuesday, april 25, 1865, 11 days after lincoln was shot at ford's theatre in washington. And the crowd is waiting for, and then seems to be paying homage before, a horse-drawn hearse, whose motion makes it",
-            "( credit: reddit ) by john dodge chicago ( cbs ) — in history books and televised documentaries, we see abraham lincoln as a blurred, distant figure in black and white. With advances to photo technology, colorizing historic black and white photos seems to change the view of history. In color, one can look into the president's eyes, notice the wrinkled facial features contrasted with skin tone and the flecks of gray on his beard. This photo of lincoln was colorized and posted online by reddit user named klassixx. \"the color, when added convincingly, removes that degree of separation we might have from a black and white photo, hopefully bringing us a little bit closer to the time the photo was taken, and the reality of it all, \" klassixx wrote. Here is a colorized photo of chicago gangster al capone done by zuzahin. A viewer is drawn to his steely gray eyes and a gold pocket watch chain that stands out in front of a charcoal suit. There is this photograph of kansas city chiefs quarterback len dawson smoking and drinking a fresca during halftime of the 1967 super bowl. The color draws attention to the green glass bottle of soda, the orange glow on the cigarette tip, the layers of athletic socks. The spartan atmosphere of the locker room is also more noticeable."
+            "In the first photograph, the crowd outside the church seems to be waiting for something to come down the street. Children stand up front so they can see. Women, in the garb of the mid-1800s, shield themselves from the sun with umbrellas. White-gloved soldiers mill around. And a few people have climbed a tree for a better view. ( mathew brady/the national archives ) in this second shot, some heads are bowed. Men have taken off their hats. And the blur of a large black object is disappearing along the street to the left of the frame. What the scene depicts, why it was photographed, or where, has been a mystery for decades, experts at the national archives say. But a maryland man has now offered the theory that the two photos are rare, long-forgotten images of abraham lincoln's funeral procession in new york city. ( mathew brady/the national archives ) paul taylor, 60, of columbia, a retired federal government accountant, believes the scene is on broadway, outside new york's historic grace church. The day is tuesday, april 25, 1865, 11 days after lincoln was shot at ford's theatre in washington. And the crowd is waiting for, and then seems to be paying homage before, a horse-drawn hearse, whose motion makes it"
         ],
         "raw_document": [
             "In the first photograph, the crowd outside the church seems to be waiting for something to come down the street. Children stand up front so they can see. Women, in the garb of the mid-1800s, shield themselves from the sun with umbrellas. White-gloved soldiers mill around. And a few people have climbed a tree for a better view. ( mathew brady/the national archives ) in this second shot, some heads are bowed. Men have taken off their hats. And the blur of a large black object is disappearing along the street to the left of the frame. What the scene depicts, why it was photographed, or where, has been a mystery for decades, experts at the national archives say. But a maryland man has now offered the theory that the two photos are rare, long-forgotten images of abraham lincoln's funeral procession in new york city. ( mathew brady/the national archives ) paul taylor, 60, of columbia, a retired federal government accountant, believes the scene is on broadway, outside new york's historic grace church. The day is tuesday, april 25, 1865, 11 days after lincoln was shot at ford's theatre in washington. And the crowd is waiting for, and then seems to be paying homage before, a horse-drawn hearse, whose motion makes it",
@@ -1720,17 +1711,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 34263,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The dribs and drabs about donald trump jr.'s meeting with a russian lawyer just ramped up significantly. The president's son tweeted out his full email exchange with an ally in russia who set up last year's meeting, reports the hill. Part one is here, and the final page is here. Trump tweeted them after the new york times informed him it was about to publish his back-and-forth with british-born publicist rob goldstone. In his initial email, goldstone said he wanted to arrange the meeting to pass along documents that \" would incriminate hillary and her dealings with russia and would be very useful to your father. \" he added, \" this is obviously very high level and sensitive information but is part of russia and its government's support for mr. Trump. \" trump jr. Quickly responded, \" if it's what you say i love it especially later in the summer. \" ( in a statement tuesday, trump jr. Insisted again that nothing came of the meeting in terms of clinton information. ) eventually, the pair arranged for russian attorney natalia veselnitskaya to meet with trump jr. In new york. She has said she had no damaging information about clinton, nor ties to the kremlin, though goldstone refers to her as a \" russian government attorney \" in an email. Goldstone told trump jr. That he was writing on behalf of his client, russian pop star emin agalarov, whose billionaire father has ties to both putin and the trump business empire. \" emin just called and asked me to contact you with something very interesting, \" he wrote. \" the crown prosecutor of russia met with his father aras this morning and in their meeting offered to provide the trump campaign with some official documents and information that would incriminate hillary. \" because russia has no crown prosecutor, the times thinks goldstone was referring to the prosecutor general of russia, a close putin ally.",
         "split": "train",
         "cleansed_document": [
-            "Donald trump jr. On tuesday released a stunning chain of emails detailing his conversations about setting up a campaign meeting with a russian lawyer who had offered compromising information on democratic presidential nominee hillary clinton hillary diane rodham clintontrump's approval holding steady in poll, despite shutdown drama house gop probe into fbi, doj comes to an end dershowitz: ' it's been harder for me to get on anti-trump networks ' like cnn more. The information \"would incriminate hillary and her dealings with russia and would be very useful to your father, \" reads one of the emails from rob goldstone, who acted as an intermediary to set up the meeting. \"this is obviously very high level and sensitive information but is part of russia and its government's support for mr. Trump, \" wrote goldstone. Advertisement in a june 3, 2016, email released on twitter, referring to the information on clinton, trump jr. Told goldstone: \"if it's what you say i love it especially later in the summer. \" in another email, goldstone suggested the information about clinton could be given to then-candidate donald trump through rhona graff, his longtime assistant. \"i can also send this info to your father via rhona, but it is ultra sensitive so wanted to send to you first, \" goldstone wrote. President trump donald john trumptrump's approval holding steady in poll, despite shutdown drama trump huddles with pence, mulvaney, kushner as shutdown hits one week trump jokingly congratulated acting epa chief on not acting like pruitt: report more issued a brief statement defending his son through white house deputy press secretary sarah huckabee sanders during an off-camera briefing with reporters. \"my son is a high-quality person and i applaud his transparency, \" trump said. The revelation has shaken the white house, which for months has struggled to contain the fallout from a wide-ranging investigation into russia's meddling in the 2016 presidential election. Sanders said the president was \"frustrated with the process \" and \"the fact that this continues to be an issue. \" she swatted away the notion that trump jr. May have committed perjury or treason, calling it \"ridiculous, \" and insisted that the president's eldest son did not collude with the russians in any way. In trump jr.'s emails, democrats believe they may have the smoking gun that proves trump campaign officials colluded with the russians in that effort. \"this is black and white — trump officials at the highest",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Donald trump jr. On tuesday released a stunning chain of emails detailing his conversations about setting up a campaign meeting with a russian lawyer who had offered compromising information on democratic presidential nominee hillary clinton hillary diane rodham clintontrump's approval holding steady in poll, despite shutdown drama house gop probe into fbi, doj comes to an end dershowitz: ' it's been harder for me to get on anti-trump networks ' like cnn more. The information \"would incriminate hillary and her dealings with russia and would be very useful to your father, \" reads one of the emails from rob goldstone, who acted as an intermediary to set up the meeting. \"this is obviously very high level and sensitive information but is part of russia and its government's support for mr. Trump, \" wrote goldstone. Advertisement in a june 3, 2016, email released on twitter, referring to the information on clinton, trump jr. Told goldstone: \"if it's what you say i love it especially later in the summer. \" in another email, goldstone suggested the information about clinton could be given to then-candidate donald trump through rhona graff, his longtime assistant. \"i can also send this info to your father via rhona, but it is ultra sensitive so wanted to send to you first, \" goldstone wrote. President trump donald john trumptrump's approval holding steady in poll, despite shutdown drama trump huddles with pence, mulvaney, kushner as shutdown hits one week trump jokingly congratulated acting epa chief on not acting like pruitt: report more issued a brief statement defending his son through white house deputy press secretary sarah huckabee sanders during an off-camera briefing with reporters. \"my son is a high-quality person and i applaud his transparency, \" trump said. The revelation has shaken the white house, which for months has struggled to contain the fallout from a wide-ranging investigation into russia's meddling in the 2016 presidential election. Sanders said the president was \"frustrated with the process \" and \"the fact that this continues to be an issue. \" she swatted away the notion that trump jr. May have committed perjury or treason, calling it \"ridiculous, \" and insisted that the president's eldest son did not collude with the russians in any way. In trump jr.'s emails, democrats believe they may have the smoking gun that proves trump campaign officials colluded with the russians in that effort. \"this is black and white — trump officials at the highest"
         ],
         "raw_document": [
             "Donald trump jr. On tuesday released a stunning chain of emails detailing his conversations about setting up a campaign meeting with a russian lawyer who had offered compromising information on democratic presidential nominee hillary clinton hillary diane rodham clintontrump's approval holding steady in poll, despite shutdown drama house gop probe into fbi, doj comes to an end dershowitz: ' it's been harder for me to get on anti-trump networks ' like cnn more. The information \"would incriminate hillary and her dealings with russia and would be very useful to your father, \" reads one of the emails from rob goldstone, who acted as an intermediary to set up the meeting. \"this is obviously very high level and sensitive information but is part of russia and its government's support for mr. Trump, \" wrote goldstone. Advertisement in a june 3, 2016, email released on twitter, referring to the information on clinton, trump jr. Told goldstone: \"if it's what you say i love it especially later in the summer. \" in another email, goldstone suggested the information about clinton could be given to then-candidate donald trump through rhona graff, his longtime assistant. \"i can also send this info to your father via rhona, but it is ultra sensitive so wanted to send to you first, \" goldstone wrote. President trump donald john trumptrump's approval holding steady in poll, despite shutdown drama trump huddles with pence, mulvaney, kushner as shutdown hits one week trump jokingly congratulated acting epa chief on not acting like pruitt: report more issued a brief statement defending his son through white house deputy press secretary sarah huckabee sanders during an off-camera briefing with reporters. \"my son is a high-quality person and i applaud his transparency, \" trump said. The revelation has shaken the white house, which for months has struggled to contain the fallout from a wide-ranging investigation into russia's meddling in the 2016 presidential election. Sanders said the president was \"frustrated with the process \" and \"the fact that this continues to be an issue. \" she swatted away the notion that trump jr. May have committed perjury or treason, calling it \"ridiculous, \" and insisted that the president's eldest son did not collude with the russians in any way. In trump jr.'s emails, democrats believe they may have the smoking gun that proves trump campaign officials colluded with the russians in that effort. \"this is black and white — trump officials at the highest",
@@ -1745,7 +1735,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1811,7 +1801,7 @@
             "0": 1,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1839,7 +1829,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1914,7 +1904,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1977,13 +1967,12 @@
     },
     {
         "idx": 34272,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Nicole and shane sifrit had just one happy week with their baby girl mariana, who was born healthy on july 1. On july 7, when she stopped eating and then became unresponsive, she went back to the hospital. And on tuesday morning, she died. Mariana had contracted viral meningitis caused by the herpes virus, and her parents are warning others that it may have been a simple kiss that doomed her, cnn reports. The virus can be transmitted by someone who has the cold sore version of the illness, even if they don't have an open sore, and could also have been transmitted through other types of close contact. \" they touch her, and then she touches her mouth with her hand, \" nicole sifrit explained to who before her daughter died. Both parents tested negative for the herpes virus, meaning mariana likely contracted it from a visitor. After taking mariana to the hospital, \" within two hours, she had quit breathing, and all her organs just started to fail, \" nicole says. Her condition continued to deteriorate; her lungs, liver, and heart began failing, she started suffering seizures, and had to go on kidney dialysis, usa today reports. She died in her father's arms with her mother by her side, nicole wrote on facebook tuesday. A pediatrician tells cnn that while contracting the herpes virus is \" very common, \" it's rare for the virus to develop into meningitis. Still, nicole advises other new parents: \" keep your babies isolated. Don't let just anyone come visit them. Make sure they are constantly washing their hands. Don't let people kiss your baby and make sure they ask before they pick up your baby. \" a gofundme campaign has been set up for the family. ( another newborn nearly suffered the same fate. )",
         "split": "train",
         "cleansed_document": [
             "Mariana was born perfectly healthy on july 1st. On july 7th she was readmitted to the hospital for meningitis and herpes virus, we don't know how she contracted it. It was not through pregnany, birth or her parents, we do know that. She received several blood transfusions while at blank, unfortunately, her internal bleeding has gotten worse, she is now seizing, her kidneys and liver are also failing. Ultimately, the doctors have told nicole and shane to prepare to bury their precious baby girl. She is now being flown to iowa city for additional testing and treatment. Please help this family with food and travel expenses. Nobody has budgeted for life flight for their 9 day old. Even $ 5 helps. Share tweet 3.3k shares on facebook shares on facebook",
-            "( cnn ) iowa newlyweds are clinging to hope as their nearly 3-week-old daughter fights for her life after contracting a deadly virus believed to be from a simple kiss. Nicole and shane sifrit welcomed baby mariana on july 1. A week later -- two hours after the couple's wedding -- they say they noticed that the girl was not eating and would not wake up when they tried to get her to respond. \" within two hours, she had quit breathing, and all her organs just started to fail, \" nicole sifrit told cnn affiliate who. Herpes meningitis can be caused by bacteria, fungi or other types of germs, and it can be spread through sexual contact or from a woman to her baby during childbirth, according tojohns hopkins medicine. Mariana's parents both tested negative for the virus, they said, suggesting that it could have come from others who visited the child. \" they touch her,",
-            "Close you may be excited to love on your friend's newborn, but remember babies this young can easily get sick. Follow these tips to keep everyone happy and healthy. Usa today mariana's mom said she was born perfectly on july 1, but july 7 was diagnosed with viral meningitis. Mom nicole sifrit has been posting updates on facebook about her daughter's serious condition. ( photo: nicole sifrit, facebook ) an iowa mother is warning other parents about a serious, life-threatening virus that killed her baby girl. A week after nicole sifrit gave birth to mariana, she and husband shane noticed she stopped eating and didn't respond when they tried to wake her, who tv reports. \" it immediately went downhill from there. Within two hours she had quit breathing and all of her organs just started to fail, \" shane told who tv. July 7, doctors diagnosed mariana with viral"
+            "( cnn ) iowa newlyweds are clinging to hope as their nearly 3-week-old daughter fights for her life after contracting a deadly virus believed to be from a simple kiss. Nicole and shane sifrit welcomed baby mariana on july 1. A week later -- two hours after the couple's wedding -- they say they noticed that the girl was not eating and would not wake up when they tried to get her to respond. \" within two hours, she had quit breathing, and all her organs just started to fail, \" nicole sifrit told cnn affiliate who. Herpes meningitis can be caused by bacteria, fungi or other types of germs, and it can be spread through sexual contact or from a woman to her baby during childbirth, according tojohns hopkins medicine. Mariana's parents both tested negative for the virus, they said, suggesting that it could have come from others who visited the child. \" they touch her,"
         ],
         "raw_document": [
             "Mariana was born perfectly healthy on july 1st. On july 7th she was readmitted to the hospital for meningitis and herpes virus, we don't know how she contracted it. It was not through pregnany, birth or her parents, we do know that. She received several blood transfusions while at blank, unfortunately, her internal bleeding has gotten worse, she is now seizing, her kidneys and liver are also failing. Ultimately, the doctors have told nicole and shane to prepare to bury their precious baby girl. She is now being flown to iowa city for additional testing and treatment. Please help this family with food and travel expenses. Nobody has budgeted for life flight for their 9 day old. Even $ 5 helps. Share tweet 3.3k shares on facebook shares on facebook",
@@ -2000,7 +1989,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2053,17 +2042,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 34275,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's been more than a year since kanye west's drunken stage invasion during taylor swift's vma acceptance speech — and it looks like he still hasn't forgiven her. \" taylor never came to my defense in any interview, \" the rapper complained in a rambling rant at a new york show. She \" rode the wave, and rode it and rode it. \" kanye also, once again, slammed matt lauer and the media in general for \" exploiting \" george w. Bush's comment that being called a racist by kanye was among the lowest moments of his presidency, e! online reports. Click here for more.",
         "split": "train",
         "cleansed_document": [
-            "Kevin mazur/getty images why would taylor swift ever stand up for kanye west?! leave it to the ego-inflated rapper to insist, during an on-stage rant last night, that the country cutie should have had kanye's back after his infamous 2009 vma outburst: related: kanye west is mr. Bitter twitter \" taylor never came to my defense in any interview and [ she ] rode the wave, and rode it and rode it! \" he said during a rambling onstage rant last night at new york's bowery ballroom. Huh? yeah, we don't get it either. West also blasted the media for how he believes it \" exploited \" george w. Bush's recent comment about the rapper. The former president said that west accusing him of not caring about african-americans during hurricane katrina was one of his lowest points while in office. \" look at how they exploited him, \" he ranted. \" they said that he said that was his lowest moment. And as a mass, as america, we took that as a fact. \" if you look at the interview, he said, ' it's one of his lowest moments, ' and he said it about 10 different things, \" west griped. \" but because the popularity of me, they exploited that to make you watch the interview and make you feel that he was stupider than ever... It shows you the way they try to villainize. \" want to hear the whole thing? check out the f-bomb laden, very nsfw rant on youtube. Photos: is kanye west an idiot or a genius?",
-            "Sorry, the page you requested was not found. Please check the url for proper spelling and capitalization. If you're having trouble locating a destination on yahoo!, try visiting the yahoo! home page or look through a list of yahoo!'s online services. Also, you may find what you're looking for if you try searching below. Search the web advanced search &#124; most popular please try yahoo! help central if you need more assistance."
+            "Kevin mazur/getty images why would taylor swift ever stand up for kanye west?! leave it to the ego-inflated rapper to insist, during an on-stage rant last night, that the country cutie should have had kanye's back after his infamous 2009 vma outburst: related: kanye west is mr. Bitter twitter \" taylor never came to my defense in any interview and [ she ] rode the wave, and rode it and rode it! \" he said during a rambling onstage rant last night at new york's bowery ballroom. Huh? yeah, we don't get it either. West also blasted the media for how he believes it \" exploited \" george w. Bush's recent comment about the rapper. The former president said that west accusing him of not caring about african-americans during hurricane katrina was one of his lowest points while in office. \" look at how they exploited him, \" he ranted. \" they said that he said that was his lowest moment. And as a mass, as america, we took that as a fact. \" if you look at the interview, he said, ' it's one of his lowest moments, ' and he said it about 10 different things, \" west griped. \" but because the popularity of me, they exploited that to make you watch the interview and make you feel that he was stupider than ever... It shows you the way they try to villainize. \" want to hear the whole thing? check out the f-bomb laden, very nsfw rant on youtube. Photos: is kanye west an idiot or a genius?"
         ],
         "raw_document": [
             "Kevin mazur/getty images why would taylor swift ever stand up for kanye west?! leave it to the ego-inflated rapper to insist, during an on-stage rant last night, that the country cutie should have had kanye's back after his infamous 2009 vma outburst: related: kanye west is mr. Bitter twitter \" taylor never came to my defense in any interview and [ she ] rode the wave, and rode it and rode it! \" he said during a rambling onstage rant last night at new york's bowery ballroom. Huh? yeah, we don't get it either. West also blasted the media for how he believes it \" exploited \" george w. Bush's recent comment about the rapper. The former president said that west accusing him of not caring about african-americans during hurricane katrina was one of his lowest points while in office. \" look at how they exploited him, \" he ranted. \" they said that he said that was his lowest moment. And as a mass, as america, we took that as a fact. \" if you look at the interview, he said, ' it's one of his lowest moments, ' and he said it about 10 different things, \" west griped. \" but because the popularity of me, they exploited that to make you watch the interview and make you feel that he was stupider than ever... It shows you the way they try to villainize. \" want to hear the whole thing? check out the f-bomb laden, very nsfw rant on youtube. Photos: is kanye west an idiot or a genius?",
@@ -2078,7 +2066,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2182,7 +2170,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2207,7 +2195,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2313,19 +2301,18 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 34285,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A senate subcommittee report on jpmorgan chase has slammed america's biggest financial institution so hard for trying to hide $ 6 billion in losses tied to the \" london whale \" fiasco that business analysts are once again talking about the need to break up the biggest banks, reports bloomberg. Jpmorgan \"mischaracterized high-risk trading as hedging, \" says the 301-page report by the senate permanent subcommittee on investigations, as well as pressured traders to overvalue holdings and hid vital information from regulators — sometimes at the behest of ceo jamie dimon. \" too big to fail has been put back on the table, \" says a former fed bank examiner. \" this suggests that breaking up the banks is a viable idea. \" while jpmorgan officials have said they acknowledge mistakes and operated in good faith, the bipartisan report paints a strikingly different picture, describing bank executives yelling at regulators and calling them \" stupid, \" and characterizing the bank's so-called hedge as \" make believe voodoo, \" reports the new york times. The difference between jpmorgan and previous disasters, such as enron, worldcom, or lehman brothers, is that jpmorgan is so much bigger, making the meltdown much more dangerous, writes matt taibbi at rolling stone. \" the report confirms everyone's worst fears about what goes on behind closed doors at such companies, \" says taibbi, calling the story an \" epic breakdown \" of banking oversight. The senate panel grills bank execs on the loss this afternoon, notes ap.",
         "split": "train",
         "cleansed_document": [
             "A senate panel on thursday issued a scathing assessment of jpmorgan's $ 6.2 billion trading loss last year. The investigation found that bank executives ignored growing risks and hid losses from investors and federal regulators. Executives at jpmorgan understated the trading losses to federal examiners by hundreds of millions of dollars and dismissed questions raised about the trading risks, according to the report from the senate permanent subcommittee on investigations. The report suggests that key executives, including ceo jamie dimon, were aware of huge losses at the bank, even while they were downplaying the risks publicly. The report also blames federal regulators for lax oversight that allowed america's largest bank to pile up",
             "Video jpmorgan chase, the nationâ€ ™s biggest bank, ignored internal controls and manipulated documents as it racked up trading losses last year, while its influential chief executive, jamie dimon, briefly withheld some information from regulators, a new senate report says. The findings by the congressional investigators shed new light on the multibillion-dollar trading blunder, which has claimed the jobs of several top executives and prompted an inquiry by the federal bureau of investigation. The 300-page report, released a day before a senate subcommittee plans to question bank executives and regulators at a hearing, will escalate the debate over how to police complex risk-taking on wall street. It may also foreshadow a criminal case",
-            "Jpmorgan chase &amp; co. ( jpm )'s efforts to hide trading losses, outlined in a senate report yesterday, probably will ignite debate over whether the largest u.s. Bank is too big to manage and ratchet up pressure on chief executive officer jamie dimon to surrender his role as chairman. Dimon misled investors and dodged regulators as losses escalated on a \"monstrous \" derivatives bet, according to a 301-page report by the senate permanent subcommittee on investigations. The bank \"mischaracterized high-risk trading as hedging, \" and withheld key information from its primary regulator, sometimes at dimon's behest, investigators found. Managers manipulated risk models and pressured traders to overvalue their positions in an effort",
-            "Carl leven bill pugliano/getty image beginning at 9: 30 a.m. Tomorrow, i ' m going to be live-blogging a hearing held by senator carl levin's permanent subcommittee on investigations – the best crew of high-end detectives this side of the wire, in my opinion – who will be grilling j.p. Morgan chase executives and high-ranking federal regulators in a get-together entitled, \" j.p. Morgan chase \" whale \" trades: a case history of derivatives risks and abuses. \" this follows this afternoon's release of a brutal 301-page report commissioned by levin and republican john mccain by the same name. The subcommittee investigators, largely the same crew who unraveled financial scandals surrounding infamous goldman"
+            "Jpmorgan chase &amp; co. ( jpm )'s efforts to hide trading losses, outlined in a senate report yesterday, probably will ignite debate over whether the largest u.s. Bank is too big to manage and ratchet up pressure on chief executive officer jamie dimon to surrender his role as chairman. Dimon misled investors and dodged regulators as losses escalated on a \"monstrous \" derivatives bet, according to a 301-page report by the senate permanent subcommittee on investigations. The bank \"mischaracterized high-risk trading as hedging, \" and withheld key information from its primary regulator, sometimes at dimon's behest, investigators found. Managers manipulated risk models and pressured traders to overvalue their positions in an effort"
         ],
         "raw_document": [
             "A senate panel on thursday issued a scathing assessment of jpmorgan's $ 6.2 billion trading loss last year. The investigation found that bank executives ignored growing risks and hid losses from investors and federal regulators. Executives at jpmorgan understated the trading losses to federal examiners by hundreds of millions of dollars and dismissed questions raised about the trading risks, according to the report from the senate permanent subcommittee on investigations. The report suggests that key executives, including ceo jamie dimon, were aware of huge losses at the bank, even while they were downplaying the risks publicly. The report also blames federal regulators for lax oversight that allowed america's largest bank to pile up",
@@ -2344,7 +2331,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2531,12 +2518,11 @@
     },
     {
         "idx": 34293,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Nelson shanks ' portrait of bill clinton is in the national portrait gallery — and in a new interview with the philadelphia daily news, the artist reveals the reason the clintons, he says, want it removed. The former president is \" probably the most famous liar of all time, \" shanks says, explaining that the artist \" could never get this monica thing completely out of my mind. \" so he decided to \" subtly \" incorporate lewinsky into the portrait, he says. \" if you look at the left-hand side of it there's a mantle in the oval office and i put a shadow coming into the painting and it does two things. It actually literally represents a shadow from a blue dress that i had on a mannequin, that i had there while i was painting it, but not when he was there, \" shanks says. \" it is also a bit of a metaphor in that it represents a shadow on the office he held, or on him. \" as for shanks ' claim that the clintons are trying to have the national portrait gallery remove the painting, the gallery denies that. ( see the portrait here. )",
         "split": "train",
         "cleansed_document": [
-            "This has been a trying time for everyone who uses the internet, but on sunday painter nelson shanks reminded us that our nation has faced blue-dress-related trauma once before. In an interview with the philadelphia daily news, the 77-year-old artist revealed that he incorporated a lewinsky scandal reference into his 2006 portrait of bill clinton, which hangs in the national portrait gallery. Calling clinton \" probably the most famous liar of all time, \" shanks said he painted a shadow over the oval office mantlepiece to symbolize the monica lewinsky scandal. \" it actually literally represents a shadow from a blue dress that i had on a mannequin, that i had there while i was painting it, but not when he was there. It is also a bit of a metaphor in that it represents a shadow on the office he held, or on him. \" shanks claims the clintons \" hate the portrait \" and pressured the national portrait gallery to remove it, but the museum denied that.",
-            "Society hill's ' queen of sushi'says she invented the philadelphia roll &#124; we the people society hill's ' queen of sushi'says she invented the philadelphia roll &#124; we the people jun 6 stephanie farr covers philly culture for the philadelpha inquirer, daily news and philly.com. She writes about the people, places, things, and ideas that make philly and its suburbs weird, wild, and wonderfully unique. Nelson shanks, local painter to the powerful, felt the lewinsky scandal left a shadow, so his clinton portrait has one. ( elizabeth robertson / staff photographer ) nelson shanks, local painter to the powerful, felt the lewinsky scandal left a shadow, so his clinton portrait has one. ( elizabeth robertson / staff photographer ) renowned bucks county portrait artist nelson shanks has painted everyone from princess diana to president bill clinton and from pope john paul ii to marisa tomei. He and his wife, leona, are the founders of studio incamminati, an art school on 12th street near callowhill. On a recent friday, as the north light of a chilly afternoon flooded his andalusia studio, shanks, 77, chain smoked cigarettes and drank diet cokes while painting gabrielle, a beautiful young belly dancer, on a 7-by-5-foot canvas. Following his 7-hour session with gabrielle, shanks spoke with stephanie farr about a hidden secret in his portrait of president clinton and his friendship with princess di, and shared some deep thoughts on celebrity and art. Q: do you remember the first painting you did as a child? my father went off to war and he had bought an oil painting kit. Somehow, i got a hold of this thing. So i"
+            "This has been a trying time for everyone who uses the internet, but on sunday painter nelson shanks reminded us that our nation has faced blue-dress-related trauma once before. In an interview with the philadelphia daily news, the 77-year-old artist revealed that he incorporated a lewinsky scandal reference into his 2006 portrait of bill clinton, which hangs in the national portrait gallery. Calling clinton \" probably the most famous liar of all time, \" shanks said he painted a shadow over the oval office mantlepiece to symbolize the monica lewinsky scandal. \" it actually literally represents a shadow from a blue dress that i had on a mannequin, that i had there while i was painting it, but not when he was there. It is also a bit of a metaphor in that it represents a shadow on the office he held, or on him. \" shanks claims the clintons \" hate the portrait \" and pressured the national portrait gallery to remove it, but the museum denied that."
         ],
         "raw_document": [
             "This has been a trying time for everyone who uses the internet, but on sunday painter nelson shanks reminded us that our nation has faced blue-dress-related trauma once before. In an interview with the philadelphia daily news, the 77-year-old artist revealed that he incorporated a lewinsky scandal reference into his 2006 portrait of bill clinton, which hangs in the national portrait gallery. Calling clinton \" probably the most famous liar of all time, \" shanks said he painted a shadow over the oval office mantlepiece to symbolize the monica lewinsky scandal. \" it actually literally represents a shadow from a blue dress that i had on a mannequin, that i had there while i was painting it, but not when he was there. It is also a bit of a metaphor in that it represents a shadow on the office he held, or on him. \" shanks claims the clintons \" hate the portrait \" and pressured the national portrait gallery to remove it, but the museum denied that.",
@@ -2551,7 +2537,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2690,7 +2676,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {

@@ -166,12 +166,11 @@
     },
     {
         "idx": 7306,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Nearly a quarter of india's land is turning to desert thanks to over-use of land, heavy grazing, and changing rainfall patterns, says the country's environment minister. He warns \" land is becoming barren, \" and notes that could threaten food security in a country that houses 17 % of the world's population on just 2 % of its land, reuters reports. Forbes points out 25 % desertification is a much higher figure than the one an indian scientific council put forth in 2007. At the time, it said it said roughly 10 % of the country's land would become unusable desert by 2050, and by its calculations, india wouldn't hit the 25 % threshold for at least a century. At this point, land degradation — which indicates a loss of productivity — is believed to be affecting 32 % of the country's land.",
         "split": "train",
         "cleansed_document": [
-            "Camel traders wait to take their meals at pushkar fair in the desert indian state of rajasthan november 8, 2013. New delhi about a quarter of india's land is turning to desert and degradation of agricultural areas is becoming a severe problem, the environment minister said, potentially threatening food security in the world's second most populous country. India occupies just 2 percent of the world's territory but is home to 17 percent of its population, leading to over-use of land and excessive grazing. Along with changing rainfall patterns, these are the main causes of desertification. \" land is becoming barren, degradation is happening, \" said prakash javadekar, minister for environment, forests and climate change. \" a lot of areas are on the verge of becoming deserts but it can be stopped. \" land degradation - largely defined as loss of productivity - is estimated at 105 million hectares, constituting 32 percent of the total land. According to the indian space research organisation ( isro ) that prepared a report on desertification in 2007, about 69 percent of land in the country is dry, making it vulnerable to water and wind erosion, salinization and water logging. Rajasthan, gujarat, punjab, haryana, karnataka and andhra pradesh are the among the most arid. These are some of the cotton and rapeseed growing states of india. ( reporting by krishna n das and shyamantha asokan; editing by jeremy laurence )",
-            "The seed for wide00014 was: - slash pages from every domain on the web: -- a ranking of all urls that have more than one incoming inter-domain link ( rank was determined by number of incoming links using wide00012 inter domain links ) -- up to a maximum of 100 most highly ranked urls per domain - top ranked pages ( up to a max of 100 ) from every linked-to domain using the wide00012 inter-domain navigational link graph"
+            "Camel traders wait to take their meals at pushkar fair in the desert indian state of rajasthan november 8, 2013. New delhi about a quarter of india's land is turning to desert and degradation of agricultural areas is becoming a severe problem, the environment minister said, potentially threatening food security in the world's second most populous country. India occupies just 2 percent of the world's territory but is home to 17 percent of its population, leading to over-use of land and excessive grazing. Along with changing rainfall patterns, these are the main causes of desertification. \" land is becoming barren, degradation is happening, \" said prakash javadekar, minister for environment, forests and climate change. \" a lot of areas are on the verge of becoming deserts but it can be stopped. \" land degradation - largely defined as loss of productivity - is estimated at 105 million hectares, constituting 32 percent of the total land. According to the indian space research organisation ( isro ) that prepared a report on desertification in 2007, about 69 percent of land in the country is dry, making it vulnerable to water and wind erosion, salinization and water logging. Rajasthan, gujarat, punjab, haryana, karnataka and andhra pradesh are the among the most arid. These are some of the cotton and rapeseed growing states of india. ( reporting by krishna n das and shyamantha asokan; editing by jeremy laurence )"
         ],
         "raw_document": [
             "Camel traders wait to take their meals at pushkar fair in the desert indian state of rajasthan november 8, 2013. New delhi about a quarter of india's land is turning to desert and degradation of agricultural areas is becoming a severe problem, the environment minister said, potentially threatening food security in the world's second most populous country. India occupies just 2 percent of the world's territory but is home to 17 percent of its population, leading to over-use of land and excessive grazing. Along with changing rainfall patterns, these are the main causes of desertification. \" land is becoming barren, degradation is happening, \" said prakash javadekar, minister for environment, forests and climate change. \" a lot of areas are on the verge of becoming deserts but it can be stopped. \" land degradation - largely defined as loss of productivity - is estimated at 105 million hectares, constituting 32 percent of the total land. According to the indian space research organisation ( isro ) that prepared a report on desertification in 2007, about 69 percent of land in the country is dry, making it vulnerable to water and wind erosion, salinization and water logging. Rajasthan, gujarat, punjab, haryana, karnataka and andhra pradesh are the among the most arid. These are some of the cotton and rapeseed growing states of india. ( reporting by krishna n das and shyamantha asokan; editing by jeremy laurence )",
@@ -186,7 +185,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -483,7 +482,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -627,18 +626,17 @@
             "2": 5,
             "3": 1,
             "4": 0,
-            "5": 0
+            "5": 2
         }
     },
     {
         "idx": 7323,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The sea giveth, and the sea taketh away — and, it turns out, giveth again. A beach on a remote irish island whose sand washed away in 1984 storms has formed once again. After what the guardian calls a \" freak tide \" in mid-april, sand, hundreds of tons of it, was returned to dooagh village on achill island. \" the wind was coming from the north, \" achill tourism head sean molloy explains. \" it was steady and must have transported sand in from elsewhere. \" a local bar and restaurant owner tells the telegraph that small amounts of sand would return each spring, but it was never enough to restore the rocky shore to its former glory, a beach that now stretches about 1,000 feet and can be seen here. It's not the first time the beach has performed a vanishing act. According to records, it previously washed away in the 1890s but was back by 1927, at which point a pier was built — and after which some luminaries, including novelist graham greene and a young angela lansbury, visited, reports the irish times. Ireland's beaches will be inspected next year, reports the irish post, and molloy hopes the beach will still be there and gain blue-flag status. It could be a boon for dooagh village, which one local explains has seen three hotels and the local shop close their doors in the beach's absence. ( closer to home, miami beach's sand comes from elsewhere, and that's a problem. )",
         "split": "train",
         "cleansed_document": [
             "Villagers are delighted after an entire beach that was washed away 33 years ago has reappeared virtually overnight thanks to a freak tide. The beach near the irish village of dooagh on achill island vanished in spring storms of 1984 after waves washed away all the sand. With nothing more than rock pools left behind, almost all the villages ' hotels, guesthouses and cafes shut down. But hundreds of thousands of tons of sand were dumped on the beach over ten days in april, re-creating a stunning 300m long beach.",
-            "British novelist graham greene walked it and actress angela lansbury played on achill's dooagh beach in co mayo before the atlantic stole it away more than 30 years ago. However, for the first time since the summer of 1984, the island village of dooagh can now enjoy a strand again, as the ocean has deposited thousands of tons of sand, shells and pebbles at dooagh in the past few weeks. \"it's enormously significant, \" says sean molloy of achill tourism, who recalls how the beach had originally sustained four hotels and a number of guesthouses before it vanished. Currachs had launched from the beach before a pier was built in 1927, and its sand was mixed with seaweed to enrich soil and fertilise crops – as on the aran islands. A bugle would summon villagers to the beach when large quantities of wrack ( seaweeed ) were washed up with the spring tides. Dooagh resident emmet callaghan still has the bugle, which was once sounded by his great-great-grandfather patrick. A meitheal would then take place to divide the wrack into equal parcels. \"in this way the wrack was shared out equally among the families in what was once one of the largest villages in europe, \" mr callaghan says. He describes how dooagh's population had been boosted when householders living on the side of slievemore mountain moved down to the shore, quitting what became known as achill's \"deserted village \", latterly used for booleying or summer pasture for livestock. Lansbury and greene mr molloy says the beach at dooagh was washed away before in the 1890s, but the strand was well back when ms lansbury visited as a child in the 1930s. Graham greene visited the island in the late 1940s with his partner, catherine walston, and the couple stayed in a cottage in dooagh that had no electricity and just one outside tap for water. He is said to have written parts of the heart of the matter and the fallen idol, along",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "British novelist graham greene walked it and actress angela lansbury played on achill's dooagh beach in co mayo before the atlantic stole it away more than 30 years ago. However, for the first time since the summer of 1984, the island village of dooagh can now enjoy a strand again, as the ocean has deposited thousands of tons of sand, shells and pebbles at dooagh in the past few weeks. \"it's enormously significant, \" says sean molloy of achill tourism, who recalls how the beach had originally sustained four hotels and a number of guesthouses before it vanished. Currachs had launched from the beach before a pier was built in 1927, and its sand was mixed with seaweed to enrich soil and fertilise crops – as on the aran islands. A bugle would summon villagers to the beach when large quantities of wrack ( seaweeed ) were washed up with the spring tides. Dooagh resident emmet callaghan still has the bugle, which was once sounded by his great-great-grandfather patrick. A meitheal would then take place to divide the wrack into equal parcels. \"in this way the wrack was shared out equally among the families in what was once one of the largest villages in europe, \" mr callaghan says. He describes how dooagh's population had been boosted when householders living on the side of slievemore mountain moved down to the shore, quitting what became known as achill's \"deserted village \", latterly used for booleying or summer pasture for livestock. Lansbury and greene mr molloy says the beach at dooagh was washed away before in the 1890s, but the strand was well back when ms lansbury visited as a child in the 1930s. Graham greene visited the island in the late 1940s with his partner, catherine walston, and the couple stayed in a cottage in dooagh that had no electricity and just one outside tap for water. He is said to have written parts of the heart of the matter and the fallen idol, along"
         ],
         "raw_document": [
             "Villagers are delighted after an entire beach that was washed away 33 years ago has reappeared virtually overnight thanks to a freak tide. The beach near the irish village of dooagh on achill island vanished in spring storms of 1984 after waves washed away all the sand. With nothing more than rock pools left behind, almost all the villages ' hotels, guesthouses and cafes shut down. But hundreds of thousands of tons of sand were dumped on the beach over ten days in april, re-creating a stunning 300m long beach.",
@@ -655,7 +653,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -687,17 +685,16 @@
             "1": 0,
             "2": 5,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
         "idx": 7325,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Pope francis has excommunicated the mafia, will bankers be next? asked by an interviewer about the criticisms of capitalism that have led some to suggest he has communist leanings, the pontiff said the church was helping the poor long before marxist ideology existed, reuters reports. \" i can only say that the communists have stolen our flag. The flag of the poor is christian. Poverty is at the center of the gospel, \" he said, referring to bible verses including the sermon on the mount. \" the communists say that all this is communism. Yeah, right, 20 centuries later, \" he said, laughing. \" so one can say to them: ' but then you are christian. ' \" but while the pontiff is seen as progressive on economic matters, there was some old-fashioned sexism in the same interview, his first with a female journalist, the guardian finds. Asked about misogny in the church and whether he intended to give women higher status, he said women had been \" taken from a rib, \" adding \" i ' m joking. That was a joke. \" he called women \" the most beautiful thing god has made \" before acknowledging that the \" issue of women needs to be gone into in more depth, otherwise you can't understand the church itself. \" asked whether a woman could head a vatican department, he quipped, \" priests often end up under the sway of their housekeepers. \"",
         "split": "train",
         "cleansed_document": [
-            "Pope refuses to commit himself to raising status of women in catholic church and makes ' joke ' about female subservience in his first interview with a female journalist since his election to the spiritual leadership of the world's 1.2 billion baptised catholics, pope francis dodged a string of questions about whether he intended raising the status of women in his church and made a joke about women being \" taken from a rib \". The pope said women were \" the most beautiful thing god has made \". And he added: \" theology cannot be done without this feminine touch. \" he agreed not enough was said about women and promised that steps were being taken to remedy the situation. But when his interviewer, the vatican correspondent of the rome daily il messaggero, franca giansoldati, asked him whether he could detect an underlying misogyny in the catholic church, francis replied: \" the fact is that woman was taken from a rib. \" giansoldati wrote that he then laughed \" heartily \" before saying: \" i ' m joking. That was a joke. \" the 77-year-old pontiff went on: \" the issue of women needs to be gone into in more depth, otherwise you can't understand the church itself. \" but did he envisage, say, appointing a woman to head a vatican department? \" well",
-            "Pope francis conducts a mass before presenting archbishops with their palliums in saint peter's basilica at the vatican june 29, 2014. Vatican city pope francis, whose criticisms of unbridled capitalism have prompted some to label him a marxist, said in an interview published on sunday that communists had stolen the flag of christianity. The 77-year-old pontiff gave an interview to il messaggero, rome's local newspaper, to mark the feast of saints peter and paul, a roman holiday. He was asked about a blog post in the economist magazine that said he sounded like a leninist when he criticized capitalism and called for radical economic reform. \" i can only say that the communists have stolen our flag. The flag of the poor is christian. Poverty is at the center of the gospel, \" he said, citing biblical passages about the need to help the poor, the sick and the needy. \" communists say that all this is communism. Sure, twenty centuries later. So when they speak, one can say to them: ' but then you are christian ', \" he said, laughing. Since his election in march 2013, francis has often attacked the global economic system as being insensitive to the poor and not doing enough to share wealth with those who need it most. Earlier this month, he criticized"
+            "Pope refuses to commit himself to raising status of women in catholic church and makes ' joke ' about female subservience in his first interview with a female journalist since his election to the spiritual leadership of the world's 1.2 billion baptised catholics, pope francis dodged a string of questions about whether he intended raising the status of women in his church and made a joke about women being \" taken from a rib \". The pope said women were \" the most beautiful thing god has made \". And he added: \" theology cannot be done without this feminine touch. \" he agreed not enough was said about women and promised that steps were being taken to remedy the situation. But when his interviewer, the vatican correspondent of the rome daily il messaggero, franca giansoldati, asked him whether he could detect an underlying misogyny in the catholic church, francis replied: \" the fact is that woman was taken from a rib. \" giansoldati wrote that he then laughed \" heartily \" before saying: \" i ' m joking. That was a joke. \" the 77-year-old pontiff went on: \" the issue of women needs to be gone into in more depth, otherwise you can't understand the church itself. \" but did he envisage, say, appointing a woman to head a vatican department? \" well"
         ],
         "raw_document": [
             "Pope refuses to commit himself to raising status of women in catholic church and makes ' joke ' about female subservience in his first interview with a female journalist since his election to the spiritual leadership of the world's 1.2 billion baptised catholics, pope francis dodged a string of questions about whether he intended raising the status of women in his church and made a joke about women being \" taken from a rib \". The pope said women were \" the most beautiful thing god has made \". And he added: \" theology cannot be done without this feminine touch. \" he agreed not enough was said about women and promised that steps were being taken to remedy the situation. But when his interviewer, the vatican correspondent of the rome daily il messaggero, franca giansoldati, asked him whether he could detect an underlying misogyny in the catholic church, francis replied: \" the fact is that woman was taken from a rib. \" giansoldati wrote that he then laughed \" heartily \" before saying: \" i ' m joking. That was a joke. \" the 77-year-old pontiff went on: \" the issue of women needs to be gone into in more depth, otherwise you can't understand the church itself. \" but did he envisage, say, appointing a woman to head a vatican department? \" well",
@@ -712,7 +709,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -737,7 +734,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -767,12 +764,11 @@
     },
     {
         "idx": 7328,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A lunar mystery that has persisted since 1959 has been solved, according to penn state astrophysicists. That was the year in which a soviet spacecraft captured the first images of the dark side of the moon — the side that always faces away from earth. While the side we see features dark flat areas known as maria ( nasa explains they're made up of a kind of rock known as basalt ), the photos revealed that the far side was, as one professor says, \" all mountains and craters. Where were the maria? \" now the researchers say they've figured it out, and that the answer stretches back to the moon's origins. Their study points to the giant impact hypothesis, which states that a mars-sized object hit the earth, and that parts of that object and the earth's outer layers then formed the moon — which, like the earth, was extremely hot. Since the moon was a lot smaller, it began to cool faster, or at least part of it did. The near side was exposed to the earth's boiling temperatures ( upward of 2500 degrees celsius ), while the far side was not. As penn state news explains, \" aluminum and calcium would have preferentially condensed in the atmosphere of the cold side of the moon, \" and over the course of thousands if not millions of years, these elements would have, after combining with silicates in the mantle and surfacing, created a hard, thicker crust than what the near side sees. Meteoroids were later able to punch through the near side's crust, releasing basaltic lava that created the maria. On the far side, however, the thick crust largely held, \" and no magmatic basalt welled up. \" the result: mountains and craters, but little maria. ( scientists say they've finally found evidence of the other world that helped form the moon. )",
         "split": "train",
         "cleansed_document": [
-            "University park, pa. -- the \" man in the moon \" appeared when meteoroids struck the earth-facing side of the moon creating large flat seas of basalt that we see as dark areas called maria. But no \" face \" exists on farside of the moon and now, penn state astrophysicists think they know why. \" i remember the first time i saw a globe of the moon as a boy, being struck by how different the farside looks, \" said jason wright, assistant professor of astrophysics. \" it was all mountains and craters. Where were the maria? it turns out it's been a mystery since the fifties. \" this mystery is called the lunar farside highlands problem and dates back to 1959, when the soviet spacecraft luna 3 transmitted the first images of the dark side of the moon back to earth. It was called the dark side because it was unknown, not because sunlight does not reach it. Researchers immediately noticed that fewer \" seas \" or maria existed on this portion of the moon that always faces away from earth. Wright, steinn sigurdsson, professor of astrophysics and arpita roy, graduate student in astronomy and astrophysics, and lead author of the study, realized that the absence of maria, which is due to a difference in crustal thickness between the side of the moon we see and the hidden side, is a consequence of how the moon originally formed. The researchers report their results in today's ( june 9 ) astrophysical journal letters. The general consensus on the moon's origin is that it probably formed shortly after the earth and was the result of a mars-sized object hitting earth with a glancing, but devastating impact. This giant impact hypothesis suggests that the outer layers of the earth",
-            "Sse home > multimedia > gallery > lunar maria lunar maria rate this image ( about ratings ) hi-res ( 306.1 kb ) lunar maria the smooth dark areas on the moon's surface are called maria ( plural for mare; latin for seas ). These volcanic plains are made up of a rock type known as basalt, similar in composition to the rocks found in hawaii. They cover 17 % of the surface area of the moon. The maria contain physical features such as pits and channels, but lack large volcanos. Features visible in this image of the western part of the lunar nearside include mare imbrium, mare humorum, mare nubium, and the craters copernicus and kepler. Copernicus is the most prominent crater with its bright rays composed of ejecta material. This image was taken by one of nasa's lunar orbiters in 1967. Image credit: nasa credit: lunar and planetary institute"
+            "University park, pa. -- the \" man in the moon \" appeared when meteoroids struck the earth-facing side of the moon creating large flat seas of basalt that we see as dark areas called maria. But no \" face \" exists on farside of the moon and now, penn state astrophysicists think they know why. \" i remember the first time i saw a globe of the moon as a boy, being struck by how different the farside looks, \" said jason wright, assistant professor of astrophysics. \" it was all mountains and craters. Where were the maria? it turns out it's been a mystery since the fifties. \" this mystery is called the lunar farside highlands problem and dates back to 1959, when the soviet spacecraft luna 3 transmitted the first images of the dark side of the moon back to earth. It was called the dark side because it was unknown, not because sunlight does not reach it. Researchers immediately noticed that fewer \" seas \" or maria existed on this portion of the moon that always faces away from earth. Wright, steinn sigurdsson, professor of astrophysics and arpita roy, graduate student in astronomy and astrophysics, and lead author of the study, realized that the absence of maria, which is due to a difference in crustal thickness between the side of the moon we see and the hidden side, is a consequence of how the moon originally formed. The researchers report their results in today's ( june 9 ) astrophysical journal letters. The general consensus on the moon's origin is that it probably formed shortly after the earth and was the result of a mars-sized object hitting earth with a glancing, but devastating impact. This giant impact hypothesis suggests that the outer layers of the earth"
         ],
         "raw_document": [
             "University park, pa. -- the \" man in the moon \" appeared when meteoroids struck the earth-facing side of the moon creating large flat seas of basalt that we see as dark areas called maria. But no \" face \" exists on farside of the moon and now, penn state astrophysicists think they know why. \" i remember the first time i saw a globe of the moon as a boy, being struck by how different the farside looks, \" said jason wright, assistant professor of astrophysics. \" it was all mountains and craters. Where were the maria? it turns out it's been a mystery since the fifties. \" this mystery is called the lunar farside highlands problem and dates back to 1959, when the soviet spacecraft luna 3 transmitted the first images of the dark side of the moon back to earth. It was called the dark side because it was unknown, not because sunlight does not reach it. Researchers immediately noticed that fewer \" seas \" or maria existed on this portion of the moon that always faces away from earth. Wright, steinn sigurdsson, professor of astrophysics and arpita roy, graduate student in astronomy and astrophysics, and lead author of the study, realized that the absence of maria, which is due to a difference in crustal thickness between the side of the moon we see and the hidden side, is a consequence of how the moon originally formed. The researchers report their results in today's ( june 9 ) astrophysical journal letters. The general consensus on the moon's origin is that it probably formed shortly after the earth and was the result of a mars-sized object hitting earth with a glancing, but devastating impact. This giant impact hypothesis suggests that the outer layers of the earth",
@@ -787,17 +783,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 7329,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Black kids are suspended much more often than white kids — and by kids, we mean kids. Almost half of all children suspended from preschool more than once are black, according to a new department of education study, even though black students make up just 18 % of preschoolers overall. Until now, education advocates have focused on disparities among high school and middle school students, the ap reports. \" we think of 4- and 5-year-olds as being innocent, \" says one analyst. But \" schools are using zero tolerance policies for our youngest also. \" overall, black students of any age are suspended and expelled at a rate three times that of white students. Eric holder hailed the report, the department's first to examine the problem among children so young, as \" critical, \" saying, \" this administration is moving aggressively to disrupt the school-to-prison pipeline. \" but some analysts tell politico that the report lumps together districts of different sizes and demographics. The data \" is cut in a way that hides as much as it reveals, \" one education advocate says.",
         "split": "train",
         "cleansed_document": [
-            "File - in this march 14, 2014, file photo, education secretary arne duncan speaks to reporters during briefing in the brady press briefing room of the white house in washington. Even preschoolers are... ( associated press ) file - in this march 14, 2014, file photo, education secretary arne duncan speaks to reporters during briefing in the brady press briefing room of the white house in washington. Even preschoolers are... ( associated press ) washington ( ap ) — black students are more likely to be suspended from u.s. Public schools — even as tiny preschoolers. The racial disparities in american education, from access to high-level classes and experienced teachers to discipline, were highlighted in a report released friday by the education department's civil rights arm. The suspensions — and disparities — begin at the earliest grades. Black children represent about 18 percent of children enrolled in preschool programs in schools, but almost half of the students suspended more than once, the report said. Six percent of the nation's districts with preschools reported suspending at least one preschool child. Advocates long have said get-tough suspension and arrest policies in schools have contributed to a \" school-to-prison \" pipeline that snags minority students, but much of the emphasis has been on middle school and high school policies. This was the first time the department reported data",
-            "More than 8,000 toddlers in the u.s. Were suspended from preschool at least once during the 2011 school year, new data from the u.s. Department of education show — a small but significant number, experts say, because preschool students shouldn't be sent home from school at all. The stat is part of a flood of information from the obama administration that examines race and equity issues in schools through dozens of data points, from pay for teachers in low-income schools to the percentage of black students taking ap calculus. Text size - + reset the department has so far released only its own analysis of the data, which includes information for nearly all of the 16,500 school districts nationwide. But even that preliminary analysis indicates the administration has a long way to go in moving the needle on some of its top education priorities, even on niche issues like expanding preschool and getting students to rise to the challenge of the common core academic standards. ( also on politico: full education policy coverage ) the data \"shines a clear, unbiased light \" on which areas are and aren't delivering on equity in education, education secretary arne duncan said. Some analysts weren't so confident that the data were illuminating. It \"is cut in a way that hides as much as it reveals, \" said daria hall, director of"
+            "File - in this march 14, 2014, file photo, education secretary arne duncan speaks to reporters during briefing in the brady press briefing room of the white house in washington. Even preschoolers are... ( associated press ) file - in this march 14, 2014, file photo, education secretary arne duncan speaks to reporters during briefing in the brady press briefing room of the white house in washington. Even preschoolers are... ( associated press ) washington ( ap ) — black students are more likely to be suspended from u.s. Public schools — even as tiny preschoolers. The racial disparities in american education, from access to high-level classes and experienced teachers to discipline, were highlighted in a report released friday by the education department's civil rights arm. The suspensions — and disparities — begin at the earliest grades. Black children represent about 18 percent of children enrolled in preschool programs in schools, but almost half of the students suspended more than once, the report said. Six percent of the nation's districts with preschools reported suspending at least one preschool child. Advocates long have said get-tough suspension and arrest policies in schools have contributed to a \" school-to-prison \" pipeline that snags minority students, but much of the emphasis has been on middle school and high school policies. This was the first time the department reported data"
         ],
         "raw_document": [
             "File - in this march 14, 2014, file photo, education secretary arne duncan speaks to reporters during briefing in the brady press briefing room of the white house in washington. Even preschoolers are... ( associated press ) file - in this march 14, 2014, file photo, education secretary arne duncan speaks to reporters during briefing in the brady press briefing room of the white house in washington. Even preschoolers are... ( associated press ) washington ( ap ) — black students are more likely to be suspended from u.s. Public schools — even as tiny preschoolers. The racial disparities in american education, from access to high-level classes and experienced teachers to discipline, were highlighted in a report released friday by the education department's civil rights arm. The suspensions — and disparities — begin at the earliest grades. Black children represent about 18 percent of children enrolled in preschool programs in schools, but almost half of the students suspended more than once, the report said. Six percent of the nation's districts with preschools reported suspending at least one preschool child. Advocates long have said get-tough suspension and arrest policies in schools have contributed to a \" school-to-prison \" pipeline that snags minority students, but much of the emphasis has been on middle school and high school policies. This was the first time the department reported data",
@@ -812,7 +807,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1010,7 +1005,7 @@
             "0": 0,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1109,7 +1104,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1161,7 +1156,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1194,12 +1189,11 @@
     },
     {
         "idx": 7343,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "An arizona woman was walking her two dogs last weekend when a herd of javelinas — hoofed mammals also known as peccaries or \" skunk pigs \" — charged and viciously mauled her, the arizona republic reports. They tore away at her upper body and neck with their teeth, forcing her to have surgery and receive treatment for rabies; she was hospitalized as of friday night. At least one of her dogs was injured and went into surgery as well. \" we are fortunate that the attack was not worse, \" says amy burnett, a game and fish spokeswoman. \" attacks by javelina on humans are rare, but when they happen, public safety is our main concern. \" six javelinas were killed as a public safety precaution, knxv-tv reports. Neighbors in fountain hills were partly to blame for illegally feeding the wild animals, officials say.",
         "split": "train",
         "cleansed_document": [
-            "Fountain hills, az - the arizona game and fish department says a woman suffered several bite marks after being attacked by wild animals last weekend. Officials say a woman was walking her dogs on saturday, april 30 when a herd of javelina came out of a nearby wash. The animals cross the road and attacked her and her dogs unprovoked, according to a news release from the department. The woman said she lost her footing and fell to the ground as two javelina began biting her. A neighbor driving by and her husband arrived at about the same time and were able to free the woman from the javelina and get her into her house. Two to four other javelina continued to chase and attack her dogs, authorities said. The woman was bitten several times to her upper body and neck area. Some of her injuries required surgery and she is receiving treatment for rabies as a precaution. Officials said to protect her privacy they are not releasing her name or a more specific location of where the incident happened. \" we are fortunate that the attack was not worse, \" said azgfd spokeswoman amy burnett. \" attacks by javelina on humans are rare, but when they happen, public safety is our main concern. \" officials said both dogs were injured but are expected to recover. One needed extensive surgery and the",
-            "A peccary ( also javelina or skunk pig ) is a medium-sized pig-like hoofed mammal of the family tayassuidae ( new world pigs ). They are found throughout central and south america and in the southwestern area of north america. Peccaries usually measure between 90 and 130 cm ( 3.0 and 4.3 ft ) in length, and a full-grown adult usually weighs about 20 to 40 kg ( 44 to 88 lb ). Peccaries, which are native to the americas, are often confused[ 3 ] with the pig family that originated in afro-eurasia, especially since some domestic pigs brought by european settlers have escaped over the years and now run wild as \" razorback \" hogs in many parts of the united states. [ 4 ] in many countries, especially in the developing world, they are kept as pets, in addition to being raised on farms as a source of food for local communities. [ 5 ] etymology [ edit ] the word peccary is derived from the carib word pakira or paquira. [ 6 ] in portuguese, a peccary is called pecari, porco-do-mato, queixada, or tajaçu, among other names; in spanish, \" javelina \", jabalí, sajino, or pecarí; in french guiana and suriname, pakira. Characteristics [ edit ] a peccary is a medium-sized animal, with a strong resemblance to a pig."
+            "Fountain hills, az - the arizona game and fish department says a woman suffered several bite marks after being attacked by wild animals last weekend. Officials say a woman was walking her dogs on saturday, april 30 when a herd of javelina came out of a nearby wash. The animals cross the road and attacked her and her dogs unprovoked, according to a news release from the department. The woman said she lost her footing and fell to the ground as two javelina began biting her. A neighbor driving by and her husband arrived at about the same time and were able to free the woman from the javelina and get her into her house. Two to four other javelina continued to chase and attack her dogs, authorities said. The woman was bitten several times to her upper body and neck area. Some of her injuries required surgery and she is receiving treatment for rabies as a precaution. Officials said to protect her privacy they are not releasing her name or a more specific location of where the incident happened. \" we are fortunate that the attack was not worse, \" said azgfd spokeswoman amy burnett. \" attacks by javelina on humans are rare, but when they happen, public safety is our main concern. \" officials said both dogs were injured but are expected to recover. One needed extensive surgery and the"
         ],
         "raw_document": [
             "Fountain hills, az - the arizona game and fish department says a woman suffered several bite marks after being attacked by wild animals last weekend. Officials say a woman was walking her dogs on saturday, april 30 when a herd of javelina came out of a nearby wash. The animals cross the road and attacked her and her dogs unprovoked, according to a news release from the department. The woman said she lost her footing and fell to the ground as two javelina began biting her. A neighbor driving by and her husband arrived at about the same time and were able to free the woman from the javelina and get her into her house. Two to four other javelina continued to chase and attack her dogs, authorities said. The woman was bitten several times to her upper body and neck area. Some of her injuries required surgery and she is receiving treatment for rabies as a precaution. Officials said to protect her privacy they are not releasing her name or a more specific location of where the incident happened. \" we are fortunate that the attack was not worse, \" said azgfd spokeswoman amy burnett. \" attacks by javelina on humans are rare, but when they happen, public safety is our main concern. \" officials said both dogs were injured but are expected to recover. One needed extensive surgery and the",
@@ -1214,7 +1208,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1288,12 +1282,11 @@
     },
     {
         "idx": 7346,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A south carolina couple died not from the wrath of florence, but rather from carbon monoxide poisoning after running a generator inside their home, reports the ap. Horry county chief deputy coroner tamara willard said 63-year-old mark carter king and 61-year-old debra collins rion were found in a loris home saturday afternoon, but they likely died the day before as the heavy rains and winds from the storm were moving onshore. The death toll now stands at 13, reports the ap. Florence has weakened into a tropical depression but flash flooding and major river flooding are expected to continue over significant portions of the carolinas. Elsewhere in storm-related developments: the national hurricane center says in its 5am update sunday that excessive rain is still being dumped in north carolina and the effect is expected to be \" catastrophic. \" an elevated risk of landslides is now expected in western north carolina. Already, more than 2 feet of rain has fallen in places, and forecasters are saying there could be an additional 1.5 feet before sunday is out. \" floodwaters are rising, and if you aren't watching for them, you are risking your life, \" gov. Roy cooper said. Cooper's asl interpreter has become something of a \" storm celebrity, \" notes the news &amp; observer. Forecasters say heavy rains also are expected early in the week in parts of west virginia and the west-central portion of virginia. Both states also are at a risk of dangerous flash floods and river flooding. At 5am sunday, florence was about 20 miles southwest of columbia, sc. It has top sustained winds of 35mph and is moving west at 8mph. Cnn has a storm tracker here.",
         "split": "train",
         "cleansed_document": [
-            "A downed tree uprooted by hurricane florence lies next to homes in new bern, n.c., saturday, sept. 15, 2018. ( ap photo/steve helber ) ( associated press ) a downed tree uprooted by hurricane florence lies next to homes in new bern, n.c., saturday, sept. 15, 2018. ( ap photo/steve helber ) ( associated press ) horry county, s.c. ( ap ) — the latest on tropical storm florence ( all times local ): 9 a.m. Authorities say a couple have died in south carolina after using a generator inside their home during florence. Horry county chief deputy coroner tamara willard said 63-year-old mark carter king and 61-year-old debra collins rion were killed by breathing in carbon monoxide. Willard said in a statement their bodies were found in a loris home saturday afternoon, but they likely died the day before as the heavy rains and winds from former hurricane-turned-tropical depression florence were moving onshore. ___ 5: 10 a.m. Florence has weakened into to tropical depression but flash flooding and major river flooding are expected to continue over significant portions of the carolinas. The national hurricane center says in its 5 a.m. Update sunday that excessive amounts of rain are still being dumped in north carolina and the effect is expected to be \" catastrophic. \" an",
-            "There wasn't much time for monica mcgee to prepare saturday afternoon. New information was coming in too fast, flood waters rising too quickly, roads closing too precipitously. Sometimes, when mcgee stands to roy cooper's left during emergency press conferences and interprets the governor's words into american sign language, she knows what's coming. Saturday, she had to wing it. Her fingers whirled as she spelled out roads and cities and counties, trying to keep up with cooper and the other officials who spoke at the hastily scheduled briefing, called as interstate traffic was being detoured around the entire state because of the worsening flooding. \"this one was draining, \" mcgee said afterward. \"spelling all of the counties associated with each river, that part of it tired me out early on, more so than normal. I did the best i could. \" mcgee's sign-language interpretation and the dramatic facial expressions and contortions of her upper body that go with it have made her something of a storm celebrity during hurricane florence, a performance as incomprehensible as it is mesmerizing to most but absolutely essential to a deaf and hard-of-hearing community that uses asl as a first language and numbers in the hundreds of thousands in north carolina. Premium"
+            "A downed tree uprooted by hurricane florence lies next to homes in new bern, n.c., saturday, sept. 15, 2018. ( ap photo/steve helber ) ( associated press ) a downed tree uprooted by hurricane florence lies next to homes in new bern, n.c., saturday, sept. 15, 2018. ( ap photo/steve helber ) ( associated press ) horry county, s.c. ( ap ) — the latest on tropical storm florence ( all times local ): 9 a.m. Authorities say a couple have died in south carolina after using a generator inside their home during florence. Horry county chief deputy coroner tamara willard said 63-year-old mark carter king and 61-year-old debra collins rion were killed by breathing in carbon monoxide. Willard said in a statement their bodies were found in a loris home saturday afternoon, but they likely died the day before as the heavy rains and winds from former hurricane-turned-tropical depression florence were moving onshore. ___ 5: 10 a.m. Florence has weakened into to tropical depression but flash flooding and major river flooding are expected to continue over significant portions of the carolinas. The national hurricane center says in its 5 a.m. Update sunday that excessive amounts of rain are still being dumped in north carolina and the effect is expected to be \" catastrophic. \" an"
         ],
         "raw_document": [
             "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain.",
@@ -1310,7 +1303,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1392,13 +1385,12 @@
     },
     {
         "idx": 7350,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Rapper ti doesn't want to be sexist, but... Yes, that's how the musician started a quote during an interview with sirius xm dj whoo kid when asked about hillary clinton's presidential bid, the huffington post reports. \" not to be sexist but, i can't vote for the leader of the free world to be a woman, \" ti said. \" just because, every other position that exists, i think a woman could do well. But the president? it's kinda like, i just know that women make rash decisions emotionally — they make very permanent, cemented decisions — and then later, it's kind of like it didn't happen, or they didn't mean for it to happen. And i sure would hate to just set off a nuke. \" if you're currently thinking, \" um, wow, \" we should mention that in the rapper's defense, he later issued an unconditional apology. But first, he continued: \" [ other leaders ] will not be able to negotiate the right kinds of foreign policy; the world ain't ready yet. I think you might be able to the loch ness monster elected before you could [ get a woman ]. \" that aforementioned apology came on twitter tuesday: \" my comments about women running for president were unequivocally insensitive and wrong. I sincerely apologize to everyone i offended. \" as vibe reports, ti also discussed donald trump's presidential bid during the sirius interview, noting that though he admires trump as a businessman, \" you know, his racist remarks and all of his off-color statements and all that s --- it makes it impossible to be completely supportive of him. \" ( a female ceo made basically the same argument about female presidents earlier this year. )",
         "split": "train",
         "cleansed_document": [
             "On the heels of pharrell stamping his endorsement for hillary clinton as the next american president, one rapper has expressed feelings on the contrary. In a sit-down with dj whoo kid, t.i. Divulged his thoughts on clinton as the potential 45th commander-in-chief, remarking that he was not here for a woman being elected. \"not to be sexist but, i can't vote for the leader of the free world to be a woman, \" he said. \"just because, every other position that exists, i think a woman could do well. But the president? it's kinda like, i just know that women make rash decisions emotionally – they make very permanent, cemented decisions – and then later, it's kind of like it didn't happen, or they didn't mean for it to happen. And i sure would hate to just set off a nuke. [ other leaders ] will not be able to negotiate the right kinds of foreign policy; the world ain't ready yet. I think you might be able to the loch ness monster elected before you could [ get a woman ]. \" read: this poem by t.i. Urges black lives matter supporters to take action beyond social media",
-            "When sirius xm's dj whoo kid asked rapper t.i. About his thoughts on hillary clinton's 2016 presidential run, he had some... Interesting thoughts. We're just going to leave this quote right here in full ( emphasis ours ): not to be sexist but, i can't vote for the leader of the free world to be a woman. Just because, every other position that exists, i think a woman could do well. But the president? it's kinda like, i just know that women make rash decisions emotionally -- they make very permanent, cemented decisions -- and then later, it's kind of like it didn't happen, or they didn't mean for it to happen. And i sure would hate to just set off a nuke. [ other leaders ] will not be able to negotiate the right kinds of foreign policy; the world ain't ready yet. I think you might be able to the lochness monster elected before you could [ get a woman ]. Pro tip: never start a sentence with \" not to be sexist but... \" update: t.i. Responded to the backlash over his original comments on twitter.",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "When sirius xm's dj whoo kid asked rapper t.i. About his thoughts on hillary clinton's 2016 presidential run, he had some... Interesting thoughts. We're just going to leave this quote right here in full ( emphasis ours ): not to be sexist but, i can't vote for the leader of the free world to be a woman. Just because, every other position that exists, i think a woman could do well. But the president? it's kinda like, i just know that women make rash decisions emotionally -- they make very permanent, cemented decisions -- and then later, it's kind of like it didn't happen, or they didn't mean for it to happen. And i sure would hate to just set off a nuke. [ other leaders ] will not be able to negotiate the right kinds of foreign policy; the world ain't ready yet. I think you might be able to the lochness monster elected before you could [ get a woman ]. Pro tip: never start a sentence with \" not to be sexist but... \" update: t.i. Responded to the backlash over his original comments on twitter."
         ],
         "raw_document": [
             "On the heels of pharrell stamping his endorsement for hillary clinton as the next american president, one rapper has expressed feelings on the contrary. In a sit-down with dj whoo kid, t.i. Divulged his thoughts on clinton as the potential 45th commander-in-chief, remarking that he was not here for a woman being elected. \"not to be sexist but, i can't vote for the leader of the free world to be a woman, \" he said. \"just because, every other position that exists, i think a woman could do well. But the president? it's kinda like, i just know that women make rash decisions emotionally – they make very permanent, cemented decisions – and then later, it's kind of like it didn't happen, or they didn't mean for it to happen. And i sure would hate to just set off a nuke. [ other leaders ] will not be able to negotiate the right kinds of foreign policy; the world ain't ready yet. I think you might be able to the loch ness monster elected before you could [ get a woman ]. \" read: this poem by t.i. Urges black lives matter supporters to take action beyond social media",
@@ -1415,7 +1407,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1440,7 +1432,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1694,7 +1686,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1744,7 +1736,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1878,7 +1870,7 @@
             "0": 0,
             "1": 0,
             "2": 4,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1906,7 +1898,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1959,7 +1951,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2144,7 +2136,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2313,18 +2305,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 7385,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Joshua lee long's aunt was probably freaked out when she found the human brain in a walmart bag while she was cleaning out a trailer near newville, pa. Chances are she was horrified when long, in custody on burglary charges, allegedly told her what he did with it. During a call from prison, long reportedly told his aunt that, yes, the brain was his, and he used the embalming fluid in which it was preserved to get high — namely by soaking his marijuana in it before sparking up, wgal reports. He called the brain freddy, and a coroner subsequently confirmed it had come from a human and was probably used for teaching. The whole episode has gained long, 26, a couple of new charges: abuse of a corpse and conspiracy, wesh reports. But long didn't indulge in \" smoking wet \" by himself, fox 43 reports. According to court documents he would partake in the \" intense, hallucinating, and dangerous high \" with robby zoller, who, with angela micklo, lived in the trailer where long's aunt — micklo's sister — found the brain. Zoller and micklo are currently at large. \" it just scares me to death, \" a neighbor tells fox. \" i didn't think they were that kind of people, but nowadays, you never know. \" as for the brain, a state trooper says: \" at this point now we're just trying to figure out where it came from. We're hoping that if anyone is missing a human specimen brain to bring it to our attention and maybe we can return it to its rightful owner. \" ( stolen brains have turned up on ebay. )",
         "split": "train",
         "cleansed_document": [
             "Court records: carlisle man soaked marijuana in formaldehyde that had preserved human brain a carlisle man, already in prison on multiple burglary charges, is now facing charges he abused a corpse. - download the wgal app advertisement joshua long is accused of stealing a human brain and soaking marijuana in the formaldehyde that had preserved it. Court records show long's aunt came across the brain in a walmart bag while she was cleaning out a trailer outside newville. Records show she called long in prison and he confessed to having the brain and to having used the embalming fluid to get high. He even gave the brain a nickname: freddy. The coroner examined the brain and determined it is a real human brain. The coroner also said that it was likely a teaching specimen. Alertme",
-            "A central pennsylvania man is accused of spraying fluid used to embalm a human brain on marijuana that he then smoked. Never miss a beat download the wesh 2 news app to stay on top of the latest news in central florida and beyond. More state police in carlisle on thursday charged 26-year-old joshua lee long with abuse of a corpse and conspiracy. Wgal-tv says court records indicate long's aunt discovered the brain in a department store bag while cleaning out a trailer. Long allegedly told her during a phone conversation from the cumberland county jail that he used the formaldehyde-soaked pot to get high. Court records indicate a coroner concluded the brain was real and that long supposedly named it freddy. According to the arrest affidavit, the coroners who examined the brain believe it is \" most likely \" a stolen medical specimen. Long remains in jail, and court records don't list a lawyer for him.",
-            "Please enable javascript to watch this video penn township, pa. -- pat beck and her husband david thought something might be wrong when the police showed up to the vacant trailer-home next door in late june. On friday, when they learned a human brain was found under their neighbor's porch, the couple was terrified. \" it just scares me to death, \" pat said. \" i didn't think they were that kind of people, but nowadays, you never know. \" the brain was found in a wal-mart bag under the trailer's front porch. Police say the duo who used to live there is wanted for participating in multiple burglaries. On thursday, pennsylvania state police charged joshua long, 26 of carlisle, with abuse of a corpse for his role in the brain activity. According to court documents, long would frequent the penn township home of robby zoller and angela micklo. While there,"
+            "A central pennsylvania man is accused of spraying fluid used to embalm a human brain on marijuana that he then smoked. Never miss a beat download the wesh 2 news app to stay on top of the latest news in central florida and beyond. More state police in carlisle on thursday charged 26-year-old joshua lee long with abuse of a corpse and conspiracy. Wgal-tv says court records indicate long's aunt discovered the brain in a department store bag while cleaning out a trailer. Long allegedly told her during a phone conversation from the cumberland county jail that he used the formaldehyde-soaked pot to get high. Court records indicate a coroner concluded the brain was real and that long supposedly named it freddy. According to the arrest affidavit, the coroners who examined the brain believe it is \" most likely \" a stolen medical specimen. Long remains in jail, and court records don't list a lawyer for him."
         ],
         "raw_document": [
             "Court records: carlisle man soaked marijuana in formaldehyde that had preserved human brain a carlisle man, already in prison on multiple burglary charges, is now facing charges he abused a corpse. - download the wgal app advertisement joshua long is accused of stealing a human brain and soaking marijuana in the formaldehyde that had preserved it. Court records show long's aunt came across the brain in a walmart bag while she was cleaning out a trailer outside newville. Records show she called long in prison and he confessed to having the brain and to having used the embalming fluid to get high. He even gave the brain a nickname: freddy. The coroner examined the brain and determined it is a real human brain. The coroner also said that it was likely a teaching specimen. Alertme",
@@ -2341,7 +2332,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2398,12 +2389,11 @@
     },
     {
         "idx": 7388,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When the conversation turned to global warming during the first presidential debate monday, donald trump was quickly disproved by donald trump's twitter account. Cbs news reports hillary clinton claimed trump called global warming a chinese hoax. \" i did not, \" vox quotes trump's response. \" i do not say that. \" the internet quickly showed otherwise. \" the concept of global warming was created by and for the chinese in order to make us manufacturing non-competitive, \" trump tweeted in 2012. As for clinton's thoughts on global warming being a hoax: \" i think it's real. \"",
         "split": "train",
         "cleansed_document": [
-            "Donald trump's first major interruption of hillary clinton at monday's presidential debate came when she made a claim about his past remarks: \"donald thinks that climate change is a hoax perpetrated by the chinese, \" she said. \"i think it's real. \" trump responded, \"i did not. I do not say that. \" he did. Here is the tweet proving it: the concept of global warming was created by and for the chinese in order to make u.s. Manufacturing non-competitive. — donald j. Trump ( @realdonaldtrump ) november 6, 2012 watch: a plea for sanity — and seriousness — in judging the presidential debate",
-            "10: 39 the first debate is over. 10: 37 the candidates are asked if they will accept the outcome of the will of the voters on election day. Clinton said, \"i support our democracy... Sometimes you win, sometimes you lose. \" \"i certainly will support the outcome of this election, \" clinton. After a long-winded answer, trump said, \"if she wins, i will absolutely support her. \" 10: 33 trump is asked what he meant when he said earlier this month that clinton \"doesn't have a presidential look. \" \"she doesn't have the look. She doesn't have the stamina. And i don't believe she does have the stamina, \" trump said. 10: 30 clinton said \"words matter \" and wants to reassure allies that the u.s. Abides by nuclear treaties and pledges. 10: 29 trump is asked if he supports the current policy of first use with regard with nuclear weapons. He then accused clinton of acting \"cavalier \" with the russians. He then said that russia has been expanding their nuclear capabilities. \"i can't take anything off the table, \" trump said. 10: 26 trump said that the single greatest problem facing the u.s. Is \"nuclear armament \" and \"nuclear weapons. \" he added, \"not global warming. \" 10: 20 trump reiterated his claim that he was against the war in iraq. \"i was against the war in iraq, \" trump said. Lestor holt responded, \"the record shows otherwise. \" trump said it was \"mainstream media nonsense put out by [ clinton ] \" and then he listed a number of interviews he did at the time. He then repeatedly said that he has a strong temperament. \"i have a winning temperament, \" he said. 10: 17 trump repeated"
+            "Donald trump's first major interruption of hillary clinton at monday's presidential debate came when she made a claim about his past remarks: \"donald thinks that climate change is a hoax perpetrated by the chinese, \" she said. \"i think it's real. \" trump responded, \"i did not. I do not say that. \" he did. Here is the tweet proving it: the concept of global warming was created by and for the chinese in order to make u.s. Manufacturing non-competitive. — donald j. Trump ( @realdonaldtrump ) november 6, 2012 watch: a plea for sanity — and seriousness — in judging the presidential debate"
         ],
         "raw_document": [
             "Donald trump's first major interruption of hillary clinton at monday's presidential debate came when she made a claim about his past remarks: \"donald thinks that climate change is a hoax perpetrated by the chinese, \" she said. \"i think it's real. \" trump responded, \"i did not. I do not say that. \" he did. Here is the tweet proving it: the concept of global warming was created by and for the chinese in order to make u.s. Manufacturing non-competitive. — donald j. Trump ( @realdonaldtrump ) november 6, 2012 watch: a plea for sanity — and seriousness — in judging the presidential debate",
@@ -2420,7 +2410,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2475,7 +2465,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2583,7 +2573,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2669,7 +2659,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2696,7 +2686,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 1
         }
     },
     {

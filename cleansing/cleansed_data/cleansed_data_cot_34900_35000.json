@@ -24,7 +24,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -189,7 +189,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -250,7 +250,7 @@
             "2": 0,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 1
         }
     },
     {
@@ -334,13 +334,12 @@
     },
     {
         "idx": 34912,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It appears that around 80 million years ago, a theropod dinosaur roughly the size of a transit bus died near the sea and was jostled by waves, and at some point part of its femur became wedged into a rocky outcrop alongside clam fossils in washington state's san juan islands. So surmise paleontologists at the university of washington, who excavated the 17-inch-long bone a month after it was found by other scientists looking for extinct marine invertebrates in april 2012, reports livescience. The team spent the next year and a half preparing the fossil before they sorted out that what they had on their hands was in fact the first dinosaur bone ever found in the state. ( t. Rex is a type of theropod, by the way, though at 36 feet this dinosaur was a bit smaller. ) \" for the longest time, i was unconvinced that we were going to be able to say anything else besides, ' it's a large bone, ' \" one researcher says. \" i couldn't tell if it was a dinosaur, couldn't tell if it was a marine reptile, couldn't tell anything about it. \" they were \" lucky, \" he adds, that it was preserved enough for them to find two clues. First, the bone has a hollow cavity, and second, a feature called a \" fourth trochanter, \" both suggesting a theropod, they report this week in plos one. The find makes washington the 37th state to lay claim to a dino fossil; the area was in fact largely underwater at the time, reports the seattle times. A few theories are floating around about why a land roamer has been found there, including that it made its way north from oregon or california. ( dinosaurs appear to have first emerged in south america. )",
         "split": "train",
         "cleansed_document": [
             "The leg bone weighs 15 pounds, is 16.7 inches and is the first dinosaur fossil found in washington. Much of the region was under water during that era 80 million years ago. The fossil has the very sexy name of uwbm 96770, but at the burke museum, they're pretty excited. The fossil is not that big — 16.7 inches long, weighing maybe 15 pounds. But it is the first dinosaur bone ever found in this state. It was a leg bone from an animal from the t. Rex family, but smaller by tyrannosauroid standards — around 36 feet long. Still, think of a transit bus to imagine its size. Think of a carnivorous transit bus with bone-crunching teeth. The fossil is a rarity in this state because it goes back 80 million years. Much of the land mass that encompasses our region didn't exist in those days",
-            "The study's two authors, christian sidor, burke museum curator of vertebrate paleontology, and brandon peecook, university of washington graduate student, compare the recently found fossil ( right ) with a cast of a daspletosaurus femur ( left ). A fragmented femur bone hidden underwater for millions of years has become the first evidence that a dinosaur once roamed washington, a new study finds. And not just any dinosaur: this beast was a theropod — a two-legged, mostly meat-eating group of beasts, such as tyrannosaurus rex and velociraptor, that are related to modern-day birds, the researchers said. Scientists found the 80-million-year-old fossil of the dinosaur when they were searching for ammonites — extinct marine invertebrates with spiral shells — and other fossilized animals. They had focused their fieldwork in the san juan islands, an archipelago located a short ferry ride away from the seattle area. [ see images",
-            "The late cretaceous of north america hosted the height of tyrannosauroid diversity, with potentially up to nine genera known from the campanian and maastrichtian of laramidia alone [ 4, 98 ]. Lythronax argestes was recently described from the middle campanian ( between 80.6 ± 0.15 ma and 79.9 ± 0.3 ma ) of utah as the earliest occurring member of tyrannosauridae, overlapping the time of cedar district formation deposition [ 4, 41 ]. Other campanian tyrannosauroids from laramidia include daspletosaurus torosus, gorgosaurus libratus, teratophoneus curriei, and bistahieversor sealeyi [ 99 – 102 ]. The diversity of tyrannosauroids and their widespread occurrence on laramidia suggest that it would not be surprising if uwbm 95770 belonged to this clade. An earliest campanian origin of tyrannosaurids on laramidia was proposed by loewen et al. [ 4 ]. If the baja-british columbia ( bbc ) hypothesis is correct and uwbm 95770 represents a tyrannosauroid, then it"
+            "The study's two authors, christian sidor, burke museum curator of vertebrate paleontology, and brandon peecook, university of washington graduate student, compare the recently found fossil ( right ) with a cast of a daspletosaurus femur ( left ). A fragmented femur bone hidden underwater for millions of years has become the first evidence that a dinosaur once roamed washington, a new study finds. And not just any dinosaur: this beast was a theropod — a two-legged, mostly meat-eating group of beasts, such as tyrannosaurus rex and velociraptor, that are related to modern-day birds, the researchers said. Scientists found the 80-million-year-old fossil of the dinosaur when they were searching for ammonites — extinct marine invertebrates with spiral shells — and other fossilized animals. They had focused their fieldwork in the san juan islands, an archipelago located a short ferry ride away from the seattle area. [ see images"
         ],
         "raw_document": [
             "The leg bone weighs 15 pounds, is 16.7 inches and is the first dinosaur fossil found in washington. Much of the region was under water during that era 80 million years ago. The fossil has the very sexy name of uwbm 96770, but at the burke museum, they're pretty excited. The fossil is not that big — 16.7 inches long, weighing maybe 15 pounds. But it is the first dinosaur bone ever found in this state. It was a leg bone from an animal from the t. Rex family, but smaller by tyrannosauroid standards — around 36 feet long. Still, think of a transit bus to imagine its size. Think of a carnivorous transit bus with bone-crunching teeth. The fossil is a rarity in this state because it goes back 80 million years. Much of the land mass that encompasses our region didn't exist in those days",
@@ -357,7 +356,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -495,13 +494,12 @@
     },
     {
         "idx": 34918,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "In a heartbreaking ending to an already tragic story, the 2-month-old giraffe whose mother trampled a us scientist and her 3-year-old son in south africa earlier this month has died. Katy williams and son finn were near their home in blyde wildlife estate when they surprised the mother and calf, and the mother attacked. Both giraffes were to be relocated from the wildlife reserve to another location; the mother survived the move, but the calf did not, the times reports. \" it is with the utmost sadness that we have to break the news that the 2-month-old calf unfortunately did not survive, \" the board of the estate said in a statement. The estate manager adds that \" all necessary precautions were taken and all legal requirements were adhered to, \" and says everyone involved is \" devastated, \" the new york daily news reports. As for the williams family, their lawyer says katy \" understands that it will take time to recover fully‚ but she has a positive attitude and she is surprising doctors with her rapid progress. She is communicating by writing words and sentences on paper‚ and she has written to ask [ husband ] sam to thank everyone for their overwhelming support so far on her behalf. \" a gofundme campaign set up to raise money for medical expenses says she is also using sign language. Finn, according to the crowdfunding page, is \" stable but still in critical condition, and sam has stated that he hopes he wakes up so that they can be reunited as a family. \" the family's lawyer says finn has been sedated but is beginning to wake up; the severity of his injuries will be better understood when he has regained consciousness.",
         "split": "train",
         "cleansed_document": [
             "\"she is communicating by writing words and sentences on paper, and she has written to ask sam to thank everyone for their overwhelming support so far on her behalf. \"",
-            "The giraffe cow that seriously injured a mother and son at the blyde wildlife estate in limpopo was relocated on tuesday but her two-month-old calf did not survive. Dr katy williams‚ 35‚ and three-year-old finn‚ were injured when they were attacked by the female giraffe at the estate – where they live - outside hoedspruit on september 3. The mother and son survived but were taken to hospital in a critical condition and underwent surgery. The family's lawyer‚ marina botha from botha &amp; lovegrove incorporated‚ said on friday that williams'recovery was going well and her condition was improving daily. \"she understands that it will take time to recover fully‚ but she has a positive attitude and she is surprising doctors with her rapid progress. She is communicating by writing words and sentences on paper‚ and she has written to … thank everyone for their overwhelming support so far on her behalf. \"",
-            "Katy willams, a wildlife biologist, and her three year old son finn were attacked by a giraffe whilst walking close to their home near hoedspruit, south africa, and sustained life changing injuries. They are currently both in hospital in critical condition. It will be a long and difficult recovery for both of them so this is to raise funds to help support the family throughout the process. You can find an article covering the accident here if you are based outside the uk you can still donate as normal - here are the details about payments from abroad made to the platform: \" we do not charge any conversion fees, but your donors may want to check with their bank to see if they charge a currency conversion fee. \""
+            "The giraffe cow that seriously injured a mother and son at the blyde wildlife estate in limpopo was relocated on tuesday but her two-month-old calf did not survive. Dr katy williams‚ 35‚ and three-year-old finn‚ were injured when they were attacked by the female giraffe at the estate – where they live - outside hoedspruit on september 3. The mother and son survived but were taken to hospital in a critical condition and underwent surgery. The family's lawyer‚ marina botha from botha &amp; lovegrove incorporated‚ said on friday that williams'recovery was going well and her condition was improving daily. \"she understands that it will take time to recover fully‚ but she has a positive attitude and she is surprising doctors with her rapid progress. She is communicating by writing words and sentences on paper‚ and she has written to … thank everyone for their overwhelming support so far on her behalf. \""
         ],
         "raw_document": [
             "\"she is communicating by writing words and sentences on paper, and she has written to ask sam to thank everyone for their overwhelming support so far on her behalf. \"",
@@ -518,7 +516,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -573,15 +571,14 @@
     },
     {
         "idx": 34921,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Irate rick and morty fans are furious over a mcdonald's stunt that went badly wrong, the bbc reports. Caving to a running gag on the popular tv show, mcdonald's offered to hand out a limited edition of a defunct szechuan dipping sauce at its shops on saturday. But per fox news, fans who lined up for hours outside the golden arches in many states were calling for a boycott after learning the outlets had only a few packets to give away — and in some cases none at all. \" we want sauce, \" people chanted, with police called to restrain them at some locations. An angry crowd in newark, nj, held up protest signs, per the guardian. \" 1000+ people camped out to get #szechuan sauce but mcdonalds had 70, \" one annoyed fan tweeted. \" drove 4 hours at 6am... No sauce, wouldn't even give us a poster, \" another complained. \" mcdonalds you suck. Only 10 posters &amp; 20 packets … to a store, \" tweeted a third. The condiment craze dates back to 1998 when mcdonald's launched the spicy sauce to promote the movie mulan. Rick, one of the stars of the snarky science-fiction cartoon, makes it his mission to get some, explains the huffington post, resulting in sauce-themed memes and prompting a petition. Mcdonald's finally agreed to a \" really, really limited release \" of the sauce and was left apologizing for the snafu. \" we hear you &amp; we're sorry, \" the company tweeted. Some enterprising customers managed to score some packets and promptly hawked them on ebay for hundreds of dollars, per fortune. ( mcdonald's sent a jug of sauce to one of the rick and morty creators. )",
         "split": "train",
         "cleansed_document": [
             "Cartoon network's satirical, smart rick and morty is huge among millennials, but an attempt by fast-food giant mcdonald's to capitalize on one of the show's running gags appears to be backfiring. The backstory here is appropriately absurd. Rick and morty, co-created by community mastermind dan harmon, chronicles the adventures of an alcoholic superscientist and his mostly inept grandson, mixing absurd catchphrases, fantastic alien worlds, and extremely sharp storytelling into a cocktail that's ripe for the internet age. One of the show's gags had rick obsessively questing for mcdonald's szechuan nugget sauce, a promotional flavor briefly offered in conjunction with the disney film mulan",
             "\"i want that mulan mcnugget sauce, morty, \" says rick at the end of season premiere. \"that's my series arc, morty! if it takes nine seasons! \" so last week, after fans petitioned and pressured the chain, mcdonald's finally gave in. Unfortunately the event was mostly a letdown, and \"rick and morty \" fans let everyone know how angry they were on twitter.",
             "Mcdonald's is receiving major backlash after a failed attempt at bringing back a cult-favorite sauce. As previously reported, mcdonald's had agreed to bring back the discontinued szechuan sauce following pleas from cartoon network's adult cartoon, \"rick and morty. \" mcdonald's announced last week that for one-day only, the fast food restaurant would carry the szechuan sauce for customers at participating locations. Burger king item hits grocery stores that one day – saturday, october 7 – \"rick and morty \" and szechuan sauce fans gathered outside mcdonald's restaurants nationwide. Thousands lined up hours before the packets were allowed to be sold, all clamoring for the sweet plum sauce.",
-            "Image copyright twitter image caption mcdonalds sent the out-of production sauce to the show's creators before announcing its return a mcdonald's pr stunt to bring back a rare dipping sauce left thousands of fans disappointed, with police called to some us restaurants on saturday. The szechuan sauce, which was only made in 1998 to promote the film mulan, has become well known after featuring in the popular cartoon rick and morty. In july the chain sent a large bottle of the sauce to the show's creators. They then announced it would come back for one day on 7 october, but fans were left disappointed after stores ran out. In one video,",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Image copyright twitter image caption mcdonalds sent the out-of production sauce to the show's creators before announcing its return a mcdonald's pr stunt to bring back a rare dipping sauce left thousands of fans disappointed, with police called to some us restaurants on saturday. The szechuan sauce, which was only made in 1998 to promote the film mulan, has become well known after featuring in the popular cartoon rick and morty. In july the chain sent a large bottle of the sauce to the show's creators. They then announced it would come back for one day on 7 october, but fans were left disappointed after stores ran out. In one video,"
         ],
         "raw_document": [
             "Cartoon network's satirical, smart rick and morty is huge among millennials, but an attempt by fast-food giant mcdonald's to capitalize on one of the show's running gags appears to be backfiring. The backstory here is appropriately absurd. Rick and morty, co-created by community mastermind dan harmon, chronicles the adventures of an alcoholic superscientist and his mostly inept grandson, mixing absurd catchphrases, fantastic alien worlds, and extremely sharp storytelling into a cocktail that's ripe for the internet age. One of the show's gags had rick obsessively questing for mcdonald's szechuan nugget sauce, a promotional flavor briefly offered in conjunction with the disney film mulan",
@@ -602,17 +599,16 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 5
         }
     },
     {
         "idx": 34922,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Baby doc duvalier's homecoming to haiti may not be going as smoothly as he hoped. Haitian police today took the former dictator from his hotel room, reports ap, though it remains unclear exactly what's going on. Earlier, a judge accompanied by officers questioned him in his room about allegations of looting the nation's treasury during his reign, notes reuters. \" he will be questioned and he will remain at the disposal of the judicial system, \" said a senior official. \" they will determine whether to prosecute him. \" duvalier said nothing as he was being led into the police vehicle, and his girlfriend only laughed when asked if he had been arrested. Human rights groups have been calling for just that ever since his surprise return over the weekend.",
         "split": "train",
         "cleansed_document": [
-            "Former haitian dictator jean-claude \" baby doc \" duvalier ( c ) is escorted by friends and the police from his hotel in port-au-prince, january 18, 2011. Port-au-prince &#124; port-au-prince ( reuters ) - haiti on tuesday briefly detained former dictator jean-claude \" baby doc \" duvalier, back from exile in france, and charged him with corruption, theft and abuses of power allegedly committed during his 15-year rule. While a noisy crowd of his supporters protested outside the prosecutor's office, duvalier, 59, was questioned over accusations that he stole public funds and committed human rights abuses after taking over as president in 1971. Port-au-prince chief prosecutor aristidas auguste said his office had filed charges against duvalier of corruption, theft, misappropriation of funds and other alleged crimes committed during the former president's 1971-1986 period in power. \" his fate is now in the hands of the investigating judge. We have brought charges against him, \" auguste told reuters. The charges must now be investigated by the judge who will decide whether a criminal case should go ahead. After several hours of questioning, he left the prosecutor's office but was ordered to remain in the country at the disposition of judicial authorities. \" he doesn't have the right to go anywhere, \" investigating judge carves jean said. Duvalier, who fled haiti",
-            "Haitian police took ex-dictator jean-claude duvalier out of his hotel tuesday without saying whether he was being detained for crimes committed under his brutal regime. National police officers patrol a corridor at the hotel's floor where haiti's former dictator jean-claude \" baby doc \" duvalier is staying in port-au-prince, haiti, tuesday jan. 18, 2011. According to... ( associated press ) national police officers stand guard in front of the room of haiti's former dictator jean-claude \" baby doc \" duvalier at a hotel in port-au-prince, haiti, tuesday jan. 18, 2011. According to a police officer... ( associated press ) jose miguel insulza, secretary general of the organization of the american states, talks with the press after meeting with haiti's president rene preval at the presidential palace in port-au-prince, haiti,... ( associated press ) haiti's former dictator jean-claude \" baby-doc \" duvalier, center, and his wife veronique roy are helped by a police officer as they are surrounded by reporters upon their arrival to the toussaint louverture... ( associated press ) national police officers patrol the corridor of the floor of the hotel where haiti's former dictator jean-claude \" baby doc \" duvalier is staying in port-au-prince, haiti, tuesday jan. 18, 2011. According... ( associated press ) haiti's former dictator jean-claude \" baby doc \" duvalier"
+            "Former haitian dictator jean-claude \" baby doc \" duvalier ( c ) is escorted by friends and the police from his hotel in port-au-prince, january 18, 2011. Port-au-prince &#124; port-au-prince ( reuters ) - haiti on tuesday briefly detained former dictator jean-claude \" baby doc \" duvalier, back from exile in france, and charged him with corruption, theft and abuses of power allegedly committed during his 15-year rule. While a noisy crowd of his supporters protested outside the prosecutor's office, duvalier, 59, was questioned over accusations that he stole public funds and committed human rights abuses after taking over as president in 1971. Port-au-prince chief prosecutor aristidas auguste said his office had filed charges against duvalier of corruption, theft, misappropriation of funds and other alleged crimes committed during the former president's 1971-1986 period in power. \" his fate is now in the hands of the investigating judge. We have brought charges against him, \" auguste told reuters. The charges must now be investigated by the judge who will decide whether a criminal case should go ahead. After several hours of questioning, he left the prosecutor's office but was ordered to remain in the country at the disposition of judicial authorities. \" he doesn't have the right to go anywhere, \" investigating judge carves jean said. Duvalier, who fled haiti"
         ],
         "raw_document": [
             "Former haitian dictator jean-claude \" baby doc \" duvalier ( c ) is escorted by friends and the police from his hotel in port-au-prince, january 18, 2011. Port-au-prince &#124; port-au-prince ( reuters ) - haiti on tuesday briefly detained former dictator jean-claude \" baby doc \" duvalier, back from exile in france, and charged him with corruption, theft and abuses of power allegedly committed during his 15-year rule. While a noisy crowd of his supporters protested outside the prosecutor's office, duvalier, 59, was questioned over accusations that he stole public funds and committed human rights abuses after taking over as president in 1971. Port-au-prince chief prosecutor aristidas auguste said his office had filed charges against duvalier of corruption, theft, misappropriation of funds and other alleged crimes committed during the former president's 1971-1986 period in power. \" his fate is now in the hands of the investigating judge. We have brought charges against him, \" auguste told reuters. The charges must now be investigated by the judge who will decide whether a criminal case should go ahead. After several hours of questioning, he left the prosecutor's office but was ordered to remain in the country at the disposition of judicial authorities. \" he doesn't have the right to go anywhere, \" investigating judge carves jean said. Duvalier, who fled haiti",
@@ -627,7 +623,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -704,7 +700,7 @@
         "vote_count": {
             "0": 3,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -759,12 +755,11 @@
     },
     {
         "idx": 34928,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Despite libyans'revolt against their leader, many in the country, and tripoli in particular, still fervently support moammar gadhafi, reports the washington post. The paper tells of \" near round-the-clock displays of devotion \" in the capital, with residents clad in gadhafi green chanting while holding pictures of their leader. His portrait is everywhere, in fact: hanging from lampposts, displayed in shopping centers and office buildings. One rebel explains that \" 75 % of the people are against him, \" but \" there are some people who really do love him. They think he's in their blood. \" \" he gave us freedom and everything we need, \" says a supporter. Oil-rich libya has supported its people with free health care and education, and per-capita incomes are twice that of egypt's residents, notes the post. Meanwhile, in the first enforcement of the no-fly zone, a french warplane destroyed a small libyan loyalist plane that had been spotted flying, the bbc reports.",
         "split": "train",
         "cleansed_document": [
-            "To all outward appearances, this is a city deeply enamored of libyan leader moammar gaddafi. His portrait hangs from lampposts, adorns shopping centers and sprouts from the gleaming new office blocks rising from the seafront. Sayings from his green book, required reading for all schoolchildren, are posted in government buildings, including public restrooms. And his supporters, draped in gaddafi green and clutching pictures of their beloved leader, noisily and passionately assert their presence in near round-the-clock displays of devotion. Hurtling through the streets in pickups or gathering in tripoli's central green square, they bellow the rhythmic chant that encapsulates the omnipotence of gaddafi's self-ascribed role: \"god, moammar, libya: enough! \" how deep that support runs in a populace that has been governed by fear for decades is impossible to tell. But six days into the allied bombardment of libyan military targets, it is clear that gaddafi can count on the fierce loyalties of at least a significant segment of the population in the vast stretches that lie beyond the enclave of rebel-held territory in the east. \"we don't want anyone except him, \" gushed fatima al-mishai, 20, who joined the crowds assembled at gaddafi's bab al-aziziyah compound to offer their services as voluntary human shields against the bombs. \"he gave us freedom and everything we need. \" indeed",
-            "Image caption french rafale jets have been heavily involved in enforcing the libyan no-fly zone a french warplane has destroyed a libyan aircraft that had been flying in breach of the un no-fly zone, french officials say. The smaller trainer aircraft had just landed in the besieged city of misrata when it was attacked, they say. It is the first incident of its kind since enforcement of the zone began. Meanwhile, turkey's foreign minister has said nato will take command of the international mission in libya within a day or two. \" compromise has been reached in principle in a very short time, \" ahmet davutoglu was quoted as saying after a conference call with his us, french and british counterparts. Turkey, a nato member, had earlier raised objections to the organisation taking command without certain conditions first being agreed. Reports from brussels suggest that the mission might be placed under nato control, but overseen by a military council including some arab states. A senior us military official confirmed the handover could come as early as this weekend.'stop fighting ' vice-admiral bill gortney also told a pentagon briefing that a total of 350 aircraft were now involved in the operation in some way, about half of them american. A total of 38 ships were participating, he said, 12 of them from the us. Analysis the"
+            "To all outward appearances, this is a city deeply enamored of libyan leader moammar gaddafi. His portrait hangs from lampposts, adorns shopping centers and sprouts from the gleaming new office blocks rising from the seafront. Sayings from his green book, required reading for all schoolchildren, are posted in government buildings, including public restrooms. And his supporters, draped in gaddafi green and clutching pictures of their beloved leader, noisily and passionately assert their presence in near round-the-clock displays of devotion. Hurtling through the streets in pickups or gathering in tripoli's central green square, they bellow the rhythmic chant that encapsulates the omnipotence of gaddafi's self-ascribed role: \"god, moammar, libya: enough! \" how deep that support runs in a populace that has been governed by fear for decades is impossible to tell. But six days into the allied bombardment of libyan military targets, it is clear that gaddafi can count on the fierce loyalties of at least a significant segment of the population in the vast stretches that lie beyond the enclave of rebel-held territory in the east. \"we don't want anyone except him, \" gushed fatima al-mishai, 20, who joined the crowds assembled at gaddafi's bab al-aziziyah compound to offer their services as voluntary human shields against the bombs. \"he gave us freedom and everything we need. \" indeed"
         ],
         "raw_document": [
             "To all outward appearances, this is a city deeply enamored of libyan leader moammar gaddafi. His portrait hangs from lampposts, adorns shopping centers and sprouts from the gleaming new office blocks rising from the seafront. Sayings from his green book, required reading for all schoolchildren, are posted in government buildings, including public restrooms. And his supporters, draped in gaddafi green and clutching pictures of their beloved leader, noisily and passionately assert their presence in near round-the-clock displays of devotion. Hurtling through the streets in pickups or gathering in tripoli's central green square, they bellow the rhythmic chant that encapsulates the omnipotence of gaddafi's self-ascribed role: \"god, moammar, libya: enough! \" how deep that support runs in a populace that has been governed by fear for decades is impossible to tell. But six days into the allied bombardment of libyan military targets, it is clear that gaddafi can count on the fierce loyalties of at least a significant segment of the population in the vast stretches that lie beyond the enclave of rebel-held territory in the east. \"we don't want anyone except him, \" gushed fatima al-mishai, 20, who joined the crowds assembled at gaddafi's bab al-aziziyah compound to offer their services as voluntary human shields against the bombs. \"he gave us freedom and everything we need. \" indeed",
@@ -779,7 +774,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -983,13 +978,12 @@
     },
     {
         "idx": 34936,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Rob ford has died from cancer at 46 and while he deeply split opinion when he was mayor of toronto, commentators agree that the world is duller place without the man they describe as the most polarizing, most complicated, and by far the most famous leader the city has ever produced. A round-up of reactions: edward keenan, toronto star: \" he was perhaps the worst mayor toronto has ever had, and the strangest and most compelling character in the history of canadian politics, and today rob ford is gone and his loss feels like a crater has opened up in the city's psyche. What will we do without him? \" chris sellers, national post: \" as i ponder ford's tragic passing at the terrible age of 46, just when he seemed to be turning his life around, he strikes me far less as an extraordinary individual than as an extraordinary collision of unfortunate circumstances, crammed into a single otherwise average guy and installed, tragically and against all logic, in the chief magistrate's office of a city of 2.6 million people. \" stephen marche, esquire: \" after ford confessed to smoking crack, and refused to step down — still one of the craziest political decisions ever undertaken -- his poll numbers went up. He stumbled on a fact nobody had realized before: such is the loathing of the political class among voters that craziness will be taken as authenticity. \" marche, one of several commentators to describe ford as the precursor to donald trump, writes that the \" most salient political fact in the world is that the next rob ford could easily be the next president of the united states. \" michele mandel, toronto sun: \" the late, great rob ford may have been a clown, but he was our clown. The former mayor was bigger than life with vices to match. He took this city on a ride that we have not seen before and are unlikely to see again. But as tumultuous and embarrassing as his tenure would be, there was no questioning what motivated him. His heart beat for toronto. \"",
         "split": "train",
         "cleansed_document": [
             "He was perhaps the worst mayor toronto has ever had, and the strangest and most compelling character in the history of canadian politics, and today rob ford is gone and his loss feels like a crater has opened up in the city's psyche. What will we do without him? the man who has been the centre of our civic story — a hero to some and an opponent to rally against to many others, the ballot question in the last election even after he dropped off the ballot, a story with more twists and turns than a novel to follow in its anger and oddness and sadness and astonishing, occasionally hilarious, turns. For better and for worse, rob ford defined a big part of toronto's story, of who we are and how we are, over the past decade. And now rob ford is gone, and you can be",
-            "Toronto - the late great rob ford may have been a clown, but he was our clown. The former mayor was bigger than life with vices to match. He took this city on a ride that we have not seen before and are unlikely to see again. But as tumultuous and embarrassing as his tenure would be, there was no questioning what motivated him. His heart beat for toronto. Unlike so many politicians, ford wasn't in it for the power or the glory. He wasn't about padding his pockets or getting his mug snapped at a society'do. He was the consummate outsider who relished his role as the voice of the little guy, the taxpayer, the blue-collar worker tired of being screwed by the establishment. Ford was their conductor of the anti-gravy train; the antithesis of the politically correct politico. And ford nation loved him",
-            "Toronto — rob ford, the former mayor of toronto, served not only as chief executive of one of the most successful metropolises in north america, but as an international buffoon, a symbol of toxic masculinity, and, as has become clear in 2016, the inventor of a new and virulent style of politics composed of equal parts comedy, rage and celebrity culture. The man rewrote the political playbook without trying. Rob ford died an accidental prophet. Advertisement - continue reading below but he was also just a 46-year-old man. A man with a wife who will be a widow, and children who will live the rest of their lives without a father. A man with a family who loved him, a man with a troubled past, who had more than his share of struggles with the basic business of living as a human being and as a man. For toronto"
+            "Toronto - the late great rob ford may have been a clown, but he was our clown. The former mayor was bigger than life with vices to match. He took this city on a ride that we have not seen before and are unlikely to see again. But as tumultuous and embarrassing as his tenure would be, there was no questioning what motivated him. His heart beat for toronto. Unlike so many politicians, ford wasn't in it for the power or the glory. He wasn't about padding his pockets or getting his mug snapped at a society'do. He was the consummate outsider who relished his role as the voice of the little guy, the taxpayer, the blue-collar worker tired of being screwed by the establishment. Ford was their conductor of the anti-gravy train; the antithesis of the politically correct politico. And ford nation loved him"
         ],
         "raw_document": [
             "He was perhaps the worst mayor toronto has ever had, and the strangest and most compelling character in the history of canadian politics, and today rob ford is gone and his loss feels like a crater has opened up in the city's psyche. What will we do without him? the man who has been the centre of our civic story — a hero to some and an opponent to rally against to many others, the ballot question in the last election even after he dropped off the ballot, a story with more twists and turns than a novel to follow in its anger and oddness and sadness and astonishing, occasionally hilarious, turns. For better and for worse, rob ford defined a big part of toronto's story, of who we are and how we are, over the past decade. And now rob ford is gone, and you can be",
@@ -1006,7 +1000,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1064,12 +1058,11 @@
     },
     {
         "idx": 34939,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A former portsmouth, va., police officer was found guilty of manslaughter thursday after shooting an unarmed black teen last year — the second fatal shooting of his career. Though stephen rankin was charged with first-degree murder, a jury convicted him of the lesser charge and recommended he spend two and a half years in prison, reports the guardian. He faced up to 10. Prosecutors said rankin, 36, intentionally killed 18-year-old shoplifting suspect william chapman in a walmart parking lot on april 22, 2015, after chapman resisted arrest. However, rankin — a us navy veteran with training in mixed martial arts — said he shot chapman twice in self-defense as chapman \" came towards me aggressively \" after a taser was knocked from rankin's hand as the two scuffled. \" i felt i needed to save my life, \" he said, adding he immediately gave chapman cpr. The guardian reports rankin also shot and killed an unarmed man from kazakhstan in 2011, though judge johnny morrison ruled jurors couldn't hear about that since a grand jury declined to indict rankin. In that case, rankin said 26-year-old kirill denyakin, shot 11 times, reached into his waistband and charged at him. Prosecutors also couldn't share with the jury text messages rankin sent before chapman's death; one read \" people are just bad, \" another referenced sodom and gomorrah. It's not clear whether chapman actually stole something from walmart. Rankin is due to be sentenced oct. 12, though his lawyers plan to appeal. The virginian-pilot reports he's the 13th us officer to have a jury convict him of murder or manslaughter since 2005.",
         "split": "train",
         "cleansed_document": [
-            "Stephen rankin, who had been charged with first-degree murder, convicted of voluntary manslaughter in killing of 18-year-old over alleged shoplifting a police officer in southern virginia was convicted of manslaughter and jurors recommended a sentence of two and a half years in prison on thursday for his fatal shooting of an unarmed black 18-year-old during a confrontation over a suspected shoplifting. Jurors at portsmouth circuit court found stephen rankin guilty of voluntary manslaughter for killing william chapman in april last year. It was rankin's second fatal shooting of an unarmed man in the city. Chapman's mother, sallie, wept as the verdict was read out by the court clerk. Rankin stared directly ahead as his supporters sat in silence. Rankin had been charged with first-degree murder and using a firearm to commit a felony but the judge had told jurors they could convict him on lesser charges. The jury of seven women and five men deliberated for 13 hours after hearing four days of detailed testimony from witnesses to the shooting, a series of experts and rankin himself. Rankin, 36, was terminated from his job at the police department after being indicted for murder. Prosecutors argued that rankin intentionally killed chapman with premeditation after chapman resisted arrest and defied his orders. The officer tried to stop chapman in the parking lot of a walmart superstore on the morning of 22 april 2015 to investigate a suspected theft from the store. \"the law does not say that because you do not comply you have to die, \" commonwealth's attorney stephanie morales said during her closing argument on tuesday. Morales told jurors that chapman should have \"lived to face prosecution \" for resisting arrest or assaulting an officer. \"the defendant brought a gun to what at worst was a fistfight, \" she said. Rankin and his attorneys had insisted, however, that the officer opened fire only as a last resort after chapman fought with him aggressively and then charged towards him. Rankin had tried to subdue chapman with his taser but the weapon was then knocked from his hand, they said. \"he didn't have a choice. He didn't have an option. He didn't have anything else left to do, \" james broccoletti, rankin's lead attorney, said in his closing argument. \"it's easy for us to 'monday morning quarterback '. It's easy for us to look back with 20/20 hindsight and say 'shoulda, woulda, coulda '.",
-            "A jury deliberated the guilt or innocence of a former police officer charged with murder all day wednesday without reaching a verdict. But the case skirted a mistrial early in the day after two reported incidents between jurors and courtroom observers."
+            "Stephen rankin, who had been charged with first-degree murder, convicted of voluntary manslaughter in killing of 18-year-old over alleged shoplifting a police officer in southern virginia was convicted of manslaughter and jurors recommended a sentence of two and a half years in prison on thursday for his fatal shooting of an unarmed black 18-year-old during a confrontation over a suspected shoplifting. Jurors at portsmouth circuit court found stephen rankin guilty of voluntary manslaughter for killing william chapman in april last year. It was rankin's second fatal shooting of an unarmed man in the city. Chapman's mother, sallie, wept as the verdict was read out by the court clerk. Rankin stared directly ahead as his supporters sat in silence. Rankin had been charged with first-degree murder and using a firearm to commit a felony but the judge had told jurors they could convict him on lesser charges. The jury of seven women and five men deliberated for 13 hours after hearing four days of detailed testimony from witnesses to the shooting, a series of experts and rankin himself. Rankin, 36, was terminated from his job at the police department after being indicted for murder. Prosecutors argued that rankin intentionally killed chapman with premeditation after chapman resisted arrest and defied his orders. The officer tried to stop chapman in the parking lot of a walmart superstore on the morning of 22 april 2015 to investigate a suspected theft from the store. \"the law does not say that because you do not comply you have to die, \" commonwealth's attorney stephanie morales said during her closing argument on tuesday. Morales told jurors that chapman should have \"lived to face prosecution \" for resisting arrest or assaulting an officer. \"the defendant brought a gun to what at worst was a fistfight, \" she said. Rankin and his attorneys had insisted, however, that the officer opened fire only as a last resort after chapman fought with him aggressively and then charged towards him. Rankin had tried to subdue chapman with his taser but the weapon was then knocked from his hand, they said. \"he didn't have a choice. He didn't have an option. He didn't have anything else left to do, \" james broccoletti, rankin's lead attorney, said in his closing argument. \"it's easy for us to 'monday morning quarterback '. It's easy for us to look back with 20/20 hindsight and say 'shoulda, woulda, coulda '."
         ],
         "raw_document": [
             "Stephen rankin, who had been charged with first-degree murder, convicted of voluntary manslaughter in killing of 18-year-old over alleged shoplifting a police officer in southern virginia was convicted of manslaughter and jurors recommended a sentence of two and a half years in prison on thursday for his fatal shooting of an unarmed black 18-year-old during a confrontation over a suspected shoplifting. Jurors at portsmouth circuit court found stephen rankin guilty of voluntary manslaughter for killing william chapman in april last year. It was rankin's second fatal shooting of an unarmed man in the city. Chapman's mother, sallie, wept as the verdict was read out by the court clerk. Rankin stared directly ahead as his supporters sat in silence. Rankin had been charged with first-degree murder and using a firearm to commit a felony but the judge had told jurors they could convict him on lesser charges. The jury of seven women and five men deliberated for 13 hours after hearing four days of detailed testimony from witnesses to the shooting, a series of experts and rankin himself. Rankin, 36, was terminated from his job at the police department after being indicted for murder. Prosecutors argued that rankin intentionally killed chapman with premeditation after chapman resisted arrest and defied his orders. The officer tried to stop chapman in the parking lot of a walmart superstore on the morning of 22 april 2015 to investigate a suspected theft from the store. \"the law does not say that because you do not comply you have to die, \" commonwealth's attorney stephanie morales said during her closing argument on tuesday. Morales told jurors that chapman should have \"lived to face prosecution \" for resisting arrest or assaulting an officer. \"the defendant brought a gun to what at worst was a fistfight, \" she said. Rankin and his attorneys had insisted, however, that the officer opened fire only as a last resort after chapman fought with him aggressively and then charged towards him. Rankin had tried to subdue chapman with his taser but the weapon was then knocked from his hand, they said. \"he didn't have a choice. He didn't have an option. He didn't have anything else left to do, \" james broccoletti, rankin's lead attorney, said in his closing argument. \"it's easy for us to 'monday morning quarterback '. It's easy for us to look back with 20/20 hindsight and say 'shoulda, woulda, coulda '.",
@@ -1084,7 +1077,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1163,12 +1156,11 @@
     },
     {
         "idx": 34943,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A los angeles news anchor was arrested wednesday for allegedly stealing expensive headphones from a cop while going through an airport security line. The los angeles times reports a passenger was going through the security line at los angeles international airport when she noticed her headphones were missing. Tmz notes they were \" high-end \" headphones worth $ 200. The passenger — who happens to be an off-duty lapd robbery detective — called police. Security video allegedly showed ktla anchor lu parker taking the headphones. She was removed from her flight and arrested on suspicion of petty theft. According to cbs los angeles, the owner of the headphones made the arrest herself. Ktla says this whole thing is a \" misunderstanding. \" the station claims parker, a former miss usa, was going through security when she noticed the headphones had been left behind. She had been talking to the woman who owned the headphones while going through security and wanted to return them to her. But when parker couldn't find the woman, she boarded her flight with the headphones. \" we are confident she will be able to clear this all up, \" the times quotes ktla as saying in a statement.",
         "split": "train",
         "cleansed_document": [
-            "Ex-miss usa busted for 5 finger discount at lax ex miss usa lu parker arrested for petty theft at lax exclusive 12: 25 pm pt -- a spokesperson for lu's station, ktla, tells us the arrest is a misunderstanding -- she noticed the earbuds were left behind, and picked them up, \" intending to return them to the owner whom she had been speaking with while in line to clear tsa. \" the spokesperson says when lu was unable to locate the owner, she boarded her flight -- but she is fully cooperating with authorities. Former miss usa lu parker is under arrest for pilfering a pair of high-end headphones at lax... Tmz has learned. The 1994 pageant winner, and current news anchor in l.a., allegedly lifted the headphones wednesday morning at the tsa screening area in terminal 6. Law enforcement sources tell us she walked to her gate and boarded her flight. We're told cops saw lu take the audio gear on cctv cams, and tracked her down on the plane before it left. Officers hauled her off the jet and took her into custody. The headphones are worth $ 200, so she's looking at a misdemeanor theft. Really bad luck for parker -- we're told the owner of the headphones is an lapd robbery homicide detective. Parker famously dated former l.a. Mayor antonio villaraigosa several years ago, but they've broken up.",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Ex-miss usa busted for 5 finger discount at lax ex miss usa lu parker arrested for petty theft at lax exclusive 12: 25 pm pt -- a spokesperson for lu's station, ktla, tells us the arrest is a misunderstanding -- she noticed the earbuds were left behind, and picked them up, \" intending to return them to the owner whom she had been speaking with while in line to clear tsa. \" the spokesperson says when lu was unable to locate the owner, she boarded her flight -- but she is fully cooperating with authorities. Former miss usa lu parker is under arrest for pilfering a pair of high-end headphones at lax... Tmz has learned. The 1994 pageant winner, and current news anchor in l.a., allegedly lifted the headphones wednesday morning at the tsa screening area in terminal 6. Law enforcement sources tell us she walked to her gate and boarded her flight. We're told cops saw lu take the audio gear on cctv cams, and tracked her down on the plane before it left. Officers hauled her off the jet and took her into custody. The headphones are worth $ 200, so she's looking at a misdemeanor theft. Really bad luck for parker -- we're told the owner of the headphones is an lapd robbery homicide detective. Parker famously dated former l.a. Mayor antonio villaraigosa several years ago, but they've broken up."
         ],
         "raw_document": [
             "Ex-miss usa busted for 5 finger discount at lax ex miss usa lu parker arrested for petty theft at lax exclusive 12: 25 pm pt -- a spokesperson for lu's station, ktla, tells us the arrest is a misunderstanding -- she noticed the earbuds were left behind, and picked them up, \" intending to return them to the owner whom she had been speaking with while in line to clear tsa. \" the spokesperson says when lu was unable to locate the owner, she boarded her flight -- but she is fully cooperating with authorities. Former miss usa lu parker is under arrest for pilfering a pair of high-end headphones at lax... Tmz has learned. The 1994 pageant winner, and current news anchor in l.a., allegedly lifted the headphones wednesday morning at the tsa screening area in terminal 6. Law enforcement sources tell us she walked to her gate and boarded her flight. We're told cops saw lu take the audio gear on cctv cams, and tracked her down on the plane before it left. Officers hauled her off the jet and took her into custody. The headphones are worth $ 200, so she's looking at a misdemeanor theft. Really bad luck for parker -- we're told the owner of the headphones is an lapd robbery homicide detective. Parker famously dated former l.a. Mayor antonio villaraigosa several years ago, but they've broken up.",
@@ -1185,7 +1177,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1285,7 +1277,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1377,13 +1369,12 @@
     },
     {
         "idx": 34951,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It's the creature comforts that are apparently lacking in sochi, from functioning toilets to... Yogurt. The latest brouhaha to hit the region is a very dairy one. Issue no. 1: sen. Chuck schumer is very peeved that us athletes have been unable to get their hands on chobani yogurt, which has apparently gotten tangled in a customs mess and is stuck at newark. The democrat went so far as to pen a letter to the international olympic committee and the russian ambassador regarding the \" protein-packed, new york-made food, \" reports nbc news. He asserts that the \" us government has confirmed that sanitary standards have been met to ensure that this yogurt will be safe for consumption by american citizens attending and participating in the 2014 winter olympics. \" what about the safety of non-americans? it's a non-issue, reports the ap, which has schumer saying the yogurt will only be consumed by us citizens in sochi. But, in issue no. 2, americans aren't the only one searching for the food item at the breakfast bar. The ap reports that alpine skiers are equally annoyed to find an absence of yogurt in the athletes ' village. \" there is no yogurt, \" says norwegian gold medalist aksel lund svindal. \" and that's kind of my go-to thing every morning — muesli and natural yogurt — so i don't get too much sugar. \" ( more sochi woes: one journalist takes us inside the disaster that is her hotel. )",
         "split": "train",
         "cleansed_document": [
             "Is russian president vladimir putin playing games with americans ' yogurt ahead of the olympics? new york democrat sen. Chuck schumer is upset that chobani yogurt is being held up by russian authorities instead of making its way to american athletes in sochi. ( chobani is based in schumer's home state. ) \" unfortunately, this protein-packed, new york-made food has met a serious roadblock in the russian government, thanks to an unreasonable customs certificate, and they will not allow the yogurt into the country, \" sen. Schumer said in a wednesday statement. He wrote a letter to the international olympic committee and the russian ambassador urging them to allow the yogurt through. \" i understand the need for high food safety standards for dairy products. However, the u.s. Government has confirmed that sanitary standards have been met to ensure that this yogurt will be safe for consumption by american citizens attending and participating in the 2014 winter olympics, \"",
-            "Albany, n.y. ( ap ) — u.s. Sen. Charles schumer of new york is calling on the russian government to allow chobani greek yogurt to be delivered to sochi ( soh ' -chee ) for u.s. Olympic athletes and nbc studios employees. Schumer said tuesday that a shipment of chobani yogurt is being held up at newark liberty international airport in new jersey because of \" unattainable \" russian customs certifications. The u.s. Department of agriculture has requested that russia approve a usda safety certificate for the yogurt, but schumer said russia still won't allow the shipment. Chobani, based in upstate new york, is an official sponsor of the u.s. Olympic team. Schumer said the yogurt will be eaten only by u.s. Citizens in sochi. A call to russian ambassador sergey kislyak's press office wasn't immediately returned.",
-            "Krasnaya polyana, russia ( ap ) — alpine skiers arriving at the olympics are amazed by the lift facilities at the rosa khutor resort. And they say the security isn't nearly as much of a bother as they expected. This image made with a fisheye lens shows the finish area of the alpine ski course ahead of the sochi 2014 winter olympics, wednesday, feb. 5, 2014, in krasnaya polyana, russia. ( ap photo/gero breloer ) ( associated press ) switzerland's lara gut trains at the alpine ski course ahead of the sochi 2014 winter olympics, wednesday, feb. 5, 2014, in krasnaya polyana, russia. ( ap photo/alessandro trovati ) ( associated press ) norway's aksel lund svindal pauses during a training session ahead of the the sochi 2014 winter olympics, wednesday, feb. 5, 2014, in krasnaya polyana, russia. ( ap photo/luca bruno ) ( associated press )"
+            "Albany, n.y. ( ap ) — u.s. Sen. Charles schumer of new york is calling on the russian government to allow chobani greek yogurt to be delivered to sochi ( soh ' -chee ) for u.s. Olympic athletes and nbc studios employees. Schumer said tuesday that a shipment of chobani yogurt is being held up at newark liberty international airport in new jersey because of \" unattainable \" russian customs certifications. The u.s. Department of agriculture has requested that russia approve a usda safety certificate for the yogurt, but schumer said russia still won't allow the shipment. Chobani, based in upstate new york, is an official sponsor of the u.s. Olympic team. Schumer said the yogurt will be eaten only by u.s. Citizens in sochi. A call to russian ambassador sergey kislyak's press office wasn't immediately returned."
         ],
         "raw_document": [
             "Is russian president vladimir putin playing games with americans ' yogurt ahead of the olympics? new york democrat sen. Chuck schumer is upset that chobani yogurt is being held up by russian authorities instead of making its way to american athletes in sochi. ( chobani is based in schumer's home state. ) \" unfortunately, this protein-packed, new york-made food has met a serious roadblock in the russian government, thanks to an unreasonable customs certificate, and they will not allow the yogurt into the country, \" sen. Schumer said in a wednesday statement. He wrote a letter to the international olympic committee and the russian ambassador urging them to allow the yogurt through. \" i understand the need for high food safety standards for dairy products. However, the u.s. Government has confirmed that sanitary standards have been met to ensure that this yogurt will be safe for consumption by american citizens attending and participating in the 2014 winter olympics, \"",
@@ -1400,7 +1391,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1547,7 +1538,7 @@
             "1": 1,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1644,7 +1635,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1694,7 +1685,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1985,12 +1976,11 @@
     },
     {
         "idx": 34974,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When alex simpson was born, she seemed to be a typical baby in many respects — but she would cry for 20 hours a day. For two months, her parents didn't know why. Then, an answer, reports ketv in omaha, neb. Alex was diagnosed with a rare congenital disorder called hydranencephaly, meaning she was born missing a good chunk of her brain. Most babies with the condition die before their first birthday; the longest any known person has lived with hydranencephaly was 33 years, reports the pediatric brain foundation. ( a july 2014 study published in acta paediatrica puts the former figure at 35 years. ) the foundation notes that some children display no obvious symptoms of the condition at birth, but \" increased irritability, increased muscle tone, and the lack of purposeful movement generally initiate suspicion of an underlying cause. \" alex is now 10. She has part of her cerebellum, allowing her to maintain some awareness of her surroundings. \" she knows her mom and dad, her little brother, \" her father shawn simpson says. \" she knows when bad things are going on; she will cry or have a sad face. \" that experience is backed up by the acta paediatrica study. It observed that \" drastic loss of cortical tissue... Has encouraged the default assumption that these children are not conscious. \" to get a better window into whether that was the case, researchers surveyed 108 primary caregivers of children with hydranencephaly, asking questions like \" will your child echo or imitate you? \" ( 29 % said yes ) and \" does your child reach for objects? \" ( 26 % yes ). Their conclusion, in part: \" the indications that they are not only physiologically awake but conscious during waking makes it appropriate to apply the concept of quality of life to these children. \" ( this baby was born without a nose. )",
         "split": "train",
         "cleansed_document": [
-            "Few thought alex, a baby born with almost no brain, had any chance of surviving, but that was 10 years ago. \" she would cry for about 20 hours a day, \" said shawn simpson, alex's father. \" it was crazy, \" added lorena simpson, alex's mother. \" i've had to hold her. \" [ video: baby born with nearly no brain still alive 10 years later ] doctors thought alex had digestion issues and tried different formulas. When she was two months old, a diagnosis was offered. \" he says alex was born with condition called hydraencephaly, born without a brain, \" shawn simpson said. \" 90 percent of babies with this abort themselves before they are born. \" or they die before six months, \" lorena simpson said. Doctors told the simpsons that alex could die at any point. \" those six months, every day and night thinking,'this is the day, today will be the day, ' \" lorena simpson said. Alex has a little of her cerebellum. One of the things the cerebellum does is it keeps people aware of their surroundings. \" you saw her smiling, \" shawn simpson said. \" she knows her mom and dad, her little brother. She knows when good things are going on around her. She knows when bad things are going on; she will cry or have a sad face. \" alex is relatively healthy. In her room",
-            "Hydranencephaly ( or hydroanencephaly ) is a congenital condition in which the brain's cerebral hemispheres are absent to varying degrees and the resulting empty cranial cavity is filled with cerebrospinal fluid. Hydranencephaly is one of several types of cephalic disorders. These disorders derive from either damage to, or abnormal development of, the fetal nervous system in the earliest stages of development in utero. Cephalic is the medical term for \"head \" or \"head end of body. \" this particular rare neurological condition, an extreme form of porencephaly, occurs after the 12th week of pregnancy, after the brain has begun developing. Hydranencephaly does not have any definitive identifiable cause factor. As with all cephalic conditions, there is an obvious interruption in normal development of the nervous system. A traumatic occurrence of sorts, resulting in prenatal stroke, is believed to be the primary cause of hydranencephaly. Some possibilities include: intrauterine infection, environmental exposure to toxins, vascular insult of another nature, and twin-to-twin transfusion. Some researchers have also suggested the possibility of a genetic component, though only one case has been documented in which a family has been presented this diagnosis for more than one child."
+            "Few thought alex, a baby born with almost no brain, had any chance of surviving, but that was 10 years ago. \" she would cry for about 20 hours a day, \" said shawn simpson, alex's father. \" it was crazy, \" added lorena simpson, alex's mother. \" i've had to hold her. \" [ video: baby born with nearly no brain still alive 10 years later ] doctors thought alex had digestion issues and tried different formulas. When she was two months old, a diagnosis was offered. \" he says alex was born with condition called hydraencephaly, born without a brain, \" shawn simpson said. \" 90 percent of babies with this abort themselves before they are born. \" or they die before six months, \" lorena simpson said. Doctors told the simpsons that alex could die at any point. \" those six months, every day and night thinking,'this is the day, today will be the day, ' \" lorena simpson said. Alex has a little of her cerebellum. One of the things the cerebellum does is it keeps people aware of their surroundings. \" you saw her smiling, \" shawn simpson said. \" she knows her mom and dad, her little brother. She knows when good things are going on around her. She knows when bad things are going on; she will cry or have a sad face. \" alex is relatively healthy. In her room"
         ],
         "raw_document": [
             "Few thought alex, a baby born with almost no brain, had any chance of surviving, but that was 10 years ago. \" she would cry for about 20 hours a day, \" said shawn simpson, alex's father. \" it was crazy, \" added lorena simpson, alex's mother. \" i've had to hold her. \" [ video: baby born with nearly no brain still alive 10 years later ] doctors thought alex had digestion issues and tried different formulas. When she was two months old, a diagnosis was offered. \" he says alex was born with condition called hydraencephaly, born without a brain, \" shawn simpson said. \" 90 percent of babies with this abort themselves before they are born. \" or they die before six months, \" lorena simpson said. Doctors told the simpsons that alex could die at any point. \" those six months, every day and night thinking,'this is the day, today will be the day, ' \" lorena simpson said. Alex has a little of her cerebellum. One of the things the cerebellum does is it keeps people aware of their surroundings. \" you saw her smiling, \" shawn simpson said. \" she knows her mom and dad, her little brother. She knows when good things are going on around her. She knows when bad things are going on; she will cry or have a sad face. \" alex is relatively healthy. In her room",
@@ -2005,7 +1995,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2035,13 +2025,12 @@
     },
     {
         "idx": 34976,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "More details in the shooting of michael brown are emerging after the st. Louis post-dispatch released video footage and radio calls from the hours surrounding the event. The calls offer a glimpse of darren wilson's messages in the moments before the shooting, while video reveals wilson heading to the hospital from the police station some two hours later, the post-dispatch reports. The radio calls, in combination with a witness tweet, suggest that the encounter between wilson and brown lasted just 90 seconds, the newspaper notes; you can hear the clips here. One notable radio call is missing from the record, the guardian reports. Wilson has said he radioed the words, \" shots fired, send all cars, \" but that his radio's channel was changed during the clash with brown. The post-dispatch notes that despite a search through all the county's police channels, it couldn't find the call. It's possible, however, that wilson's call was made on a \" receive-only \" channel; in that case, it might not have been broadcast, the paper reports. Meanwhile, the results of a grand jury's hearing on a possible indictment against wilson could arrive soon. If he isn't indicted, a return to work would be legal, according to police chief tom jackson — but first, wilson would face an internal department investigation, jackson says, per nbc news.",
         "split": "train",
         "cleansed_document": [
             "Ferguson • the aug. 9 fatal shooting here that sparked three months of protests and calls for change from around the world happened in less than 90 seconds, interviews and an analysis of police and ems records shows. The records, obtained by the post-dispatch via missouri's sunshine law, provide the best timeline yet for the events surrounding the shooting of michael brown jr., 18. Also released were police station surveillance videos that provide the most recent images of ferguson police officer darren wilson, who has stayed out of the public eye since the shooting. Wilson left the police station for the hospital two hours after the shooting, accompanied by other officers and his union lawyer. They returned about two and one-half hours later. Shortly after brown's death, a grand jury began hearing evidence to determine whether wilson should be indicted in the killing. The grand jury's decision is expected any day. A fatal encounter at 11: 29 a.m. On aug. 9, a dispatcher asked wilson to help other officers search for a man who had reportedly threatened to kill a woman. At 11: 47 a.m., wilson said he would respond to a call for a 2-month-old with breathing",
-            "A call for backup that a police officer claims to have made seconds before he killed michael brown in ferguson, missouri, reportedly cannot be found in police recordings. The officer blames the problem on his radio. Darren wilson has told investigators he radioed \"shots fired, send all cars \" after a struggle at his suv with brown, an unarmed 18-year-old, following the officer's stop of brown and a friend for jaywalking in ferguson on 9 august, according to the st louis post-dispatch. Yet a set of recordings released to the newspaper by police did not include the call. Wilson is reported to have stated that \"during the struggle his radio had been jarred and the channel changed \", meaning it was not broadcast to his fellow officers in the st louis suburb. \"at least one channel on the ferguson police radio is 'receive-only, ' meaning that the call may not have been broadcast, \" the newspaper said in its report on friday evening. Wilson shot brown repeatedly soon after allegedly making the request for assistance. A series of witnesses told media in the days after the shooting that brown had surrendered to the officer after fleeing and may have had his hands up.",
-            "The seed for this crawl was a list of every host in the wayback machine this crawl was run at a level 1 ( urls including their embeds, plus the urls of all outbound links including their embeds ) the warc files associated with this crawl are not currently available to the general public."
+            "A call for backup that a police officer claims to have made seconds before he killed michael brown in ferguson, missouri, reportedly cannot be found in police recordings. The officer blames the problem on his radio. Darren wilson has told investigators he radioed \"shots fired, send all cars \" after a struggle at his suv with brown, an unarmed 18-year-old, following the officer's stop of brown and a friend for jaywalking in ferguson on 9 august, according to the st louis post-dispatch. Yet a set of recordings released to the newspaper by police did not include the call. Wilson is reported to have stated that \"during the struggle his radio had been jarred and the channel changed \", meaning it was not broadcast to his fellow officers in the st louis suburb. \"at least one channel on the ferguson police radio is 'receive-only, ' meaning that the call may not have been broadcast, \" the newspaper said in its report on friday evening. Wilson shot brown repeatedly soon after allegedly making the request for assistance. A series of witnesses told media in the days after the shooting that brown had surrendered to the officer after fleeing and may have had his hands up."
         ],
         "raw_document": [
             "Ferguson • the aug. 9 fatal shooting here that sparked three months of protests and calls for change from around the world happened in less than 90 seconds, interviews and an analysis of police and ems records shows. The records, obtained by the post-dispatch via missouri's sunshine law, provide the best timeline yet for the events surrounding the shooting of michael brown jr., 18. Also released were police station surveillance videos that provide the most recent images of ferguson police officer darren wilson, who has stayed out of the public eye since the shooting. Wilson left the police station for the hospital two hours after the shooting, accompanied by other officers and his union lawyer. They returned about two and one-half hours later. Shortly after brown's death, a grand jury began hearing evidence to determine whether wilson should be indicted in the killing. The grand jury's decision is expected any day. A fatal encounter at 11: 29 a.m. On aug. 9, a dispatcher asked wilson to help other officers search for a man who had reportedly threatened to kill a woman. At 11: 47 a.m., wilson said he would respond to a call for a 2-month-old with breathing",
@@ -2058,7 +2047,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2083,7 +2072,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2113,12 +2102,11 @@
     },
     {
         "idx": 34979,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "That hours-old ceasefire hamas didn't want and then suddenly did? it's violating it already, benjamin netanyahu tells cnn this morning. Hamas is \" continuing to fire at us as we speak, \" the israeli pm told candy crowley, adding that \" hamas is simply continuing all its operations, and israel will not let this terror operation decide when it's convenient for them and not convenient for them to attack our people. \" \" we're faced with a very ruthless terrorist enemy, \" he continued, accusing hamas of using \" civilians as human shields. \" netanyahu said that with those civilian casualties, hamas was trying to \" mislead the entire world \" by piling up \" more and more dead bodies, \" notes politico. Netanyahu's appearance comes as mahmoud abbas is said to be readying a delegation to send to cairo for further negotiations.",
         "split": "train",
         "cleansed_document": [
-            "Israeli prime minister benjamin netanyahu says hamas is already violating its own cease-fire that it proposed sunday morning. \"hamas doesn't even accept it's own cease-fire. It's continuing to fire at us as we speak, \" he said sunday on cnn's \" state of the union. \" hamas announced a 24-hour cease-fire with israel beginning at 2 p.m. Local time. But netanyahu said that hamas hadn't abided by its own announcement, saying it has not ceased in its campaign against the israel on sunday. \"hamas is simply continuing all its operations, and israel will not let this terror operation decide when it's convenient for them and not convenient for them to attack our people, \" netanyahu said, suggesting hamas entertains the idea of cease fires only when it has to restock its weapons supplies. The prime minister also noted that hamas had rejected several cease-fire offers in the past, including an egyptian-brokered deal to which israel had agreed. He added that he hoped for a cessation of fighting soon and that a solution could only come from egypt, calling for a plan that provided economic relief for the palestinians but also the \" de-militarization of gaza \" in terms of hamas's rockets supply and tunneling into israeli territory. Later on sunday, in an interview on nbc's \" meet the",
-            "Story highlights u.n. Security council will meet at midnight sunday to discuss middle east cnn team visits school, finds signs of bloodshed 1,032 palestinians have been killed, nearly three-quarters are civilians, officials say israel denies civilians killed by idf mortar in last week's battle near u.n. Shelter the israeli military denied sunday that it was responsible for anyone killed last week when a mortar hit the courtyard of a u.n. School that was shelter to many gaza residents. Officials from the united nations and the palestinian government said 16 people were killed and hundreds wounded on thursday when the school in northern gaza was struck. \" a single errant israeli mortar landed in the courtyard in the school, \" israel defense forces spokesman lt. Col. Peter lerner said. \" the footage we have shows the courtyard was empty. \" lerner said there was fierce fighting between the idf and hamas on thursday. The militants fired anti-tank missiles from the immediate vicinity of the school and the idf fired several mortars in that direction. \" we reject the claim that people were killed by the idf mortar on the school premises, \" he said, adding there could have been people who were wounded by shrapnel. Just watched idf: new video of mortar explosion replay more videos... Idf: new video of mortar explosion 05: 16 play video just watched israeli pm: hamas"
+            "Israeli prime minister benjamin netanyahu says hamas is already violating its own cease-fire that it proposed sunday morning. \"hamas doesn't even accept it's own cease-fire. It's continuing to fire at us as we speak, \" he said sunday on cnn's \" state of the union. \" hamas announced a 24-hour cease-fire with israel beginning at 2 p.m. Local time. But netanyahu said that hamas hadn't abided by its own announcement, saying it has not ceased in its campaign against the israel on sunday. \"hamas is simply continuing all its operations, and israel will not let this terror operation decide when it's convenient for them and not convenient for them to attack our people, \" netanyahu said, suggesting hamas entertains the idea of cease fires only when it has to restock its weapons supplies. The prime minister also noted that hamas had rejected several cease-fire offers in the past, including an egyptian-brokered deal to which israel had agreed. He added that he hoped for a cessation of fighting soon and that a solution could only come from egypt, calling for a plan that provided economic relief for the palestinians but also the \" de-militarization of gaza \" in terms of hamas's rockets supply and tunneling into israeli territory. Later on sunday, in an interview on nbc's \" meet the"
         ],
         "raw_document": [
             "Israeli prime minister benjamin netanyahu says hamas is already violating its own cease-fire that it proposed sunday morning. \"hamas doesn't even accept it's own cease-fire. It's continuing to fire at us as we speak, \" he said sunday on cnn's \" state of the union. \" hamas announced a 24-hour cease-fire with israel beginning at 2 p.m. Local time. But netanyahu said that hamas hadn't abided by its own announcement, saying it has not ceased in its campaign against the israel on sunday. \"hamas is simply continuing all its operations, and israel will not let this terror operation decide when it's convenient for them and not convenient for them to attack our people, \" netanyahu said, suggesting hamas entertains the idea of cease fires only when it has to restock its weapons supplies. The prime minister also noted that hamas had rejected several cease-fire offers in the past, including an egyptian-brokered deal to which israel had agreed. He added that he hoped for a cessation of fighting soon and that a solution could only come from egypt, calling for a plan that provided economic relief for the palestinians but also the \" de-militarization of gaza \" in terms of hamas's rockets supply and tunneling into israeli territory. Later on sunday, in an interview on nbc's \" meet the",
@@ -2133,7 +2121,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2183,7 +2171,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2288,13 +2276,12 @@
     },
     {
         "idx": 34986,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The man who jumped the white house fence while the obama family was celebrating thanksgiving may have been planning suicide by secret service. Joseph caputo, 23, of stamford, conn., left a suicide note that said he wanted to die on thursday, and also left an audio message with his mother to warn her that she might not see him again, according to court documents seen by nbc. \" death is a natural part of life. Rejoice for those around us who transform in the force, \" wrote caputo, who was ordered to undergo an emergency psychiatric evaluation at a hearing on friday. In social media postings, caputo was highly critical of world leaders and us foreign policy, the new york daily news reports. \" let it be known to the world, the united states government does not represent the will of the american people, \" caputo wrote in a facebook post on thursday morning. Authorities say later that day, he climbed the white house fence wearing an american flag as a cape and carrying a pocket guide to the constitution, weightlifting gloves, and a flash drive shaped like captain america's shield, the post reports. Caputo has asperger's syndrome, according to a 2011 naugatuck patch profile unearthed by the daily news. \" i always viewed it as something that would hold me back, if people knew, \" caputo told the paper. \" i don't like to be held back, i like to push forward. \" ( he wasn't stopped by the \" pencil point \" spikes that have been added to the white house fence. )",
         "split": "train",
         "cleansed_document": [
             "A connecticut man who allegedly scaled a white house fence on thanksgiving while wearing an american flag appeared in court friday and was ordered to undergo a psychiatric evaluation. Joseph caputo, 23, of stamford, conn, is charged with illegally entering restricted grounds for allegedly jumping over the newly upgraded fence, triggering an hours-long white house lockdown. After he was apprehended, caputo allegedly told an officer \" i love my country \" and \" i knew i would be locked up, \" according to court documents. Caputo also left a \" suicide note \" that indicated he planned to die on thursday, and he left an audio message with his mother telling her she may not be able to see him again, according to the documents. Caputo was released to the custody of the secret service and will be evaluated before his next court appearance on monday, officials said.",
-            "The man who jumped the fence at the white house on thanksgiving left a suicide note that included a \" star wars \" reference and told his mother she may not see him again. Joseph caputo, 22, was apprehended by secret service agents after running onto the north lawn while president obama and his family were celebrating the holiday. Caputo had been staying with friends in virginia and left them a note saying he wanted to die on nov. 26, court documents show. Caputo also left an audio message for his mother and prepared a will. \" death is a natural part of life. Rejoice for those around us who transform into the force, \" read his note, referring to a power that jedi use in the iconic \" star wars \" films. Joseph caputo poses in front of the white house fence. ( via facebook ) caputo was pounced on by secret service",
-            "Joe caputo doesn't look like there's anything wrong with him. He's athletic, he's personable, he's a good student, and he's quite handsome. He doesn't look like there's anything wrong with him because there's not. He's not the type of kid to let a diagnosis of asperger's syndrome hold him back. And he's certainly not the type of kid to be told there's something he can't do. \" i always viewed it as something that would hold me back, if people knew, \" joe said. \" i don't like to be held back, i like to push forward. \" he also likes to dive, a sport he discovered in his sophomore year of high school. \" there is no feeling like jumping"
+            "The man who jumped the fence at the white house on thanksgiving left a suicide note that included a \" star wars \" reference and told his mother she may not see him again. Joseph caputo, 22, was apprehended by secret service agents after running onto the north lawn while president obama and his family were celebrating the holiday. Caputo had been staying with friends in virginia and left them a note saying he wanted to die on nov. 26, court documents show. Caputo also left an audio message for his mother and prepared a will. \" death is a natural part of life. Rejoice for those around us who transform into the force, \" read his note, referring to a power that jedi use in the iconic \" star wars \" films. Joseph caputo poses in front of the white house fence. ( via facebook ) caputo was pounced on by secret service"
         ],
         "raw_document": [
             "A connecticut man who allegedly scaled a white house fence on thanksgiving while wearing an american flag appeared in court friday and was ordered to undergo a psychiatric evaluation. Joseph caputo, 23, of stamford, conn, is charged with illegally entering restricted grounds for allegedly jumping over the newly upgraded fence, triggering an hours-long white house lockdown. After he was apprehended, caputo allegedly told an officer \" i love my country \" and \" i knew i would be locked up, \" according to court documents. Caputo also left a \" suicide note \" that indicated he planned to die on thursday, and he left an audio message with his mother telling her she may not be able to see him again, according to the documents. Caputo was released to the custody of the secret service and will be evaluated before his next court appearance on monday, officials said.",
@@ -2311,7 +2298,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2335,7 +2322,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2415,7 +2402,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2519,10 +2506,10 @@
             "The summary discusses the discovery of remnants of a plague in ancient Thebes in Egypt and the devastation caused by the \"plague of Cyprian.\" Document 1 is unrelated as it talks about the magazine Egyptian Archaeology and does not provide information related to the plague or the archaeological findings. Document 3 is also irrelevant as it discusses the internet archive's efforts to preserve web pages. Therefore, the irrelevant documents are: Document 1|Document 3"
         ],
         "vote_count": {
-            "0": 5,
+            "0": 4,
             "1": 0,
-            "2": 5,
-            "3": 0
+            "2": 4,
+            "3": 2
         }
     },
     {
@@ -2646,7 +2633,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     }
 ]

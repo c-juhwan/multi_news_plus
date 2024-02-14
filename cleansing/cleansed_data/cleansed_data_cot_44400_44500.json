@@ -29,14 +29,13 @@
     },
     {
         "idx": 44401,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Every year for a decade, kindergarten students at sartorette elementary school in san jose have been writing letters to santa then delivering them to the man himself on a school-sponsored outing. Not this year. The cambrian school district says this month's field trip to meet santa claus at a local coffee shop has been canceled after a jewish mother complained that the school board was honoring christianity above other religions and her 5-year-old might feel left out. \" the field trip was tied to two writing workshops that were supposed to be spent writing to santa, \" the woman, identified only as talia, tells abc7. \" there was also a reindeer party and other christmas related activities. There was nothing done for the diwali festival \" or for ramadan, she adds, noting there are also muslim and hindu students in the class. \" we need to teach about all the holidays, \" she says, per cbs san francisco. \" we live in a global society. \" some support talia's move. \" i think in the world of intolerance that we live in anything we can do to promote tolerance and understanding is going to be a benefit to everybody, \" says a fellow parent. But talia says she's also taken a lot of flak. \" i had some parents that called me a communist, that said that i didn't want any holidays in the school, \" she says. Some even threatened to pull their children out of school on friday and accused talia of ruining christmas and starting a \" war on christmas, \" per the san jose mercury news. \" it's really scary how one parent can go and voice her opinion and then everything gets shut down, \" says a parent. Nbc bay area reports parents from eight cultures spoke to the class about different customs on thursday. ( parents are peeved about this school's calligraphy lesson. )",
         "split": "train",
         "cleansed_document": [
             "Mothers are squaring off and sounding off over the cancellation of their kids ' field trip to see santa claus. A south bay school may see a mass student walkout on friday if the controversy is not resolved.the santa storm started brewing in san jose's cambrian school district after one parent complained about the long-standing tradition. An apparent war over christmas has taken over the local elementary school and the battle lines are being drawn.parents are pitted against each other at sartorette elementary school. Students in the three kindergarten classes have taken a field trip to big e cafe every december over the past several years to drink hot chocolate and visit santa.this year the field trip was cancelled after",
             "San jose ( kpix 5 ) — parents of san jose school kids confronted a school board thursday night after a decision to cancel a field trip to see santa claus followed a complaint by a jewish mother who objected to the school-sponsored outing. The visit to santa, along with a 'dear santa ' assignment, was a decade-long tradition at sartorette elementary school, part of san jose's cambrian school district. Last week, the sartorette staff informed parents the school would suspend the outing to see santa at a local coffee shop after a jewish mother, who identified herself only as talia, complained to the school board that the district was celebrating one religion over others",
-            "San jose -- a santa storm is brewing in san jose. After a field trip to visit santa claus by kindergarten students at sartorette elementary school was canceled by administrators on the heels of a complaint by one jewish mother, things are getting ugly down on woodford drive. Angry parents plan to descend on the board meeting thursday, threatening a student walkout friday if the cambrian school district's board fails to reinstate the annual santa trip. The woman who made the complaint, who identified herself only as talia and declined to be interviewed wednesday evening, stood by her claim that having kids write or visit santa unfairly imposes one religion on all students. She fired",
-            "Concerned parents confronted the cambrian school district in san jose late thursday after the superintendent canceled a decade-old tradition of writing letters to santa and then delivering them on a school field trip to big e's coffee shop. Peggy bunker reports. ( published thursday, dec. 17, 2015 ) parents in san jose, california, plan to pull their kindergarteners out of school friday after the principal canceled a decade-old tradition of writing letters to santa and delivering them on a field trip to a local coffee shop. Parent vanessa howe will carry on the tradition by staging a walkout at 10 a.m. Friday, the day the field trip was scheduled to take place. She is"
+            "San jose -- a santa storm is brewing in san jose. After a field trip to visit santa claus by kindergarten students at sartorette elementary school was canceled by administrators on the heels of a complaint by one jewish mother, things are getting ugly down on woodford drive. Angry parents plan to descend on the board meeting thursday, threatening a student walkout friday if the cambrian school district's board fails to reinstate the annual santa trip. The woman who made the complaint, who identified herself only as talia and declined to be interviewed wednesday evening, stood by her claim that having kids write or visit santa unfairly imposes one religion on all students. She fired"
         ],
         "raw_document": [
             "Mothers are squaring off and sounding off over the cancellation of their kids ' field trip to see santa claus. A south bay school may see a mass student walkout on friday if the controversy is not resolved.the santa storm started brewing in san jose's cambrian school district after one parent complained about the long-standing tradition. An apparent war over christmas has taken over the local elementary school and the battle lines are being drawn.parents are pitted against each other at sartorette elementary school. Students in the three kindergarten classes have taken a field trip to big e cafe every december over the past several years to drink hot chocolate and visit santa.this year the field trip was cancelled after",
@@ -55,7 +54,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -80,7 +79,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -160,7 +159,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -271,12 +270,11 @@
     },
     {
         "idx": 44410,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Ed bolian says he's done something virtually impossible, highly dangerous, and extraordinarily illegal: along with a hastily-recruited co-driver and passenger, he drove from new york city to la in 28 hours and 50 minutes, he tells doug demuro of jalopnik. That means the team traveled an average of 98mph, including 46 minutes of total stop time, usa today reports, with a top speed of 158mph. If it's true — and bolian allegedly has 218 pages of gps tracking data to prove it is — the oct. 19-20 drive shatters the 2006 record of 31 hours and 4 minutes. Though little-known, the cross-country record has a storied history, dating to 1933. \" i've wanted to break the record since i was 18 years old, \" bolian says. He spent years planning his run, outfitting his car — a nine-year-old mercedes-benz cl55 with 115,000 miles on it — with two extra 22-gallon fuel tanks; two gpses; a host of cop-avoidance gadgets, including three radar detectors; and a cb radio, used to trick truckers into getting out of his way by posing as one of them. They also brought a bedpan, so they could avoid all possible stops. It's a pretty wild story, with the drive kicking off with 15 minutes of nyc traffic, and demuro's full writeup is worth a read.",
         "split": "train",
         "cleansed_document": [
-            "Close skip in skip x embed x share natalie diblasio hosts newsbreak covering a new record. Three men drove from new york to l.a. In just 28 hours and 50 minutes. Usa today three men have set a new record. Driving across the united states – from new york to los angeles - in 28 hours and 50 minutes. ( photo: http://edbolian.com/ ) twenty-eight hours and 50 minutes. That's how long it took three men to drive across the united states, from new york city to los angeles, smashing the record. The previous record, set in 2006, was 31 hours and 4 minutes, jalopnik, an auto news site, reported. That's 2,813 miles. According to a google maps search, that should take 42 hours. Ed bolian, a 27-year-old lamborghini dealer from atlanta, had been planning the trip since 2009. He carefully selected a car, the mercedes cl 55, and filled it with technology to outsmart cops, outrun traffic and deal with the weather. Bolian also added two 22-gallon auxiliary fuel drums to the car's existing 23-gallon tank. That weighs nearly 400 pounds. \" i've wanted to break the record since i was 18 years old, \" bolian told jalopnik. The car's max speed was 158 mph with a moving average of 100 mph",
-            "He's a tall, lanky southerner with a penchant for cars, and, of all things, lizards. He has a polite face and an eager-to-please demeanor. His teaches sunday school with his wife. Ed bolian is the kind of guy you might meet on an airplane and forget before you picked up your bags – with one exception: he just became the fastest man ever to drive across the united states. That's right: alex roy's familiar cross-country driving record, set in his now-famous lemans blue 2000 bmw m5 during the fall of 2006, no longer stands. It was allegedly broken by a three-man team consisting of ed, a co-driver, and a passenger, in a 2004 mercedes-benz cl55 amg. Advertisement but we ' ll get to all that. First, we should address the term \" broken. \" when i think of a record that's been \" broken, \" i imagine beating something by a second, or a minute, or maybe a few rbis. If what ed says is true, the record wasn't broken: it was shattered. In 2006, alex and company completed the transcontinental journey in 31 hours and 4 minutes. Two weeks ago, ed and his crew say they managed to do the deed in 28 hours and 50 minutes. Google"
+            "Close skip in skip x embed x share natalie diblasio hosts newsbreak covering a new record. Three men drove from new york to l.a. In just 28 hours and 50 minutes. Usa today three men have set a new record. Driving across the united states – from new york to los angeles - in 28 hours and 50 minutes. ( photo: http://edbolian.com/ ) twenty-eight hours and 50 minutes. That's how long it took three men to drive across the united states, from new york city to los angeles, smashing the record. The previous record, set in 2006, was 31 hours and 4 minutes, jalopnik, an auto news site, reported. That's 2,813 miles. According to a google maps search, that should take 42 hours. Ed bolian, a 27-year-old lamborghini dealer from atlanta, had been planning the trip since 2009. He carefully selected a car, the mercedes cl 55, and filled it with technology to outsmart cops, outrun traffic and deal with the weather. Bolian also added two 22-gallon auxiliary fuel drums to the car's existing 23-gallon tank. That weighs nearly 400 pounds. \" i've wanted to break the record since i was 18 years old, \" bolian told jalopnik. The car's max speed was 158 mph with a moving average of 100 mph"
         ],
         "raw_document": [
             "Close skip in skip x embed x share natalie diblasio hosts newsbreak covering a new record. Three men drove from new york to l.a. In just 28 hours and 50 minutes. Usa today three men have set a new record. Driving across the united states – from new york to los angeles - in 28 hours and 50 minutes. ( photo: http://edbolian.com/ ) twenty-eight hours and 50 minutes. That's how long it took three men to drive across the united states, from new york city to los angeles, smashing the record. The previous record, set in 2006, was 31 hours and 4 minutes, jalopnik, an auto news site, reported. That's 2,813 miles. According to a google maps search, that should take 42 hours. Ed bolian, a 27-year-old lamborghini dealer from atlanta, had been planning the trip since 2009. He carefully selected a car, the mercedes cl 55, and filled it with technology to outsmart cops, outrun traffic and deal with the weather. Bolian also added two 22-gallon auxiliary fuel drums to the car's existing 23-gallon tank. That weighs nearly 400 pounds. \" i've wanted to break the record since i was 18 years old, \" bolian told jalopnik. The car's max speed was 158 mph with a moving average of 100 mph",
@@ -291,7 +289,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -321,12 +319,11 @@
     },
     {
         "idx": 44412,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Ukraine's newly empowered parliament has voted to allow the release of former prime minister yulia tymoshenko after more than two years in prison. Legislators voted 310-54 to decriminalize the count under which she was imprisoned, meaning that she is no longer guilty of a criminal offense. \" free yulia! free yulia! \" legislators chanted after the vote. It was not immediately clear when she might be released from the eastern city of kharkiv where she is serving her sentence. As part of today's deal between president viktor yanukovich and opposition leaders, the parliament also granted unconditional amnesty to detained protesters, notes reuters. It seems to bode well for an end to the recent violence, but the new york times raise two big caveats: russia hasn't backed the deal, and many protesters continue to demand the resignation of yanukovich.",
         "split": "train",
         "cleansed_document": [
-            "People listen to speeches in front of a statue in independence square in kiev february 21, 2014. Kiev ukraine's parliament on friday voted heavily in favor of an unconditional amnesty for all those detained or who might face possible prosecution in the current unrest. The amnesty, which means all charges will be dropped against people detained or who might fear arrest for participating in protests, was part of an eu-brokered agreement signed between president viktor yanukovich and opposition leaders to end a protracted crisis. ( writing by richard balmforth; editing by timothy heritage )",
-            "Except for a series of loud explosions on friday night and angry chants in the protest encampment, kiev was generally quiet. And the authorities, although previously divided about how to handle the crisis, seemed eager to avoid more confrontations. By late in the afternoon, all police officers had vacated the government district of the capital, leaving behind burned military trucks, mattresses and heaps of garbage at the positions they had occupied for months. In independence square, the focal point of the protest movement, however, the mood was one of deep anger and determination, not triumph. \"get out criminal! death to the criminal! \" the crowd chanted, reaffirming what, after a week of bloody violence, has become a nonnegotiable demand for many protesters: the immediate departure of mr. Yanukovych. When vitali klitschko, one of the three opposition leaders who signed the deal, spoke in its defense, people screamed \"shame! \" a coffin was then hauled on a stage in the square to remind mr. Klitschko of the more than 70 people who died during violence on thursday, the most lethal day of political mayhem in ukraine since independence from the soviet union more than 22 years ago. Advertisement continue reading the main story the violence escalated the urgency of the crisis, which began with protests in late november after a decision by mr. Yanukovych to spurn a trade and political deal with the european union and tilt his nation toward russia instead. Advertisement continue reading the main story it was difficult to know how much of the fury voiced on friday night in independence square was fiery bravado, a final cry of anger before the three-month-long protest movement winds down or the harbinger of yet more and possibly worse violence to come. Advertisement continue reading the main story vividly clear, however, was the wide gulf that had opened up between the opposition's political leadership and a street movement that has radicalized and slipped far from the already tenuous control of politicians. Advertisement continue reading the main story mr. Klitschko was interrupted by an angry radical who did not give his name but said he was the leader of a group of fighters,"
+            "People listen to speeches in front of a statue in independence square in kiev february 21, 2014. Kiev ukraine's parliament on friday voted heavily in favor of an unconditional amnesty for all those detained or who might face possible prosecution in the current unrest. The amnesty, which means all charges will be dropped against people detained or who might fear arrest for participating in protests, was part of an eu-brokered agreement signed between president viktor yanukovich and opposition leaders to end a protracted crisis. ( writing by richard balmforth; editing by timothy heritage )"
         ],
         "raw_document": [
             "People listen to speeches in front of a statue in independence square in kiev february 21, 2014. Kiev ukraine's parliament on friday voted heavily in favor of an unconditional amnesty for all those detained or who might face possible prosecution in the current unrest. The amnesty, which means all charges will be dropped against people detained or who might fear arrest for participating in protests, was part of an eu-brokered agreement signed between president viktor yanukovich and opposition leaders to end a protracted crisis. ( writing by richard balmforth; editing by timothy heritage )",
@@ -341,7 +338,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -366,17 +363,15 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 44414,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Eyes now automatically turn to twitter after anyone criticizes donald trump, and meryl streep's dig at the president-elect during sunday's golden globes did indeed elicit a trump response. Streep used her time onstage while accepting the cecil b. Demille award to talk about when she first saw trump mock a disabled reporter at a 2015 rally. \" it kind of broke my heart, \" she noted, berating the \" instinct to humiliate \" that he seemed to display. The new york times first got hold of trump right after the awards — it was times reporter serge kovaleski whom trump reportedly made fun of — and although he said he hadn't seen streep's speech, he noted he \" wasn't surprised \" about coming under fire from \" liberal movie people. \" \" people keep saying i intended to mock the reporter's disability, as if meryl streep and others could read my mind, and i did no such thing, \" he said, adding he'd simply been \" calling into question a reporter who had gotten nervous because he had changed his story. \" he reiterated his stance early monday with a three-tweet defense. \" meryl streep, one of the most over-rated actresses in hollywood, doesn't know me but attacked last night at the golden globes. She is a … hillary flunky who lost big. For the 100th time, i never ' mocked ' a disabled reporter ( would never do that ) but simply showed him … ' groveling ' when he totally changed a 16 year old story that he had written in order to make me look bad. Just more very dishonest media! \" he also told the times there'd be \" plenty of movie and entertainment stars \" at his inauguration and that \" all the dress shops are sold out in washington. \"",
         "split": "train",
-        "cleansed_document": [
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
             "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more",
@@ -390,9 +385,9 @@
             "The summary focuses on Meryl Streep's comments about Donald Trump at the Golden Globes and Trump's response. Document 1, Document 2, and Document 3 are unrelated tweets with location information that do not provide any relevant information to the summary. Therefore, the irrelevant documents are: Document 1|Document 2|Document 3"
         ],
         "vote_count": {
-            "0": 5,
-            "1": 5,
-            "2": 0
+            "0": 3,
+            "1": 3,
+            "2": 3
         }
     },
     {
@@ -502,12 +497,10 @@
     },
     {
         "idx": 44419,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Miss georgia's singing talent may have helped her win the miss america crown, but it was miss colorado who made waves with her monologue about being a nurse. Kelley johnson, who ended as second runner-up, appeared on stage in nurse's scrubs and spoke about caring for alzheimer's patients. \" i went over to him and i lifted his head up out of his hands. And i said, ' joe, i know that this is really hard. But, you are not defined by this disease, ' \" she said, per abc denver. The alzheimer's association later thanked johnson in a tweet, but the ladies of the view weren't wowed. She \" came in a nurse's uniform, and basically read emails out loud and shockingly did not win, \" michelle collins said during a segment monday. \" i swear to god it was hilarious. \" joy behar next commented, \" why does she have a doctor's stethoscope around her neck? \" one look at the view's facebook page shows numerous demands for an apology, most using the hashtag #nursesunite, per the coloradoan. \" it is a nurse stethoscope too. I use it to listen to a child's lungs, \" writes one nurse, per e! \" your comments denigrated our most noble profession. You owe all of the nurses of this world an apology. \" in a post with some 530,000 likes, another nurse notes, \" nursing is a talent. It takes a talented person to put an iv in a dehydrated newborn with veins as fragile as a piece of hair. It takes talent to perform cpr for 2 hours while desperately trying to save someone's child. It takes talent to safely manage a confused and combative patient. \" she continues, \" i ' m not at all envious of what you do. I ' m sorry i wouldn't want to take a walk in any of your shoes. I ' ll stick with mine. The shoes of a talentless nurse. \" ( female nurses face another obstacle every day. )",
         "split": "train",
-        "cleansed_document": [
-            "Not even in nursing — a field women dominate 10 to 1 — are employees exempt from a gender-based pay gap that gives male workers better wages, sending male nurses home with anywhere from $ 3,800 to $ 17,000 more than women make every single year. The amount varies among specialties, but male nurses make an average of about $ 5,000 more annually than women, according to a study published in the journal of american medicine association on tuesday. Nurse anesthetists have the widest gap and general hospital nurses the lowest, with orthopedics the only specialty that did not report inequity. The report highlights longstanding concerns of inequality that have flummoxed nurses and supervisors alike — if a field hires women the vast majority of the time and women frequently advance to leadership roles, how is the pay gap still so wide? \"i can't understand it, \" tish kilfoyle, director of home care nursing at hospice of the western reserve in cleveland, told takepart. \"it's just wrong. \" as someone who hires"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites.",
             "Winter storm warning issued january 30 at 4: 27pm mst expiring february 2 at 12: 00pm mst in effect for: archuleta, delta, dolores, gunnison, hinsdale, la plata, mesa, montezuma, montrose, ouray, san juan, san miguel winter storm warning issued january 30 at 4: 27pm mst expiring february 2 at 12: 00pm mst in effect for: dolores, mesa, montrose, san miguel winter weather advisory issued january 31 at 5: 27pm mst expiring february 2 at 12: 00pm mst in effect for: moffat, routt winter storm warning issued january 31 at 5: 27pm mst expiring february 2 at 12: 00pm mst in effect for: delta, gunnison, mesa, montrose winter storm warning issued february 1 at 9: 24am mst expiring february 2 at 12: 00pm mst in effect for: archuleta, delta, dolores, gunnison, hinsdale, la plata, mesa, montezuma, montrose, ouray, san juan, san miguel winter storm warning issued",
@@ -523,7 +516,7 @@
         "vote_count": {
             "0": 4,
             "1": 4,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -609,7 +602,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -634,7 +627,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -664,13 +657,12 @@
     },
     {
         "idx": 44425,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It is now well established that many viruses wreak more havoc on men than on women. Examples: men are five times as likely to develop cancer from hpv as women, twice as likely to develop hodgkin's lymphoma from the epstein-barr virus, and 1.5 times as likely to die of tuberculosis, per new scientist. Scientists puzzling over why have suggested that women could have stronger immune systems, which would make sense from an evolutionary perspective given the importance of being able to bring offspring to term and nurse them through infancy. But now researchers using mathematical modeling say it might be the viruses themselves that have evolved to behave differently in their hosts depending on sex, and that includes in other animals like chickens, they report in the journal nature communications. Viruses spread between hosts by making more copies of themselves. But in doing so, they also make their hosts ill, which doesn't actually behoove them. \" that's not something a pathogen particularly sets out to do because it's shooting itself in the foot, \" says one researcher. Because a virus so easily jumps from mother to fetus or infant, women are the superior host, and thus there is evolutionary pressure to harm them less, reason reports. How a virus can determine the sex of its host is a mystery, though subtle differences in hormones and other pathways could play a role. If researchers can sort this out, they might be able to trick viruses into thinking they're always infecting women, and get them to go easy on the men, too. ( these are the deadliest viruses to infect humans. )",
         "split": "train",
         "cleansed_document": [
             "Viruses, it turns out, have most likely evolved to affect men in more severe ways than women: tuberculosis, papillomavirus, and others have that in common. Now a fresh study has discovered the surprising reason why that might be. And it's not because pathogens are sexist. Part of the explanation could be the differences in the two sexes ' immune systems. But scientists at the royal holloway university of london believe they've made a breakthrough in identifying the main reason - that women are more valuable hosts for the viruses. The differences in severity are stark. As it turns out, men are 1.5 times more likely to die of tuberculosis than women, twice more likely to develop hodgkin's lymphoma from the epstein-barr virus as well – and a whopping five times more likely to develop cancer if infected with the papillomavirus. As the researchers point out,",
-            "Hero images/getty is man-flu a quirk of viral evolution? some viruses might cause weaker symptoms in women than in men because it makes them more likely to spread. Many infections cause more severe illness in men than women. Men infected with tuberculosis are 1.5 times more likely to die than women; men infected with human papillomavirus are five times more likely to develop cancer than women; and men infected with epstein-barr virus are at least twice as likely to develop hodgkin's lymphoma as women. Latest news: research on male animals prevents women from getting best drugs many think this pattern is because of differences between the sexes ' immune systems. But another explanation is that women are more valuable hosts. Women can pass infections to their children during pregnancy, birth and breastfeeding, so there's an evolutionary pressure on viruses to be less harmful to them, say francisco úbeda and vincent",
-            "Model formulation we extend the classical sir model23 incorporating vertical and horizontal transmission between male and female hosts ( see fig. 1 and methods for details ). We solve this model allowing pathogens to exhibit different virulence in men and women. Figure 1: diagram showing our epidemiological model of vertical and horizontal transmission in males and females. We model the continuous change in time of the fraction of susceptible ( subscript s ), infected ( subscript i ) and recovered ( subscript r ) individuals in males ( m ) and females ( f ). Males and females born, b m and b f, are infected with probability αf i. Susceptible males and females, m s and f s, become infected with probability given by the force of infection in males h m =β( δ m ) γ mm m i +β( δ f ) γ fm f i and females h f =β("
+            "Hero images/getty is man-flu a quirk of viral evolution? some viruses might cause weaker symptoms in women than in men because it makes them more likely to spread. Many infections cause more severe illness in men than women. Men infected with tuberculosis are 1.5 times more likely to die than women; men infected with human papillomavirus are five times more likely to develop cancer than women; and men infected with epstein-barr virus are at least twice as likely to develop hodgkin's lymphoma as women. Latest news: research on male animals prevents women from getting best drugs many think this pattern is because of differences between the sexes ' immune systems. But another explanation is that women are more valuable hosts. Women can pass infections to their children during pregnancy, birth and breastfeeding, so there's an evolutionary pressure on viruses to be less harmful to them, say francisco úbeda and vincent"
         ],
         "raw_document": [
             "Viruses, it turns out, have most likely evolved to affect men in more severe ways than women: tuberculosis, papillomavirus, and others have that in common. Now a fresh study has discovered the surprising reason why that might be. And it's not because pathogens are sexist. Part of the explanation could be the differences in the two sexes ' immune systems. But scientists at the royal holloway university of london believe they've made a breakthrough in identifying the main reason - that women are more valuable hosts for the viruses. The differences in severity are stark. As it turns out, men are 1.5 times more likely to die of tuberculosis than women, twice more likely to develop hodgkin's lymphoma from the epstein-barr virus as well – and a whopping five times more likely to develop cancer if infected with the papillomavirus. As the researchers point out,",
@@ -687,7 +679,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -712,7 +704,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -743,7 +735,7 @@
             "0": 0,
             "1": 0,
             "2": 2,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1062,7 +1054,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1394,14 +1386,13 @@
     },
     {
         "idx": 44452,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Bitcoins just got into politics: the fec said yesterday that people can use them to make political contributions. As far as the fine print goes, any pac that accepts them must convert them into dollars before using the money, the washington post reports. Also, no anonymous donations will be allowed, and campaigns must give them a good look for \" evidence of illegality, \" usa today reports. The grass-roots make your laws pac that made the initial request to the fec requested a $ 100 limit, but at this point it's not clear whether \" the fec was approving only bitcoin donations capped at $ 100, or whether larger virtual contributions would be permitted, \" notes roll call. Though not an official rule, the fec's 6-0 vote \" opens the door to the use of bitcoins by any federal political committee, \" observes the post. However, the move comes as the us securities and exchange commission issues a warning to investors, declaring that bitcoin \" does not have an established track record of credibility and trust, \" pc world reports.",
         "split": "train",
         "cleansed_document": [
             "Fec clears campaigns to solicit bitcoins by eliza newlin carney the federal election commission has unanimously ruled to permit the use of bitcoins for political contributions, a move that lends legitimacy to the virtual currency but leaves unclear how valuable or useful bitcoins will prove to be in elections. The commission approved bitcoin campaign contributions 6-0 thursday in response to an advisory opinion request from the make your laws pac, which promotes direct citizen participation in the legislative process. The fec had deadlocked on a previous, similar request submitted last year. Make your laws had asked the fec for permission to collect bitcoin contributions no larger than $ 100 per election, per donor. It was not immediately",
             "Updated at 12: 49 p.m. The federal election commission on thursday gave a green light to donating bitcoins to political committees, one of the first rulings by a government agency on how to treat the virtual currency. In a 6-to-0 vote, the panel said that a pac can accept bitcoin donations, as well as purchase them, but it must sell its bitcoins and convert them into u.s. Dollars before they are deposited into an official campaign account. The commission did not approve the use of bitcoin to acquire goods and services. After the vote, however, individual commissioners offered sharply divergent views on whether their decision limits bitcoin donations to small amounts -- creating more uncertainty",
-            "Mike caldwell, a software engineer, holds a 25 bitcoin token at his shop in sandy, utah in may of last year. Caldwell mints physical versions of bitcoins. ( photo: rick bowmer, ap ) washington — bitcoin, the fast-growing digital currency, is coming to political campaigns. The federal election commission ( fec ) unanimously approved its use as a political donation thursday, after months of debate on the issue. Commissioners imposed several conditions. Among them: no anonymous bitcoin contributions will be allowed, and campaign treasurers must scrutinize the donations for \" evidence of illegality. \" jim harper, global policy counsel of the industry's bitcoin foundation, said",
-            "The u.s. Securities and exchange commission is leery of bitcoin. The agency issued a lengthy warning to investors on wednesday about risks it sees in bitcoin and virtual currencies, much of which has been already iterated by bitcoin advocates or other regulators. But the sec, which is the top regulator for u.s. Securities markets, also took a dig at bitcoin's short existence as another negative. \"as a recent invention, bitcoin does not have an established track record of credibility and trust, \" the agency wrote in its advisory. The statement perhaps conflates the pure technology of the bitcoin protocol that transfers the virtual currency, which has been vetted by cryptography experts as solid"
+            "Mike caldwell, a software engineer, holds a 25 bitcoin token at his shop in sandy, utah in may of last year. Caldwell mints physical versions of bitcoins. ( photo: rick bowmer, ap ) washington — bitcoin, the fast-growing digital currency, is coming to political campaigns. The federal election commission ( fec ) unanimously approved its use as a political donation thursday, after months of debate on the issue. Commissioners imposed several conditions. Among them: no anonymous bitcoin contributions will be allowed, and campaign treasurers must scrutinize the donations for \" evidence of illegality. \" jim harper, global policy counsel of the industry's bitcoin foundation, said"
         ],
         "raw_document": [
             "Fec clears campaigns to solicit bitcoins by eliza newlin carney the federal election commission has unanimously ruled to permit the use of bitcoins for political contributions, a move that lends legitimacy to the virtual currency but leaves unclear how valuable or useful bitcoins will prove to be in elections. The commission approved bitcoin campaign contributions 6-0 thursday in response to an advisory opinion request from the make your laws pac, which promotes direct citizen participation in the legislative process. The fec had deadlocked on a previous, similar request submitted last year. Make your laws had asked the fec for permission to collect bitcoin contributions no larger than $ 100 per election, per donor. It was not immediately",
@@ -1420,7 +1411,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1450,12 +1441,11 @@
     },
     {
         "idx": 44454,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Last week saw the mother of an american who died in benghazi angrily indict hillary clinton in her son's death, using the republican national convention as her medium. Now, the mother of another american slain in the attack at the libyan consulate, ambassador chris stevens, takes to the pages of the new york times to plead for the opposite: \" as ambassador j. Christopher stevens's mother, i am writing to object to any mention of his name and death in benghazi, libya, by donald trump's campaign and the republican party, \" writes mary f. Commanday in a letter to the editor. \" i know for certain that chris would not have wanted his name or memory used in that connection. I hope that there will be an immediate and permanent stop to this opportunistic and cynical use by the campaign. \"",
         "split": "train",
         "cleansed_document": [
-            "To the editor: as ambassador j. Christopher stevens's mother, i am writing to object to any mention of his name and death in benghazi, libya, by donald trump's campaign and the republican party. I know for certain that chris would not have wanted his name or memory used in that connection. I hope that there will be an immediate and permanent stop to this opportunistic and cynical use by the campaign. Mary f. Commanday oakland, calif.",
-            "John tiegen, a u.s. Marine corp veteran, left, and mark geist, a u.s. Marine corps veteran who fought in benghazi, speak during the opening day of the republican national convention in cleveland, monday,... ( associated press ) john tiegen, a u.s. Marine corp veteran, left, and mark geist, a u.s. Marine corps veteran who fought in benghazi, speak during the opening day of the republican national convention in cleveland, monday, july 18, 2016.. ( ap photo/mark j. Terrill ) ( associated press ) cleveland ( ap ) — the mother of a state department employee killed in the deadly attacks in benghazi, libya, angrily lashed out at hillary clinton on monday at the republican national convention, accusing clinton of lying to her about her son's death. Two marine corps veterans who fought in benghazi as part of a security team posted near the u.s. Diplomatic compound also blamed clinton for lax security before the attacks on sept. 11, 2012, that killed four americans, including the u.s. Ambassador. The accusations came during the opening night of the convention, as republicans cast donald trump as a strong leader who can keep americans safe in a dangerous world. Security officers mark \" oz \" geist and john tiegen spoke harshly about clinton, but did not repeat a widely debunked claim by some conservatives that high-level officials in washington had issued a \" stand down \" order delaying a military rescue in benghazi. Pat smith, the mother of state department employee sean smith, accused clinton of lying to her by blaming the assault on an anti-muslim video, instead of labeling it a calculated terrorist attack. Clinton was secretary of state when the attacks occurred and now is the presumptive democratic presidential nominee. \" i blame hillary clinton personally for the death of my son, \" smith said in an emotional speech applauded by delegates. Smith noted that clinton had told her daughter, chelsea, in an email that the attacks were likely terrorism, but told smith and other family members a different story. Clinton told the house benghazi committee last year that \" some \" people had wanted to use the offensive, anti-muslim video to \" justify \" the attack that killed ambassador chris"
+            "To the editor: as ambassador j. Christopher stevens's mother, i am writing to object to any mention of his name and death in benghazi, libya, by donald trump's campaign and the republican party. I know for certain that chris would not have wanted his name or memory used in that connection. I hope that there will be an immediate and permanent stop to this opportunistic and cynical use by the campaign. Mary f. Commanday oakland, calif."
         ],
         "raw_document": [
             "To the editor: as ambassador j. Christopher stevens's mother, i am writing to object to any mention of his name and death in benghazi, libya, by donald trump's campaign and the republican party. I know for certain that chris would not have wanted his name or memory used in that connection. I hope that there will be an immediate and permanent stop to this opportunistic and cynical use by the campaign. Mary f. Commanday oakland, calif.",
@@ -1470,7 +1460,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1528,12 +1518,10 @@
     },
     {
         "idx": 44457,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "On nov. 8, 2014, virginia 25-year-old candice christa semidey fed her 4-month-old son, jahari jones, swaddled him, and put him to bed. She, too, went to sleep, only to wake up and find jahari dead. Semidey was charged with felony murder. Why? because she wrapped jahari in a blanket and placed him to sleep on his stomach on what the washington post describes as \" a makeshift bed... Fashioned from a chair cushion and a blanket. \" jahari suffocated, unable to move his face away from the blanket. Police determined that semidey didn't intend to kill the little boy, but prosecutors decided she was neglectful of safe sleep guidelines and thus should be charged. Though she was charged in january, the case was not reported until this week, as the post tallied up the number of homicides in the washington, dc, region in 2015. As the prince william county police public information officer explains to the daily beast, nothing else in the home caused police to believe jahari had been neglected, and semidey was not under the influence of drugs or alcohol. But, as the charging documents state, she had gotten proper guidance on safe sleep guidelines ( which include putting a baby down on his or her back to sleep, on a firm surface without blankets, and not swaddling a baby who is placed on his stomach ), and police concluded that her conduct \" was so gross, wanton, and culpable \" that it showed \" a reckless disregard for human life. \" the officer tells the new york daily news, \" this particular death isn't just about the child being placed on his stomach, but the totality of the circumstances. \" semidey pleaded guilty to involuntary manslaughter and child neglect; she must serve three years of probation to avoid going to jail for five years. ( in missouri, parents were charged in their toddler's space heater death. )",
         "split": "train",
-        "cleansed_document": [
-            "\" in some cases it's found to be neglect. In other cases, it's a situation where those parents are facing this tragic situation after losing their baby and then, compounding that, they face charges in something they have nothing to do with, \" said blake, first candle's ceo. \" it was tragedy on top of tragedy. And there was nothing they could have done differently. \""
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Nightmares a mother was charged with murder after her baby accidentally died while sleeping on his stomach. After a jarring return to work and some prodding from our famously eager pediatrician, my husband and i have started \"cry-it-out \" with our 4-month-old son — a brutal, if necessary, method where exhausted parents train their babies to sleep by ignoring their cries. Last night, after our baby cried, then quieted himself several times during a 10-hour stretch, i went to fetch him for a morning feed and felt my throat fall into my stomach. My baby had wiggled during the night and the fancy swaddle i used to wrap his arms tightly at 7 p.m. Was now resting around his neck. My mind flashed with the threat i know loose bedding to be: suffocation, strangulation, death. His eyes peeked out at me through his nearly covered face. Five years ago, in the middle of another sleepless stretch with my first son, my parenting fail was by choice",
             "Update: according to court records, the charge of involuntary manslaughter against adam alexander was dismissed, and he was tried and found not guilty on the charge of child neglect. The mother of one northern virginia baby and the parents of another have been charged in their children's deaths, prince william county police said monday. The two infants, 4-month-old jahari jones and 9-month-old avarice alexander, died in 2014. But police and prosecutors did not decide to charge the adults with killing them until this year. The charges in those two cases, which have not been previously reported, bring the number of homicide cases in prince william in 2015 to 11, five more than in 2014. The two babies are among the youngest victims of alleged homicide across the washington region. Of the 287 homicides that the washington post has tracked in its database of killings in the area this year, authorities say six other victims are younger than 10 years old. [ the post's map",
@@ -1551,7 +1539,7 @@
             "0": 4,
             "1": 4,
             "2": 3,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -1603,7 +1591,7 @@
         "vote_count": {
             "0": 4,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1690,12 +1678,11 @@
     },
     {
         "idx": 44463,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The last three funerals for victims of the sandy hook massacre were held today as millions of dollars in donations poured into newtown, conn., nbc news reports. Josephine gay, 7, and ana marquez-greene, 6, were laid to rest in connecticut, and emilie parker, 6, in ogden, utah. Emilie's father, robbie parker, said at a press conference that he held no ill will toward shooter adam lanza but found it hard to explain the killing to his other kids, ages 3 and 4. Emilie's effect on the world was his only comfort, he said: \" i ' m so blessed to be her dad. \" meanwhile officials were refurbishing unused chalk hill middle school in nearby monroe, conn., to be ready jan. 3 for children who survived the massacre. Newtown's school superintendent offered time off for sandy hook's teachers and staff, but said that \" i think many don't want their children — they own those children — they don't want them to be with a substitute. \" also today, newtown's children were invited to a town hall to choose a toy from the tens of thousands pouring in, reports the ap. Donations at the united way of western connecticut reached $ 2.6 million this morning.",
         "split": "train",
         "cleansed_document": [
-            "Newtown's children were showered with gifts saturday _ tens of thousands of teddy bears, barbie dolls, soccer balls and board games _ but only a portion of the tokens of support from around the world for the city in mourning. Alissa parker, left, and her husband, robbie parker, center, carry their daughters, samantha, 3, and madeline, 4, following funeral services for their 6-year old daughter, connecticut elementary shooting... ( associated press ) alissa parker carries her daughter, samantha, 3, following funeral services for her 6-year old daughter, connecticut elementary shooting victim emilie parker, saturday, dec. 22, 2012, at the church of... ( associated press ) the casket of 6-year-old emilie parker is carried following funeral services on saturday, dec. 22, 2012, in ogden, utah. Emilie, whose family has ogden roots, was one of the victims killed in a dec. 14... ( associated press ) robbie parker, left, carries his daughter, madeline, 4, following funeral services for his 6-year old daughter, connecticut elementary shooting victim emilie parker, saturday, dec. 22, 2012, at the church... ( associated press ) volunteer anthony vessicchio of east haven, conn., helps to sort tables full of donated toys at the town hall in newtown, conn., friday,",
-            "In classrooms, churches, and other places, bells rang out across the country while people observed a moment of silence for the victims of the newtown, conn. Shooting. Nbc's ron mott reports. Updated at 3: 40 p.m. Et: the last of the funerals for the 26 victims of the school shooting in newtown, conn., were held saturday, ending a week-long procession of funerals as the final three young victims are laid to rest. On friday morning, exactly one week after a gunman burst into sandy hook elementary and killed 20 first-graders and six educators, the nation paused for a moment of silence and tolled bells 26 times for the victims. Josephine gay's funeral mass was held at saint rose of lima saturday morning. The first grader had just turned 7 the week of the shooting. On monday, purple balloons — josephine's favorite color — sprouted from the family mailbox and those of all her neighbors. \" ' joey ' is a beautiful little girl, may she never be forgotten and live forever in our hearts, \" wrote polly larsen, a family friend, on facebook. Six-year-old ana marquez-greene had just moved to newtown two months ago, in part, because of sandy hooks's pristine reputation, her grandmother, elba marquez said. Ana's funeral was held"
+            "Newtown's children were showered with gifts saturday _ tens of thousands of teddy bears, barbie dolls, soccer balls and board games _ but only a portion of the tokens of support from around the world for the city in mourning. Alissa parker, left, and her husband, robbie parker, center, carry their daughters, samantha, 3, and madeline, 4, following funeral services for their 6-year old daughter, connecticut elementary shooting... ( associated press ) alissa parker carries her daughter, samantha, 3, following funeral services for her 6-year old daughter, connecticut elementary shooting victim emilie parker, saturday, dec. 22, 2012, at the church of... ( associated press ) the casket of 6-year-old emilie parker is carried following funeral services on saturday, dec. 22, 2012, in ogden, utah. Emilie, whose family has ogden roots, was one of the victims killed in a dec. 14... ( associated press ) robbie parker, left, carries his daughter, madeline, 4, following funeral services for his 6-year old daughter, connecticut elementary shooting victim emilie parker, saturday, dec. 22, 2012, at the church... ( associated press ) volunteer anthony vessicchio of east haven, conn., helps to sort tables full of donated toys at the town hall in newtown, conn., friday,"
         ],
         "raw_document": [
             "Newtown's children were showered with gifts saturday _ tens of thousands of teddy bears, barbie dolls, soccer balls and board games _ but only a portion of the tokens of support from around the world for the city in mourning. Alissa parker, left, and her husband, robbie parker, center, carry their daughters, samantha, 3, and madeline, 4, following funeral services for their 6-year old daughter, connecticut elementary shooting... ( associated press ) alissa parker carries her daughter, samantha, 3, following funeral services for her 6-year old daughter, connecticut elementary shooting victim emilie parker, saturday, dec. 22, 2012, at the church of... ( associated press ) the casket of 6-year-old emilie parker is carried following funeral services on saturday, dec. 22, 2012, in ogden, utah. Emilie, whose family has ogden roots, was one of the victims killed in a dec. 14... ( associated press ) robbie parker, left, carries his daughter, madeline, 4, following funeral services for his 6-year old daughter, connecticut elementary shooting victim emilie parker, saturday, dec. 22, 2012, at the church... ( associated press ) volunteer anthony vessicchio of east haven, conn., helps to sort tables full of donated toys at the town hall in newtown, conn., friday,",
@@ -1710,7 +1697,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1862,7 +1849,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1915,7 +1902,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1995,7 +1982,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2025,13 +2012,12 @@
     },
     {
         "idx": 44476,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The mother of a vegan who died trying to climb mount everest is demanding answers — about whether the climb was conducted safely and why, for days, no one informed her that her daughter was dead. Speaking from australia, maritha strydom tells cnn she was following satellite \" pings \" of daughter maria strydom's climb last saturday when the signal blanked out. \" i was worried when the pings stopped, and we started calling but no one could give us any answers, \" says maritha. \" so my other daughter... Googled and found in the himalayan times that my daughter had passed away. \" what's more, maritha and her daughter heard \" not a word \" about the tragedy — one of four everest deaths over a four-day span — until they received a call on tuesday. Maritha also says guides let maria and husband robert gropel stay too long in the so-called \" death zone, \" an oxygen-poor area around 26,200 feet where altitude sickness and frostbite are common dangers. Maria \" felt weak and decided to turn around, \" her mom says, but when maria got medication and tried climbing back down, \" she suddenly collapsed. \" now maritha is trying retrieve her daughter's body from the mountain, where survivors are often rescued and victims get left behind ( here's the fundraising page to pay for her return to australia ). Seems maria and her husband each paid $ 34,500 for the climb in a pretty sketchy, unregulated market: \" you [ can ] have a circumstance of unskilled people leading other unskilled people in the most dangerous mountain environment you can get, \" veteran climber andrew lock tells the australian. ( maria was trying to prove that a vegan could climb everest. )",
         "split": "train",
         "cleansed_document": [
             "( cnn ) from half a world away, maritha strydom was following her daughter's progress on mount everest last week through a series of satellite \" pings \" from the climber's phone. Then the pings stopped. And soon after strydom got the news every parent dreads -- not through a phone call, she says, but by reading a news article online. Her daughter, maria strydom, had died of altitude sickness in the arms of her husband, robert gropel, saturday as the couple attempted to climb the world's tallest peak to prove that vegans can do anything. She was one of four climbers who died on everest in a grim span of four days. \" i was worried when the pings stopped, and we started calling but no one could give us any answers, \" strydom told cnn in an interview from brisbane, australia. \" so my other daughter... Googled and found in the himalayan times that my daughter had passed away",
-            "Rajan pokhrel kathmandiu: mt everest witnessed another casualty after an australian woman climber died near the camp iv on nepal side on saturday, officials confirmed. Dr maria elizabeth strydom lost her life after she suffered from snow blindness followed by stroke, according to shiva bahadur sapkota, a liaison officer deputed by the department of tourism at the everest base camp. The australian national was accompanied by her husband during the expedition. A finance lecturer at monash business school under monash university, dr strydom ( 34 ) was heading to the world's highest peak when she was taken ill, according to mingma sherpa, the owner of seven summit treks, which locally managed their expedition. Dr strydom had already climbed mt denali in alaska, mt aconcagua in argentina, mt ararat in eastern turkey, and mt kilimanjaro in africa, among other peaks. Earlier in the wee hours of saturday, eric arnold, who hailed from rotterdam of the netherlands, died at the camp iv after suffering",
-            "Maria has been an invaluable member of st michael's netball club for 10 years. She was an incredibly generous person who volunteered her time and expertise as club treasurer on our committee. It is because of people like maria that community run clubs like ours are able to function. She was a leader, our team mate and most importantly our friend. With the blessing of her husband rob and her family, we began collecting money to support their efforts to retrieve and repatriate maria's body. We achieved our goal maria was repatriated to melbourne and was farewelled by her family and friends at a memorial service on 8th june 2016 at the monash university religious centre, clayton campus."
+            "Rajan pokhrel kathmandiu: mt everest witnessed another casualty after an australian woman climber died near the camp iv on nepal side on saturday, officials confirmed. Dr maria elizabeth strydom lost her life after she suffered from snow blindness followed by stroke, according to shiva bahadur sapkota, a liaison officer deputed by the department of tourism at the everest base camp. The australian national was accompanied by her husband during the expedition. A finance lecturer at monash business school under monash university, dr strydom ( 34 ) was heading to the world's highest peak when she was taken ill, according to mingma sherpa, the owner of seven summit treks, which locally managed their expedition. Dr strydom had already climbed mt denali in alaska, mt aconcagua in argentina, mt ararat in eastern turkey, and mt kilimanjaro in africa, among other peaks. Earlier in the wee hours of saturday, eric arnold, who hailed from rotterdam of the netherlands, died at the camp iv after suffering"
         ],
         "raw_document": [
             "( cnn ) from half a world away, maritha strydom was following her daughter's progress on mount everest last week through a series of satellite \" pings \" from the climber's phone. Then the pings stopped. And soon after strydom got the news every parent dreads -- not through a phone call, she says, but by reading a news article online. Her daughter, maria strydom, had died of altitude sickness in the arms of her husband, robert gropel, saturday as the couple attempted to climb the world's tallest peak to prove that vegans can do anything. She was one of four climbers who died on everest in a grim span of four days. \" i was worried when the pings stopped, and we started calling but no one could give us any answers, \" strydom told cnn in an interview from brisbane, australia. \" so my other daughter... Googled and found in the himalayan times that my daughter had passed away",
@@ -2048,7 +2034,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2081,12 +2067,11 @@
     },
     {
         "idx": 44478,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The man who shot trayvon martin in what he says was a case of self-defense is keeping out of the public eye, but george zimmerman's lawyer went on cnn last night to rebut the notion that his client is racist. Zimmerman and his wife mentored two black teens, even after the official mentoring program folded, and also helped a black church raise money, said lawyer craig sonner. \" i do not believe that's the indication of a person who's a racist. \" ( the washington post notes that zimmerman's father is white and his mother latino, providing \" no tidy way \" to categorize him, and an orlando sentinel profile includes a quote from his dad strenuously rejecting the \" racist \" label as well. ) another big issue in the case revolves around florida's \" stand your ground \" law, but sonner doesn't think it's relevant here. \" in my legal opinion, that's not really applicable to this case, \" he told anderson cooper. \" the statute on'stand your ground ' is primarily when you're in your house. This is self-defense, and that's been around for forever — that you have a right to defend yourself. So the next issue ( that ) is going to come up is, was he justified in using the amount of force he did? \" the dallas morning news spoke to jeb bush, the governor who signed the measure into law, and he, too, thinks it's irrelevant. \" this law does not apply to this particular circumstance, \" he said. \" stand your ground means stand your ground means stand your ground. It doesn't mean chase after somebody who's turned their back. \"",
         "split": "train",
         "cleansed_document": [
-            "Story highlights the case would be against a homeowner's association, says attorney daryl parks demonstrations are held in washington, d.c., virginia and florida zimmerman's lawyer and former gov. Jeb bush say \" stand your ground \" doesn't apply in this case police say evidence and testimony on the night prohibited an arrest attorneys for the family of an unarmed florida teen shot to death last month plan to pursue a civil case against a homeowner's association, the family's lawyer said saturday. Daryl parks, attorney for the family of trayvon martin, spoke to board members of the national association of black journalists ( nabj ) about the case. He said there is evidence that the twin lakes homeowner's association told residents who saw suspicious activity to call george zimmerman if they could not contact the police, according to an nabj statement. Martin, 17, was killed february 26 as he walked to his father's fiancee's house in sanford, florida, after a trip to the convenience store. Police say he was shot by zimmerman, a neighborhood watch volunteer who says he was acting in self-defense. Martin was unarmed, carrying a bag of skittles candy and an iced tea, according to police. Protesters upset about martin's death took to streets in cities across the country",
-            "The shooter was once a catholic altar boy — with a surname that could have been jewish. His father is white, neighbors say. His mother is latina. And his family is eager to point out that some of his relatives are black. There may be no box to check for george zimmerman, no tidy way to categorize, define and sort the 28-year-old man whose pull of a trigger on a darkened florida street is forcing america to once again confront its fraught relationship with race and identity. The victim, we know, was named trayvon martin, an unarmed black teenager in a hoodie. The rest becomes a matter for interpretation. The drama in florida takes on a kind of modern complexity. Its nuances show america for what it is steadily becoming, a realm in which identity is understood as something that cannot be summed up in a single word. The images of zimmerman — not just his face, but the words used to describe him — can confound and confuse. Why are they calling him white, wondered paul ebert, the prince william county commonwealth's attorney who knew zimmerman's mother, gladys, from her days as an interpreter at the county courthouse. Zimmerman's mother, ebert knew, was peruvian, and he thought of her as hispanic. Looking at zimmerman's"
+            "Story highlights the case would be against a homeowner's association, says attorney daryl parks demonstrations are held in washington, d.c., virginia and florida zimmerman's lawyer and former gov. Jeb bush say \" stand your ground \" doesn't apply in this case police say evidence and testimony on the night prohibited an arrest attorneys for the family of an unarmed florida teen shot to death last month plan to pursue a civil case against a homeowner's association, the family's lawyer said saturday. Daryl parks, attorney for the family of trayvon martin, spoke to board members of the national association of black journalists ( nabj ) about the case. He said there is evidence that the twin lakes homeowner's association told residents who saw suspicious activity to call george zimmerman if they could not contact the police, according to an nabj statement. Martin, 17, was killed february 26 as he walked to his father's fiancee's house in sanford, florida, after a trip to the convenience store. Police say he was shot by zimmerman, a neighborhood watch volunteer who says he was acting in self-defense. Martin was unarmed, carrying a bag of skittles candy and an iced tea, according to police. Protesters upset about martin's death took to streets in cities across the country"
         ],
         "raw_document": [
             "Story highlights the case would be against a homeowner's association, says attorney daryl parks demonstrations are held in washington, d.c., virginia and florida zimmerman's lawyer and former gov. Jeb bush say \" stand your ground \" doesn't apply in this case police say evidence and testimony on the night prohibited an arrest attorneys for the family of an unarmed florida teen shot to death last month plan to pursue a civil case against a homeowner's association, the family's lawyer said saturday. Daryl parks, attorney for the family of trayvon martin, spoke to board members of the national association of black journalists ( nabj ) about the case. He said there is evidence that the twin lakes homeowner's association told residents who saw suspicious activity to call george zimmerman if they could not contact the police, according to an nabj statement. Martin, 17, was killed february 26 as he walked to his father's fiancee's house in sanford, florida, after a trip to the convenience store. Police say he was shot by zimmerman, a neighborhood watch volunteer who says he was acting in self-defense. Martin was unarmed, carrying a bag of skittles candy and an iced tea, according to police. Protesters upset about martin's death took to streets in cities across the country",
@@ -2101,7 +2086,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2159,13 +2144,12 @@
     },
     {
         "idx": 44481,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Looks like barclays wasn't the only one gaming the libor system. Investigators are looking into an alleged conspiracy in which traders around the world worked together to rig libor to boost their personal profits, the wall street journal reports. Several different groups were allegedly working to rig the rate from 2005 to 2011, with the practice spreading as traders switched banks. One cabal alone involved six of the 16 banks that set the daily yen libor rate. Prosecutors in the us and europe are close to arresting a number of traders over the scandal, sources tell reuters — indeed, some of the suspects ' lawyers have already been notified of impending arrests. The arrests could take pressure off the banks, making the rate-fixing look more like individual malfeasance than systematic corporate wrongdoing. Meanwhile, bloomberg reports that regulators from switzerland to south korea to japan are looking into the possibility that their rates might be vulnerable to foul play.",
         "split": "train",
         "cleansed_document": [
             "The letter \" b \" of the signage on the barclays headquarters in canary wharf is hoisted up the side of the building in london july 20, 2012. U.s. Prosecutors and european regulators are close to arresting individual traders and charging them with colluding to manipulate global benchmark interest rates, according to people familiar with a sweeping investigation into the rigging scandal. Federal prosecutors in washington, d.c., have recently contacted lawyers representing some of the suspects to notify them that criminal charges and arrests could be imminent, said two of those sources, who asked not to be identified because the investigation is ongoing. Defense lawyers, some of whom represent suspects, said prosecutors have indicated they plan to begin making arrests and filing criminal charges in the next few weeks. In long-running financial investigations it is not uncommon for prosecutors to contact defense lawyers before filing charges to offer suspects a chance to cooperate or take a plea, these lawyers said. The prospect of charges and arrests means prosecutors are getting a fuller picture of how traders at major banks allegedly",
-            "Article excerpt several groups of traders are under investigation by regulators around the world for allegedly banding together to rig interest rates, people close to the probe said. The continuing criminal and civil scrutiny includes more than a dozen traders from at least nine banks, often allegedly working together in small groups to target different interest rates on separate continents, the people said. The emerging details about traders suggest to investigators a widespread conspiracy that continued for several years and cascaded around the world. As a result, the banks where the traders worked are under growing pressure to explain what they knew...",
-            "Regulators from stockholm to seoul are re-examining how benchmark borrowing costs are set amid concern they are just as vulnerable to manipulation as the london interbank offered rate. Stibor, sweden's main interbank rate, sibor, the leading rate in singapore, and tibor in japan are among rates facing fresh scrutiny because, like libor, they are based on banks ' estimated borrowing costs rather than real trades. In some cases they may be easier to rig than libor as fewer banks contribute to their calculation, according to academics and analysts. \"many of the ingredients which would make it easy to manipulate libor and collude are common in other benchmarks, \" said rosa abrantes-metz, an economist with consulting firm global economics group and an associate professor at new york university's stern school of business. \"regulatory agencies are starting to take a look at those and there is a growing sense they need to change. \" barclays plc, the u.k.'s second-largest bank, was fined a record 290 million pounds ( $ 450 million ) last month for attempting"
+            "Article excerpt several groups of traders are under investigation by regulators around the world for allegedly banding together to rig interest rates, people close to the probe said. The continuing criminal and civil scrutiny includes more than a dozen traders from at least nine banks, often allegedly working together in small groups to target different interest rates on separate continents, the people said. The emerging details about traders suggest to investigators a widespread conspiracy that continued for several years and cascaded around the world. As a result, the banks where the traders worked are under growing pressure to explain what they knew..."
         ],
         "raw_document": [
             "The letter \" b \" of the signage on the barclays headquarters in canary wharf is hoisted up the side of the building in london july 20, 2012. U.s. Prosecutors and european regulators are close to arresting individual traders and charging them with colluding to manipulate global benchmark interest rates, according to people familiar with a sweeping investigation into the rigging scandal. Federal prosecutors in washington, d.c., have recently contacted lawyers representing some of the suspects to notify them that criminal charges and arrests could be imminent, said two of those sources, who asked not to be identified because the investigation is ongoing. Defense lawyers, some of whom represent suspects, said prosecutors have indicated they plan to begin making arrests and filing criminal charges in the next few weeks. In long-running financial investigations it is not uncommon for prosecutors to contact defense lawyers before filing charges to offer suspects a chance to cooperate or take a plea, these lawyers said. The prospect of charges and arrests means prosecutors are getting a fuller picture of how traders at major banks allegedly",
@@ -2182,7 +2166,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2215,13 +2199,12 @@
     },
     {
         "idx": 44483,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Hell hath no fury like a sweet tooth scorned. Consumerist reports a missouri man disappointed with the amount of candy in his boxes of reese's pieces and whoppers is suing hershey's. According to kcur, robert bratton bought a number of boxes of each candy at a grocery store in columbia for $ 1 each. But he says he would have been less likely to spend that money if he knew how under-filled the boxes would be. Bratton's lawsuit claims the boxes of reese's pieces were under-filled by about 29 % and the boxes of whoppers by about 41 %. His lawsuit argues shoppers are being misled. But hershey's counters that customers are \" well aware \" of the concept of \" slack fill, \" by which packages contain some empty space either due to settling or to protect their contents. Besides, the company argues, the total weight and number of candies is printed on each box. Finally, hershey's says the empty space shouldn't be a surprise to customers as the boxes rattle when picked up. A judge denied hershey's motion to dismiss the case this week but also deferred on bratton's desire to turn it into a class-action suit, the kansas city business journal reports. It remains to be seen how much slack fill is too much slack fill, legally speaking, when it comes to our favorite candies. ( in related news: your favorite hershey's treats may be shrinking soon. )",
         "split": "train",
         "cleansed_document": [
             "Enlarge a hershey's milk chocolate bar is arranged among reese's pieces, also a hershey co. … more a columbia man had a small win wednesday, when a federal judge denied the hershey co.'s motion to throw out his case, kcur reports. At issue? empty space. When robert bratton purchased boxes of reese's pieces and whoppers candies from a columbia grocery store, he was surprised by the amount of empty space when he opened the boxes. The size of the packaging made him think he was getting more product. Enlarge a hershey's milk chocolate bar is arranged among reese's pieces, also a hershey co. … more in industry speak, the empty space is known as \" slack-filled, \" and according to his suit, the reese's pieces packing was comprised of 29 percent empty space, while the whoppers packaging had",
-            "Sure, it's vaguely annoying that boxes of candy aren't full all the way to the top, but most people don't file federal class actions over a lack of peanut butter candies. A man in missouri has done exactly that, claiming that boxes of reese's pieces and whoppers that he purchased were dramatically under-filled. The case is about \"slack fill, \" which is the empty space in a package. Sometimes this serves a purpose, like the extra air in a bag of cookies or chips that protects the contents. Sometimes it's produced when the contents of a package settle during shipment. Read more: when does the extra space in your potato chip bag go from annoying to deceptive? \"consumers are well aware of the fact that substantially all commercial packaging contains some empty space, \" hershey's attorneys argued. Yes, that",
-            "What would elliot, dear friend of e.t. The extra terrestrial, say? when elliot scattered a trail of reese's pieces for his alien friend in stephen spielberg's classic movie, he probably wasn't thinking about the candy's packaging. But columbia, missouri, resident robert bratton was. Bratton bought several boxes of reese's pieces and whoppers malted milk balls at a gerbes grocery story in columbia for $ 1 apiece. He says he was influenced by the size of the opaque boxes, which led him to believe he was buying more candy than he did. Turns out the boxes, as is commonplace in the industry, had a lot of \"slack-filled \" — or empty — space. So bratton did what any candy-loving american would do: he sued the maker of the candies, the hershey company. The class-action lawsuit, originally filed in"
+            "Sure, it's vaguely annoying that boxes of candy aren't full all the way to the top, but most people don't file federal class actions over a lack of peanut butter candies. A man in missouri has done exactly that, claiming that boxes of reese's pieces and whoppers that he purchased were dramatically under-filled. The case is about \"slack fill, \" which is the empty space in a package. Sometimes this serves a purpose, like the extra air in a bag of cookies or chips that protects the contents. Sometimes it's produced when the contents of a package settle during shipment. Read more: when does the extra space in your potato chip bag go from annoying to deceptive? \"consumers are well aware of the fact that substantially all commercial packaging contains some empty space, \" hershey's attorneys argued. Yes, that"
         ],
         "raw_document": [
             "Enlarge a hershey's milk chocolate bar is arranged among reese's pieces, also a hershey co. … more a columbia man had a small win wednesday, when a federal judge denied the hershey co.'s motion to throw out his case, kcur reports. At issue? empty space. When robert bratton purchased boxes of reese's pieces and whoppers candies from a columbia grocery store, he was surprised by the amount of empty space when he opened the boxes. The size of the packaging made him think he was getting more product. Enlarge a hershey's milk chocolate bar is arranged among reese's pieces, also a hershey co. … more in industry speak, the empty space is known as \" slack-filled, \" and according to his suit, the reese's pieces packing was comprised of 29 percent empty space, while the whoppers packaging had",
@@ -2238,18 +2221,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 44484,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The bizarre story of robert durst took a new turn this week as the much-talked-about \" secret witness \" emerged with details on durst's first marriage. Per nbc news, 72-year-old nick chavin showed up at the real estate heir's pretrial hearing for his murder case wednesday — through a back door for security reasons, cbs news reports — saying he was once extremely close to the man he calls \" bobby \" and that they were introduced through writer susan berman, the woman durst is accused of killing. Chavin, who said he considered durst one of his best friends, shed some light on durst's marriage to kathie durst, who disappeared in 1982 ( and whom durst is also suspected of killing ). Prosecutors think berman was murdered because durst feared she'd link him to kathie's death. Chavin, who told the new york times in 2001 that durst hadn't killed kathie, offered testimony in a somewhat different tone wednesday, noting kathie had confided in him she feared durst ( though she'd never said durst had hurt her ) and that her husband was \" impossible, \" the los angeles times reports. Chavin described the dursts ' marriage as \" strange, \" per nbc, noting durst told him it was an open relationship and would go with chavin to clubs looking to hook up. Cbs notes chavin's testimony was part of a \" rare proceeding \" in which testimony is gathered from older witnesses who might not live till the trial, as well as witnesses who fear for their safety. A woman named susan giordano also testified, per nbc, claiming she'd become durst's \" closest friend \" after meeting in 2002 and had wanted to spend her life with him. ( durst says he was on meth during the jinx filming. )",
         "split": "train",
         "cleansed_document": [
             "She had been reported missing by her husband, robert durst, now 57, a scion of a family that, like the trumps and rudins, has long held royal stature in new york's real estate world. Mr. Durst told the police that he last saw his wife on a sunday night boarding a train in westchester, bound for their penthouse apartment in manhattan. They had spent the weekend at their cottage in south salem, he said, but his wife had headed back to the city, where medical school appointments awaited. Mrs. Durst never made those appointments, and the mystery of the medical student with a gleaming smile who either abandoned or was denied a life of wealth and accomplishment captivated new york. Headlines trumpeted developments. Friends tried to retrace her steps. The police found three witnesses who said they thought they had seen or heard from mrs. Durst in the 24 hours after she boarded the train. But leads dwindled. Detectives retired. And though a photograph of mrs. Durst remained",
-            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by andrew blankstein, robert dean and tracy connor the so-called secret witness in the robert durst case was revealed wednesday to be an advertising executive who was introduced to him through a mutual friend — the woman durst is accused of murdering. Nick chavin, 72, took the witness stand at a pretrial hearing and testified that he had met \" bobby \" more than three decades ago through his pal, writer susan berman, and became such good friends that durst was the co-best man at his wedding. Durst, 73, a scion of a massive real estate empire, is charged with murdering berman in los angeles in 2000. Prosecutors claim that he was worried that she would implicate him in the death of his first wife, kathie, who vanished in 1982. Durst denies killing either woman. Chavin — who told the new york times in 2001 that \" bobby didn't kill",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by andrew blankstein, robert dean and tracy connor the so-called secret witness in the robert durst case was revealed wednesday to be an advertising executive who was introduced to him through a mutual friend — the woman durst is accused of murdering. Nick chavin, 72, took the witness stand at a pretrial hearing and testified that he had met \" bobby \" more than three decades ago through his pal, writer susan berman, and became such good friends that durst was the co-best man at his wedding. Durst, 73, a scion of a massive real estate empire, is charged with murdering berman in los angeles in 2000. Prosecutors claim that he was worried that she would implicate him in the death of his first wife, kathie, who vanished in 1982. Durst denies killing either woman. Chavin — who told the new york times in 2001 that \" bobby didn't kill"
         ],
         "raw_document": [
             "She had been reported missing by her husband, robert durst, now 57, a scion of a family that, like the trumps and rudins, has long held royal stature in new york's real estate world. Mr. Durst told the police that he last saw his wife on a sunday night boarding a train in westchester, bound for their penthouse apartment in manhattan. They had spent the weekend at their cottage in south salem, he said, but his wife had headed back to the city, where medical school appointments awaited. Mrs. Durst never made those appointments, and the mystery of the medical student with a gleaming smile who either abandoned or was denied a life of wealth and accomplishment captivated new york. Headlines trumpeted developments. Friends tried to retrace her steps. The police found three witnesses who said they thought they had seen or heard from mrs. Durst in the 24 hours after she boarded the train. But leads dwindled. Detectives retired. And though a photograph of mrs. Durst remained",
@@ -2266,17 +2248,16 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 44485,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Bill cosby has three new accusers to add to the growing list of more than 40. In a wednesday news conference with lawyer gloria allred, sharon van ert said cosby walked her to her car after she left a california jazz club in 1976, reports reuters. She says she blacked out and suspects cosby drugged and assaulted her, then stole her underwear. Pamela abeyta alleges she was drugged while out with cosby in 1975. She says she woke up in his bed and remembers seeing \" naked people \" nearby, per the los angeles times. Lisa christie, an extra on the cosby show and former mrs. America, met cosby at 18. Two years later, she says he tried to coerce her into sex, saying, \" if you want to make it in this business, you have to sleep with me. \" she says she thought of cosby as a \" father figure \" and now believes he \" waited \" for her because she was a virgin, per cnn. \" shame on you, mr. Father figure of america, \" she says. \" after 35 years of living with these shameful memories in secret, i was finally encouraged by all the other women who have recently told their stories, \" says van ert, though the statute of limitations means there can be no criminal legal action. Cosby has been ordered to give an oct. 9 deposition in a civil suit brought by allred client judy huth, who accuses the comedian of sexually abusing her at the playboy mansion in 1974. Before that date, a court will decide whether to approve cosby's request for a protective order limiting the public release of the deposition, which allred opposes. \" there should be transparency, \" allred says. \" mr. Cosby has nobody to blame but himself for his choices and his actions. \"",
         "split": "train",
         "cleansed_document": [
-            "( cnn ) three more women came forward on september 30 to accuse bill cosby of sexually inappropriate behavior, creating yet another wave of allegations that the comedian abused his power by drugging and assaulting women. One woman was a cocktail server at a jazz club in redondo beach, california, in the 1970s. She accused cosby of stealing her panties after drugging her and assaulting her in her car while she was unconscious. Another was a former model and actress who appeared as an extra on \" the cosby show. \" she said cosby told her she'd better sleep with him if she wanted to make it in the entertainment industry. After years of silence, the women said, allegations against cosby from other women emboldened them to come forward. \" after 35 years of living with these shameful memories in secret, i was finally encouraged by all the other women who have recently told their stories, \" said sharon van ert, the former waitress. Accusations from more than 40 women more than 40 women have publicly accused cosby of sexual misconduct over the past 40 years. The comedian has never been criminally charged and has vehemently denied wrongdoing. Cosby's representatives declined to comment on the latest claims. Photos: who are cosby's accusers? photos: who are cosby's accusers? more than 50 women have spoken out to various media outlets about allegations of sexual misconduct by bill cosby. Here are 25, in chronological order, who have spoken with cnn, spoken on camera about their allegations or been the subject of responses from cosby's attorneys. Read more on the allegations and cosby's denials. Hide caption 1 of 26 photos: who are cosby's accusers? in january 2004, andrea constand, then a 31-year-old staffer for the women's basketball team at temple university -- cosby's alma mater -- was at the comedian's cheltenham, pennsylvania, home when cosby provided her medication that made her dizzy, she alleged the next year.",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "( cnn ) three more women came forward on september 30 to accuse bill cosby of sexually inappropriate behavior, creating yet another wave of allegations that the comedian abused his power by drugging and assaulting women. One woman was a cocktail server at a jazz club in redondo beach, california, in the 1970s. She accused cosby of stealing her panties after drugging her and assaulting her in her car while she was unconscious. Another was a former model and actress who appeared as an extra on \" the cosby show. \" she said cosby told her she'd better sleep with him if she wanted to make it in the entertainment industry. After years of silence, the women said, allegations against cosby from other women emboldened them to come forward. \" after 35 years of living with these shameful memories in secret, i was finally encouraged by all the other women who have recently told their stories, \" said sharon van ert, the former waitress. Accusations from more than 40 women more than 40 women have publicly accused cosby of sexual misconduct over the past 40 years. The comedian has never been criminally charged and has vehemently denied wrongdoing. Cosby's representatives declined to comment on the latest claims. Photos: who are cosby's accusers? photos: who are cosby's accusers? more than 50 women have spoken out to various media outlets about allegations of sexual misconduct by bill cosby. Here are 25, in chronological order, who have spoken with cnn, spoken on camera about their allegations or been the subject of responses from cosby's attorneys. Read more on the allegations and cosby's denials. Hide caption 1 of 26 photos: who are cosby's accusers? in january 2004, andrea constand, then a 31-year-old staffer for the women's basketball team at temple university -- cosby's alma mater -- was at the comedian's cheltenham, pennsylvania, home when cosby provided her medication that made her dizzy, she alleged the next year."
         ],
         "raw_document": [
             "( cnn ) three more women came forward on september 30 to accuse bill cosby of sexually inappropriate behavior, creating yet another wave of allegations that the comedian abused his power by drugging and assaulting women. One woman was a cocktail server at a jazz club in redondo beach, california, in the 1970s. She accused cosby of stealing her panties after drugging her and assaulting her in her car while she was unconscious. Another was a former model and actress who appeared as an extra on \" the cosby show. \" she said cosby told her she'd better sleep with him if she wanted to make it in the entertainment industry. After years of silence, the women said, allegations against cosby from other women emboldened them to come forward. \" after 35 years of living with these shameful memories in secret, i was finally encouraged by all the other women who have recently told their stories, \" said sharon van ert, the former waitress. Accusations from more than 40 women more than 40 women have publicly accused cosby of sexual misconduct over the past 40 years. The comedian has never been criminally charged and has vehemently denied wrongdoing. Cosby's representatives declined to comment on the latest claims. Photos: who are cosby's accusers? photos: who are cosby's accusers? more than 50 women have spoken out to various media outlets about allegations of sexual misconduct by bill cosby. Here are 25, in chronological order, who have spoken with cnn, spoken on camera about their allegations or been the subject of responses from cosby's attorneys. Read more on the allegations and cosby's denials. Hide caption 1 of 26 photos: who are cosby's accusers? in january 2004, andrea constand, then a 31-year-old staffer for the women's basketball team at temple university -- cosby's alma mater -- was at the comedian's cheltenham, pennsylvania, home when cosby provided her medication that made her dizzy, she alleged the next year.",
@@ -2291,18 +2272,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 44486,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A \" reprehensible \" sorority scavenger hunt that \" involved the use of drugs and alcohol, sexual activity, and other activities that violate lehigh university policy \" counts as hazing even if participants took part willingly, the university has decided. The alpha chi omega has lost its status and been booted off the pennsylvania campus until may 2020 at the earliest after being found responsible for hazing and other offenses, reports the morning call. In a blog post, the university says the dubious acts involved in december's \" road rally \" scavenger hunt may not have been \" required for affiliation into the organization, but are clearly considered a rite of passage and a consistent part of membership. \" alpha chi omega will be ordered to vacate its sorority house and the university says that by the time the sorority can resume operations on campus, all the current members will have graduated, breaking a link with the tradition, lehigh valley live reports. \" this incident was a significant, reprehensible event that the entire chapter was aware of and leadership endorsed, \" says the university blog post, which accuses sorority leadership of creating \" a situation that occurred on and off campus involving morally questionable quests. \" alpha chi omega, which cooperated with the investigation by turning over scavenger hunt lists, will be allowed to appeal the decision.",
         "split": "train",
         "cleansed_document": [
             "Lehigh university has booted a sorority from its campus for hosting a scavenger hunt that involved drugs, alcohol and sexual activity, school officials said. The sorority, alpha chi omega, lost its organizational status as of march 5, according to the lehigh greek community blog which is published by the university. The group will remain banned from campus until may 2020. During that time, the sorority may not use the lehigh university name or any university facilities, according to the post. The ban came after alpha chi omega hosted a scavenger hunt in december called the road rally. Participants were given a list of tasks that involved \"the use of drugs and alcohol, sexual activity and other activities that violate lehigh university policy, \" according to the post. On dec. 12, the chapter was placed on interim suspension and ordered to cease and desist all activities until a committee could complete an investigation, the post states. During that probe, the chapter turned over a complete scavenger hunt list as well as lists of members ' completed tasks. At a march 5 hearing, alpha chi omega was found to be responsible for hazing and other offenses after a university committee found the entire chapter was aware of the event and it was endorsed by",
-            "Lehigh university has kicked a sorority off its campus after it organized a scavenger hunt a university disciplinary panel called ' a significant and reprehensible event. ' alpha chi omega's theta chi chapter has lost its lehigh campus recognition for two years, starting march 5 of this year until may 31, 2020. The sorority, which can appeal the finding, must vacate its sorority house once the disciplinary process resolves. The sorority held a scavenger hunt ( road rally ) on dec. 8, which \" involved the use of drugs and alcohol, sexual activity, and other activities that violate lehigh university policy, \" according to the university's lehigh greeks blogs. The chapter was placed on interim university suspension on dec. 12 and its national headquarters also directed it to \" cease and desist all activities, \" according to the posting. Lehigh's title ix coordinator karen salvemini launched an investigation that culminated in a march 5 disciplinary hearing where the sorority was found responsible of hazing and related offenses. Alpha chi omega cooperated with the investigation, turning over the scavenger hunt list and documented examples of member's completed tasks, according to lehigh. But the disciplinary panel found the sorority had violated many university rules. While members may have",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Lehigh university has kicked a sorority off its campus after it organized a scavenger hunt a university disciplinary panel called ' a significant and reprehensible event. ' alpha chi omega's theta chi chapter has lost its lehigh campus recognition for two years, starting march 5 of this year until may 31, 2020. The sorority, which can appeal the finding, must vacate its sorority house once the disciplinary process resolves. The sorority held a scavenger hunt ( road rally ) on dec. 8, which \" involved the use of drugs and alcohol, sexual activity, and other activities that violate lehigh university policy, \" according to the university's lehigh greeks blogs. The chapter was placed on interim university suspension on dec. 12 and its national headquarters also directed it to \" cease and desist all activities, \" according to the posting. Lehigh's title ix coordinator karen salvemini launched an investigation that culminated in a march 5 disciplinary hearing where the sorority was found responsible of hazing and related offenses. Alpha chi omega cooperated with the investigation, turning over the scavenger hunt list and documented examples of member's completed tasks, according to lehigh. But the disciplinary panel found the sorority had violated many university rules. While members may have"
         ],
         "raw_document": [
             "Lehigh university has booted a sorority from its campus for hosting a scavenger hunt that involved drugs, alcohol and sexual activity, school officials said. The sorority, alpha chi omega, lost its organizational status as of march 5, according to the lehigh greek community blog which is published by the university. The group will remain banned from campus until may 2020. During that time, the sorority may not use the lehigh university name or any university facilities, according to the post. The ban came after alpha chi omega hosted a scavenger hunt in december called the road rally. Participants were given a list of tasks that involved \"the use of drugs and alcohol, sexual activity and other activities that violate lehigh university policy, \" according to the post. On dec. 12, the chapter was placed on interim suspension and ordered to cease and desist all activities until a committee could complete an investigation, the post states. During that probe, the chapter turned over a complete scavenger hunt list as well as lists of members ' completed tasks. At a march 5 hearing, alpha chi omega was found to be responsible for hazing and other offenses after a university committee found the entire chapter was aware of the event and it was endorsed by",
@@ -2319,7 +2299,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2425,7 +2405,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2478,7 +2458,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2503,7 +2483,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {

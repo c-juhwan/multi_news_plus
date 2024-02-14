@@ -21,7 +21,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -73,7 +73,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -260,13 +260,12 @@
     },
     {
         "idx": 32410,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Critics are split right down the center on extremely loud and incredibly close, an emotional movie about a young boy's quest to deal with his father's death on 9/11. It's currently at an even 50 % on rotten tomatoes, drawing reviews like these: \" extremely loud and incredibly close might have also added and fairly obnoxious, \" writes tom long of the detroit news. \" mixing the horror of 9/11 with a cutesy story about a boy's unlikely quest just comes off as crass, \" making this \" the kind of movie you want to punch in the nose. \" \" no movie has ever been able to provide a catharsis for the holocaust, and i suspect none will ever be able to provide one for 9/11, \" writes roger ebert. Certainly this one doesn't. \" this plot is contrivance and folderol. \" oskar's on-foot journey through new york \" is so preposterous, we're constantly aware of it as a storytelling contrivance. \" the film is \" manipulative as all get-out \" in its quest to pull heartstrings, writes bill goodykoontz of the arizona republic, but he liked it anyway, thanks to star thomas horn. \" horn is so good … that the film resonates in spite of the tear-jerking strings daldry pulls. \" wesley morris of the boston globe liked it too. \" the whimsy threatens early to turn lethal, \" he says. \" you start to feel like a child, too, that something's being kept from you, like the truth. \" but max von sydow's spectacular turn as a mute old man fixes that: \" the truth about suffering and guilt and resilience … is right there in von sydow's face. \"",
         "split": "train",
         "cleansed_document": [
             "\" extremely loud and incredibly close \" might have also added \" and fairly obnoxious. \" it's the rare film with the chutzpah to trade on the 9/11 tragedy, a damaged grieving boy and a mute old man; but this film based on the novel by jonathan safran foer and directed by stephen daldry ( \" the hours \" ) does just that, managing to match implausibility to crass sentimentality. The film's focus is 9-year-old oskar ( thomas horn ), a socially awkward child whose father ( tom hanks, seen in constant flashbacks ) died in the world trade center attacks and whose mother ( sandra bullock ) is left grieving and empty. Oskar keeps a secret stash of things connected to his father, including some final, tense phone messages his mother doesn't know about. But then he stumbles on a key to an unknown lock with the word",
-            "Extremely loud &amp; incredibly close january 18, 2012 no movie has ever been able to provide a catharsis for the holocaust, and i suspect none will ever be able to provide one for 9/11. Such subjects overwhelm art. The artist's usual tactic is to center on individuals whose lives are a rebuke to the tragedy. They sidestep the actual event and focus on a parallel event that ends happily, giving us a sentimental reason to find consolation. That is small comfort to the dead. \" extremely loud &amp; incredibly close \" tells the story of an 11-year-old boy named oskar schell, who is played by the gifted and very well cast thomas horn. His father was killed in 9/11. Indeed, intensely scrutinizing videos of bodies falling from one of the towers, oskar fancies he can actually identify him. We see a lot of thomas, his father, in flashbacks",
-            "The entire film is from oskar's point of view, and it's not until a quarter of the way into his search that we receive confirmation that his breathless verbosity and heedless pluck constitute the plumage of asperger's syndrome. Before he explains his rudeness, his inability to take no for an answer, his obliviousness to the feelings of others, oskar is a trial. The asperger's doesn't make him less so. But it recalibrates your intolerance of him. He's no longer just an obnoxious movie kid. He's someone whose obnoxiousness and desperation - his very disorder - are crying out for order. The cuteness assumes a different urgency. His mission to find the lock for that key becomes both a way to connect to his father and to soothe his obsession-compulsion. The movie's been adapted by eric roth from jonathan"
+            "Extremely loud &amp; incredibly close january 18, 2012 no movie has ever been able to provide a catharsis for the holocaust, and i suspect none will ever be able to provide one for 9/11. Such subjects overwhelm art. The artist's usual tactic is to center on individuals whose lives are a rebuke to the tragedy. They sidestep the actual event and focus on a parallel event that ends happily, giving us a sentimental reason to find consolation. That is small comfort to the dead. \" extremely loud &amp; incredibly close \" tells the story of an 11-year-old boy named oskar schell, who is played by the gifted and very well cast thomas horn. His father was killed in 9/11. Indeed, intensely scrutinizing videos of bodies falling from one of the towers, oskar fancies he can actually identify him. We see a lot of thomas, his father, in flashbacks"
         ],
         "raw_document": [
             "\" extremely loud and incredibly close \" might have also added \" and fairly obnoxious. \" it's the rare film with the chutzpah to trade on the 9/11 tragedy, a damaged grieving boy and a mute old man; but this film based on the novel by jonathan safran foer and directed by stephen daldry ( \" the hours \" ) does just that, managing to match implausibility to crass sentimentality. The film's focus is 9-year-old oskar ( thomas horn ), a socially awkward child whose father ( tom hanks, seen in constant flashbacks ) died in the world trade center attacks and whose mother ( sandra bullock ) is left grieving and empty. Oskar keeps a secret stash of things connected to his father, including some final, tense phone messages his mother doesn't know about. But then he stumbles on a key to an unknown lock with the word",
@@ -283,7 +282,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -333,7 +332,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -413,12 +412,10 @@
     },
     {
         "idx": 32416,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "When anchorage-based fm radio station konr was born in 2012, those who tuned in were treated to forest sounds while programming got sorted out. And now, with money dry and volunteers short, the station has run out of programming and resorted to playing the 1971 bill withers album just as i am 24/7 for more than a month, reports alaska dispatch news. Not surprisingly, de facto program director jason sear says it's \" one of the greatest albums of all time. \" the station actually went off the air altogether in july of 2013, with the group that ran it, out north, laying off the staff and closing up shop. But the next year, sear says, it was up and running again, albeit completely volunteer-based. This meant that programming was spotty at best. \" you can't go dark and keep the license, \" sear says. \" so i loaded the album on my ipod, added some station ids, and... Put it on a loop. \" out north still hosts the konr web site, so any withers fans can enjoy the 45-year-old album any time, day or night, as one couple has been doing since they began dating last month. \" it's been the soundtrack to my courtship, \" the woman told sear. ( see how withers ' name worked itself into a story that had nothing to do with him. )",
         "split": "train",
-        "cleansed_document": [
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "\" at one time it was seen as a venue for lgbt issues, \" he said. \" that's probably not so necessary now when we have mainstream theater doing shows that would have been considered controversial once upon a time. But we're still committed to creating an art space for the underrepresented. And look at where we are — mountain view, airport heights, russian jack. We're in the middle of the most diverse neighborhood of the most diverse city in america. Out north is like a car that's been sitting in neutral. And we're very lucky to have this radio station. \"",
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
@@ -432,7 +429,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -515,7 +512,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -570,12 +567,11 @@
     },
     {
         "idx": 32422,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "How unhappy are people with facebook's latest privacy infractions? so unhappy that four nyu students have raised $ 115,000 in 19 days for diaspora, their non-profit alternative, even though they haven't written a single line of code yet. \"that's the equivalent of a significant angel round of funding in the internet startup world, \" notes an impressed wired. Other alternatives are also popping up, like onesocialweb, a set of social networking apps you can host on any server, and appleseed, which lets you friend users on other sites. But diaspora has an advantage: it works with your existing facebook account, but if it notices that the person you're communicating with is also on diaspora, it sends the message using a peer-to-peer encrypted protocol. \"this is the crucial way out of the walled garden, \" says the students ' adviser.",
         "split": "train",
         "cleansed_document": [
-            "The appleseed project is an effort to create open source social networking software that is based on a distributed model. For instance, a profile on one appleseed website could \" friend \" a profile on another appleseed website, and the two profiles could interact with each other seamlessly.",
-            "The onesocialweb project team is not currently driving active development of the source code. But we continue our work on specifications and standards to make the dream of a world where all social networks are connected and work together in a way similar to email a reality. This project aimed at defining a language to bridge these networks and make it easy for social networks to join a bigger social web. Play with client and server code, install a server or join the federation. Learn more about onesocialweb and where you can get an account. Learn what onesocialweb can offer your social network and how it works."
+            "The appleseed project is an effort to create open source social networking software that is based on a distributed model. For instance, a profile on one appleseed website could \" friend \" a profile on another appleseed website, and the two profiles could interact with each other seamlessly."
         ],
         "raw_document": [
             "The appleseed project is an effort to create open source social networking software that is based on a distributed model. For instance, a profile on one appleseed website could \" friend \" a profile on another appleseed website, and the two profiles could interact with each other seamlessly.",
@@ -590,7 +586,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -749,7 +745,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -810,12 +806,11 @@
     },
     {
         "idx": 32431,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "This morning's installment of shutdown politics had a familiar ring to it: john boehner insisted that the white house negotiate on both the shutdown and the debt ceiling, and president obama insisted he would do no such thing, reports nbc news. In fact, obama called the speaker personally after boehner issued his latest plea at a news conference. Obama \" repeated what he told him when they met at the white house last week: the president is willing to negotiate with republicans — after the threat of government shutdown and default have been removed, \" says the white house. Boehner, at his earlier press conference, kept up the pressure: \"listen, there's never been a president in our history that did not negotiate over the debt limit, \" he said. \"never. Not once. As a matter of fact, president obama negotiated with me over the debt limit in 2011. \" boehner did not spell out what he's looking for in such negotiations, notes the washington post. A short-term increase in the debt ceiling, perhaps? \" i ' m not drawing any lines in the sand, \" he said. Obama, meanwhile, plans a news conference for 2pm eastern, notes politico.",
         "split": "train",
         "cleansed_document": [
-            "President obama addressed the nation tuesday regarding the government shutdown, telling congress to take a vote on a continuing resolution to end the government shutdown. ( the washington post ) president obama addressed the nation tuesday regarding the government shutdown, telling congress to take a vote on a continuing resolution to end the government shutdown. ( the washington post ) president obama, declaring that he is \"not budging \" on his demand for a debt-limit increase without partisan strings attached, warned tuesday that there are \"no magic bullets \" to avoid a devastating default if the ceiling is not raised, and he challenged house republicans who believe otherwise to go on record by voting on the matter. If a debt-ceiling increase fails \"and we do end up defaulting, \" obama said in an afternoon news conference, \"i think voters should know exactly who voted not to pay our bills, so that they can be responsible for the consequences that come with it. \" shortly afterward, house speaker john a. Boehner ( r-ohio ) complained to reporters that obama was demanding \"unconditional surrender \" by republicans before he would talk to them. Speaking hours after he and obama talked on the phone to reiterate their positions, boehner said he was \"disappointed that the president refuses to negotiate. \" he insisted that the house will not vote to reopen the government or raise the federal debt limit without unspecified concessions by obama to curtail federal spending. \"there's going to be a negotiation here, \" boehner said. \"we can't raise the debt ceiling without doing something about what's driving us to borrow more money and to live beyond our means. \" graphic house republicans have proposed funding that amounts to about one-third of discretionary funding. See the bills here. Obama used his appearance in the white house briefing room to forcefully state his case that the republican-controlled house should hold a vote on a short-term spending bill that would immediately end a partial government shutdown,",
-            "President obama will make a statement and take questions from the press at 2 p.m. Tuesday, the white house said in updated guidance. Obama last took questions from the white house press corps in early september, while traveling abroad in sweden and russia. His most recent full-scale press conference was on aug. 9 in the east room of the white house, just before he left washington for a vacation on martha's vineyard. With his long-planned trip to asia this week cancelled because of the government shutdown, obama is aiming to show that he's keeping up his involvement in resolving the situation, even as he repeats his refusal to negotiate on bills to fund the government and raise the debt ceiling. Press conference will be streaming live here: politico.com/live"
+            "President obama addressed the nation tuesday regarding the government shutdown, telling congress to take a vote on a continuing resolution to end the government shutdown. ( the washington post ) president obama addressed the nation tuesday regarding the government shutdown, telling congress to take a vote on a continuing resolution to end the government shutdown. ( the washington post ) president obama, declaring that he is \"not budging \" on his demand for a debt-limit increase without partisan strings attached, warned tuesday that there are \"no magic bullets \" to avoid a devastating default if the ceiling is not raised, and he challenged house republicans who believe otherwise to go on record by voting on the matter. If a debt-ceiling increase fails \"and we do end up defaulting, \" obama said in an afternoon news conference, \"i think voters should know exactly who voted not to pay our bills, so that they can be responsible for the consequences that come with it. \" shortly afterward, house speaker john a. Boehner ( r-ohio ) complained to reporters that obama was demanding \"unconditional surrender \" by republicans before he would talk to them. Speaking hours after he and obama talked on the phone to reiterate their positions, boehner said he was \"disappointed that the president refuses to negotiate. \" he insisted that the house will not vote to reopen the government or raise the federal debt limit without unspecified concessions by obama to curtail federal spending. \"there's going to be a negotiation here, \" boehner said. \"we can't raise the debt ceiling without doing something about what's driving us to borrow more money and to live beyond our means. \" graphic house republicans have proposed funding that amounts to about one-third of discretionary funding. See the bills here. Obama used his appearance in the white house briefing room to forcefully state his case that the republican-controlled house should hold a vote on a short-term spending bill that would immediately end a partial government shutdown,"
         ],
         "raw_document": [
             "President obama addressed the nation tuesday regarding the government shutdown, telling congress to take a vote on a continuing resolution to end the government shutdown. ( the washington post ) president obama addressed the nation tuesday regarding the government shutdown, telling congress to take a vote on a continuing resolution to end the government shutdown. ( the washington post ) president obama, declaring that he is \"not budging \" on his demand for a debt-limit increase without partisan strings attached, warned tuesday that there are \"no magic bullets \" to avoid a devastating default if the ceiling is not raised, and he challenged house republicans who believe otherwise to go on record by voting on the matter. If a debt-ceiling increase fails \"and we do end up defaulting, \" obama said in an afternoon news conference, \"i think voters should know exactly who voted not to pay our bills, so that they can be responsible for the consequences that come with it. \" shortly afterward, house speaker john a. Boehner ( r-ohio ) complained to reporters that obama was demanding \"unconditional surrender \" by republicans before he would talk to them. Speaking hours after he and obama talked on the phone to reiterate their positions, boehner said he was \"disappointed that the president refuses to negotiate. \" he insisted that the house will not vote to reopen the government or raise the federal debt limit without unspecified concessions by obama to curtail federal spending. \"there's going to be a negotiation here, \" boehner said. \"we can't raise the debt ceiling without doing something about what's driving us to borrow more money and to live beyond our means. \" graphic house republicans have proposed funding that amounts to about one-third of discretionary funding. See the bills here. Obama used his appearance in the white house briefing room to forcefully state his case that the republican-controlled house should hold a vote on a short-term spending bill that would immediately end a partial government shutdown,",
@@ -830,7 +825,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -880,7 +875,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -905,7 +900,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1176,7 +1171,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1339,12 +1334,11 @@
     },
     {
         "idx": 32451,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "In something of a non-surprise, beijing's man won the race for chief executive of hong kong today, reports reuters. A self-made billionaire and son of a policeman, leung chun-ying took 61 % of the 1,200-vote election committee, comprised of political, business, and labor leaders, that decides hong kong's leadership. His main rival, henry tang, a billionaire construction mogul, had been the early favorite to win, but a series of scandals derailed his campaign. \" somehow tang has managed to blow a fixed election, \" quipped one western diplomat. \"i promise that all the freedom enjoyed by hong kong people won't change, \" leung said at a press conference. \"we need to defend our core values and to work aggressively to solve many problems. \" hong kong is scheduled to begin universal suffrage in 2017, but bloomberg notes that leung's reputation as aloof, combined with his relatively narrow margin of victory, may make for a tempestuous tenure until then. \"bill clinton, he ' ll make you think he's your best friend inside of 10 minutes, \" said a property developer with close ties to tang. With leung, \"you may not feel that even after knowing him for 10 years. \"",
         "split": "train",
         "cleansed_document": [
-            "The next hong kong chief executive leung chun-ying celebrates with his wife regina tong ching-yi as he attends a news conference after leung won the chief executive election at a vote counting station in hong kong march 25, 2012. An election committee of 1,200 hong kong notables picked beijing-loyalist leung as the city's next leader on sunday following an election campaign marred by scandals and a tide of public discontent at a high degree of perceived interference from beijing over the \" small circle \" poll. Hong kong ( reuters ) - an election committee of about 1,200 hong kong notables picked beijing-loyalist leung chun-ying as the city's next leader on sunday following a campaign marred by scandal and public discontent at perceived interference by beijing. Hong kong, a former british colony that returned to chinese rule in 1997, is a freewheeling capitalist hub enjoying a high degree of autonomy and freedom, but beijing's communist party leaders have resisted public pressure for full democracy. Hong kong's seven million people have no say in who becomes their chief executive. Instead, an election committee filled with business professionals, tycoons and beijing loyalists, selected leung with 689 of 1,132 votes cast as successor to the bow tie-wearing donald tsang, who cannot stand again. Leung's main rival, henry tang, got 285 votes. Several dozen protesters inside",
-            "Enlarge image leung chun-ying jerome favre/bloomberg leung chun-ying speaks during a news conference after winning the election for chief executive in hong kong. Play video attachment: ranking of best countries for business enlarge image leung chun-ying jerome favre/bloomberg leung chun-ying gestures after winning the election for chief executive in hong kong. Enlarge image leung chun-ying and henry tang jerome favre/bloomberg leung chun-ying, right, waves as henry tang looks on after leung won the election in hong kong. Enlarge image hong kong billionaire li ka-shing jerome favre/bloomberg hong kong billionaire li ka-shing leaves a polling station for the chief executive election in hong kong. Enlarge image protesters demonstrate jerome favre/bloomberg protesters demonstrate outside the hong kong exhibition and convention center, venue for the chief executive election, in hong kong. Enlarge image election committee workers place ballot boxes on a table jerome favre/bloomberg election committee workers place ballot boxes on a table before the start of the counting process of the chief executive election in hong kong. Leung chun-ying, a former property surveyor, pledged to address hong kong's wealth gap and demands for universal suffrage as the city's next chief executive after winning a poll in which only one in 5,900 people could vote. A 1,193-member panel of hong kong billionaires, academics and professionals chose leung over two other candidates to lead the city for the next five years. Crowds outside the"
+            "The next hong kong chief executive leung chun-ying celebrates with his wife regina tong ching-yi as he attends a news conference after leung won the chief executive election at a vote counting station in hong kong march 25, 2012. An election committee of 1,200 hong kong notables picked beijing-loyalist leung as the city's next leader on sunday following an election campaign marred by scandals and a tide of public discontent at a high degree of perceived interference from beijing over the \" small circle \" poll. Hong kong ( reuters ) - an election committee of about 1,200 hong kong notables picked beijing-loyalist leung chun-ying as the city's next leader on sunday following a campaign marred by scandal and public discontent at perceived interference by beijing. Hong kong, a former british colony that returned to chinese rule in 1997, is a freewheeling capitalist hub enjoying a high degree of autonomy and freedom, but beijing's communist party leaders have resisted public pressure for full democracy. Hong kong's seven million people have no say in who becomes their chief executive. Instead, an election committee filled with business professionals, tycoons and beijing loyalists, selected leung with 689 of 1,132 votes cast as successor to the bow tie-wearing donald tsang, who cannot stand again. Leung's main rival, henry tang, got 285 votes. Several dozen protesters inside"
         ],
         "raw_document": [
             "The next hong kong chief executive leung chun-ying celebrates with his wife regina tong ching-yi as he attends a news conference after leung won the chief executive election at a vote counting station in hong kong march 25, 2012. An election committee of 1,200 hong kong notables picked beijing-loyalist leung as the city's next leader on sunday following an election campaign marred by scandals and a tide of public discontent at a high degree of perceived interference from beijing over the \" small circle \" poll. Hong kong ( reuters ) - an election committee of about 1,200 hong kong notables picked beijing-loyalist leung chun-ying as the city's next leader on sunday following a campaign marred by scandal and public discontent at perceived interference by beijing. Hong kong, a former british colony that returned to chinese rule in 1997, is a freewheeling capitalist hub enjoying a high degree of autonomy and freedom, but beijing's communist party leaders have resisted public pressure for full democracy. Hong kong's seven million people have no say in who becomes their chief executive. Instead, an election committee filled with business professionals, tycoons and beijing loyalists, selected leung with 689 of 1,132 votes cast as successor to the bow tie-wearing donald tsang, who cannot stand again. Leung's main rival, henry tang, got 285 votes. Several dozen protesters inside",
@@ -1359,7 +1353,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1384,17 +1378,15 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 32453,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Conan o ' brien came out swinging on last night's tonight show, saying that while it's rumored he's \"legally prohibited \" from saying anything negative about nbc, \" luckily they're not saying i can't sing anything. \" he then, naturally, took to song, crooning about the network's \"incompetent morons \" during his monologue... And he didn't stop there ( watch clips, including a bit on the craigslist offers that have been pouring in for the show, and david letterman's take, in the gallery ). Despite o ' brien's anger, a deal appears to be close — tmz reports the host will receive $ 32.5 million from nbc and can't host another show until at least september. Conan's tonight show employees will also receive severance packages, bringing nbc's total payout to around $ 40 million — but any money o ' brien makes during the remainder of his contractual period from, say, fox, will be deducted from his $ 32.5 million. Meanwhile, jay leno's las vegas comedy show was forced to offer buy-one-get-one-free ticket prices — none of the other mirage hotel headliners have had to do so, gawker notes.",
         "split": "train",
-        "cleansed_document": [
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Registering will give you a user profile and the ability to add other users as friends. To become a commenter, however, you need to audition. Want to know more? consult the comment faq and legal terms.",
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
@@ -1408,7 +1400,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1543,7 +1535,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1606,12 +1598,11 @@
     },
     {
         "idx": 32461,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Jared kushner was far from the only white house adviser doing the same thing president trump hammered hillary clinton for on the campaign trail, insiders say. The new york times, citing \" current and former officials, \" reports that at least six aides, including steve bannon and reince priebus, used private email addresses to handle white house-related matters. Ivanka trump also used a personal email account for government business, according to the nonprofit american oversight group, though she did so while serving her father's administration in a nonofficial capacity, newsweek reports. Kushner's lawyer has admitted that \" fewer than 100 emails \" from kushner's private account dealt with white house matters. There is no sign that any sensitive information was leaked — and the scale of private email use is not in the same league as clinton's use of a private server — but democrats are accusing the trump advisers of \" stunning \" hypocrisy. Some aides used their private email accounts to communicate with reporters. Richard w. Painter, a white house ethics lawyer during the george w. Bush administration, says that while there are \" gray areas \" involved, if communication \" has anything to do with the president's policy, including defending the president's policy to the press, it's very difficult to escape that being official. \" he adds: \" i think kushner was sloppy to do this. I think hillary was sloppy. I don't think any of it was criminal. \"",
         "split": "train",
         "cleansed_document": [
-            "Washington — at least six of president trump's closest advisers occasionally used private email addresses to discuss white house matters, current and former officials said on monday. The disclosures came a day after news surfaced that jared kushner, the president's son-in-law and adviser, used a private email account to send or receive about 100 work-related emails during the administration's first seven months. But mr. Kushner was not alone. Stephen k. Bannon, the former chief white house strategist, and reince priebus, the former chief of staff, also occasionally used private email addresses. Other advisers, including gary d. Cohn and stephen miller, sent or received at least a few emails on personal accounts, officials said. Ivanka trump, the president's elder daughter, who is married to mr. Kushner, used a private account when she acted as an unpaid adviser in the first months of the administration, newsweek reported monday. Administration officials acknowledged that she also occasionally did so when she formally became a white house adviser. The officials spoke on the condition of anonymity because they were not authorized to discuss the matter with reporters. Officials are supposed to use government emails for their official duties so their conversations are available to the public and those conducting oversight. But it is not illegal for white house officials to use private email accounts",
-            "Ivanka trump, the first daughter and adviser to the president, used a personal email address to communicate with a government official after her father took office, according to documents that the nonprofit american oversight obtained through the freedom of information act ( foia ) and shared exclusively with newsweek. The documents show that on february 28, trump — identifying herself as ivanka kushner — emailed linda mcmahon, the administrator of the united states small business administration, from a personal domain. At the time, trump was operating inside the white house in a nonofficial capacity. She wrote that she wanted mcmahon's agency and her staff to \"explore opportunities to collaborate \" on issues related to \"women's entrepreneurship. \" she copied on the correspondence the government email addresses of two other federal employees, dina powell and julie radford. Related: jared kushner has been using a private email account for work trump became an unpaid federal employee in march. But multiple government ethics experts say she likely could have had access to a white house email account in february, given that she is first daughter. Radford, her chief of staff, had a white house email address at the time. Ivanka trump was sitting in on white house meetings around the time she sent the email, including one between her father and canadian prime minister justin trudeau and a gathering"
+            "Washington — at least six of president trump's closest advisers occasionally used private email addresses to discuss white house matters, current and former officials said on monday. The disclosures came a day after news surfaced that jared kushner, the president's son-in-law and adviser, used a private email account to send or receive about 100 work-related emails during the administration's first seven months. But mr. Kushner was not alone. Stephen k. Bannon, the former chief white house strategist, and reince priebus, the former chief of staff, also occasionally used private email addresses. Other advisers, including gary d. Cohn and stephen miller, sent or received at least a few emails on personal accounts, officials said. Ivanka trump, the president's elder daughter, who is married to mr. Kushner, used a private account when she acted as an unpaid adviser in the first months of the administration, newsweek reported monday. Administration officials acknowledged that she also occasionally did so when she formally became a white house adviser. The officials spoke on the condition of anonymity because they were not authorized to discuss the matter with reporters. Officials are supposed to use government emails for their official duties so their conversations are available to the public and those conducting oversight. But it is not illegal for white house officials to use private email accounts"
         ],
         "raw_document": [
             "Washington — at least six of president trump's closest advisers occasionally used private email addresses to discuss white house matters, current and former officials said on monday. The disclosures came a day after news surfaced that jared kushner, the president's son-in-law and adviser, used a private email account to send or receive about 100 work-related emails during the administration's first seven months. But mr. Kushner was not alone. Stephen k. Bannon, the former chief white house strategist, and reince priebus, the former chief of staff, also occasionally used private email addresses. Other advisers, including gary d. Cohn and stephen miller, sent or received at least a few emails on personal accounts, officials said. Ivanka trump, the president's elder daughter, who is married to mr. Kushner, used a private account when she acted as an unpaid adviser in the first months of the administration, newsweek reported monday. Administration officials acknowledged that she also occasionally did so when she formally became a white house adviser. The officials spoke on the condition of anonymity because they were not authorized to discuss the matter with reporters. Officials are supposed to use government emails for their official duties so their conversations are available to the public and those conducting oversight. But it is not illegal for white house officials to use private email accounts",
@@ -1626,7 +1617,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1680,13 +1671,12 @@
     },
     {
         "idx": 32464,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Tmz says the rumors about nbc firing ann curry as a today co-host are not only true, they're going to prove costly to the network. The site thinks curry will get the boot next week, but nbc will still have to pay her $ 10 million a year for at least three years. Expect her to become a foreign correspondent — an extremely well paid foreign correspondent. Click here to read media critic jack shafer's criticism of the original new york times story on the rumors and its \" soap opera \" feel. ( or, for a different approach, click here to get more details from tmz. )",
         "split": "train",
         "cleansed_document": [
             "Ann curry nbc's $ 10 million mistake nbc's $ 10 million ann curry mistake exclusive will get her walking papers from the \" today \" show next week, and nbc will pay dearly for its blunder -- because network sources tell us she's under a contract that guarantees her $ 10 million a year.our sources tell us ann signed a new contract almost a year ago to the day, when she took over as co-anchor of \" today. \" under the deal, ann gets a cool $ 10 mil, and it's a long-term contract. We're told she's guaranteed that amount for 3 years.network sources tell us... The likely scenario is that ann will become a foreign correspondent for nbc news.short story... She ' ll be the first foreign correspondent who will rake in an amount equal to the gross national product of some of the countries she will cover.",
-            "Ann curry, the second fiddle on nbc's today show, is apparently being shown the door. That news was broken yesterday afternoon by brian stelter, the prolific media reporter of the new york times on the newspaper's website, and that 1,100-word story earned prominent placement on page one of the business section of this morning's paper. I ' ll forgive you in advance if you don't care whether curry continues on today or if you don't care whether she finds a slot elsewhere in the nbc empire, just as long as you forgive me for not giving a fig either. It's not that i dislike ann curry or today's first fiddle, matt lauer, or even today's morning-show competition. It's just that i dislike the shows for being dulled-down messes of news, entertainment and talk. If i watch any of them, it's by accident. My lack of interest in the morning-show mix puts me in the majority. Today, which is usually the number-one-rated program, and abc's good morning america, which took that position a",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Ann curry, the second fiddle on nbc's today show, is apparently being shown the door. That news was broken yesterday afternoon by brian stelter, the prolific media reporter of the new york times on the newspaper's website, and that 1,100-word story earned prominent placement on page one of the business section of this morning's paper. I ' ll forgive you in advance if you don't care whether curry continues on today or if you don't care whether she finds a slot elsewhere in the nbc empire, just as long as you forgive me for not giving a fig either. It's not that i dislike ann curry or today's first fiddle, matt lauer, or even today's morning-show competition. It's just that i dislike the shows for being dulled-down messes of news, entertainment and talk. If i watch any of them, it's by accident. My lack of interest in the morning-show mix puts me in the majority. Today, which is usually the number-one-rated program, and abc's good morning america, which took that position a"
         ],
         "raw_document": [
             "Ann curry nbc's $ 10 million mistake nbc's $ 10 million ann curry mistake exclusive will get her walking papers from the \" today \" show next week, and nbc will pay dearly for its blunder -- because network sources tell us she's under a contract that guarantees her $ 10 million a year.our sources tell us ann signed a new contract almost a year ago to the day, when she took over as co-anchor of \" today. \" under the deal, ann gets a cool $ 10 mil, and it's a long-term contract. We're told she's guaranteed that amount for 3 years.network sources tell us... The likely scenario is that ann will become a foreign correspondent for nbc news.short story... She ' ll be the first foreign correspondent who will rake in an amount equal to the gross national product of some of the countries she will cover.",
@@ -1703,7 +1693,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1728,7 +1718,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1760,12 +1750,11 @@
     },
     {
         "idx": 32467,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "\" it's a tragedy all around. \" that from capt. John bedford of billings police department in explaining what happened in his montana city in the wee hours of sunday. Per police, mackeon schulte, 15, and a friend he was spending the night with went to another friend's home around 2: 30am. The two wanted to wake the sleeping boy, so they rapped on his window and tossed pebbles at the glass. Shaken from his sleep, the boy looked out the window and saw two faces, but recognized neither, reports kulr. Scared, he reached for a gun that was in his room and fired through the window, reports the billings gazette. Mackeon was hit in the head. A neighbor tells the gazette he heard someone say, \" dude, you just got shot. \" the senior high sophomore was pronounced dead at st. Vincent's hospital a short time later, the department noted in a facebook post. The boy who was with him was uninjured; his name and that of the shooter have not been released. Police are calling it an accidental shooting and have made no arrests; investigators and the county attorney's office are discussing how to move forward. \" this is a huge tragedy for senior high and the district, \" the superintendent tells the gazette. \" we're just doing the best we can to make sure everyone is ok throughout this situation. \"",
         "split": "train",
         "cleansed_document": [
-            "Update: the yellowstone county coroner releases the name of the teen who died early sunday morning. Lt. Bill jones says the 15-year-old boy is mackeon schulte. In a release, billings police say schulte and a friend were spending the night together and decided to go to their friend's house on alderson around 2: 30. The two knocked on their friend's window and threw pebbles at it attempting to wake him up. Police report when the friend woke up to the noise, he saw two faces outside the window, didn't recognize them and was scared. The friend then grabbed a gun he had in his bedroom and fired through the window, hitting the 15-year-old victim in the head. Chief rich st. John says no one has been arrested. The investigation continues. According to billings police, they got a call around 2: 30 sunday morning about a shooting on alderson avenue. When officers arrived, they found a 15-year-old male with a gunshot wound. The victim was taken to st. Vincent's but died at the hospital at short time later. Lt. Jeremy house says a suspect was found at the scene and is being investigated and questioned by police.",
-            "Close get email notifications on jordon niedermeier daily! your notification has been saved. There was a problem saving your notification. Whenever jordon niedermeier posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items."
+            "Update: the yellowstone county coroner releases the name of the teen who died early sunday morning. Lt. Bill jones says the 15-year-old boy is mackeon schulte. In a release, billings police say schulte and a friend were spending the night together and decided to go to their friend's house on alderson around 2: 30. The two knocked on their friend's window and threw pebbles at it attempting to wake him up. Police report when the friend woke up to the noise, he saw two faces outside the window, didn't recognize them and was scared. The friend then grabbed a gun he had in his bedroom and fired through the window, hitting the 15-year-old victim in the head. Chief rich st. John says no one has been arrested. The investigation continues. According to billings police, they got a call around 2: 30 sunday morning about a shooting on alderson avenue. When officers arrived, they found a 15-year-old male with a gunshot wound. The victim was taken to st. Vincent's but died at the hospital at short time later. Lt. Jeremy house says a suspect was found at the scene and is being investigated and questioned by police."
         ],
         "raw_document": [
             "Update: the yellowstone county coroner releases the name of the teen who died early sunday morning. Lt. Bill jones says the 15-year-old boy is mackeon schulte. In a release, billings police say schulte and a friend were spending the night together and decided to go to their friend's house on alderson around 2: 30. The two knocked on their friend's window and threw pebbles at it attempting to wake him up. Police report when the friend woke up to the noise, he saw two faces outside the window, didn't recognize them and was scared. The friend then grabbed a gun he had in his bedroom and fired through the window, hitting the 15-year-old victim in the head. Chief rich st. John says no one has been arrested. The investigation continues. According to billings police, they got a call around 2: 30 sunday morning about a shooting on alderson avenue. When officers arrived, they found a 15-year-old male with a gunshot wound. The victim was taken to st. Vincent's but died at the hospital at short time later. Lt. Jeremy house says a suspect was found at the scene and is being investigated and questioned by police.",
@@ -1780,7 +1769,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1840,12 +1829,11 @@
     },
     {
         "idx": 32470,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Newt gingrich blasted madonna on monday, declaring she \" ought to be arrested \" for saying on saturday she had \" thought an awful lot about blowing up the white house. \" in an appearance on fox &amp; friends, gingrich, an adviser to donald trump, likened madonna's remarks at the women's march in washington, dc, to the actions of \"the young fascists who ran around town breaking windows \" and branded her \" part of an emerging left-wing fascism, \" per rolling stone. Gingrich's rebuke comes a day after madonna attempted to mollify the rage conservatives expressed toward her on the sunday news shows. She posted on instagram: \" i do not promote violence, \" saying one phrase had been \" taken wildly out of context \" and that the only way to bring about change is through love. Gingrich dismissed the explanation: \" give me a break. \"",
         "split": "train",
         "cleansed_document": [
-            "Former house speaker and donald trump adviser newt gingrich condemned madonna on monday, saying she \" ought to be arrested \" after her recent speech at the women's march in washington, d.c. During that address, the singer said, \" i have thought an awful lot about blowing up the white house. \" related watch madonna's powerful speech at women's march on washington \" to the detractors that insist that this march will never add up to anything: fuck you, \" singer says during surprise appearance this drew a harsh rebuke from gingrich. \" she is parallel to the young fascists who ran around town breaking windows, all of whom should be given the maximum sentence, \" he declared during an interview with fox &amp; friends. \" what you have is an emerging left-wing fascism. She's part of it, and i think we have to be prepared to protect ourselves. \" gingrich's comments expand on those from white house chief of staff reince priebus. \" one of the singers said she wanted to blow up the white house, \" priebus told fox on sunday. \" i mean, can you imagine saying that about president obama? \" madonna addressed the conservative outrage over her comments in an instagram post on sunday, clarifying her position. \" i am not a violent person, i do not promote violence and it's important people hear and understand my speech in its entirety rather than one phrase taken wildly out of context, \" she wrote. \" i know that acting out of anger doesn't solve anything, \" she continued. \" and the only way to change things for the better is to do it with love. \" gingrich refused to accept the singer's explanation on monday. \" i love the left, \" he said sarcastically on fox &amp; friends before launching into a confusing dismissal of madonna's attempt at clarification. \" when they say, ' i dreamed about blowing up the white house,'they didn't mean, ' i dreamed about blowing up the white house, ' \" he",
-            "Thanking our - everyday heroes they are the brave men and women who risk their lives to keep us safe every day. They are our police officers, firefighters and first responders. They say it's just ' part of the job '. And so often, their stories don't get told. We here at fox and friends - want to change that. We want to share their incredible stories. You can help us honor these heroes by telling us how your life has been changed by someone who answered your call for help."
+            "Former house speaker and donald trump adviser newt gingrich condemned madonna on monday, saying she \" ought to be arrested \" after her recent speech at the women's march in washington, d.c. During that address, the singer said, \" i have thought an awful lot about blowing up the white house. \" related watch madonna's powerful speech at women's march on washington \" to the detractors that insist that this march will never add up to anything: fuck you, \" singer says during surprise appearance this drew a harsh rebuke from gingrich. \" she is parallel to the young fascists who ran around town breaking windows, all of whom should be given the maximum sentence, \" he declared during an interview with fox &amp; friends. \" what you have is an emerging left-wing fascism. She's part of it, and i think we have to be prepared to protect ourselves. \" gingrich's comments expand on those from white house chief of staff reince priebus. \" one of the singers said she wanted to blow up the white house, \" priebus told fox on sunday. \" i mean, can you imagine saying that about president obama? \" madonna addressed the conservative outrage over her comments in an instagram post on sunday, clarifying her position. \" i am not a violent person, i do not promote violence and it's important people hear and understand my speech in its entirety rather than one phrase taken wildly out of context, \" she wrote. \" i know that acting out of anger doesn't solve anything, \" she continued. \" and the only way to change things for the better is to do it with love. \" gingrich refused to accept the singer's explanation on monday. \" i love the left, \" he said sarcastically on fox &amp; friends before launching into a confusing dismissal of madonna's attempt at clarification. \" when they say, ' i dreamed about blowing up the white house,'they didn't mean, ' i dreamed about blowing up the white house, ' \" he"
         ],
         "raw_document": [
             "Former house speaker and donald trump adviser newt gingrich condemned madonna on monday, saying she \" ought to be arrested \" after her recent speech at the women's march in washington, d.c. During that address, the singer said, \" i have thought an awful lot about blowing up the white house. \" related watch madonna's powerful speech at women's march on washington \" to the detractors that insist that this march will never add up to anything: fuck you, \" singer says during surprise appearance this drew a harsh rebuke from gingrich. \" she is parallel to the young fascists who ran around town breaking windows, all of whom should be given the maximum sentence, \" he declared during an interview with fox &amp; friends. \" what you have is an emerging left-wing fascism. She's part of it, and i think we have to be prepared to protect ourselves. \" gingrich's comments expand on those from white house chief of staff reince priebus. \" one of the singers said she wanted to blow up the white house, \" priebus told fox on sunday. \" i mean, can you imagine saying that about president obama? \" madonna addressed the conservative outrage over her comments in an instagram post on sunday, clarifying her position. \" i am not a violent person, i do not promote violence and it's important people hear and understand my speech in its entirety rather than one phrase taken wildly out of context, \" she wrote. \" i know that acting out of anger doesn't solve anything, \" she continued. \" and the only way to change things for the better is to do it with love. \" gingrich refused to accept the singer's explanation on monday. \" i love the left, \" he said sarcastically on fox &amp; friends before launching into a confusing dismissal of madonna's attempt at clarification. \" when they say, ' i dreamed about blowing up the white house,'they didn't mean, ' i dreamed about blowing up the white house, ' \" he",
@@ -1860,7 +1848,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1947,7 +1935,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2062,13 +2050,12 @@
     },
     {
         "idx": 32478,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "President obama culminated a seemingly out-of-the-blue push this week on immigration reform with a speech today criticizing republicans for \" political posturing \" on the issue. \" under the pressures of partisanship and election-year politics, many of the 11 ( republicans ) who have voted for reform in past have backed away, \" the president said, adding that nothing will get passed without republican votes. \" that is the political and mathematical reality. \" other points, as per abc, ap, and the wall street journal: he unveiled no new policies but said there must be a middle ground between blanket deportations and blanket immunity. He called arizona's law \" ill-conceived \" because it puts \" huge pressures on local law enforcement to enforce rules that ultimately are unenforceable. \" \" immigrants have always helped to build and defend this country, \" he said. \" being an american is not a matter of blood or birth. Its a matter of faith, of shared fidelity to the ideas and values that we hold so dear. \"",
         "split": "train",
         "cleansed_document": [
             "In a speech, obama took republicans to task, in particular 11 gop senators who supported recent efforts to improve the immigration system. He did not name any, but told his largely supportive audience at american university that those lawmakers had succumbed to the \" pressures of partisanship and election-year politics. \" seeking to build new momentum on an issue many advocates hoped would be resolved by this point, obama laid out his rationale for a comprehensive approach to fixing what he and others, republicans included, say is a broken immigration system. He said the problem cannot be solved \" only with fences and border patrols \" but said the government should be held accountable for its responsibility to secure the border. Obama also said that businesses should face consequences for knowingly employing illegal immigrants. And he said those who enter the country illegally should own up to their actions before they can begin the process",
-            "President barack obama laid out the case for his stalled effort to overhaul immigration laws on thursday, and challenged republicans who once backed the initiative to come forward again. It was mr. Obama's first speech as president devoted to the issue, and it came as many advocates of an overhaul, particularly in the hispanic community, have become increasingly frustrated by a lack of action. \" the system is broken, and everybody knows it, \" mr. Obama said at american university in washington, d.c. \" unfortunately, reform has been held hostage to political posturing … and to the pervasive sentiment in washington that tackling such a thorny and emotional issue is inherently bad politics. \" enlarge image close getty images barack obama speaks about immigration reform during a speech at american university school of international service in washington, d.c. The broad framework of the legislation mr. Obama favors has been clear for some",
-            "« previous &#124; main &#124; next » president obama pushes immigration reform – but offers no deadlines, no specifics abc news ' yunji de nies and sunlen miller report: for a moment, it seemed candidate barack obama was back on the stump – making the case for comprehensive immigration reform and pushing for the middle ground on one the country's of the most politically divisive and emotional issues. Speaking at american university before an audience of largely evangelical, business, labor and community leaders – along with law enforcement, the president reiterated many of the same arguments he made before coming to the white house: that immigrants make the country economically, culturally and intellectually richer, but that at the same time those who broke laws to get here should not be rewarded with blanket amnesty. The president spoke broadly about reform, noting the \"fresh contention \" around arizona's new immigration law"
+            "President barack obama laid out the case for his stalled effort to overhaul immigration laws on thursday, and challenged republicans who once backed the initiative to come forward again. It was mr. Obama's first speech as president devoted to the issue, and it came as many advocates of an overhaul, particularly in the hispanic community, have become increasingly frustrated by a lack of action. \" the system is broken, and everybody knows it, \" mr. Obama said at american university in washington, d.c. \" unfortunately, reform has been held hostage to political posturing … and to the pervasive sentiment in washington that tackling such a thorny and emotional issue is inherently bad politics. \" enlarge image close getty images barack obama speaks about immigration reform during a speech at american university school of international service in washington, d.c. The broad framework of the legislation mr. Obama favors has been clear for some"
         ],
         "raw_document": [
             "In a speech, obama took republicans to task, in particular 11 gop senators who supported recent efforts to improve the immigration system. He did not name any, but told his largely supportive audience at american university that those lawmakers had succumbed to the \" pressures of partisanship and election-year politics. \" seeking to build new momentum on an issue many advocates hoped would be resolved by this point, obama laid out his rationale for a comprehensive approach to fixing what he and others, republicans included, say is a broken immigration system. He said the problem cannot be solved \" only with fences and border patrols \" but said the government should be held accountable for its responsibility to secure the border. Obama also said that businesses should face consequences for knowingly employing illegal immigrants. And he said those who enter the country illegally should own up to their actions before they can begin the process",
@@ -2085,7 +2072,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2139,14 +2126,13 @@
     },
     {
         "idx": 32481,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "What with the considerable hoopla surrounding blackfish, the recent documentary about the seaworld whale that killed a trainer in 2010, perhaps this was not the best year for seaworld to decide to have its first-ever float in the macy's thanksgiving day parade. Animal activists including peta are protesting the float's inclusion, buzzfeed reports. The float, called \" sea of surprises, \" commemorates the park's 50th anniversary, and a peta rep notes, \" it shows orcas swimming in a majestic sea alongside their families, and this couldn't be further from the truth. Seaworld deprives them of all these things. They confine them to concrete tanks and take them away from their families. The picture that this float presents is absurdly false. \" more than 78,000 people had emailed macy's as of friday asking that the float be eliminated from the parade, the new york times reports. ( you can do so here. ) one high-profile opponent of the float: alec baldwin, who calls seaworld \" a cruel prison for whales. \" but it doesn't look like macy's is budging; a spokesperson says the parade is \" solely devoted to entertainment, \" and is not interested in getting involved in any \" social commentary, political debate, or other forms of advocacy. \" and then there are the ranchers upset about peta spokesperson joan jett being featured on the south dakota tourism float; they actually did manage to get her switched to a different float, the ap reports. In happier news, cbs notes four other new floats were unveiled yesterday, featuring cirque du soleil, the minions from despicable me, royal caribbean, and lindt chocolate... Which will have the goo goo dolls aboard.",
         "split": "train",
         "cleansed_document": [
             "4. Animal activists, specifically people for the ethical treatment of animals, aren't thrilled about the float's inclusion in the parade though. On oct. 23, a group of peta supporters protested outside macy's herald square in new york city, handing out leaflets and setting up a \"whale inside a tank \" ( see above photo ) demonstrating the terrible conditions in which it says seaworld keeps its animals. Ashley byrne, a campaign specialist who has been with peta for six years and participated in the macy's protest, said that peta's demonstration alarmed many people, including macy's employees: \"we had a couple of macy's employees who came out on their lunch break and were so upset when they found out the company they worked for was promoting seaworld, that they said they",
             "Photo coming to the macy's thanksgiving day parade: the float fracas. One controversy involves seaworld. The other, the rock singer joan jett. Seaworld has a float with penguins, swaying kelp and whales. But a new documentary, \"blackfish, \" contends that seaworld has treated killer whales poorly. As of friday, more than 78,000 people had emailed macy's asking that seaworld be dropped, according to people for the ethical treatment of animals, which is coordinating a protest campaign. The actor alec baldwin joined in last week, writing, \"please don't be part of seaworld's crisis-management plan. \" ( now mr. Baldwin has his own crisis to manage. He was just suspended from his msnbc talk show for making an antigay slur. ) ms. Jett was supposed to perform on the south dakota tourism",
-            "Macy's thanksgiving day parade is awash in animal-related protests over its floats, with controversies involving the unlikely pairing of rocker joan jett and shamu the killer whale. File - in this april 20, 2013 file photo, singer and songwriter joan jett is seen in baltimore. The organizers of the 2013 macy's thanksgiving day parade have removed jett from the south dakota float... ( associated press ) file - in this july 2, 1999 file photo, killer whale kalina, right, and her 10-day-old son baby shamu swim at seaworld in orlando, fla. Floats in the macy's thanksgiving parade, which carry celebrities,... ( associated press ) activists plan to line the route of next week's parade to protest a seaworld float over accusations in a new documentary that the theme parks treat whales badly.",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Macy's thanksgiving day parade is awash in animal-related protests over its floats, with controversies involving the unlikely pairing of rocker joan jett and shamu the killer whale. File - in this april 20, 2013 file photo, singer and songwriter joan jett is seen in baltimore. The organizers of the 2013 macy's thanksgiving day parade have removed jett from the south dakota float... ( associated press ) file - in this july 2, 1999 file photo, killer whale kalina, right, and her 10-day-old son baby shamu swim at seaworld in orlando, fla. Floats in the macy's thanksgiving parade, which carry celebrities,... ( associated press ) activists plan to line the route of next week's parade to protest a seaworld float over accusations in a new documentary that the theme parks treat whales badly."
         ],
         "raw_document": [
             "4. Animal activists, specifically people for the ethical treatment of animals, aren't thrilled about the float's inclusion in the parade though. On oct. 23, a group of peta supporters protested outside macy's herald square in new york city, handing out leaflets and setting up a \"whale inside a tank \" ( see above photo ) demonstrating the terrible conditions in which it says seaworld keeps its animals. Ashley byrne, a campaign specialist who has been with peta for six years and participated in the macy's protest, said that peta's demonstration alarmed many people, including macy's employees: \"we had a couple of macy's employees who came out on their lunch break and were so upset when they found out the company they worked for was promoting seaworld, that they said they",
@@ -2165,7 +2151,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2273,12 +2259,11 @@
     },
     {
         "idx": 32486,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The troubling signs have been building up, and on friday, health officials confirmed: florida mosquitoes are transmitting the zika virus, the first time the virus has been known to be transmitted in the continental us. Four people so far in miami-dade and broward counties have gotten the virus from local mosquitoes, state health officials have confirmed, although they have not yet been able to trap any mosquitoes that have tested positive for the virus. \" if you live in this area and want to be tested, i urge you to contact the county health department, which stands ready to assist you, \" florida gov. Rick scott said at a press conference, per usa today. Officials believe local transmission is so far confined to one single zip code, but an investigation continues to determine whether others are infected, and there are restrictions on blood donations from donors who live in or have recently traveled to the affected area. Officials have long stated that though us transmission of the virus was inevitable, the problem won't be as widespread as it is in other areas, thanks to mosquito-control efforts, improved housing construction, window and door screens, and the proliferation of air-conditioning. Vox offers up nine reasons not to panic, including the fact that only 1 % of pregnant women who get zika will experience complications with their babies.",
         "split": "train",
         "cleansed_document": [
-            "Close skip in skip x embed x share mosquito control officials in miami brace for the first locally aquired zika virus transmitted by mosquito. Ap the cdc and the surgeon general have reiterated warnings to travelers of rio about the mosquito-borne zika virus. ( photo: yuri cortez, afp/getty images ) four people infected with zika in south florida likely contracted the virus from local mosquitoes, marking the first time the disease has been transmitted by the insects in the continental u.s., florida gov. Rick scott said friday. Florida's department of health believes the mosquitos that transmitted the virus are active in a small area just north of downtown miami, scott said at a news conference in orlando. No mosquitoes in the state have tested positive for zika, he added. The four zika patients work in the same area, although not at the same company, and are not related, said thomas frieden, director of the centers for disease control and prevention. \"all the evidence we have seen indicates that this is mosquito-borne transmission that occurred several weeks ago in several blocks in miami, \" he said. More than 1,650 people in the u.s. Have contracted zika, but until now all were linked to travel to areas outside the u.s. With outbreaks of the virus. Zika, which can cause devastating birth defects, is spreading rapidly in more",
-            "With zika moving through nearly every country in the western hemisphere over the past year and a half, it was only a matter of time before the virus made its way to the continental us. At the end of july, health officials announced that a handful of zika infections had originated from mosquitoes in miami, florida. As of august 22, there were 37 locally-acquired cases in florida, mostly concentrated in a one square mile area of miami's wynwood neighborhood. Zika was discovered in the 1940s, but most people had never heard of it until last year. That's because for decades, zika outbreaks were sporadic and tiny, and the disease seemed to do little harm. That changed in 2015. A massive outbreak in brazil altered the scientific community's view of the mosquito-borne virus. Scientists learned that zika can actually be a lot more dangerous than anyone thought, causing devastating birth defects in fetuses and even miscarriages. In light of that, the world health organization declared a public health emergency on february 1 this year. Meanwhile, the virus has been on the move. To date, more than 60 countries and territories have reported mosquito transmission of the virus, and 11 countries have seen sexual transmission of zika. The us is only the latest country to grapple with a zika virus outbreak. 1"
+            "Close skip in skip x embed x share mosquito control officials in miami brace for the first locally aquired zika virus transmitted by mosquito. Ap the cdc and the surgeon general have reiterated warnings to travelers of rio about the mosquito-borne zika virus. ( photo: yuri cortez, afp/getty images ) four people infected with zika in south florida likely contracted the virus from local mosquitoes, marking the first time the disease has been transmitted by the insects in the continental u.s., florida gov. Rick scott said friday. Florida's department of health believes the mosquitos that transmitted the virus are active in a small area just north of downtown miami, scott said at a news conference in orlando. No mosquitoes in the state have tested positive for zika, he added. The four zika patients work in the same area, although not at the same company, and are not related, said thomas frieden, director of the centers for disease control and prevention. \"all the evidence we have seen indicates that this is mosquito-borne transmission that occurred several weeks ago in several blocks in miami, \" he said. More than 1,650 people in the u.s. Have contracted zika, but until now all were linked to travel to areas outside the u.s. With outbreaks of the virus. Zika, which can cause devastating birth defects, is spreading rapidly in more"
         ],
         "raw_document": [
             "Close skip in skip x embed x share mosquito control officials in miami brace for the first locally aquired zika virus transmitted by mosquito. Ap the cdc and the surgeon general have reiterated warnings to travelers of rio about the mosquito-borne zika virus. ( photo: yuri cortez, afp/getty images ) four people infected with zika in south florida likely contracted the virus from local mosquitoes, marking the first time the disease has been transmitted by the insects in the continental u.s., florida gov. Rick scott said friday. Florida's department of health believes the mosquitos that transmitted the virus are active in a small area just north of downtown miami, scott said at a news conference in orlando. No mosquitoes in the state have tested positive for zika, he added. The four zika patients work in the same area, although not at the same company, and are not related, said thomas frieden, director of the centers for disease control and prevention. \"all the evidence we have seen indicates that this is mosquito-borne transmission that occurred several weeks ago in several blocks in miami, \" he said. More than 1,650 people in the u.s. Have contracted zika, but until now all were linked to travel to areas outside the u.s. With outbreaks of the virus. Zika, which can cause devastating birth defects, is spreading rapidly in more",
@@ -2293,7 +2278,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2423,7 +2408,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2500,7 +2485,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2525,7 +2510,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2554,12 +2539,11 @@
     },
     {
         "idx": 32497,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "And the offensive behavior continues: as adoring fans surrounded his toronto hotel yesterday, justin bieber decided to grace them with his presence, heading out onto his balcony to snap the view on instagram. Nice enough, until he proceeded to spit. Tmz nabbed some pretty gross pictures of the spit in action, and though it's not clear if anyone got hit by the falling slobber, the gossip site says fans were outside his hotel window all day long. The new york post reports this is the latest in a long line of spitting incidents, like this one.",
         "split": "train",
         "cleansed_document": [
-            "Justin bieber spitting again caught in the act justin bieber spitting again -- caught in the act exclusive here it is... Hard proofis a revolting, germ-spreading spitter.the photos were snapped thursday in toronto, where bieber was perched atop his hotel balcony. We can't tell what, or who, was directly under him as he dropped his saliva-bomb.it is worth noting... Hordes of fans were gathered outside the window of his hotel room all day -- he even posted a bieberview pic on instagram.also relevant... Multiple people have accused bieber of using spit as a weapon -- including some woman at a gym, his neighbor, and most recently... A nightclub dj at least he's not pissing into a mop bucket... Far as we know.",
-            "Justin bieber nightclub spitting accuser files police report justin bieber -- nightclub spitting accuser files police report exclusive the dj who claimsspat in his face inside of a nightclub in ohio last week has lawyered up -- and filed a police report against the singer... Tmz has learned.the man behind the allegation is -- a dj at the social room in columbus -- who told police the trouble began on july 13 when bieber's security team thought he was taking pictures of the singer inside the vip room of the club.addison -- who's a junior at ohio state university and a neuroscience major -- says he didn't snap any photos... But bieber didn't buy his denial and cussed him out and spat in his face.the police report, obtained by tmz, reads -- \" the victim stated that the suspect told him that ' his mother was a bitch, his father was a bitch and he is a bitch. ' \" addison's lawyers say bieber's spit assault left saliva and mucus in addison's eye, nose, and mouth... Disgusting.following the alleged altercation, addison said he got tested for hepatitis, but the test came back negative.in the police report, cops note -- \" the victim stated that he does not want anything done at this time and just wants to document the incident. \" it's unclear if addison plans to file a lawsuit... But it definitely looks like he will.so far, no criminal charges have been filed."
+            "Justin bieber spitting again caught in the act justin bieber spitting again -- caught in the act exclusive here it is... Hard proofis a revolting, germ-spreading spitter.the photos were snapped thursday in toronto, where bieber was perched atop his hotel balcony. We can't tell what, or who, was directly under him as he dropped his saliva-bomb.it is worth noting... Hordes of fans were gathered outside the window of his hotel room all day -- he even posted a bieberview pic on instagram.also relevant... Multiple people have accused bieber of using spit as a weapon -- including some woman at a gym, his neighbor, and most recently... A nightclub dj at least he's not pissing into a mop bucket... Far as we know."
         ],
         "raw_document": [
             "Justin bieber spitting again caught in the act justin bieber spitting again -- caught in the act exclusive here it is... Hard proofis a revolting, germ-spreading spitter.the photos were snapped thursday in toronto, where bieber was perched atop his hotel balcony. We can't tell what, or who, was directly under him as he dropped his saliva-bomb.it is worth noting... Hordes of fans were gathered outside the window of his hotel room all day -- he even posted a bieberview pic on instagram.also relevant... Multiple people have accused bieber of using spit as a weapon -- including some woman at a gym, his neighbor, and most recently... A nightclub dj at least he's not pissing into a mop bucket... Far as we know.",
@@ -2574,7 +2558,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2599,7 +2583,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {

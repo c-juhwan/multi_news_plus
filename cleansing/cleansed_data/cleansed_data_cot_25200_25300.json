@@ -51,13 +51,12 @@
     },
     {
         "idx": 25202,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Winston churchill fractured a hip at age 87 and stayed in a london hospital, leaving behind a vial of his own blood. Now it's resurfaced for auction and could fetch hundreds of dollars, the guardian reports. \" it is impossible to put an accurate estimate on this unique piece of history, \" says a rep for duke's auction house. \" it is probably the first time that such a personal piece of churchill's history has been offered on the open market. \" when churchill left the hospital in 1962, student nurse patricia fitzgibbon kept the tube; now she's died, freeing the item up for the highest bidder. Churchill lived on for another three years after his hospital stay, but the operation to fix the fracture shortened one leg and he used a walking stick from then on, the duke's rep tells kent news.",
         "split": "train",
         "cleansed_document": [
             "Winston churchill famously asserted that he had nothing to offer but \"blood, toil, tears and sweat \". Now, bizarrely, a few drops of the first of these are coming up for sale at auction next month. A phial containing traces of churchill's blood, drawn from the former prime minister as he recovered in hospital from a fractured hip, is being offered for sale to the highest bidder. Churchill was treated in the middlesex hospital in london in 1962 at the age of 87 after breaking his hip while in monte carlo, monaco. It was feared that he would not survive but he soldiered on until the age of 90. The blood taken at the middlesex was about to be disposed of when a student nurse called patricia fitzgibbon asked if she could keep the tube, which was clearly labelled with churchill's name. She was given permission and kept it",
-            "A few drops of blood taken from sir winston churchill as he recovered with a broken hip are going under the hammer. The sample was collected in 1962 when the 'blood, toil, tears and sweat ' orator was at the middlesex hospital being treated for a fractured hip. Student nurse patricia fitzgibbon asked if she could keep the small glass tube that was labelled 'sir winston s churchill wwb9 ', and her request was granted. Following her death it is now being put up for sale at duke's of dorchester in dorset on march 12. In 1962, churchill, aged 87, was on holiday in monte carlo when he reportedly fell out of his bed, fracturing his hip. He was flown back to london in an raf vc10 jet at the request of the prime minister harold macmillan. He spent several weeks recovering in the woolavington wing for private patients at the hospita",
-            "Duke's to offer magnificent georgian horse racing trophy duke's are delighted to offer this magnificent george iii silver-gilt richmond race cup made in london in 1802 by paul storr and retailed by makepeace in 1757 robert adam was commissioned by thomas dundas to design a new trophy for the richmond 'gold cup ' horse race. In the 18th century, the course in north yorkshire became one of the biggest and most celebrated attractions in the racing calendar with a prize of 100 guineas or more. This large 'double gilt ' cup was – by tradition – paid for by general subscription and the worthy gentleman of the town with the silversmith being ordered to 'make the best cup he can for 100 guineas '. The cup would generally weigh one hundred ounces or more. Subsequent cups were based on adam's original design and in the hands of the most eminent silversmiths, they evolved over"
+            "A few drops of blood taken from sir winston churchill as he recovered with a broken hip are going under the hammer. The sample was collected in 1962 when the 'blood, toil, tears and sweat ' orator was at the middlesex hospital being treated for a fractured hip. Student nurse patricia fitzgibbon asked if she could keep the small glass tube that was labelled 'sir winston s churchill wwb9 ', and her request was granted. Following her death it is now being put up for sale at duke's of dorchester in dorset on march 12. In 1962, churchill, aged 87, was on holiday in monte carlo when he reportedly fell out of his bed, fracturing his hip. He was flown back to london in an raf vc10 jet at the request of the prime minister harold macmillan. He spent several weeks recovering in the woolavington wing for private patients at the hospita"
         ],
         "raw_document": [
             "Winston churchill famously asserted that he had nothing to offer but \"blood, toil, tears and sweat \". Now, bizarrely, a few drops of the first of these are coming up for sale at auction next month. A phial containing traces of churchill's blood, drawn from the former prime minister as he recovered in hospital from a fractured hip, is being offered for sale to the highest bidder. Churchill was treated in the middlesex hospital in london in 1962 at the age of 87 after breaking his hip while in monte carlo, monaco. It was feared that he would not survive but he soldiered on until the age of 90. The blood taken at the middlesex was about to be disposed of when a student nurse called patricia fitzgibbon asked if she could keep the tube, which was clearly labelled with churchill's name. She was given permission and kept it",
@@ -74,7 +73,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -102,20 +101,19 @@
             "The summary discusses the low usage of sunscreen by Americans and the potential issues with sunscreen products. Document 1, Document 2, Document 3, and Document 4 are all identical in content and focus on the EWG's Skin Deep app for rating personal care products. Since these documents are redundant and do not provide additional information relevant to the summary, the irrelevant documents are: Document 1|Document 2|Document 3|Document 4"
         ],
         "vote_count": {
-            "0": 0,
-            "1": 0,
-            "2": 0,
-            "3": 0
+            "0": 1,
+            "1": 1,
+            "2": 1,
+            "3": 1
         }
     },
     {
         "idx": 25204,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Advocates for pregnant women are raising their voices over what they say is growing suspicion over substance abuse — suspicion that is often unfair. At cosmopolitan.com, ada calhoun recounts the story of one california mother's nightmare: when tiffany langwell, 38, gave birth to a daughter, she left the hospital earlier than doctors recommended. The next day, she found child protective services at her door; hospital workers had alerted officials that langwell, her fiancé, and his mother showed shakiness that could signal substance abuse, while langwell had pill bottles ( they were iron supplements, she says ). An early test was inconclusive — apparently because langwell's saliva was particularly thick. That \" may have had something to do with the fact that i had just given birth and it was 110 degrees, \" she notes. Cps came back with a warrant and took the baby away, first to the hospital, where \" they tried eight times to catheterize my one-day-old, \" the father notes. Then the newborn was put in foster care for a week. \" i thought it was some horrible joke. You are guilty until you prove your innocence, \" langwell says. After a hair-follicle drug test came up clean, the baby was finally returned to langwell. The case — which activists say isn't isolated — occurred against a background of what an advocate calls \" extremely problematic ' if you test positive for a drug, we're going to take the baby ' cases. \" poor families are often unfairly suspected, advocates say. Fear of arrest is prompting some pregnant women to avoid getting the care they need in hospitals, notes nancy redd in an interview with calhoun, who has previously written on the topic. ( parents raised questions earlier this year when a mother was arrested for leaving her child in the park while she worked. )",
         "split": "train",
         "cleansed_document": [
-            "Langwell at the hospital with her daughter. Courtesy of tiffany langwell tiffany langwell was thrilled to find out she was pregnant again at the age of 38. She had two children from her first marriage — a 15-year-old girl and a 9-year-old boy. After separating from their father, she had reconnected with a high school boyfriend, david hodek, and they had gotten engaged. In august of this year, their baby girl was born healthy, at 8 pounds, with bright blue eyes and a full head of downy hair. Langwell and hodek had what they describe as a blissful first night home. The next day, a representative of the child welfare agency in riverside county, california, took the infant into protective custody. Unhappy stories about child welfare agencies typically focus on instances of their failure to protect a child from harm",
-            "Now in paperback! one of the top ten memoirs of the year ( w magazine ), wedding toasts i ' ll never give shows that marriage \"isn't a happy ending, but rather an opening scene \" ( times literary supplement ). In these \"warm-hearted, ephron-esque \" ( washington post ) essays inspired by her popular modern love column, ada calhoun offers a \"funny \" ( today show ), \"insightful \" ( star, \"hot book \" ), \"raw and relatable \" ( brides ) portrait of modern coupledom, \"a thoughtful read for the monogamous, non-monogamous, and every relationship iteration in between \" ( new york ). In the new york times book review's \"by the book, \" tom hanks said it was the last book to make him laugh: \" i mean, underlining and yellow marker"
+            "Langwell at the hospital with her daughter. Courtesy of tiffany langwell tiffany langwell was thrilled to find out she was pregnant again at the age of 38. She had two children from her first marriage — a 15-year-old girl and a 9-year-old boy. After separating from their father, she had reconnected with a high school boyfriend, david hodek, and they had gotten engaged. In august of this year, their baby girl was born healthy, at 8 pounds, with bright blue eyes and a full head of downy hair. Langwell and hodek had what they describe as a blissful first night home. The next day, a representative of the child welfare agency in riverside county, california, took the infant into protective custody. Unhappy stories about child welfare agencies typically focus on instances of their failure to protect a child from harm"
         ],
         "raw_document": [
             "Langwell at the hospital with her daughter. Courtesy of tiffany langwell tiffany langwell was thrilled to find out she was pregnant again at the age of 38. She had two children from her first marriage — a 15-year-old girl and a 9-year-old boy. After separating from their father, she had reconnected with a high school boyfriend, david hodek, and they had gotten engaged. In august of this year, their baby girl was born healthy, at 8 pounds, with bright blue eyes and a full head of downy hair. Langwell and hodek had what they describe as a blissful first night home. The next day, a representative of the child welfare agency in riverside county, california, took the infant into protective custody. Unhappy stories about child welfare agencies typically focus on instances of their failure to protect a child from harm",
@@ -134,7 +132,7 @@
             "0": 0,
             "1": 4,
             "2": 5,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -221,7 +219,7 @@
             "1": 2,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -278,12 +276,11 @@
     },
     {
         "idx": 25210,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Prosecutors from egypt's feared state security unit this week called in vodafone egypt executives for questioning about allegations that it was delivering coded messages to muslim brotherhood terrorists … via a commercial starring puppets. Egypt has been buzzing over the ad, in which a motherly figure named abla fahita chats with an unseen character called \" mama touta. \" fahita, a widow, is looking for her husband's missing sim card, and talks about searching a mall with a sniffer dog, the independent explains. It seemed harmless until blogger and youth activist ahmed spider spent nearly an hour on tv dissecting its supposed symbolism, the new york times reports. Spider saw mama touta as the muslim brotherhood, a red ornament as a bomb, and so on. A vodafone spokesperson called in saying, \" i ' m sad that we have reached this level of thinking. \" the 25-year-old spider is a repeat conspiracy theorist, who once called egypt's 2011 revolution a masonic plot, according to the financial times. Abla fahita herself ( yes, the puppet ) appeared on tv wednesday to debunk the plot, saying, \" i am a comedic character. \" some egyptians have lent credence to the theory, but it's being widely mocked online, the economist reports. Fake support groups are cheekily protesting the puppet's likely torture by police, while others call for a puppet-hunt for mama touta.",
         "split": "train",
         "cleansed_document": [
-            "Prosecutors in egypt have this week questioned officials of one of the largest telecommunications companies in the country over allegations that their advert included coded signals for bomb attacks by the muslim brotherhood. Egyptian state security prosecutors have questioned the makers of a commercial for vodafone egypt which features popular puppet abla fahita, a widow attempting to reactivate the phone line previously used by her late husband. In the advert, the puppet can be seen talking on the phone while her daughter karkoura searches for her deceased father's sim card. Speaking on the phone with a friend, fahita says she asked for the sniffer dog of a shopping mall to help search for the missing card and discusses another character called \"mama touta \". However, video-blogger and youth activist ahmed spider accused the advert of containing pro-muslim brotherhood messages during an hour long appearance on egyptian television on tuesday. The egyptian unit of vodafone, the world's biggest mobile operator by revenue, rejected the suggestions. Spider said the mall and the dog were code words for the planned sites of a coming attack, and \"mama touta \" is a secret name for the brotherhood. The 25-year-old told the private al-tahrir tv channel in an interview that baubles hanging on a cactus featured in the commercial represented bombs. \"these elements tell us that there will be a big mall and an explosion after",
-            "In a place as politically turbulent as egypt, where yesterday's good guys become today's villains and vice versa, telling fact from fiction can be tricky. But clearly, many egyptian newspapers make little effort to do so. A spoof arabic news website recently posted a story claiming that swedish riot police have tested laughing gas to control crowds. The gas had proven astonishingly effective, it said, making dangerous rioting mobs fall haplessly to the floor with giggles. A quick check on google would have shown this to be a hoax. Yet not only did half a dozen cairo newspapers pick up the story and run it as fact, several embellished on it, or ascribed it to \" wire reports \" or \" a swedish news service \". Get our daily newsletter upgrade your inbox and get our daily dispatch and editor's picks. It is not just egypt's press that struggles with the truth. On new years day vodafone, a mobile-phone operator, felt obliged to issue a statement denying that an advertisement it had produced, featuring muppet-like dolls, carried any subversive messages. The denial followed allegations, aired on a television talk show, that the advert contained imagery and words suggesting that a coded message was being issued to islamist terrorists. Given an intensified campaign against the ousted muslim brotherhood by egypt"
+            "Prosecutors in egypt have this week questioned officials of one of the largest telecommunications companies in the country over allegations that their advert included coded signals for bomb attacks by the muslim brotherhood. Egyptian state security prosecutors have questioned the makers of a commercial for vodafone egypt which features popular puppet abla fahita, a widow attempting to reactivate the phone line previously used by her late husband. In the advert, the puppet can be seen talking on the phone while her daughter karkoura searches for her deceased father's sim card. Speaking on the phone with a friend, fahita says she asked for the sniffer dog of a shopping mall to help search for the missing card and discusses another character called \"mama touta \". However, video-blogger and youth activist ahmed spider accused the advert of containing pro-muslim brotherhood messages during an hour long appearance on egyptian television on tuesday. The egyptian unit of vodafone, the world's biggest mobile operator by revenue, rejected the suggestions. Spider said the mall and the dog were code words for the planned sites of a coming attack, and \"mama touta \" is a secret name for the brotherhood. The 25-year-old told the private al-tahrir tv channel in an interview that baubles hanging on a cactus featured in the commercial represented bombs. \"these elements tell us that there will be a big mall and an explosion after"
         ],
         "raw_document": [
             "Prosecutors in egypt have this week questioned officials of one of the largest telecommunications companies in the country over allegations that their advert included coded signals for bomb attacks by the muslim brotherhood. Egyptian state security prosecutors have questioned the makers of a commercial for vodafone egypt which features popular puppet abla fahita, a widow attempting to reactivate the phone line previously used by her late husband. In the advert, the puppet can be seen talking on the phone while her daughter karkoura searches for her deceased father's sim card. Speaking on the phone with a friend, fahita says she asked for the sniffer dog of a shopping mall to help search for the missing card and discusses another character called \"mama touta \". However, video-blogger and youth activist ahmed spider accused the advert of containing pro-muslim brotherhood messages during an hour long appearance on egyptian television on tuesday. The egyptian unit of vodafone, the world's biggest mobile operator by revenue, rejected the suggestions. Spider said the mall and the dog were code words for the planned sites of a coming attack, and \"mama touta \" is a secret name for the brotherhood. The 25-year-old told the private al-tahrir tv channel in an interview that baubles hanging on a cactus featured in the commercial represented bombs. \"these elements tell us that there will be a big mall and an explosion after",
@@ -298,7 +295,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -380,12 +377,11 @@
     },
     {
         "idx": 25214,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Scientists have spotted four-stranded dna in humans for the first time and say it could provide a key to fighting cancer, the bbc reports. A cambridge university team revealed the find to nature chemistry last year, saying the \" quadruple helix \" may arise when a cell is unstable or in a dysfunctional state — like one that leads to cancer. \" we need to prove that; but if that is the case, targeting them with synthetic molecules could be an interesting way of selectively targeting those cells that have this dysfunction, \" said cambridge chemist shankar balasubramanian. They found that four-stranded dna occurred most often when a cell is copying its dna right before dividing. That could link the quadruple helix to cancers, which are often caused by genes that mutate to boost dna replication. Perhaps synthetic molecules could curb the out-of-control cell proliferation that leads to tumors: \" i ' m hoping now that the pharmaceutical companies will bring this on to their radar, \" said balasubramanian. Some 60 years ago, two other cambridge scientists burst into a pub and announced their discovery of the \" secret to life \": the dna double helix.",
         "split": "train",
         "cleansed_document": [
-            "Image caption a representation of the four-stranded structure ( l ) with fluorescent markers revealing its presence inside cells ( r ) cambridge university scientists say they have seen four-stranded dna at work in human cells for the first time. The famous \" molecule of life \", which carries our genetic code, is more familiar to us as a double helix. But researchers tell the journal nature chemistry that the \" quadruple helix \" is also present in our cells, and in ways that might possibly relate to cancer. They suggest that control of the structures could provide novel ways to fight the disease. \" the existence of these structures may be loaded when the cell has a certain genotype or a certain dysfunctional state, \" said prof shankar balasubramanian from cambridge's department of chemistry. \" we need to prove that; but if that is the case, targeting them with synthetic molecules could be an interesting way of selectively targeting those cells that have this dysfunction, \" he told bbc news. Tag and track it will be exactly 60 years ago in february that james watson and francis crick famously burst into the pub next to their cambridge laboratory to announce the discovery of the \" secret of life \". What they had actually done was describe the way in which two long chemical chains wound up around each other to encode the information cells need to build and maintain our bodies. Today, the pair's modern counterparts in the university city continue to work on dna's complexities. Balasubramanian's group has been pursuing a four-stranded version of the molecule that scientists have produced in the test tube now for a number of years. It is called the g-quadruplex. The \" g \" refers to guanine, one of the four chemical groups, or \" bases \", that hold dna together and which encode our genetic information",
-            "A, bg4 staining in synchronized mcf-7 mammary adenocarcinoma cell populations at the g0/g1 and g1/s boundaries, and during the s phase. Nuclei are counterstained with dapi ( blue ). Scale bars, 20 µm. B, quantification of bg4 foci number per nucleus for a. 100 nuclei were counted per stage and the s.e.m. Was calculated from a set of three replicates. C, a greater than two fold reduction in the bg4 foci number after inhibition of dna synthesis by aphidicolin treatment ( 5 µm for two hours ). D, quantification of the bg4 foci number with or without aphidicolin treatment. 100 nuclei were counted and the s.e.m. Was calculated from a set of three replicates. These experiments demonstrate that g-quadruplex structures are modulated during the cell cycle and, in particular, support the replication-dependent formation of endogenous dna g-quadruplexes."
+            "Image caption a representation of the four-stranded structure ( l ) with fluorescent markers revealing its presence inside cells ( r ) cambridge university scientists say they have seen four-stranded dna at work in human cells for the first time. The famous \" molecule of life \", which carries our genetic code, is more familiar to us as a double helix. But researchers tell the journal nature chemistry that the \" quadruple helix \" is also present in our cells, and in ways that might possibly relate to cancer. They suggest that control of the structures could provide novel ways to fight the disease. \" the existence of these structures may be loaded when the cell has a certain genotype or a certain dysfunctional state, \" said prof shankar balasubramanian from cambridge's department of chemistry. \" we need to prove that; but if that is the case, targeting them with synthetic molecules could be an interesting way of selectively targeting those cells that have this dysfunction, \" he told bbc news. Tag and track it will be exactly 60 years ago in february that james watson and francis crick famously burst into the pub next to their cambridge laboratory to announce the discovery of the \" secret of life \". What they had actually done was describe the way in which two long chemical chains wound up around each other to encode the information cells need to build and maintain our bodies. Today, the pair's modern counterparts in the university city continue to work on dna's complexities. Balasubramanian's group has been pursuing a four-stranded version of the molecule that scientists have produced in the test tube now for a number of years. It is called the g-quadruplex. The \" g \" refers to guanine, one of the four chemical groups, or \" bases \", that hold dna together and which encode our genetic information"
         ],
         "raw_document": [
             "Image caption a representation of the four-stranded structure ( l ) with fluorescent markers revealing its presence inside cells ( r ) cambridge university scientists say they have seen four-stranded dna at work in human cells for the first time. The famous \" molecule of life \", which carries our genetic code, is more familiar to us as a double helix. But researchers tell the journal nature chemistry that the \" quadruple helix \" is also present in our cells, and in ways that might possibly relate to cancer. They suggest that control of the structures could provide novel ways to fight the disease. \" the existence of these structures may be loaded when the cell has a certain genotype or a certain dysfunctional state, \" said prof shankar balasubramanian from cambridge's department of chemistry. \" we need to prove that; but if that is the case, targeting them with synthetic molecules could be an interesting way of selectively targeting those cells that have this dysfunction, \" he told bbc news. Tag and track it will be exactly 60 years ago in february that james watson and francis crick famously burst into the pub next to their cambridge laboratory to announce the discovery of the \" secret of life \". What they had actually done was describe the way in which two long chemical chains wound up around each other to encode the information cells need to build and maintain our bodies. Today, the pair's modern counterparts in the university city continue to work on dna's complexities. Balasubramanian's group has been pursuing a four-stranded version of the molecule that scientists have produced in the test tube now for a number of years. It is called the g-quadruplex. The \" g \" refers to guanine, one of the four chemical groups, or \" bases \", that hold dna together and which encode our genetic information",
@@ -400,7 +396,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -477,7 +473,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -635,7 +631,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -698,14 +694,13 @@
     },
     {
         "idx": 25226,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Serial, a podcast re-examining the 1999 murder of hae min lee, is a bona fide viral sensation. ( host sarah koenig was interviewed on the colbert report last night. ) in fact, the show is so popular that best buy apparently forgot one crucial thing: it's about a real-life murder, so perhaps not the best topic for twitter jokes. You may want to stop reading on now if you're not current with the podcast, as spoilers follow. Best buy tweeted today, \" we have everything you need. Unless you need a payphone. #serial, \" vulture reports. As those who are caught up know, the prosecution said adnan syed, the ex-boyfriend convicted of killing lee, made a critical call from a maryland best buy parking lot to tell a friend he'd committed the murder. But in a recent episode, koenig made the argument that the best buy in question may never have had a payphone. The ill-advised joke was retweeted 1,000 times ( including, at least briefly, by serial's twitter account, mashable reports ) before best buy pulled it and apologized, calling the tweet lacking in good judgment.",
         "split": "train",
         "cleansed_document": [
             "Like many a brand before them, best buy was forced to remove a tweet and apologize over its attempt at creating #content on twitter. The big box retailer that's featured prominently as the alleged location of a real-life murder in the insanely popular podcast serial sent a tweet on thursday that pokes fun at one of the underlying questions in the 15-year-old case. Here's a screenshot: best buy pulled the tweet — referencing the reported lack of a pay phone at a maryland best buy, which is increasingly an attraction for fans of the show where prosecutors said 17-year-old high school student hae min lee was strangled in 1999 — and apologized less than an hour later. We deeply apologize for our earlier tweet about serial. It lacked good judgment and doesn't reflect the values of our company. We are sorry. — best buy (",
             "Listeners to \" serial \" know that a maryland best buy is a key site in the 1999 death of hae min lee. The state alleges that adnan syed killed lee in the parking lot there, and host sarah koenig spends a lot of time investigating whether that particular store had a payphone outside of it, because jay, the star witness at syed's trial, claimed syed called him from one, saying, \"i've killed her. Come pick me up. \" which makes the above tweet, posted today on best buy's twitter account, rather insensitive. This, by the way, was the tweet immediately before that one — so at least they did prove their own point. Update: they've apologized.",
-            "( cheers and applause ) >> stephen: my guest is a peabody award-winning journalist and host of the true crimepodcast \" serial. \" i can't believe cap ' n crunchmurdered a guy. Please welcome sarah koenig. ( cheers and applause ) miss koenig, thank you so much for being here. As you can see, you are theworld's first superstar podcaster. Let's get into how this cameabout. You're a peabody award-winningjournalist. You work for the \" baltimore sun \" abc news, \" new york times, \" spent past 10 years as producerat \" this american life. \" now you're hosting the firstspin-off podcast \" serial, \" and the penultimate episode isavailable tomorrow, thursday, and your last one is the sameas my last show, december 18. That means we're we'recompeting with",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "( cheers and applause ) >> stephen: my guest is a peabody award-winning journalist and host of the true crimepodcast \" serial. \" i can't believe cap ' n crunchmurdered a guy. Please welcome sarah koenig. ( cheers and applause ) miss koenig, thank you so much for being here. As you can see, you are theworld's first superstar podcaster. Let's get into how this cameabout. You're a peabody award-winningjournalist. You work for the \" baltimore sun \" abc news, \" new york times, \" spent past 10 years as producerat \" this american life. \" now you're hosting the firstspin-off podcast \" serial, \" and the penultimate episode isavailable tomorrow, thursday, and your last one is the sameas my last show, december 18. That means we're we'recompeting with"
         ],
         "raw_document": [
             "Like many a brand before them, best buy was forced to remove a tweet and apologize over its attempt at creating #content on twitter. The big box retailer that's featured prominently as the alleged location of a real-life murder in the insanely popular podcast serial sent a tweet on thursday that pokes fun at one of the underlying questions in the 15-year-old case. Here's a screenshot: best buy pulled the tweet — referencing the reported lack of a pay phone at a maryland best buy, which is increasingly an attraction for fans of the show where prosecutors said 17-year-old high school student hae min lee was strangled in 1999 — and apologized less than an hour later. We deeply apologize for our earlier tweet about serial. It lacked good judgment and doesn't reflect the values of our company. We are sorry. — best buy (",
@@ -724,17 +719,16 @@
             "0": 0,
             "1": 0,
             "2": 2,
-            "3": 0
+            "3": 3
         }
     },
     {
         "idx": 25227,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A meeting of the american society of clinical oncology is taking place this weekend in chicago, and a spate of genuinely hopeful stories is emerging about new drugs and strategies. The wall street journal says significant progress has been made at last in training the body's own immune system to recognize and attack cancer cells. Bristol-myers squibb, for example, is presenting studies showing that two experimental drugs employing this \" immunotherapy \" strategy shrank tumors in patients with advanced melanoma, kidney, and lung cancers. \" those of us in the field really see this as a breakthrough moment, \" says a researcher at johns hopkins and a lead author of one of the studies. Another promising area: pairing antibody drugs with doses of chemo, which results in the chemo getting delivered precisely to the tumor. Think of a \" guided missile, \" in the words of the journal, while the new york times says it's a step closer to the long-sought \" magic bullet \" in cancer treatment. It also means far less severe side effects for patients.",
         "split": "train",
         "cleansed_document": [
-            "Chicago — medical science efforts to harness the power of the immune system against cancer are beginning to bear fruit after decades of frustration, opening up a hopeful new front in the long battle against the disease. In studies being presented saturday, researchers said two experimental drugs by bristol-myers squibb co. Significantly shrank tumors in some patients with advanced skin, lung and kidney cancers. Especially promising was that the drugs worked against several types of cancer, researchers said of the early findings. Most of the patients whose tumors responded significantly to the treatment saw long-term results. The new drugs empower the immune system to recognize cancer cells as an enemy and attack them, although the treatments can have serious side effects. Building a new arsenal against cancer researchers are looking beyond traditional chemotherapy and radiation treatment to new strategies. Targeted therapy: drugs designed to attack specific genetic abnormalities that drive the growth and spread of tumors. When they hit the precise target, the drugs can have dramatic initial results, but tumors often develop resistance. Immunotherapy: drugs or agents not intended to attack tumors but to activate the body's immune system, allowing it to recognize cancer cells as the enemy and attack them. Some of these therapies promise longer-term results. Guided missile: a strategy in which antibodies, including drugs like the breast-cancer treatment herceptin, are armed",
-            "One such drug, adcetris, developed by seattle genetics, was approved last august to treat hodgkin's lymphoma and another rare cancer. T-dm1, developed by genentech, could reach the market next year. Data from a large clinical trial of t-dm1 is expected to attract attention at the annual meeting of the american society of clinical oncology this weekend in chicago. Numerous other companies, from pharmaceutical giants to tiny start-ups, are pursuing the treatments, which are known variously as antibody-drug conjugates, armed antibodies or empowered antibodies. \"i don't think there is a major pharma or a midsized pharma with interest in cancer that doesn't have a program or isn't scrambling to put one together, \" said stephen evans-freke, a managing general partner at celtic therapeutics, an investment firm that recently committed $ 50 million to create a new company, adc therapeutics, to develop antibody-drug conjugates. About 25 such drugs from a variety of companies are in clinical trials, according to alain beck, a french pharmaceutical researcher who closely tracks the field. Genentech alone has eight in clinical trials besides t-dm1, and another 17 in earlier stages of development. Many of the drugs use technology from either seattle genetics, based in bothell, wash., or immunogen of waltham, mass., which supplied the toxin and linker used in t-dm1"
+            "Chicago — medical science efforts to harness the power of the immune system against cancer are beginning to bear fruit after decades of frustration, opening up a hopeful new front in the long battle against the disease. In studies being presented saturday, researchers said two experimental drugs by bristol-myers squibb co. Significantly shrank tumors in some patients with advanced skin, lung and kidney cancers. Especially promising was that the drugs worked against several types of cancer, researchers said of the early findings. Most of the patients whose tumors responded significantly to the treatment saw long-term results. The new drugs empower the immune system to recognize cancer cells as an enemy and attack them, although the treatments can have serious side effects. Building a new arsenal against cancer researchers are looking beyond traditional chemotherapy and radiation treatment to new strategies. Targeted therapy: drugs designed to attack specific genetic abnormalities that drive the growth and spread of tumors. When they hit the precise target, the drugs can have dramatic initial results, but tumors often develop resistance. Immunotherapy: drugs or agents not intended to attack tumors but to activate the body's immune system, allowing it to recognize cancer cells as the enemy and attack them. Some of these therapies promise longer-term results. Guided missile: a strategy in which antibodies, including drugs like the breast-cancer treatment herceptin, are armed"
         ],
         "raw_document": [
             "Chicago — medical science efforts to harness the power of the immune system against cancer are beginning to bear fruit after decades of frustration, opening up a hopeful new front in the long battle against the disease. In studies being presented saturday, researchers said two experimental drugs by bristol-myers squibb co. Significantly shrank tumors in some patients with advanced skin, lung and kidney cancers. Especially promising was that the drugs worked against several types of cancer, researchers said of the early findings. Most of the patients whose tumors responded significantly to the treatment saw long-term results. The new drugs empower the immune system to recognize cancer cells as an enemy and attack them, although the treatments can have serious side effects. Building a new arsenal against cancer researchers are looking beyond traditional chemotherapy and radiation treatment to new strategies. Targeted therapy: drugs designed to attack specific genetic abnormalities that drive the growth and spread of tumors. When they hit the precise target, the drugs can have dramatic initial results, but tumors often develop resistance. Immunotherapy: drugs or agents not intended to attack tumors but to activate the body's immune system, allowing it to recognize cancer cells as the enemy and attack them. Some of these therapies promise longer-term results. Guided missile: a strategy in which antibodies, including drugs like the breast-cancer treatment herceptin, are armed",
@@ -749,7 +743,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -855,7 +849,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -880,7 +874,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1009,7 +1003,7 @@
             "0": 2,
             "1": 2,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1060,7 +1054,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1118,12 +1112,11 @@
     },
     {
         "idx": 25242,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Despite its very public failure to protect the data of about 150 million americans, equifax has landed a fat government deal to prevent fraud. Under the $ 7.25 million no-bid contract signed last month, the embattled credit bureau will provide the irs with taxpayer and personal identity verification services, politico reports. The agency says equifax alone is qualified for the job, despite the company's role in one of the worst data breaches ever. The irs defended the move to stick with equifax, saying it has an existing contract for similar services with the company and does not believe equifax poses a risk to irs data. Rep. Earl blumenauer, one of at least two lawmakers who wrote the irs protesting the deal, said that, \" i was initially under the impression that my staff was sharing a copy of the onion, until i realized this story was, in fact, true. \" as news of the deal triggered incredulity on twitter, the company's embattled ex-ceo told a bipartisan house panel on tuesday he was sorry hackers got their hands on so much private information, per the new york times. Richard f. Smith blamed a sole employee for flouting security warnings and failing to perform necessary software updates to keep billions of records safe. ( an equifax rep wouldn't tell the times if the worker was still employed. ) smith, who resigned last week, downplayed the crisis, but lawmakers weren't having it. \" how does this happen? \" asked gop rep. Greg walden. \" i don't think we can pass a law that … fixes stupid. \" ( feds are investigating equifax execs who dumped $ 2 million in stock before the scandal broke. )",
         "split": "train",
         "cleansed_document": [
-            "Former equifax ceo richard smith, who stepped down after the breach, endured a bipartisan shaming tuesday at a hearing of a house energy and commerce subcommittee. &#124; chip somodevilla/getty images irs awards multimillion-dollar fraud-prevention contract to equifax the no-bid contract was issued last week, as the company continued facing fallout from its massive security breach. The irs will pay equifax $ 7.25 million to verify taxpayer identities and help prevent fraud under a no-bid contract issued last week, even as lawmakers lash the embattled company about a massive security breach that exposed personal information of as many as 145.5 million americans. A contract award for equifax's data services was posted to the federal business opportunities database sept. 30 — the final day of the fiscal year. The credit agency will \" verify taxpayer identity \" and \" assist in ongoing identity verification and validations \" at the irs, according to the award. Story continued below the notice describes the contract as a \" sole source order, \" meaning equifax is the only company deemed capable of providing the service. It says the order was issued to prevent a lapse in identity checks while officials resolve a dispute over a separate contract. Lawmakers on both sides of the aisle blasted the irs decision. \" in the wake of one of the most massive data breaches in a decade, it's irresponsible for the",
-            "Equifax already got rid of mr. Smith, who announced his retirement last week. Even though he no longer works at equifax, he was the only representative of the company to testify at the hearing. An equifax spokesman, wyatt jefferies, declined to say whether any current executives had been invited to appear on capitol hill. The company previously said that an unpatched software flaw had been to blame for the massive security breach, but on tuesday, mr. Smith went a step further, describing the \"human error and technology failures \" that turned a single oversight into a data breach that allowed attackers to obtain personal details on nearly half of america's population. In early march, the department of homeland security sent equifax and other companies an alert about a critical vulnerability in software that equifax used in an online portal for recording customer disputes. The company sent out an internal email requesting that its technical staff fix the software, but \"an individual did not ensure communication got to the right person to manually patch the application, \" mr. Smith told the subcommittee. That was compounded by a technical error: the scanning software that equifax used to detect vulnerabilities failed to find the unpatched hole, he said. Lawmakers from both parties — many of them citing anecdotes from family members, staffers or constituents who have been caught up in the"
+            "Former equifax ceo richard smith, who stepped down after the breach, endured a bipartisan shaming tuesday at a hearing of a house energy and commerce subcommittee. &#124; chip somodevilla/getty images irs awards multimillion-dollar fraud-prevention contract to equifax the no-bid contract was issued last week, as the company continued facing fallout from its massive security breach. The irs will pay equifax $ 7.25 million to verify taxpayer identities and help prevent fraud under a no-bid contract issued last week, even as lawmakers lash the embattled company about a massive security breach that exposed personal information of as many as 145.5 million americans. A contract award for equifax's data services was posted to the federal business opportunities database sept. 30 — the final day of the fiscal year. The credit agency will \" verify taxpayer identity \" and \" assist in ongoing identity verification and validations \" at the irs, according to the award. Story continued below the notice describes the contract as a \" sole source order, \" meaning equifax is the only company deemed capable of providing the service. It says the order was issued to prevent a lapse in identity checks while officials resolve a dispute over a separate contract. Lawmakers on both sides of the aisle blasted the irs decision. \" in the wake of one of the most massive data breaches in a decade, it's irresponsible for the"
         ],
         "raw_document": [
             "Former equifax ceo richard smith, who stepped down after the breach, endured a bipartisan shaming tuesday at a hearing of a house energy and commerce subcommittee. &#124; chip somodevilla/getty images irs awards multimillion-dollar fraud-prevention contract to equifax the no-bid contract was issued last week, as the company continued facing fallout from its massive security breach. The irs will pay equifax $ 7.25 million to verify taxpayer identities and help prevent fraud under a no-bid contract issued last week, even as lawmakers lash the embattled company about a massive security breach that exposed personal information of as many as 145.5 million americans. A contract award for equifax's data services was posted to the federal business opportunities database sept. 30 — the final day of the fiscal year. The credit agency will \" verify taxpayer identity \" and \" assist in ongoing identity verification and validations \" at the irs, according to the award. Story continued below the notice describes the contract as a \" sole source order, \" meaning equifax is the only company deemed capable of providing the service. It says the order was issued to prevent a lapse in identity checks while officials resolve a dispute over a separate contract. Lawmakers on both sides of the aisle blasted the irs decision. \" in the wake of one of the most massive data breaches in a decade, it's irresponsible for the",
@@ -1138,7 +1131,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1171,12 +1164,11 @@
     },
     {
         "idx": 25244,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Joseph gordon-levitt and mumford and sons may have headlined last night's saturday night live, but newcomer kate mckinnon might just have stolen the show, reports the huffington post. Appearing as ann romney on \" weekend update, \" the freshman declared that the campaign meant \" we're missin ' apple-pickin'season, seth. And we loooove apple-pickin'season. It's like mormon mardi gras! \" as for charges of elitism, the obamas \" are friends with jay-z and beyonce. Did i miss something? everyone's always saying i ' m unrelatable because i had a horse in the olympics. Well, let me tell you what: i would kill that horse if i could meet beyonce. \" huffpo's mike ryan runs down other highlights and lowlights here.",
         "split": "train",
         "cleansed_document": [
-            "Ann romney has given some recent interviews instructing people to leave her husband mitt alone, so it only makes sense that \" snl \" newcomer kate mckinnon would spoof her in her own segment on \" weekend update. \" because, hey, you need your wife the most when the gaffes pile up. And ann goes into full pr mode, telling seth meyers about everything from the joys of apple cider season to the struggles of republican life. But honestly, who wouldn't kill a horse to meet beyonce?",
-            "First of all, this is the year 2012, we live in the future. I get it that lorne michaels wants to run a tight ship when it comes to ending the show on time. But if any sporting event ever can last to \" whenever it might end, \" i don't see why a sketch has to be cut off midway through just because, oh, heavens, snl might go 30 seconds too long. ( ok, that rant is now over, for now. ) joseph gordon-levitt did an admirable job with what he was given, but it's painfully obvious that the thursday night primetime special took a lot of the political punch out of the show -- a political punch that was sorely needed. On to a mediocre-at-best scorecard... Sketch of the night \" undecided voters \" ( cecily strong, taran killam, nasim pedrad, bill hader, tim robinson, vanessa bayer ) i've always wondered this. Being so close to an election, just who are these supposed undecided voters who are still out there thinking, \" you know, i just don't know. \" i do like to think they actually are also the people asking, \" when is the election? \" and \" who is the current president? \" score: 8.0 the good \" weekend update \" ( seth meyers, fred armisen, vanessa bayer, kate mckinnon, bill hader, jay pharoah ) i think i've finally figured seth meyers out: meyers absolutely owns the rant. Why he doesn't do some sort of rant every week, i will never know. In the past, there was \" really?!? \" this show brought us \" what are you doing? \" i like kate mckinnon and i ' m quite pleased that her role in this particular show was quite huge, but her ann romney went on a bit too long. Bayer and armisen's \" assad's best friends \" was fine, though not much different than the other incarnations of this segment. But, boy, jay pharoah's stephen a. Smith was just dead-on fantastic"
+            "Ann romney has given some recent interviews instructing people to leave her husband mitt alone, so it only makes sense that \" snl \" newcomer kate mckinnon would spoof her in her own segment on \" weekend update. \" because, hey, you need your wife the most when the gaffes pile up. And ann goes into full pr mode, telling seth meyers about everything from the joys of apple cider season to the struggles of republican life. But honestly, who wouldn't kill a horse to meet beyonce?"
         ],
         "raw_document": [
             "Ann romney has given some recent interviews instructing people to leave her husband mitt alone, so it only makes sense that \" snl \" newcomer kate mckinnon would spoof her in her own segment on \" weekend update. \" because, hey, you need your wife the most when the gaffes pile up. And ann goes into full pr mode, telling seth meyers about everything from the joys of apple cider season to the struggles of republican life. But honestly, who wouldn't kill a horse to meet beyonce?",
@@ -1191,7 +1183,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1216,7 +1208,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1324,7 +1316,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1402,7 +1394,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1494,7 +1486,7 @@
             "3": 5,
             "4": 0,
             "5": 1,
-            "6": 0
+            "6": 1
         }
     },
     {
@@ -1572,18 +1564,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 25259,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Those waiting for president trump's response to the new york times investigation into what it says was the $ 413 million inheritance ( in today's dollars ) he received and the alleged \" dubious tax schemes \" around it got it mid-morning. The president tweeted, \" the failing new york times did something i have never seen done before. They used the concept of'time value of money ' in doing a very old, boring and often told hit piece on me. Added up, this means that 97 % of their stories on me are bad. Never recovered from bad election call! \" politico explains the \" time value of money \" is a reference to the concept that money available now is worth more than the same amount in the future due to its earnings potential, \" but it's not clear why trump fixated on that idea. \" cnbc reports the times issued a statement after the tweet: \" this is a powerful piece of investigative journalism, the result of 18 months of inquiry and a review of over 100,000 pages of records. It is accurate and fair and we stand behind it. \" cnbc notes the piece \" went deeper into his family's tax practices and his claims about his wealth than any report previously has. \" read the specifics here.",
         "split": "train",
         "cleansed_document": [
             "President donald trump has long bragged about becoming a self-made billionaire, saying he only borrowed $ 1 million from his father and paid him back with interest. &#124; mandel ngan/afp/getty images white house trump rips into the new york times over tax schemes report president donald trump on wednesday criticized a new york times investigation that alleged the president perpetuated a number of tax schemes and fraud during the 1990s to bolster the inheritance he received from his parents. \" the failing new york times did something i have never seen done before, \" trump tweeted. \" they used the concept of'time value of money ' in doing a very old, boring and often told hit piece on me. Added up, this means that 97 % of their stories on me are bad. Never recovered from bad election call! \" story continued below the concept of time value of money is that money in the present time is worth more than the same amount in the future, but it's not clear why trump fixated on that idea. The report — which is based off of thousands of documents including tax returns from fred trump, the president's now-deceased father —",
-            "President donald trump lashed out at the new york times on wednesday over a comprehensive investigation alleging decades of fraudulent tax practices that increased the money the president received from his parents. In a tweet, trump did not specifically deny the conduct the times described as \" dubious tax schemes, \" including \" instances of outright fraud. \" it said he and his siblings used these practices to boost the value of the money they got from their parents. \" the failing new york times did something i have never seen done before. They used the concept of'time value of money ' in doing a very old, boring and often told hit piece on me. Added up, this means that 97 % of their stories on me are bad. Never recovered from bad election call! \" trump wrote. The times, in turn, defended the article after trump's tweet. \" this is a powerful piece of investigative journalism, the result of 18 months of inquiry and a review of over 100,000 pages of records. It is accurate and fair and we stand behind it, \" a spokeswoman for the paper said. Trump appeared to target the",
-            "Warczone is a collection of outsider-uploaded warcs, which are contributed to the internet archive but may or may not be ingested into the wayback machine. They are being kept in this location for reference and clarity for the wayback team, while also being accessible to the general public who are seeking any particular items they can regarding certain websites."
+            "President donald trump lashed out at the new york times on wednesday over a comprehensive investigation alleging decades of fraudulent tax practices that increased the money the president received from his parents. In a tweet, trump did not specifically deny the conduct the times described as \" dubious tax schemes, \" including \" instances of outright fraud. \" it said he and his siblings used these practices to boost the value of the money they got from their parents. \" the failing new york times did something i have never seen done before. They used the concept of'time value of money ' in doing a very old, boring and often told hit piece on me. Added up, this means that 97 % of their stories on me are bad. Never recovered from bad election call! \" trump wrote. The times, in turn, defended the article after trump's tweet. \" this is a powerful piece of investigative journalism, the result of 18 months of inquiry and a review of over 100,000 pages of records. It is accurate and fair and we stand behind it, \" a spokeswoman for the paper said. Trump appeared to target the"
         ],
         "raw_document": [
             "President donald trump has long bragged about becoming a self-made billionaire, saying he only borrowed $ 1 million from his father and paid him back with interest. &#124; mandel ngan/afp/getty images white house trump rips into the new york times over tax schemes report president donald trump on wednesday criticized a new york times investigation that alleged the president perpetuated a number of tax schemes and fraud during the 1990s to bolster the inheritance he received from his parents. \" the failing new york times did something i have never seen done before, \" trump tweeted. \" they used the concept of'time value of money ' in doing a very old, boring and often told hit piece on me. Added up, this means that 97 % of their stories on me are bad. Never recovered from bad election call! \" story continued below the concept of time value of money is that money in the present time is worth more than the same amount in the future, but it's not clear why trump fixated on that idea. The report — which is based off of thousands of documents including tax returns from fred trump, the president's now-deceased father —",
@@ -1600,17 +1591,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 25260,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A recently published 36-page report outlining proposals to improve working life in the five nordic countries — denmark, iceland, finland, sweden, and norway — has a proposal that quartz says contains a \" startling \" word: \" mandatory. \" poul nielson, a danish politician given the task last year of preparing a labor market report for the nordic council of ministers, puts forth \" proposal 7, \" which states that the \" nordic governments should commit to the principle of mandatory adult and continuing training for everybody in the labor markets \" in that area of the world. \" the combination of rapid technological development with the gradual increase in retirement age increases the need for new forms of education, \" he tells the euobserver, noting people in their 60s may still have five to 10 more years in which they ' ll be collecting a paycheck. And while nielson says it would be \" visionary \" for nordic countries to adopt this proposal, which doesn't define how long or how often adults would have to submit to schooling, he's aware there will be critics and \" expects many misgivings, conflicts of interest, and not least major difficulties when it comes to the allocation of costs and rights, \" as the nordic labour journal notes. But he points out the creation of a common nordic workforce in 1954 was a similarly \" out of the box \" move and that having all adults of working age well-trained will help the region remain competitive globally. As for what the 73-year-old nielson himself would study if he had to hit the books again: \" photography or more gardening. \" the nordic council is expected to directly address his proposal in november.",
         "split": "train",
         "cleansed_document": [
-            "The five nordic countries should make adult education and further training a mandatory element of the labour market, and introduce real cooperation on migration. These are central issues to secure the nordic labour market model for future years, recommends a new report from the nordic council of ministers. The nordic labour market model faces a plethora of threats, and there are plenty of reasons why cooperation to secure the model should be intensified, says the report 'working life in the nordic region – challenges and proposals ', which former danish government minister and eu commissioner poul nielson has written on commission from the nordic council of ministers. Training for all in it he presents a total of 14 proposals for how to strengthen the cooperation on securing nordic citizens a good working life. Poul nielson freely admits that some of the proposals are fairly wide-ranging. One is for nordic governments to make training a completely systematic and integrated part of working life. The governments should agree to the principle that adult education and in-service training will be a mandatory element of working life for everyone in the nordic labour markets, and then work with the social partners to create two basic models in an attempt to make this vision a reality. This would be a visionary decision, says poul nielson in the report, and writes that in order \"to prepare ourselves for the future we",
-            "\" school's out for summer. School's out for ever, \" sang rock star alice cooper back in 1972. But the generations that left school some 40 to 50 years ago might now be heading back to class. If you already have an account click here to login. For group, corporate or student subscriptions, please contact us. See also our full terms of use. We are mainly funded by advertising and subscription revenues. As advertising revenues are falling fast, we depend on subscription revenues to support our journalism. Euobserver is an independent, not-for-profit news organization that publishes daily news reports, analysis, and investigations from brussels and the eu member states. We are an indispensable news source for anyone who wants to know what is going on in the eu. Nordic council rapporteur poul nielson want a mandatory right for people to go back to school as they approach retirement age. ( photo: european commission ) according to a proposal by nordic council rapporteur poul nielson, they should be given a mandatory right to go back to school as they approach retirement age. \" the combination of rapid technological development with the gradual increase in retirement age increases the need for new forms of education, \" he told euobserver. Nielson is a member of the danish social democrat party and has in the past served as"
+            "The five nordic countries should make adult education and further training a mandatory element of the labour market, and introduce real cooperation on migration. These are central issues to secure the nordic labour market model for future years, recommends a new report from the nordic council of ministers. The nordic labour market model faces a plethora of threats, and there are plenty of reasons why cooperation to secure the model should be intensified, says the report 'working life in the nordic region – challenges and proposals ', which former danish government minister and eu commissioner poul nielson has written on commission from the nordic council of ministers. Training for all in it he presents a total of 14 proposals for how to strengthen the cooperation on securing nordic citizens a good working life. Poul nielson freely admits that some of the proposals are fairly wide-ranging. One is for nordic governments to make training a completely systematic and integrated part of working life. The governments should agree to the principle that adult education and in-service training will be a mandatory element of working life for everyone in the nordic labour markets, and then work with the social partners to create two basic models in an attempt to make this vision a reality. This would be a visionary decision, says poul nielson in the report, and writes that in order \"to prepare ourselves for the future we"
         ],
         "raw_document": [
             "The five nordic countries should make adult education and further training a mandatory element of the labour market, and introduce real cooperation on migration. These are central issues to secure the nordic labour market model for future years, recommends a new report from the nordic council of ministers. The nordic labour market model faces a plethora of threats, and there are plenty of reasons why cooperation to secure the model should be intensified, says the report 'working life in the nordic region – challenges and proposals ', which former danish government minister and eu commissioner poul nielson has written on commission from the nordic council of ministers. Training for all in it he presents a total of 14 proposals for how to strengthen the cooperation on securing nordic citizens a good working life. Poul nielson freely admits that some of the proposals are fairly wide-ranging. One is for nordic governments to make training a completely systematic and integrated part of working life. The governments should agree to the principle that adult education and in-service training will be a mandatory element of working life for everyone in the nordic labour markets, and then work with the social partners to create two basic models in an attempt to make this vision a reality. This would be a visionary decision, says poul nielson in the report, and writes that in order \"to prepare ourselves for the future we",
@@ -1625,7 +1615,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1706,17 +1696,16 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 25264,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "While tom brokaw was discussing the election last night live on msnbc, he was interrupted by an alarm. But no, it wasn't the building going down in flames over the gop taking control of the senate — it was just an alarm brokaw had set on his phone. As an amused rachel maddow and chris matthews looked on, brokaw proceeded to take the phone out of his pocket and pretend to answer it in a bit many twitter users called the highlight of the night, the los angeles times reports. \" yes, i will remember to bring home the milk.... Don't worry about it, \" brokaw said. \" i ' ll feed the dog in the morning. Just sleep in, it's going to be ok. \"",
         "split": "train",
         "cleansed_document": [
-            "Tom brokaw, the longtime former anchor of \" nbc nightly news \" will always be tv journalism royalty, but tuesday night, brokaw introduced america to a new star in the brokaw house: his cellphone. Brokaw was live on msnbc on tuesday discussing midterm election results with rachel maddow and chris matthews when they were interrupted by a loud, disruptive alert sound. Maddow tried to dismiss it as ambient noise, but brokaw quickly fessed up: it was the alarm on his cellphone that had begun going off. \" i thought you were on fire, \" maddow joked. Many anchors would have quickly turned off the alarm and continued about their business, but brokaw has obviously been taking some improv classes these days, because he chose to turn the cellphone mishap into a \" bit. \" pressing the phone to his ear, brokaw engaged in a one-sided conversation. \" yes, i will remember to bring home the milk.... Don't worry about it, \" brokaw said. \" i ' ll feed the dog in the morning. Just sleep in, it's going to be ok. \" many viewers took to twitter to say that brokaw's cellphone shtick was the highlight of the evening. Msnbc commentator keith boykin tweeted, \" guess they didn't have that problem when he was an anchor in the 90s. \" perhaps anchors on cnn should consider some amusing watermelon smashing in 2016. Follow me on twitter: @patrickkevinday",
-            "Published on nov 4, 2014 in the midst of discussing the 2014 midterm election returns with an msnbc panel, tom brokaw is interrupted by a phone call. » subscribe to msnbc: http://on.msnbc.com/subscribetomsnbc about: msnbc is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, msnbc offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week. Connect with msnbc online visit msnbc.com: http://on.msnbc.com/readmsnbc find msnbc on facebook: http://on.msnbc.com/likemsnbc follow msnbc on twitter: http://on.msnbc.com/followmsnbc follow msnbc on google+: http://on.msnbc.com/plusmsnbc follow msnbc on instagram: http://on.msnbc.com/instamsnbc follow msnbc on tubmlr: http://on.msnbc.com/leanwithmsnbc tom brokaw answers cell phone on live tv &#124; msnbc"
+            "Tom brokaw, the longtime former anchor of \" nbc nightly news \" will always be tv journalism royalty, but tuesday night, brokaw introduced america to a new star in the brokaw house: his cellphone. Brokaw was live on msnbc on tuesday discussing midterm election results with rachel maddow and chris matthews when they were interrupted by a loud, disruptive alert sound. Maddow tried to dismiss it as ambient noise, but brokaw quickly fessed up: it was the alarm on his cellphone that had begun going off. \" i thought you were on fire, \" maddow joked. Many anchors would have quickly turned off the alarm and continued about their business, but brokaw has obviously been taking some improv classes these days, because he chose to turn the cellphone mishap into a \" bit. \" pressing the phone to his ear, brokaw engaged in a one-sided conversation. \" yes, i will remember to bring home the milk.... Don't worry about it, \" brokaw said. \" i ' ll feed the dog in the morning. Just sleep in, it's going to be ok. \" many viewers took to twitter to say that brokaw's cellphone shtick was the highlight of the evening. Msnbc commentator keith boykin tweeted, \" guess they didn't have that problem when he was an anchor in the 90s. \" perhaps anchors on cnn should consider some amusing watermelon smashing in 2016. Follow me on twitter: @patrickkevinday"
         ],
         "raw_document": [
             "Tom brokaw, the longtime former anchor of \" nbc nightly news \" will always be tv journalism royalty, but tuesday night, brokaw introduced america to a new star in the brokaw house: his cellphone. Brokaw was live on msnbc on tuesday discussing midterm election results with rachel maddow and chris matthews when they were interrupted by a loud, disruptive alert sound. Maddow tried to dismiss it as ambient noise, but brokaw quickly fessed up: it was the alarm on his cellphone that had begun going off. \" i thought you were on fire, \" maddow joked. Many anchors would have quickly turned off the alarm and continued about their business, but brokaw has obviously been taking some improv classes these days, because he chose to turn the cellphone mishap into a \" bit. \" pressing the phone to his ear, brokaw engaged in a one-sided conversation. \" yes, i will remember to bring home the milk.... Don't worry about it, \" brokaw said. \" i ' ll feed the dog in the morning. Just sleep in, it's going to be ok. \" many viewers took to twitter to say that brokaw's cellphone shtick was the highlight of the evening. Msnbc commentator keith boykin tweeted, \" guess they didn't have that problem when he was an anchor in the 90s. \" perhaps anchors on cnn should consider some amusing watermelon smashing in 2016. Follow me on twitter: @patrickkevinday",
@@ -1731,7 +1720,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1808,7 +1797,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1868,12 +1857,11 @@
     },
     {
         "idx": 25270,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Those poor kids of the jersey shore: they've been hit with numerous lawsuits, slammed by scientists, dissed by a clothing chain and the governor of their state, and banned from partying on film in florence. Now hoboken, of all places, has publicized its disdain. A spin-off to the reality show featuring nicole \" snooki \" polizzi and jennifer \" jwoww \" farley was to be filmed in the city, but the mayor denied the necessary film permit, the huffington post reports. \" based on protecting public safety and quality of life concerns for hoboken residents, the city has denied a film permit for a spin-off of the jersey shore to be filmed in public locations, \" reads a memo from mayor dawn zimmer. A letter sent to mtv notes that it has the right to appeal the decision.",
         "split": "train",
         "cleansed_document": [
-            "Getty images the mayor of hoboken does not want nicole \" snooki \" polizzi and jennifer \" jwoww \" farley's \" jersey shore \" spinoff. In a new letter to jim bianco and 495 productions, mayor dawn zimmer has officially denied the request to let the spinoff take place in hoboken. In the letter, zimmer says the city has denied the request for a film permit. \" based on protecting public safety and quality of life concerns for hoboken residents, the city has denied a film permit for a spin-off of the ' jersey shore'to be filmed in public locations. \" in mid-january, mtv and 495 production began scouting locations for snooki and jwoww's spinoff. The show featuring jwoww and snooki was originally announced in april 2011, along with one following pauly d and his dj career. \" always inseparable and ready to get the party started at the shore, viewers will get to see how they deal with life and love when the vacation is over in this 12-episode series, \" a statement from mtv described jwoww and snooki's spinoff. \" the locale may be different, but the friendship is sure to remain the same. \" click here to download the full letter from mayor zimmer to bianco and mtv, and watch her explain her decision on \" good day ny \" below.",
-            "The seed for this crawl was a list of every host in the wayback machine this crawl was run at a level 1 ( urls including their embeds, plus the urls of all outbound links including their embeds ) the warc files associated with this crawl are not currently available to the general public."
+            "Getty images the mayor of hoboken does not want nicole \" snooki \" polizzi and jennifer \" jwoww \" farley's \" jersey shore \" spinoff. In a new letter to jim bianco and 495 productions, mayor dawn zimmer has officially denied the request to let the spinoff take place in hoboken. In the letter, zimmer says the city has denied the request for a film permit. \" based on protecting public safety and quality of life concerns for hoboken residents, the city has denied a film permit for a spin-off of the ' jersey shore'to be filmed in public locations. \" in mid-january, mtv and 495 production began scouting locations for snooki and jwoww's spinoff. The show featuring jwoww and snooki was originally announced in april 2011, along with one following pauly d and his dj career. \" always inseparable and ready to get the party started at the shore, viewers will get to see how they deal with life and love when the vacation is over in this 12-episode series, \" a statement from mtv described jwoww and snooki's spinoff. \" the locale may be different, but the friendship is sure to remain the same. \" click here to download the full letter from mayor zimmer to bianco and mtv, and watch her explain her decision on \" good day ny \" below."
         ],
         "raw_document": [
             "Getty images the mayor of hoboken does not want nicole \" snooki \" polizzi and jennifer \" jwoww \" farley's \" jersey shore \" spinoff. In a new letter to jim bianco and 495 productions, mayor dawn zimmer has officially denied the request to let the spinoff take place in hoboken. In the letter, zimmer says the city has denied the request for a film permit. \" based on protecting public safety and quality of life concerns for hoboken residents, the city has denied a film permit for a spin-off of the ' jersey shore'to be filmed in public locations. \" in mid-january, mtv and 495 production began scouting locations for snooki and jwoww's spinoff. The show featuring jwoww and snooki was originally announced in april 2011, along with one following pauly d and his dj career. \" always inseparable and ready to get the party started at the shore, viewers will get to see how they deal with life and love when the vacation is over in this 12-episode series, \" a statement from mtv described jwoww and snooki's spinoff. \" the locale may be different, but the friendship is sure to remain the same. \" click here to download the full letter from mayor zimmer to bianco and mtv, and watch her explain her decision on \" good day ny \" below.",
@@ -1888,7 +1876,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1913,7 +1901,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1994,12 +1982,11 @@
     },
     {
         "idx": 25275,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Deez nuts may be the most notorious of this year's alternative presidential candidates, but he's not the only one. In fact, there are more than 1,200 \" solitary fringe presidential aspirants, \" as kevin hogan calls them in the atlantic, even though most of them will likely never make their way onto a state ballot. It's not hard to become a potus contender, hogan explains: all a candidate has to do is complete and send in forms found on the federal election commission's website. But whether you throw your lot in as a republican ( almost 200 of them so far ), democrat ( more than 130 ), another party, or as an independent, you can, \" for the rest of your life … claim, ' i ran for president! ' even if you only got 15 votes in new hampshire, \" a former senior legal analyst for cnn tells the magazine. There are way more contenders this time around than in the last election, which counted just under 420 applicants. The atlantic notes the publicity garnered by mr. Nuts may have upped interest in the gig, though many are obviously jokes — unless mickey mouse and the tom brady sketch really are making a serious run for the white house — and some are concentrating on decidedly niche agendas: for example, a democrat who contacted hogan has a foreign policy that revolves around swimming pools due to the heat exhaustion she's experienced. But then there are the ostensibly serious candidates who got \" acrimonious \" with hogan after getting pressed about their runs, including a 74-year-old man who says he first got a vision of becoming president when he was 4. \" i write books, \" he told hogan. \" i have a giant sense of words, world orders, and word hors oeuvres [ sic ] — a new word order. I speak, i win. I have a date with the universe i cannot be late. \" so there's that.",
         "split": "train",
         "cleansed_document": [
-            "There are more than 1,000 of them, but you probably won't get to vote for them. On the outskirts of the political mainstream, in the cavernous recesses of american democracy, lie the solitary fringe presidential aspirants: more than 1,200 of them. They're people from forgotten little towns; people passionate about an issue; people who want to be heard; people with quirky lifestyles and even quirkier beliefs. \"i am running as an independent candidate for the presidency, as i believe that the two-party system is no longer working for our country, \" said missouri resident dale hoinoski, a retired marine who sports an anti-mustache, modified amish beard. The unabashed christian vows to \"stop abortions, \" keep the \"feds \" out of education, and institute a program using marijuana oil to fuel american vehicles. Latest from politics the atlantic politics &amp; policy daily: trump's charity problems begin to tax his campaign caesar saint augustine de buonaparte emperor of the united states of turtle island has been running for president since 1996. His statement of candidacy emulates a 1980s-era socialist zine, with a big \"god blast america \" headline, images of baby iraq war victims, and other typeset ramblings. The absolute dictator party candidate from los angeles aptly chose president's day to file his paperwork. He derides government corruption and the",
-            "In 1975, congress created the federal election commission ( fec ) to administer and enforce the federal election campaign act ( feca ) - the statute that governs the financing of federal elections. The duties of the fec, which is an independent regulatory agency, are to disclose campaign finance information, to enforce the provisions of the law such as the limits and prohibitions on contributions, and to oversee the public funding of presidential elections. After that, an archive copy of this website will be available at classic.fec.gov fec.gov is getting an update. Our new design arrives may 2017. 2012 presidential form 2 filers the table below lists all individuals who have filed a statement of candidacy ( fec form 2 ) with the fec to register as a 2012 presidential candidate. Each individual who is a candidate for federal office must file an fec form 2 within 15 days of becoming a candidate. The candidate may file this form on paper or electronically. Paper filers may choose to send a letter that contains the information required on the fec form 2, in lieu of the form itself. Under the federal election campaign act of 1971, as amended ( the act ), an individual becomes a candidate for federal office when: the individual has received contributions aggregating in excess of $ 5,000 or made expenditures aggregating in excess of $ 5,000; or the"
+            "There are more than 1,000 of them, but you probably won't get to vote for them. On the outskirts of the political mainstream, in the cavernous recesses of american democracy, lie the solitary fringe presidential aspirants: more than 1,200 of them. They're people from forgotten little towns; people passionate about an issue; people who want to be heard; people with quirky lifestyles and even quirkier beliefs. \"i am running as an independent candidate for the presidency, as i believe that the two-party system is no longer working for our country, \" said missouri resident dale hoinoski, a retired marine who sports an anti-mustache, modified amish beard. The unabashed christian vows to \"stop abortions, \" keep the \"feds \" out of education, and institute a program using marijuana oil to fuel american vehicles. Latest from politics the atlantic politics &amp; policy daily: trump's charity problems begin to tax his campaign caesar saint augustine de buonaparte emperor of the united states of turtle island has been running for president since 1996. His statement of candidacy emulates a 1980s-era socialist zine, with a big \"god blast america \" headline, images of baby iraq war victims, and other typeset ramblings. The absolute dictator party candidate from los angeles aptly chose president's day to file his paperwork. He derides government corruption and the"
         ],
         "raw_document": [
             "There are more than 1,000 of them, but you probably won't get to vote for them. On the outskirts of the political mainstream, in the cavernous recesses of american democracy, lie the solitary fringe presidential aspirants: more than 1,200 of them. They're people from forgotten little towns; people passionate about an issue; people who want to be heard; people with quirky lifestyles and even quirkier beliefs. \"i am running as an independent candidate for the presidency, as i believe that the two-party system is no longer working for our country, \" said missouri resident dale hoinoski, a retired marine who sports an anti-mustache, modified amish beard. The unabashed christian vows to \"stop abortions, \" keep the \"feds \" out of education, and institute a program using marijuana oil to fuel american vehicles. Latest from politics the atlantic politics &amp; policy daily: trump's charity problems begin to tax his campaign caesar saint augustine de buonaparte emperor of the united states of turtle island has been running for president since 1996. His statement of candidacy emulates a 1980s-era socialist zine, with a big \"god blast america \" headline, images of baby iraq war victims, and other typeset ramblings. The absolute dictator party candidate from los angeles aptly chose president's day to file his paperwork. He derides government corruption and the",
@@ -2014,7 +2001,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2045,7 +2032,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -2100,12 +2087,11 @@
     },
     {
         "idx": 25279,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "One word in a press release put out by fordham university law school in new york has attracted international attention — attention strong enough to get fordham to tweak the release. The egregious word? \" fiancé. \" it was written in reference to kei komuro, who is set to begin studying for his master's degree in law on a full scholarship next month. He's also engaged to marry japan's princess mako. The press release identified him as her \" fiancé, \" and the word choice apparently rankled japan's imperial household agency, which handles royal protocol. The new york times reports a rep for the agency told reporters komuro \" does not have the status of being engaged and therefore is not a fiancé. \" the university explained the removal ( you can see the updated release here ) was done \" out of respect \" for the agency's protocol and traditions, one of which is the nosai no gi — a royal engagement ceremony that was supposed to occur on march 4. It was postponed after the agency in february announced the 26-year-olds ' wedding wouldn't occur in november as planned, with the japan times reporting at the time that a \" lack of preparation \" and \" immaturity \" were cited as the reasons for the delay to 2020, though tabloids have speculated that alleged financial troubles on the part of komuro's mother played a part. The japan times used the word \" fiancé \" in its own report on komuro's university plans, noting that after the one-year program, he hopes to continue for two more years in order to secure a degree that would allow him to practice law in the us. ( mako will lose her royal status after the wedding. )",
         "split": "train",
         "cleansed_document": [
-            "Tokyo — ordinarily, fordham university law school in new york does not publicize an incoming student who is about to matriculate. But kei komuro is no ordinary student. He is the fiancé of princess mako, the eldest grandchild of japan's emperor akihito, head of the world's oldest monarchy. Or is he? on thursday, in response to a request by japan's imperial household agency, which oversees the ceremonial functions and protocols of the royal family, fordham removed a phrase from a news release that had trumpeted mr. Komuro, a paralegal in tokyo, as the \"fiancé of princess mako of japan. \" as demonstrated by the recent wedding of prince harry of britain and meghan markle, a biracial, divorced american, any commoner who marries into a royal family is subjected to intense scrutiny.",
-            "Kei komuro, a paralegal at the okuno &amp; partners law firm in japan who is engaged to be married to japan's princess mako, will attend fordham law school starting in august. He has received the michael m. Martin scholarship. The martin scholarship is a merit scholarship covering the full cost of tuition from fordham law based on his strong academic and other credentials. The martin scholarship is not a loan and does not need to be repaid. He will enter the law school's one-year ll.m. Program and then hopes to continue for two more years to receive a j.d. The law school's ll.m. Program is structured on two interdependent principles: globalization and specialization. The eight ll.m. Degrees offer the opportunity to specialize in fields that are evolving as the law, economy, technology, and times demand. This spring, 181 students were enrolled in the ll.m. Program, six of them from japan. More information about the ll.m. Program is here."
+            "Tokyo — ordinarily, fordham university law school in new york does not publicize an incoming student who is about to matriculate. But kei komuro is no ordinary student. He is the fiancé of princess mako, the eldest grandchild of japan's emperor akihito, head of the world's oldest monarchy. Or is he? on thursday, in response to a request by japan's imperial household agency, which oversees the ceremonial functions and protocols of the royal family, fordham removed a phrase from a news release that had trumpeted mr. Komuro, a paralegal in tokyo, as the \"fiancé of princess mako of japan. \" as demonstrated by the recent wedding of prince harry of britain and meghan markle, a biracial, divorced american, any commoner who marries into a royal family is subjected to intense scrutiny."
         ],
         "raw_document": [
             "Tokyo — ordinarily, fordham university law school in new york does not publicize an incoming student who is about to matriculate. But kei komuro is no ordinary student. He is the fiancé of princess mako, the eldest grandchild of japan's emperor akihito, head of the world's oldest monarchy. Or is he? on thursday, in response to a request by japan's imperial household agency, which oversees the ceremonial functions and protocols of the royal family, fordham removed a phrase from a news release that had trumpeted mr. Komuro, a paralegal in tokyo, as the \"fiancé of princess mako of japan. \" as demonstrated by the recent wedding of prince harry of britain and meghan markle, a biracial, divorced american, any commoner who marries into a royal family is subjected to intense scrutiny.",
@@ -2120,7 +2106,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2198,7 +2184,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2227,12 +2213,11 @@
     },
     {
         "idx": 25284,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The mother of slain 8-year-old maddy middleton doesn't blame the mother of alleged killer adrian jerry gonzalez, 15. In fact, she says she's consoling her friend while dealing with the unimaginable loss of her daughter. Laura jordan, maddy's mom, says she found reggie factor on her knees at a memorial for maddy, sobbing uncontrollably, cursing her son, and crying to god. Jordan knelt beside factor, hugged her, and told her, \" i love you, i don't blame you … it's not your fault, \" she tells the san francisco chronicle. \" we both lost our children that day. That's the tragic truth. \" the community is continuing to mourn maddy, found in a dumpster in santa cruz. Her mom remembers her as a small but feisty girl with the energy of \" 3½ kids in one. \" she was always social, her mom says. She was also an animal lover who had a soft spot for wolves. So on friday, jordan howled at the blue moon. She wasn't alone: howling could be heard across santa cruz as #howlformaddy spread online. Meanwhile, donations have been flowing to two gofundme pages set up for the family. Jordan hopes to donate to causes related to mental health and childhood sexual abuse, or even start her own charity. \" my daughter was sacrificed, but she didn't die in vain, \" jordan says. \" so much good is coming from her death. \" kron reports gonzalez, who next appears in court sept. 21, may be linked to a november shooting threat at santa cruz high school, where he was a sophomore. A person claiming responsibility told the santa cruz sentinel he had \" crippling anxiety \" — a phrase that recently appeared on gonzalez's now-deleted instagram account. ( click for more on the case. )",
         "split": "train",
         "cleansed_document": [
-            "Mothers of slain santa cruz girl, defendant share their pain photo: connor radnovich, the chronicle image 1 of / 10 caption close image 1 of 10 laura jordan hugs elijah pfotenhauer in front of madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Elijah pfotenhauer is helping create the art project in memory of her daughter at the tannery arts center. Less laura jordan hugs elijah pfotenhauer in front of madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Elijah pfotenhauer is helping create the art... More photo: connor radnovich, the chronicle image 2 of 10 laura jordan holds a memorial flower decorated by schoolchildren at madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Laura jordan holds a memorial flower decorated by schoolchildren at madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Photo: connor radnovich, the chronicle image 3 of 10 laura jordan ( right ) covers her mouth with her hand at the sight of a project a few residents, including adrian rasmussen ( left ), are creating in memory of her daughter at the tannery arts center in santa cruz, california, on saturday, aug.",
-            "Santa cruz ( kron ) — the santa cruz community continues to mourn the death of 8-year-old maddy middleton. She was allegedly kidnapped and killed by a 15-year-old neighbor she knew and trusted. Kron 4's alecia reid was at the district attorney's office monday night, where we are learning the suspect, adrian gonzalez may be tied to a death threat in 2014. \"crippling anxiety \" are the words adrian gonzalez used to describe himself on his instagram page prior to his arrest. Kron 4 visited his page before it was it was deleted, and on it, the 15-year-old said \"wears all black to try and look powerful … and hide the crippling anxiety towards the future, and the constant worry that i ' ll never find someone who loves me. \" in november, an unnamed individual sent a threatening email to santa cruz high school, claiming a high-powered rifle would be used to kill fellow students in the cafeteria. Gonzalez was a sophomore there. A day after the threat, someone anonymously reached out to the santa cruz sentinel newspaper claiming responsibility but said he was not \"homicidal, just a thrill seeker \". That person also said he was wracked with guilt and had \"crippling anxiety. \" that is the same phrase the teenager used on his instagram page."
+            "Mothers of slain santa cruz girl, defendant share their pain photo: connor radnovich, the chronicle image 1 of / 10 caption close image 1 of 10 laura jordan hugs elijah pfotenhauer in front of madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Elijah pfotenhauer is helping create the art project in memory of her daughter at the tannery arts center. Less laura jordan hugs elijah pfotenhauer in front of madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Elijah pfotenhauer is helping create the art... More photo: connor radnovich, the chronicle image 2 of 10 laura jordan holds a memorial flower decorated by schoolchildren at madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Laura jordan holds a memorial flower decorated by schoolchildren at madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Photo: connor radnovich, the chronicle image 3 of 10 laura jordan ( right ) covers her mouth with her hand at the sight of a project a few residents, including adrian rasmussen ( left ), are creating in memory of her daughter at the tannery arts center in santa cruz, california, on saturday, aug."
         ],
         "raw_document": [
             "Mothers of slain santa cruz girl, defendant share their pain photo: connor radnovich, the chronicle image 1 of / 10 caption close image 1 of 10 laura jordan hugs elijah pfotenhauer in front of madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Elijah pfotenhauer is helping create the art project in memory of her daughter at the tannery arts center. Less laura jordan hugs elijah pfotenhauer in front of madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Elijah pfotenhauer is helping create the art... More photo: connor radnovich, the chronicle image 2 of 10 laura jordan holds a memorial flower decorated by schoolchildren at madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Laura jordan holds a memorial flower decorated by schoolchildren at madyson jordan middleton's memorial at the tannery arts center in santa cruz, california, on saturday, aug. 1, 2015. Photo: connor radnovich, the chronicle image 3 of 10 laura jordan ( right ) covers her mouth with her hand at the sight of a project a few residents, including adrian rasmussen ( left ), are creating in memory of her daughter at the tannery arts center in santa cruz, california, on saturday, aug.",
@@ -2247,7 +2232,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2272,17 +2257,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 25286,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Shaking heads. Disgusted looks. Giggles. These are all reactions you ' ll spot in a youtube video documenting a mexico city subway experiment that definitely caught commuters ' attention. In what's described as an empathy-building campaign, the city's government teamed up with un women to create the #noesdehombres campaign ( per the new york times, that translates to \" this isn't manly \" ), created to show how women regularly deal with sexual harassment. In the \" experimento asiento \" ad by the j. Walter thompson agency, the camera shows what happens when people riding the mexico city subway spy a repurposed seat, with the top half designed to look like a male torso, the bottom half like a penis, right where someone would sit. A sign in front of the seat reads: \" it is annoying to travel this way, but not compared to the sexual violence women suffer in their daily commutes. \" \" we need to make clear that [ harassment ] is violent, not flattering, \" ana guemez, the director of the mexican un women office, tells the times, which notes the goal was to put the onus on men for this behavior, not on women. Various surveys show women in mexico in general ( and in mexico city specifically ) are prone to feeling unsafe or reporting they were groped or harassed while on public transportation. The bbc notes the video, which has so far been viewed more than 1.7 million times, is receiving mixed reaction, with some hailing it and others calling it sexist. \" it's important not to stigmatize all men as violent and potential attackers of women, \" says the chief of a mexican group working to educate men on sexual harassment. J. Walter thompson also created a second ad showing men's butts. ( a mexican man was acquitted of sexual assault because a judge found no proof of \" desire. \" )",
         "split": "train",
         "cleansed_document": [
-            "Image copyright youtube image caption the so-called \" penis seat \" appeared in a viral video showing commuters on mexico city's metro when a new style of seat suddenly appeared on mexico city's metro system, it was labelled as inappropriate, uncomfortable, humiliating and embarrassing. It was supposed to be. The seat, moulded to include a protruding penis and chest, was designed to highlight sexual harassment experienced by female passengers. The explanation next to the men-only label read: \" it is uncomfortable to sit here, but that is nothing compared to the sexual violence that women suffer on their daily journeys. \" the seat is not a permanent fixture, but part of a campaign launched by un women and the mexico city authorities called #noesdehombres, which aimed to highlight sexual harassment on public transport. But the response has been mixed. Underneath a video of the stunt, which has been seen more than 700,000 times in the past 10 days, some viewers praised the idea, while others called it \" sexist \" and unfair to men. Image copyright youtube image caption the video showed men sitting down on the seat and then jumping up again in shock gendes is a mexican civil society organisation that focuses on working with men to promote equality and combat sexual harassment, which remains a major problem in the country. Rene lopez perez, who heads their research programme, praised the campaign for taking an important issue and making it a talking point. But he also stressed the importance of not seeing all men as attackers. \" it's important not to stigmatise all men as violent and potential attackers of women, \" he said. You might also like are these the world's toughest female soldiers? three words to set alarm bells off for every firm what exactly does ivanka do at the white house? holly kearl, who founded the us-based website stop street harassment, said there was something to be said for turning the focus away from women for once. When she attended the un women safe cities global leaders ' forum in mexico city last month, she noted the onus of change was often put on women. \" too often initiatives around women's safety focus on what women should or should not do, so it is refreshing to see a creative campaign aimed at men, \" she said. Image copyright afp image caption mexico city's metro has women-only carriages the mexican capital's public transit system has long had a bad reputation for women '",
-            "Rating is available when the video has been rented. This feature is not available right now. Please try again later."
+            "Image copyright youtube image caption the so-called \" penis seat \" appeared in a viral video showing commuters on mexico city's metro when a new style of seat suddenly appeared on mexico city's metro system, it was labelled as inappropriate, uncomfortable, humiliating and embarrassing. It was supposed to be. The seat, moulded to include a protruding penis and chest, was designed to highlight sexual harassment experienced by female passengers. The explanation next to the men-only label read: \" it is uncomfortable to sit here, but that is nothing compared to the sexual violence that women suffer on their daily journeys. \" the seat is not a permanent fixture, but part of a campaign launched by un women and the mexico city authorities called #noesdehombres, which aimed to highlight sexual harassment on public transport. But the response has been mixed. Underneath a video of the stunt, which has been seen more than 700,000 times in the past 10 days, some viewers praised the idea, while others called it \" sexist \" and unfair to men. Image copyright youtube image caption the video showed men sitting down on the seat and then jumping up again in shock gendes is a mexican civil society organisation that focuses on working with men to promote equality and combat sexual harassment, which remains a major problem in the country. Rene lopez perez, who heads their research programme, praised the campaign for taking an important issue and making it a talking point. But he also stressed the importance of not seeing all men as attackers. \" it's important not to stigmatise all men as violent and potential attackers of women, \" he said. You might also like are these the world's toughest female soldiers? three words to set alarm bells off for every firm what exactly does ivanka do at the white house? holly kearl, who founded the us-based website stop street harassment, said there was something to be said for turning the focus away from women for once. When she attended the un women safe cities global leaders ' forum in mexico city last month, she noted the onus of change was often put on women. \" too often initiatives around women's safety focus on what women should or should not do, so it is refreshing to see a creative campaign aimed at men, \" she said. Image copyright afp image caption mexico city's metro has women-only carriages the mexican capital's public transit system has long had a bad reputation for women '"
         ],
         "raw_document": [
             "Watch queue queue watch queue queue remove all disconnect",
@@ -2299,7 +2283,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2385,14 +2369,13 @@
     },
     {
         "idx": 25290,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The measles outbreak traced to disneyland visitors is continuing to spread, and steps are being taken to stop it both inside and outside the california park. Five disney workers — two of them vaccinated — have been diagnosed with measles, and the park says that workers who came in contact with them and can't provide either vaccination records or proof of immunity have been placed on paid leave, reports the los angeles times. It's not clear how many visitors may have encountered the infected workers, whom disney's chief medical officer refers to as \" cast members. \" she says a few of the cast members have returned to work after being medically cleared, reports the oc register. In an orange county high school around 20 miles from disneyland, at least 24 unvaccinated students have been told to stay home until jan. 29 because they may have been exposed to the disease by an infected classmate earlier this month, reports cbs. Officials say sending students who were exposed and don't have the necessary vaccination is the only way to prevent more infections, though some accuse the district of being too strict. \" i ' m not a doctor so i can't say, but that seems extreme to me, \" one parent tells nbc. There have been 16 cases confirmed in the county — including six not directly linked to disneyland — and dozens more related cases across california, three other states, and mexico.",
         "split": "train",
         "cleansed_document": [
             "An orange county school told some students to just stay home after possible measles exposure. Annette arreola reports for the nbc4 news at noon on tuesday jan. 20, 2015. ( published tuesday, jan. 20, 2015 ) twenty students who have not been vaccinated against the measles are not be allowed on the campus of huntington beach high school for three weeks after a possible exposure to the virus, officials confirmed monday. A student with measles was on the orange county campus in early january, and could have potentially spread the highly contagious disease according to a letter sent to parents. Students who have been exposed and do not have the necessary vaccination to guard against the disease were sent home for three weeks, according to county health officials. They will not be allowed to attend",
             "A measles outbreak was traced to people at the theme park who visited between dec. 17 and 20. Since then, the highly contagious disease has spread across california, three other states and mexico. The virus has begun infecting people beyond those who visited the theme park and is now in the broader community, officials say.",
-            "Anaheim -- five disneyland employees were diagnosed with measles and some of their co-workers have been sent home, as local public health officials scramble to keep the extremely contagious disease from spreading further. The cast members had already been counted among the 16 cases previously confirmed by the orange county health care agency – a number that jumped tuesday to 18. There are now several dozen measles cases in california, oregon, utah, washington, colorado and into mexico – all tied to an outbreak that originated at disneyland and disney's california adventure park over the winter holiday. Three of the disneyland employees have returned to work after making full recoveries. \" to date, a few cast members have tested positive and some have been medically cleared and returned to work, \" said dr. Pamela hymel",
-            "A nurse loads a syringe with a vaccine against hepatitis at a free immunization clinic for students before the start of the school year, in lynwood, california august, 27, 2013. Nurses are immunizing children in preparation for the first day of public school on september 3. The clinic offers the mandatory vaccinations for school children against diphtheria, tetanus, pertussis, polio, hepatitis b, mmr ( measles, mumps, rubella ) and chickenpox as well as some optional ones. Afp photo / robyn beck ( photo credit should read robyn beck/afp/getty images ) ( credit: robyn beck/afp/getty images ) huntington beach ( cbsla.com ) — dozens of unvaccinated students have been banned from an orange county high school after being exposed to measles by an infected classmate. The 24 students cannot return to huntington beach"
+            "Anaheim -- five disneyland employees were diagnosed with measles and some of their co-workers have been sent home, as local public health officials scramble to keep the extremely contagious disease from spreading further. The cast members had already been counted among the 16 cases previously confirmed by the orange county health care agency – a number that jumped tuesday to 18. There are now several dozen measles cases in california, oregon, utah, washington, colorado and into mexico – all tied to an outbreak that originated at disneyland and disney's california adventure park over the winter holiday. Three of the disneyland employees have returned to work after making full recoveries. \" to date, a few cast members have tested positive and some have been medically cleared and returned to work, \" said dr. Pamela hymel"
         ],
         "raw_document": [
             "An orange county school told some students to just stay home after possible measles exposure. Annette arreola reports for the nbc4 news at noon on tuesday jan. 20, 2015. ( published tuesday, jan. 20, 2015 ) twenty students who have not been vaccinated against the measles are not be allowed on the campus of huntington beach high school for three weeks after a possible exposure to the virus, officials confirmed monday. A student with measles was on the orange county campus in early january, and could have potentially spread the highly contagious disease according to a letter sent to parents. Students who have been exposed and do not have the necessary vaccination to guard against the disease were sent home for three weeks, according to county health officials. They will not be allowed to attend",
@@ -2411,7 +2394,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {

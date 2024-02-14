@@ -21,7 +21,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -53,12 +53,10 @@
     },
     {
         "idx": 40502,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "A 4-year-old phoenix girl is safe after a bizarre incident involving a suspected kidnapper, reports myfoxphoenix. A police officer on his way to a burglary call about 3am stopped a bicyclist who was riding with the pajamas-clad girl in his lap. Daniel luna, 37, first said he came across the girl wandering around lost and was trying to help, but then changed his story and said he went into the wrong house after a night of bar hopping and thought the girl was his stepdaughter. Police charged luna with kidnapping and say he got into the girl's house through an unlocked door while her parents were sleeping, reports abc15. He got stopped about a block away.",
         "split": "train",
-        "cleansed_document": [
-            "Quiz: test your credit card knowledge most of us use them everyday for just about every purchase. But how much do you really know …"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Crime &amp; justice more>> teen burglary victim gets inside look into the tempe police department teen burglary victim gets inside look into the tempe police department he's 13 years-old and was home alone when two burglars broke into his tempe home.the burglars forced alexis holden to put a pillow over his head while they ransacked his house.on friday he received a reward for his bravery; he spent the day with the tempe police department, learning what it takes to be a police officer. He's 13 years-old and was home alone when two burglars broke into his tempe home.the burglars forced alexis holden to put a pillow over his head while they ransacked his house.on friday he received a reward for his bravery; he spent the day with the tempe police department, learning what it takes to be a police officer. Yes! former wwe champ catches suspected burglar yes! former wwe champ catches suspected burglar yes! yes! yes! police say a former wwe champion known as daniel bryan chased down a suspect burglar this week after the professional wrestler and his wife drove into their carport. Yes! yes! yes! police say a former wwe champion known as daniel bryan chased down a suspect burglar this week after the professional wrestler and his wife drove into their carport. Arizona's mccain: execution was torture arizona's mccain: execution was torture arizona senator john mccain ( r ) u.s. Sen. John mccain says the execution of an arizona inmate that lasted two hours was torture. U.s. Sen. John mccain says the execution of an arizona inmate that lasted two hours was torture. States ' use of execution drugs varies widely states ' use of execution drugs varies widely by the associated press the prolonged execution of an arizona death row inmate with a new, two-drug combo has highlighted the patchwork quilt approach that states now take with lethal drugs, with... By the associated press the prolonged execution of an arizona death row inmate with a new, two-drug combo has highlighted the patchwork quilt approach that states now take with lethal drugs, with types,...",
             "Quiz: test your credit card knowledge most of us use them everyday for just about every purchase. But how much do you really know …"
@@ -72,17 +70,16 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 40503,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Facebook may have been peeved about people not using their real names on its main site, but it's apparently willing to try out anonymity on mobile devices. The company is said to be working on a stand-alone app that would allow users to interact without having to provide their real names, say sources who ( fittingly ) spoke on condition of anonymity to the new york times. The app, said to be scheduled for release over the next few weeks, is ostensibly designed to assure users they can comfortably discuss sensitive topics — perhaps health care or other subjects \" in which not using one's real name is beneficial, \" the sources say. The team has reportedly been experimenting with different incarnations of the app for the past year or so; it's unclear if and how the app would sync up with a user's main facebook account. Mark zuckerberg has given signs before that facebook may be willing to venture into anonymous territory, including introducing an anonymous login feature in april that limits what info users let third-party apps see, reuters reported. The times notes, however, that no one's sure yet how facebook will keep the trolls in check — a problem even the company's chief product officer acknowledged in a facebook post last week. \" the stories of mass impersonation, trolling, domestic abuse, and higher rates of bullying and intolerance are oftentimes the result of people hiding behind fake names, and it's both terrifying and sad, \" he wrote. Regarding the supposed app, a facebook spokesman informs the times \" the company does not comment on rumor or speculation. \"",
         "split": "train",
         "cleansed_document": [
-            "A smartphone user shows the facebook application on his phone in the central bosnian town of zenica, in this photo illustration, may 2, 2013. San francisco facebook introduced new features on wednesday that let users limit how much personal information they share with third-party mobile apps, a move meant to quell privacy concerns as the social network seeks to become a top entry port to the internet. In recent years, facebook inc has successfully encouraged a growing number of third-party app makers to allow users to log in with their facebook identity rather than, say, by entering an email address or creating a dedicated account. The result has been an influx of valuable data for the world's no. 1 social network, but concerns have also mounted about third-party developers gaining access to private information. Chief executive mark zuckerberg said at facebook's developer conference in san francisco on wednesday that a new version of facebook's log-in tool, called \" log in anonymously, \" would let users control what information they allow third-party apps to see. He told developers the tool would let users feel more comfortable about logging into apps using facebook. \" by giving people more power and control, they're going to trust all the apps that we build more, and over time use them more. And that's positive for everyone, \" said zuckerberg. The revamped log-in screen will let users select which personal information stored on the social network, such as an email address, birthday or items that they have \" liked \" on facebook, can be accessed by any particular app. The user's names and gender will remain visible to the app. On wednesday, the social network also rolled out a new service to distribute ads across a network of mobile applications, opening the door to a new source of revenue. The service, which has been in the works on for some time, allows mobile-app makers to insert various ads within their software, with facebook sharing advertising dollars with the developers. \" this is really the first time that we're going to help you monetize in a serious way on mobile, \" zuckerberg said. Facebook faces tough competition in the active mobile ad network market. Google inc's admob service already allows advertisers to distribute ads to mobile apps, while twitter inc said on tuesday that its",
-            "This is a set of web collections curated by mark graham using the archive-it service of the internet archive. They include web captures of the iskme.org website as well as captures from sites hosted by igc.org.these web captures are available to the general public.for more information about this collection please feel free to contact mark via send mail"
+            "A smartphone user shows the facebook application on his phone in the central bosnian town of zenica, in this photo illustration, may 2, 2013. San francisco facebook introduced new features on wednesday that let users limit how much personal information they share with third-party mobile apps, a move meant to quell privacy concerns as the social network seeks to become a top entry port to the internet. In recent years, facebook inc has successfully encouraged a growing number of third-party app makers to allow users to log in with their facebook identity rather than, say, by entering an email address or creating a dedicated account. The result has been an influx of valuable data for the world's no. 1 social network, but concerns have also mounted about third-party developers gaining access to private information. Chief executive mark zuckerberg said at facebook's developer conference in san francisco on wednesday that a new version of facebook's log-in tool, called \" log in anonymously, \" would let users control what information they allow third-party apps to see. He told developers the tool would let users feel more comfortable about logging into apps using facebook. \" by giving people more power and control, they're going to trust all the apps that we build more, and over time use them more. And that's positive for everyone, \" said zuckerberg. The revamped log-in screen will let users select which personal information stored on the social network, such as an email address, birthday or items that they have \" liked \" on facebook, can be accessed by any particular app. The user's names and gender will remain visible to the app. On wednesday, the social network also rolled out a new service to distribute ads across a network of mobile applications, opening the door to a new source of revenue. The service, which has been in the works on for some time, allows mobile-app makers to insert various ads within their software, with facebook sharing advertising dollars with the developers. \" this is really the first time that we're going to help you monetize in a serious way on mobile, \" zuckerberg said. Facebook faces tough competition in the active mobile ad network market. Google inc's admob service already allows advertisers to distribute ads to mobile apps, while twitter inc said on tuesday that its"
         ],
         "raw_document": [
             "A smartphone user shows the facebook application on his phone in the central bosnian town of zenica, in this photo illustration, may 2, 2013. San francisco facebook introduced new features on wednesday that let users limit how much personal information they share with third-party mobile apps, a move meant to quell privacy concerns as the social network seeks to become a top entry port to the internet. In recent years, facebook inc has successfully encouraged a growing number of third-party app makers to allow users to log in with their facebook identity rather than, say, by entering an email address or creating a dedicated account. The result has been an influx of valuable data for the world's no. 1 social network, but concerns have also mounted about third-party developers gaining access to private information. Chief executive mark zuckerberg said at facebook's developer conference in san francisco on wednesday that a new version of facebook's log-in tool, called \" log in anonymously, \" would let users control what information they allow third-party apps to see. He told developers the tool would let users feel more comfortable about logging into apps using facebook. \" by giving people more power and control, they're going to trust all the apps that we build more, and over time use them more. And that's positive for everyone, \" said zuckerberg. The revamped log-in screen will let users select which personal information stored on the social network, such as an email address, birthday or items that they have \" liked \" on facebook, can be accessed by any particular app. The user's names and gender will remain visible to the app. On wednesday, the social network also rolled out a new service to distribute ads across a network of mobile applications, opening the door to a new source of revenue. The service, which has been in the works on for some time, allows mobile-app makers to insert various ads within their software, with facebook sharing advertising dollars with the developers. \" this is really the first time that we're going to help you monetize in a serious way on mobile, \" zuckerberg said. Facebook faces tough competition in the active mobile ad network market. Google inc's admob service already allows advertisers to distribute ads to mobile apps, while twitter inc said on tuesday that its",
@@ -97,7 +94,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -175,7 +172,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -339,12 +336,11 @@
     },
     {
         "idx": 40513,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The gop has spent a lot of time lately decrying the bias driving polls that show president obama opening up a lead over mitt romney, but nate silver takes a look at how final polls have historically performed against results, and finds that while they have occasionally missed the mark, \" polls have no such history of partisan bias, \" he writes at fivethirtyeight. The biggest miss was in 1980, when late polls showed ronald reagan with a 2- or 3-point lead; he ended up trouncing jimmy carter by 10 points. But that election was made unusually volatile by a single, late-in-the-cycle debate that didn't have time to register in polling and the presence of a third-party candidate, silver says. In the 10 elections since 1972, polls have \" overestimated \" dems ' edge five times, the gop four times, and nailed barack obama's margin of victory on the head. Accusations of partisanship, concludes silver, are most likely \" wishful thinking. \" click for silver's full column, or take a look at a few of the latest polls out there: in ohio, obama has opened up a 51 % to 42 % lead over romney, reports the columbus dispatch. In iowa, the incumbent is leading romney by 49 % to 45 %, according to a poll out yesterday by the des moines register. But with widespread disapproval over obama's economic stewardship, romney has an opening. In massachusetts, elizabeth warren has opened up a 43 % to 38 % lead over scott brown in their closely contested senate race, according to a boston globe poll. But with a debate set for tomorrow night and a hefty 18 % of voters undecided, that number could swing substantially.",
         "split": "train",
         "cleansed_document": [
-            "With elizabeth warren and senator scott brown preparing for their second debate monday night, warren appears to be inching ahead in the highly competitive race for senate, as massachusetts democrats energized by the presidential race begin to fall in line behind her, according to a new globe poll. Warren, a democrat, leads brown, a republican, 43 percent to 38 percent, a shift from the globe's last poll in may, when brown held a 2-point lead. But the race remains within either candidate's grasp, with 18 percent of voters still undecided, said andrew e. Smith, the globe's pollster and the director of the university of new hampshire survey center. This survey is the sixth of eight public polls taken this month that show warren ahead. Advertisement - continue reading below warren's lead is within the poll's margin of error of plus",
-            "From day one, mitt romney's bid for the presidency has rested on the belief that his ability to turn around faltering businesses would translate into turning around the country. But before he has that chance, it appears the former massachusetts governor first must turn around his own campaign. From day one, mitt romney's bid for the presidency has rested on the belief that his ability to turn around faltering businesses would translate into turning around the country. But before he has that chance, it appears the former massachusetts governor first must turn around his own campaign. A new dispatch poll shows him trailing president barack obama in bellwether ohio by 9 points, 51 percent to 42 percent. A surge of democratic support for obama has transformed the race since the first dispatch poll had the two dead-even at 45 percent just before the republican national convention in late august. The survey"
+            "With elizabeth warren and senator scott brown preparing for their second debate monday night, warren appears to be inching ahead in the highly competitive race for senate, as massachusetts democrats energized by the presidential race begin to fall in line behind her, according to a new globe poll. Warren, a democrat, leads brown, a republican, 43 percent to 38 percent, a shift from the globe's last poll in may, when brown held a 2-point lead. But the race remains within either candidate's grasp, with 18 percent of voters still undecided, said andrew e. Smith, the globe's pollster and the director of the university of new hampshire survey center. This survey is the sixth of eight public polls taken this month that show warren ahead. Advertisement - continue reading below warren's lead is within the poll's margin of error of plus"
         ],
         "raw_document": [
             "With elizabeth warren and senator scott brown preparing for their second debate monday night, warren appears to be inching ahead in the highly competitive race for senate, as massachusetts democrats energized by the presidential race begin to fall in line behind her, according to a new globe poll. Warren, a democrat, leads brown, a republican, 43 percent to 38 percent, a shift from the globe's last poll in may, when brown held a 2-point lead. But the race remains within either candidate's grasp, with 18 percent of voters still undecided, said andrew e. Smith, the globe's pollster and the director of the university of new hampshire survey center. This survey is the sixth of eight public polls taken this month that show warren ahead. Advertisement - continue reading below warren's lead is within the poll's margin of error of plus",
@@ -361,18 +357,17 @@
         "vote_count": {
             "0": 2,
             "1": 4,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 40514,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Today's big debate on health care reform seems to be whether the supreme court's conservatives were acting more like legislators than justices. Voices on the left think so and are raising cries of judicial activism. Pundits on the right disagree. A roundup of samples: ej dionne, washington post: hey, he wonders, aren't liberal judges supposed to be the ones guilty of judicial activism? you wouldn't know it from the way antonin scalia and crew were acting — as if they were \" they were members of the senate health, education, labor, and pensions committee. \" he even trots out the term \" judicial dictatorship. \" if the law is struck down, \" a court that gave us bush v. Gore will prove conclusively that it sees no limits on its power, no need to defer to those elected to make our laws. A supreme court that is supposed to give us justice will instead deliver ideology. \" jonathan chait, new york: he's on board with dionne. The idea \" that republican jurisprudence would be defined by aggressive economic judicial activism \" would have seemed far-fetched not too long ago. \" but just as there are few atheists in foxholes, there aren't a lot of justices of any persuasion willing to walk away from a chance to overturn a duly-passed law that they personally detest. Full post here. Neil snyder, american prospect: he picks apart dionne's column specifically. Judicial dictatorship? \" nothing could be further from the truth, and even suggesting that obamacare was the product of the democratic process is dishonest. \" the justices aren't trying to \" nullify the legislative process \" because there was no legislative process. The individual mandate is unconstitutional pure and simple, he writes, and that's why it should fall. Full post here. William teach, right wing news: he, too, takes on dionne. Remember, he writes, one of the purposes of the court is \" to be a check against the powers of the legislative and executive branches, to make sure they stay within the framework of the constitution. Why do conservatives constantly have to teach liberals these things? \" full post here.",
         "split": "train",
         "cleansed_document": [
             "In the morning session — in which the court weighed how much of the law should stand if the mandate is ruled unconstitutional — scalia cited the horsetrading required to pass the bill — including the politically embarrassing, and failed, cornhusker kickback. He also admitted that he'd like to see the whole law fall if the mandate is ruled out of bounds. In the afternoon, he took pains to remind the court of the unpopularity of the individual mandate. The exchange occurred when solicitor general donald verrilli jr. Rejected a hypothetical that relied on the notion of congress passing a massive new tax. This, he argued, would have to overcome massive political constraints. At that point scalia chimed in: he would've thought the individual mandate would also be too much of a political liability to ever pass congress.",
-            "E.j. Dionne works hard to spin a possible defeat of the individual mandate as we await the decision from the supreme court regarding the mandate, and perhaps even the striking down of obamacare, liberals are searching hard for ways to show that the problem wasn't the law, but with the people who rule on the law. I highlighted a bit of that yesterday. And here comes ultra-liberal e.j. Dionne, who attempts to paint the conservatives on the court as \"activists \" three days of supreme court arguments over the health-care law demonstrated for all to see that conservative justices are prepared to act as an alternative legislature, diving deeply into policy details as if they were members of the senate health, education, labor and pensions committee. Senator, excuse me, justice samuel alito quoted congressional budget office figures on tuesday to talk about the insurance costs of the young. On wednesday, chief justice john roberts sounded",
-            "Political cowardice in the senate and house isn't unconstitutional, but the individual mandate is by while i was a professor at the university of virginia, the washington post was my daily paper. For 25 years, i read it every morning at about 4: 00. The post is regarded as a liberal newspaper, but by and large it covers global news events with a reasonable degree of balance. If you want real balance, though, you must be willing to do some digging. There is bias in everything you read, hear, and see. It's unavoidable and understandable, so it's our job to find content that presents the balance that we seek. You must cast your net broadly if you hope to haul in a balanced catch. Some of the post's columnists make no effort to be objective and balanced, e.j. Dionne being chief among them. His view of"
+            "E.j. Dionne works hard to spin a possible defeat of the individual mandate as we await the decision from the supreme court regarding the mandate, and perhaps even the striking down of obamacare, liberals are searching hard for ways to show that the problem wasn't the law, but with the people who rule on the law. I highlighted a bit of that yesterday. And here comes ultra-liberal e.j. Dionne, who attempts to paint the conservatives on the court as \"activists \" three days of supreme court arguments over the health-care law demonstrated for all to see that conservative justices are prepared to act as an alternative legislature, diving deeply into policy details as if they were members of the senate health, education, labor and pensions committee. Senator, excuse me, justice samuel alito quoted congressional budget office figures on tuesday to talk about the insurance costs of the young. On wednesday, chief justice john roberts sounded"
         ],
         "raw_document": [
             "In the morning session — in which the court weighed how much of the law should stand if the mandate is ruled unconstitutional — scalia cited the horsetrading required to pass the bill — including the politically embarrassing, and failed, cornhusker kickback. He also admitted that he'd like to see the whole law fall if the mandate is ruled out of bounds. In the afternoon, he took pains to remind the court of the unpopularity of the individual mandate. The exchange occurred when solicitor general donald verrilli jr. Rejected a hypothetical that relied on the notion of congress passing a massive new tax. This, he argued, would have to overcome massive political constraints. At that point scalia chimed in: he would've thought the individual mandate would also be too much of a political liability to ever pass congress.",
@@ -389,7 +384,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -475,7 +470,7 @@
             "0": 2,
             "1": 1,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -503,7 +498,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -535,13 +530,12 @@
     },
     {
         "idx": 40520,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Jason alexander is sort of wishing he hadn't retold an old seinfeld story to howard stern on wednesday. As alexander, aka george costanza, explains on twitlonger, stern asked about the actress who played george's fiancee susan, who was killed by toxic glue on the show. When stern said, \" julia [ louis-dreyfus ] told me you all wanted to kill her, \" alexander explains, he wanted to clarify that \" no one wanted to kill heidi [ swedberg ], \" the actress. But in doing so, he managed to tell the story in such a way as to prompt headlines like \" seinfeld cast hated susan so larry david killed her off. \" in his apology post yesterday, alexander notes that he feels \" officially awful \" and begs, \" oh dear god, leave heidi alone.... She was generous and gracious and i am so mad at myself for retelling this story in any way that would diminish her. \" \" i and the cast really liked and like heidi. She is a kind, lovely person who undoubtedly worked really hard to create susan and that character was clearly what larry and jerry wanted her to be for george. I just felt i was on uncertain ground in how to play off that character and i was always concerned that it wasn't working, \" alexander writes, adding that swedberg often asked for feedback, and \" if i had had more maturity or more security in my own work, i surely would have taken her query and possibly tried to adjust the scenes with her. \" as for the seinfeld stars joking about killing her off, he notes, they meant susan, not heidi — and since larry david and jerry seinfeld \" were always looking for an inventive end to the engagement, \" the idea took hold. \" i actually launched into this on stern to defend \" swedberg, he concludes. \" but this is why i ' m not a lawyer. \" ( check out 25 stars you didn't know were on seinfeld. )",
         "split": "train",
         "cleansed_document": [
             "Her acting clashed with her costars ' — not that there's anything wrong with that. \"seinfeld \" star jason alexander has revealed in an interview that the hit sitcom's cast decided to kill off his character's unbearable fiancée because she was \"f- -king impossible \" to work with. The actor, who played the hapless george costanza, told howard stern that actress heidi swedberg was given the ax after co-stars jerry seinfeld and julia louis-dreyfus both agreed she was not jibing with the cast. \"and julia actually said, 'don't you want to just kill her? ' and larry [ david, the series ' co-creator ] went, 'kabang! now we gotta kill her! ' \" alexander recalled on the \"howard stern show \" on sirius xm radio. Swedberg's character, susan ross, was famously killed off in an 1996 episode titled \"the invitations \" — in which she dies after licking toxic wedding-invitation envelopes that had been bought by george on the cheap. Alexander, currently starring on broadway in larry david's play, \"fish in the dark, \" told stern that swedberg had been unable to master her own domain. \"she's a terrific girl. I love her. I couldn't figure out how",
-            "Oh dear god, leave heidi alone ok folks, i feel officially awful. Yesterday on @sternshow, i retold a story i had told years ago about my personal difficulties and insecurities in playing george against the susan that heidi swedberg created. The impetus for telling this story was that howard said, \" julia louis dreyfuss told me you all wanted to kill her \". So i told the story to try and clarify that no one wanted to kill heidi. And again i say, i and the cast really liked and like heidi. She is a kind, lovely person who undoubtedly worked really hard to create susan and that character was clearly what larry and jerry wanted her to be for george. I just felt i was on uncertain ground in how to play off that character and i was always concerned that it wasn't working. And that's what i would voice concern about. But because the scenes were playing the way they were, the relationship with george and susan sustained a whole season. People clearly liked the interplay even though i believed i was \" off \". Larry and jerry were not sure how that relationship would end. They didn't really want george married but all the alternatives seemed predictable",
-            "Seinfeld is now streaming on hulu and that's reason enough to get a refresher course on the a-listers that have appeared on the beloved sitcom before making it big."
+            "Oh dear god, leave heidi alone ok folks, i feel officially awful. Yesterday on @sternshow, i retold a story i had told years ago about my personal difficulties and insecurities in playing george against the susan that heidi swedberg created. The impetus for telling this story was that howard said, \" julia louis dreyfuss told me you all wanted to kill her \". So i told the story to try and clarify that no one wanted to kill heidi. And again i say, i and the cast really liked and like heidi. She is a kind, lovely person who undoubtedly worked really hard to create susan and that character was clearly what larry and jerry wanted her to be for george. I just felt i was on uncertain ground in how to play off that character and i was always concerned that it wasn't working. And that's what i would voice concern about. But because the scenes were playing the way they were, the relationship with george and susan sustained a whole season. People clearly liked the interplay even though i believed i was \" off \". Larry and jerry were not sure how that relationship would end. They didn't really want george married but all the alternatives seemed predictable"
         ],
         "raw_document": [
             "Her acting clashed with her costars ' — not that there's anything wrong with that. \"seinfeld \" star jason alexander has revealed in an interview that the hit sitcom's cast decided to kill off his character's unbearable fiancée because she was \"f- -king impossible \" to work with. The actor, who played the hapless george costanza, told howard stern that actress heidi swedberg was given the ax after co-stars jerry seinfeld and julia louis-dreyfus both agreed she was not jibing with the cast. \"and julia actually said, 'don't you want to just kill her? ' and larry [ david, the series ' co-creator ] went, 'kabang! now we gotta kill her! ' \" alexander recalled on the \"howard stern show \" on sirius xm radio. Swedberg's character, susan ross, was famously killed off in an 1996 episode titled \"the invitations \" — in which she dies after licking toxic wedding-invitation envelopes that had been bought by george on the cheap. Alexander, currently starring on broadway in larry david's play, \"fish in the dark, \" told stern that swedberg had been unable to master her own domain. \"she's a terrific girl. I love her. I couldn't figure out how",
@@ -558,7 +552,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -611,18 +605,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 40523,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Kristen bell is on a magazine cover, 15 pounds heavier than she was before she had her baby daughter, and she's ok with that, people reports. In a new interview with redbook, the actress explains: \" i refused to worry about something i could not change, and i still refuse.... I am not a woman whose self-worth comes from her dress size. \" but, she admits, feeling that way doesn't come easy: \" look, i ' m like any other woman. All this evolved bs that i ' m telling you is my mantra: it's not something i practice naturally. I had to surrender to not worrying about the way i looked, how much i weighed, because that's just part of the journey of having a baby. \" she adds that fiance dax shepard \" loved me chubby \" and \" asked me to stay chubby after the baby was born. \" she's also been tweeting on the subject. \" i ' m proud to sit out the baby weight rat race, \" she wrote, in response to a column by the redbook editor about how rare it is today for a celebrity like bell to be willing to pose for a magazine cover before completely gaining back her \" pre-baby body. \" ( the cover photos were taken 11 weeks after bell gave birth in march. ) \" i ' m going to continue working out and see where it goes. I'd like to get back down to where i was before the baby, \" bell says, \" but if this is where my body wants to be, so be it. I ' m not going to make myself miserable for the rest of my life trying to get back to where i was before. \" on twitter, she adds, \" i like my lincoln leftovers because they're proof i did something extraordinary. I gave life to my new bff &amp; she gave me a comical amount of midsection skin. \"",
         "split": "train",
         "cleansed_document": [
             "Brian bowen smith for redbook \"i ' m proud to sit out the baby weight rat race, \" new mom kristen bell tweeted friday — and the house of lies star proves it with her september redbook cover. In the story, which features photos taken 11 weeks after her daughter lincoln was born in march, bell says that she's 15 lbs. Heavier than her pre-pregnancy weight, and she's okay with that. \"i ' m going to continue working out and see where it goes, \" the actress, 33, explains. \"i'd like to get back down to where i was before the baby … but if this is where my body wants to be, so be it. I ' m not going to make myself miserable for the rest of my life trying to get back to where i was before. \" \"i like my lincoln leftovers because they're proof i did something extraordinary. I gave life to my new bff &amp; she gave me a comical amount of midsection skin, \" bell tweeted, and she admits that her fiancé, parenthood star dax shepard, loves her new curves. \"all he did was tell me he loved me chubby, \" she reveals. \"he even asked me to stay chubby after the baby was born. \" bell gained 43 lbs. With lincoln and has lost some of the weight through healthy eating — fruits, veggies and protein shakes — and low-impact workouts, along with the slimming side effects of breastfeeding. And she insists that she didn't obsess about her weight gain while she was pregnant, so she's not about to start freaking out about it now. \"i refused to worry about something i could not change, and i still refuse, \" she says. \"look, i ' m like any other woman. All this evolved b.s. That i ' m telling you is my mantra: it's not something i practice naturally. I had to surrender to not worrying about the way i",
-            "Brian bowen smith \" i refused to worry about something i could not change, and i still refuse. Look, i ' m like any other woman. All this evolved b.s. That i ' m telling you is my mantra: it's not something i practice naturally. I had to surrender to not worrying about the way i looked, how much i weighed, because that's just part of the journey of having a baby. I am not a woman whose self-worth comes from her dress size. \"",
-            "No one can make you feel inferior without your consent.-eleanor roosevelt do you have a second to eat my farts? -eleanor shellstrop"
+            "Brian bowen smith \" i refused to worry about something i could not change, and i still refuse. Look, i ' m like any other woman. All this evolved b.s. That i ' m telling you is my mantra: it's not something i practice naturally. I had to surrender to not worrying about the way i looked, how much i weighed, because that's just part of the journey of having a baby. I am not a woman whose self-worth comes from her dress size. \""
         ],
         "raw_document": [
             "Brian bowen smith for redbook \"i ' m proud to sit out the baby weight rat race, \" new mom kristen bell tweeted friday — and the house of lies star proves it with her september redbook cover. In the story, which features photos taken 11 weeks after her daughter lincoln was born in march, bell says that she's 15 lbs. Heavier than her pre-pregnancy weight, and she's okay with that. \"i ' m going to continue working out and see where it goes, \" the actress, 33, explains. \"i'd like to get back down to where i was before the baby … but if this is where my body wants to be, so be it. I ' m not going to make myself miserable for the rest of my life trying to get back to where i was before. \" \"i like my lincoln leftovers because they're proof i did something extraordinary. I gave life to my new bff &amp; she gave me a comical amount of midsection skin, \" bell tweeted, and she admits that her fiancé, parenthood star dax shepard, loves her new curves. \"all he did was tell me he loved me chubby, \" she reveals. \"he even asked me to stay chubby after the baby was born. \" bell gained 43 lbs. With lincoln and has lost some of the weight through healthy eating — fruits, veggies and protein shakes — and low-impact workouts, along with the slimming side effects of breastfeeding. And she insists that she didn't obsess about her weight gain while she was pregnant, so she's not about to start freaking out about it now. \"i refused to worry about something i could not change, and i still refuse, \" she says. \"look, i ' m like any other woman. All this evolved b.s. That i ' m telling you is my mantra: it's not something i practice naturally. I had to surrender to not worrying about the way i",
@@ -639,7 +632,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -808,17 +801,16 @@
             "1": 2,
             "2": 0,
             "3": 1,
-            "4": 0
+            "4": 2
         }
     },
     {
         "idx": 40530,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A few too many upsets has ended any hope that a college hoops fan will be $ 1 billion richer at the end of the ncaa tournament. Thanks to upsets of duke and ohio state, among others, only three people were still alive in the warren buffett challenge heading into yesterday's game between george washington and memphis, reports usa today. All three picked picked george washington, incorrectly. \" if warren buffett wants to donate the ( billion ) to our university, we will take it and use it in good company, \" said memphis coach josh pastner after the game, reports ap. Still, the top 20 bracket pickers will get $ 100,000 each when all is said and done.",
         "split": "train",
         "cleansed_document": [
-            "There's always next year 21 mar 14 after 25 games, the billion dollar bracket dream ends just 25 games into the ncaa tournament, the billion dollar bracket bubble has already burst. Going into the third wave of games on the second day of the ncaa tournament, only three perfect brackets remained in the quicken loans billion dollar bracket contest. And all three had george washington beating memphis. As maurice creek's game-tying three came up short, so went the retirement plans of the three remaining hopefuls. Memphis win means that zero perfect brackets remain in the #billiondollarbracket – warren buffett and @cavsdan are celebrating — daryl ruiter ( @ruiterwrongfan ) march 22, 2014 billionaire warren buffett couldn't have picked a better year to sponsor such a contest. Five double-digit seeded teams have won games with four games remaining in the second round. Even without a particularly mad march, the odds of picking all 63 games correctly are long. The chances of doing so was tabulated by a depaul university math professor to be one-in-9.2 quintillion. The prospect of someone taking home the billion dollar prize took a big hit after the very first game of the tournament. About 84 percent of contestants incorrectly picked ohio state to beat dayton in the opener. The biggest upset, by far, was mercer's win over duke. Over 97",
-            "Mercer forward jakob gollon ( 20 ) and guard langston hall ( 21 ) celebrate after defeating duke 78-71 in an ncaa college basketball second-round game against duke, friday, march 21, 2014, in raleigh, n.c.( ap... ( associated press ) stanford head coach johnny dawkins yells to his players during the second half of a second-round game in the ncaa college basketball tournament, friday, march 21, 2014, in st. Louis. Stanford won the... ( associated press ) memphis guard chris crawford ( 3 ) reacts to a mercer goal against george washington during the second half of an ncaa college basketball second-round tournament game, friday, march 21, 2014, in raleigh.... ( associated press ) gonzaga guard david stockton pulls in a loose ball during the second half in a second-round game against oklahoma state in the ncaa men's college basketball tournament friday, march 21, 2014, in san diego.... ( associated press ) a second day of upsets ended any chance of someone having a perfect ncaa tournament bracket in warren buffet's $ 1 billion challenge. It was a favorite that provided the first blemish on the final three people's brackets in the quicken loans contest on the yahoo sports website. All three had ninth-seeded george washington beating memphis. The tigers won 71-66. \" if warren buffett wants to donate the"
+            "There's always next year 21 mar 14 after 25 games, the billion dollar bracket dream ends just 25 games into the ncaa tournament, the billion dollar bracket bubble has already burst. Going into the third wave of games on the second day of the ncaa tournament, only three perfect brackets remained in the quicken loans billion dollar bracket contest. And all three had george washington beating memphis. As maurice creek's game-tying three came up short, so went the retirement plans of the three remaining hopefuls. Memphis win means that zero perfect brackets remain in the #billiondollarbracket – warren buffett and @cavsdan are celebrating — daryl ruiter ( @ruiterwrongfan ) march 22, 2014 billionaire warren buffett couldn't have picked a better year to sponsor such a contest. Five double-digit seeded teams have won games with four games remaining in the second round. Even without a particularly mad march, the odds of picking all 63 games correctly are long. The chances of doing so was tabulated by a depaul university math professor to be one-in-9.2 quintillion. The prospect of someone taking home the billion dollar prize took a big hit after the very first game of the tournament. About 84 percent of contestants incorrectly picked ohio state to beat dayton in the opener. The biggest upset, by far, was mercer's win over duke. Over 97"
         ],
         "raw_document": [
             "There's always next year 21 mar 14 after 25 games, the billion dollar bracket dream ends just 25 games into the ncaa tournament, the billion dollar bracket bubble has already burst. Going into the third wave of games on the second day of the ncaa tournament, only three perfect brackets remained in the quicken loans billion dollar bracket contest. And all three had george washington beating memphis. As maurice creek's game-tying three came up short, so went the retirement plans of the three remaining hopefuls. Memphis win means that zero perfect brackets remain in the #billiondollarbracket – warren buffett and @cavsdan are celebrating — daryl ruiter ( @ruiterwrongfan ) march 22, 2014 billionaire warren buffett couldn't have picked a better year to sponsor such a contest. Five double-digit seeded teams have won games with four games remaining in the second round. Even without a particularly mad march, the odds of picking all 63 games correctly are long. The chances of doing so was tabulated by a depaul university math professor to be one-in-9.2 quintillion. The prospect of someone taking home the billion dollar prize took a big hit after the very first game of the tournament. About 84 percent of contestants incorrectly picked ohio state to beat dayton in the opener. The biggest upset, by far, was mercer's win over duke. Over 97",
@@ -833,7 +825,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -861,7 +853,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -891,7 +883,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -946,7 +938,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -976,13 +968,12 @@
     },
     {
         "idx": 40536,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "When pope francis first met with the newly elected president of his native argentina in february, the buenos aires herald termed their 22 minutes together as \" frosty. \" relations don't seem to have improved much since, with the guardian reporting that a donation president mauricio macri made to an educational foundation promoted by the pope — an organization featuring ambassadors like george clooney, salma hayek, and richard gere — was turned down, with a fairly icy postscript. Macri earlier this month donated 16,666,000 pesos, or nearly $ 1.2 million, to scholas occurentes; francis reportedly instructed the charity's branch in argentina to give it back, with the guardian reporting that the pope was perturbed at the donation being painted by the media as proof of warming relations between the two. The herald reports that francis instructed scholas'directors to return the money, writing in a letter, \" the argentine government needs to address so many needs you shouldn't be demanding a single penny from it. \" and so last thursday they did, specifying that in returning it they were \" taking into account that some may try to distort this gesture... With the aim of creating confusion and sowing division among argentines. \" the guardian has one more detail from francis ' letter, by way of local media. It reports francis added in a postscript to the directors, \" i don't like the 666. \" macri and francis'relationship stretches back to a time when one was buenos aires ' mayor, the other its archbishop. The herald notes relations began to deteriorate in 2009 when macri declined to appeal a court ruling that allowed a gay couple to marry in the city.",
         "split": "train",
         "cleansed_document": [
             "The frosty relationship between two of the world's most prominent argentinians appears to have taken a turn for the worse after it emerged that pope francis rejected a charitable donation from the government of president mauricio macri – at least partly – because the sum included the figure 666. Earlier this month, the centre-right president made a donation that totaled 16,666,000 pesos ( slightly under $ 1.2m ) from the argentinian government to the scholas occurentes educational foundation, which is backed by the pope and is based on a similar organization founded by francis when he was cardinal of buenos aires. Two weeks ago, the pope presided over an event in rome at which medals were awarded to hollywood celebrities george clooney, salma hayek and richard gere, who have agreed to be ambassadors for the charity. Shortly afterwards, macri made the donation. But according to the vatican insider – a publication specializing in papal affairs",
-            "Sunday, june 12, 2016 pope gives back macri's 'donation ' francis says foundation can't accept a 'single penny ' from argentine government tensions between the president mauricio macri administration and the vatican rose to unusual heights yesterday as pope francis snubbed a state donation of 16 million pesos for an education project he sponsors. In a letter addressed to cabinet chief marcos peña sent on thursday but made public yesterday, josé maría del corral and enrique palmeyro — directors of pope francis's scholas occurrentes education network — confirmed the decision \"to suspend the non-refundable contribution fee amounting to 16,666,000 pesos \" granted to the foundation \"taking into account that some may try to distort this gesture. \" according to the daily la nación, the two directors were following direct orders from the pope. \"the argentine government needs to address so many needs you shouldn't be demanding a single penny from it,",
-            "Sunday, february 28, 2016 pope gives macri a frosty 22 minutes tensions evident in first vatican meet the long-awaited meeting between president mauricio macri and pope francis ended up being a frosty encounter that lasted a mere 22 minutes. The vatican officially described the sit-down as \"cordial, \" and macri told reporters that the pontiff asked him to fight corruption, poverty and drug-trafficking in the country. Although the new president has already managed to get lots of smily photo-ops with several foreign leaders, the pictures he took with the head of the catholic church were much more serious, making evident the lack of affinity between the two political leaders — a stark contrast from the warmer relationship francis used to enjoy with macri's predecessor, cristina fernández de kirchner. Francis entered at 9.37am ( 5.37am in argentina ). \"good morning, mr. President. How are you are doing, \" he told macri"
+            "Sunday, june 12, 2016 pope gives back macri's 'donation ' francis says foundation can't accept a 'single penny ' from argentine government tensions between the president mauricio macri administration and the vatican rose to unusual heights yesterday as pope francis snubbed a state donation of 16 million pesos for an education project he sponsors. In a letter addressed to cabinet chief marcos peña sent on thursday but made public yesterday, josé maría del corral and enrique palmeyro — directors of pope francis's scholas occurrentes education network — confirmed the decision \"to suspend the non-refundable contribution fee amounting to 16,666,000 pesos \" granted to the foundation \"taking into account that some may try to distort this gesture. \" according to the daily la nación, the two directors were following direct orders from the pope. \"the argentine government needs to address so many needs you shouldn't be demanding a single penny from it,"
         ],
         "raw_document": [
             "The frosty relationship between two of the world's most prominent argentinians appears to have taken a turn for the worse after it emerged that pope francis rejected a charitable donation from the government of president mauricio macri – at least partly – because the sum included the figure 666. Earlier this month, the centre-right president made a donation that totaled 16,666,000 pesos ( slightly under $ 1.2m ) from the argentinian government to the scholas occurentes educational foundation, which is backed by the pope and is based on a similar organization founded by francis when he was cardinal of buenos aires. Two weeks ago, the pope presided over an event in rome at which medals were awarded to hollywood celebrities george clooney, salma hayek and richard gere, who have agreed to be ambassadors for the charity. Shortly afterwards, macri made the donation. But according to the vatican insider – a publication specializing in papal affairs",
@@ -999,20 +990,19 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 40537,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "They were mostly between the ages of 14 and 18, and 26 of them are now dead. Cnn reports on the latest tragedy in the mediterranean sea and describes an appalling scene: teenage girls ' bodies floating lifelessly beside a nearly submerged rubber dinghy that survivors tried to cling to. The afp reports 23 of the bodies were recovered friday, with another three subsequently found. Their remains were brought ashore in salerno, italy; salvatore malfi, the police prefect there, tells npr they appear to have drowned, but the bodies will be autopsied tuesday to determine cause of death as well as whether the girls had been sexually abused. The bbc reports some are questioning whether the girls, believed to hail from niger and nigeria, were abused and murdered. They were en route to europe via libya, which cnn calls \" a hotbed for human traffickers. \" the afp quotes malfi as apparently trying to tamp down on that line of thought: \" the sex trafficking routes are different. Loading women onto a boat is too risky, the traffickers would not do it as they could lose all their ' goods ' — as they describe them — in one fell swoop. \" per the un's migration agency, the migrant death toll along the main mediterranean route stands at 2,639 for the year through nov. 1, versus 3,615 for the same period last year. ( this smuggler reportedly deliberately drowned 50 migrants. )",
         "split": "train",
         "cleansed_document": [
             "( cnn ) italian authorities have launched an investigation into the cause of death of 26 teenage girls whose bodies were recovered in the mediterranean sea on sunday. The girls, aged 14-18, are believed to have been migrants from niger and nigeria who had embarked on the treacherous route to europe from libya over the weekend. Lorena ciccotti, salerno's head of police, told cnn that autopsies would be carried out on tuesday and that coroners would be investigating whether the girls had been tortured or sexually abused. Migrants disembark in the",
             "Image copyright epa image caption italy wants to determine how the 26 young nigerian women died italian prosecutors are investigating the deaths of 26 nigerian women - most of them teenagers - whose bodies were recovered at sea. There are suspicions that they may have been sexually abused and murdered as they attempted to cross the mediterranean. Five migrants are being questioned in the southern port of salerno. A spanish warship, cantabria, docked there carrying 375 migrants and the dead women, following several rescues. Twenty-three of the dead women had been on a",
             "Italy probes deaths of 26 nigerian women and girls at sea enlarge this image toggle caption paolo manzo/nurphoto/getty images paolo manzo/nurphoto/getty images updated at 10: 30 a.m. Et tuesday the bodies of 26 nigerian girls and women were recovered from the mediterranean sea, and italian prosecutors are probing whether their deaths are linked to sex trafficking. \" salvatore malfi, the police prefect of the southern town of salerno, said the 26 [ victims ] may have been thrown off their rubber dinghy into the waters of the mediterranean, \" npr's sylvia poggioli",
-            "The central mediterranean route from the coast of libya to italy is currently the favoured route of undocumented migrants, most of whom are nigerian ( afp photo/stringer ) rome ( afp ) - the bodies of 26 women who drowned attempting the perilous crossing from libya to europe were brought to italy on sunday, where investigators launched a murder inquiry. A seemingly endless line of black plastic body bags were lowered by crane from a spanish ship onto the portside in salerno, southern italy, where they were placed in coffins and loaded onto waiting hearses",
-            "Geneva – iom, the un migration agency, reports that 150,982 migrants and refugees entered europe by sea in 2017 through 1 november, with about 75 per cent arriving in italy and the remainder divided between greece, cyprus and spain. This compares with 335,158 arrivals across the region through the same period last year. 2017 marks the fourth straight year migrant arrivals to europe by sea reached the 150,000-person benchmark, but it is not the earliest time in the year that threshold was reached. In 2016 the mediterranean region hit that benchmark in"
+            "The central mediterranean route from the coast of libya to italy is currently the favoured route of undocumented migrants, most of whom are nigerian ( afp photo/stringer ) rome ( afp ) - the bodies of 26 women who drowned attempting the perilous crossing from libya to europe were brought to italy on sunday, where investigators launched a murder inquiry. A seemingly endless line of black plastic body bags were lowered by crane from a spanish ship onto the portside in salerno, southern italy, where they were placed in coffins and loaded onto waiting hearses"
         ],
         "raw_document": [
             "( cnn ) italian authorities have launched an investigation into the cause of death of 26 teenage girls whose bodies were recovered in the mediterranean sea on sunday. The girls, aged 14-18, are believed to have been migrants from niger and nigeria who had embarked on the treacherous route to europe from libya over the weekend. Lorena ciccotti, salerno's head of police, told cnn that autopsies would be carried out on tuesday and that coroners would be investigating whether the girls had been tortured or sexually abused. Migrants disembark in the",
@@ -1033,7 +1023,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 5
         }
     },
     {
@@ -1142,12 +1132,10 @@
     },
     {
         "idx": 40542,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "On feb. 19, a shriek-filled video was posted to youtube. What made this one noteworthy: it supposedly captured an exorcism that took place in the czech city of vranov nad dyji. Now, a catholic priest at the assumption of the virgin mary church confirms the video is authentic. \" we were asking god to protect and to liberate the person. We used a latin prayer asking for... Help, \" says marek dunda. The video was reportedly shot through a keyhole in a door at the church and captures people surrounding a woman near the altar. \" if something is filmed through a keyhole, there is nothing more to say about it, \" says dunda, who the daily express reports has a mandate to carry out exorcisms. The new york daily news reports that daniel trochta, a resident of the city, went to the church after hearing screams and shot the footage; he recommends those who watch the 1: 49 video wear headphones while doing so. This summer, the ap reported that the vatican formally recognized the international association of exorcists, a group of 250 priests in 30 countries who liberate the faithful from demons. Exorcisms have been occurring with some frequency in mexico; last year, one exorcist said they were being performed almost daily. ( it's been quite the week for secret videos. )",
         "split": "train",
-        "cleansed_document": [
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "Rating is available when the video has been rented. This feature is not available right now. Please try again later.",
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
@@ -1161,7 +1149,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1224,12 +1212,11 @@
     },
     {
         "idx": 40545,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Kim jong il reportedly died on a train at 8: 30am on saturday. Guess when american and south korean officials learned about it? some 51 hours later, from north korea's own media reports. Though we have spy planes and satellites trained on the country, we intercepted no phone calls and observed no hubbub around his train, making the two-day secret yet another north korea-related intelligence failure, reports the new york times. \" it seems everyone learned about kim jong il's death after \" the press reports, a south korean lawmaker who leads parliament's intelligence committee told reuters. \" the us, japan, and russia knew after north korea's announcement. \" the list of similar failures with the north is long — notably, a uranium enrichment facility existed there for a year and a half before being discovered, and then only because the north showed it off to an american scientist. \" what's worst about our intel is our failure to penetrate deep into the existing leadership, \" says one former cia official. \" we get defectors, but their information is often old. We get midlevel people, but they often don't know what's happening in the inner circle. \"",
         "split": "train",
         "cleansed_document": [
-            "Seoul when south korean president lee myung-bak left on a state visit for japan last week, north korean leader kim jong-il had been dead for about four hours, indicating that neither seoul nor tokyo -- or washington -- had any inkling of his death. North korean state media announced kim's death two days later, on monday, apparently catching governments around the world by surprise and plunging the region into uncertainty over the stability of the unpredictable state that is trying to build a nuclear arsenal. Lee held talks in tokyo with prime minister yoshihiko noda and returned home on sunday afternoon, apparently still unaware of the cover-up by the north, with which south korea is still technically at war. If washington had known, it appears likely it would have tipped off south korea and japan, its closest allies in asia. \" it seems everyone learned about kim jong-il's death after ( the announcement ), \" said kim jin-pyo, head of the intelligence committee for south korea's parliament after discussions with officials from the national intelligence service. \" the u.s., japan and russia knew after north korea's announcement, \" he told reporters. South korea put its troops on emergency alert after the announcement of kim's death; japan said it had to be prepared for \" unexpected \" developments. South korea '",
-            "In many countries, that would involve intercepting phone calls between government officials or peering down from spy satellites. And indeed, american spy planes and satellites scan the country. Highly sensitive antennas along the border between south and north korea pick up electronic signals. South korean intelligence officials interview thousands of north koreans who defect to the south each year. And yet remarkably little is known about the inner workings of the north korean government. Pyongyang, officials said, keeps sensitive information limited to a small circle of officials, who do not talk. \"this is a society that thrives on its opaqueness, \" said christopher r. Hill, a former special envoy who negotiated with the north over its nuclear program. \"it is very complex. To understand the leadership structure requires going way back into korean culture to understand confucian principles. \" on monday, the obama administration held urgent consultations with allies but said little publicly about mr. Kim's death. Senior officials acknowledged they were largely bystanders, watching the drama unfold in the north and hoping that it does not lead to acts of aggression against south korea. None of the situations envisioned by american officials for north korea are comforting. Some current and former officials assume that kim jong-un is too young and untested to step confidently into his father's shoes. Some speculate that the younger mr."
+            "Seoul when south korean president lee myung-bak left on a state visit for japan last week, north korean leader kim jong-il had been dead for about four hours, indicating that neither seoul nor tokyo -- or washington -- had any inkling of his death. North korean state media announced kim's death two days later, on monday, apparently catching governments around the world by surprise and plunging the region into uncertainty over the stability of the unpredictable state that is trying to build a nuclear arsenal. Lee held talks in tokyo with prime minister yoshihiko noda and returned home on sunday afternoon, apparently still unaware of the cover-up by the north, with which south korea is still technically at war. If washington had known, it appears likely it would have tipped off south korea and japan, its closest allies in asia. \" it seems everyone learned about kim jong-il's death after ( the announcement ), \" said kim jin-pyo, head of the intelligence committee for south korea's parliament after discussions with officials from the national intelligence service. \" the u.s., japan and russia knew after north korea's announcement, \" he told reporters. South korea put its troops on emergency alert after the announcement of kim's death; japan said it had to be prepared for \" unexpected \" developments. South korea '"
         ],
         "raw_document": [
             "Seoul when south korean president lee myung-bak left on a state visit for japan last week, north korean leader kim jong-il had been dead for about four hours, indicating that neither seoul nor tokyo -- or washington -- had any inkling of his death. North korean state media announced kim's death two days later, on monday, apparently catching governments around the world by surprise and plunging the region into uncertainty over the stability of the unpredictable state that is trying to build a nuclear arsenal. Lee held talks in tokyo with prime minister yoshihiko noda and returned home on sunday afternoon, apparently still unaware of the cover-up by the north, with which south korea is still technically at war. If washington had known, it appears likely it would have tipped off south korea and japan, its closest allies in asia. \" it seems everyone learned about kim jong-il's death after ( the announcement ), \" said kim jin-pyo, head of the intelligence committee for south korea's parliament after discussions with officials from the national intelligence service. \" the u.s., japan and russia knew after north korea's announcement, \" he told reporters. South korea put its troops on emergency alert after the announcement of kim's death; japan said it had to be prepared for \" unexpected \" developments. South korea '",
@@ -1244,7 +1231,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1269,7 +1256,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1305,13 +1292,12 @@
     },
     {
         "idx": 40548,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The white house waded into the politically volatile territory of sopa today, notes the hill, and it sounds a little wary about the anti-piracy legislation. \" while we believe that online piracy by foreign websites is a serious problem that requires a serious legislative response, we will not support legislation that reduces freedom of expression, increases cybersecurity risk, or undermines the dynamic, innovative global internet, \" reads a blog post from three tech officials in the administration. Maybe more significant for sopa opponents: house judiciary chair lamar smith yesterday backed off controversial language in his bill that would require internet service providers to block non-us websites that have pirated content, notes bloomberg. ( it's a \" major concession \" in the arcane area of domain name system filtering, says the hill. ) smith issued a statement today welcoming the white house position and pledging to get something passed this year. Sopa foe darrell issa, meanwhile, says the bill is still \" fundamentally flawed \" even with smith's concession, but he said he's gotten assurances from house leaders that it won't hit the floor until consensus is reached. The senate is expected to have a procedural vote on its version on jan. 24.",
         "split": "train",
         "cleansed_document": [
             "The white house responded to a petition urging a veto of the controversial stop online piracy act ( sopa ) on saturday and laid out its conditions for supporting anti-piracy legislation. \" while we believe that online piracy by foreign websites is a serious problem that requires a serious legislative response, we will not support legislation that reduces freedom of expression, increases cybersecurity risk, or undermines the dynamic, innovative global internet, \" the president's advisers wrote. House judiciary chairman lamar smith ( r-texas ), sopa's sponsor, said his bill meets the white house's requirements. Advertisement \"i welcome today's announcement that the white house will support legislation to combat online piracy that protects free speech, the internet and america's intellectual property, \" smith said in a statement. \" that's precisely what the stop online piracy act does. \" sopa and its",
-            "The obama administration won't back legislation to combat online piracy if it encourages censorship, undermines cybersecurity or disrupts the structure of the internet, three white house technology officials said. Their statement, posted yesterday on the white house website, was a response to online petitions on legislative proposals to combat online piracy. The movie and music industries support such measures as a means of cracking down on theft. \"while we believe that online piracy by foreign websites is a serious problem that requires a serious legislative response, we will not support legislation that reduces freedom of expression, increases cybersecurity risk or undermines the dynamic, innovative global internet, \" aneesh chopra, victoria espinel and howard schmidt wrote in a blog post. The statement marks the administration's most significant foray into a fight between content creators and internet companies that has been playing out in congress. The senate is scheduled to",
-            "By victoria espinel, aneesh chopra, and howard schmidt thanks for taking the time to sign this petition. Both your words and actions illustrate the importance of maintaining an open and democratic internet. Right now, congress is debating a few pieces of legislation concerning the very real issue of online piracy, including the stop online piracy act ( sopa ), the protect ip act, and the online protection and digital enforcement act ( open ). We want to take this opportunity to tell you what the administration will support — and what we will not support. Any effective legislation should reflect a wide range of stakeholders, including everyone from content creators to the engineers that build and maintain the infrastructure of the internet. While we believe that online piracy by foreign websites is a serious problem that requires a serious legislative response, we will not support legislation that reduces freedom of expression, increases"
+            "The obama administration won't back legislation to combat online piracy if it encourages censorship, undermines cybersecurity or disrupts the structure of the internet, three white house technology officials said. Their statement, posted yesterday on the white house website, was a response to online petitions on legislative proposals to combat online piracy. The movie and music industries support such measures as a means of cracking down on theft. \"while we believe that online piracy by foreign websites is a serious problem that requires a serious legislative response, we will not support legislation that reduces freedom of expression, increases cybersecurity risk or undermines the dynamic, innovative global internet, \" aneesh chopra, victoria espinel and howard schmidt wrote in a blog post. The statement marks the administration's most significant foray into a fight between content creators and internet companies that has been playing out in congress. The senate is scheduled to"
         ],
         "raw_document": [
             "The white house responded to a petition urging a veto of the controversial stop online piracy act ( sopa ) on saturday and laid out its conditions for supporting anti-piracy legislation. \" while we believe that online piracy by foreign websites is a serious problem that requires a serious legislative response, we will not support legislation that reduces freedom of expression, increases cybersecurity risk, or undermines the dynamic, innovative global internet, \" the president's advisers wrote. House judiciary chairman lamar smith ( r-texas ), sopa's sponsor, said his bill meets the white house's requirements. Advertisement \"i welcome today's announcement that the white house will support legislation to combat online piracy that protects free speech, the internet and america's intellectual property, \" smith said in a statement. \" that's precisely what the stop online piracy act does. \" sopa and its",
@@ -1328,7 +1314,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1409,7 +1395,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1491,7 +1477,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1665,12 +1651,11 @@
     },
     {
         "idx": 40561,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "This is probably not how you want to picture fred willard, but: he's gone and pulled a pee-wee ( pun intended ) and gotten himself arrested for allegedly masturbating in an adult movie theater. Undercover lapd officers entered hollywood's tiki theater last night and found willard, who was watching one of the following three movies currently showing there: follow me 2, step dad no. 2, or a dirty parody of the client list. He was charged with lewd conduct. Hilariously, willard — who frequently appears in christopher guest mockumentaries and has also been seen in anchorman and everybody loves raymond, among other roles — has a new movie in the works called the yank, tmz notes. Click for a picture of the theater's sign, which specifically warns of the lapd.",
         "split": "train",
         "cleansed_document": [
-            "Fred willard arrested for lewd conduct fred willard arrested for lewd conduct exclusive was arrested for lewd conduct last night in hollywood when police allegedly caught him with his pants down in an adult movie theater... Tmz has learned.according to law enforcement sources, lapd undercover vice officers went into the tiki theater in hollywood and found the 78-year-old \" anchorman \" star watching last night's feature... With his penis exposed and in his hand.we're told willard was arrested around 8: 45pm and booked for lewd conduct.it was a quick release -- we're told he was out of police custody a short while later.as for which movie fred was watching -- there are 3 flicks in rotation at the theater... \" follow me 2, \" a xxx parody of \" the client list, \" and \" step dad no. 2. \" willard is best known for his memorable roles in \" best in show \", \" for your consideration \", \" american wedding \" and \" everybody loves raymond. \" according to imdb, fred is \" rumored \" to be in pre-production for a movie entitled... \". \" it's a comedy.we're starting to get comments from people who say fred is 72 and not 78... But official records show that he was born on september 18, 1933... Not 1939. -- law enforcement sources",
-            "Paul reubens (; né rubenfeld; born august 27, 1952 ) [ 1 ] is an american actor, writer, film producer, game show host, and comedian, best known for his character pee-wee herman. Reubens joined the los angeles troupe the groundlings in the 1970s and started his career as an improvisational comedian and stage actor. In 1982, reubens put up a show about a character he had been developing for years. The show was called the pee-wee herman show and it ran for five sold-out months with hbo producing a successful special about it. Pee-wee became an instant cult figure and for the next decade, reubens would be completely committed to his character, doing all of his public appearances and interviews as pee-wee. In 1985 pee-wee's big adventure, directed by the then-unknown tim burton, was a financial and critical success, and soon developed into a cult film. Big top pee-wee, 1988's sequel, was less successful than its predecessor. Between 1986 and 1990, reubens starred as pee-wee in the cbs saturday-morning children's program pee-wee's playhouse. Thereafter, reubens decided to take a sabbatical from pee-wee. In july 1991, reubens was arrested for indecent exposure in an adult theater in sarasota, florida. The arrest set off a chain reaction of national media attention that changed the"
+            "Fred willard arrested for lewd conduct fred willard arrested for lewd conduct exclusive was arrested for lewd conduct last night in hollywood when police allegedly caught him with his pants down in an adult movie theater... Tmz has learned.according to law enforcement sources, lapd undercover vice officers went into the tiki theater in hollywood and found the 78-year-old \" anchorman \" star watching last night's feature... With his penis exposed and in his hand.we're told willard was arrested around 8: 45pm and booked for lewd conduct.it was a quick release -- we're told he was out of police custody a short while later.as for which movie fred was watching -- there are 3 flicks in rotation at the theater... \" follow me 2, \" a xxx parody of \" the client list, \" and \" step dad no. 2. \" willard is best known for his memorable roles in \" best in show \", \" for your consideration \", \" american wedding \" and \" everybody loves raymond. \" according to imdb, fred is \" rumored \" to be in pre-production for a movie entitled... \". \" it's a comedy.we're starting to get comments from people who say fred is 72 and not 78... But official records show that he was born on september 18, 1933... Not 1939. -- law enforcement sources"
         ],
         "raw_document": [
             "Fred willard arrested for lewd conduct fred willard arrested for lewd conduct exclusive was arrested for lewd conduct last night in hollywood when police allegedly caught him with his pants down in an adult movie theater... Tmz has learned.according to law enforcement sources, lapd undercover vice officers went into the tiki theater in hollywood and found the 78-year-old \" anchorman \" star watching last night's feature... With his penis exposed and in his hand.we're told willard was arrested around 8: 45pm and booked for lewd conduct.it was a quick release -- we're told he was out of police custody a short while later.as for which movie fred was watching -- there are 3 flicks in rotation at the theater... \" follow me 2, \" a xxx parody of \" the client list, \" and \" step dad no. 2. \" willard is best known for his memorable roles in \" best in show \", \" for your consideration \", \" american wedding \" and \" everybody loves raymond. \" according to imdb, fred is \" rumored \" to be in pre-production for a movie entitled... \". \" it's a comedy.we're starting to get comments from people who say fred is 72 and not 78... But official records show that he was born on september 18, 1933... Not 1939. -- law enforcement sources",
@@ -1685,7 +1670,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1918,7 +1903,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2192,7 +2177,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2433,7 +2418,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2458,7 +2443,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2563,7 +2548,7 @@
         "vote_count": {
             "0": 1,
             "1": 2,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2676,12 +2661,11 @@
     },
     {
         "idx": 40599,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Donald trump has been dumped by macy's, nbc, and a mexican billionaire, among others over his assertion that rapists and criminals are pouring into the us from mexico — but he's certainly not backing down. In an interview with cnn's don lemon last night, he cited a september article in fusion as a source of some of the stats he's been referring to in recent days. The article claims that a \" staggering \" 80 % of central american women who head to the us via mexico are raped. \" so all i ' m doing is telling the truth, \" trump said. But lemon challenged him, saying the fusion stat is about rape victims, not rapists entering america. Trump's reply: \" well, somebody's doing the raping, don! i mean somebody's doing it! who's doing the raping? who's doing the raping? \" more bad news: should trump stay in one of his hotels, he may find his own credit cards have turned against him. The trump hotel collection, a chain of luxury hotels located mostly in the us, has been hit by an alleged credit-card breach, reports mashable. According to krebs on security, several banks have linked fraudulent credit and debit card charges to accounts used at trump hotels. \" like virtually every other company these days, we have been alerted to potential suspicious credit-card activity and are in the midst of a thorough investigation, \" trump organization exec eric trump said in a statement to cnbc. Unlike other trump woes, the hacking appears to be unconnected to his presidential campaign or remarks about mexican immigrants: the suspicious activity goes back to at least february, krebs'sources say.",
         "split": "train",
         "cleansed_document": [
-            "The trump hotel collection, a string of luxury hotel properties tied to business magnate and now republican presidential candidate donald trump, appears to be the latest victim of a credit card breach, according to data shared by several u.s.-based banks. Contacted regarding reports from sources at several banks who traced a pattern of fraudulent debit and credit card charges to accounts that had all been used at trump hotels, the company declined multiple requests for comment. Update, 4: 56 p.m. Et: the trump organization just acknowledged the issue with a brief statement from eric trump, executive vice president of development and acquisitions: \"like virtually every other company these days, we have been alerted to potential suspicious credit card activity and are in the midst of a thorough investigation to determine whether it involves any of our properties, \" the statement reads. \"we are committed to safeguarding all guests ' personal information and will continue to do so vigilantly. \" original story: but sources in the financial industry say they have little doubt that trump properties in several u.s. Locations — including chicago, honolulu, las vegas, los angeles, miami, and new york — are dealing with a card breach that appears to extend back to at least february 2015. If confirmed, the incident would be the latest in a long string of credit card breaches involving hotel brands, restaurants",
-            "Before they can reach the american dream, many migrant women have to survive a mexican nightmare. A staggering 80 percent of central american girls and women crossing mexico en route to the united states are raped along the way, according to directors of migrant shelters interviewed by fusion. That's up from previous reports by non-profit organizations like amnesty international that estimate the number at 60 percent. \"women and girl migrants, especially those without legal status traveling in remote areas or on trains, are at heightened risk of sexual violence at the hands of criminal gangs, people traffickers, other migrants or corrupt officials, \" the 2010 amnesty international report stated. \" … many criminal gangs appear to use sexual violence as part of the \"price \" demanded of migrants. According to some experts, the prevalence of rape is such that people smugglers may require women to have a contraceptive injection prior to the journey as a precaution … \" detective gabriel garcía, a prosecutor and investigator based in huixtla, chiapas, says certain parts of the migrant trail are hot spots for assault. One of these spots is la arrocera, where rape is so common women and teens plan for it, garcía says. \"there have been times where women will take contraceptives beforehand, so if they become a rape victim, then they won't end up pregnant"
+            "The trump hotel collection, a string of luxury hotel properties tied to business magnate and now republican presidential candidate donald trump, appears to be the latest victim of a credit card breach, according to data shared by several u.s.-based banks. Contacted regarding reports from sources at several banks who traced a pattern of fraudulent debit and credit card charges to accounts that had all been used at trump hotels, the company declined multiple requests for comment. Update, 4: 56 p.m. Et: the trump organization just acknowledged the issue with a brief statement from eric trump, executive vice president of development and acquisitions: \"like virtually every other company these days, we have been alerted to potential suspicious credit card activity and are in the midst of a thorough investigation to determine whether it involves any of our properties, \" the statement reads. \"we are committed to safeguarding all guests ' personal information and will continue to do so vigilantly. \" original story: but sources in the financial industry say they have little doubt that trump properties in several u.s. Locations — including chicago, honolulu, las vegas, los angeles, miami, and new york — are dealing with a card breach that appears to extend back to at least february 2015. If confirmed, the incident would be the latest in a long string of credit card breaches involving hotel brands, restaurants"
         ],
         "raw_document": [
             "The trump hotel collection, a string of luxury hotel properties tied to business magnate and now republican presidential candidate donald trump, appears to be the latest victim of a credit card breach, according to data shared by several u.s.-based banks. Contacted regarding reports from sources at several banks who traced a pattern of fraudulent debit and credit card charges to accounts that had all been used at trump hotels, the company declined multiple requests for comment. Update, 4: 56 p.m. Et: the trump organization just acknowledged the issue with a brief statement from eric trump, executive vice president of development and acquisitions: \"like virtually every other company these days, we have been alerted to potential suspicious credit card activity and are in the midst of a thorough investigation to determine whether it involves any of our properties, \" the statement reads. \"we are committed to safeguarding all guests ' personal information and will continue to do so vigilantly. \" original story: but sources in the financial industry say they have little doubt that trump properties in several u.s. Locations — including chicago, honolulu, las vegas, los angeles, miami, and new york — are dealing with a card breach that appears to extend back to at least february 2015. If confirmed, the incident would be the latest in a long string of credit card breaches involving hotel brands, restaurants",
@@ -2696,7 +2680,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     }
 ]

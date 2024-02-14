@@ -82,7 +82,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -247,13 +247,12 @@
     },
     {
         "idx": 15909,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Sony is making a steve jobs movie based on the biography by walter isaacson, and none other than social network scribe aaron sorkin is being courted to write it, the los angeles times reports. A source says sorkin is considering the idea, but neither sorkin nor sony gave an official comment. Still, it seems like a good fit: la times: \"sorkin is known for penning stories about the lives of fiercely smart, if difficult, figures, of which jobs certainly was one. Isaacson's take on the late executive as someone whose penchant for 'magical thinking ' was both a great advantage and a fatal liability seems particularly suited to a sorkin script. \" new york: \"if you're going to turn a non-idiotic book into a non-idiotic movie, and the central character is some kind of against-the-grain man, then you can only turn to one person for help with this script: aaron sorkin. It worked great for social network, it worked ok enough for moneyball. \" huffington post: \"aaron sorkin's last two films have been adaptations of books about a game changing tech mogul and a dynamic personality who wasn't afraid to think differently to achieve success. Which makes him a very logical choice to take on the upcoming steve jobs biopic. \" plus, sorkin was a longtime apple fan, and steve jobs himself once asked him to write a pixar movie — a request sorkin declined.",
         "split": "train",
         "cleansed_document": [
             "Aaron sorkin's last two films have been adaptations of books about a game changing tech mogul and a dynamic personality who wasn't afraid to think differently to achieve success. Which makes him a very logical choice to take on the upcoming steve jobs biopic. According to the la times, the tv and film vet is amongst sony's top choices to adapt walter isaacson's new biography of the late apple co-founder, who died earlier this month. The studio purchased the film rights to the book shortly thereafter and have made the project a high priority. An oscar winner for his spitfire take on mark zuckerberg and the creation of facebook in \" the social network \" and one of the pens behind this fall's \" moneyball, \" the story of oakland a's general manager bill beane's newage, statistical approach to the game of baseball, sorkin does big personalities well. He created and wrote many of the",
-            "If you're going to turn a non-idiotic book into a non-idiotic movie, and the central character is some kind of against-the-grain man, then you can only turn to one person for help with this script: aaron sorkin. It worked great for social network, it worked okay enough for moneyball, and now sony's approaching sorkin to adapt walter isaacson's biography of steve jobs, according to the l.a. Times. Sorkin's a longtime apple loyalist ( even though he hates the internet with a mighty passion ), and he and jobs knew each other, which could nudge the script into hagiography territory, especially this close to jobs's death. Too bad aaron sorkin is the only writer in hollywood. [ 24 frames/lat ]",
-            "\"why don't you come on up here and let me give you a tour of the place. \" i'd never met steve jobs but we'd begun a phone friendship. It began when i was quoted somewhere answering the question \"mac or pc? \" and i said, \"everything i've ever written, i've written on a mac. \" he called me to say he appreciated the quote and said if there was ever anything he could do for me i should give him a ring. Then he would call me from time to time to compliment me on an episode of television or a movie i'd written that he'd particularly liked. When someone's making a courtesy call i like not to make them stay on the phone very long. So i never got a chance to tell steve that he was making truly great american products that people wanted to buy. I never got to tell him"
+            "If you're going to turn a non-idiotic book into a non-idiotic movie, and the central character is some kind of against-the-grain man, then you can only turn to one person for help with this script: aaron sorkin. It worked great for social network, it worked okay enough for moneyball, and now sony's approaching sorkin to adapt walter isaacson's biography of steve jobs, according to the l.a. Times. Sorkin's a longtime apple loyalist ( even though he hates the internet with a mighty passion ), and he and jobs knew each other, which could nudge the script into hagiography territory, especially this close to jobs's death. Too bad aaron sorkin is the only writer in hollywood. [ 24 frames/lat ]"
         ],
         "raw_document": [
             "Aaron sorkin's last two films have been adaptations of books about a game changing tech mogul and a dynamic personality who wasn't afraid to think differently to achieve success. Which makes him a very logical choice to take on the upcoming steve jobs biopic. According to the la times, the tv and film vet is amongst sony's top choices to adapt walter isaacson's new biography of the late apple co-founder, who died earlier this month. The studio purchased the film rights to the book shortly thereafter and have made the project a high priority. An oscar winner for his spitfire take on mark zuckerberg and the creation of facebook in \" the social network \" and one of the pens behind this fall's \" moneyball, \" the story of oakland a's general manager bill beane's newage, statistical approach to the game of baseball, sorkin does big personalities well. He created and wrote many of the",
@@ -270,7 +269,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -328,13 +327,12 @@
     },
     {
         "idx": 15912,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Star wars: the last jedi has racked up plenty of favorable reviews en route to a 93 % rating from critics on rotten tomatoes. But the film's audience rating, currently 55 % after more than 124,000 user reviews, isn't nearly as impressive. It may not be that moviegoers don't like the flick, though. As quartz reports, a star wars fan who operates a facebook page critical of \" disney's treatment of franchises and its fanboys \" claims to have manipulated the audience rating by posting fake reviews. In a sunday post, the unnamed fan claims to have created bot facebook accounts that \" rigged this score and still keep it dropping. \" quartz notes that logging on to rotten tomatoes through facebook bypasses a security measure designed to distinguish bots from real users. \" look for the accounts there that have the last jedi as their only review, \" the individual says, per inverse. \" that is me. \" quartz surveyed some 20 pages of reviews and found \" dozens of 0.5 and 1 star reviews came from accounts created in december that have not reviewed any other titles. \" this was also noted by polygon, which discovered many reviews attacking the film's \" social justice warrior \" ideas, strong female characters, and non-white characters. Even so, rotten tomatoes says all looks fine on its end. \" we have a team of security, network, social and database experts who closely monitor our platforms, \" a rep tells quartz. \" they haven't seen any unusual user activity. \"",
         "split": "train",
         "cleansed_document": [
             "There's been a disturbance in the force, one felt by fans, critics, and everyone interested in the aggregate quality ratings of movies on rotten tomatoes. On sunday, it appeared that star wars: the last jedi was making history. The gap between the audience score and the critics score on rotten tomoates was huge. But now, there are whispers that this isn't remotely accurate and that the audience score is the result of a hack. On sunday, a facebook community page called \"down with disney's treatment of franchises and fanboys \" claimed that they were responsible for deploying bots to artificially bring down the last jedi's audience score. Inverse spoke with the individual who claims to run the facebook page. They brazenly call disney an \"abomination \" and takes a stalwart defender position on the now discontinued star wars expanded universe. \"do you see the hate towards disney unfolding with this movie and the sjw hate? \" the unnamed individual said via email when asked about their motives. \"add to that the whole disney/fox deal and what disney will probably do when net neutrality is repealed — well now is a great time to strike disney. \" but can they prove it? short answer: no. \"look for the accounts",
-            "Star wars: the last jedi is one of the top-rated movies on rotten tomatoes, according to critics, but scroll down the movie's page a little further and audience testimonies tell a different story. There's a gaping disparity between what critics thought of the movie ( certified fresh ) and the feeling a majority of moviegoers walked away from the theater harnessing. How could a movie so universally applauded by critics not have the same resounding effect on general moviegoers? it's hard to discern whether reviews of the movie are genuine or, as some outlets have reported, generated by bots or organized attacks from 4chan. One facebook group, \"down with disney's treatment of franchises and its fanboys, \" which aligns itself as a pro-dceu community, announced on facebook that it had generated trolls to help review-bomb the last jedi's score on rotten tomatoes. ( review-bombing is when a horde of negative reviews with low ratings are left on an entities page in protest. ) the page defines itself by its anti-marvel and anti-disney stance as a pro-dceu fan page. \"thanks to friends of mine who taught me a thing or two about bot accounts, i used them to create this audience score through facebook accounts created that subsequently logged into rotten",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Star wars: the last jedi is one of the top-rated movies on rotten tomatoes, according to critics, but scroll down the movie's page a little further and audience testimonies tell a different story. There's a gaping disparity between what critics thought of the movie ( certified fresh ) and the feeling a majority of moviegoers walked away from the theater harnessing. How could a movie so universally applauded by critics not have the same resounding effect on general moviegoers? it's hard to discern whether reviews of the movie are genuine or, as some outlets have reported, generated by bots or organized attacks from 4chan. One facebook group, \"down with disney's treatment of franchises and its fanboys, \" which aligns itself as a pro-dceu community, announced on facebook that it had generated trolls to help review-bomb the last jedi's score on rotten tomatoes. ( review-bombing is when a horde of negative reviews with low ratings are left on an entities page in protest. ) the page defines itself by its anti-marvel and anti-disney stance as a pro-dceu fan page. \"thanks to friends of mine who taught me a thing or two about bot accounts, i used them to create this audience score through facebook accounts created that subsequently logged into rotten"
         ],
         "raw_document": [
             "There's been a disturbance in the force, one felt by fans, critics, and everyone interested in the aggregate quality ratings of movies on rotten tomatoes. On sunday, it appeared that star wars: the last jedi was making history. The gap between the audience score and the critics score on rotten tomoates was huge. But now, there are whispers that this isn't remotely accurate and that the audience score is the result of a hack. On sunday, a facebook community page called \"down with disney's treatment of franchises and fanboys \" claimed that they were responsible for deploying bots to artificially bring down the last jedi's audience score. Inverse spoke with the individual who claims to run the facebook page. They brazenly call disney an \"abomination \" and takes a stalwart defender position on the now discontinued star wars expanded universe. \"do you see the hate towards disney unfolding with this movie and the sjw hate? \" the unnamed individual said via email when asked about their motives. \"add to that the whole disney/fox deal and what disney will probably do when net neutrality is repealed — well now is a great time to strike disney. \" but can they prove it? short answer: no. \"look for the accounts",
@@ -351,7 +349,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -386,13 +384,12 @@
     },
     {
         "idx": 15914,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It sounds basically insane: climbers and sherpas brawling, on everest, more than 20,000 feet in the air. But that's what allegedly happened near the famed mountain's summit on saturday morning, reports the independent. In its telling, some 100 sherpas surrounded and attacked three european climbers — jonathan griffith, simone moro, and ueli steck — over an apparent breakdown of climbing etiquette. Outside picks up moro's version of events, as posted on his blog: as the sherpas were securing ropes leading to camp iii, the climbers stepped across their lines and, in the sherpas'telling, dislodged ice on them ( moro disagrees with this claim ). An argument broke out, and the sherpas retreated to camp ii; when the climbers, who stayed behind to finish fixing the ropes arrived; they say they were kicked, punched, and had rocks thrown at them. Moro writes: \" after about 50 minutes the crowd had calmed down and the climbers, who had been pushed away and told to hide, had regrouped and were told that if they weren't gone in one hour that they would all be killed. \" the three returned to base camp, and reuters reports that steck has since vowed to end his ascent unless their security was vouched for; a rep for nepal's tourism ministry said the government would indeed ensure their safety. Officials are working to investigate; the independent sees the brawl as a possible ugly consequence of overcrowding on the mountain.",
         "split": "train",
         "cleansed_document": [
             "Police in nepal are investigating a fight between sherpas and three european climbers – one of them british – more than 4.5 miles up the side of mount everest. The fight may have broken out over an alleged breach of climbing etiquette. The team of three europeans claim a misunderstanding between themselves and a group of sherpas deteriorated into an ugly scene when they were surrounded by a 100 sherpas who hit and attacked them. The men's climbing team said the trio were then threatened and were forced to flee to base camp. Speaking from kathmandu, beni hyoju of the cho-oyu trekking company which helped organise the expedition, said: \"it happened on saturday morning. There was a fight involving the team and the sherpas located between camps two and three. \" sitaram karki, the chief district officer in solukhumbu, the region where everest stands, said the police were conducting an investigation but said",
-            "A fight between a group of sherpas and the alpine team of simone moro, ueli steck, and jonathan griffith took place near camp iii and at camp ii on mount everest this weekend. Initial reports about the kicking, punching, rock-throwing skirmish have come from moro's web site and articles filed by european news outlets. A quick summary of moro's version of events: while the sherpas were fixing ropes up to camp iii, the alpine team stepped over their ropes. The sherpas said steck or griffith had kicked ice down on a member of their team. ( moro said in the report this was unlikely. ) a confrontation ensued between the alpine team and a lead sherpa, with the sherpas descending to camp ii as a sign of protest. Steck helped fix ropes to camp iii as a sign of goodwill after the sherpas left. When steck, moro,",
-            "Everest ( 8848 m ) simone moro who has already reached everest's summit four times, in 2000, 2002, in 2006 and in 2010, and ueli steck who reached the top of everest in 2012 are the two new climbing partners who make up the new mountaineering project on the world's highest peak: the no2 limits expedition. Simone and ueli will attempt to reach everest's summit on the 60th anniversary of its first ever ascent and on the 50th anniversary of the first american ascent, tackling a different route without using oxygen and climbing lightweight. They have decided to abandon the far too busy and equipped routes to continue everest's true exploration, even 60 years after its first ascent, going back to seeing everest as it was when the first great alpinists of the past had climbed it. The two alpinists will progressively choose which route to climb"
+            "A fight between a group of sherpas and the alpine team of simone moro, ueli steck, and jonathan griffith took place near camp iii and at camp ii on mount everest this weekend. Initial reports about the kicking, punching, rock-throwing skirmish have come from moro's web site and articles filed by european news outlets. A quick summary of moro's version of events: while the sherpas were fixing ropes up to camp iii, the alpine team stepped over their ropes. The sherpas said steck or griffith had kicked ice down on a member of their team. ( moro said in the report this was unlikely. ) a confrontation ensued between the alpine team and a lead sherpa, with the sherpas descending to camp ii as a sign of protest. Steck helped fix ropes to camp iii as a sign of goodwill after the sherpas left. When steck, moro,"
         ],
         "raw_document": [
             "Police in nepal are investigating a fight between sherpas and three european climbers – one of them british – more than 4.5 miles up the side of mount everest. The fight may have broken out over an alleged breach of climbing etiquette. The team of three europeans claim a misunderstanding between themselves and a group of sherpas deteriorated into an ugly scene when they were surrounded by a 100 sherpas who hit and attacked them. The men's climbing team said the trio were then threatened and were forced to flee to base camp. Speaking from kathmandu, beni hyoju of the cho-oyu trekking company which helped organise the expedition, said: \"it happened on saturday morning. There was a fight involving the team and the sherpas located between camps two and three. \" sitaram karki, the chief district officer in solukhumbu, the region where everest stands, said the police were conducting an investigation but said",
@@ -409,7 +406,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -467,14 +464,13 @@
     },
     {
         "idx": 15917,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Some milestones on day one of the london olympics: first near upset: michael phelps just barely qualified in his first event, the 400-meter individual medley, reports ap. \" that one didn't feel too good, \" said phelps, who squeaked into the eighth and final spot by seven-hundredths of a second. First gold medal: yi siling of china won it in the 10-meter air rifle competition, reports the bbc. First doping scandal: albanian weightlifter hysen pulaku tested positive for steroids and got the boot, the first athlete so sanctioned at these games, reports the wall street journal. Breach of olympic spirit: ( this one is not a first. ) lebanon's judo team refused to practice on the same mat as the israeli team, forcing olympic officials to erect a screen between them, reports the jerusalem post.",
         "split": "train",
         "cleansed_document": [
             "Michael phelps almost failed to qualify saturday for the final in the first of his seven events and olympic champion park tae-hwan was disqualified in a stunning opening session of the london olympics swimming program. Usa's michael phelps competes in a heat of the men's 400-meter individual medley at the aquatics centre in the olympic park during the 2012 summer olympics in london, saturday, july 28, 2012. ( ap photo/david... ( associated press ) usa's michael phelps competes in a heat of the men's 400-meter individual medley at the 2012 summer olympics, saturday, july 28, 2012, in london. ( ap photo/michael sohn ) ( associated press",
             "London — an albanian weightlifter was banned from the olympics on saturday for failing a drug test, the first athlete to be sanctioned for doping during the london games, according to the international olympic committee. The athlete, hysen pulaku, tested positive for the substance stanozolol, a steroid, in two different urine samples, according to the ioc report. It stated that pulaku said in a hearing on thursday that he wasn't aware he had taken a banned substance but disclosed voluntarily that he had been using several vitamins and dietary supplements during his training, which were given to him by his private coach. Neither the athlete nor his personal coach contests the test",
-            "By reuters during olympic training in london, israeli judokas says lebanese asked organizers to put up a screen between the two teams. Judo ( illustrative ) photo: reuters london - olympic officials were forced to erect a screen between lebanon's and israel's judo fighters on friday after the lebanese refused to train on the same mat, the israeli olympic team said on friday. The incident arose after lebanon's two judokas found themselves next to the five israelis during practice at the official training venue in redbridge, in east london, said nitzan ferraro, spokesman for the israeli olympic committee. \" we started to practice. They came and they saw us",
-            "London 2012: team gb misses out on cycling medal alexandre vinokourov of kazakhstan took the gold continue reading the main story related stories the british cycling team, including hotly tipped mark cavendish, has missed out on an olympic gold medal in the men's road race. The race was the most watched event in the first full day of games around the uk in 19 sports, ranging from shooting to tennis to swimming. Meanwhile olympic authorities are investigating why hundreds of seats were empty for popular events. Earlier, the queen met athletes during a visit to the olympic village. Team gb's hopes of a first-day gold medal were dashed after alexandre vinokourov broke"
+            "By reuters during olympic training in london, israeli judokas says lebanese asked organizers to put up a screen between the two teams. Judo ( illustrative ) photo: reuters london - olympic officials were forced to erect a screen between lebanon's and israel's judo fighters on friday after the lebanese refused to train on the same mat, the israeli olympic team said on friday. The incident arose after lebanon's two judokas found themselves next to the five israelis during practice at the official training venue in redbridge, in east london, said nitzan ferraro, spokesman for the israeli olympic committee. \" we started to practice. They came and they saw us"
         ],
         "raw_document": [
             "Michael phelps almost failed to qualify saturday for the final in the first of his seven events and olympic champion park tae-hwan was disqualified in a stunning opening session of the london olympics swimming program. Usa's michael phelps competes in a heat of the men's 400-meter individual medley at the aquatics centre in the olympic park during the 2012 summer olympics in london, saturday, july 28, 2012. ( ap photo/david... ( associated press ) usa's michael phelps competes in a heat of the men's 400-meter individual medley at the 2012 summer olympics, saturday, july 28, 2012, in london. ( ap photo/michael sohn ) ( associated press",
@@ -493,7 +489,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -543,7 +539,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -573,12 +569,10 @@
     },
     {
         "idx": 15921,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Apple's big iphone unveiling yesterday — in which it replaced the iphone 5 with the similar 5s and cheaper, multicolored 5c — has pundits yawning and investors selling. Here's how people are reacting: the biggest problem is that \" apple failed to feed the insatiable consumer appetite for the new, \" argues marcus wohlsen at wired. The 5s is a nice incremental upgrade, but the world expects more out of apple. \" steve jobs'death wasn't an event of worldwide significance because he could craft better spec sheets. \" many investors were expecting a cheaper iphone that could compete in developing countries, and the 5c misses the mark. \" apple is now offering budget-conscious consumers around the world a strange deal, \" writes farhad manjoo at slate: \" ok, the iphone isn't any cheaper than it used to be. But hey, look, it comes in lots of colors! colors! even pink! how will you be paying? \" apple may have \" hit its blackberry moment, \" worries jonny evans at computerworld, though he thinks it may have bought itself some time. He doesn't think the 5c was supposed to be a budget play, but an effort to diversify its line and give it leeway to break up its every-12-month release schedule. \" this would have been a great idea. Last year. \" rocco pendola at thestreet, meanwhile, thinks yesterday was a blackberry moment, too — for microsoft. \" the media buried the lead \" by focusing on the iphones, he argues. The real news was that apple will offer its iwork productivity suite for free. That move \" could crush microsoft office. \" twitter overall reacted with apathy, cnet reports. According to the analysts at crimson hexagon, about 73 % of social media comments were neutral, compared to 21 % that were basically positive and 6 % that were basically negative.",
         "split": "train",
-        "cleansed_document": [
-            "A year ago, apple seemed unstoppable. Its share price topped $ 700. Its cash horde eclipsed the gdp of many countries. Pundits mused about a $ 1 trillion market cap with a straight face. But nowadays, wall street sees apple very differently — and this morning's much-hyped iphone announcements from the tech giant did little to stop its year-long descent into stagnation. Apple's gold phones, 64-bit processors, and fingerprint sensors barely budged the needle on wall street, as shares fell more than 2 percent from the day's opening price of $ 506.20. The great slide began last september. By april of this year, apple had shed nearly $ 300 billion in value, and shares bottomed out below $ 400. As wired wrote at the time, bearish sellers had plenty of reason to doubt that the post-jobs apple could still dazzle. Yet apple ceo"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "New york ( thestreet ) -- given microsoft's ( msft - get report ) global windows- and office-installed base, it sounds a bit nutty to claim apple ( aapl - get report ) killed it on tuesday, sept. 10. But it did. We're in the early stages of a-like crash that, instead of taking a few years, could span decades. But it will happen. First, there's the obvious -- microsoft can't compete with apple ( or, for that matter ) on smartphones or tablets. We're at the point where the notion of mobile competition between the companies has become farcical. Microsoft andmade absolute fools of themselves after apple introduced its new iphones on tuesday. They tweeted these ads: just an idiotic continuation of what we ' ll now know as the combined collapse of microsoft and nokia. Put your head down and",
             "Photo by justin sullivan/getty images for the last six years, apple has had a simple, increasingly risky plan for selling the iphone. Every year, the company makes only one new model, a phone that represents apple's platonic ideal — the one phone it thinks everybody ought to have. Apple usually sells the new phone for around $ 650, and wireless carriers sell it to customers for $ 199 with a two-year plan. To hedge its bets against low-priced competitors, apple also keeps selling its previous models, reducing the price of each by $ 100. Last year, when apple unveiled the iphone 5, it kept selling 2011's iphone 4s for $ 550 ( $ 99 with a contract ), and the 2010 iphone 4 sold for $ 450 ( free with a contract ). The advantage of this strategy is clear. Unlike its competitors, which make",
@@ -594,17 +588,16 @@
         "vote_count": {
             "0": 3,
             "1": 3,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 15922,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Bridget jones might've had a baby, but she might as well have laid an egg, with the so-called \" three-quel \" pulling in a paltry $ 8.2 million this weekend, notes the hollywood reporter. But jones &amp; co. Weren't alone in their diaper-dirtying, reports the ap, with both blair witch and snowden also failing to, er, sully, sully, which remained atop the box office a second week with $ 22 million. Blair witch landed in no. 2 with $ 9.7 million, while oliver stone found the lowest debut of his career with his edward snowden biopic's $ 8 million, for fourth place.",
         "split": "train",
         "cleansed_document": [
-            "Conversely, ' bridget jones ' wins the overseas race after opening to record numbers in the u.k.; back in the u.s, ' blair witch ' also disappoints, while'snowden ' marks the lowest opening for an oliver stone film rolling out in more than 2,000 theaters. Warner bros. And village roadshow's biographical drama sully continued to fly high in its second weekend at the u.s. Box office, while moviegoers grounded new offerings blair witch and bridget jones's baby, both of which came in well behind predictions with $ 9.7 million and $ 8.2 million, respectively. Oliver stone's snowden, starring joseph gordon-levitt as infamous nsa whistleblower edward snowden, wasn't as much of a disappointment in debuting to $ 8 million, since it hadn't been expected to do much beyond $ 10 million. Still, it's the lowest opening of stone's career for a movie opening in more than 2,000 theaters. Directed by clint eastwood, sully fell a scant 37 percent to $ 22 million for a domestic total of $ 70.5 million, according to weekend results. Tom hanks stars in the film as chesley \" sully \" sullenberger, the pilot who made a forced water landing on the hudson river when his us airways jet was disabled. Overseas, the pic cruised to another $ 7 million from 44 markets for a foreign total of $ 23.4 million and global cume of $ 93.9 million. Sully easily came in no. 1 domestically, followed by lionsgate's blair witch, playing in 3,202 locations. Heading into the weekend, the direct sequel to the 1999 found-footage classic horror film had been expected to earn in the mid- to high-teen millions. While it isn't unusual for horror films to be slapped with some variation of a c-grade cinemascore, blair witch earned a rare d+ from friday moviegoers. Blair witch certainly isn't a financial disaster, having cost only $ 5 million to make. Directed by adam wingard, the movie stars james allen mccune, callie hernandez, brandon scott, corbin reid, wes robinson and valorie curry. For months, the movie was given the fake title the woods to obscure its connection to the blair witch franchise. Bridget jones's baby, reuniting renee zellweger with colin firth and introducing patrick dempsey to the series, opened in 2,927 locations domestically. The filmmakers had hoped the threequel would match my big fat greek wedding 2, which opened to $ 17.8 million domestically earlier this year. The female-skewing film ( 79 percent ) bows 15 years after bridget jones's diary",
-            "This will appear next to all of your comments this will not appear anywhere on newser"
+            "Conversely, ' bridget jones ' wins the overseas race after opening to record numbers in the u.k.; back in the u.s, ' blair witch ' also disappoints, while'snowden ' marks the lowest opening for an oliver stone film rolling out in more than 2,000 theaters. Warner bros. And village roadshow's biographical drama sully continued to fly high in its second weekend at the u.s. Box office, while moviegoers grounded new offerings blair witch and bridget jones's baby, both of which came in well behind predictions with $ 9.7 million and $ 8.2 million, respectively. Oliver stone's snowden, starring joseph gordon-levitt as infamous nsa whistleblower edward snowden, wasn't as much of a disappointment in debuting to $ 8 million, since it hadn't been expected to do much beyond $ 10 million. Still, it's the lowest opening of stone's career for a movie opening in more than 2,000 theaters. Directed by clint eastwood, sully fell a scant 37 percent to $ 22 million for a domestic total of $ 70.5 million, according to weekend results. Tom hanks stars in the film as chesley \" sully \" sullenberger, the pilot who made a forced water landing on the hudson river when his us airways jet was disabled. Overseas, the pic cruised to another $ 7 million from 44 markets for a foreign total of $ 23.4 million and global cume of $ 93.9 million. Sully easily came in no. 1 domestically, followed by lionsgate's blair witch, playing in 3,202 locations. Heading into the weekend, the direct sequel to the 1999 found-footage classic horror film had been expected to earn in the mid- to high-teen millions. While it isn't unusual for horror films to be slapped with some variation of a c-grade cinemascore, blair witch earned a rare d+ from friday moviegoers. Blair witch certainly isn't a financial disaster, having cost only $ 5 million to make. Directed by adam wingard, the movie stars james allen mccune, callie hernandez, brandon scott, corbin reid, wes robinson and valorie curry. For months, the movie was given the fake title the woods to obscure its connection to the blair witch franchise. Bridget jones's baby, reuniting renee zellweger with colin firth and introducing patrick dempsey to the series, opened in 2,927 locations domestically. The filmmakers had hoped the threequel would match my big fat greek wedding 2, which opened to $ 17.8 million domestically earlier this year. The female-skewing film ( 79 percent ) bows 15 years after bridget jones's diary"
         ],
         "raw_document": [
             "Conversely, ' bridget jones ' wins the overseas race after opening to record numbers in the u.k.; back in the u.s, ' blair witch ' also disappoints, while'snowden ' marks the lowest opening for an oliver stone film rolling out in more than 2,000 theaters. Warner bros. And village roadshow's biographical drama sully continued to fly high in its second weekend at the u.s. Box office, while moviegoers grounded new offerings blair witch and bridget jones's baby, both of which came in well behind predictions with $ 9.7 million and $ 8.2 million, respectively. Oliver stone's snowden, starring joseph gordon-levitt as infamous nsa whistleblower edward snowden, wasn't as much of a disappointment in debuting to $ 8 million, since it hadn't been expected to do much beyond $ 10 million. Still, it's the lowest opening of stone's career for a movie opening in more than 2,000 theaters. Directed by clint eastwood, sully fell a scant 37 percent to $ 22 million for a domestic total of $ 70.5 million, according to weekend results. Tom hanks stars in the film as chesley \" sully \" sullenberger, the pilot who made a forced water landing on the hudson river when his us airways jet was disabled. Overseas, the pic cruised to another $ 7 million from 44 markets for a foreign total of $ 23.4 million and global cume of $ 93.9 million. Sully easily came in no. 1 domestically, followed by lionsgate's blair witch, playing in 3,202 locations. Heading into the weekend, the direct sequel to the 1999 found-footage classic horror film had been expected to earn in the mid- to high-teen millions. While it isn't unusual for horror films to be slapped with some variation of a c-grade cinemascore, blair witch earned a rare d+ from friday moviegoers. Blair witch certainly isn't a financial disaster, having cost only $ 5 million to make. Directed by adam wingard, the movie stars james allen mccune, callie hernandez, brandon scott, corbin reid, wes robinson and valorie curry. For months, the movie was given the fake title the woods to obscure its connection to the blair witch franchise. Bridget jones's baby, reuniting renee zellweger with colin firth and introducing patrick dempsey to the series, opened in 2,927 locations domestically. The filmmakers had hoped the threequel would match my big fat greek wedding 2, which opened to $ 17.8 million domestically earlier this year. The female-skewing film ( 79 percent ) bows 15 years after bridget jones's diary",
@@ -619,7 +612,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -773,7 +766,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1024,7 +1017,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1182,17 +1175,16 @@
         "vote_count": {
             "0": 1,
             "1": 3,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 15944,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Darryl hamilton, who played for the milwaukee brewers, texas rangers, colorado rockies, san francisco giants, and new york mets over 13 seasons with major league baseball, was found dead in texas yesterday in an apparent murder-suicide, police say. The former outfielder, who retired in 2001, was found after a dispute in a pearland home, the houston chronicle reports; he had suffered multiple gunshot wounds and monica jordan, 44 and the owner of the suburban houston home, was also found dead there of apparently self-inflicted gunshot wounds. Their 14-month-old son was also in the home, unharmed, usa today reports. \" all of us at major league baseball are shocked and saddened by this tragedy, \" commissioner rob manfred says in a statement, noting that the 50-year-old \" followed a successful 13-year career on the field by assembling a multifaceted career in our game, working for mlb advanced media and in our baseball operations department before moving on to mlb network \" as a broadcaster. Several of hamilton's former teams are planning pre-game moments of silence to honor him, espn reports.",
         "split": "train",
         "cleansed_document": [
-            "Pearland, texas -- darryl hamilton, a standout center fielder and member of the new york mets team that reached the 2000 world series, was killed in a murder-suicide in a suburban houston home, authorities said monday. He was 50. Editor's picks for this former cub reporter, darryl hamilton's smile helped break the ice darryl hamilton wasn't always happy with the mets, or with andrew marchand's coverage. But he always seemed to have a smile on his face anyway. Hamilton was found sunday after he was fatally shot in a house in pearland. He had worked for the mlb network since 2013. An initial investigation determined that hamilton was shot several times and that a woman in the home died of a self-inflicted gunshot wound. She was identified as 44-year-old monica jordan, pearland police lt. Patrick savage said. Hamilton and jordan's 14-month-old child was found unharmed at the home and turned over to child protective services. Hamilton, who was born in baton rouge, louisiana, played for five teams over 13 seasons in the majors before retiring in 2001. He reached the postseason in four of his final five seasons. He had a career batting average of.291 in 1,328 games with milwaukee ( 1988, 1990-95 ), texas ( 1996 ), san francisco ( 1997-98 ), colorado ( 1998-99 )",
-            "Woman suspect in ex-mlb star darryl hamilton's death had previous arson charge the woman who authorities believe shot and killed former major league baseball player and mlb network analyst darryl hamilton, and then herself, at her pearland home pleaded guilty to arson in 2008 in a case where she believed her then-husband was cheating on her, officials said. The bodies of hamilton, 50, and monica jordan, 44, were found about 4: 45 p.m. Sunday inside the house in the 11500 block of island breeze, according to the pearland police department. Police have not released a motive for the shootings. Police said officers were sent to the home on an emergency call about a disturbance. When they arrived, they found the body of hamilton near the front entry way. The body of jordan was found in another part of the home. Brazoria county district attorney jeri yenne said jordan – then monica jordan richards – had pleaded guilty to felony arson in 2008 after burning down a brazoria county house and garage where jordan had been living with her now ex-husband. Yenne said records indicated the dispute had begun over allegations of infidelity on her husband's part. Initial reports also indicated jordan had chased him around the house, trying to throw gasoline on him. He was not injured, yenne said. The colorado rockies are saddened"
+            "Pearland, texas -- darryl hamilton, a standout center fielder and member of the new york mets team that reached the 2000 world series, was killed in a murder-suicide in a suburban houston home, authorities said monday. He was 50. Editor's picks for this former cub reporter, darryl hamilton's smile helped break the ice darryl hamilton wasn't always happy with the mets, or with andrew marchand's coverage. But he always seemed to have a smile on his face anyway. Hamilton was found sunday after he was fatally shot in a house in pearland. He had worked for the mlb network since 2013. An initial investigation determined that hamilton was shot several times and that a woman in the home died of a self-inflicted gunshot wound. She was identified as 44-year-old monica jordan, pearland police lt. Patrick savage said. Hamilton and jordan's 14-month-old child was found unharmed at the home and turned over to child protective services. Hamilton, who was born in baton rouge, louisiana, played for five teams over 13 seasons in the majors before retiring in 2001. He reached the postseason in four of his final five seasons. He had a career batting average of.291 in 1,328 games with milwaukee ( 1988, 1990-95 ), texas ( 1996 ), san francisco ( 1997-98 ), colorado ( 1998-99 )"
         ],
         "raw_document": [
             "Pearland, texas -- darryl hamilton, a standout center fielder and member of the new york mets team that reached the 2000 world series, was killed in a murder-suicide in a suburban houston home, authorities said monday. He was 50. Editor's picks for this former cub reporter, darryl hamilton's smile helped break the ice darryl hamilton wasn't always happy with the mets, or with andrew marchand's coverage. But he always seemed to have a smile on his face anyway. Hamilton was found sunday after he was fatally shot in a house in pearland. He had worked for the mlb network since 2013. An initial investigation determined that hamilton was shot several times and that a woman in the home died of a self-inflicted gunshot wound. She was identified as 44-year-old monica jordan, pearland police lt. Patrick savage said. Hamilton and jordan's 14-month-old child was found unharmed at the home and turned over to child protective services. Hamilton, who was born in baton rouge, louisiana, played for five teams over 13 seasons in the majors before retiring in 2001. He reached the postseason in four of his final five seasons. He had a career batting average of.291 in 1,328 games with milwaukee ( 1988, 1990-95 ), texas ( 1996 ), san francisco ( 1997-98 ), colorado ( 1998-99 )",
@@ -1207,7 +1199,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1243,12 +1235,10 @@
     },
     {
         "idx": 15946,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "When bernice dyck of fresno, calif., welcomed a new daughter in september, her friends showered her with \" baby food \" in the form of red lobster gift cards. It was just right for the 96-year-old and her adopted daughter, 30. Dyck's son, rick, first met chenda kaub chumb during a visit to cambodia in 2003 and casually suggested she should attend school in the us. A visit to the fresno city college's website soon \" began a process which changed all of our lives, \" he tells the fresno bee. He agreed to finance chenda's education from his home in tokyo and his parents agreed to host her. Over the next decade, she \" grew to love and appreciate both of my parents, \" says dyck's son, skip, who lives in michigan. \" we fell in love with her, \" adds bernice. But with every visit home came the possibility that chenda's visa would be denied. Adoption eventually came to mind. Chenda officially joined the family in september — with the approval of her birth mom — making bernice the world's oldest adoptive parent, per guinness world records. \" i have always been grateful for her presence, since i am so far away, \" says skip. \" i have called her'sis'regularly. I guess this sort of makes it legal now. \" chenda and bernice, now a widow, refer to their situation as the \" immaculate conception. \" but \" the full life she helps me live, as my child, is the miracle, \" bernice says. \" i was scared that i would be all alone, that i would have to give up my home. \" now, \" we travel when she isn't studying to complete a master's degree at fresno state. \" chenda, meanwhile, says she has \" finally experienced true love. \" the dyck family \" brought out the best in me, and knew there was and is good in me. My hard work exists because of their love and encouragement. \"",
         "split": "train",
-        "cleansed_document": [
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "The oldest adoptive parent is muriel banks clayton ( b. 22 july 1922, usa ) who was aged 92 years 322 days when she officially adopted mary banks smith ( usa ) in dallas, texas usa, on 9 june 2015. Mark banks smith also took the record for the oldest person to be adopted as she was 76 years 96 days when she was officially adopted by muriel banks clayton.",
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
@@ -1262,7 +1252,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1423,7 +1413,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1473,7 +1463,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1561,13 +1551,12 @@
     },
     {
         "idx": 15958,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A travel company in denmark seems to have struck pr gold with a campaign to jump-start the nation's falling birth rate. Spies travel is generating lots of headlines for its \" do it for denmark! \" promotion, in which it laments that so few babies are being born in the country and offers incentives to couples to fix the problem, reports the sydney morning herald. If couples book a trip and get pregnant — proof is needed, including a photo of a positive test — they can win prizes such as three years of diapers. Denmark had a birth rate of 10 per 10,000 residents in 2013, its lowest in decades and among the lowest in the world, reports the washington post. \" we are concerned, \" says the travel company. \" the fewer danes means fewer people to support the aging population — but sadly, also fewer spies travelers. \" its tongue-in-cheek campaign floats stats such as one claiming that couples have 46 % more sex while on vacation.",
         "split": "train",
         "cleansed_document": [
             "Travel news a still from an advertisement from a travel company that will offer prizes to danish couples who get pregnant while on vacations. A danish travel company on thursday claimed it could boost denmark's dwindling birth rates by sending more couples to romantic cities like paris, in an advertising campaign titled \" do it for denmark! \" in a two-minute video clip featuring abandoned playgrounds and sombre-looking pensioners, spies, the danish unit of britain's thomas cook group, lamented that the country's birth rate was now at a 27-year low. \" at spies we're concerned. Fewer danes mean fewer to support the ageing population - and tragically, fewer holidaying with us, \" the travel company said. While a recent un survey said denmark was the happiest nation on earth, the campaign argues that it may not be the sexiest. Advertisement in the clip, a decidedly grey and depressing scandinavia is contrasted with the city of light, where a young danish couple can be seen drinking in front of the eiffel tower, dancing in front of the moulin rouge and shopping for sexy underwear. \" meet",
-            "Published on mar 26, 2014 no one has found out how to help denmark's falling birth rate. Until now. Spies travels announces a competition where you have to make a baby to win. Https://do-it-for-denmark.dk link to the danish travel agency spies: https://www.spies.dk... Ingen har fundet løsningen på danmarks alarmerende faldende fødselstal. Før nu. Spies står bag en konkurrence, hvor du skal undfange en baby for at vinde. Https://do-it-for-denmark.dk",
-            "Denmark has a lot of things going for it. Last year, the un's world happiness report crowned it the globe's happiest country, citing the nation's commitment to maternity leave, gender equality, biking, and drinking lots of wine when it's cold outside. Its economy is also tops, chugging out $ 211 billion in annual gdp despite its relatively small population of 5.6 million. Economic inequality? not a problem. Income distributes more evenly there than most places. But denmark has a sex problem. ( re-evaluating that happiness ranking already? ) well, it's not exactly a sex problem, per se. It's more like a baby problem. According to government statistics, denmark posted a birth rate of 10 per 1,000 residents in 2013 — its lowest in decades. The nation's birthrate was 9.9 in 1983. Denmark's perennially low birth rate places it with germany ( 8.33 ), japan ( 8.39 ) and singapore ( 7.72 ). And the downward trend has left people worried in denmark. Most couples say they want two or three kids"
+            "Published on mar 26, 2014 no one has found out how to help denmark's falling birth rate. Until now. Spies travels announces a competition where you have to make a baby to win. Https://do-it-for-denmark.dk link to the danish travel agency spies: https://www.spies.dk... Ingen har fundet løsningen på danmarks alarmerende faldende fødselstal. Før nu. Spies står bag en konkurrence, hvor du skal undfange en baby for at vinde. Https://do-it-for-denmark.dk"
         ],
         "raw_document": [
             "Travel news a still from an advertisement from a travel company that will offer prizes to danish couples who get pregnant while on vacations. A danish travel company on thursday claimed it could boost denmark's dwindling birth rates by sending more couples to romantic cities like paris, in an advertising campaign titled \" do it for denmark! \" in a two-minute video clip featuring abandoned playgrounds and sombre-looking pensioners, spies, the danish unit of britain's thomas cook group, lamented that the country's birth rate was now at a 27-year low. \" at spies we're concerned. Fewer danes mean fewer to support the ageing population - and tragically, fewer holidaying with us, \" the travel company said. While a recent un survey said denmark was the happiest nation on earth, the campaign argues that it may not be the sexiest. Advertisement in the clip, a decidedly grey and depressing scandinavia is contrasted with the city of light, where a young danish couple can be seen drinking in front of the eiffel tower, dancing in front of the moulin rouge and shopping for sexy underwear. \" meet",
@@ -1584,7 +1573,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1614,7 +1603,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1709,7 +1698,7 @@
             "4": 1,
             "5": 1,
             "6": 1,
-            "7": 0
+            "7": 1
         }
     },
     {
@@ -1925,7 +1914,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1955,12 +1944,11 @@
     },
     {
         "idx": 15972,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Wisconsin gov. Scott walker's victory in a fierce recall battle is a costly blow to labor that will likely have major repercussions across the nation, notes the wall street journal. Inspired by walker's ability to withstand a challenge to his labor changes cutting collective bargaining rights for most public workers, other legislators may now be emboldened to press for anti-union measures such as \" right to work \" laws, further decreasing the number of dues-paying union members and diluting labor's political clout. And what's bad for labor is generally regarded as bad for democrats. Public sector union pacs have donated $ 4.7 million to congressional candidates so far this year, with about 90 % of that going to democrats, according to the center for responsive politics. Republicans control legislatures and governorships in 24 states, and that's where further changes in worker rights will most likely occur, notes the journal. But the wisconsin vote didn't necessarily reveal crystal clear support for walker's anti-union policies — or republicans. Exit polls revealed that 18 % of walker supporters favored president obama, reports the new york times, and a majority of voters said they believe recalls are only appropriate for incumbents accused of misconduct, not simply because their policies are unpopular.",
         "split": "train",
         "cleansed_document": [
-            "Photo advertisement continue reading the main story waukesha, wis. — gov. Scott walker, whose decision to cut collective bargaining rights for most public workers set off a firestorm in a state usually known for its political civility, easily held on to his job on tuesday, becoming the first governor in the country to survive a recall election and dealing a painful blow to democrats and labor unions. With 53 percent of the vote, mr. Walker soundly defeated mayor tom barrett of milwaukee, the democrats ' nominee in the recall attempt, who had 46 percent, with most precincts across the state reporting results. The victory by mr. Walker, a republican who was forced into an election to save his job less than two years into his first term, ensures that republicans largely retain control of this state's capital, and his fast-rising political profile is likely to soar still higher among conservatives. Here in waukesha, some republican voters said the result ended the most volatile partisan fight in memory, one that boiled over 16 months ago in the collective bargaining battle and expanded into scuffles about spending, jobs, taxes, the role and size of government, and more. Democrats, some of whom are already pledging to mount strong challenges for state lawmakers'seats in november, seemed less sure about the meaning of mr. Walker's victory. \"tonight, we tell wisconsin, we tell our country and we tell people all across the globe that voters really do want leaders who stand up and make the tough decisions, \" mr. Walker said, delivering a victory speech to supporters here. \"but now it is time to move on and move forward in wisconsin. \" in his concession speech in milwaukee, mr. Barrett said: \"we are a state that has been deeply divided. It is up to all of us — our side and their side — to listen, to listen to each other. \" the result raised broader questions about the strength of labor groups, who had called hundreds of thousands of voters and knocked on thousands of doors. The outcome also seemed likely to embolden leaders in other states who have considered limits to unions as a way to solve budget problems, but had watched the backlash against mr. Walker with worry. Advertisement continue reading the main story some republicans said they considered mr. Walker's victory one indication that wisconsin, which president obama won easily in 2008 and which democrats have carried in every presidential election since 1988, may be worth battling for this",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Photo advertisement continue reading the main story waukesha, wis. — gov. Scott walker, whose decision to cut collective bargaining rights for most public workers set off a firestorm in a state usually known for its political civility, easily held on to his job on tuesday, becoming the first governor in the country to survive a recall election and dealing a painful blow to democrats and labor unions. With 53 percent of the vote, mr. Walker soundly defeated mayor tom barrett of milwaukee, the democrats ' nominee in the recall attempt, who had 46 percent, with most precincts across the state reporting results. The victory by mr. Walker, a republican who was forced into an election to save his job less than two years into his first term, ensures that republicans largely retain control of this state's capital, and his fast-rising political profile is likely to soar still higher among conservatives. Here in waukesha, some republican voters said the result ended the most volatile partisan fight in memory, one that boiled over 16 months ago in the collective bargaining battle and expanded into scuffles about spending, jobs, taxes, the role and size of government, and more. Democrats, some of whom are already pledging to mount strong challenges for state lawmakers'seats in november, seemed less sure about the meaning of mr. Walker's victory. \"tonight, we tell wisconsin, we tell our country and we tell people all across the globe that voters really do want leaders who stand up and make the tough decisions, \" mr. Walker said, delivering a victory speech to supporters here. \"but now it is time to move on and move forward in wisconsin. \" in his concession speech in milwaukee, mr. Barrett said: \"we are a state that has been deeply divided. It is up to all of us — our side and their side — to listen, to listen to each other. \" the result raised broader questions about the strength of labor groups, who had called hundreds of thousands of voters and knocked on thousands of doors. The outcome also seemed likely to embolden leaders in other states who have considered limits to unions as a way to solve budget problems, but had watched the backlash against mr. Walker with worry. Advertisement continue reading the main story some republicans said they considered mr. Walker's victory one indication that wisconsin, which president obama won easily in 2008 and which democrats have carried in every presidential election since 1988, may be worth battling for this"
         ],
         "raw_document": [
             "Photo advertisement continue reading the main story waukesha, wis. — gov. Scott walker, whose decision to cut collective bargaining rights for most public workers set off a firestorm in a state usually known for its political civility, easily held on to his job on tuesday, becoming the first governor in the country to survive a recall election and dealing a painful blow to democrats and labor unions. With 53 percent of the vote, mr. Walker soundly defeated mayor tom barrett of milwaukee, the democrats ' nominee in the recall attempt, who had 46 percent, with most precincts across the state reporting results. The victory by mr. Walker, a republican who was forced into an election to save his job less than two years into his first term, ensures that republicans largely retain control of this state's capital, and his fast-rising political profile is likely to soar still higher among conservatives. Here in waukesha, some republican voters said the result ended the most volatile partisan fight in memory, one that boiled over 16 months ago in the collective bargaining battle and expanded into scuffles about spending, jobs, taxes, the role and size of government, and more. Democrats, some of whom are already pledging to mount strong challenges for state lawmakers'seats in november, seemed less sure about the meaning of mr. Walker's victory. \"tonight, we tell wisconsin, we tell our country and we tell people all across the globe that voters really do want leaders who stand up and make the tough decisions, \" mr. Walker said, delivering a victory speech to supporters here. \"but now it is time to move on and move forward in wisconsin. \" in his concession speech in milwaukee, mr. Barrett said: \"we are a state that has been deeply divided. It is up to all of us — our side and their side — to listen, to listen to each other. \" the result raised broader questions about the strength of labor groups, who had called hundreds of thousands of voters and knocked on thousands of doors. The outcome also seemed likely to embolden leaders in other states who have considered limits to unions as a way to solve budget problems, but had watched the backlash against mr. Walker with worry. Advertisement continue reading the main story some republicans said they considered mr. Walker's victory one indication that wisconsin, which president obama won easily in 2008 and which democrats have carried in every presidential election since 1988, may be worth battling for this",
@@ -1975,7 +1963,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2100,7 +2088,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2187,12 +2175,10 @@
     },
     {
         "idx": 15980,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Alicia silverstone gave birth to her first child, a son, on thursday. And what moniker did she give her bundle of joy? here's a hint: goldilocks might try to eat his porridge. And then he might feel sad. The actress's babe with hubby christopher jarecki is named bear blu jarecki, reports people. \" we are all three in love! \" the actress blogged sweetly. \" i ' m so grateful to this community for all the love, support, good wishes and happy vibes you've sent me during my pregnancy... It has been wonderful. Thank you all! \" ( he enters the world in good company; click to find out what mariah carey named her twins. )",
         "split": "train",
-        "cleansed_document": [
-            "I found these adorable vegan boy shoes by a company livie &amp; luca. A lot of their shoes are leather, but these particular shoes they came up with in response to requests and demands of vegan shoes!! hooray for cute vegan baby-toddler shoes. Im about to order them for my son golden!!! ( i wanted to name his middle name blue also- but our last name is long- so golden blue long.... My hubby said was slightly pornish?!! lol ) anyway, congradulations, and here is a link to the shoes"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites.",
             "I found these adorable vegan boy shoes by a company livie &amp; luca. A lot of their shoes are leather, but these particular shoes they came up with in response to requests and demands of vegan shoes!! hooray for cute vegan baby-toddler shoes. Im about to order them for my son golden!!! ( i wanted to name his middle name blue also- but our last name is long- so golden blue long.... My hubby said was slightly pornish?!! lol ) anyway, congradulations, and here is a link to the shoes"
@@ -2206,7 +2192,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2239,12 +2225,11 @@
     },
     {
         "idx": 15982,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Rush limbaugh called a new triple double oreo a \" biracial \" cookie with both vanilla and chocolate cream that he quipped will be known at the \" or-bam-eo — the triple double-dipper. \" limbaugh has used the oreo slight once before against obama, bet points out. In 2009, he said that food safety advocates were \"going to go after oreos, \" but said they might have to wait until \" obama leaves office. \" nevertheless, limbaugh once groused about a claim that oreos had been thrown at former rnc chair michael steele. \" they're throwing oreo cookies at the guy when he goes out and makes a speech, and they're claiming he's ' black on the outside, white on the inside, ' \" an outraged limbaugh huffed on his talk show. Many americans \" may have given limbaugh the benefit of the doubt concerning the various charges that he might be a racist, \" notes the daily mail. \" that benefit has probably now been rescinded. \"",
         "split": "train",
         "cleansed_document": [
-            "Rush limbaugh likens new oreo cookie to president obama, calling it the or-bam-eo by daily mail reporter last updated at 4: 45 am on 18th august 2011 outspoken rush limbaugh went on the offensive again on wednesday by calling the new oreo that will have both chocolate and vanilla cream as a ' biracial ' cookie. He then went on to say on his radio show that ' it isn't going to be long before it's going to be called the or-bam-eo or something like this. ' limbaugh later called it the ' or-bam-eo ' himself, using the term to mock michelle obama's campaign against childhood obesity. Scroll down to hear the oreo segment racially charged? rush limbaugh courted criticism on wednesday when he discussed the new bigger oreo cookie he said:'the food industry responds with \" take this \" and kraft comes up with the or-ba-meo.'the long-awaited triple double oreo, a new version of the iconic sandwich cookie, whose coming was announced in may, arrived in stores nationwide on wednesday. Limbaugh has for years railed against liberals and democrats driving america down the highway to hell. Many americans may have given limbaugh the benefit of the doubt over the years concerning the various charges that he might be either a racist or a closeted one. Cringeworthy comparison: rush limbaugh referred to the white",
-            "For those who think the double stuf oreo is too dainty, kraft foods has introduced the triple double oreo, which combines a layer of vanilla cream, a layer of chocolate cream and three chocolate wafers. \" our fans ' passion and enthusiasm has challenged us to raise our game, \" jessica robinson, associate director of consumer engagement, kraft foods said in a statement. \" we are looking forward to engaging with oreo fans as they share their twisting, licking and dunking moments with the new triple double oreo cookie. \" the new cookie is actually a new take on argentina's oreo \" x3 \" ( pronounced \" por tres \" ) cookie, introduced in 2010. \" the birthplace of oreo is america, but it's one global cookie, \" says john ghingo, senior director of global marketing for oreo.kraft's nabisco unit will launch television advertising featuring shaquille o ' neal, eli manning venus williams and apolo ohno in early september.kraft has been juicing up its investment in oreo in recent years. The company considers oreo, a $ 1.5 billion brand, and the world's best-selling cookie by sales, to be one of its global \" power brands. \" in the company's most recent earnings call, ceo irene rosenfeld said oreo sales are up 22 percent over the first two quarters"
+            "Rush limbaugh likens new oreo cookie to president obama, calling it the or-bam-eo by daily mail reporter last updated at 4: 45 am on 18th august 2011 outspoken rush limbaugh went on the offensive again on wednesday by calling the new oreo that will have both chocolate and vanilla cream as a ' biracial ' cookie. He then went on to say on his radio show that ' it isn't going to be long before it's going to be called the or-bam-eo or something like this. ' limbaugh later called it the ' or-bam-eo ' himself, using the term to mock michelle obama's campaign against childhood obesity. Scroll down to hear the oreo segment racially charged? rush limbaugh courted criticism on wednesday when he discussed the new bigger oreo cookie he said:'the food industry responds with \" take this \" and kraft comes up with the or-ba-meo.'the long-awaited triple double oreo, a new version of the iconic sandwich cookie, whose coming was announced in may, arrived in stores nationwide on wednesday. Limbaugh has for years railed against liberals and democrats driving america down the highway to hell. Many americans may have given limbaugh the benefit of the doubt over the years concerning the various charges that he might be either a racist or a closeted one. Cringeworthy comparison: rush limbaugh referred to the white"
         ],
         "raw_document": [
             "Rush limbaugh likens new oreo cookie to president obama, calling it the or-bam-eo by daily mail reporter last updated at 4: 45 am on 18th august 2011 outspoken rush limbaugh went on the offensive again on wednesday by calling the new oreo that will have both chocolate and vanilla cream as a ' biracial ' cookie. He then went on to say on his radio show that ' it isn't going to be long before it's going to be called the or-bam-eo or something like this. ' limbaugh later called it the ' or-bam-eo ' himself, using the term to mock michelle obama's campaign against childhood obesity. Scroll down to hear the oreo segment racially charged? rush limbaugh courted criticism on wednesday when he discussed the new bigger oreo cookie he said:'the food industry responds with \" take this \" and kraft comes up with the or-ba-meo.'the long-awaited triple double oreo, a new version of the iconic sandwich cookie, whose coming was announced in may, arrived in stores nationwide on wednesday. Limbaugh has for years railed against liberals and democrats driving america down the highway to hell. Many americans may have given limbaugh the benefit of the doubt over the years concerning the various charges that he might be either a racist or a closeted one. Cringeworthy comparison: rush limbaugh referred to the white",
@@ -2259,17 +2244,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 15983,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The leader of the republican-controlled senate is ruling out the idea of considering president obama's supreme court nominee after the november election, as one gop colleague has suggested. \" i can't imagine that a republican majority congress in a lame duck session after the american people have spoken would want to confirm a nominee opposed by the nra, the nfib, ( and who ) the new york times says would move the court dramatically to the left, \" senate majority leader mitch mcconnell told cnn. \" this nomination ought to be made by the next president. \" that talk had come up in the event the presidency went to a democrat — say, hillary clinton — who might nominate someone more liberal than obama's centrist pick, federal appeals court judge merrick garland, reports the ap. Mcconnell has stood firm in saying the senate would leave the pick to the next president, and when asked if he was ruling out any sort of lame-duck scenario, he responded, \" yes. \" arizona sen. Jeff flake has raised that scenario.",
         "split": "train",
         "cleansed_document": [
-            "Story highlights the top senate republican says he opposes a lame duck supreme court confirmation mitch mcconnell said republicans will run individual races and won't be hampered by the party's presidential nominee washington ( cnn ) senate majority leader mitch mcconnell ruled out confirming president barack obama's supreme court nominee, merrick garland, in a lame duck session after november's election. In an interview with cnn's dana bash on \" state of the union \" sunday, the kentucky republican stuck by his stance that obama's successor ought to fill the vacancy created by the death of justice antonin scalia. \" i can't imagine that a republican majority congress in a lame duck session after the american people have spoken would want to confirm a nominee opposed by the nra, the nfib, and the new york times says would move the court dramatically to the left, \" mcconnell said. \" this nomination ought to be made by the next president. \" he also criticized garland, arguing that opposition to his nomination from the national rifle association and the national federation of independent businesses shows he's too liberal. Asked if he's ruling out the possibility of a lame duck confirmation entirely, mcconnell said: \" yes. \" read more",
-            "This will appear next to all of your comments this will not appear anywhere on newser"
+            "Story highlights the top senate republican says he opposes a lame duck supreme court confirmation mitch mcconnell said republicans will run individual races and won't be hampered by the party's presidential nominee washington ( cnn ) senate majority leader mitch mcconnell ruled out confirming president barack obama's supreme court nominee, merrick garland, in a lame duck session after november's election. In an interview with cnn's dana bash on \" state of the union \" sunday, the kentucky republican stuck by his stance that obama's successor ought to fill the vacancy created by the death of justice antonin scalia. \" i can't imagine that a republican majority congress in a lame duck session after the american people have spoken would want to confirm a nominee opposed by the nra, the nfib, and the new york times says would move the court dramatically to the left, \" mcconnell said. \" this nomination ought to be made by the next president. \" he also criticized garland, arguing that opposition to his nomination from the national rifle association and the national federation of independent businesses shows he's too liberal. Asked if he's ruling out the possibility of a lame duck confirmation entirely, mcconnell said: \" yes. \" read more"
         ],
         "raw_document": [
             "Story highlights the top senate republican says he opposes a lame duck supreme court confirmation mitch mcconnell said republicans will run individual races and won't be hampered by the party's presidential nominee washington ( cnn ) senate majority leader mitch mcconnell ruled out confirming president barack obama's supreme court nominee, merrick garland, in a lame duck session after november's election. In an interview with cnn's dana bash on \" state of the union \" sunday, the kentucky republican stuck by his stance that obama's successor ought to fill the vacancy created by the death of justice antonin scalia. \" i can't imagine that a republican majority congress in a lame duck session after the american people have spoken would want to confirm a nominee opposed by the nra, the nfib, and the new york times says would move the court dramatically to the left, \" mcconnell said. \" this nomination ought to be made by the next president. \" he also criticized garland, arguing that opposition to his nomination from the national rifle association and the national federation of independent businesses shows he's too liberal. Asked if he's ruling out the possibility of a lame duck confirmation entirely, mcconnell said: \" yes. \" read more",
@@ -2284,17 +2268,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 15984,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "It's not your imagination — more people are having twins these days. A recent study found that the rate of twin births in many developed countries has nearly doubled ( or more than doubled, in some cases ) in the past few decades, the atlantic reports. The study, published in population and development review, looked at data on twin births per 1,000 deliveries between 1975 and 2011. During that period, twin births increased from 9.5 to 16.9 in the us, 9.9 to 16.1 in england and wales, 9.2 to 17.2 in germany, 9.3 to 17.4 in france, 9.6 to 21.2 in denmark, and 5.0 to 14.6 in south korea. As the atlantic notes, these rates apply to fraternal twins, when two eggs are released and fertilized by two different sperm. The rate of identical twin births has remained consistent. The study pinpoints two primary reasons for what the atlantic terms the \" twincrease \" in wealthy countries. First, women in developed countries are more likely to have children later in life, and older mothers are more likely to have fraternal twins than younger ones. ( in england and wales, women between the ages of 35 and 39 were the most likely to have twins, the independent reports. ) second, fertility treatments, such as in vitro fertilization, increase the chances of a woman becoming pregnant with more than one baby. However, cases of fraternal twins ( which peaked between 1998 and 2010 in about 25 % of the countries studied ) linked to fertility treatments may be declining as doctors become more precise in how treatments are applied ( such as transferring a single embryo at a time, rather than several ). Nonetheless, the increase in twin births is a public health issue, according to the study's authors. Risks include a higher risk of premature birth, stillbirth, and infant mortality; lower birth weights and more complications at birth; and a higher risk of gestational diabetes, pre-eclampsia, and postpartum depression in mothers.",
         "split": "train",
         "cleansed_document": [
-            "This rise is pretty much entirely from fraternal twins — two eggs released during ovulation and fertilized by two different sperm. The rate of identical twins, who develop from one zygote that splits and forms two embryos, tends to stay relatively constant around the world, and doesn't seem to be affected by any external factors. But the likelihood of having fraternal twins, or dizygotic twins, changes depending on the age of the mother, how many children she's already had, the country she lives in, and genetic factors. In 1975, there were 9.5 twin births per 1,000 deliveries in the united states. In 2011, there were 16.9 twins per 1,000 births. The increase over that time was similar in england and wales ( from 9.9 to 16.1 ), france ( 9.3 to 17.4 ), and germany ( 9.2 to 17.2 ), and a little steeper in denmark ( 9.6 to 21.2 ) and south korea ( 5 to 14.6 ). Twin rate in developed countries, 1900 to 2013 population and development review the older the mother, the more likely she is to have fraternal twins. This is one reason the study cites for the increase of twins in wealthy, developed countries, where women are more likely to have their first child later in life. In the united states, the average age",
-            "1/25 most child antidepressants are ineffective and can lead to suicidal thoughts the majority of antidepressants are ineffective and may be unsafe, for children and teenager with major depression, experts have warned. In what is the most comprehensive comparison of 14 commonly prescribed antidepressant drugs to date, researchers found that only one brand was more effective at relieving symptoms of depression than a placebo. Another popular drug, venlafaxine, was shown increase the risk users engaging in suicidal thoughts and attempts at suicide roschetzkyistockphoto / getty 2/25 ' universal cancer vaccine ' breakthrough claimed by experts scientists have taken a \"very positive step \" towards creating a universal vaccine against cancer that makes the body's immune system attack tumours as if they were a virus, experts have said. Writing in nature, an international team of researchers described how they had taken pieces of cancer's genetic rna code, put them into tiny nanoparticles of fat and then injected the mixture into the bloodstreams of three patients in the advanced stages of the disease. The patients ' immune systems responded by producing \" killer \" t-cells designed to attack cancer. The vaccine was also found to be effective in fighting \"aggressively growing \" tumours in mice, according to researchers, who were led by professor ugur sahin from johannes gutenberg university in germany rex features 3/25 green tea could be used to treat brain issues"
+            "This rise is pretty much entirely from fraternal twins — two eggs released during ovulation and fertilized by two different sperm. The rate of identical twins, who develop from one zygote that splits and forms two embryos, tends to stay relatively constant around the world, and doesn't seem to be affected by any external factors. But the likelihood of having fraternal twins, or dizygotic twins, changes depending on the age of the mother, how many children she's already had, the country she lives in, and genetic factors. In 1975, there were 9.5 twin births per 1,000 deliveries in the united states. In 2011, there were 16.9 twins per 1,000 births. The increase over that time was similar in england and wales ( from 9.9 to 16.1 ), france ( 9.3 to 17.4 ), and germany ( 9.2 to 17.2 ), and a little steeper in denmark ( 9.6 to 21.2 ) and south korea ( 5 to 14.6 ). Twin rate in developed countries, 1900 to 2013 population and development review the older the mother, the more likely she is to have fraternal twins. This is one reason the study cites for the increase of twins in wealthy, developed countries, where women are more likely to have their first child later in life. In the united states, the average age"
         ],
         "raw_document": [
             "This rise is pretty much entirely from fraternal twins — two eggs released during ovulation and fertilized by two different sperm. The rate of identical twins, who develop from one zygote that splits and forms two embryos, tends to stay relatively constant around the world, and doesn't seem to be affected by any external factors. But the likelihood of having fraternal twins, or dizygotic twins, changes depending on the age of the mother, how many children she's already had, the country she lives in, and genetic factors. In 1975, there were 9.5 twin births per 1,000 deliveries in the united states. In 2011, there were 16.9 twins per 1,000 births. The increase over that time was similar in england and wales ( from 9.9 to 16.1 ), france ( 9.3 to 17.4 ), and germany ( 9.2 to 17.2 ), and a little steeper in denmark ( 9.6 to 21.2 ) and south korea ( 5 to 14.6 ). Twin rate in developed countries, 1900 to 2013 population and development review the older the mother, the more likely she is to have fraternal twins. This is one reason the study cites for the increase of twins in wealthy, developed countries, where women are more likely to have their first child later in life. In the united states, the average age",
@@ -2309,7 +2292,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2334,17 +2317,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
         "idx": 15986,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Wyclef jean defended his yele haiti charity against accusations of fraud today, crying as he spoke in creole. \" did i ever use yele money for personal benefits? absolutely not, \" the singer told reporters. The revelation that the charity paid $ 250,000 for services provided telemax, a haitian television company owned by jean, originated with the smoking gun and quickly mushroomed. But irs experts that it is common for individuals to charge their own charities, a claim made more legitimate because telemax charged yele below-market rates, cnnmoney reports. Hugh locke, president of yele, said the transaction was merely meant to be efficient, and that the company would not make the mistake again. Yele had also filed several years ' worth of tax returns late, a lapse expected to be corrected now that the charity is taking in millions of dollars.",
         "split": "train",
         "cleansed_document": [
-            "Wyclef jean tearfully defends charity wyclef jean denied claims about his charity's finances:'did i ever use yele money for personal benefits? absolutely not. ' new york ( cnnmoney.com ) -- as musician wyclef jean tearfully denied recent allegations that he misappropriated funds from his yele haiti charity, experts on non-profits said they couldn't find serious wrongdoing, except for a lapse of discipline in filing his taxes. \" did i ever use yele money for personal benefits? absolutely not, \" jean said monday at a press conference in manhattan. \" yele's books are open and transparent, and we have a clean bill of health by an external auditor every year since we started. \" the tears began as jean addressed his fellow haitians in his native creole. \" i do not cry for myself; i cry for them, \" he explained, translating for the english-speaking members of the audience. \" i tell them, just permit us a little time. \" the charges of misappropriated funds emerged over the last several days, as jean was in port-au-prince assisting with relief efforts following last week's earthquake. Donations have poured in during that time, totaling \" several million dollars, \" hugh locke, president of yele haiti, said at the press conference. The accusations stem from the tax forms for",
-            "1/15 update: records show tenuous past of jean's foundation wyclef jean charity's funny money haiti earthquake aid pours into group that has enriched singer january 14 -- the haiti earthquake has already triggered hundreds of thousands of donations to musician wyclef jean's charitable foundation, which expects to raise upwards of $ 1 million a day in the disaster's wake. However, internal revenue service records show the group has a lackluster history of accounting for its finances, and that the organization has paid the performer and his business partner at least $ 410,000 for rent, production services, and jean's appearance at a benefit concert. Though the wyclef jean foundation, which does business as yele haiti foundation, was incorporated 12 years ago -- and has been active since that time -- the group only first filed tax returns in august 2009. That month, the foundation provided the irs with returns covering calendar years 2005, 2006, and 2007 -- the only periods for which it has publicly provided a glimpse at its financial affairs. In 2006, jean's charity reported contributions of $ 1 million, the bulk of which came from people magazine in exchange for the first photos of a pregnant angelina jolie ( the actress reportedly directed that the publication's payment go to jean's charity, not her personally )"
+            "Wyclef jean tearfully defends charity wyclef jean denied claims about his charity's finances:'did i ever use yele money for personal benefits? absolutely not. ' new york ( cnnmoney.com ) -- as musician wyclef jean tearfully denied recent allegations that he misappropriated funds from his yele haiti charity, experts on non-profits said they couldn't find serious wrongdoing, except for a lapse of discipline in filing his taxes. \" did i ever use yele money for personal benefits? absolutely not, \" jean said monday at a press conference in manhattan. \" yele's books are open and transparent, and we have a clean bill of health by an external auditor every year since we started. \" the tears began as jean addressed his fellow haitians in his native creole. \" i do not cry for myself; i cry for them, \" he explained, translating for the english-speaking members of the audience. \" i tell them, just permit us a little time. \" the charges of misappropriated funds emerged over the last several days, as jean was in port-au-prince assisting with relief efforts following last week's earthquake. Donations have poured in during that time, totaling \" several million dollars, \" hugh locke, president of yele haiti, said at the press conference. The accusations stem from the tax forms for"
         ],
         "raw_document": [
             "Wyclef jean tearfully defends charity wyclef jean denied claims about his charity's finances:'did i ever use yele money for personal benefits? absolutely not. ' new york ( cnnmoney.com ) -- as musician wyclef jean tearfully denied recent allegations that he misappropriated funds from his yele haiti charity, experts on non-profits said they couldn't find serious wrongdoing, except for a lapse of discipline in filing his taxes. \" did i ever use yele money for personal benefits? absolutely not, \" jean said monday at a press conference in manhattan. \" yele's books are open and transparent, and we have a clean bill of health by an external auditor every year since we started. \" the tears began as jean addressed his fellow haitians in his native creole. \" i do not cry for myself; i cry for them, \" he explained, translating for the english-speaking members of the audience. \" i tell them, just permit us a little time. \" the charges of misappropriated funds emerged over the last several days, as jean was in port-au-prince assisting with relief efforts following last week's earthquake. Donations have poured in during that time, totaling \" several million dollars, \" hugh locke, president of yele haiti, said at the press conference. The accusations stem from the tax forms for",
@@ -2359,7 +2341,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2396,17 +2378,16 @@
             "3": 0,
             "4": 0,
             "5": 5,
-            "6": 0
+            "6": 1
         }
     },
     {
         "idx": 15988,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Following on the heels of the mysterious billboard with a photo of george w. Bush and the caption \"miss me yet? \", a blog unfriendly to president obama's expansive spending — and his health-reform plan, in particular — is claiming credit for a new one, this featuring jimmy carter. \"we need a good laugh after the theft of our liberty, \" an uncredited entry on criticalbias.org reads. An earlier post by tim maxwell rips into big-spending democrats, blasting social initiatives by franklin roosevelt and obama, who has \"simply been fdr times two, \" and now \"we comparably and unseemingly long for the good 'ol days of jimmy carter \" — by those standards, a drop in the big-government bucket.",
         "split": "train",
         "cleansed_document": [
-            "Yeah, the billboard is real. And you laughed when you saw it. You know exactly why you laughed. Lord knows we need a good laugh after the theft of our liberty today, with the passage of obamacare. If you happen to be one of those that 'don't get it ', well, nothing can be written to explain it to you. Obviously this billboard was put into motion quite some time ago. It is just coincidence that this morning president barack obama signed into law his healthcare 'reform ' when we received word our billboard went up. It almost seems poetic. Originally, we had 2 articles planned that were tied to this billboard ( found here and here ). Due to this weekend's vote, and today's signing of the 'reform ' bill into law, it seemed appropriate for us to write a few words … as funny as the billboard may be, anger seems to be the most expressive of late. Think about what this 'healthcare ' law means. The government is regulating 'men ' as commerce. Let it sink in- the only time in our history where human beings were treated as commerce was prior to the civil war – when slavery was legal. Now some pundits and politicians will argue the new law does not regulate men as commerce. 'semantics '",
-            "Tim maxwell this is part i. Part ii can be found here. If you are looking for 'miss me yet- jimmy carter ' billboard, visit here. The new deal. The great society. The community reinvestment act. Obamacare. Socialism. I am a descendant of men who fought in the american revolutionary war. I had the promise of being a free man. In 1967 i was born not as a free man, but as a slave to debt. I, as a citizen of the united states, owe money to other people; foreign and domestic. Having spent not one dime prior to 1967, somehow i was born, in the land of the free, indebted. This debt began accumulating in earnest under socialist policies enacted by democrats that can be traced back to the new deal around 1933. Since that time, we have witnessed the rise of the great society. We have watched the inception and expansion of the community reinvestment act that led to the current economic crisis. We are now witnessing historic deficit spending under president obama and the democrats while they realize the fruition of their teeth being bore into every last part of our lives and our economy; the socialists reign supreme. After all, according to president barack obama's chief of staff, rahm emanuel: \"you never want a serious crisis"
+            "Yeah, the billboard is real. And you laughed when you saw it. You know exactly why you laughed. Lord knows we need a good laugh after the theft of our liberty today, with the passage of obamacare. If you happen to be one of those that 'don't get it ', well, nothing can be written to explain it to you. Obviously this billboard was put into motion quite some time ago. It is just coincidence that this morning president barack obama signed into law his healthcare 'reform ' when we received word our billboard went up. It almost seems poetic. Originally, we had 2 articles planned that were tied to this billboard ( found here and here ). Due to this weekend's vote, and today's signing of the 'reform ' bill into law, it seemed appropriate for us to write a few words … as funny as the billboard may be, anger seems to be the most expressive of late. Think about what this 'healthcare ' law means. The government is regulating 'men ' as commerce. Let it sink in- the only time in our history where human beings were treated as commerce was prior to the civil war – when slavery was legal. Now some pundits and politicians will argue the new law does not regulate men as commerce. 'semantics '"
         ],
         "raw_document": [
             "Yeah, the billboard is real. And you laughed when you saw it. You know exactly why you laughed. Lord knows we need a good laugh after the theft of our liberty today, with the passage of obamacare. If you happen to be one of those that 'don't get it ', well, nothing can be written to explain it to you. Obviously this billboard was put into motion quite some time ago. It is just coincidence that this morning president barack obama signed into law his healthcare 'reform ' when we received word our billboard went up. It almost seems poetic. Originally, we had 2 articles planned that were tied to this billboard ( found here and here ). Due to this weekend's vote, and today's signing of the 'reform ' bill into law, it seemed appropriate for us to write a few words … as funny as the billboard may be, anger seems to be the most expressive of late. Think about what this 'healthcare ' law means. The government is regulating 'men ' as commerce. Let it sink in- the only time in our history where human beings were treated as commerce was prior to the civil war – when slavery was legal. Now some pundits and politicians will argue the new law does not regulate men as commerce. 'semantics '",
@@ -2421,7 +2402,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2502,7 +2483,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2557,15 +2538,14 @@
     },
     {
         "idx": 15994,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "A van plowed into a group of pedestrians in toronto on monday, killing nine people and injuring another 16, but whether it did so deliberately was not clear. The driver was in custody, reports the cbc, though no details were immediately provided about the arrest. Police say the van had fled the scene after the incident, which happened at 1: 30pm at the busy intersection of yonge street and finch avenue, per the ap. \"reports were that a white van mounted the curb, drove down the sidewalk at southbound yonge, south of finch, and struck eight to 10 people possibly, the numbers aren't confirmed yet, \" a police spokesperson initially told canada's global news. A law enforcement official anonymously tells cnn the act appears to have been deliberate, but authorities have not publicly stated whether it was intentional and in announcing the arrest the deputy police chief did not provide any possible cause or motive, the ap reports. Canada's minister of public safety also said it's too soon to say whether the crash is a case of international terrorism. Ralph goodale told reporters that police are still investigating to determine what happened and why.",
         "split": "train",
         "cleansed_document": [
             "Twenty-five-year-old richmond hill resident alek minassian has been identified as the driver of a white van that struck and killed 10 people and left 14 people injured in toronto monday. Chief mark saunders made the announcement during a news conference monday evening. Police said they received the first call before 1: 30 p.m. Officers received reports of a white rental van hitting a number of pedestrians while driving south on yonge street. The male driver was arrested by police minutes later. Read more: eyewitnesses describe panic as van hits toronto pedestrians saunders said investigators are still trying to determine the suspect's motive, but as of monday evening, the suspect's",
             "( cnn ) ten people are dead and 15 are injured after the driver of a van plowed into multiple pedestrians in toronto on monday in what appears to be a deliberate act, toronto police chief mark saunders said. Saunders said the suspected driver, alek minassian, 25, of richmond hill, ontario, was in custody. Minassian was arrested in a white rental van less than 30 minutes after police received a 911 call, saunders said. Minassian was previously known to toronto authorities, according to a us law enforcement official briefed on the matter. Authorities said minassian left a trail of destruction nearly a mile long, north of midtown toronto",
             "Latest updates: death toll revised from nine to 10 suspect identified as alek minassian, 25, of richmond hill, ont. Attack doesn't appear to have a national security connection, public safety minister says 15 injured sent to various hospitals across toronto ten people are dead and 15 others are injured after a van driver plowed into a number of pedestrians monday in the yonge street and finch avenue area of north york in toronto. One suspect is in custody. Cbc news has confirmed that alek minassian, a 25-year-old richmond hill, ont., man, is the alleged driver in the attack. His linkedin profile identifies him as a student",
-            "A injured person is put into the back of an ambulance in toronto after a van mounted a sidewalk crashing into a crowd of pedestrians on monday, april 23, 2018. The van apparently jumped a curb monday... ( associated press ) a injured person is put into the back of an ambulance in toronto after a van mounted a sidewalk crashing into a crowd of pedestrians on monday, april 23, 2018. The van apparently jumped a curb monday in a busy intersection in toronto and struck the pedestrians and fled the scene before it was found... ( associated press ) toronto ( ap ) — the latest on the van striking pedestrians in toronto (",
-            "This will appear next to all of your comments this will not appear anywhere on newser"
+            "A injured person is put into the back of an ambulance in toronto after a van mounted a sidewalk crashing into a crowd of pedestrians on monday, april 23, 2018. The van apparently jumped a curb monday... ( associated press ) a injured person is put into the back of an ambulance in toronto after a van mounted a sidewalk crashing into a crowd of pedestrians on monday, april 23, 2018. The van apparently jumped a curb monday in a busy intersection in toronto and struck the pedestrians and fled the scene before it was found... ( associated press ) toronto ( ap ) — the latest on the van striking pedestrians in toronto ("
         ],
         "raw_document": [
             "Twenty-five-year-old richmond hill resident alek minassian has been identified as the driver of a white van that struck and killed 10 people and left 14 people injured in toronto monday. Chief mark saunders made the announcement during a news conference monday evening. Police said they received the first call before 1: 30 p.m. Officers received reports of a white rental van hitting a number of pedestrians while driving south on yonge street. The male driver was arrested by police minutes later. Read more: eyewitnesses describe panic as van hits toronto pedestrians saunders said investigators are still trying to determine the suspect's motive, but as of monday evening, the suspect's",
@@ -2586,7 +2566,7 @@
             "1": 0,
             "2": 0,
             "3": 1,
-            "4": 0
+            "4": 4
         }
     },
     {
@@ -2692,7 +2672,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2719,7 +2699,7 @@
         "vote_count": {
             "0": 0,
             "1": 4,
-            "2": 0
+            "2": 1
         }
     }
 ]

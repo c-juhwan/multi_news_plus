@@ -54,13 +54,12 @@
     },
     {
         "idx": 38402,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Us police have taken down a secret, members-only child porn ring, and with it achieved quite the feat: \" never before in the history of this agency have we identified and located this many minor victims in the course of a single child-exploitation investigation, \" one official told reuters. The department of homeland security announced yesterday that authorities had arrested 14 men behind the password-protected website, which featured photos of 251 children, all but eight of them boys and most between the ages of 13 and 15, though some were as young as three. The children hailed from six countries, but most were from the us — victims have been traced to 39 states. The site was run on the anonymity-protecting tor network, cnet reports. Leader jonathan johnson, 27, admitted that he had posed as a girl to trick male children into recording explicit videos of themselves; he was arrested june 13 and has been in custody since. The site had 27,000 members and 2,000 videos, and featured tutorials on how to coerce minor boys into filming sexually explicit videos. Johnson lives in louisiana, the new orleans times-picayune reports, and new orleans-based federal prosecutors are prosecuting 10 involved in the case — including one man who admitted to shooting an explicit video of a 14-year-old in his car, engaging in sexual relations with another underage boy, and paying the latter for nude photos.",
         "split": "train",
         "cleansed_document": [
             "An underground web site, with more than 27,000 members and hosting more than 2,000 explicit videos of minors, is shuttered with 14 of its alleged operators arrested. Department of homeland security secretary jeh johnson announces results of operation that dismantled underground child exploitation enterprise on tor network. ( credit: kelly lowery/department of homeland security ) the us department of homeland security announced tuesday that it has arrested 14 men who were allegedly operating a child pornography web site on the anonymous tor network. The arrests were the culmination of one of the agency's largest ever online child exploitation investigations -- dubbed \" operation round table. \" the authorities have identified 251 victims who were exploited on the site. The majority of the victims, 243, were male and their ages ranged from 3 to 17; they were identified as being from 39 us states and five foreign countries. The underground subscription-based web site",
-            "Washington ( reuters ) - authorities have arrested 14 men in a secret, members-only child pornography website that involved 251 children, mostly boys, in the united states and five other countries, u.s. Officials said on tuesday. Some of the men assumed female online personas to connect with the children, who ranged in age from three to 17 years, on popular social networks, officials from the department of homeland security and immigration and customs enforcement said. The alleged u.s. Victims, who have been identified and contacted by authorities, were from 39 u.s. States. The majority were between 13 and 15 years old and all but a handful were boys. Authorities said 23 of the 251 victims were identified in britain, canada, new zealand, australia and belgium. \" never before in the history of this agency have we identified and located this many minor victims in the course of a single",
-            "An abita springs man has been charged with administering a pair of child pornography websites that offered tutorials to 27,000 followers on coaxing young boys into producing sexually explicit videos. Federal prosecutors say jonathan johnson, 27, was the architect of a digital child exploitation enterprise that routinely preyed upon young boys, producing and distributing pornographic videos of minors and coaching others on strategies to coerce underage boys into participating in sexual acts. In newly unsealed court records, federal prosecutors accuse johnson of frequently encouraging viewers of the websites to search for, locate and entice young boys into creating sexually explicit videos, by tapping into social networking sites and sometimes impersonating females online to initiate conversation. Investigators said they discovered more than 2,000 explicit images of young boys on the sites and have so far identified about 160 of the youths. Johnson was indicted last june on 12 counts of production of child pornography and 2 counts"
+            "Washington ( reuters ) - authorities have arrested 14 men in a secret, members-only child pornography website that involved 251 children, mostly boys, in the united states and five other countries, u.s. Officials said on tuesday. Some of the men assumed female online personas to connect with the children, who ranged in age from three to 17 years, on popular social networks, officials from the department of homeland security and immigration and customs enforcement said. The alleged u.s. Victims, who have been identified and contacted by authorities, were from 39 u.s. States. The majority were between 13 and 15 years old and all but a handful were boys. Authorities said 23 of the 251 victims were identified in britain, canada, new zealand, australia and belgium. \" never before in the history of this agency have we identified and located this many minor victims in the course of a single"
         ],
         "raw_document": [
             "An underground web site, with more than 27,000 members and hosting more than 2,000 explicit videos of minors, is shuttered with 14 of its alleged operators arrested. Department of homeland security secretary jeh johnson announces results of operation that dismantled underground child exploitation enterprise on tor network. ( credit: kelly lowery/department of homeland security ) the us department of homeland security announced tuesday that it has arrested 14 men who were allegedly operating a child pornography web site on the anonymous tor network. The arrests were the culmination of one of the agency's largest ever online child exploitation investigations -- dubbed \" operation round table. \" the authorities have identified 251 victims who were exploited on the site. The majority of the victims, 243, were male and their ages ranged from 3 to 17; they were identified as being from 39 us states and five foreign countries. The underground subscription-based web site",
@@ -77,7 +76,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -140,12 +139,11 @@
     },
     {
         "idx": 38405,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Dmitry medvedev just loooves barack obama … and wasn't too fond of some other person who shall remain nameless. In an interview with george stephanopolous on good morning america, the russian premier said obama is \"a very comfortable partner. … the most important thing that distinguishes him from many other people — i won't name anyone by name — he's a thinker. He thinks when he speaks. \" stephanopolous cracked up. \"you had somebody in your mind, i think, \" he said. At that, medvedev laughed, too. \"obviously i do have someone in mind. I don't want to offend anyone. \" who could that person possibly be? who would be a natural person with whom to compare obama? we wouldn't want to wildly speculate that it might be the only other president medvedev has interacted with. That would be irresponsible. So we ' ll let the huffington post do it for us.",
         "split": "train",
         "cleansed_document": [
-            "Russian president dmitry medvedev thinks before he speaks, but he wouldn't say the same about, well... Somebody. During an interview with george stephanopoulos on abc's \" good morning america, \" medvedev said through a translator that obama was \" a thinker, \" which \" distinguishes him from many people. \" pressed for details, he demurred. \" obviously i do have someone on my mind. I don't want to offend anyone. \" the diplomatic answer was an amusing one to stephanopoulos, who laughed so hard that medvedev couldn't hold a straight face. Medvedev became deputy prime minister of russia in 2005 and president in 2008, all while george w. Bush was president of the united states. After one of their meetings, bush called medvedev a \" smart guy. \" but bush generated some discussion after meeting with medvedev's predecessor, vladimir putin, and telling reporters that he \" looked the man in the eye \" and \" was able to get a sense of his soul. \" while medvedev's responsibilities entail meeting many heads of state, plenty of internet pundits would like to know if medvedev was referring to obama's predecessor. Transcript: stephanopoulos: you've now met with president obama many times. At least 15 meetings and phone calls. Medvedev:",
-            "\" good morning america \" anchor george stephanopoulos interviewed russian president dmitry medvedev the day after medvedev and president barack obama signed the new start treaty. The following is a transcript of the exclusive interview, which took place on friday, april 9, 2010. George stephanopoulos: mister president, thank you very much for having us in st. Petersburg. This is going to be an interview played to a very broad american audience. And i just want to get to get your view on what's the single most important thing that the average american needs to know about russia today exactly? play that russia is the same normal regular country as america. Stephanopoulos: what does that mean? medvedev: that means exactly what i said that we have similar values. And have basically probably the same, what the regular americans would like to have. We'd like to give the population the most comfortable conditions of life which unfortunately we can't always provide. We have a lot of threats which we are fighting and we have tasks that we'd like to achieve, to develop and we have the same values as a democratic country established about 20 years ago. Stephanopoulos: and we see now a landmark agreement between the united states and russia over nuclear weapons, signed in prague. And -- it was a"
+            "Russian president dmitry medvedev thinks before he speaks, but he wouldn't say the same about, well... Somebody. During an interview with george stephanopoulos on abc's \" good morning america, \" medvedev said through a translator that obama was \" a thinker, \" which \" distinguishes him from many people. \" pressed for details, he demurred. \" obviously i do have someone on my mind. I don't want to offend anyone. \" the diplomatic answer was an amusing one to stephanopoulos, who laughed so hard that medvedev couldn't hold a straight face. Medvedev became deputy prime minister of russia in 2005 and president in 2008, all while george w. Bush was president of the united states. After one of their meetings, bush called medvedev a \" smart guy. \" but bush generated some discussion after meeting with medvedev's predecessor, vladimir putin, and telling reporters that he \" looked the man in the eye \" and \" was able to get a sense of his soul. \" while medvedev's responsibilities entail meeting many heads of state, plenty of internet pundits would like to know if medvedev was referring to obama's predecessor. Transcript: stephanopoulos: you've now met with president obama many times. At least 15 meetings and phone calls. Medvedev:"
         ],
         "raw_document": [
             "Russian president dmitry medvedev thinks before he speaks, but he wouldn't say the same about, well... Somebody. During an interview with george stephanopoulos on abc's \" good morning america, \" medvedev said through a translator that obama was \" a thinker, \" which \" distinguishes him from many people. \" pressed for details, he demurred. \" obviously i do have someone on my mind. I don't want to offend anyone. \" the diplomatic answer was an amusing one to stephanopoulos, who laughed so hard that medvedev couldn't hold a straight face. Medvedev became deputy prime minister of russia in 2005 and president in 2008, all while george w. Bush was president of the united states. After one of their meetings, bush called medvedev a \" smart guy. \" but bush generated some discussion after meeting with medvedev's predecessor, vladimir putin, and telling reporters that he \" looked the man in the eye \" and \" was able to get a sense of his soul. \" while medvedev's responsibilities entail meeting many heads of state, plenty of internet pundits would like to know if medvedev was referring to obama's predecessor. Transcript: stephanopoulos: you've now met with president obama many times. At least 15 meetings and phone calls. Medvedev:",
@@ -160,7 +158,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -333,7 +331,7 @@
     },
     {
         "idx": 38412,
-        "document_num": 6,
+        "document_num": 5,
         "summary": "Michael jackson's fans wanna be startin'something with sam smith after an online post showed him dissing the king of pop. People reports the british singer was recently kicking back on a boat with american idol finalist adam lambert and other friends when lambert started recording their conversation, at one point training the camera directly on smith. \" i don't like michael jackson, but this is a good song, \" smith said as jackson's \" human nature \" played in the background. Lambert posted the clip to his instagram, though the swift reaction to smith's mj jab soon forced lambert to take the post down ( music news facts captured a copy before it was removed ). In general, that reaction was not kind to smith, especially since, as ew notes, the \" stay with me \" crooner has mentioned r&b singers such as mariah carey and whitney houston as influences on his own music. In addition to regular folks ripping on smith — with one describing the 26-year-old as a \" boring, mediocre, dull, middle of the road cringeworthy crooning sad sack \" — some bigger names also came to the late jackson's defense. \" don't come for michael jackson when you wish you have sold as many records and you wish you were the king of pop like he was, \" stephanie mills, star of broadway's the wiz who says she once dated jackson, posted. Usa today also notes outrage from jackson's nephew tj jackson, who tweeted: \" sam smith made a career on singing r&b/soul music. So to look into a camera and disregard one of its pillars is ignorant, disrespectful and arrogant. \" the irritation at smith wasn't universal, however. \" not everyone likes the same music/artists. The world be boring if the world only liked or disliked the same things, \" one commenter posted, per essence.",
         "split": "train",
         "cleansed_document": [
@@ -341,8 +339,7 @@
             "Sam smith croons \"i ' m not the only one, \" but it seems like he is the only one who isn't a fan of michael jackson. Fellow singer adam lambert — who relaxed on a boat with smith, 26, and their pals — captured a video of the \"too good at goodbyes \" singer discussing the late king of pop. As jackson's \"human nature \" played in the background, smith remarked, \"i don't like michael",
             "Casey rain &#124; &#124; s-endz retweetelte: well, that's ok if sam smith doesn't like michael jackson. Because sam smith is a boring, mediocre, dull, middle of the road cringeworthy crooning sad sack. I ' m glad we don't share musical tastes https://twitter.com/musicnewsfact/status/1027793092592758784 …",
             "Sam smith made a career on singing r&b/soul music. So to look into a camera and disregard one of its pillars is ignorant, disrespectful and arrogant. Everyone has opinions but @ samsmithworld don't disparage a soul pioneer when they helped paved the way for you and your music. Pic.twitter.com/sznqa2qazr",
-            "Close singer sam smith is facing backlash on social media after he reportedly said he doesn't like michael jackson. Buzz60 sam smith performs at madison square garden on friday, june 29, 2018, in new york. ( photo: andy kropa/invision/ap ) fans of the late king of pop are telling sam smith to \"beat it \" after the british singer voiced his dislike for michael jackson. Fellow musician adam lambert posted a video over the weekend of the two listening to",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Close singer sam smith is facing backlash on social media after he reportedly said he doesn't like michael jackson. Buzz60 sam smith performs at madison square garden on friday, june 29, 2018, in new york. ( photo: andy kropa/invision/ap ) fans of the late king of pop are telling sam smith to \"beat it \" after the british singer voiced his dislike for michael jackson. Fellow musician adam lambert posted a video over the weekend of the two listening to"
         ],
         "raw_document": [
             "British singer sam smith learned a valuable lesson over the weekend: don't ever come for michael jackson. During a boat trip with fellow singer adam lambert and pals, smith was caught on camera saying, \"i don't like michael jackson, but this is a good song. \" related: michael jackson musical to hit broadway in 2020 related: all of michael jackson's children pose together in rare photo i mean, the nerve! the audacity! music",
@@ -367,7 +364,7 @@
             "3": 0,
             "4": 0,
             "5": 0,
-            "6": 0
+            "6": 5
         }
     },
     {
@@ -476,12 +473,11 @@
     },
     {
         "idx": 38417,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Ever wonder how hackable your private webcams are? not only are they hackable, a search engine exists that has a section devoted to unsecured webcam images, showing everything from cribs to kitchens to private laboratories, ars technica reports. Called \" creepy \" by quartz, the shodan search engine can access webcams that have no password authentication and share video via the real time streaming protocol. That includes millions of insecure webcams, according to security researcher dan tentler. \" the consumers are saying, ' we're not supposed to know anything about this stuff [ cybersecurity ], \" he says. \" the vendors don't want to lift a finger to help users because it costs them money. \" quartz suggests a relatively easy fix for worried webcam users: \" put a password on them. \" still, the question of webcam security easily applies to other so-called \" internet of things \" devices — like cars and medical devices — and raises the possibility of government regulation. ( tech site slashdot going has a thread on the story. ) the ftc has already accused over 50 companies of failing to secure services, products, or networks, and given iot manufacturers guidance on proper security. \" the thing that really does come next after guidance is regulation, if they don't pick up their game, \" security researcher scott erven tells ars technica. Meanwhile, a researcher group called i am the cavalry is creating a rating system for consumer iot devices, and the us air force has funded a similar \" consumer security reports \" project, inside cybersecurity reported in october. But don't expect the moon: \" our dependence on technology is growing faster than our ability to secure it, \" says erven. ( not even barbie is safe. )",
         "split": "train",
         "cleansed_document": [
-            "Do you have a webcam? have you put a password on it? you probably should, if you don't fancy ending up on this creepy search engine. Shodan claims to be the world's first search engine for internet-connected devices. It allows users to see which of their devices are connected to the internet, see where it's located, and who is using it. Since its creation in 2009, the site quickly exposed the how vulnerable a number of so-called internet of things devices were to hacking. Shodan one example of an unlocked webcam. Shodan now has a dedicated section that allows users to",
-            "The cavalry is a global grassroots organization that is focused on issues where computer security intersects public safety and human life. We strive to ensure that these technologies are worthy of the trust we place in them. We are seeking to organize as a non-profit educational foundation. Our areas of focus are medical devices, automobiles, home electronics and public infrastructure. The cavalry message is that our dependance on computer technology is increasing faster than our ability to safeguard ourselves. As computerization and connectivity become more ubiquitous, it's important that we protect public safety and human life. The cavalry is collecting, connecting, collaborating and catalyzing."
+            "Do you have a webcam? have you put a password on it? you probably should, if you don't fancy ending up on this creepy search engine. Shodan claims to be the world's first search engine for internet-connected devices. It allows users to see which of their devices are connected to the internet, see where it's located, and who is using it. Since its creation in 2009, the site quickly exposed the how vulnerable a number of so-called internet of things devices were to hacking. Shodan one example of an unlocked webcam. Shodan now has a dedicated section that allows users to"
         ],
         "raw_document": [
             "For $ 25 -also, has a chat bot now. Message it for stories and more. Check out the new sourceforge html5 internet speed test!",
@@ -502,7 +498,7 @@
             "1": 0,
             "2": 5,
             "3": 5,
-            "4": 0
+            "4": 5
         }
     },
     {
@@ -552,7 +548,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -602,7 +598,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -630,18 +626,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 38423,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The country's largest meat producer is investing in a vegan startup. Tyson foods has acquired a 5 % stake in beyond meat, whose food products made from plant-based proteins are sold in 11,000 stores across the country, reports the wall street journal. One analyst suspects tyson foods is more interested in \" distracting attention from [ its ] industrial meat business \" than actually adopting \" meat \" made from soy and peas, per the new york times, but a tyson rep says the move \" meets our desire to offer consumers choices and to consider how we can serve an ever-growing and diverse global population, \" per the los angeles times. Either way, the investment could pay off: lux research notes plant-based proteins could account for a third of protein consumption worldwide by 2050. California-based beyond meat — maker of the \" game-changing \" beyond burger, said to look and taste like a traditional beef burger — now hopes to make a name for itself among all consumers, not just vegan ones. The goal for the company, which has already drawn support from bill gates and the humane society, is \" to get out of the penalty box that's the ' alternative'section in the supermarket and get into a mainstream discussion with the consumer, \" says ceo ethan brown. ( this hot vegan company sold a lot of mayo — to itself. )",
         "split": "train",
         "cleansed_document": [
             "Tyson foods inc., the largest u.s. Meat company by sales, on monday said it took a 5 % stake in beyond meat, a purveyor of plant-based burger patties that seek to replicate the taste and sizzle of ground beef. Beyond meat's patties are a laboratory-born concoction of pea protein, canola and coconut oils with a similar texture, savory taste and even the grilled sizzle of a beef burger....",
-            "Brown said tyson will not have a seat on beyond meat's board and will not exert influence over the company's direction. \" it is just an investment at this point, \" he said. \" we're looking at ways to collaborate, but it doesn't require that. The idea is to get acquainted and to see where it goes from there. \"",
-            "In 2014, pinnacle foods, which owns the armour canned meats brand, bought the maker of the gardein line of plant-based meat substitutes. Armour, however, is a modest part of pinnacle's business, which includes the duncan hines and birds eye brands. \"the question in my mind with these acquisitions is always why they're being done, \" ms. Simon said. \"the most positive view is that this means the meat industry is shifting away from animal meat to plant-based meat, but i don't think we know that's the case yet — it could also be a way of distracting attention from their industrial meat business. \" ethan brown, the founder and chief executive of beyond meat, said he knew the investment would raise eyebrows, particularly among the most ardent vegans and vegetarians. \"i ' m hoping, though, that they and others will see this as part of a deliberate course of action to get out of the penalty box that's the 'alternative'section in the supermarket and get into a mainstream discussion with the consumer, \" mr. Brown said. Research conducted jointly last year by the npd group, midan marketing and meatingplace, an industry publication, found that 70 percent of meat eaters said they used a meat substitute in place of meat protein at least once a week. And 22 percent said they were using such substitutes more frequently than a year earlier. Beyond meat raised $ 17 million last year from investors. That was the third round of financing that cb insights, a data collection and research firm, could pinpoint, and the only one for which a dollar amount was disclosed. The company's goal is to take its meat substitutes mainstream. It has added don thompson, the former chief executive of mcdonald's, to its board and built relationships with entertainment and sports"
+            "Brown said tyson will not have a seat on beyond meat's board and will not exert influence over the company's direction. \" it is just an investment at this point, \" he said. \" we're looking at ways to collaborate, but it doesn't require that. The idea is to get acquainted and to see where it goes from there. \""
         ],
         "raw_document": [
             "Tyson foods inc., the largest u.s. Meat company by sales, on monday said it took a 5 % stake in beyond meat, a purveyor of plant-based burger patties that seek to replicate the taste and sizzle of ground beef. Beyond meat's patties are a laboratory-born concoction of pea protein, canola and coconut oils with a similar texture, savory taste and even the grilled sizzle of a beef burger....",
@@ -658,7 +653,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -714,19 +709,18 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 38426,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Two british teenagers were splashed with acid by attackers on a motorcycle as they walked along a street in the african island of zanzibar, reports reuters. Katie gee and kirstie trup, both 18, suffered injuries to their face, chest, and hands in the attack last night, but both are out of the hospital, reports the bbc. Authorities are trying to fly them back to britain today. They had been volunteering as teachers at a local a school. \" the two attackers passed by several white tourists in the area and threw acid after reaching closer to them, which raises suspicion of a planned attack, \" says an official with the art in tanzania charity. Authorities have not speculated about a motive, but they condemned the attack and reminded locals that tourism is essential to zanzibar, reports cnn. A friend tells the telegraph that gee had been slapped in the face about two weeks ago in the street by a woman who was apparently upset that gee was singing during ramadan.",
         "split": "train",
         "cleansed_document": [
             "Story highlights the government will regulate the sale of acid, step up police patrols eyewitnesses say acid was splashed on the women's faces, chests and hands they were volunteering as teachers in zanzibar, i-to-i travel says their attackers were two men on a motorcycle, police say two young british women were injured in an acid attack carried out by two men on a motorcycle on the east african island of zanzibar, local police said thursday. The women, who were attacked in stone town, the island's historic center, had been working as volunteer teachers on the island, travel firm i-to-i travel said. Stone town is a unesco world heritage site popular",
             "Media playback is unsupported on your device media caption footage shows the women after the attack, as the bbc's alastair leithead reports from zanzibar city two british women have had acid thrown in their faces in zanzibar, police on the east african island say. Katie gee and kirstie trup, both 18 and from london, were working as volunteer teachers on the island. Their mothers, nicky gee and rochelle trup, said they expected them to return to the uk on thursday night. The foreign office said it was \" concerned to hear of an attack on two british nationals \" and was \" providing consular assistance \". The women's mothers said in",
-            "* sustain face, chest and back injuries * island has seen street protests over past year * zanzibar is a popular tourist destination by fumbuka ng ' wanakilala dar es salaam, aug 8 ( reuters ) - men riding a motorbike threw acid at two british teenage girls in tanzania's semi-autonomous zanzibar region, leaving them with facial, chest and back injuries, a senior police official said on thursday. The pair, both 18 and from england's northern city of manchester according to police in the indian ocean archipelago, were flown to tanzania's commercial capital dar es salaam. They had been volunteering at a local school in zanzibar, an island that",
-            "Katie gee and kirstie trup, both aged 18, had argued with a local shopkeeper days before two men on a moped threw acid in their faces and katie had separately been attacked for singing during ramadan. One friend suggested they might have been singled out because they are jewish, and local police said they wanted to speak a radical islamic preacher who they believe may have inspired the attack. The teenagers are due to fly back to the uk overnight and are expected to be taken to hospital for further treatment when they arrive home. Kirstie trup, left, and katie gee were the targets of an acid attack in zanzibar ( barcroft ) the teenagers from north"
+            "* sustain face, chest and back injuries * island has seen street protests over past year * zanzibar is a popular tourist destination by fumbuka ng ' wanakilala dar es salaam, aug 8 ( reuters ) - men riding a motorbike threw acid at two british teenage girls in tanzania's semi-autonomous zanzibar region, leaving them with facial, chest and back injuries, a senior police official said on thursday. The pair, both 18 and from england's northern city of manchester according to police in the indian ocean archipelago, were flown to tanzania's commercial capital dar es salaam. They had been volunteering at a local school in zanzibar, an island that"
         ],
         "raw_document": [
             "Story highlights the government will regulate the sale of acid, step up police patrols eyewitnesses say acid was splashed on the women's faces, chests and hands they were volunteering as teachers in zanzibar, i-to-i travel says their attackers were two men on a motorcycle, police say two young british women were injured in an acid attack carried out by two men on a motorcycle on the east african island of zanzibar, local police said thursday. The women, who were attacked in stone town, the island's historic center, had been working as volunteer teachers on the island, travel firm i-to-i travel said. Stone town is a unesco world heritage site popular",
@@ -745,7 +739,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -875,7 +869,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -931,7 +925,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1040,13 +1034,12 @@
     },
     {
         "idx": 38438,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The body of a 25-year-old man who vanished in a remote village in indonesia has been found — in the belly of a 23-foot-long snake. Father of two akbar salubiro had gone to harvest palm oil on his family's plantation on the island of sulawesi on sunday when villagers \" heard cries from the palm grove, \" a village secretary tells the jakarta post. A search party found scattered fruit, a tool, and a boot, before coming across a bloated reticulated python, reports the ap. A video of the subsequent dissection ( it's graphic, but here for the brave ) shows human legs inside the snake as villagers slowly peel it open. Police say akbar's whole body was found in the snake's stomach along with his other, well-preserved boot, per the bbc. The village secretary says akbar had a wound on his back suggesting he was attacked from behind. Reticulated pythons typically seize boars and wild dogs with their fangs before suffocating the prey and swallowing it whole. Attacks on humans are rare.",
         "split": "train",
         "cleansed_document": [
             "Jakarta, indonesia ( ap ) — a 25-year-old indonesian man has been swallowed whole by a python on the island of sulawesi, villagers and news reports said. A six-minute video on the website of the tribun timur publication shows villagers slicing open the python's carcass to reveal the legs and torso of the dead victim, named akbar. Junaedi, the secretary of salubiro village in west sulawesi province, told the associated press that villagers began searching for akbar on monday night after realizing he hadn't returned from working on his palm oil crops the previous day. Junaedi said wednesday that the search party found scattered palm oil fruit, a picking tool and a boot, and then spotted the engorged 7-meter ( 23-foot ) -long reticulated python. \" when its stomach was cut, we first saw his boot and legs near the neck, \" he said. \" it seems he was attacked from behind because we found a wound on his back. \" reticulated pythons grab onto their prey with dozens of sharp curved teeth and then squeeze it to death before swallowing it whole. They are widespread in indonesia and other parts of southeast asia. Reports of humans being killed by pythons are extremely rare. In the wild they are known to eat monkeys, pigs and",
-            "An indonesian man has been found dead inside the belly of a seven-meter-long python, a local media reports. Akbar salubiro had not been seen since setting off to harvest palm oil in a remote village on the island of sulawesi. The 25-year-old man was missing since march 26. A search found the giant python sprawled out next to his garden with the 25-year-old's boots clearly visible in its stomach, according to tribunsulbar.com. Villagers then used a large knife to cut open the snake's belly slowly revealing the father-of-two's body. The horrifying footage shows the corpse being slowly removed from the killer reptile as the leathery skin is peeled away. Akbar's neighbor satriawan said: \" he was found in the location of the garden. \" initially akbar set out from his home to go to harvest palm. After not returning to his home, people looked for him. \" akbar's wife, munu, was away at the time and only found out when pictures and video emerged in the news, tribun timur said. Village secretary salubiro junaidi said: \" people had heard cries from the palm grove the night before akbar was found in the snake's stomach. \" when the snake was captured, the boots akbar was wearing were clearly",
-            "Rating is available when the video has been rented. This feature is not available right now. Please try again later."
+            "An indonesian man has been found dead inside the belly of a seven-meter-long python, a local media reports. Akbar salubiro had not been seen since setting off to harvest palm oil in a remote village on the island of sulawesi. The 25-year-old man was missing since march 26. A search found the giant python sprawled out next to his garden with the 25-year-old's boots clearly visible in its stomach, according to tribunsulbar.com. Villagers then used a large knife to cut open the snake's belly slowly revealing the father-of-two's body. The horrifying footage shows the corpse being slowly removed from the killer reptile as the leathery skin is peeled away. Akbar's neighbor satriawan said: \" he was found in the location of the garden. \" initially akbar set out from his home to go to harvest palm. After not returning to his home, people looked for him. \" akbar's wife, munu, was away at the time and only found out when pictures and video emerged in the news, tribun timur said. Village secretary salubiro junaidi said: \" people had heard cries from the palm grove the night before akbar was found in the snake's stomach. \" when the snake was captured, the boots akbar was wearing were clearly"
         ],
         "raw_document": [
             "Jakarta, indonesia ( ap ) — a 25-year-old indonesian man has been swallowed whole by a python on the island of sulawesi, villagers and news reports said. A six-minute video on the website of the tribun timur publication shows villagers slicing open the python's carcass to reveal the legs and torso of the dead victim, named akbar. Junaedi, the secretary of salubiro village in west sulawesi province, told the associated press that villagers began searching for akbar on monday night after realizing he hadn't returned from working on his palm oil crops the previous day. Junaedi said wednesday that the search party found scattered palm oil fruit, a picking tool and a boot, and then spotted the engorged 7-meter ( 23-foot ) -long reticulated python. \" when its stomach was cut, we first saw his boot and legs near the neck, \" he said. \" it seems he was attacked from behind because we found a wound on his back. \" reticulated pythons grab onto their prey with dozens of sharp curved teeth and then squeeze it to death before swallowing it whole. They are widespread in indonesia and other parts of southeast asia. Reports of humans being killed by pythons are extremely rare. In the wild they are known to eat monkeys, pigs and",
@@ -1063,7 +1056,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1092,7 +1085,7 @@
     },
     {
         "idx": 38440,
-        "document_num": 6,
+        "document_num": 5,
         "summary": "Despite the fbi's firm assertion earlier this month that north korea was definitely behind the sony hack attack, not everyone has been satisfied with that conclusion. A chatham house cybersecurity expert, conservative blogger charles c. Johnson, a hacking conference security director, and plenty of theorists on twitter and reddit have all advanced postulations that don't point to north korea. But only cybersecurity firm norse was able to talk the fbi into a meeting yesterday, where company researchers proposed the hack was pulled off by an angry employee, perhaps working with piracy hackers, politico reports. The company's evidence, compiled partly using leaked sony hr docs, points to six people ( two in the us, one in canada, one in singapore, one in thailand ), including an employee who worked in a technical capacity and knew her way around sony's networks, the security ledger reports. Norse vp kurt stammberger says insider knowledge would explain how the hackers were able to access sony server ip addresses and passwords. Arguments already presented against north korea's culpability include that the malware and ip addresses used in the hack were easily obtainable and that the code supposedly used in previous north korea attacks was widely known in underground hacking circles, notes politico. But while the fbi isn't officially changing its stance based on norse's new info, an official said to be close to the investigation told reuters yesterday that the us now thinks north korea may have commissioned foreign hackers to assist it in the attack. And stammberger thinks the fbi is still open to ideas. \" if they weren't, they wouldn't take a meeting with us, \" he tells the daily beast. ( no matter who was behind the hack, john mccain says it's war. )",
         "split": "train",
         "cleansed_document": [
@@ -1100,8 +1093,7 @@
             "In spite of mounting evidence that the north korean regime may not have been wholly responsible for a brazen cyberassault against sony — and possibly wasn't involved at all — the fbi is doubling down on its theory that the hermit kingdom solely bears the blame. \"we think it's them, \" referring to the north koreans, an fbi spokesperson told the daily beast when asked to respond to reports from private investigators that other culprits were",
             "So, \"the interview \" is to be released after all. The news that the satirical movie — which revolves around a plot to murder kim jong-un — will have a christmas day release as planned, will prompt renewed scrutiny of whether, as the us authorities have officially claimed, the cyber attack on sony really was the work of an elite group of north korean government hackers. All the evidence leads me to believe that the great sony",
             "Washington/boston u.s. Investigators believe that north korea likely hired hackers from outside the country to help with last month's massive cyberattack against sony pictures, an official close to the investigation said on monday. As north korea lacks the capability to conduct some elements of the sophisticated campaign by itself, the official said, u.s. Investigators are looking at the possibility that pyongyang \" contracted out \" some of the cyber work. The official was not authorized to",
-            "A strong counter-narrative to the official account of the hacking of sony pictures entertainment has emerged in recent days, with the visage of the petulant north korean dictator, kim jong un, replaced by another, more familiar face: former sony pictures employees angry over their firing during a recent reorganization at the company. Researchers from the security firm norse allege that their investigation of the hack of sony has uncovered evidence that leads, decisively, away from",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a"
+            "A strong counter-narrative to the official account of the hacking of sony pictures entertainment has emerged in recent days, with the visage of the petulant north korean dictator, kim jong un, replaced by another, more familiar face: former sony pictures employees angry over their firing during a recent reorganization at the company. Researchers from the security firm norse allege that their investigation of the hack of sony has uncovered evidence that leads, decisively, away from"
         ],
         "raw_document": [
             "Getty politico pro u.s.: no alternate leads in sony hack a briefing for fbi agents investigating the sony pictures hack by a security firm that says its research points to laid-off sony staff, not north korea, as the perpetrator provided no usable new evidence, an official said tuesday. The news that the fbi had taken the three-hour briefing monday added to the chorus of well-qualified skeptics who said the unprecedented decision to release details of an ongoing fbi",
@@ -1124,7 +1116,7 @@
             "2": 2,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 3
         }
     },
     {
@@ -1186,12 +1178,11 @@
     },
     {
         "idx": 38443,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A british man survived for three days in the australian outback using techniques he learned watching survival reality shows on television, but authorities say those same techniques nearly prevented him from being rescued. Anthony collis was traveling with debbie blomfield ( described in various media as his \" partner, \" \" traveling companion, \" or \" girlfriend \" ) through the remote pilbara region of northwest australia thursday, when their car got bogged down in muddy terrain, per the independent. The two then walked off in separate directions, with the telegraph noting they'd allegedly had an argument. Blomfield walked for 5 miles before showing up, disoriented and dehydrated, in a mining camp, where she reported collis missing. Authorities initiated a search involving planes, helicopters, and aboriginal trackers and quickly found the couple's car and some of collis ' clothes and gear. But officials assumed collis was dead because he failed to appear on their heat-detecting devices. Little did they know that collis was undetectable because he'd buried himself in sand and leaves to protect himself from the cold, a trick he says he learned watching british adventurer bear grylls on television. Police officers found collis on sunday less than 2 miles from his vehicle. During that time collis survived by eating bugs and flowers, a trick he also learned from grylls.",
         "split": "train",
         "cleansed_document": [
-            "A british man wandered into the remote outback in australia after becoming separated from his girlfriend and survived for three days by eating bugs and flowers and burying himself in the sand – a technique he learnt from watching bear grylls on television. Following an extensive search, anthony collis, 32, was discovered barefoot, sunburnt and \"very thirsty \" in a rugged stretch of the pilbara region in north-west australia. He disappeared during a journey with his girlfriend debbie blomfield, 39, from their home city of perth to darwin. About half-way into the 2,500-mile trip through some of australia's most isolated territory, the pair reportedly had an argument and separated, abandoning their utility vehicle which apparently became stuck in the dry red sand. Ms blomfield walked for five miles and arrived, dehydrated and disoriented, at a remote mining camp, where she reported that mr collis was missing. An ensuing search involving planes, helicopters, four-wheel drives and aboriginal trackers promptly found their vehicle and then discovered some of mr collis's clothing and equipment.",
-            "1/46 17 january 2018 pro-democracy activists raphael wong and joshua wong arrive at lai chi kok reception centre after they were jailed on protest related charges following their sentencing at the high court in hong kong afp/getty 2/46 16 january 2018 skyscrapers oriental pearl tower and jin mao tower ( l ) are seen from the shanghai world financial center on a hazy day in the financial district of pudong in shanghai, china. Reuters 3/46 15 january 2018 martin luther king iii, us secretary of the interior and others wait to place a wreath during an event at the martin luther king memorial on the national mall. Afp/getty 4/46 14 january 2018 a boy stands with women loyal to the houthi movement during a gathering held to show their support to the movement in sanaa, yemen. Reuters 5/46 13 january 2018 diego martin duplessis of argentina drives his honda during the 2018 peru-bolivia-argentina dakar rally, 40th edition stage seven, la paz to uyuni. Reuters 6/46 12 january 2018 angela merkel speaks during a joint press conference after exploratory talks in berlin. According to reports, the leaders of cdu, csu and spd parties after night-long talks agreed on a plan for formal coalition negotiations. Epa 7/46 11 january 2018 a pakistani girl holds a picture of zainab ansari, an 8-year-old girl who was raped and kidnapped in kasur, during a protest in karachi, pakistan. Anees ansari, zainab's father, accused the police of being slow to respond when his daughter went missing in the eastern punjab province. Two people were killed and three others were wounded in clashes between angry kasur residents and police after protesters enraged over her death attacked a police station in the"
+            "A british man wandered into the remote outback in australia after becoming separated from his girlfriend and survived for three days by eating bugs and flowers and burying himself in the sand – a technique he learnt from watching bear grylls on television. Following an extensive search, anthony collis, 32, was discovered barefoot, sunburnt and \"very thirsty \" in a rugged stretch of the pilbara region in north-west australia. He disappeared during a journey with his girlfriend debbie blomfield, 39, from their home city of perth to darwin. About half-way into the 2,500-mile trip through some of australia's most isolated territory, the pair reportedly had an argument and separated, abandoning their utility vehicle which apparently became stuck in the dry red sand. Ms blomfield walked for five miles and arrived, dehydrated and disoriented, at a remote mining camp, where she reported that mr collis was missing. An ensuing search involving planes, helicopters, four-wheel drives and aboriginal trackers promptly found their vehicle and then discovered some of mr collis's clothing and equipment."
         ],
         "raw_document": [
             "A british man wandered into the remote outback in australia after becoming separated from his girlfriend and survived for three days by eating bugs and flowers and burying himself in the sand – a technique he learnt from watching bear grylls on television. Following an extensive search, anthony collis, 32, was discovered barefoot, sunburnt and \"very thirsty \" in a rugged stretch of the pilbara region in north-west australia. He disappeared during a journey with his girlfriend debbie blomfield, 39, from their home city of perth to darwin. About half-way into the 2,500-mile trip through some of australia's most isolated territory, the pair reportedly had an argument and separated, abandoning their utility vehicle which apparently became stuck in the dry red sand. Ms blomfield walked for five miles and arrived, dehydrated and disoriented, at a remote mining camp, where she reported that mr collis was missing. An ensuing search involving planes, helicopters, four-wheel drives and aboriginal trackers promptly found their vehicle and then discovered some of mr collis's clothing and equipment.",
@@ -1206,7 +1197,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1236,7 +1227,7 @@
             "0": 3,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1372,7 +1363,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1427,7 +1418,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1456,13 +1447,12 @@
     },
     {
         "idx": 38453,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "On july 17, keshia knight pulliam posted on instagram that she and, presumably, husband ed hartwell were expecting a baby. \" surprise!!! we have a new addition coming soon, \" the cosby show actress wrote. \" tune into [ podcast ] #kandidlykeshia this week for the details!! \" but on monday, just over a week later, hartwell filed for divorce, page six reports. And, via his rep, the former nfl linebacker tells theybf.com, \" right now, the only thing i want is a paternity test for the baby. \" pulliam and hartwell dated for four months, got engaged last december and married days later, and pulliam's baby girl is due in january. In his divorce filing, hartwell cites \" constant disagreements on life changing decisions that couples typically make together. \" people reports that he is \" demanding \" a paternity test.",
         "split": "train",
         "cleansed_document": [
             "Surprise!!! we have a new addition coming soon... Tune into #kandidlykeshia this week for the details!! a photo posted by keshiaknightpulliam ( @keshiaknightpulliam ) on jul 17, 2016 at 4: 04pm pdt",
-            "After six months of marriage, and one week after announcing they are expecting a baby, keshia knight pulliam and ed hartwell have called it quits. Page six obtained divorce docs filed on monday by the ex-nfl star in atlanta. Theybf.com was the first to report the news. Hartwell, 38, cited irreconcilable differences as the reason for the split. He's also raising doubt he's the father of their unborn child. \"right now, the only thing i want is a paternity test for the baby, \" hartwell told the ybf. The split comes as a shock since pulliam, 37, announced she's expecting a baby girl last week. \"surprise!! we have a new addition coming soon, \" the \"cosby show \" actress gushed on instagram. The ex-lovers had a four-month whirlwind courtship. They got engaged on new year's eve last december and tied the knot just days later. While this is pulliam's first marriage and divorce, it's the second trip to the courthouse for hartwell, who was previously married to former \"real housewives of atlanta \" star lisa wu. A request for comment from pulliam was not immediately returned.",
-            "Episode 39: laughter is healing laughter can always bring joy and make any situation better. Keshia is join by one of her close friends tobey, owner of faux pro. Listen as these ladies discuss and show how real women empower one another and not compete with each other. Success is nothing without your friends and family there for support and to help bring joy along the way. Hear these ladies ' hilarious stories of success and the family and friends that have kept them grounded."
+            "After six months of marriage, and one week after announcing they are expecting a baby, keshia knight pulliam and ed hartwell have called it quits. Page six obtained divorce docs filed on monday by the ex-nfl star in atlanta. Theybf.com was the first to report the news. Hartwell, 38, cited irreconcilable differences as the reason for the split. He's also raising doubt he's the father of their unborn child. \"right now, the only thing i want is a paternity test for the baby, \" hartwell told the ybf. The split comes as a shock since pulliam, 37, announced she's expecting a baby girl last week. \"surprise!! we have a new addition coming soon, \" the \"cosby show \" actress gushed on instagram. The ex-lovers had a four-month whirlwind courtship. They got engaged on new year's eve last december and tied the knot just days later. While this is pulliam's first marriage and divorce, it's the second trip to the courthouse for hartwell, who was previously married to former \"real housewives of atlanta \" star lisa wu. A request for comment from pulliam was not immediately returned."
         ],
         "raw_document": [
             "Surprise!!! we have a new addition coming soon... Tune into #kandidlykeshia this week for the details!! a photo posted by keshiaknightpulliam ( @keshiaknightpulliam ) on jul 17, 2016 at 4: 04pm pdt",
@@ -1479,7 +1469,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1668,7 +1658,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1753,7 +1743,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2164,7 +2154,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2189,7 +2179,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2298,13 +2288,12 @@
     },
     {
         "idx": 38483,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The \" real \" iron throne, from george rr martin's game of thrones books, was forged from 1,000 swords of aegon the conqueror's defeated enemies, and, being full of sharp edges, it was quite dangerous to sit on. Now hbo is offering a life-size replica of the iron throne, 7 feet tall and 350 pounds — and at $ 30,000, the biggest danger it poses is to your wallet, reports the huffington post. Oh, and shipping costs another $ 1,800. Or you could just buy some game of thrones coffee mugs for $ 14.99. ( yes, we know the series is supposed to be called a song of fire and ice. Blame hbo for the name change ).",
         "split": "train",
         "cleansed_document": [
             "Hbo it turns out that winning the iron throne -- the seat of kings in the seven kingdoms -- is easier than \" game of thrones \" fans previously thought. Instead of enduring bloodshed and battle like the characters on hbo's hit drama do, fans can buy a life-sized replica of the iron throne from hbo... If they have a spare $ 30,000. The replicas stand more than seven feet tall, close to 6 feet in depth, 5.5 feet in width, weigh 350 pounds and are being made based on orders. Shipping adds another $ 1,800 and creating one's own throne room is not included in the price. Or... If you do have a $ 30,000 to spend, here are some other items you could buy: close  other items for $ 30,000 of   at $ 69 a piece, you can buy 434 poäng chairs from ikea to fill your living room for the price of one iron throne. 30,300 packs of orbit gum if you buy it in 12-packs. Who wants one set of a song of ice and fire ( books 1-4 ) when you can buy 1,463 sets for $ 30,000? you",
-            "The game of thrones iron throne is unlike anything you've ever seen before. This custom chair is designed to mimic the seat of kings in the seven kingdoms. On the show, the iron throne was constructed by aegon i targaryen, the first king of the seven kingdoms. He made it from the swords surrendered by his enemies. Legend has it, it's made of a thousand swords that took 59 days to hammer out into a throne. Spikes and jagged edges in every direction make this one very intimidating lounge. Our version is constructed of hand-finished, hand-painted fiberglass and fire-proof resin that's been twisted and turned to re-create the game of thrones design. Now's your chance to own this very special custom-made piece of furniture that, by all appearances, is more closely related to art. Extra large in size, it measures over 7 ' in height, close to 6 ' in depth and 5.5 ' in width. Calling it \" impressive \" is an understatement. Additional details: surcharge includes ground shipping, insurance and white glove service delivery to your home. The game of thrones, \" throne \" is",
-            "The old world look of the game of thrones westeros map mug seems perfectly appropriate for its purpose. Warm beverages, hostile lands... It works! showing the area of winterfell to the highgarden in westeros, and east to cover the dothraki sea and the red waste, you can make a land grab for one of them with this map mug!"
+            "The game of thrones iron throne is unlike anything you've ever seen before. This custom chair is designed to mimic the seat of kings in the seven kingdoms. On the show, the iron throne was constructed by aegon i targaryen, the first king of the seven kingdoms. He made it from the swords surrendered by his enemies. Legend has it, it's made of a thousand swords that took 59 days to hammer out into a throne. Spikes and jagged edges in every direction make this one very intimidating lounge. Our version is constructed of hand-finished, hand-painted fiberglass and fire-proof resin that's been twisted and turned to re-create the game of thrones design. Now's your chance to own this very special custom-made piece of furniture that, by all appearances, is more closely related to art. Extra large in size, it measures over 7 ' in height, close to 6 ' in depth and 5.5 ' in width. Calling it \" impressive \" is an understatement. Additional details: surcharge includes ground shipping, insurance and white glove service delivery to your home. The game of thrones, \" throne \" is"
         ],
         "raw_document": [
             "Hbo it turns out that winning the iron throne -- the seat of kings in the seven kingdoms -- is easier than \" game of thrones \" fans previously thought. Instead of enduring bloodshed and battle like the characters on hbo's hit drama do, fans can buy a life-sized replica of the iron throne from hbo... If they have a spare $ 30,000. The replicas stand more than seven feet tall, close to 6 feet in depth, 5.5 feet in width, weigh 350 pounds and are being made based on orders. Shipping adds another $ 1,800 and creating one's own throne room is not included in the price. Or... If you do have a $ 30,000 to spend, here are some other items you could buy: close  other items for $ 30,000 of   at $ 69 a piece, you can buy 434 poäng chairs from ikea to fill your living room for the price of one iron throne. 30,300 packs of orbit gum if you buy it in 12-packs. Who wants one set of a song of ice and fire ( books 1-4 ) when you can buy 1,463 sets for $ 30,000? you",
@@ -2321,18 +2310,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 38484,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Details in this morning's horrific school shooting in newtown, connecticut, are clarifying: a young man killed his mother at their home, then drove to the elementary school he attended as a youth and killed 20 schoolchildren and six adults, reports the hartford courant. The shooter, identified as 20-year-old adam lanza, then killed himself. Early reports said his mother, nancy lanza, was a kindergarten teacher at the school, but that doesn't appear to be the case, reports mediaite. More of what's known so far: lanza's older brother ryan was initially named as the suspect by a law enforcement official, possibly because adam was carrying his brother's id. Ryan, who lives in hoboken, nj, was questioned, but authorities say he played no role in the shootings, reports the ap. Authorities say someone turned on an intercom in the school's main office, which captured the hysteria of what was happening when lanza first entered the building. It also gave everyone else in the school time to prepare. Most of the victims were shot in two first-grade classrooms. Three weapons were found in the school: a glock and a sig-sauer, both of which are handguns, and a.223 bushmaster rifle; a fourth was found outside the school, possibly in a car, reports ap. Nancy lanza was reportedly a gun collector, and the weapons may have been registered to her. An emotional president obama talked about the killings this afternoon. It's the second worst school shooting in us history, after virginia tech but deadlier than columbine. Adam lanza's father was stunned at the news.",
         "split": "train",
         "cleansed_document": [
             "Police said saturday they had found \" very good evidence \" they hoped would answer questions about the motives of the 20-year-old gunman, described as brilliant but remote, who forced his way into a u.s. School and killed 26 children and adults in one of the world's worst mass shootings. Mourners embrace outside saint rose of lima roman catholic church, saturday, dec. 15, 2012 in newtown, conn. The massacre of 26 children and adults at sandy hook elementary school elicited horror and... ( associated press ) a man weeps while praying in front of a memorial for shooting victims outside saint rose of lima roman catholic church, saturday, dec. 15, 2012 in newtown, conn. The massacre of 26 children and adults... ( associated press ) a basketball, soccer ball, doll, flowers and a child's drawing sit at a memorial for shooting victims outside saint rose of",
-            "A man opened fire friday inside two classrooms at the connecticut elementary school where his mother was a teacher, killing 26 people, including 20 children, as youngsters cowered in corners and closets and trembled helplessly to gunshots reverberating through the building. Alternate crop of whcd115 - president barack obama pauses as he speaks about the school shooting in newtown, conn., friday, dec. 14, 2012, in the briefing room of the white house in washington. ( ap photo/charles... ( associated press ) in this photo provided by the newtown bee, connecticut state police lead a line of children from the sandy hook elementary school in newtown, conn. On friday, dec. 14, 2012 after a shooting at the school.... ( associated press ) a woman waits to hear about her sister, a teacher, following a shooting at the sandy hook elementary school in newtown, conn. Where authorities say a",
-            "Despite earlier reports that nancy lanza, mother of shooter adam lanza, was a teacher at sandy hook elementary school, new details are emerging that suggest otherwise. Cnn, the wall street journal, and several other news outlets are reporting now that nancy lanza may not have had any connection to the school where the shootings took place. Janet vollmer, a kindergarten teacher at sandy hook elementary, told cnn that lanza was not a teacher there. Lillian bittman, a former school board official, said \"no one has heard \" of lanza and that \"teachers don't know her. \" talking points memo reports that lanza is not listed on the newton school district website. Tpm also notes the origin of the misinformation may have been an ap story which quoted law enforcement officials \"speaking on the condition of anonymity \" about lanza's possible connection to school. Other sources, such as"
+            "A man opened fire friday inside two classrooms at the connecticut elementary school where his mother was a teacher, killing 26 people, including 20 children, as youngsters cowered in corners and closets and trembled helplessly to gunshots reverberating through the building. Alternate crop of whcd115 - president barack obama pauses as he speaks about the school shooting in newtown, conn., friday, dec. 14, 2012, in the briefing room of the white house in washington. ( ap photo/charles... ( associated press ) in this photo provided by the newtown bee, connecticut state police lead a line of children from the sandy hook elementary school in newtown, conn. On friday, dec. 14, 2012 after a shooting at the school.... ( associated press ) a woman waits to hear about her sister, a teacher, following a shooting at the sandy hook elementary school in newtown, conn. Where authorities say a"
         ],
         "raw_document": [
             "Police said saturday they had found \" very good evidence \" they hoped would answer questions about the motives of the 20-year-old gunman, described as brilliant but remote, who forced his way into a u.s. School and killed 26 children and adults in one of the world's worst mass shootings. Mourners embrace outside saint rose of lima roman catholic church, saturday, dec. 15, 2012 in newtown, conn. The massacre of 26 children and adults at sandy hook elementary school elicited horror and... ( associated press ) a man weeps while praying in front of a memorial for shooting victims outside saint rose of lima roman catholic church, saturday, dec. 15, 2012 in newtown, conn. The massacre of 26 children and adults... ( associated press ) a basketball, soccer ball, doll, flowers and a child's drawing sit at a memorial for shooting victims outside saint rose of",
@@ -2349,7 +2337,7 @@
         "vote_count": {
             "0": 2,
             "1": 1,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -2437,13 +2425,12 @@
     },
     {
         "idx": 38488,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Another republican senator has shifted from \" undecided \" to \" definitely not voting for donald trump. \" in a washington post op-ed, maine sen. Susan collins writes that she has concluded that trump does not \" reflect historical republican values nor the inclusive approach to governing that is critical to healing the divisions in our country. \" she says three incidents convinced her that trump \" lacks the temperament, self-discipline, and judgment \" to be president: his mocking of a disabled reporter, his insistence that federal judge gonzalo curiel's mexican heritage made him biased, and his \" inconceivable \" criticism of the khans, after which trump once again \" proved incapable of apologizing, of saying he was wrong. \" collins writes that she had hoped trump would tone it down after the convention, but she has realized that \" regrettably, his essential character appears to be fixed, and he seems incapable of change or growth. \" earlier monday, 50 senior republican national security officials from several administrations, including former cia director michael hayden, signed an open letter declaring that they will not be voting for trump, the new york times reports. Trump \" lacks the character, values, and experience \" to be president, they wrote, warning that he would be \" the most reckless president in american history. \" \" the names on this letter are the ones the american people should look to for answers on why the world is a mess, \" trump fired back in a statement condemning the letter.",
         "split": "train",
         "cleansed_document": [
             "The writer, a republican, represents maine in the senate. I will not be voting for donald trump for president. This is not a decision i make lightly, for i am a lifelong republican. But donald trump does not reflect historical republican values nor the inclusive approach to governing that is critical to healing the divisions in our country. When the primary season started, it soon became apparent that, much like sen. Bernie sanders ( i-vt. ), mr. Trump was connecting with many americans who felt that their voices were not being heard in washington and who were tired of political correctness. But rejecting the conventions of",
-            "Fifty of the nation's most senior republican national security officials, many of them former top aides or cabinet members for president george w. Bush, have signed a letter declaring that donald j. Trump \"lacks the character, values and experience \" to be president and \"would put at risk our country's national security and well-being. \" mr. Trump, the officials warn, \"would be the most reckless president in american history. \" the letter says mr. Trump would weaken the united states ' moral authority and questions his knowledge of and belief in the constitution. It says he has \"demonstrated repeatedly that he has little understanding \" of the",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Fifty of the nation's most senior republican national security officials, many of them former top aides or cabinet members for president george w. Bush, have signed a letter declaring that donald j. Trump \"lacks the character, values and experience \" to be president and \"would put at risk our country's national security and well-being. \" mr. Trump, the officials warn, \"would be the most reckless president in american history. \" the letter says mr. Trump would weaken the united states ' moral authority and questions his knowledge of and belief in the constitution. It says he has \"demonstrated repeatedly that he has little understanding \" of the"
         ],
         "raw_document": [
             "Hillary clinton leads donald trump among several key demographic groups, but she has also locked up a surprisingly large portion of one small but notable niche: neoconservatives. In an interview with der spiegel published on friday, paul wolfowitz, who served as deputy secretary of defense during george w. Bush's presidency, said he would likely vote for hillary clinton — though he noted he had \"big reservations \" about her. Wolfowitz said he agreed with those who deemed the republican nominee a security threat. \"the only way you can be comfortable about trump's foreign policy, is to think he doesn't really mean anything",
@@ -2464,7 +2451,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -2494,12 +2481,11 @@
     },
     {
         "idx": 38490,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Rand paul followed dad ron into politics, and now ron might follow rand into the senate. Or at least try. \" it's certainly crossed my mind, \" said the libertarian congressman when asked about a senate run in texas, reports the hill. The renewed interest stems from a public policy polling survey that puts paul near the top of the pack among republicans to replace the retiring kay bailey hutchison. He's considered such runs before, but this time he'd get to join son rand, newly elected in kentucky, in the chamber.",
         "split": "train",
         "cleansed_document": [
-            "Rep. Ron paul ( r-texas ) says a new poll that shows him a a top choice among texas republicans to run for senate has him thinking about the race. \" it's certainly crossed my mind, \" paul told the ballot box of a potential run for sen. Kay bailey hutchison's ( r-texas ) senate seat next year. Advertisement new numbers out wednesday from democratic-leaning public policy polling found paul was second only to lt. Gov. David dewhurst ( r ) among texas republicans asked who they want to see run for the seat in 2012. The poll found dewhurst to be the top choice of republicans, garnering 23 percent support. But paul was right behind him as the pick of 20 percent of gop voters. The two-time presidential candidate stressed that his potential interest in a senate seat wasn't anything new, but admitted the poll numbers had peaked his interest. Paul said \" a lot of people \" brought the numbers to his attention wednesday. \" i was surprised, \" he said of the poll results, quickly adding that a run for the senate has crossed his mind several times in the past, \" so i don't know that it means much. \" the poll also found texas attorney general greg abbott had the support of 14 percent of gop voters, followed by rep. Joe barton ( r-texas ) with 7 percent and railroad commissioner elizabeth ames jones at 6 percent. No other rumored contenders polled above 3 percent among texas republicans. Paul is also a rumored presidential candidate in 2012, but said he has made no decisions on anything just yet. Paul's son, sen. Rand paul randal ( rand ) howard paulgop in furious push for tax-reform votes overnight finance: directors battle over consumer agency &#124; second gop senator opposes current tax plan &#124; trump wants changes to bill &#124; fed nominee heads to tuesday hearing &#124; retailers expect record cyber monday &#124; congress returns to nightmare december rand paul to vote for senate gop tax bill more ( r-ky. ), won a hotly contested senate race this past november. It's another reason some think paul might seriously consider a 2012 senate bid.",
-            "Crawl performed by internet archive. This data is currently not publicly accessible."
+            "Rep. Ron paul ( r-texas ) says a new poll that shows him a a top choice among texas republicans to run for senate has him thinking about the race. \" it's certainly crossed my mind, \" paul told the ballot box of a potential run for sen. Kay bailey hutchison's ( r-texas ) senate seat next year. Advertisement new numbers out wednesday from democratic-leaning public policy polling found paul was second only to lt. Gov. David dewhurst ( r ) among texas republicans asked who they want to see run for the seat in 2012. The poll found dewhurst to be the top choice of republicans, garnering 23 percent support. But paul was right behind him as the pick of 20 percent of gop voters. The two-time presidential candidate stressed that his potential interest in a senate seat wasn't anything new, but admitted the poll numbers had peaked his interest. Paul said \" a lot of people \" brought the numbers to his attention wednesday. \" i was surprised, \" he said of the poll results, quickly adding that a run for the senate has crossed his mind several times in the past, \" so i don't know that it means much. \" the poll also found texas attorney general greg abbott had the support of 14 percent of gop voters, followed by rep. Joe barton ( r-texas ) with 7 percent and railroad commissioner elizabeth ames jones at 6 percent. No other rumored contenders polled above 3 percent among texas republicans. Paul is also a rumored presidential candidate in 2012, but said he has made no decisions on anything just yet. Paul's son, sen. Rand paul randal ( rand ) howard paulgop in furious push for tax-reform votes overnight finance: directors battle over consumer agency &#124; second gop senator opposes current tax plan &#124; trump wants changes to bill &#124; fed nominee heads to tuesday hearing &#124; retailers expect record cyber monday &#124; congress returns to nightmare december rand paul to vote for senate gop tax bill more ( r-ky. ), won a hotly contested senate race this past november. It's another reason some think paul might seriously consider a 2012 senate bid."
         ],
         "raw_document": [
             "Rep. Ron paul ( r-texas ) says a new poll that shows him a a top choice among texas republicans to run for senate has him thinking about the race. \" it's certainly crossed my mind, \" paul told the ballot box of a potential run for sen. Kay bailey hutchison's ( r-texas ) senate seat next year. Advertisement new numbers out wednesday from democratic-leaning public policy polling found paul was second only to lt. Gov. David dewhurst ( r ) among texas republicans asked who they want to see run for the seat in 2012. The poll found dewhurst to be the top choice of republicans, garnering 23 percent support. But paul was right behind him as the pick of 20 percent of gop voters. The two-time presidential candidate stressed that his potential interest in a senate seat wasn't anything new, but admitted the poll numbers had peaked his interest. Paul said \" a lot of people \" brought the numbers to his attention wednesday. \" i was surprised, \" he said of the poll results, quickly adding that a run for the senate has crossed his mind several times in the past, \" so i don't know that it means much. \" the poll also found texas attorney general greg abbott had the support of 14 percent of gop voters, followed by rep. Joe barton ( r-texas ) with 7 percent and railroad commissioner elizabeth ames jones at 6 percent. No other rumored contenders polled above 3 percent among texas republicans. Paul is also a rumored presidential candidate in 2012, but said he has made no decisions on anything just yet. Paul's son, sen. Rand paul randal ( rand ) howard paulgop in furious push for tax-reform votes overnight finance: directors battle over consumer agency &#124; second gop senator opposes current tax plan &#124; trump wants changes to bill &#124; fed nominee heads to tuesday hearing &#124; retailers expect record cyber monday &#124; congress returns to nightmare december rand paul to vote for senate gop tax bill more ( r-ky. ), won a hotly contested senate race this past november. It's another reason some think paul might seriously consider a 2012 senate bid.",
@@ -2514,7 +2500,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2539,7 +2525,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2619,17 +2605,16 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 38495,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The bipartisan panel tasked with finding ways to cut more than $ 1 trillion from the federal deficit is only five weeks away from its nov. 23 deadline, and you might not be flabbergasted to learn that it is having trouble reaching an agreement — or even agreeing on basic starting positions. The 12-member \" supercommittee \" — split evenly between democrats and republicans, and house and senate members — has been told not discuss its work publicly, but insiders say things are moving very slowly indeed and there will be no consensus unless party leaders step in, the new york times finds. The panel is \" still hovering at 30,000 feet \" and asking basic questions like: \"what is the baseline? are we doing tax reform? \" a person working for the committee says. Multiple sources say john kerry has been the most talkative committee member by far — and has annoyed members of both parties. \" it's what i would call senate talk, \" a house gop aide complains. \" it's like a waterfall of words. It never gets you anyplace. \" if the panel can't reach an agreement, $ 1.2 trillion in cuts will be triggered. Committee members have received hundreds of thousands of dollars in donations from groups, especially health care interests, who would be better off if the talks failed, the hill notes.",
         "split": "train",
         "cleansed_document": [
-            "Washington — with just five weeks until its deadline, a secretive congressional committee seeking ways to cut the federal deficit is far from a consensus, and party leaders may need to step in if they want to ensure agreement, say people involved in the panel's work. The 12-member committee is just over halfway through the 76-day interval from its first meeting to the date its final report is due on nov. 23, but has not gained much traction. The lawmakers have not agreed on basic elements like a benchmark against which savings will be measured. The panel's members, evenly divided between the two parties, spent most of september in a standoff. Republicans refused to budge from their position against new taxes. Democrats said they would not discuss cuts to entitlement programs like medicare unless republicans made a firm commitment to accept additional revenues. The two leaders of the panel, senator patty murray, democrat of washington, and representative jeb hensarling, republican of texas, have told committee members not to talk publicly about their work. But other lawmakers and congressional aides privy to the panel's effort have provided a remarkably consistent picture of the deliberations as the committee tries, in a matter of weeks, to find fiscal answers that have eluded congress and the white house for years. A republican who has worked on capitol",
-            "Members of the deficit-reduction supercommittee have raised hundreds of thousands of dollars from special-interest groups, including a significant chunk from healthcare interests that want the panel to fail. Healthcare political action committees gave more to the deficit panel members than political action committees ( pacs ) representing energy, defense and agriculture interests, which could also be under the knife, according to fundraising reports filed with the federal election commission ( fec ). Advertisement rep. James clyburn ( s.c. ), the third-ranking member of the house democratic leadership, does not sit on any regular committees with jurisdiction over the health industry, but has raised more than $ 57,000 from healthcare-related pacs since his appointment to the debt supercommittee. Some of his contributions come from interests that want to minimize cuts to medicare and medicaid, such as the american hospital association, healthsouth corp., davita inc. — which provides kidney dialysis treatment — and hcr manor care, which specializes in assisted-living care. Other supercommittee members on both sides of the aisle have won contributions from healthcare interests since being named to the panel. Hospitals, medical-device manufacturers and home-care experts in general would prefer that the supercommittee fail to reach a deal, say lobbyists familiar with the health industry's strategy toward the panel. An impasse would trigger $ 1.2 trillion in automatic cuts to defense and non-defense programs, including a 2 percent"
+            "Washington — with just five weeks until its deadline, a secretive congressional committee seeking ways to cut the federal deficit is far from a consensus, and party leaders may need to step in if they want to ensure agreement, say people involved in the panel's work. The 12-member committee is just over halfway through the 76-day interval from its first meeting to the date its final report is due on nov. 23, but has not gained much traction. The lawmakers have not agreed on basic elements like a benchmark against which savings will be measured. The panel's members, evenly divided between the two parties, spent most of september in a standoff. Republicans refused to budge from their position against new taxes. Democrats said they would not discuss cuts to entitlement programs like medicare unless republicans made a firm commitment to accept additional revenues. The two leaders of the panel, senator patty murray, democrat of washington, and representative jeb hensarling, republican of texas, have told committee members not to talk publicly about their work. But other lawmakers and congressional aides privy to the panel's effort have provided a remarkably consistent picture of the deliberations as the committee tries, in a matter of weeks, to find fiscal answers that have eluded congress and the white house for years. A republican who has worked on capitol"
         ],
         "raw_document": [
             "Washington — with just five weeks until its deadline, a secretive congressional committee seeking ways to cut the federal deficit is far from a consensus, and party leaders may need to step in if they want to ensure agreement, say people involved in the panel's work. The 12-member committee is just over halfway through the 76-day interval from its first meeting to the date its final report is due on nov. 23, but has not gained much traction. The lawmakers have not agreed on basic elements like a benchmark against which savings will be measured. The panel's members, evenly divided between the two parties, spent most of september in a standoff. Republicans refused to budge from their position against new taxes. Democrats said they would not discuss cuts to entitlement programs like medicare unless republicans made a firm commitment to accept additional revenues. The two leaders of the panel, senator patty murray, democrat of washington, and representative jeb hensarling, republican of texas, have told committee members not to talk publicly about their work. But other lawmakers and congressional aides privy to the panel's effort have provided a remarkably consistent picture of the deliberations as the committee tries, in a matter of weeks, to find fiscal answers that have eluded congress and the white house for years. A republican who has worked on capitol",
@@ -2644,7 +2629,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2728,12 +2713,11 @@
     },
     {
         "idx": 38499,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Victoria's secret says it's rushing to investigate claims that it buys supplies from farms that use child labor. A bloomberg report today described a 13-year-old girl in the west african country of burkina faso who faces beatings at the farm where she picks cotton. That cotton is ultimately \" fashioned into victoria's secret underwear, \" according to the report. Victoria's secret parent firm limited brands says cotton from the country is \" used in a small portion of our victoria's secret panty styles, \" cnn reports. \" if this allegation is true, it describes behavior that is contrary to our company's values and the code of labor and sourcing standards that we require all of our suppliers to meet, \" limited said in a statement. \" these standards expressly prohibit child labor. \" now, the firm is \" prepared to take swift action. \" the company says it began using burkina faso's cotton in 2007 in an effort to \" generate life-changing opportunities for some of the world's poorest women \" who live there.",
         "split": "train",
         "cleansed_document": [
-            "( cnn ) -- the company that owns victoria's secret vowed a full investigation thursday after a report said cotton used in some of its products is grown using child labor. \" we are very concerned, \" parent company limited brands said in a statement, noting that the cotton in question, which comes from the west african nation of burkina faso, is \" used in a small portion of our victoria's secret panty styles. \" \" if this allegation is true, it describes behavior that is contrary to our company's values and the code of labor and sourcing standards that we require all of our suppliers to meet, \" the statement said. \" these standards expressly prohibit child labor. \" the company said it immediately \" began working with key stakeholders internally and externally to fully investigate this matter. Depending on the findings, we are prepared to take swift action to prevent the illegal use of child labor in the fields where we source fairtrade-certified organic cotton in burkina faso. \" victoria's secret, known for its underwear and lingerie, describes itself as \" one of the most powerful, sexy and glamorous stores in the world. \" its fashion show recently aired in more than 90 countries. The statement from ohio-based limited brands on thursday followed an extensive report from bloomberg that describes the life",
-            "Victoria's secret, whose supermodel \"angels \" helped it set record sales and profits in the third quarter of 2011,... Read more victoria's secret, whose supermodel \"angels \" helped it set record sales and profits in the third quarter of 2011, agreed in 2007 to a deal to buy fair- trade and organic cotton from burkina faso. Close a telltale green flag, given to its growers by local cooperatives, flies at the edge of the field where clarisse works. A telltale green flag, given to its growers by local cooperatives, flies at the edge of the field where clarisse works. Close clarisse carries her bushel to the home of a family where the farmer she works for stores his cotton because it's... Read more clarisse carries her bushel to the home of a family where the farmer she works for stores his cotton because it's closer to the pickup point for the organic and fair-trade program. Close after two days of picking cotton, child laborer clarisse kambire carries a large wicker bushel of fiber from the field to a storehouse almost a mile away. Close using the labor of foster children like ponhitierre some, 12, allows burkinabe farmers to profit from fair-trade cotton. Using the labor of foster children like ponhitierre some, 12, allows burkinabe farmers to profit from fair-trade cotton."
+            "( cnn ) -- the company that owns victoria's secret vowed a full investigation thursday after a report said cotton used in some of its products is grown using child labor. \" we are very concerned, \" parent company limited brands said in a statement, noting that the cotton in question, which comes from the west african nation of burkina faso, is \" used in a small portion of our victoria's secret panty styles. \" \" if this allegation is true, it describes behavior that is contrary to our company's values and the code of labor and sourcing standards that we require all of our suppliers to meet, \" the statement said. \" these standards expressly prohibit child labor. \" the company said it immediately \" began working with key stakeholders internally and externally to fully investigate this matter. Depending on the findings, we are prepared to take swift action to prevent the illegal use of child labor in the fields where we source fairtrade-certified organic cotton in burkina faso. \" victoria's secret, known for its underwear and lingerie, describes itself as \" one of the most powerful, sexy and glamorous stores in the world. \" its fashion show recently aired in more than 90 countries. The statement from ohio-based limited brands on thursday followed an extensive report from bloomberg that describes the life"
         ],
         "raw_document": [
             "( cnn ) -- the company that owns victoria's secret vowed a full investigation thursday after a report said cotton used in some of its products is grown using child labor. \" we are very concerned, \" parent company limited brands said in a statement, noting that the cotton in question, which comes from the west african nation of burkina faso, is \" used in a small portion of our victoria's secret panty styles. \" \" if this allegation is true, it describes behavior that is contrary to our company's values and the code of labor and sourcing standards that we require all of our suppliers to meet, \" the statement said. \" these standards expressly prohibit child labor. \" the company said it immediately \" began working with key stakeholders internally and externally to fully investigate this matter. Depending on the findings, we are prepared to take swift action to prevent the illegal use of child labor in the fields where we source fairtrade-certified organic cotton in burkina faso. \" victoria's secret, known for its underwear and lingerie, describes itself as \" one of the most powerful, sexy and glamorous stores in the world. \" its fashion show recently aired in more than 90 countries. The statement from ohio-based limited brands on thursday followed an extensive report from bloomberg that describes the life",
@@ -2748,7 +2732,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     }
 ]

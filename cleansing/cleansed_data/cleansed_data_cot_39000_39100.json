@@ -133,7 +133,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -309,7 +309,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -387,7 +387,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -539,7 +539,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -701,7 +701,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -726,7 +726,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -814,12 +814,11 @@
     },
     {
         "idx": 39030,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The latest development in the gossip universe's breathless coverage of brad pitt and angelina jolie's rumored split: brad bought himself a $ 1.1 million bachelor pad. This according to the daily mail, which even has pictures of the two-bedroom, two-bath place ( it comes complete with, literally, a man cave ). \" ' brad has had his eye on it for some time but he decided now was the right time to buy because he wanted a place to call his own, \" a source tells the mail. \" he needs somewhere quiet that doesn't have memories of angie and where he can be alone and think about what he does next. \" another source says brad is trying to make his relationship work, and his mother is on board to help the couple, and will be meeting the actress next week. Meanwhile, tmz reports pitt — and his enormous beard — were spotted at the la home he shares with jolie on sunday.",
         "split": "train",
         "cleansed_document": [
-            "Brad buys £ 700,000 bachelor pad ( complete with its own cave ) to ' get over split from angelina ' brad pitt has bought himself a bachelor pad to help him deal with his split from angelina jolie brad pitt has secretly purchased a bachelor pad to help him sort out his split from angelina jolie, it was reported yesterday. The 46-year-old ocean's eleven actor has spent £ 700,000 on the house, complete with a cave, in the hollywood hills.'the house oozes character,'said a source. ' brad has had his eye on it for some time but he decided now was the right time to buy because he wanted a place to call his own. ' he needs somewhere quiet that doesn't have memories of angie and where he can be alone and think about what he does next. ' built in 1920 and originally on sale for £ 1.3million, the property has two bedrooms, two bathrooms and a bar area. The cave is built into the foundations. It was reported yesterday that pitt's mother jane has stepped in to try to save his relationship with miss jolie. She plans to use the skills she learnt working as a family counsellor when she meets the 34-year-old actress in los angeles next week. The 70-year-old has apparently become close to miss jolie thanks to their joint work in setting up a cancer centre. She has however always favoured her son's ex-wife, the actress jennifer aniston, 40. Pitt and miss jolie are already believed to have enlisted lawyers to negotiate the division of their £ 205million fortune and custody of their children. Hideaway: the actor has spent £ 700,000 on the house, complete with a cave, in the hollywood hills bachelor pad: the property has two bedrooms, two bathrooms and a bar area - plus a secret cave built into the foundations but a family source said: ' brad is desperately trying to cling on to the wreckage of the relationship as he is still very much in love with angelina and believes they can make it work. ' jane wants what is best for her son and grandchildren and angie has agreed to meet her.'she has stuck at her own marriage and worked with families for 30 years trying to keep them together. ' in happier times: brad and angelina at",
-            "Richie sambora and jon bon jovi are going at it as if they richards and jagger! richie's bailing on their tour... And we know what it's gonna take to put the band back together.plus, justin bieber's so busted up over selena gomez that he's taking it out on the world?? that's …"
+            "Brad buys £ 700,000 bachelor pad ( complete with its own cave ) to ' get over split from angelina ' brad pitt has bought himself a bachelor pad to help him deal with his split from angelina jolie brad pitt has secretly purchased a bachelor pad to help him sort out his split from angelina jolie, it was reported yesterday. The 46-year-old ocean's eleven actor has spent £ 700,000 on the house, complete with a cave, in the hollywood hills.'the house oozes character,'said a source. ' brad has had his eye on it for some time but he decided now was the right time to buy because he wanted a place to call his own. ' he needs somewhere quiet that doesn't have memories of angie and where he can be alone and think about what he does next. ' built in 1920 and originally on sale for £ 1.3million, the property has two bedrooms, two bathrooms and a bar area. The cave is built into the foundations. It was reported yesterday that pitt's mother jane has stepped in to try to save his relationship with miss jolie. She plans to use the skills she learnt working as a family counsellor when she meets the 34-year-old actress in los angeles next week. The 70-year-old has apparently become close to miss jolie thanks to their joint work in setting up a cancer centre. She has however always favoured her son's ex-wife, the actress jennifer aniston, 40. Pitt and miss jolie are already believed to have enlisted lawyers to negotiate the division of their £ 205million fortune and custody of their children. Hideaway: the actor has spent £ 700,000 on the house, complete with a cave, in the hollywood hills bachelor pad: the property has two bedrooms, two bathrooms and a bar area - plus a secret cave built into the foundations but a family source said: ' brad is desperately trying to cling on to the wreckage of the relationship as he is still very much in love with angelina and believes they can make it work. ' jane wants what is best for her son and grandchildren and angie has agreed to meet her.'she has stuck at her own marriage and worked with families for 30 years trying to keep them together. ' in happier times: brad and angelina at"
         ],
         "raw_document": [
             "Brad buys £ 700,000 bachelor pad ( complete with its own cave ) to ' get over split from angelina ' brad pitt has bought himself a bachelor pad to help him deal with his split from angelina jolie brad pitt has secretly purchased a bachelor pad to help him sort out his split from angelina jolie, it was reported yesterday. The 46-year-old ocean's eleven actor has spent £ 700,000 on the house, complete with a cave, in the hollywood hills.'the house oozes character,'said a source. ' brad has had his eye on it for some time but he decided now was the right time to buy because he wanted a place to call his own. ' he needs somewhere quiet that doesn't have memories of angie and where he can be alone and think about what he does next. ' built in 1920 and originally on sale for £ 1.3million, the property has two bedrooms, two bathrooms and a bar area. The cave is built into the foundations. It was reported yesterday that pitt's mother jane has stepped in to try to save his relationship with miss jolie. She plans to use the skills she learnt working as a family counsellor when she meets the 34-year-old actress in los angeles next week. The 70-year-old has apparently become close to miss jolie thanks to their joint work in setting up a cancer centre. She has however always favoured her son's ex-wife, the actress jennifer aniston, 40. Pitt and miss jolie are already believed to have enlisted lawyers to negotiate the division of their £ 205million fortune and custody of their children. Hideaway: the actor has spent £ 700,000 on the house, complete with a cave, in the hollywood hills bachelor pad: the property has two bedrooms, two bathrooms and a bar area - plus a secret cave built into the foundations but a family source said: ' brad is desperately trying to cling on to the wreckage of the relationship as he is still very much in love with angelina and believes they can make it work. ' jane wants what is best for her son and grandchildren and angie has agreed to meet her.'she has stuck at her own marriage and worked with families for 30 years trying to keep them together. ' in happier times: brad and angelina at",
@@ -834,7 +833,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -864,12 +863,11 @@
     },
     {
         "idx": 39032,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "North korea is saddled with sanctions for its nuclear testing, but pyongyang has found at least one way to buck the system, the un now acknowledges: bring in foreign currency via forced labor outside the country, reports cnn. And it's no small chunk of change the nation is said to reap, with estimates from a 2012 human rights report putting the number between $ 1.2 billion and $ 2.3 billion a year — much of which is believed to be funneled to the north's head honchos, as well as to its military and nuclear program. A new report from un human-rights investigator marzuki darusman outlines what he calls a \" dire \" situation whose \" numbers have grown, \" with more than 50,000 laborers ( south korean estimates put the number closer to 100,000 ) toiling for as long as 20 hours a day while barely getting fed and hardly getting paid. Workers who do pull a paycheck take home between $ 120 and $ 150 a month, while their bosses \" pay significantly higher amounts \" to pyongyang, per darusman's report. Most of the workers are sent to mining, construction, logging, and textile jobs in china and russia, with others scattered throughout africa, europe, asia, and the middle east, the ap notes. The forced-labor issue is part of north korea's overall strategy for keeping its people in check, darusman says, adding he'd like the un security council to seek justice in the international criminal court. Companies that make use of these workers are also \" complicit in an unacceptable system of forced labor, \" says darusman.",
         "split": "train",
         "cleansed_document": [
-            "Story highlights u.n. Human rights officials says numbers of north koreans working abroad have grown they are believed to get little or no pay, with kim jong un's regime taking the lion's share companies employing the workers \" become complicit \" in forced labor scheme, u.n. Says ( cnn ) north korea's catalog of abuses against its own people within the secretive country's tightly controlled borders has been widely reported. But kim jong un's regime is also believed to be pocketing huge sums from tens of thousands of its citizens who are sent abroad to toil in forced labor conditions, the united nations says. The laborers are made to work as long as 20 hours a day without enough food and under constant surveillance, according to a new report from marzuki darusman, the u.n. Special rapporteur on human rights",
-            "Contact: kelsey davenport, director for nonproliferation policy, ( 202 ) 463-8270 x102 updated: january 2018 the united nations security council has adopted nine major sanctions resolutions on north korea in response to the country's nuclear and missile activities since 2006. Each resolution condemns north korea's latest nuclear and ballistic missile activity and calls on north korea to cease its illicit activity, which violates previous un security council resolutions. All nine resolutions were unanimously adopted by the security council and all but resolution 2087 ( january 2013 ) contain references to acting under chapter vii, article 41 of the united nations charter. In addition to imposing sanctions, the resolutions give un member states the authority to interdict and inspect north korean cargo within their territory, and subsequently seize and dispose of illicit shipments. The resolutions also call upon north korea to rejoin"
+            "Story highlights u.n. Human rights officials says numbers of north koreans working abroad have grown they are believed to get little or no pay, with kim jong un's regime taking the lion's share companies employing the workers \" become complicit \" in forced labor scheme, u.n. Says ( cnn ) north korea's catalog of abuses against its own people within the secretive country's tightly controlled borders has been widely reported. But kim jong un's regime is also believed to be pocketing huge sums from tens of thousands of its citizens who are sent abroad to toil in forced labor conditions, the united nations says. The laborers are made to work as long as 20 hours a day without enough food and under constant surveillance, according to a new report from marzuki darusman, the u.n. Special rapporteur on human rights"
         ],
         "raw_document": [
             "May 31 marks the fifth anniversary of the murder of asia times ' intrepid pakistan bureau chief syed saleem shahzad.saleem's body, bearing signs of torture, was found near a bridge in mandi bahauddin, about 125 km south of pakistan's capital of islamabad on may 31, 2011. He went missing on may 29, two days after posting an article on at about suspected links between pakistan's navy and al-qaeda.his murder is widely believed to be the work of pakistan's inter-service intelligence agency. Five years after his death, saleem's killers have not been brought to justice.asia times takes this opportunity to again salute saleem's enormous courage and sacrifice and renews its call for pakistan's government to make his killers answer for their heinous crime. We also invite readers to read our commemorative story on saleem and",
@@ -888,7 +886,7 @@
             "0": 4,
             "1": 4,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -913,7 +911,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -960,13 +958,12 @@
     },
     {
         "idx": 39035,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A firefighter in long beach, calif., was killed in the line of duty on monday, and the circumstances are especially jarring: authorities suspect that a 77-year-old resident of a nursing home deliberately set off an explosion, then waited for firefighters to arrive so he could shoot them, reports the long beach press-telegram. Thomas kim, a resident of the 11-story building, is jailed on suspicion of murder, attempted murder, and arson. Police say he killed veteran fire capt. Dave rosa, 45, and wounded 35-year-old firefighter ernesto torres, who was expected to make a full recovery. A resident of the home also was shot and is in critical condition. \"we're frustrated that there's a large puzzle we're trying to put together, and a lot of information we don't know yet, \" says police chief robert luna. Police have not speculated about a motive, and kim \" hasn't given us much of an explanation, \" says another police official, per the los angeles times. Firefighters arrived at covenant manor about 4am monday after getting a report about an explosion, reports the ap. They discovered blown-out windows on the second floor and extinguished a fire, and were searching the building when gunfire broke out. Authorities later recovered a revolver from the scene, and found two suspicious devices in kim's apartment as well as what is believed to be gasoline. An ambush? \" that is definitely on the table, \" says luna. \" these brave firefighters went through those doors and, unfortunately, they were met with gunfire. \"",
         "split": "train",
         "cleansed_document": [
             "This photo provided by the long beach fire department shows captain david rosa who was fatally shot while responding to an emergency at a senior home on monday, june 25, 2018 in long beach, calif. Rosa,... ( associated press ) this photo provided by the long beach fire department shows captain david rosa who was fatally shot while responding to an emergency at a senior home on monday, june 25, 2018 in long beach, calif. Rosa, a long-time veteran of the department and leaves behind a wife and two children. Another firefighter... ( associated press ) long beach, calif. ( ap ) — a 77-year-old man set a fire to lure firefighters to his southern california retirement home so he could shoot them, authorities said. The attack killed one firefighter and wounded another. Thomas kim was arrested monday on suspicion of murder, attempted murder and arson but investigators were still trying to determine a motive for the attack in the southern los angeles suburb, police chief robert luna said. \" there",
-            "Firefighters pay their respects to capt. Dave rosa, 45, on monday, june 25, 2018 during a procession taking his body from st. Maryõs hospital in long beach to the coronerõs office. Rosa and another firefighter were struck by gunfire while responding to reports of an explosion at a downtown long beach high-rise. ( photo by paul bersebach, orange county register/scng ) a portrait of long beach fire captain dave rosa, 45, during a press conference after he was shot and killed responding to a fire in long beach, ca, on monday, june 25, 2018. Rosa and another firefighter were struck by gunfire while responding to reports of an explosion at a downtown long beach high-rise. ( photo by jeff gritchen, orange county register/scng ) chp escortes the fallen firefighter, capt. Dave rosa, to the l. A. County coroners office in los angeles on monday, june 25, 2018, on the 710 freeway as firefighters salute on the overpass. ( abc-7 ) sound the gallery will resume in",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Firefighters pay their respects to capt. Dave rosa, 45, on monday, june 25, 2018 during a procession taking his body from st. Maryõs hospital in long beach to the coronerõs office. Rosa and another firefighter were struck by gunfire while responding to reports of an explosion at a downtown long beach high-rise. ( photo by paul bersebach, orange county register/scng ) a portrait of long beach fire captain dave rosa, 45, during a press conference after he was shot and killed responding to a fire in long beach, ca, on monday, june 25, 2018. Rosa and another firefighter were struck by gunfire while responding to reports of an explosion at a downtown long beach high-rise. ( photo by jeff gritchen, orange county register/scng ) chp escortes the fallen firefighter, capt. Dave rosa, to the l. A. County coroners office in los angeles on monday, june 25, 2018, on the 710 freeway as firefighters salute on the overpass. ( abc-7 ) sound the gallery will resume in"
         ],
         "raw_document": [
             "This photo provided by the long beach fire department shows captain david rosa who was fatally shot while responding to an emergency at a senior home on monday, june 25, 2018 in long beach, calif. Rosa,... ( associated press ) this photo provided by the long beach fire department shows captain david rosa who was fatally shot while responding to an emergency at a senior home on monday, june 25, 2018 in long beach, calif. Rosa, a long-time veteran of the department and leaves behind a wife and two children. Another firefighter... ( associated press ) long beach, calif. ( ap ) — a 77-year-old man set a fire to lure firefighters to his southern california retirement home so he could shoot them, authorities said. The attack killed one firefighter and wounded another. Thomas kim was arrested monday on suspicion of murder, attempted murder and arson but investigators were still trying to determine a motive for the attack in the southern los angeles suburb, police chief robert luna said. \" there",
@@ -983,7 +980,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1064,7 +1061,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1089,7 +1086,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1201,13 +1198,12 @@
     },
     {
         "idx": 39044,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Surf around ebay and etsy and you ' ll find a niche market that's right out of poltergeist: haunted dolls. This online subculture got some media attention after a reporter stumbled on it in ebay's \" everything else \" section, npr reports. \" there was an advert for something which was a sadistic, perverted, haunted doll, \" says the reporter, jak hutchcraft, who covered it on vice.com. \" it was this little, menacing-looking sort of troll. \" it also sold for over $ 1,400. So he talked to a couple of women who sell items on the pricey possessed-toys market, and found them surprisingly down to earth. They said people buy the dolls for help with white or black magic, or to adopt orphan spirits supposedly living in the dolls. Some buyers \" are interested because they don't have children of their own, \" says one of the women, jayne harris. \" they ask if i've come across any spirited children that are in limbo. \" the other, nancy oyola, says her buyers are satisfied and usually confirm that the dolls are haunted. According to hutchcraft, the market blossomed after a wine cabinet supposedly haunted by a \" dybbuk \" ( from jewish mythology ) sold on ebay in 2004. Now there's a witchcraft section on etsy, vice.com reports, and ebay has a guide to buying haunted items. But a man billed as a parapsychic medium isn't convinced: \" i can't see how this mass production of haunted dolls is feasible, \" he says. \" we don't get to choose where a spirit will reside or what it's attached to. \" ( ebay also sold rob ford's \" crack tie \"... For more than $ 16,000. )",
         "split": "train",
         "cleansed_document": [
             "Haunted dolls are a thing, and they're not cheap, either enlarge this image toggle caption jak hutchcraft jak hutchcraft some childhood symbols straddle the line between adorable and terrifying. Like clowns. Or furbys. Some dolls fit the category, too, with spooky eyes that seem to move or a porcelain pallor. They're not all chucky, but some of them just don't seem quite right. Listener anne mclaughlin grew up with a cabinet full of dolls — including a pretty dancer doll and a set of wooden nesting dolls. But one, she says, stood out. \" one of the dolls in the cabinet was absolutely terrifying,",
-            "\" tommy \" ( left ), a kii meter, and an unnamed doll this article originally appeared on vice uk. \" most of the time, the reason a doll becomes haunted is because of unfinished business, \" said jayne harris, paranormal investigator and haunted-doll trader. \" it could also be a fear of passing over, or sometimes there's somebody on the other side that the spirits don't want to reconnect with. \" i'd stumbled across the online trade of \" haunted dolls \" in ebay's everything else section. Among the listings for used vape pens and handcrafted male chastity devices, i spotted an ad for a",
-            "Some spells for sale on etsy right now-thank god it's payday victoria zasikowski is an etsy witch. Her profile bills her as a \" professional astrologer and practitioner of hoodoo magick, \" while her shop-the enchanted land-offers a menu of spells, pendulum readings, and cartomancy. Depending on what spell she's casting, she uses candles, cauldrons, mojo bags, and customized \" spellvelopes. \" once she's done, she sends pictures to every client as proof that the spell has been cast. \" you may send me a hair and nail sample in the mail if you like, \" reads her listing. \" such items are called '"
+            "\" tommy \" ( left ), a kii meter, and an unnamed doll this article originally appeared on vice uk. \" most of the time, the reason a doll becomes haunted is because of unfinished business, \" said jayne harris, paranormal investigator and haunted-doll trader. \" it could also be a fear of passing over, or sometimes there's somebody on the other side that the spirits don't want to reconnect with. \" i'd stumbled across the online trade of \" haunted dolls \" in ebay's everything else section. Among the listings for used vape pens and handcrafted male chastity devices, i spotted an ad for a"
         ],
         "raw_document": [
             "Haunted dolls are a thing, and they're not cheap, either enlarge this image toggle caption jak hutchcraft jak hutchcraft some childhood symbols straddle the line between adorable and terrifying. Like clowns. Or furbys. Some dolls fit the category, too, with spooky eyes that seem to move or a porcelain pallor. They're not all chucky, but some of them just don't seem quite right. Listener anne mclaughlin grew up with a cabinet full of dolls — including a pretty dancer doll and a set of wooden nesting dolls. But one, she says, stood out. \" one of the dolls in the cabinet was absolutely terrifying,",
@@ -1226,17 +1222,16 @@
             "0": 1,
             "1": 3,
             "2": 0,
-            "3": 0
+            "3": 3
         }
     },
     {
         "idx": 39045,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "What could possibly be more ubiquitous than mcdonald's? payday lenders, according to an article running in inside the vault, a newsletter put out by the st. Louis federal reserve. By its count, there are roughly 20,000 payday lender locations in the us, which works out to one for about every 16,000 people. Mcdonald's currently has 14,267 locations, per nbc news, which notes that the small ( typically $ 500 or less ), short-term ( most often 14 days, as full payment of the loan and fees is due on the borrower's next payday ) loans are most typically used by those \" at or near the bottom of the economic spectrum. \" and those that make use of payday lenders may find their financial situation worsened: the mean payday borrower makes $ 22,476 a year and paid $ 458, or 2 % of their annual income, in fees. And those using payday loans typically owe money to lenders during 55 % of the year. And as the consumer finance protection bureau put it in a 2013 report, \" these products may become harmful for consumers when they are used to make up for chronic cash flow shortages. \"",
         "split": "train",
         "cleansed_document": [
-            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. There are more payday lenders in the u.s. Than mcdonald's or starbucks, reflecting economic conditions in which fast money is even more important than fast food. Payday lending, in which users pay a fee for what amounts to an advance on their paychecks, has blossomed over the past 20 years. There are now more than 20,000 across the country, according to the st. Louis federal reserve, while mcdonald's boasts 14,267 locations. They're used most often by people who lack access to ordinary credit — often those at or near the bottom of the economic spectrum, with nearly a quarter living on public assistance or retirement income. While the loans can fill a need for fast cash, they also can become a way of life for users who end up paying effective annual percentage rates, or aprs, well in excess of 300 percent. Consequently, they've attracted the attention of regulators, politicians and economists why worry about those left behind in a decidedly uneven economic recovery. \" a large number of americans are literally living paycheck to paycheck. They're one unplanned expense away from being in financial distress. \" \" a large number of americans are literally living paycheck to paycheck, \" said greg mcbride, chief financial analyst at bankrate.com. \" they're one unplanned expense away from being in financial distress. \" mcbride cited some sobering statistics: twenty-six percent of americans have no emergency savings and 41 percent say their \" top financial priority \" is simply staying current with their expenses or getting caught up on their bills. This is occurring even as the financial headlines trump new stock market highs by the day and president barack obama's administration touts the u.s. Economic recovery. \" americans that have assets have seen the value of those assets appreciate, but americans who don't have those assets, they're not feeling the recovery in their pocketbooks, particularly at a time of stagnant income, \" mcbride said. \" if you don't have those things, and you haven't seen a pay increase, then you're no better off, you're no wealthier. \" finding themselves poorer those using payday loans, in fact, may find themselves",
-            "This is a set of web collections curated by mark graham using the archive-it service of the internet archive. They include web captures of the iskme.org website as well as captures from sites hosted by igc.org.these web captures are available to the general public.for more information about this collection please feel free to contact mark via send mail"
+            "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. There are more payday lenders in the u.s. Than mcdonald's or starbucks, reflecting economic conditions in which fast money is even more important than fast food. Payday lending, in which users pay a fee for what amounts to an advance on their paychecks, has blossomed over the past 20 years. There are now more than 20,000 across the country, according to the st. Louis federal reserve, while mcdonald's boasts 14,267 locations. They're used most often by people who lack access to ordinary credit — often those at or near the bottom of the economic spectrum, with nearly a quarter living on public assistance or retirement income. While the loans can fill a need for fast cash, they also can become a way of life for users who end up paying effective annual percentage rates, or aprs, well in excess of 300 percent. Consequently, they've attracted the attention of regulators, politicians and economists why worry about those left behind in a decidedly uneven economic recovery. \" a large number of americans are literally living paycheck to paycheck. They're one unplanned expense away from being in financial distress. \" \" a large number of americans are literally living paycheck to paycheck, \" said greg mcbride, chief financial analyst at bankrate.com. \" they're one unplanned expense away from being in financial distress. \" mcbride cited some sobering statistics: twenty-six percent of americans have no emergency savings and 41 percent say their \" top financial priority \" is simply staying current with their expenses or getting caught up on their bills. This is occurring even as the financial headlines trump new stock market highs by the day and president barack obama's administration touts the u.s. Economic recovery. \" americans that have assets have seen the value of those assets appreciate, but americans who don't have those assets, they're not feeling the recovery in their pocketbooks, particularly at a time of stagnant income, \" mcbride said. \" if you don't have those things, and you haven't seen a pay increase, then you're no better off, you're no wealthier. \" finding themselves poorer those using payday loans, in fact, may find themselves"
         ],
         "raw_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. There are more payday lenders in the u.s. Than mcdonald's or starbucks, reflecting economic conditions in which fast money is even more important than fast food. Payday lending, in which users pay a fee for what amounts to an advance on their paychecks, has blossomed over the past 20 years. There are now more than 20,000 across the country, according to the st. Louis federal reserve, while mcdonald's boasts 14,267 locations. They're used most often by people who lack access to ordinary credit — often those at or near the bottom of the economic spectrum, with nearly a quarter living on public assistance or retirement income. While the loans can fill a need for fast cash, they also can become a way of life for users who end up paying effective annual percentage rates, or aprs, well in excess of 300 percent. Consequently, they've attracted the attention of regulators, politicians and economists why worry about those left behind in a decidedly uneven economic recovery. \" a large number of americans are literally living paycheck to paycheck. They're one unplanned expense away from being in financial distress. \" \" a large number of americans are literally living paycheck to paycheck, \" said greg mcbride, chief financial analyst at bankrate.com. \" they're one unplanned expense away from being in financial distress. \" mcbride cited some sobering statistics: twenty-six percent of americans have no emergency savings and 41 percent say their \" top financial priority \" is simply staying current with their expenses or getting caught up on their bills. This is occurring even as the financial headlines trump new stock market highs by the day and president barack obama's administration touts the u.s. Economic recovery. \" americans that have assets have seen the value of those assets appreciate, but americans who don't have those assets, they're not feeling the recovery in their pocketbooks, particularly at a time of stagnant income, \" mcbride said. \" if you don't have those things, and you haven't seen a pay increase, then you're no better off, you're no wealthier. \" finding themselves poorer those using payday loans, in fact, may find themselves",
@@ -1251,18 +1246,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 39046,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Robert menendez thinks the cuban government planted evidence that he partied with underage prostitutes, and the new jersey senator is asking the justice department to look into his claims, reports the washington post. Menendez, known as a vocal castro critic, alleges that plot was timed to put a wrench in his 2012 re-election campaign; his lawyer calls it \" deeply disturbing \" that an american \" enemy \" would \" influence us foreign policy by discrediting an elected official. \" it's just the latest controversy swirling around the democrat: justice has been investigating menendez to see if he used his senate position to benefit a wealthy donor — and menendez has openly told the ap that he supported the creation of a fake cuban twitter to undermine the cuban government. Per the post, us officials have intel indicating havana created a fake tipster named \" pete williams \" to claim menendez had romped in \" poolside sex parties \" with underage prostitutes in the dominican republic. In november 2012, the daily caller posted a video of two women with their faces obscured, claiming that menendez arranged to pay them $ 500 to perform sex acts at a ritzy dominican resort — and then stiffed them and gave them $ 100 each. One of the women later recanted and said the two were paid to frame menendez. The evidence against cuba includes ip addresses linking cuban intelligence agents to the prostitution claims and the fact that independent investigations haven't turned up any evidence of menendez with prostitutes of any age — or of a credible link between the tipster's emails and a real pete williams. Click for more.",
         "split": "train",
         "cleansed_document": [
             "Two women from the dominican republic told the daily caller that democratic new jersey sen. Bob menendez paid them for sex earlier this year. In interviews, the two women said they met menendez around easter at casa de campo, an expensive 7,000-acre resort in the dominican republic. They claimed menendez agreed to pay them $ 500 for sex acts, but in the end they each received only $ 100. The women spoke through a translator in the company of their attorney, melanio figueroa. Both asked that their identities remain obscured for fear of reprisals in the dominican republic. When shown a photograph of sen. Menendez, the women said they recognized him as the man with whom they'd had sexual relations at casa de campo this spring. Both said they were brought to the resort with the understanding they would be paid for sex. Neither knew the identity of the man at the",
-            "Sen. Robert menendez is asking the justice department to pursue evidence obtained by u.s. Investigators that the cuban government concocted an elaborate plot to smear him with allegations that he cavorted with underage prostitutes, according to people familiar with the discussions. In a letter sent to justice department officials, the senator's attorney asserts that the plot was timed to derail the ­political rise of menendez ( d-n.j. ), one of washington's most ardent critics of the castro regime. At the time, menendez was running for reelection and was preparing to assume the powerful chairmanship of the senate foreign relations committee. According to a former u.s. Official with firsthand knowledge of government intelligence, the cia had obtained credible evidence, including internet protocol addresses, linking cuban agents to the prostitution claims and to efforts to plant the story in u.s. And latin american media. The alleged cuba connection was laid out in an",
-            "Washington ( ap ) — in july 2010, joe mcspedon, a u.s. Government official, flew to barcelona to put the final touches on a secret plan to build a social media project aimed at undermining cuba's communist government. Mcspedon and his team of high-tech contractors had come in from costa rica and nicaragua, washington and denver. Their mission: to launch a messaging network that could reach hundreds of thousands of cubans. To hide the network from the cuban government, they would set up a byzantine system of front companies using a cayman islands bank account, and recruit executives who would not be told of the company's ties to the u.s. Government. Mcspedon didn't work for the cia. This was a program paid for and run by the u.s. Agency for international development, best known for overseeing billions of dollars in u.s. Humanitarian aid. According to documents"
+            "Sen. Robert menendez is asking the justice department to pursue evidence obtained by u.s. Investigators that the cuban government concocted an elaborate plot to smear him with allegations that he cavorted with underage prostitutes, according to people familiar with the discussions. In a letter sent to justice department officials, the senator's attorney asserts that the plot was timed to derail the ­political rise of menendez ( d-n.j. ), one of washington's most ardent critics of the castro regime. At the time, menendez was running for reelection and was preparing to assume the powerful chairmanship of the senate foreign relations committee. According to a former u.s. Official with firsthand knowledge of government intelligence, the cia had obtained credible evidence, including internet protocol addresses, linking cuban agents to the prostitution claims and to efforts to plant the story in u.s. And latin american media. The alleged cuba connection was laid out in an"
         ],
         "raw_document": [
             "Two women from the dominican republic told the daily caller that democratic new jersey sen. Bob menendez paid them for sex earlier this year. In interviews, the two women said they met menendez around easter at casa de campo, an expensive 7,000-acre resort in the dominican republic. They claimed menendez agreed to pay them $ 500 for sex acts, but in the end they each received only $ 100. The women spoke through a translator in the company of their attorney, melanio figueroa. Both asked that their identities remain obscured for fear of reprisals in the dominican republic. When shown a photograph of sen. Menendez, the women said they recognized him as the man with whom they'd had sexual relations at casa de campo this spring. Both said they were brought to the resort with the understanding they would be paid for sex. Neither knew the identity of the man at the",
@@ -1279,7 +1273,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1398,12 +1392,11 @@
     },
     {
         "idx": 39051,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "With father's day near comes a debate about \" forced fatherhood. \" the phrase refers to guys who get turned into fathers against their will through unplanned pregnancies, explains laurie shrage in the new york times. Men in this situation \" have few choices, \" she writes. It's ultimately the woman's call on whether to have the baby, but her decision could saddle the man with years of child support even though he had no intention of becoming a dad. It's time we gave men more \" reproductive autonomy \" by providing them with more options, writes shrage. For example, maybe he contributes only to the medical expenses related to the pregnancy and birth, and the couple goes their separate ways. At jezebel, blogger meher ahmad isn't having it. Is this kind of situation unfair to the guys? yep, and they're just going to have to suck it up. \" at the end of the day, the only thing the government, and society, requires fathers to do is pay money, which is a hell of a lot easier than raising a child alone, as most mothers who have children out of wedlock are forced to do, \" she writes. \" yeah, it's unfair for them, but it's not nearly as unfair as forced motherhood. \" click for her full column. Or for shrage's full column.",
         "split": "train",
         "cleansed_document": [
-            "The stone is a forum for contemporary philosophers and other thinkers on issues both timely and timeless. This weekend millions of americans will happily celebrate the role that fathers play in their families. For some families, though — specifically those in which dad's role was not freely assumed, but legally mandated — father's day can be an emotionally complicated occasion. And that somewhat messy reality raises a question that is worth examining today as the very definition of parents and families continues to undergo legal and social transformation. If a man accidentally conceives a child with a woman, his choices are surprisingly few. Women's rights advocates have long struggled for motherhood to be a voluntary condition, and not one imposed by nature or culture. In places where women and girls have access to affordable and safe contraception and abortion services, and where there are programs to assist mothers in distress find foster or adoptive parents, voluntary motherhood is basically a reality. In many states, infant safe haven laws allow a birth mother to walk away from her newborn baby if she leaves it unharmed at a designated facility. If a man accidentally conceives a child with a woman, and does not want to raise the child with her, what are his choices? surprisingly, he has few options in the united states. He can urge",
-            "With father's day around the corner ( consider this a friendly reminder, go get him a tie or something ), baby daddies around the country will be getting a hallmark card, an applebee's gift card, or at least a phone call to recognize all those times they ordered pizzas and let their kids wear pajamas all day when mom was out of town. But the definition of daddyhood is a changing one: with more and more children born out of wedlock, \" dad \" doesn't necessarily mean your mom's husband or boyfriend. He could be a one night stand or a good friend, or, as laurie shrage suggests in her op-ed in today's new york times, he could be something like a forced sperm donor. Shrage, a professor of philosophy and women's and gender studies at florida international university, penned her column titled \" is forced fatherhood fair? \" to argue that it's really unfair the way we treat men when it comes unplanned pregnancies. Say a guy has unprotected sex with a lady, and said lady gets pregnant, as things often go with unprotected sex. The lady weighs her options and finally decides to keep her child. Now this guy, the other half necessary for conceiving a child, is stuck with the results"
+            "The stone is a forum for contemporary philosophers and other thinkers on issues both timely and timeless. This weekend millions of americans will happily celebrate the role that fathers play in their families. For some families, though — specifically those in which dad's role was not freely assumed, but legally mandated — father's day can be an emotionally complicated occasion. And that somewhat messy reality raises a question that is worth examining today as the very definition of parents and families continues to undergo legal and social transformation. If a man accidentally conceives a child with a woman, his choices are surprisingly few. Women's rights advocates have long struggled for motherhood to be a voluntary condition, and not one imposed by nature or culture. In places where women and girls have access to affordable and safe contraception and abortion services, and where there are programs to assist mothers in distress find foster or adoptive parents, voluntary motherhood is basically a reality. In many states, infant safe haven laws allow a birth mother to walk away from her newborn baby if she leaves it unharmed at a designated facility. If a man accidentally conceives a child with a woman, and does not want to raise the child with her, what are his choices? surprisingly, he has few options in the united states. He can urge"
         ],
         "raw_document": [
             "The stone is a forum for contemporary philosophers and other thinkers on issues both timely and timeless. This weekend millions of americans will happily celebrate the role that fathers play in their families. For some families, though — specifically those in which dad's role was not freely assumed, but legally mandated — father's day can be an emotionally complicated occasion. And that somewhat messy reality raises a question that is worth examining today as the very definition of parents and families continues to undergo legal and social transformation. If a man accidentally conceives a child with a woman, his choices are surprisingly few. Women's rights advocates have long struggled for motherhood to be a voluntary condition, and not one imposed by nature or culture. In places where women and girls have access to affordable and safe contraception and abortion services, and where there are programs to assist mothers in distress find foster or adoptive parents, voluntary motherhood is basically a reality. In many states, infant safe haven laws allow a birth mother to walk away from her newborn baby if she leaves it unharmed at a designated facility. If a man accidentally conceives a child with a woman, and does not want to raise the child with her, what are his choices? surprisingly, he has few options in the united states. He can urge",
@@ -1418,7 +1411,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1529,12 +1522,11 @@
     },
     {
         "idx": 39056,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "If you were hoping your neighbors wouldn't find out about your financial troubles, we've got some bad news. Zillow.com, a popular site allowing people to see how much homes are worth, is now allowing users to search for homes that are headed for foreclosure — even if they're not yet for sale, the la times reports. Visitors will be able to see whether the homeowner has defaulted, and by how much, and what the house might sell for, among other details. While this information has always been technically public, it was only available via cumbersome public record searches. Zillow says it's offering a service by making it more transparent. \" this helps buyers become smarter about their local market, \" the site's marketing officer says, and it could help underwater borrowers, too, by exposing them to potential buyers. But privacy advocates are concerned. \" sometimes things are protected not by the law, but by the act of having to go look it up, \" says one professor.",
         "split": "train",
         "cleansed_document": [
-            "Real estate website zillow.com has built a successful business out of telling online visitors how much your house is worth. Now it's telling the world whether you're in foreclosure. The company on thursday launched a free feature that allows anybody searching for homes to view those that aren't listed for sale but are headed that way because of financial distress. Nosy neighbors will be able to see if a homeowner has defaulted on the mortgage and by how much, whether a house has been taken back by the lender, and what a house might sell for in foreclosure, among other things. While information on borrowers in foreclosure has long been public, it has been accessible only to those willing to dig through public records or pay specialized providers who aggregate that data for a fee. Zillow executives described the new feature as a service for people shopping for homes and a way to provide increased transparency to real estate. Video: real estate is rebounding zillow.com foreclosures: an article in the oct. 26 business section about real estate website zillow.com launching a feature that shows whether a property is in foreclosure said that the site initially would provide details on 1.8 million homes in the foreclosure process. The correct number is 1.2 million homes. But the move by the real estate website immediately raised concerns among housing advocates and some privacy experts. They argued that making such data easily available could have implications such as embarrassing people already going through hard times. \" what we are confronted with here is a scenario that is becoming increasingly common in today's world, which is things that were hard to get, but public, are becoming easy to get to, and it changes the dynamics of society, \" said joseph turow, a university of pennsylvania professor who is an expert on privacy concerns. \" the larger issue that you are pointing to is the democratization of data that is taking place, possibly, without any kind of social discussion around it. \" zillow titled the new data on homes in foreclosure \" pre-market inventory \" and said that home shoppers who use the company's site have been asking for the service. The company said it would now provide details on 1.8 million homes in the foreclosure process. The information will include more than 1.5 million homes whose borrowers have entered foreclosure but still own their homes as well as about 260,000 bank-owned properties not yet listed for sale. Contact details for real estate agents specializing in foreclosures will be listed, and a foreclosure center on the",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Real estate website zillow.com has built a successful business out of telling online visitors how much your house is worth. Now it's telling the world whether you're in foreclosure. The company on thursday launched a free feature that allows anybody searching for homes to view those that aren't listed for sale but are headed that way because of financial distress. Nosy neighbors will be able to see if a homeowner has defaulted on the mortgage and by how much, whether a house has been taken back by the lender, and what a house might sell for in foreclosure, among other things. While information on borrowers in foreclosure has long been public, it has been accessible only to those willing to dig through public records or pay specialized providers who aggregate that data for a fee. Zillow executives described the new feature as a service for people shopping for homes and a way to provide increased transparency to real estate. Video: real estate is rebounding zillow.com foreclosures: an article in the oct. 26 business section about real estate website zillow.com launching a feature that shows whether a property is in foreclosure said that the site initially would provide details on 1.8 million homes in the foreclosure process. The correct number is 1.2 million homes. But the move by the real estate website immediately raised concerns among housing advocates and some privacy experts. They argued that making such data easily available could have implications such as embarrassing people already going through hard times. \" what we are confronted with here is a scenario that is becoming increasingly common in today's world, which is things that were hard to get, but public, are becoming easy to get to, and it changes the dynamics of society, \" said joseph turow, a university of pennsylvania professor who is an expert on privacy concerns. \" the larger issue that you are pointing to is the democratization of data that is taking place, possibly, without any kind of social discussion around it. \" zillow titled the new data on homes in foreclosure \" pre-market inventory \" and said that home shoppers who use the company's site have been asking for the service. The company said it would now provide details on 1.8 million homes in the foreclosure process. The information will include more than 1.5 million homes whose borrowers have entered foreclosure but still own their homes as well as about 260,000 bank-owned properties not yet listed for sale. Contact details for real estate agents specializing in foreclosures will be listed, and a foreclosure center on the"
         ],
         "raw_document": [
             "Real estate website zillow.com has built a successful business out of telling online visitors how much your house is worth. Now it's telling the world whether you're in foreclosure. The company on thursday launched a free feature that allows anybody searching for homes to view those that aren't listed for sale but are headed that way because of financial distress. Nosy neighbors will be able to see if a homeowner has defaulted on the mortgage and by how much, whether a house has been taken back by the lender, and what a house might sell for in foreclosure, among other things. While information on borrowers in foreclosure has long been public, it has been accessible only to those willing to dig through public records or pay specialized providers who aggregate that data for a fee. Zillow executives described the new feature as a service for people shopping for homes and a way to provide increased transparency to real estate. Video: real estate is rebounding zillow.com foreclosures: an article in the oct. 26 business section about real estate website zillow.com launching a feature that shows whether a property is in foreclosure said that the site initially would provide details on 1.8 million homes in the foreclosure process. The correct number is 1.2 million homes. But the move by the real estate website immediately raised concerns among housing advocates and some privacy experts. They argued that making such data easily available could have implications such as embarrassing people already going through hard times. \" what we are confronted with here is a scenario that is becoming increasingly common in today's world, which is things that were hard to get, but public, are becoming easy to get to, and it changes the dynamics of society, \" said joseph turow, a university of pennsylvania professor who is an expert on privacy concerns. \" the larger issue that you are pointing to is the democratization of data that is taking place, possibly, without any kind of social discussion around it. \" zillow titled the new data on homes in foreclosure \" pre-market inventory \" and said that home shoppers who use the company's site have been asking for the service. The company said it would now provide details on 1.8 million homes in the foreclosure process. The information will include more than 1.5 million homes whose borrowers have entered foreclosure but still own their homes as well as about 260,000 bank-owned properties not yet listed for sale. Contact details for real estate agents specializing in foreclosures will be listed, and a foreclosure center on the",
@@ -1549,7 +1541,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1602,7 +1594,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1651,7 +1643,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1676,7 +1668,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1732,7 +1724,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1945,12 +1937,11 @@
     },
     {
         "idx": 39072,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A twitter q&a with michelle obama yesterday got amusing when iman crosson — while impersonating president obama — asked his question via a vine video: \" how many calories do you burn every time you'turn up '? \" the first lady responded in a vine video of her own, \" turnip? for what? \" of course, as mashable reports, she responded while holding a turnip... And dancing to \" turn down for what \" by dj snake and lil jon. ( it's not the first time obama has shown off her moves publicly. )",
         "split": "train",
         "cleansed_document": [
-            "How hip is first lady michelle obama? hip enough to dance to dj snake and lil jon's \" turn down for what \" inside the white house — with a turnip clenched in her right hand. #turnipforwhat? during a twitter q&a, the 50-year-old flotus humorously answered president barack obama impersonator iman crosson's question with a 6-second vine. His question: \" on average, how many calories do you burn every time you'turn up '?! \" crosson, dressed as the president, incited the hilarity with a vine of his own: the first lady is no stranger to showing off her moves. She has publicly boogied to beyoncé jams as part of her \" let's move! \" initiative to thwart childhood obesity. She also memorably demonstrated the \" evolution of mom dancing \" with jimmy fallon in 2013. And let's not forget to mention the star-studded hip-hop album she released last year. Bonus: 10 michelle obama dance moves that prove 50 is fabulous",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "How hip is first lady michelle obama? hip enough to dance to dj snake and lil jon's \" turn down for what \" inside the white house — with a turnip clenched in her right hand. #turnipforwhat? during a twitter q&a, the 50-year-old flotus humorously answered president barack obama impersonator iman crosson's question with a 6-second vine. His question: \" on average, how many calories do you burn every time you'turn up '?! \" crosson, dressed as the president, incited the hilarity with a vine of his own: the first lady is no stranger to showing off her moves. She has publicly boogied to beyoncé jams as part of her \" let's move! \" initiative to thwart childhood obesity. She also memorably demonstrated the \" evolution of mom dancing \" with jimmy fallon in 2013. And let's not forget to mention the star-studded hip-hop album she released last year. Bonus: 10 michelle obama dance moves that prove 50 is fabulous"
         ],
         "raw_document": [
             "How hip is first lady michelle obama? hip enough to dance to dj snake and lil jon's \" turn down for what \" inside the white house — with a turnip clenched in her right hand. #turnipforwhat? during a twitter q&a, the 50-year-old flotus humorously answered president barack obama impersonator iman crosson's question with a 6-second vine. His question: \" on average, how many calories do you burn every time you'turn up '?! \" crosson, dressed as the president, incited the hilarity with a vine of his own: the first lady is no stranger to showing off her moves. She has publicly boogied to beyoncé jams as part of her \" let's move! \" initiative to thwart childhood obesity. She also memorably demonstrated the \" evolution of mom dancing \" with jimmy fallon in 2013. And let's not forget to mention the star-studded hip-hop album she released last year. Bonus: 10 michelle obama dance moves that prove 50 is fabulous",
@@ -1967,7 +1958,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2073,7 +2064,7 @@
             "0": 1,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2098,7 +2089,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2181,7 +2172,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2324,7 +2315,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2374,17 +2365,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 39088,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Sky watchers get a treat this evening: venus and jupiter will appear to be practically on top of each other. The two planets will be separated in the sky by just one-third of a degree, which means you ' ll be able to cover them both with your pinky finger, notes nasa. Together, they will look like \" tight, brilliant double star in the evening sky, \" writes sky &amp; telescope. And npr adds that it won't be complicated to see the sight. It doesn't even have to be dark: \" just look to the west around sunset. \"",
         "split": "train",
         "cleansed_document": [
-            "Venus and jupiter set for a close encounter tuesday night youtube it's not as if two worlds will collide tonight — venus and jupiter are only converging into a small area of the earth's sky. Nasa says the two bright planets will be \" a jaw-dropping one-third of a degree apart. \" that distance is smaller than the width of a full moon, as seen from earth's surface. \" you ' ll be able to hide the pair not just behind the palm of your outstretched hand, but behind your little pinky finger, \" nasa says. And unlike some other astronomical phenomena, this convergence should be easily visible: just look to the west around sunset. That's where you ' ll find venus and jupiter, if the sky is relatively clear. \" conjunctions between venus and jupiter are far from rare events, \" notes space.com. But the site adds that tonight's \" unusually close \" conjunction is worth seeing — and it adds that this is both the closest and the last pairing between the two planets in the current 24-year cycle.",
-            "If you love stargazing, there's a date you need to mark on your calendar. It's june. That's right, the whole month! throughout the month of june 2015, the two brightest planets in the night sky, venus and jupiter, are going to converge for a jaw-dropping close encounter. You don't want to miss any of the action. Venus and jupiter are converging for a must-see close encounter at the end of june. It could be the best backyard sky show of 2015. When the sun goes down, step outside and look west. You don't have to wait until the sky fades to black. Venus and jupiter are so bright, you can see then shining through the twilight. In fact, some people say the planets are especially beautiful when they are surrounded by the cobalt hue of the early evening sky -- so don't wait. During the first two weeks of june, venus and jupiter converge until they are only about 10 degrees apart. For reference, this means they would just fit together inside the bowl of the big dipper. You could hide them both, simultaneously, behind the palm of your outstretched hand. This is pretty close, but by the end of the month this distance will shrink by a factor of 30. In fact, every night in june, the separation between venus and jupiter will visibly shrink. One good night to check on their progress is june 12th. After dark, scan the sky around venus with binoculars. You can see the"
+            "Venus and jupiter set for a close encounter tuesday night youtube it's not as if two worlds will collide tonight — venus and jupiter are only converging into a small area of the earth's sky. Nasa says the two bright planets will be \" a jaw-dropping one-third of a degree apart. \" that distance is smaller than the width of a full moon, as seen from earth's surface. \" you ' ll be able to hide the pair not just behind the palm of your outstretched hand, but behind your little pinky finger, \" nasa says. And unlike some other astronomical phenomena, this convergence should be easily visible: just look to the west around sunset. That's where you ' ll find venus and jupiter, if the sky is relatively clear. \" conjunctions between venus and jupiter are far from rare events, \" notes space.com. But the site adds that tonight's \" unusually close \" conjunction is worth seeing — and it adds that this is both the closest and the last pairing between the two planets in the current 24-year cycle."
         ],
         "raw_document": [
             "Venus and jupiter set for a close encounter tuesday night youtube it's not as if two worlds will collide tonight — venus and jupiter are only converging into a small area of the earth's sky. Nasa says the two bright planets will be \" a jaw-dropping one-third of a degree apart. \" that distance is smaller than the width of a full moon, as seen from earth's surface. \" you ' ll be able to hide the pair not just behind the palm of your outstretched hand, but behind your little pinky finger, \" nasa says. And unlike some other astronomical phenomena, this convergence should be easily visible: just look to the west around sunset. That's where you ' ll find venus and jupiter, if the sky is relatively clear. \" conjunctions between venus and jupiter are far from rare events, \" notes space.com. But the site adds that tonight's \" unusually close \" conjunction is worth seeing — and it adds that this is both the closest and the last pairing between the two planets in the current 24-year cycle.",
@@ -2399,7 +2389,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2488,7 +2478,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2542,12 +2532,11 @@
     },
     {
         "idx": 39094,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When men who take virginity pledges are taught that sex before marriage is beastly and wrong but sex after marriage is a gift from god, these very disparate messages can lead to problems down the road. So reports a sociologist who since 2008 has been studying 15 men in a support group affiliated with a mega-church in the southwest, 14 of whom have since gotten married, reports livescience. While the men had talked freely about sex and sexual urges prior to marriage — including masturbation, pornography, and same-sex attractions — they said they shouldn't discuss sex after marriage because they'd be talking about their wives instead of just themselves. Secular sociologist sarah diefendorf tells new republic that the men would refrain from giving in to their \" beastly \" urges via accountability partners and \" are you behaving? \" evening text messages, but that once they married they no longer had a support group with which to discuss sex. Many confessed to her that they were struggling with extramarital desires, pornography, masturbation, and lingering conflicting feelings about the sanctity of sex. \" when you spend the first twenty-plus years of your life thinking of sex as something beastly that needs to be controlled, it's very difficult to make that transition to married life and viewing sex as sacred, \" she says. ( meanwhile, the vast majority of teen girls have no formal sex ed prior to becoming sexually active. )",
         "split": "train",
         "cleansed_document": [
-            "San francisco — men who make virginity pledges get strong social support to abstain from sex before the wedding night, but that backing disappears soon after they tie the knot, new research suggests. These men are also taught to think of sex outside of marriage as animalistic and foul, but sacred within a marriage, according to a new study presented aug. 17, here at the 109th american sociological association meeting. As a result, male virginity pledgers can be somewhat confused and lost when it comes to sex after marriage, said study researcher sarah diefendorf, a sociology doctoral candidate at the university of washington in seattle. [ the 10 most surprising sex statistics ] \" they spend the first 20-something years of their lives being told that sex is wrong, \" diefendorf told live science. \" they're expected to make this transition from the beastly to the sacred, but they don't really have the tools to be able to do that effectively. \" staying pure overall, virginity pledges fail to keep young men and women from having sex, research has shown. But most studies of the chastity vows looked at mass-pledging events, such as the silver ring thing, where throngs of teens at a concert-like venue make a vow to abstain from sex until their wedding days. Small, focused groups who make virginity pledges have",
-            "Ar: are there similar support groups for abstinent women in the church? sd: not that i found. The church, and the men that i interviewed, don't believe that women would need a space to talk through these issues. They believe that men are highly sexual beings and they have \" natural urges \" that need to be controlled, but they don't believe that women have that natural desire to be sexually active. Women are the providers of sexual activity for their husbands. One of the men shared a revealing story. He was dating a woman from outside the church and she wanted to have sex with him. I asked him why they broke up, and he said that was the main reason. Not only did having premarital sex go against his beliefs — for him, it also indicated that she was in love with him, and he wasn't yet in love with her. It couldn't be that she just wanted to have sex with her boyfriend. Ar: you write that these men are \"transgressing normative understandings of gender that equate performances of masculinity with sexual activity. \" how do they reconcile their masculine identity with abstinence? sd: for these men, to be a good man and a man of god meant saving themselves for the wedding bed. Amy wilkins"
+            "San francisco — men who make virginity pledges get strong social support to abstain from sex before the wedding night, but that backing disappears soon after they tie the knot, new research suggests. These men are also taught to think of sex outside of marriage as animalistic and foul, but sacred within a marriage, according to a new study presented aug. 17, here at the 109th american sociological association meeting. As a result, male virginity pledgers can be somewhat confused and lost when it comes to sex after marriage, said study researcher sarah diefendorf, a sociology doctoral candidate at the university of washington in seattle. [ the 10 most surprising sex statistics ] \" they spend the first 20-something years of their lives being told that sex is wrong, \" diefendorf told live science. \" they're expected to make this transition from the beastly to the sacred, but they don't really have the tools to be able to do that effectively. \" staying pure overall, virginity pledges fail to keep young men and women from having sex, research has shown. But most studies of the chastity vows looked at mass-pledging events, such as the silver ring thing, where throngs of teens at a concert-like venue make a vow to abstain from sex until their wedding days. Small, focused groups who make virginity pledges have"
         ],
         "raw_document": [
             "San francisco — men who make virginity pledges get strong social support to abstain from sex before the wedding night, but that backing disappears soon after they tie the knot, new research suggests. These men are also taught to think of sex outside of marriage as animalistic and foul, but sacred within a marriage, according to a new study presented aug. 17, here at the 109th american sociological association meeting. As a result, male virginity pledgers can be somewhat confused and lost when it comes to sex after marriage, said study researcher sarah diefendorf, a sociology doctoral candidate at the university of washington in seattle. [ the 10 most surprising sex statistics ] \" they spend the first 20-something years of their lives being told that sex is wrong, \" diefendorf told live science. \" they're expected to make this transition from the beastly to the sacred, but they don't really have the tools to be able to do that effectively. \" staying pure overall, virginity pledges fail to keep young men and women from having sex, research has shown. But most studies of the chastity vows looked at mass-pledging events, such as the silver ring thing, where throngs of teens at a concert-like venue make a vow to abstain from sex until their wedding days. Small, focused groups who make virginity pledges have",
@@ -2562,7 +2551,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2640,7 +2629,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2696,7 +2685,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     }
 ]

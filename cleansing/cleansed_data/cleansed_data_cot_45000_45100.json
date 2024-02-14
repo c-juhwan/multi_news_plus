@@ -31,13 +31,12 @@
     },
     {
         "idx": 45001,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "In a sort of odd pot-meets-kettle situation, a guardian investigations editor who was on the team that helped blow the lid on the news of the world scandal himself admitted to hacking... In 2006. Following notw royal editor clive goodman's guilty plea, david leigh wrote that he had hacked phones on the job, though his goal was to catch out \" bribery and corruption, \" not \" tittle tattle. \" \" i've used some of those questionable methods myself over the years, \" he wrote. \" i, too, once listened to the mobile phone messages of a corrupt arms company executive — the crime similar to that for which goodman now faces the prospect of jail. \" \"there is certainly a voyeuristic thrill in hearing another person's private messages, \" he continued, saying the man he was investigating had left his pin on a document. Yesterday, a rep for the paper said that \"the guardian does not and has not authorized phone hacking, \" the metro reports. Meanwhile, the scandal continues to spread: a number of alleged hacking victims are preparing to sue another newspaper group, trinity mirror plc, where piers morgan used to work, the ap reports. Click through for more on leigh's admission.",
         "split": "val",
         "cleansed_document": [
             "A guardian executive admitted hacking telephone messages â and getting a âvoyeuristic thrillâ from it. Guardian editor alan rusbridger has said that 'any intrusion must be authorised at a sufficiently senior level ' ( picture: pa ) assistant editor david leigh said he intercepted voicemails in an article written in december 2006 in order to investigate and expose âbribery and corruptionâ â not âtittle tattleâ. Âiâve used some of those questionable methods myself over the years, â said mr leigh in an article written for media guardian after news of the world royal editor clive goodman pleaded guilty to phone hacking. Âi, too, once listened to the mobile phone messages of a corrupt arms company executive â the crime similar to that for which goodman now faces the prospect of jail, â said mr leigh. He said he accessed the message when the businessman left his pin code on a print-out. Âthere is certainly a voyeuristic",
-            "File -- heather mills clutches a cellphone as she leaves the high court in london, in this thursday march 1, 2007 file photo, following a preliminary hearing in her divorce case against pail mccartney.... ( associated press ) several alleged victims of tabloid phone hacking in britain will soon file lawsuits against a second newspaper group, piers morgan's former employer trinity mirror plc, their lawyer said friday. Mark lewis said the claims would be filed in \" a few weeks, \" but would not disclose identities of his clients or say precisely when the papers would be lodged at court. Lewis represents the family of milly dowler, a 13-year-old girl abducted and murdered by a pedophile in 2002. The revelation a month ago that her voicemail messages had been accessed by the news of the world while she was still missing outraged british opinion, and triggered a crisis for rupert murdoch's",
-            "First, a prosecutor would need to appeal to – perhaps exploit – stone's natural sense of self-preservation. For all the trouble he has been mixed up in over his long career, stone has never been at any real risk of serving time behind bars. Friday's indictment might change his bearing a bit. It's one thing to rail publicly against the possibility of a theoretical future indictment, but another to see seven federal criminal charges, carrying a total maximum sentence of 50 years, in black and white. As a practical matter, stone isn't looking at anything close to 50 years, but he easily could be facing five years or so if convicted on all counts. For a 66 year-old man like stone, that could mean most or all of the rest of his life, which has to be at least a bit sobering. And"
+            "File -- heather mills clutches a cellphone as she leaves the high court in london, in this thursday march 1, 2007 file photo, following a preliminary hearing in her divorce case against pail mccartney.... ( associated press ) several alleged victims of tabloid phone hacking in britain will soon file lawsuits against a second newspaper group, piers morgan's former employer trinity mirror plc, their lawyer said friday. Mark lewis said the claims would be filed in \" a few weeks, \" but would not disclose identities of his clients or say precisely when the papers would be lodged at court. Lewis represents the family of milly dowler, a 13-year-old girl abducted and murdered by a pedophile in 2002. The revelation a month ago that her voicemail messages had been accessed by the news of the world while she was still missing outraged british opinion, and triggered a crisis for rupert murdoch's"
         ],
         "raw_document": [
             "A guardian executive admitted hacking telephone messages â and getting a âvoyeuristic thrillâ from it. Guardian editor alan rusbridger has said that 'any intrusion must be authorised at a sufficiently senior level ' ( picture: pa ) assistant editor david leigh said he intercepted voicemails in an article written in december 2006 in order to investigate and expose âbribery and corruptionâ â not âtittle tattleâ. Âiâve used some of those questionable methods myself over the years, â said mr leigh in an article written for media guardian after news of the world royal editor clive goodman pleaded guilty to phone hacking. Âi, too, once listened to the mobile phone messages of a corrupt arms company executive â the crime similar to that for which goodman now faces the prospect of jail, â said mr leigh. He said he accessed the message when the businessman left his pin code on a print-out. Âthere is certainly a voyeuristic",
@@ -54,7 +53,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -148,13 +147,12 @@
     },
     {
         "idx": 45005,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "President trump will want to avoid stephen colbert's show more than ever this week. The cbs host launched \" russia week \" on monday night following his visit to the country, per the hollywood reporter. Colbert will be airing pieces from his trip all week, and his first was on his visit to a colbert-like figure in russia, tv host ivan urgant. Colbert appeared on urgant's russian show, where he mocked trump, drank vodka, and announced his own supposed bid for the white house in 2020. \" i thought it would just be better to cut out the middle man and just tell the russians myself: if anyone would like to work on my campaign in an unofficial capacity, please, just let me know, \" he said, per entertainment weekly. ( see the video here. ) his monologue, meanwhile, focused on the travails of donald trump jr. At one point, he made reference to reports of how the number of people in attendance at last year's now-famous meeting continues to grow. \" this is the first time a trump has lied about having a smaller crowd size, \" he said. ( see that here. )",
         "split": "val",
         "cleansed_document": [
             "Stephen colbert has technically colluded with russia. The host of the late show went abroad to saint petersburg, where he met his russian late-night tv host equivalent, ivan urgant, and appeared on his show, evening urgant. The pair threw back vodka shots, joked about russian interference with the u.s. Election, and mocked president donald trump. \"i am so honored to be here right now because you are the no. 1 show here, and this is the state tv, so you're officially an employee of the state and we agreed that i would appear here on the show, \" colbert told urgant in front of his television audience. \"we, uh, what's the word for it? we colluded that i would be here on the show, and so i look forward to going back to america and testifying before the senate intelligence committee about colluding with",
-            "' the late show ': stephen colbert kicks off \" russia week \" with new footage from his russian tv debut the ' late show ' host's recent trip to the country will be broadcast in five new episodes starting july 17. Stephen colbert kicked off day one of \" russia week \" on the late show with more jabs at donald trump jr.'s russian ties and new footage of colbert's recent trip to the country. \" i just want to get out ahead of the story here — i recently met with a lot of russians. I can't remember why — maybe because i was in russia. Some of them work for the government, \" colbert teased in his opening monologue. \" i didn't think you'd find out; the whole week was supposed to be a secret. But someone leaked it to cbs ' marketing",
-            "Published on jul 18, 2017 stephen kicks off ' russia week ' with a deep dive into the prized jewel of russia: the trump administration. Subscribe to \" the late show \" channel here: http://bit.ly/colbertyoutube for more content from \" the late show with stephen colbert \", click here: http://bit.ly/1akisnr watch full episodes of \" the late show \" here: http://bit.ly/1puei40 like \" the late show \" on facebook here: http://on.fb.me/1df139y follow \" the late show \" on twitter here: http://bit.ly/1dmzzzg follow \" the late show \" on google+ here: http://bit.ly/1jlggzw follow \" the late show \" on instagram here: http://bit.ly/29wfrej follow \" the late show \" on tumblr here: http://bit.ly/29dvvtr watch the late show with stephen colbert weeknights at 11: 35 pm et/10: 35 pm ct. Only on cbs. Get the cbs app for iphone &amp; ipad! click here: http://bit.ly/12rlxge get new episodes of shows you love across"
+            "' the late show ': stephen colbert kicks off \" russia week \" with new footage from his russian tv debut the ' late show ' host's recent trip to the country will be broadcast in five new episodes starting july 17. Stephen colbert kicked off day one of \" russia week \" on the late show with more jabs at donald trump jr.'s russian ties and new footage of colbert's recent trip to the country. \" i just want to get out ahead of the story here — i recently met with a lot of russians. I can't remember why — maybe because i was in russia. Some of them work for the government, \" colbert teased in his opening monologue. \" i didn't think you'd find out; the whole week was supposed to be a secret. But someone leaked it to cbs ' marketing"
         ],
         "raw_document": [
             "Stephen colbert has technically colluded with russia. The host of the late show went abroad to saint petersburg, where he met his russian late-night tv host equivalent, ivan urgant, and appeared on his show, evening urgant. The pair threw back vodka shots, joked about russian interference with the u.s. Election, and mocked president donald trump. \"i am so honored to be here right now because you are the no. 1 show here, and this is the state tv, so you're officially an employee of the state and we agreed that i would appear here on the show, \" colbert told urgant in front of his television audience. \"we, uh, what's the word for it? we colluded that i would be here on the show, and so i look forward to going back to america and testifying before the senate intelligence committee about colluding with",
@@ -171,18 +169,17 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 45006,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Google ceo sundar pichai planned to address the controversy over an anti-diversity memo at an all-employee town hall meeting — but he called it off after workers said they were worried about online harassment. Pichai said questions from employees had been leaked and their identities had been published on alt-right websites, exposing them to online harassment, cnn reports. \" googlers are writing in, concerned about their safety and worried they may be ' outed ' publicly for asking a question in the town hall, \" the ceo said in a letter to employees seen by recode. He promised to \" create a better set of conditions for us to have the discussion \" at some point in the near future. The controversy exploded after memo author james damore was fired for arguing that biological differences make women unsuited to some tech jobs. After canceling thursday's meeting, pichai spoke at an event for girls on the google campus, addressing teams of young coders from around the world, the verge reports. It's important that \" more women and girls have the opportunity... To learn how to code, create, and innovate, \" he said. \" i want you to know that there's a place for you in this industry, there's a place for you at google, \" he added. \" don't let anyone tell you otherwise. You belong here and we need you. \" ( damore says he was \" punished \" and \" shamed \" for trying to \" improve \" the company. )",
         "split": "val",
         "cleansed_document": [
             "Google's ceo, sundar pichai, canceled a scheduled all-hands staff meeting — moments before it was scheduled to begin — meant to address concerns over a controversial essay published by former employee james damore. In an email to staff, pichai explained that questions from employees had been leaked and that, in some cases, specific employees ' identities were revealed, exposing them to harassment and threats. Instead of today's large-scale meeting, which was to be livestreamed to google's 60,000 employees worldwide, smaller groups will meet sometime in the future. \" we had hoped to have a frank open discussion today as we always do to bring us together and move forward. But our dory questions appeared externally this afternoon, and on some websites googlers are now being named personally, \" pichai said in the email. Pichai said in the email that while the majority of googlers were",
-            "Google ceo sundar pichai has canceled the company's much-anticipated meeting to talk about gender issues today. The move came after some of its employees expressed concern over online harassment they had begun to receive after their questions and names have been published outside the company on a variety of largely alt-right sites. \"we had hoped to have a frank, open discussion today as we always do to bring us together and move forward. But our dory questions appeared externally this afternoon, and on some websites googlers are now being named personally, \" wrote pichai to employees. \"googlers are writing in, concerned about their safety and worried they may be 'outed ' publicly for asking a question in the town hall. \" pichai was set to address the search giant's 60,000 employees in 30 minutes in an all-hands meeting about a recent post by recently fired employee james damore. In it, the software",
-            "Google chief executive officer sundar pichai, speaking at a coding event for girls happening at google's campus today, emphasized the importance of engineers \"building products for everyone in the world, \" and said that in order to do that, \"we need to have people internally who represent the world in totality. \" \"i want you to know there's a place for you in this industry, \" pichai said to the teams of young women who were finalists in a months-long app-building competition. \"there's a place for you at google. Don't let anyone tell you otherwise. You belong here, and we need you. \" pichai's remarks were especially noteworthy because of their juxtaposition with the controversy happening at google right now, after a software engineer posted a diversity-related memo that went viral both within the company and in public sphere. The author of the memo,"
+            "Google ceo sundar pichai has canceled the company's much-anticipated meeting to talk about gender issues today. The move came after some of its employees expressed concern over online harassment they had begun to receive after their questions and names have been published outside the company on a variety of largely alt-right sites. \"we had hoped to have a frank, open discussion today as we always do to bring us together and move forward. But our dory questions appeared externally this afternoon, and on some websites googlers are now being named personally, \" wrote pichai to employees. \"googlers are writing in, concerned about their safety and worried they may be 'outed ' publicly for asking a question in the town hall. \" pichai was set to address the search giant's 60,000 employees in 30 minutes in an all-hands meeting about a recent post by recently fired employee james damore. In it, the software"
         ],
         "raw_document": [
             "Google's ceo, sundar pichai, canceled a scheduled all-hands staff meeting — moments before it was scheduled to begin — meant to address concerns over a controversial essay published by former employee james damore. In an email to staff, pichai explained that questions from employees had been leaked and that, in some cases, specific employees ' identities were revealed, exposing them to harassment and threats. Instead of today's large-scale meeting, which was to be livestreamed to google's 60,000 employees worldwide, smaller groups will meet sometime in the future. \" we had hoped to have a frank open discussion today as we always do to bring us together and move forward. But our dory questions appeared externally this afternoon, and on some websites googlers are now being named personally, \" pichai said in the email. Pichai said in the email that while the majority of googlers were",
@@ -199,7 +196,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -254,12 +251,11 @@
     },
     {
         "idx": 45009,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two men accused of finding a washington woman's body when they burglarized her home, then hiding the body and assuming her identity, have been arrested, a pierce county sheriff's spokesman says. \" it's a bizarre story with a lot of moving pieces, \" ed troyer said yesterday. The two men, 57 and 46, were arrested on multiple counts of theft and identity theft, komo-tv of seattle reported. They're expected in court on monday. Investigators think the 63-year-old graham woman died recently of natural causes while unloading horse feed from her truck, the news tribune reported. Her horse was found dead on the property wednesday, apparently of starvation and exposure. The two men are accused of going to the home to burglarize it sometime after the woman died, finding her body and removing it. \" instead of running away or making an anonymous phone call, they took the body away and wrapped it up and hid it on their property under a bale of hay, \" troyer told the newspaper. The woman's co-workers reported her missing june 20. A few days later, one man is accused of using the woman's identity and credit cards. Her credit union alerted officials to the activity. Troyer said that information led officers to the two men. Officers searched the men's home with cadaver dogs and found the woman's body. Detectives think the burglary happened before the missing person report was filed, and that the house was a random target and the men were not involved in her death. \" we were able to backtrack that these guys were actually burglars and thieves and not murderers, \" troyer said. \" but still, pretty creepy... The whole thing's totally bizarre. \"",
         "split": "val",
         "cleansed_document": [
-            "A a lake kapowsin, wash. - two men are under arrest after they allegedly assumed the identity of a dead woman whose body they found while burglarizing her home, sheriff's officials said friday. Ed troyer of the pierce county sheriff's office said the episode began when the two men snuck into a home in lake kapowsin. During the burglary, they found a woman's body in the yard near her truck. \" instead of doing the right thing and making an anonymous call to 911 or leaving because there was a dead person there, they decided to take the body, bring it back to their place, wrap it in a tent and cover it with hay, \" troyer said. The men then went back into her home and began the process of cleaning her out. \" they took her antiques, her vehicles and put them in their name and sold them, \" troyer said. \" then took her identity and her bank cards and tried to steal her money as well. \" it was eagle-eye security officials at the boeing employees credit union that realized something was up when there was a spur of activity on the account of a woman who had been reported missing, troyer said. That led police to the two men. Police searched the men's home with cadaver dogs and they were able to locate the woman's body. An autopsy was conducted on the woman, which showed she probably died of natural causes. \" we were able to backtrack that these guys were actually burglars and thieves and not murderers, \" troyer said. \" but still, pretty creepy... The whole thing's totally bizarre. \" the men, identified by court documents as james l. Conner and curtis jones, are now being held for investigation of multiple counts of theft and identity theft, troyer said. \" they're going to be held accountable, \" troyer said, adding prosecutors are still mulling additional charges. Their first court appearance is scheduled for monday.",
-            "This week's police beat features a man desperate to drive, a sister making false accusations, and a drunk who wasn't getting the message"
+            "A a lake kapowsin, wash. - two men are under arrest after they allegedly assumed the identity of a dead woman whose body they found while burglarizing her home, sheriff's officials said friday. Ed troyer of the pierce county sheriff's office said the episode began when the two men snuck into a home in lake kapowsin. During the burglary, they found a woman's body in the yard near her truck. \" instead of doing the right thing and making an anonymous call to 911 or leaving because there was a dead person there, they decided to take the body, bring it back to their place, wrap it in a tent and cover it with hay, \" troyer said. The men then went back into her home and began the process of cleaning her out. \" they took her antiques, her vehicles and put them in their name and sold them, \" troyer said. \" then took her identity and her bank cards and tried to steal her money as well. \" it was eagle-eye security officials at the boeing employees credit union that realized something was up when there was a spur of activity on the account of a woman who had been reported missing, troyer said. That led police to the two men. Police searched the men's home with cadaver dogs and they were able to locate the woman's body. An autopsy was conducted on the woman, which showed she probably died of natural causes. \" we were able to backtrack that these guys were actually burglars and thieves and not murderers, \" troyer said. \" but still, pretty creepy... The whole thing's totally bizarre. \" the men, identified by court documents as james l. Conner and curtis jones, are now being held for investigation of multiple counts of theft and identity theft, troyer said. \" they're going to be held accountable, \" troyer said, adding prosecutors are still mulling additional charges. Their first court appearance is scheduled for monday."
         ],
         "raw_document": [
             "A a lake kapowsin, wash. - two men are under arrest after they allegedly assumed the identity of a dead woman whose body they found while burglarizing her home, sheriff's officials said friday. Ed troyer of the pierce county sheriff's office said the episode began when the two men snuck into a home in lake kapowsin. During the burglary, they found a woman's body in the yard near her truck. \" instead of doing the right thing and making an anonymous call to 911 or leaving because there was a dead person there, they decided to take the body, bring it back to their place, wrap it in a tent and cover it with hay, \" troyer said. The men then went back into her home and began the process of cleaning her out. \" they took her antiques, her vehicles and put them in their name and sold them, \" troyer said. \" then took her identity and her bank cards and tried to steal her money as well. \" it was eagle-eye security officials at the boeing employees credit union that realized something was up when there was a spur of activity on the account of a woman who had been reported missing, troyer said. That led police to the two men. Police searched the men's home with cadaver dogs and they were able to locate the woman's body. An autopsy was conducted on the woman, which showed she probably died of natural causes. \" we were able to backtrack that these guys were actually burglars and thieves and not murderers, \" troyer said. \" but still, pretty creepy... The whole thing's totally bizarre. \" the men, identified by court documents as james l. Conner and curtis jones, are now being held for investigation of multiple counts of theft and identity theft, troyer said. \" they're going to be held accountable, \" troyer said, adding prosecutors are still mulling additional charges. Their first court appearance is scheduled for monday.",
@@ -274,17 +270,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 45010,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "And now for something frothy on the campaign trail: president obama is pretty certain he's \" eye candy, \" at least when it comes to the women on the view. But forget anything serious, ladies. He spent part of his appearance, scheduled to air today, holding hands with the first lady, notes politico. Obama shrugged off possible criticisms that he should be attending to international diplomacy with world leaders gathered for the annual opening of the un general assembly in new york instead of showing up on the view. \" i told folks i ' m just supposed to be eye candy here for you guys, \" obama quipped to the five female co-hosts. As the show was being taped, hillary clinton was in the city meeting with afghan president hamid karzai, notes the times. But obama, for the time being, was sticking to family issues, and talked about how michelle can make him mad \" when she's being thoroughly unreasonable, \" he joked. Someone no doubt making him mad for real was mitt romney, who hammered obama yesterday on the mideast, particularly on his handling of the lethal attack on the us consulate in libya earlier this month. \" these are not bumps in the road; these are human lives, \" romney said yesterday in colorado, referring to the president's own words concerning problems in the region. \"this is time for a president who will shape events in the middle east. \" white house press secretary jay carney called the attacks \"desperate \" and \"offensive \" attempts by romney in a race he's losing. Carney might dismiss criticism over libya, but questions linger.",
         "split": "val",
         "cleansed_document": [
-            "New york — president barack obama and first lady michelle obama bantered playfully and held hands monday during a taping of the female-oriented talk show, \" the view, \" giving no indication of second thoughts about the appearance despite criticism that the president was blowing off international diplomacy in order to take part in the often-fluffy daytime gabfest. \" i told folks i ' m just supposed to be eye candy here for you guys, \" president obama said during a back-and-forth about him being the only man on the program. The show's five co-hosts are women. The first lady played along by letting the audience in — just a tad — on their relationship and even",
-            "Bloomberg view columnist william cohan and democratic strategist julian epstein discuss why mitt romney is still fumbling for answers over his 2011 tax return – despite their friday release – and whether he ' ll ever be able to explain how he pays for his proposed, across-the-board tax cuts. Denver -- mitt romney today attempted to shift focus to what he called president barack obama's lack of leadership in the middle east, as world leaders began to gather in new york city for the opening of the united nations general assembly. The romney campaign this afternoon offered a series of interviews with major u.s. Tv networks, in which romney hammered obama for referring to a series of flare-ups"
+            "New york — president barack obama and first lady michelle obama bantered playfully and held hands monday during a taping of the female-oriented talk show, \" the view, \" giving no indication of second thoughts about the appearance despite criticism that the president was blowing off international diplomacy in order to take part in the often-fluffy daytime gabfest. \" i told folks i ' m just supposed to be eye candy here for you guys, \" president obama said during a back-and-forth about him being the only man on the program. The show's five co-hosts are women. The first lady played along by letting the audience in — just a tad — on their relationship and even"
         ],
         "raw_document": [
             "( cbs news ) united nations headquaters, new york - president obama arrived in new york monday afternoon for the united nations general assembly. One of the main topics of discussion at this annual meeting will be the recent unrest outside u.s. Embassies in the muslim world, including an attack in benghazi, libya, which claimed the lives of four americans. But unlike years past, the president will not be sitting down with any of the more than 120 world leaders who are here in new york. Simply put, the white house is prioritizing the president's reelection effort. Most heads of state will be here all week, but the president will be in",
@@ -303,7 +298,7 @@
             "0": 5,
             "1": 0,
             "2": 4,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -333,12 +328,11 @@
     },
     {
         "idx": 45012,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "What car should you buy if you're hoping to avoid tickets? apparently not the nissan 350z. Ok, to be fair, it's probably not the car's fault — but people who buy that car are more prone to traffic violations, a new survey from insurance.com finds. The five cars with the \" highest percentage of recently-ticketed drivers \" between february 2014 and february 2016: nissan 350z: 33 % lexus es 300: 33 % dodge charger se/sxt: 32 % volkswagen jetta gl: 31 % chevrolet monte carlo ls/lt: 31 % and the five cars with the lowest percentage of ticketed drivers during that period: buick encore: 3 % lexus is350: 3 % acura ilx: 6 % cadillac ats: 6 % chevrolet express: 8 % see insurance.com for the full list in each category, or read about 8 celebs who lived in their cars before their big breaks.",
         "split": "val",
         "cleansed_document": [
-            "❮ prev next ❯ 20 cars that rack up tickets the highest percentage of recently-ticketed drivers operate a lexus es300, according to a 2016 survey by insurance.com, the car insurance comparison-shopping website. The stylish lexus sedan sits at the top of this year's list of cars with the most tickets. In a previous insurance.com study, conducted in 2014, the subaru wrx ranked as the highest \"ticket magnet, \" but that make and model dropped to number 12 in the most recent data analysis. Insurance.com reviewed insurance claim and traffic violation data from 331 models and more than 323,000 recent customers. While the most frequently ticketed vehicles include a variety of economy and luxury cars, the cars with the lowest percentage of tickets are generally more expensive vehicles, such as the buick encore ( 3 % ), lexus is350 ( 3 % ), acura ilx ( 6 % ) and cadillac ats ( 6 % ). \"it's the driver that gets tickets, not the car, \" says penny gusner, consumer analyst for insurance.com. \"but it is interesting to see what vehicle makes and models attract drivers who are prone to traffic violations. \" cars with the most tickets: no. 1 #1. Lexus es 300 – 33 % this popular lexus was manufactured between 1992 and 2003. As an older model, it is possible that current drivers",
-            "This week, hollywood mega star chris pratt reminisced to ellen degeneres about his days as a broke actor living in a van on the streets of maui. A $ 700 part in a low-budget horror movie was his lucky break, pratt shared, revealing that he lived off the paycheck for a full year! the 35-year-old jurassic world star hardly needs to budget like that these days. News: that time chris pratt rescued jeremy sisto's kids weirdly, pratt's not alone. Hollywood history is filled with stories of down-and-out entertainers waiting for luck to strike. Here are eight more celebrities who lived in their cars before their big breaks. Kelly clarkson getty images the \" heartbeat song \" singer is now reportedly worth an estimated $ 29 million, but she grew up poor in a small town in texas. After high school graduation, clarkson went to los angeles to shop around her demo tape. When her apartment building burned down, the singer, now 32, lived briefly in her car before giving up and slinking back to texas. Her life changed when she heard about an audition for a new singing competition reality tv show called american idol in 2002. Hilary swank getty images there's a reason two-time academy award winner hilary swank gravitates toward underdog roles. Swank, now 40, grew up in a trailer"
+            "❮ prev next ❯ 20 cars that rack up tickets the highest percentage of recently-ticketed drivers operate a lexus es300, according to a 2016 survey by insurance.com, the car insurance comparison-shopping website. The stylish lexus sedan sits at the top of this year's list of cars with the most tickets. In a previous insurance.com study, conducted in 2014, the subaru wrx ranked as the highest \"ticket magnet, \" but that make and model dropped to number 12 in the most recent data analysis. Insurance.com reviewed insurance claim and traffic violation data from 331 models and more than 323,000 recent customers. While the most frequently ticketed vehicles include a variety of economy and luxury cars, the cars with the lowest percentage of tickets are generally more expensive vehicles, such as the buick encore ( 3 % ), lexus is350 ( 3 % ), acura ilx ( 6 % ) and cadillac ats ( 6 % ). \"it's the driver that gets tickets, not the car, \" says penny gusner, consumer analyst for insurance.com. \"but it is interesting to see what vehicle makes and models attract drivers who are prone to traffic violations. \" cars with the most tickets: no. 1 #1. Lexus es 300 – 33 % this popular lexus was manufactured between 1992 and 2003. As an older model, it is possible that current drivers"
         ],
         "raw_document": [
             "❮ prev next ❯ 20 cars that rack up tickets the highest percentage of recently-ticketed drivers operate a lexus es300, according to a 2016 survey by insurance.com, the car insurance comparison-shopping website. The stylish lexus sedan sits at the top of this year's list of cars with the most tickets. In a previous insurance.com study, conducted in 2014, the subaru wrx ranked as the highest \"ticket magnet, \" but that make and model dropped to number 12 in the most recent data analysis. Insurance.com reviewed insurance claim and traffic violation data from 331 models and more than 323,000 recent customers. While the most frequently ticketed vehicles include a variety of economy and luxury cars, the cars with the lowest percentage of tickets are generally more expensive vehicles, such as the buick encore ( 3 % ), lexus is350 ( 3 % ), acura ilx ( 6 % ) and cadillac ats ( 6 % ). \"it's the driver that gets tickets, not the car, \" says penny gusner, consumer analyst for insurance.com. \"but it is interesting to see what vehicle makes and models attract drivers who are prone to traffic violations. \" cars with the most tickets: no. 1 #1. Lexus es 300 – 33 % this popular lexus was manufactured between 1992 and 2003. As an older model, it is possible that current drivers",
@@ -353,7 +347,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -599,7 +593,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -632,7 +626,7 @@
             "1": 0,
             "2": 0,
             "3": 2,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -710,7 +704,7 @@
         "vote_count": {
             "0": 4,
             "1": 2,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -803,17 +797,16 @@
             "0": 0,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
         "idx": 45029,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Pbs supporters are planning a \" million muppet march \" at washington dc's national mall on nov. 3 to defend government funding for the network, reuters reports. Organizers aren't sure yet how many will actually attend, but \" it does seem like we might get close to the biggest ever assemblage of puppets in one place, and probably the most ever puppets marching on washington, \" says one. The title, which was dreamed up by two men separately after mitt romney's comments about pbs and big bird at the first presidential debate, is a play off 1995's \" million man march \" for civil rights, also held at the national mall. Los angeles animation executive michael bellavia, 43, bought www.millionmuppetmarch.com while watching the debate, then later discovered that idaho university student chris mecham, 46, had launched a facebook page with the same name. Shortly after the debate ended, they were already on the phone planning the protest. \" romney was using muppets as a rhetorical device to talk about getting rid of public broadcasting, which is really so much bigger than sesame street, \" mecham says. \" while he was still talking i was thinking of ways i could express my frustration at that argument. \"",
         "split": "val",
         "cleansed_document": [
-            "Anonymous asked: how can one help if they can't be there?many thanks, elizabeth keefe, middlebury vermont we are working on some ways to show your support even if you can't make it to dc. Stay tuned for a couple facebook apps. Also click in the right hand column to sign the petition to your congress reps. And don't forget to tell your friends ( and their puppets ) about the day.",
-            "The seed for wide00014 was: - slash pages from every domain on the web: -- a ranking of all urls that have more than one incoming inter-domain link ( rank was determined by number of incoming links using wide00012 inter domain links ) -- up to a maximum of 100 most highly ranked urls per domain - top ranked pages ( up to a max of 100 ) from every linked-to domain using the wide00012 inter-domain navigational link graph"
+            "Anonymous asked: how can one help if they can't be there?many thanks, elizabeth keefe, middlebury vermont we are working on some ways to show your support even if you can't make it to dc. Stay tuned for a couple facebook apps. Also click in the right hand column to sign the petition to your congress reps. And don't forget to tell your friends ( and their puppets ) about the day."
         ],
         "raw_document": [
             "Anonymous asked: how can one help if they can't be there?many thanks, elizabeth keefe, middlebury vermont we are working on some ways to show your support even if you can't make it to dc. Stay tuned for a couple facebook apps. Also click in the right hand column to sign the petition to your congress reps. And don't forget to tell your friends ( and their puppets ) about the day.",
@@ -828,7 +821,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -906,7 +899,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -939,13 +932,12 @@
     },
     {
         "idx": 45034,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A california family's grief deepened saturday after divers called off the search for 2-year-old noah abbott, who has been missing since thursday when the car his mother was driving crashed into an aqueduct, the mercury news reports. The bodies of christina estrada, 31, and another son, jeremiah, 3, were previously recovered, but noah remains missing and presumed dead. The family's attention now turns to the lone survivor, elijah estrada, 10, who was released from a hospital over the weekend. He had been ejected from the red volkswagen convertible, and witnesses say they helped pull him from the water, where he had been holding on to flotation buoys. Elijah's uncle, steven abbott, tells the victorville daily press that the boy is doing well and appears to be in good health. Relatives kept a vigil at the aqueduct in hesperia amid a makeshift memorial of candles, flowers, and stuffed animals as police searched for noah in the water and by air. Authorities ended the search because of unsafe conditions from a strong current and poor visibility. Two gofundme accounts ( here and here ) have been set up to help kevin abbott, the husband and father, pay funeral expenses. Abbott, an iraq war veteran who was not in the car, is \" having a hard time right now, \" says a cousin. \" he's been put in a position where he's now a single father, so we're looking for any support we can get. \" the car crashed through a fence and into water about 6: 40pm thursday, and the cause is under investigation. It was fully submerged when found.",
         "split": "val",
         "cleansed_document": [
             "Hesperia — a tragic accident that claimed a young hesperia mother and one of her three sons, and left another still missing, has left family members \" devastated \" and \" heartbroken, \" they told the daily press on friday. \"it's one of those things where you feel like you're telling somebody else's story, \" said natalia garcia, 19, of pomona. \"you're telling friends and family who are calling what happened and then you sit back and think about how your 1-year-old nephew is freezing. \" as san bernardino county sheriff's'dive team members continued their search for 2-year-old noah abbott until about 2 p.m. Friday, loved ones paid their respects. Noah's mother, christina eileen estrada, 31, of hesperia, and his brother jeremiah robert abbott, 3, were killed when their red volkswagen convertible crashed through a fence on main street and into the",
-            "[ [ disclaimer: there are three gofundme accounts available ( steven abbott, natalia garcia, &amp; abundant living church ) and donations to either of them will go towards memorial services ] ] hello everybody. My name is natalia and i am a cousin of the abbott family. On march 2, 2017 christina ( mom ) and elijah ( 10, second from the right ), jeremiah ( 3, top middle ), and noah ( 2, most left ) were in a tragic car accident in hesperia. Elijah, the oldest and our miracle, is injured but in a stable condition. Noah, the youngest, has yet to be found. Christina was unfortunately pronounced dead on the scene, and jeremiah, after two hours of unsuccessful resuscitation, has also unfortunately passed away. With this much loss, our family is not only suffering emotionally but financially. Keven, the husband and father, is",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "[ [ disclaimer: there are three gofundme accounts available ( steven abbott, natalia garcia, &amp; abundant living church ) and donations to either of them will go towards memorial services ] ] hello everybody. My name is natalia and i am a cousin of the abbott family. On march 2, 2017 christina ( mom ) and elijah ( 10, second from the right ), jeremiah ( 3, top middle ), and noah ( 2, most left ) were in a tragic car accident in hesperia. Elijah, the oldest and our miracle, is injured but in a stable condition. Noah, the youngest, has yet to be found. Christina was unfortunately pronounced dead on the scene, and jeremiah, after two hours of unsuccessful resuscitation, has also unfortunately passed away. With this much loss, our family is not only suffering emotionally but financially. Keven, the husband and father, is"
         ],
         "raw_document": [
             "Hesperia — a tragic accident that claimed a young hesperia mother and one of her three sons, and left another still missing, has left family members \" devastated \" and \" heartbroken, \" they told the daily press on friday. \"it's one of those things where you feel like you're telling somebody else's story, \" said natalia garcia, 19, of pomona. \"you're telling friends and family who are calling what happened and then you sit back and think about how your 1-year-old nephew is freezing. \" as san bernardino county sheriff's'dive team members continued their search for 2-year-old noah abbott until about 2 p.m. Friday, loved ones paid their respects. Noah's mother, christina eileen estrada, 31, of hesperia, and his brother jeremiah robert abbott, 3, were killed when their red volkswagen convertible crashed through a fence on main street and into the",
@@ -964,7 +956,7 @@
             "0": 0,
             "1": 0,
             "2": 5,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1047,7 +1039,7 @@
             "0": 0,
             "1": 1,
             "2": 1,
-            "3": 0
+            "3": 2
         }
     },
     {
@@ -1076,12 +1068,11 @@
     },
     {
         "idx": 45039,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Roughly 252 million years ago, an extreme animal die-off occurred: 70 % of land animals and 96 % of marine life were obliterated, in what's known as the permian mass extinction. What scientists still don't exactly know is why ( an asteroid? volcanic eruptions? ), but they now know how long it took. And the answer is... Really, really fast. Mit researchers say the extinction period's duration clocked in at 60,000 years, plus or minus 48,000 years. As phys.org puts it, that's \" practically instantaneous, from a geological perspective. \" to get your geological periods and catastrophic disasters straight: the die-off signified the end of the permian period and launched the start of the triassic; the mass die-off of the dinosaurs happened much later, 66 million years ago at the cretaceous period's close, when livescience reports 85 % of life was wiped out. The researchers came to their conclusion by using cutting-edge dating techniques on tiny minerals known as zircons found in rocks in meishan, china, that date to the period. But the rocks also held carbon dioxide data; from there, the researchers determined that a surge of the gas occurred 10,000 to 20,000 years before the die-off: ocean acidification may have have occurred, and sea temps could have jumped as much as 50 degrees. But what was the source of the increased carbon dioxide that marked the beginning of the end? mit researchers are now dating rocks from the siberian traps to determine if volcanic eruptions there could have been the culprit.",
         "split": "val",
         "cleansed_document": [
-            "It took only 60,000 years to kill more than 90 percent of all life on earth, according to the most precise study yet of the permian mass extinction, the greatest die-off in the past 540 million years. The new timeline doesn't reveal the culprit behind the die-off, though scientists have several suspects, such as volcanic eruptions in siberia that belched massive quantities of climate-changing gases. But pinning down the duration of the permian mass extinction will help researchers refine its potential trigger mechanisms, said seth burgess, lead study author and a geochemist at mit. \" whatever caused the extinction was really rapid, or the biosphere reached some critical threshold, \" burgess told live science. \" having an accurate timeline for the events surrounding the mass extinction and the interval itself is extremely important, because it gives us an idea of how the biosphere responds. \" the findings were published today ( feb. 10 ) in the journal proceedings of the national academy of sciences. Radioactivity and extinctions the permian mass extinction marks the end of the permian geologic period, which ended approximately 252 million years ago. More than 96 percent of marine life and 70 percent of land species perished. By comparison, 85 percent of life died off during the dinosaur-killing extinction at the end of the cretaceous period, 66 million years ago. [ wipe out:",
-            "Sea scorpions, the eurypterids, were probably the largest arthropods ever to have lived. They disappeared in the world's most devastating mass extinction to date. Credit: © john sibbick / natural history museum the largest mass extinction in the history of animal life occurred some 252 million years ago, wiping out more than 96 percent of marine species and 70 percent of life on land — including the largest insects known to have inhabited the earth. Multiple theories have aimed to explain the cause of what's now known as the end-permian extinction, including an asteroid impact, massive volcanic eruptions, or a cataclysmic cascade of environmental events. But pinpointing the cause of the extinction requires better measurements of how long the extinction period lasted. Now researchers at mit have determined that the end-permian extinction occurred over 60,000 years, give or take 48,000 years — practically instantaneous, from a geologic perspective. The new timescale is based on more precise dating techniques, and indicates that the most severe extinction in history may have happened more than 10 times faster than scientists had previously thought. \" we've got the extinction nailed in absolute time and duration, \" says sam bowring, the robert r. Shrock professor of earth and planetary sciences at mit. \" how do you kill 96 percent of everything that lived in the oceans in tens of"
+            "It took only 60,000 years to kill more than 90 percent of all life on earth, according to the most precise study yet of the permian mass extinction, the greatest die-off in the past 540 million years. The new timeline doesn't reveal the culprit behind the die-off, though scientists have several suspects, such as volcanic eruptions in siberia that belched massive quantities of climate-changing gases. But pinning down the duration of the permian mass extinction will help researchers refine its potential trigger mechanisms, said seth burgess, lead study author and a geochemist at mit. \" whatever caused the extinction was really rapid, or the biosphere reached some critical threshold, \" burgess told live science. \" having an accurate timeline for the events surrounding the mass extinction and the interval itself is extremely important, because it gives us an idea of how the biosphere responds. \" the findings were published today ( feb. 10 ) in the journal proceedings of the national academy of sciences. Radioactivity and extinctions the permian mass extinction marks the end of the permian geologic period, which ended approximately 252 million years ago. More than 96 percent of marine life and 70 percent of land species perished. By comparison, 85 percent of life died off during the dinosaur-killing extinction at the end of the cretaceous period, 66 million years ago. [ wipe out:"
         ],
         "raw_document": [
             "It took only 60,000 years to kill more than 90 percent of all life on earth, according to the most precise study yet of the permian mass extinction, the greatest die-off in the past 540 million years. The new timeline doesn't reveal the culprit behind the die-off, though scientists have several suspects, such as volcanic eruptions in siberia that belched massive quantities of climate-changing gases. But pinning down the duration of the permian mass extinction will help researchers refine its potential trigger mechanisms, said seth burgess, lead study author and a geochemist at mit. \" whatever caused the extinction was really rapid, or the biosphere reached some critical threshold, \" burgess told live science. \" having an accurate timeline for the events surrounding the mass extinction and the interval itself is extremely important, because it gives us an idea of how the biosphere responds. \" the findings were published today ( feb. 10 ) in the journal proceedings of the national academy of sciences. Radioactivity and extinctions the permian mass extinction marks the end of the permian geologic period, which ended approximately 252 million years ago. More than 96 percent of marine life and 70 percent of land species perished. By comparison, 85 percent of life died off during the dinosaur-killing extinction at the end of the cretaceous period, 66 million years ago. [ wipe out:",
@@ -1096,7 +1087,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1124,7 +1115,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1157,7 +1148,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
@@ -1256,7 +1247,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1289,12 +1280,11 @@
     },
     {
         "idx": 45047,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Mel gibson seemed to be begging for it, and now it's come: his beaver fallout begins. The actor's bid to resurrect his career playing a depressed dad who cures himself by talking to his beaver hand puppet has taken a hilarious turn on youtube. Altered trailers for gibson's new film no longer feature a kindly beaver puppet who expresses concern in a british accent. Now the animal screams at mel's character in gibson's own deranged voice spliced in from angry phone calls to ex-lover oksana grigorieva. \" you should just smile and blow me, \" and \" you look like a b**** in heat! \" the puppet shouts obscenely as gibson looks baleful in his actorly best. Different videos are choosing different quotes to stuff in the beaver's mouth. The stunt was picked up by jimmy kimmel on jimmy kimmel live this week. There's been no word so far from mel or his pal and co-star, film producer/director jodie foster.",
         "split": "val",
         "cleansed_document": [
-            "Uploaded by birthdayboypresents on plagued by his own demons, walter black was once a successful toy executive and family man who now suffers from being a total dickhead. No matter what he tries, walter can't seem to get himself back on track... Until a beaver hand puppet enters his life. Edited by dan samiljan and craig james hildebrand",
-            "Go to the legal help page to request content changes for legal reasons."
+            "Uploaded by birthdayboypresents on plagued by his own demons, walter black was once a successful toy executive and family man who now suffers from being a total dickhead. No matter what he tries, walter can't seem to get himself back on track... Until a beaver hand puppet enters his life. Edited by dan samiljan and craig james hildebrand"
         ],
         "raw_document": [
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period.",
@@ -1311,7 +1301,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -1336,17 +1326,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 45049,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The us will reach its target this week of taking in 10,000 syrian war refugees in a year-old resettlement program as several hundred syrians depart from jordan over 24 hours, the us ambassador to jordan said sunday, after meeting families headed to california and virginia. The resettlement program has emerged as an issue in the us presidential campaign, with republican nominee donald trump alleging displaced syrians pose a potential security threat. Alice wells, the us ambassador to jordan, said sunday that keeping americans safe and taking in some of the world's most vulnerable people are not mutually exclusive, the ap reports. \" refugees are the most thoroughly screened category of travelers to the united states, and syrian refugees are subject to even greater scrutiny, \" she said. The resettlement program focuses on the most vulnerable refugees, including those who were subjected to violence or torture or are sick. Close to 5 million syrians have fled civil war since 2011. Most struggle to survive in tough conditions in neighboring countries, including jordan, which hosts close to 660,000 syrian refugees. Only a small percentage of syrian refugees have been resettled to third countries. Instead, donor countries are trying to invest more in job creation and education for refugees in regional host countries to encourage them to stay there instead of moving onward, including to europe. Wells said the us has taken in more refugees from around the world over the years than all other nations combined. \" [ i feel ] fear and joy, fear of the unknown and our new lives, but great joy for our children's lives and future, \" says nadim fawzi jouriyeh, 49, from the war-ravaged syrian city of homs. ( \" anne frank today is a syrian girl, \" nicholas kristof writes for the new york times. )",
         "split": "val",
         "cleansed_document": [
-            "Amman, jordan _ in this photo taken sunday, august 28, 2016, the u.s. Ambassador to jordan, alice wells, addresses three syrian families ahead of their departure to the united states. The families are... ( associated press ) amman, jordan _ in this photo taken sunday, august 28, 2016, the u.s. Ambassador to jordan, alice wells, addresses three syrian families ahead of their departure to the united states. The families are part of a year-long u.s. Resettlement program, and wells said the target of taking in 10,000 syrian... ( associated press ) amman, jordan ( ap ) — the u.s. Will reach its target this week of taking in 10,000 syrian war refugees in a year-old resettlement program, the u.s. Ambassador to jordan said sunday, after meeting families headed to california and virginia. The resettlement program has emerged as an issue in the u.s. Presidential campaign, with republican nominee donald trump alleging displaced syrians pose a potential security threat. Alice wells, the u.s. Ambassador to jordan, said sunday that keeping americans safe and taking in some of the world's most vulnerable people are not mutually exclusive. \" refugees are the most thoroughly screened category of travelers to the united states, and syrian refugees are subject to even greater scrutiny, \" she said. Wells said the target of resettling 10,000 syrian refugees in the u.s. In the 2016 fiscal year will be reached monday, as several hundred syrians depart from jordan over 24 hours. The jouriyeh family, which attended sunday's short ceremony, is headed to san diego, california. Nadim fawzi jouriyeh, 49, a former construction worker",
-            "Amsterdam — on april 30, 1941, a jewish man here in amsterdam wrote a desperate letter to an american friend, pleading for help emigrating to the united states. \"u.s.a. Is the only country we could go to, \" he wrote. \"it is for the sake of the children mainly. \" a volunteer found that plea for help in 2005 when she was sorting old world war ii refugee files in new york city. It looked like countless other files, until she saw the children's names. \"oh my god, \" she said, \"this is the anne frank file. \" along with the letter were many others by otto frank, frantically seeking help to flee nazi persecution and obtain a visa to america, britain or cuba — but getting nowhere because of global indifference to jewish refugees. We all know that the frank children were murdered by the nazis, but what is less known is the way anne's fate was sealed by a callous fear of refugees, among the world's most desperate people."
+            "Amman, jordan _ in this photo taken sunday, august 28, 2016, the u.s. Ambassador to jordan, alice wells, addresses three syrian families ahead of their departure to the united states. The families are... ( associated press ) amman, jordan _ in this photo taken sunday, august 28, 2016, the u.s. Ambassador to jordan, alice wells, addresses three syrian families ahead of their departure to the united states. The families are part of a year-long u.s. Resettlement program, and wells said the target of taking in 10,000 syrian... ( associated press ) amman, jordan ( ap ) — the u.s. Will reach its target this week of taking in 10,000 syrian war refugees in a year-old resettlement program, the u.s. Ambassador to jordan said sunday, after meeting families headed to california and virginia. The resettlement program has emerged as an issue in the u.s. Presidential campaign, with republican nominee donald trump alleging displaced syrians pose a potential security threat. Alice wells, the u.s. Ambassador to jordan, said sunday that keeping americans safe and taking in some of the world's most vulnerable people are not mutually exclusive. \" refugees are the most thoroughly screened category of travelers to the united states, and syrian refugees are subject to even greater scrutiny, \" she said. Wells said the target of resettling 10,000 syrian refugees in the u.s. In the 2016 fiscal year will be reached monday, as several hundred syrians depart from jordan over 24 hours. The jouriyeh family, which attended sunday's short ceremony, is headed to san diego, california. Nadim fawzi jouriyeh, 49, a former construction worker"
         ],
         "raw_document": [
             "Amman, jordan _ in this photo taken sunday, august 28, 2016, the u.s. Ambassador to jordan, alice wells, addresses three syrian families ahead of their departure to the united states. The families are... ( associated press ) amman, jordan _ in this photo taken sunday, august 28, 2016, the u.s. Ambassador to jordan, alice wells, addresses three syrian families ahead of their departure to the united states. The families are part of a year-long u.s. Resettlement program, and wells said the target of taking in 10,000 syrian... ( associated press ) amman, jordan ( ap ) — the u.s. Will reach its target this week of taking in 10,000 syrian war refugees in a year-old resettlement program, the u.s. Ambassador to jordan said sunday, after meeting families headed to california and virginia. The resettlement program has emerged as an issue in the u.s. Presidential campaign, with republican nominee donald trump alleging displaced syrians pose a potential security threat. Alice wells, the u.s. Ambassador to jordan, said sunday that keeping americans safe and taking in some of the world's most vulnerable people are not mutually exclusive. \" refugees are the most thoroughly screened category of travelers to the united states, and syrian refugees are subject to even greater scrutiny, \" she said. Wells said the target of resettling 10,000 syrian refugees in the u.s. In the 2016 fiscal year will be reached monday, as several hundred syrians depart from jordan over 24 hours. The jouriyeh family, which attended sunday's short ceremony, is headed to san diego, california. Nadim fawzi jouriyeh, 49, a former construction worker",
@@ -1361,18 +1350,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 45050,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "St. Louis county police haven't released audio regarding the shooting of black teenager michael brown, but the hacker collective anonymous took care of that today, reports mashable. The lengthy file released on youtube shows the progression of events after an officer shot the unarmed teen in the suburb of ferguson. As mother jones notes, the first hint of trouble comes more than nine minutes into the recording, with the dispatcher making a request for crowd control. But the circumstances were still unclear as to why at that point. Some excerpts, with the bold referring to the time of the audio recording: 9: 35: \" ferguson is asking for assistance with crowd control... \" 10: 58: \" now they have a large group gathering there, she doesn't know any further... \" 11: 20: \" we just got another call stating it was an officer-involved shooting.... Be advised, this information came from the news,,, 21: 55: \" they are requesting more cars. Do you want me to send more of your cars? \" 43: 55: \" attention all cars, be advised that in reference to the call 2947 canfield drive, we are switching over to the riot channel at this time... \" police say they are aware of the audio and are investigating how it became public. Anonymous is also trying to identify the officer involved, reports the new york daily news. Ferguson's police chief has balked at doing that so far because the six-year veteran has gotten death threats. ( the fbi has launched an investigation into the shooting. )",
         "split": "val",
         "cleansed_document": [
             "Looking for news you can trust? subscribe to our free newsletters. This was just posted by @theanonmessage, a twitter account affiliated with anonymous ' operation ferguson, a member of which i interviewed last night. According to @theanonmessage, this recording contains audio excerpts from st. Louis county police dispatch over several hours on august 9, 2014, the day michael brown was shot and killed by a ferguson police officer. The dispatcher starts talking about the brown shooting around the 10-minute mark, while intermittently handling other calls. See below the recording for an updating list of interesting moments, with time stamps included. If you want to try to decipher the dispatch codes, here's a dictionary for that. 9: 35: \"ferguson is asking for assistance with crowd control... \" 10: 58: \"now they have a large group gathering there, she doesn't know",
-            "Computer hackers associated with the hacktivist group anonymous released a recording on youtube wednesday that they claim are audio files from a st. Louis county police dispatch recorded during the aug. 9 shooting of unarmed teenager michael brown in ferguson, missouri. The tape appears to be from st. Louis county dispatch — but the officer who fired the shots works for ferguson's police department. Discussion of the shooting begins at 11: 26, when a dispatcher mentions hearing about the incident \" on the news, \" and at minute 44, which contains audio from 1: 35 p.m. - 2: 05 p.m., the dispatcher says \" we are switching over to the riot channel. \" it's likely any chatter regarding the actual shooting will be found in the ferguson police department's audio dispatches. Those have yet to be released — ferguson's police chief thomas jackson says the 911",
-            "The suburban st. Louis town where a cop shot an unarmed black teen dead descended into turmoil wednesday night as protesters hurled bottles and molotov cocktails and police in riot gear fired back with tear gas. \"we have to stand and fight here right now! \" one woman screamed as helmeted cops moved in to disperse a demonstration over the death of 18-year-old michael brown. Several hundred demonstrators packed the main street in ferguson, mo., holding up their hands in surrender pose and chanting \"stand up! don't shoot! \" demonstrators wear signs of'don't shoot ' following the shooting death of unarmed michael brown. ( scott olson/getty images ) a line of police wait for demostrators at canfield ave. After they had walked down w. Florissant in ferguson, mo. On wednesday. ( j.b. Forbes/ap ) ' hands up! don't shoot! ' was a common theme during"
+            "Computer hackers associated with the hacktivist group anonymous released a recording on youtube wednesday that they claim are audio files from a st. Louis county police dispatch recorded during the aug. 9 shooting of unarmed teenager michael brown in ferguson, missouri. The tape appears to be from st. Louis county dispatch — but the officer who fired the shots works for ferguson's police department. Discussion of the shooting begins at 11: 26, when a dispatcher mentions hearing about the incident \" on the news, \" and at minute 44, which contains audio from 1: 35 p.m. - 2: 05 p.m., the dispatcher says \" we are switching over to the riot channel. \" it's likely any chatter regarding the actual shooting will be found in the ferguson police department's audio dispatches. Those have yet to be released — ferguson's police chief thomas jackson says the 911"
         ],
         "raw_document": [
             "Looking for news you can trust? subscribe to our free newsletters. This was just posted by @theanonmessage, a twitter account affiliated with anonymous ' operation ferguson, a member of which i interviewed last night. According to @theanonmessage, this recording contains audio excerpts from st. Louis county police dispatch over several hours on august 9, 2014, the day michael brown was shot and killed by a ferguson police officer. The dispatcher starts talking about the brown shooting around the 10-minute mark, while intermittently handling other calls. See below the recording for an updating list of interesting moments, with time stamps included. If you want to try to decipher the dispatch codes, here's a dictionary for that. 9: 35: \"ferguson is asking for assistance with crowd control... \" 10: 58: \"now they have a large group gathering there, she doesn't know",
@@ -1389,7 +1377,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1447,12 +1435,11 @@
     },
     {
         "idx": 45053,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Forget everything you've heard about paul ryan's good looks: he is officially not that handsome, according to a harvard study. Mitt romney, on the other hand, is quite the looker, the national journal reports. In the study, undergraduates were flashed images of politicians for a single second each. Romney ended up in the 99th percentile, washington monthly reports — and the students made their judgment in 2007, when romney wasn't so well-known, thus removing political bias, the researchers say. The study rated just how hot the 728 candidates running for senate or governor between 1994 and 2006 were, which means stats are available on a few other big names: romney's score bests that of sarah palin, who scored in the also-very-high 95th percentile. Biden trailed well behind, in the 62nd percentile. ( obama was considered too big a name in 2007, so he wasn't included. ) and while the study used a different scale for the house, paul ryan was ranked: he scored in the 67th percentile among 2004 house candidates. The best-looking politician? sen. John thune of south dakota.",
         "split": "val",
         "cleansed_document": [
-            "A team of harvard professors has come up with some very interesting findings: mitt romney is quite handsome. His running mate, however, might be less so. Ryan enos, a professor of government at harvard, and a team of researchers that rated former alaska gov. Sarah palin a 95 out of 100 in \"facial competence \" in 2008, are back again, according to washington monthly magazine. This time, the researchers report that, objectively, the gop nominee is even better looking than palin: his grade was 99. The researchers showed undergraduate students pictures of romney, among others, for one second. The research was compiled in 2007 – when romney was a relative unknown – a fact that researchers claim helps remove political opinions from the equation. The relatively shocking news from the findings: running mate paul ryan scored a mere 67 in a pool of house candidates in 2004. The authors noted that abs were not taken into consideration in their findings. The researchers found that only a handful of politicos topped romney: former democratic senator russ feingold of wisconsin and current sen. John thune, r-s.d., were in that pool.",
-            "Planting the seeds of a new heroin epidemic four out of five new users have previously abused painkillers. By keith humphreys the secularist menace non-religious liberalism isn't going to steamroller ethics. By ed kilgore the secularist menace non-religious liberalism isn't going to steamroller ethics. By ed kilgore the shredding of america's moral fiber on work and obamacare, conservatives are dumb and cruel. By ed kilgore america is driving young scientists out of health research eating our science seed corn, in one horrifying video. By keith humphreys the vast shredding of america's moral fiber when it comes to obamcare and work, conservatives are hard-hearted and soft-headed. By ed kilgore the dylan farrow case and the power of the internet traditional gatekeepers can no longer bury a story like they once could. By kathleen geier u.s. Marijuana legalization and the future of mexico will depriving the cartels of pot money reduce violence? by keith humphreys china edging towards pro-children policy the world's largest nation could be facing a baby boom. By summer xjiang frontal assault on the midterm falloff dems are gearing up for 2014. By ed kilgore college board's css profile: barrier to access you shouldn't have to pay to apply for financial aid. By rachel fishman how the white house ate the cabinet friends don't let friends be secretary of commerce. By keith humphreys one percenter death chamber delusions liberals are not going to start systematically murdering the rich. By ed kilgore new research reveals us unemployment especially hellish because the unemployed tend to blame"
+            "A team of harvard professors has come up with some very interesting findings: mitt romney is quite handsome. His running mate, however, might be less so. Ryan enos, a professor of government at harvard, and a team of researchers that rated former alaska gov. Sarah palin a 95 out of 100 in \"facial competence \" in 2008, are back again, according to washington monthly magazine. This time, the researchers report that, objectively, the gop nominee is even better looking than palin: his grade was 99. The researchers showed undergraduate students pictures of romney, among others, for one second. The research was compiled in 2007 – when romney was a relative unknown – a fact that researchers claim helps remove political opinions from the equation. The relatively shocking news from the findings: running mate paul ryan scored a mere 67 in a pool of house candidates in 2004. The authors noted that abs were not taken into consideration in their findings. The researchers found that only a handful of politicos topped romney: former democratic senator russ feingold of wisconsin and current sen. John thune, r-s.d., were in that pool."
         ],
         "raw_document": [
             "A team of harvard professors has come up with some very interesting findings: mitt romney is quite handsome. His running mate, however, might be less so. Ryan enos, a professor of government at harvard, and a team of researchers that rated former alaska gov. Sarah palin a 95 out of 100 in \"facial competence \" in 2008, are back again, according to washington monthly magazine. This time, the researchers report that, objectively, the gop nominee is even better looking than palin: his grade was 99. The researchers showed undergraduate students pictures of romney, among others, for one second. The research was compiled in 2007 – when romney was a relative unknown – a fact that researchers claim helps remove political opinions from the equation. The relatively shocking news from the findings: running mate paul ryan scored a mere 67 in a pool of house candidates in 2004. The authors noted that abs were not taken into consideration in their findings. The researchers found that only a handful of politicos topped romney: former democratic senator russ feingold of wisconsin and current sen. John thune, r-s.d., were in that pool.",
@@ -1467,7 +1454,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1523,12 +1510,11 @@
     },
     {
         "idx": 45056,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "In 1992, a 9,000-word diary was found in the floorboards of a home in england containing a detailed confession to murders tied to jack the ripper, the serial killer who terrorized london for 10 weeks in 1888. It ended thusly: \" i give my name that all know of me, so history do tell, what love can do to a gentleman born. Yours truly, jack the ripper. \" it appears to belong to wealthy liverpool cotton merchant james maybrick, who died a year later, but many experts dismissed the tell-all tome as a sophisticated forgery. Now, the telegraph reports, a team led by writer and film director bruce robinson has unearthed timecards that show which electricians were working on maybrick's home, battlecrease house, on march 9, 1992, the morning the book was said to have been found. The man who came up with the diary, scrap metal dealer mike barrett, claimed to have gotten it through a family friend who died soon thereafter, leading many to believe it was a fake. But barrett was a colorful character who frequented the saddle inn public house in anfield, where one of the electricians working on battlecrease house was also a regular. Because barrett fancied himself a writer, it is believed that the electricians who found the book passed it onto barrett, who then famously contacted a london literary agent that very day in march claiming he had jack the ripper's diary, adds the sun. Mental floss notes that many suspects have been proposed over the decades, including a former royal obstetrician. ( the ripper's last known victim remains mysterious. )",
         "split": "val",
         "cleansed_document": [
-            "Researchers now say that they have proven the authenticity of a victorian diary supposedly written by the notorious murderer c the identity of jack the ripper may have finally been confirmed, new evidence suggests. Researchers now say that they have proven the authenticity of a much-disputed victorian diary supposedly written by the notorious murderer. Getty - contributor james maybrick, the cotton merchant suspected of being jack the ripper previously, doubt had been cast on the legitimacy of a diary published 25 years ago by a cotton merchant from liverpool who was called james maybrick. Mike barrett, who made the diary public, also died before he could properly explain the origin of the memoir – which led many to believe that the diary could be a forgery. However, a team of experts, led by film maker bruce robinson, now say that they have evidence to suggest that the diary is genuine and does indeed describe the infamous murders. According to a new book, the diary was discovered in maybrick's former liverpool home - putting him back in the frame as the victorian serial killer. James maybrick died in 1889, a year after the whitechapel murders and, in 1992, a team of electrical contractors renovated maybrick's former property, known as battlecrease house. New evidence includes timesheets that prove workers were at the house on march 9 1992 –",
-            "I spend probably 40 minutes a day crammed cheek to sweaty jowl with other london commuters — some of them drunks, farters, and shovers — in a swiftly moving cylinder hundreds of feet underground. It's usually hot, and despite the fact that we are tetrised in there, all of us are trying desperately to pretend that we are completely alone. Rarely do i give thanks for the experience, but this year marks the 155th anniversary of the london underground, that efficient marvel of public transport. On january 9, 1863, the world's first-ever underground railway train, steam-operated, pulled out of paddington station, and rumbled 3.5 miles down the tubular tunnel to farringdon station. The line, which was financed by metropolitan railway, was an instant success: approximately 40,000 people lined up for the novelty of riding a train underground. Within six months, 26,000 people were riding the train each day. By 1884, there were more than 800 trains in operation in what was called the inner circle, a circular line that enclosed central london and that is now just the circle line. And now, with more than five times that number of trains operating and millions of people safely and swiftly reaching their destinations every day, the london underground is truly a modern miracle of efficient transport. Here are 18 impressive"
+            "Researchers now say that they have proven the authenticity of a victorian diary supposedly written by the notorious murderer c the identity of jack the ripper may have finally been confirmed, new evidence suggests. Researchers now say that they have proven the authenticity of a much-disputed victorian diary supposedly written by the notorious murderer. Getty - contributor james maybrick, the cotton merchant suspected of being jack the ripper previously, doubt had been cast on the legitimacy of a diary published 25 years ago by a cotton merchant from liverpool who was called james maybrick. Mike barrett, who made the diary public, also died before he could properly explain the origin of the memoir – which led many to believe that the diary could be a forgery. However, a team of experts, led by film maker bruce robinson, now say that they have evidence to suggest that the diary is genuine and does indeed describe the infamous murders. According to a new book, the diary was discovered in maybrick's former liverpool home - putting him back in the frame as the victorian serial killer. James maybrick died in 1889, a year after the whitechapel murders and, in 1992, a team of electrical contractors renovated maybrick's former property, known as battlecrease house. New evidence includes timesheets that prove workers were at the house on march 9 1992 –"
         ],
         "raw_document": [
             "Researchers now say that they have proven the authenticity of a victorian diary supposedly written by the notorious murderer c the identity of jack the ripper may have finally been confirmed, new evidence suggests. Researchers now say that they have proven the authenticity of a much-disputed victorian diary supposedly written by the notorious murderer. Getty - contributor james maybrick, the cotton merchant suspected of being jack the ripper previously, doubt had been cast on the legitimacy of a diary published 25 years ago by a cotton merchant from liverpool who was called james maybrick. Mike barrett, who made the diary public, also died before he could properly explain the origin of the memoir – which led many to believe that the diary could be a forgery. However, a team of experts, led by film maker bruce robinson, now say that they have evidence to suggest that the diary is genuine and does indeed describe the infamous murders. According to a new book, the diary was discovered in maybrick's former liverpool home - putting him back in the frame as the victorian serial killer. James maybrick died in 1889, a year after the whitechapel murders and, in 1992, a team of electrical contractors renovated maybrick's former property, known as battlecrease house. New evidence includes timesheets that prove workers were at the house on march 9 1992 –",
@@ -1543,7 +1529,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1877,7 +1863,7 @@
             "0": 0,
             "1": 4,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1902,7 +1888,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1930,7 +1916,7 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1979,7 +1965,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2090,7 +2076,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2311,12 +2297,11 @@
     },
     {
         "idx": 45085,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Longtime washington post political columnist david broder is dead at age 81 from complications of diabetes. The post offers a lengthy obit for him here and his final column here. Broder covered every presidential election since 1956 and won a pulitzer in 1973 for his watergate coverage. The newspaper's ben bradlee called him \" the best political correspondent in america \" because he knew the system \" from the back room up \" and not just at the highest levels in dc.",
         "split": "val",
         "cleansed_document": [
-            "David s. Broder, 81, a pulitzer prize-winning columnist for the washington post and one of the most respected writers on national politics for four decades, died wednesday at capital hospice in arlington of complications from diabetes. Mr. Broder was often called the dean of the washington press corps - a nickname he earned in his late 30s in part for the clarity of his political analysis and the influence he wielded as a perceptive thinker on political trends in his books, articles and television appearances. In 1973, mr. Broder and the post each won pulitzers for coverage of the watergate scandal that led to president richard m. Nixon's resignation. Mr. Broder's citation was for explaining the importance of the watergate fallout in a clear, compelling way. As passionate about baseball as he was about politics, he likened nixon's political career to an often-traded pitcher who had \" bounced around his league. \" he covered every presidential convention since 1956 and was widely regarded as the political journalist with the best-informed contacts, from the lowliest precinct to the highest rungs of government. Former post executive editor benjamin c. Bradlee called mr. Broder \" the best political correspondent in america. David knew politics from the back room up - the mechanics of politics, the county and state chairmen - whereas most washington reporters knew it at the washington level.",
-            "Having grown up in the chicago area, rooting for years for the luckless cubs and more recently for the hapless washington nationals, i feel particularly qualified to comment on the obama administration's struggles to find a useful role to play in the crisis racking egypt and the wider arab world, let alone the blizzards in the midwest and new england. I know that sports analogies - as well as weather anecdotes from one's youth - are dangerous and sometimes misleading. But in this case, they are irresistible. The simple fact is that there is little washington can do about the impact of successive years of terrible winter weather or the upheaval in cairo, which threatens america's interests in the middle east. Let's deal with the latter first. America has a long history in egypt - too long a history. It goes back to king farouk, a name that means nothing to many people these days. Nobody younger than my generation can summon a mental picture of the chain-smoking playboy emperor of cairo. But he was our man for a time in the early 1950s, and the egyptian people have neither forgotten nor forgiven. We did business with egypt because of our interest in the suez canal, the vital waterway where much of the world's oil supply is transported from the persian gulf."
+            "David s. Broder, 81, a pulitzer prize-winning columnist for the washington post and one of the most respected writers on national politics for four decades, died wednesday at capital hospice in arlington of complications from diabetes. Mr. Broder was often called the dean of the washington press corps - a nickname he earned in his late 30s in part for the clarity of his political analysis and the influence he wielded as a perceptive thinker on political trends in his books, articles and television appearances. In 1973, mr. Broder and the post each won pulitzers for coverage of the watergate scandal that led to president richard m. Nixon's resignation. Mr. Broder's citation was for explaining the importance of the watergate fallout in a clear, compelling way. As passionate about baseball as he was about politics, he likened nixon's political career to an often-traded pitcher who had \" bounced around his league. \" he covered every presidential convention since 1956 and was widely regarded as the political journalist with the best-informed contacts, from the lowliest precinct to the highest rungs of government. Former post executive editor benjamin c. Bradlee called mr. Broder \" the best political correspondent in america. David knew politics from the back room up - the mechanics of politics, the county and state chairmen - whereas most washington reporters knew it at the washington level."
         ],
         "raw_document": [
             "David s. Broder, 81, a pulitzer prize-winning columnist for the washington post and one of the most respected writers on national politics for four decades, died wednesday at capital hospice in arlington of complications from diabetes. Mr. Broder was often called the dean of the washington press corps - a nickname he earned in his late 30s in part for the clarity of his political analysis and the influence he wielded as a perceptive thinker on political trends in his books, articles and television appearances. In 1973, mr. Broder and the post each won pulitzers for coverage of the watergate scandal that led to president richard m. Nixon's resignation. Mr. Broder's citation was for explaining the importance of the watergate fallout in a clear, compelling way. As passionate about baseball as he was about politics, he likened nixon's political career to an often-traded pitcher who had \" bounced around his league. \" he covered every presidential convention since 1956 and was widely regarded as the political journalist with the best-informed contacts, from the lowliest precinct to the highest rungs of government. Former post executive editor benjamin c. Bradlee called mr. Broder \" the best political correspondent in america. David knew politics from the back room up - the mechanics of politics, the county and state chairmen - whereas most washington reporters knew it at the washington level.",
@@ -2331,7 +2316,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2417,12 +2402,11 @@
     },
     {
         "idx": 45089,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Spaceshiptwo's most recent test flight turned into a more extensive test than the private spacecraft's makers had bargained for. A malfunction sent the virgin galactic spacecraft briefly hurtling out of control — but then its three-person crew stabilized it for a safe landing, msnbc reports. The glitch allowed virgin to showcase the spaceshiptwo's safety features, including the \"feathered \" tail's ability to slow the spacecraft down. \" it dropped like a rock and went straight down, \" said one observer. \" typically, it takes 11 minutes to land, but this time it was only seven minutes before they were on the ground. It was a nail-biter — but that's how you learn. \" the vehicle, designed to take tourists on short jaunts into space, was lifted to high altitude by carrier vehicle whiteknighttwo, which will also be used to lift a nasa-backed space taxi for testing next year. Virgin galatic, meanwhile, hit a major new milestone in its space travel plans yesterday by moving into a $ 209 million new mexico \" spaceport america \" hangar and terminal in las cruces, reports the los angeles times.",
         "split": "val",
         "cleansed_document": [
-            "A malfunction during the most recent test flight of the private spacecraft spaceshiptwo sent the vehicle hurtling out of control until its crew could stabilize the craft for a safe landing. The issue provided some heart-stopping moments for its airborne crew and ground handlers, but also allowed the vehicle's owner, virgin galactic, to showcase the craft's safety features. The commercial space plane made its 16th glide flight on sept. 29, following a hiatus for hangar work. For the first time, spaceshiptwo carried a three-person crew — two pilots and a flight test engineer. [ gallery — spaceshiptwo makes first glide flight ] to begin, spaceshiptwo was lifted to high altitude by its carrier plane, whiteknighttwo. After a clean release from whiteknighttwo, spaceshiptwo immediately entered a rapid descent. Springing into action, the crew deployed the ship's novel feather re-entry system. Spaceshiptwo's ability to feather its tail section is a safety feature that increases the vehicle's stability during atmospheric re-entry. Akin to the flight of a shuttlecock in badminton, the feather system allows spaceshiptwo to rely on aerodynamics and the laws of physics to control speed and altitude. The glide flight lasted a brief 7 minutes and 15 seconds. Downward pitch rate \" upon release, the spaceship experienced a downward pitch rate that caused a stall of the tails. The",
-            "Las cruces, n.m., officially joined the list of the nation's major space centers monday when a newly completed terminal and hangar facility was turned over to british billionaire richard branson and his commercial space tourism venture, virgin galactic. The company aims to launch paying customers beyond earth's confines from the new $ 209-million futuristic-looking facility, named spaceport america. New mexico gov. Susana martinez joined branson and a crowd of more than 800 others during the dedication ceremonies. \"today is another history-making day for virgin galactic, \" branson said at the event. \"we are here with a group of incredible people who are helping us lead the way in creating one of the most important new industrial sectors of the 21st century. \" virgin galactic said it has taken about 455 reservations for the ride. The price per flight for a would-be space tourist is $ 200,000. Instead of launching people directly into space with a rocket, virgin galactic plans to do the following: a rocket plane with six passengers will be attached to the wings of a white knight mother ship, flown to 50,000 feet and released. The rocket plane's engine then will ignite and propel the passengers into suborbit. The spaceship is designed to climb to the edge of space, about 60 miles above the earth's surface. At that suborbital altitude,"
+            "A malfunction during the most recent test flight of the private spacecraft spaceshiptwo sent the vehicle hurtling out of control until its crew could stabilize the craft for a safe landing. The issue provided some heart-stopping moments for its airborne crew and ground handlers, but also allowed the vehicle's owner, virgin galactic, to showcase the craft's safety features. The commercial space plane made its 16th glide flight on sept. 29, following a hiatus for hangar work. For the first time, spaceshiptwo carried a three-person crew — two pilots and a flight test engineer. [ gallery — spaceshiptwo makes first glide flight ] to begin, spaceshiptwo was lifted to high altitude by its carrier plane, whiteknighttwo. After a clean release from whiteknighttwo, spaceshiptwo immediately entered a rapid descent. Springing into action, the crew deployed the ship's novel feather re-entry system. Spaceshiptwo's ability to feather its tail section is a safety feature that increases the vehicle's stability during atmospheric re-entry. Akin to the flight of a shuttlecock in badminton, the feather system allows spaceshiptwo to rely on aerodynamics and the laws of physics to control speed and altitude. The glide flight lasted a brief 7 minutes and 15 seconds. Downward pitch rate \" upon release, the spaceship experienced a downward pitch rate that caused a stall of the tails. The"
         ],
         "raw_document": [
             "A malfunction during the most recent test flight of the private spacecraft spaceshiptwo sent the vehicle hurtling out of control until its crew could stabilize the craft for a safe landing. The issue provided some heart-stopping moments for its airborne crew and ground handlers, but also allowed the vehicle's owner, virgin galactic, to showcase the craft's safety features. The commercial space plane made its 16th glide flight on sept. 29, following a hiatus for hangar work. For the first time, spaceshiptwo carried a three-person crew — two pilots and a flight test engineer. [ gallery — spaceshiptwo makes first glide flight ] to begin, spaceshiptwo was lifted to high altitude by its carrier plane, whiteknighttwo. After a clean release from whiteknighttwo, spaceshiptwo immediately entered a rapid descent. Springing into action, the crew deployed the ship's novel feather re-entry system. Spaceshiptwo's ability to feather its tail section is a safety feature that increases the vehicle's stability during atmospheric re-entry. Akin to the flight of a shuttlecock in badminton, the feather system allows spaceshiptwo to rely on aerodynamics and the laws of physics to control speed and altitude. The glide flight lasted a brief 7 minutes and 15 seconds. Downward pitch rate \" upon release, the spaceship experienced a downward pitch rate that caused a stall of the tails. The",
@@ -2437,7 +2421,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2484,7 +2468,7 @@
             "6": 1,
             "7": 0,
             "8": 1,
-            "9": 0
+            "9": 1
         }
     },
     {
@@ -2669,7 +2653,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {

@@ -76,7 +76,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -131,12 +131,11 @@
     },
     {
         "idx": 51005,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "In his only print interview during a visit to the un, mahmoud ahmadinejad appeared \"complex, even bizarre, \" writes nicholas kristof in the new york times. The \"firebrand \" in public was \"subdued and very soft-spoken \" in person, offering repeated \"olive branches \" to his interviewer: \" we truly like and love the people of the united states, \" he noted. But after opening with a blessing for all kristof's readers, he grew testy over some of the journalist's questions. Ahmadinejad renewed an offer to end iranian nuclear enrichment if the west provided the country with fuel already 20 % enriched. The material would be used for \"cancer treatment medication, \" he said. Meanwhile, the iranian president appeared frustrated by questions over the american hikers held in iran; while he didn't call them spies, he said any country would have punished them. As for the mid-protest killing of neda agha-soltan, ahmadinejad \"constructed his own reality, \" kristof writes. \"he suggested that she had been murdered by his opponents, working with the bbc, as part of a bizarre snuff film. \" click through for the full article, or an interview transcript.",
         "split": "test",
         "cleansed_document": [
-            "Before sparks began flying between me and president mahmoud ahmadinejad of iran, he began my interview with an unusual olive branch: \"i would like to, with your permission, greet all of your readers as well as web viewers and wish all of them the success and blessings of the almighty. \" mr. Ahmadinejad is a complex, even bizarre, figure. A firebrand with a penchant for making explosive public statements, he is small in person, subdued and very soft-spoken. Even when i pushed him hard on human rights abuses and nuclear deceptions, he responded in even tones while claiming that iran is manifestly more democratic than the united states. Another olive branch came hours after our conversation with the release of the two american hikers who had been imprisoned unjustly for two years in iran. Mr. Ahmadinejad didn't even attempt to suggest that they were spies, but he bristled at my questions about them. He claimed that they had entered iran illegally and would have merited punishment in any country. This was mr. Ahmadinejad's only print interview on his visit to the united nations general assembly, and he made a significant effort to be friendly and conciliatory. Most important, he repeated an offer made in a washington post interview this month to stop all nuclear enrichment if the west would supply nuclear fuel enriched to a 20 percent",
-            "The following is a transcript of my conversation with president mahmoud ahmadinejad of iran. The interview was conducted in new york city on september 20, 2011, and served as the basis for this column. Nicholas kristof: mr. President, welcome to new york. Thank you very much for taking the time. If i can start by asking about the american hikers. You said on sept. 13 that they'd be free in a couple of days. What happened and when will they be handed over? mahmoud ahmadinejad: in the name of god the most gracious the most merciful i would like to, with your permission, greet all of your readers as well as web viewers and wish all of them the success and blessings of the almighty. As you are well aware the american citizens trespassed our borders illegally, according to which we undertook proper prosecution through the proper channels in the judiciary. There have been efforts to free them. And i do believe that all governments do have quite deep punishments for illegal trespassing of their sovereign borders. And we have undertaken efforts to, god willing, free them as soon as possible and it will happen, god willing. N.k.: but what went wrong? you said on sept. 13 that they would be freed within a couple of days and that did not happen"
+            "Before sparks began flying between me and president mahmoud ahmadinejad of iran, he began my interview with an unusual olive branch: \"i would like to, with your permission, greet all of your readers as well as web viewers and wish all of them the success and blessings of the almighty. \" mr. Ahmadinejad is a complex, even bizarre, figure. A firebrand with a penchant for making explosive public statements, he is small in person, subdued and very soft-spoken. Even when i pushed him hard on human rights abuses and nuclear deceptions, he responded in even tones while claiming that iran is manifestly more democratic than the united states. Another olive branch came hours after our conversation with the release of the two american hikers who had been imprisoned unjustly for two years in iran. Mr. Ahmadinejad didn't even attempt to suggest that they were spies, but he bristled at my questions about them. He claimed that they had entered iran illegally and would have merited punishment in any country. This was mr. Ahmadinejad's only print interview on his visit to the united nations general assembly, and he made a significant effort to be friendly and conciliatory. Most important, he repeated an offer made in a washington post interview this month to stop all nuclear enrichment if the west would supply nuclear fuel enriched to a 20 percent"
         ],
         "raw_document": [
             "Before sparks began flying between me and president mahmoud ahmadinejad of iran, he began my interview with an unusual olive branch: \"i would like to, with your permission, greet all of your readers as well as web viewers and wish all of them the success and blessings of the almighty. \" mr. Ahmadinejad is a complex, even bizarre, figure. A firebrand with a penchant for making explosive public statements, he is small in person, subdued and very soft-spoken. Even when i pushed him hard on human rights abuses and nuclear deceptions, he responded in even tones while claiming that iran is manifestly more democratic than the united states. Another olive branch came hours after our conversation with the release of the two american hikers who had been imprisoned unjustly for two years in iran. Mr. Ahmadinejad didn't even attempt to suggest that they were spies, but he bristled at my questions about them. He claimed that they had entered iran illegally and would have merited punishment in any country. This was mr. Ahmadinejad's only print interview on his visit to the united nations general assembly, and he made a significant effort to be friendly and conciliatory. Most important, he repeated an offer made in a washington post interview this month to stop all nuclear enrichment if the west would supply nuclear fuel enriched to a 20 percent",
@@ -151,7 +150,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -204,7 +203,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -234,17 +233,16 @@
             "0": 4,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 51009,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The us has sent two warships to the black sea and put planes on standby in europe as it prepares to evacuate its olympians from sochi in the event of an attack. But officials fear their preparations might not be enough, reports nbc news, which describes the effort as \" logistically mind-boggling and diplomatically delicate. \" the big issue: the us can't do much without russian permission, and it doesn't expect to get that. \" something that looks like the us cavalry riding to rescue russia … well, it's just hard to imagine that happening, \" one russian expert said. The us skiing and snowboarding teams have signed up their own private security company, global rescue, which claims it has six aircraft ready for an evacuation if necessary. But having planes isn't the only issue; it's having runways. Sochi's airport is fairly small, so deciding which of the 85 countries competing to use it would be a nightmare. Other teams are also taking special security precautions, the moscow times reports. Britain, for example, is sending extra security personnel with its delegation. A german spokesman, meanwhile, said the country trusted russia, but would \" look closely \" at the situation. \" we will have no aircraft, that is all that i can say. \"",
         "split": "test",
         "cleansed_document": [
-            "Maxim shemetov / reuters file sochi's olympic park is seen in december. A catastrophic terrorist strike at the sochi winter olympics would present the united states with a logistically mind-boggling and diplomatically delicate challenge: how to get more than 200 american athletes safely out of russia. U.s. Military officials have described plans to use two warships in the black sea and planes already on standby in europe to evacuate americans if the worst fears of security experts come true. But these are the olympics of president vladimir putin, who is spending a reported $ 50 billion on the games, including a purportedly impenetrable \"ring of steel \" around the olympic city, and who sees the games through a prism of national pride. Any american rescue operation would depend heavily on his approval, security experts say. And that's unlikely if not impossible. Nbc news ' richard engel reports from inside the difficult-to-reach coastal cluster in sochi. \"as far as being able to do things without russian cooperation, it's basically a nonstarter, \" said andrew weiss of the carnegie endowment for international peace, a former russia expert in the clinton white house and an nbc news analyst. \"this is their territory, their country, \" he said. \"they get to decide what kind of outside help they need. \" fears of olympic terror have grown in the countdown",
-            "A policeman standing guard wednesday at the rosa khutor park in the krasnaya polyana complex, which will be used for skiing at the upcoming games. &#124; reuters amid heightened concerns about security at the upcoming sochi winter games, russia has introduced extensive safeguards that observers say are close to those imposed in a state of emergency. But some countries'teams will be providing their athletes with even more security, worrying that the level of danger in sochi is higher than at any previous olympics. Some 2,000 athletes will participate in the games, and about 213,000 visitors are expected to come to sochi, which borders russia's turbulent north caucasus republics. The games will be held in the wake of two recent suicide bombings that killed 34 people in volgograd, 700 kilometers north of sochi. Many nations said that while they were concerned about the volgograd attacks, they would primarily count on the russian authorities to provide security during the games. Part of the u.s. Team, however, has hired a private security firm for its athletes, while the u.s. Government has sent fbi agents to sochi and moscow for the duration of games and made air and naval assets available to help russia prevent possible terror attacks. Several groups have threatened to attack the sochi olympics, the latest being a group that calls itself vilayat dagestan, which also claimed responsibility"
+            "Maxim shemetov / reuters file sochi's olympic park is seen in december. A catastrophic terrorist strike at the sochi winter olympics would present the united states with a logistically mind-boggling and diplomatically delicate challenge: how to get more than 200 american athletes safely out of russia. U.s. Military officials have described plans to use two warships in the black sea and planes already on standby in europe to evacuate americans if the worst fears of security experts come true. But these are the olympics of president vladimir putin, who is spending a reported $ 50 billion on the games, including a purportedly impenetrable \"ring of steel \" around the olympic city, and who sees the games through a prism of national pride. Any american rescue operation would depend heavily on his approval, security experts say. And that's unlikely if not impossible. Nbc news ' richard engel reports from inside the difficult-to-reach coastal cluster in sochi. \"as far as being able to do things without russian cooperation, it's basically a nonstarter, \" said andrew weiss of the carnegie endowment for international peace, a former russia expert in the clinton white house and an nbc news analyst. \"this is their territory, their country, \" he said. \"they get to decide what kind of outside help they need. \" fears of olympic terror have grown in the countdown"
         ],
         "raw_document": [
             "Maxim shemetov / reuters file sochi's olympic park is seen in december. A catastrophic terrorist strike at the sochi winter olympics would present the united states with a logistically mind-boggling and diplomatically delicate challenge: how to get more than 200 american athletes safely out of russia. U.s. Military officials have described plans to use two warships in the black sea and planes already on standby in europe to evacuate americans if the worst fears of security experts come true. But these are the olympics of president vladimir putin, who is spending a reported $ 50 billion on the games, including a purportedly impenetrable \"ring of steel \" around the olympic city, and who sees the games through a prism of national pride. Any american rescue operation would depend heavily on his approval, security experts say. And that's unlikely if not impossible. Nbc news ' richard engel reports from inside the difficult-to-reach coastal cluster in sochi. \"as far as being able to do things without russian cooperation, it's basically a nonstarter, \" said andrew weiss of the carnegie endowment for international peace, a former russia expert in the clinton white house and an nbc news analyst. \"this is their territory, their country, \" he said. \"they get to decide what kind of outside help they need. \" fears of olympic terror have grown in the countdown",
@@ -259,17 +257,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
         "idx": 51010,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Guys might be good at carrying heavy furniture but they tire faster than their female counterparts, new research out of the university of british columbia shows. \" we've known for some time that women are less fatigable than men during isometric muscle tests — static exercises where joints don't move, such as holding a weight — but we wanted to find out if that's true during more dynamic and practical everyday movements, \" says ubc researcher brian dalton in a press release. \" and the answer is pretty definitive: women can outlast men by a wide margin. \" collaborating with the university of guelph and university of oregon, the researchers report in the journal applied physiology, nutrition, and metabolism that a handful of men and women were asked to flex their foot against sensors as fast as they could 200 times. Those sensors captured several metrics, including speed, power, torque, and even electrical activity in their muscles. The men were both faster and more powerful, but they also became more fatigued \" much faster \" than the women. Dalton notes that in ultra-trail running, men tend to be faster, but women tend to be far less tired; in fact in outside, one runner calls for separate goals for women. \" if ever an ultra-ultra-marathon is developed, women may likely dominate, \" dalton says. But as for the mars-vs.-venus battle, dalton jokes, \" there's no battle at all. Maybe more of a balance of the sexes. \" more seriously: \" both sexes have valuable physical abilities and it only makes sense that we study and develop the tools to afford them the best advantage. \" ( sex gets better with age for women. )",
         "split": "test",
         "cleansed_document": [
-            "In the battle of the sexes, new ubc research suggests that men may be stronger physically but women have much greater muscle endurance than their male counterparts. In a new study from ubc's okanagan campus, researchers in the school of health and exercise sciences have found that women are considerably less exhausted after natural, dynamic muscle exercises than men of similar age and athletic ability. \" we've known for some time that women are less fatigable than men during isometric muscle tests -- static exercises where joints don't move, such as holding a weight -- but we wanted to find out if that's true during more dynamic and practical everyday movements, \" says assistant professor brian dalton. \" and the answer is pretty definitive: women can outlast men by a wide margin. \" in his study, done in collaboration with the university of guelph and university of oregon, dalton recruited eight men and nine women that were at a similar level of physical fitness. Participants were asked to flex their foot against a suite of sensors as quickly as they could 200 times. The speed, power and torque of their movements and electrical activity of their muscles was then captured and recorded over time. \" we chose to measure foot movements because it makes use of calf muscles on the back of the leg, which",
-            "\"what's the equivalent of the four-minute mile for women? \" the question was casually thrown out in a group of about ten sports-minded women, a mix of athletes and business leaders. We were all gathered around a big open table inside oiselle headquarters in seattle. There was no immediate answer, and the question lingered awkwardly in the air. \"4: 40? \" someone said. \"4: 40 or 4: 30? \" another long pause. \"4: 30, definitely 4: 30. \" there were a few nods, but the long pause and the unfamiliarity with this number, 4: 30, tinged the air with sadness. Here we were, a group of avid runners, some with athletic careers spanning more than two decades, including a division 1 runner and several post-collegiate athletes, and yet the question and the answer felt foreign. How are our own benchmarks so unfamiliar? on the men's side, the milestones are easy to call up, featuring names you've heard hundreds of times: roger bannister, the four-minute mile; the life and death of steve prefontaine; the \"world's fastest man \" and its parade of kings — lewis, johnson, bolt. It's not that the women's side of the sport hasn't had fearless protagonists and"
+            "In the battle of the sexes, new ubc research suggests that men may be stronger physically but women have much greater muscle endurance than their male counterparts. In a new study from ubc's okanagan campus, researchers in the school of health and exercise sciences have found that women are considerably less exhausted after natural, dynamic muscle exercises than men of similar age and athletic ability. \" we've known for some time that women are less fatigable than men during isometric muscle tests -- static exercises where joints don't move, such as holding a weight -- but we wanted to find out if that's true during more dynamic and practical everyday movements, \" says assistant professor brian dalton. \" and the answer is pretty definitive: women can outlast men by a wide margin. \" in his study, done in collaboration with the university of guelph and university of oregon, dalton recruited eight men and nine women that were at a similar level of physical fitness. Participants were asked to flex their foot against a suite of sensors as quickly as they could 200 times. The speed, power and torque of their movements and electrical activity of their muscles was then captured and recorded over time. \" we chose to measure foot movements because it makes use of calf muscles on the back of the leg, which"
         ],
         "raw_document": [
             "In the battle of the sexes, new ubc research suggests that men may be stronger physically but women have much greater muscle endurance than their male counterparts. In a new study from ubc's okanagan campus, researchers in the school of health and exercise sciences have found that women are considerably less exhausted after natural, dynamic muscle exercises than men of similar age and athletic ability. \" we've known for some time that women are less fatigable than men during isometric muscle tests -- static exercises where joints don't move, such as holding a weight -- but we wanted to find out if that's true during more dynamic and practical everyday movements, \" says assistant professor brian dalton. \" and the answer is pretty definitive: women can outlast men by a wide margin. \" in his study, done in collaboration with the university of guelph and university of oregon, dalton recruited eight men and nine women that were at a similar level of physical fitness. Participants were asked to flex their foot against a suite of sensors as quickly as they could 200 times. The speed, power and torque of their movements and electrical activity of their muscles was then captured and recorded over time. \" we chose to measure foot movements because it makes use of calf muscles on the back of the leg, which",
@@ -284,7 +281,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -315,7 +312,7 @@
             "0": 0,
             "1": 0,
             "2": 2,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -373,13 +370,12 @@
     },
     {
         "idx": 51014,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Disney has received a patent to take pictures of visitors ' feet at its theme parks, the los angeles times reports. Specifically, the patent titled system and method using foot recognition to create a customized guest experience would scan guests shoes when they enter the park then track them as the move about. According to the orlando business journal, this would allow disney to track guests ' favorite rides and paths through the park. It could also allow them to have donald duck greet guests by name or get souvenir photos or videos to them more quickly. The scanners could discern everything from shoe color, to wear patterns, to gum stuck on the sole. Disney filed for the patent back in 2015; it was issued by the us patent &amp; trademark office on july 19. The company, however, says it has no plans to actually use its foot camera patent. A spokesperson tells the times that disney files a lot of patents in an \" ongoing effort to relentlessly innovate and push the boundaries of creativity and technology to create immersive experiences and legendary guest service. \" disney had already decided against biometric scanning — such as fingerprinting, retinal scans, and facial recognition — to track visitors because it considers it too invasive, the stack reports. Plus those methods can be thrown off by things like hats and sunglasses. The company also didn't want to track clothing because that would \" require cameras that are visible to the person. \" the shoe-scanning cameras throughout the park would be \" out of a person's line of sight. \" ( but will members of \" club 33 \" have their photos taken? )",
         "split": "test",
         "cleansed_document": [
             "Enlarge the patent rendering of the foot scanning robot that would take a depth and camera image … more no this isn't a joke: a patent from the walt disney co. Wants to scan your feet for data. The patent, dubbed \" system and method using foot recognition to create a customized guest experience, \" seeks to use a mobile scanning mechanism or robot that would use a foot scanner to take depth information and a camera to take appearance information of a guest's foot and use that data to determine various factors like the most popular rides and common paths guests take from ride to ride. The patent, issued by the u.s. Patent &amp; trademark office on july 19 after originally being filed in april 2015, also describes the use of concealed sensors throughout a theme park that would track the guests ' movements and keep collecting data on that logistical information. Enlarge the patent rendering of the foot scanning robot that would take a depth and camera image … more gathering guest movements can help a theme park see where guests are spending most of their time, what walkways are being used the most and which rides are being visited most often so it can tweak operations and staff to those areas to improve efficiency. This is very much in line with what",
-            "Cloud disney has been granted a patent for a proposed shoe recognition system, which would inconspicuously track guests ' feet around the theme parks and gather information on the popularity of rides, stores and shows. A patent, filed in april last year and granted last week, describes a network of cameras and sensors which 'blend ' in with the surroundings to scan visitors ' footwear on arrival, and track them as they move around the park. A robot at the entrance area will include a foot sensor for capturing a detailed image of at least one foot of a guest, and a camera for capturing a colour image of at least one foot. Disney notes in the patent that these devices are 'angled towards the ground ' and placed at a 'low level ' ( e.g., below a guest's knees ), and are therefore 'easier to conceal ' from the guest. It continues that the system of sensors around the park would be 'out of a person's line of sight ', to 'unobtrusively capture ' information. Disney hopes that the data collected from the system will help improve park management and future planning. The patent states: 'acquiring and reacquiring guests at different locations in the amusement park can provide data to the amusement park owners, such as the",
-            "The query ( ) was unparseable ( invalid input value ). See the number search help page for more details."
+            "Cloud disney has been granted a patent for a proposed shoe recognition system, which would inconspicuously track guests ' feet around the theme parks and gather information on the popularity of rides, stores and shows. A patent, filed in april last year and granted last week, describes a network of cameras and sensors which 'blend ' in with the surroundings to scan visitors ' footwear on arrival, and track them as they move around the park. A robot at the entrance area will include a foot sensor for capturing a detailed image of at least one foot of a guest, and a camera for capturing a colour image of at least one foot. Disney notes in the patent that these devices are 'angled towards the ground ' and placed at a 'low level ' ( e.g., below a guest's knees ), and are therefore 'easier to conceal ' from the guest. It continues that the system of sensors around the park would be 'out of a person's line of sight ', to 'unobtrusively capture ' information. Disney hopes that the data collected from the system will help improve park management and future planning. The patent states: 'acquiring and reacquiring guests at different locations in the amusement park can provide data to the amusement park owners, such as the"
         ],
         "raw_document": [
             "Enlarge the patent rendering of the foot scanning robot that would take a depth and camera image … more no this isn't a joke: a patent from the walt disney co. Wants to scan your feet for data. The patent, dubbed \" system and method using foot recognition to create a customized guest experience, \" seeks to use a mobile scanning mechanism or robot that would use a foot scanner to take depth information and a camera to take appearance information of a guest's foot and use that data to determine various factors like the most popular rides and common paths guests take from ride to ride. The patent, issued by the u.s. Patent &amp; trademark office on july 19 after originally being filed in april 2015, also describes the use of concealed sensors throughout a theme park that would track the guests ' movements and keep collecting data on that logistical information. Enlarge the patent rendering of the foot scanning robot that would take a depth and camera image … more gathering guest movements can help a theme park see where guests are spending most of their time, what walkways are being used the most and which rides are being visited most often so it can tweak operations and staff to those areas to improve efficiency. This is very much in line with what",
@@ -396,7 +392,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -478,7 +474,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -508,15 +504,14 @@
     },
     {
         "idx": 51019,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Can edward snowden afford to be choosy? authorities in russia say the nsa leaker has reportedly canceled a request for asylum after balking at the conditions imposed by vladimir putin, including no longer leaking information damaging to the us, the ap reports. Snowden has applied for asylum in no fewer than 21 countries, according to wikileaks, but the rejections are starting to pile up: germany, norway, austria, poland, finland, and switzerland all say he needs to be on their soil to request asylum. And india this morning \" concluded that we see no reason to accede to that request. \" norway has confirmed that its moscow embassy has received a fax that is \" probably from him, \" while poland's foreign minister says he has received an asylum request from snowden that he will not recommend granting, the bbc reports. Requests have also been made to bolivia, brazil, china, cuba, ecuador, france, iceland, italy, ireland, netherlands, nicaragua, spain, and venezuela, wikileaks says. Ecuador's president now says helping snowden leave hong kong was \" a mistake, \" the guardian reports, but venezuelan president nicolas maduro — who is currently visiting moscow — says his country has yet to receive an asylum request from snowden, but the leaker has \" done something very important for humanity \" and \" deserved the world's protection. \"",
         "split": "test",
         "cleansed_document": [
             "India has rejected nsa leaker edward snowden's request for political asylum, the external affairs ministry said tuesday. The indian embassy in moscow had received a request for asylum from snowden, ministry spokesman syed akbaruddin told reporters. He said india carefully examined the request and decided to turn it down. The government has \" concluded that we see no reason to accede to that request, \" he said. Earlier tuesday, external affairs minister salman khurshid said india \" has a very careful and restrictive policy on asylums. \" \" we",
             "Image caption edward snowden is believed to be staying at moscow's sheremetyevo airport fugitive us intelligence leaker edward snowden has sent asylum requests to 21 countries, according to a statement published by wikileaks. They include china, france, ireland and venezuela. But eight european countries said the requests were invalid. And russia said mr snowden later withdrew the application to moscow as the kremlin had set conditions. He accuses us president barack obama of putting pressure on the countries to which he has applied. The former intelligence systems analyst, who",
             "Nsa leaker edward snowden's attempts to seek refuge outside the united states hit hurdles tuesday, after russian media reported he canceled his asylum bid in russia and several european countries said such applications wouldn't be considered if they were made from abroad. File - this june 23, 2013 file photo shows a tv screen shows a news report of edward snowden, a former cia employee who leaked top-secret documents about sweeping u.s. Surveillance programs, at a shopping... ( associated press ) this screenshot made of the wikileaks website shows a",
-            "Ecuador is not considering edward snowden's asylum request and never intended to facilitate his flight from hong kong, president rafael correa said, as the whistleblower made a personal plea to quito for his case to be heard. Snowden was russia's responsibility and would have to reach ecuadorean territory before the country would consider any asylum request, the president said in an interview with the guardian on monday. \" are we responsible for getting him to ecuador? it's not logical. The country that has to give him a",
-            "Tor tor is an encrypted anonymising network that makes it harder to intercept internet communications, or see where communications are coming from or going to. In order to use the wikileaks public submission system as detailed above you can download the tor browser bundle, which is a firefox-like browser available for windows, mac os x and gnu/linux and pre-configured to connect using the anonymising system tor. Tails if you are at high risk and you have the capacity to do so, you can also access the submission system through a secure operating system called"
+            "Ecuador is not considering edward snowden's asylum request and never intended to facilitate his flight from hong kong, president rafael correa said, as the whistleblower made a personal plea to quito for his case to be heard. Snowden was russia's responsibility and would have to reach ecuadorean territory before the country would consider any asylum request, the president said in an interview with the guardian on monday. \" are we responsible for getting him to ecuador? it's not logical. The country that has to give him a"
         ],
         "raw_document": [
             "India has rejected nsa leaker edward snowden's request for political asylum, the external affairs ministry said tuesday. The indian embassy in moscow had received a request for asylum from snowden, ministry spokesman syed akbaruddin told reporters. He said india carefully examined the request and decided to turn it down. The government has \" concluded that we see no reason to accede to that request, \" he said. Earlier tuesday, external affairs minister salman khurshid said india \" has a very careful and restrictive policy on asylums. \" \" we",
@@ -537,7 +532,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -681,7 +676,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -711,12 +706,11 @@
     },
     {
         "idx": 51026,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "There's a rumble brewing in the wilds of montana, but the unlikely parties involved aren't slinging guns so much as heading for court. The gardiner water and sewer treatment district is suing none other than the national park service, reports courthouse news service, and it's over less-than-pristine water coming from yellowstone national park — specifically, water it's being forced to treat that contains high levels of arsenic. The district says that dealing with its sludge ponds will cost an estimated $ 2 million. Per the lawsuit: an \" engineer recommended that the district address this infiltration problem with the park prior to beginning any sludge removal project. \" otherwise, the problem would simply return again. But as the district \" cannot await the park service's responses any longer, it has been compelled to file suit. \" yellowstone is estimated to be contributing 95 % of the arsenic present; the engineer doesn't think the arsenic is coming from wastewater, but possibly from leaky pipes or manholes within the park, reports the bozeman daily chronicle. Arsenic can occur naturally in geothermal areas, and it's not uncommon in montana, notes cns. The district — which first wrote the park service in march 2015, then again in december 2015, to no response — wants a court injunction to force yellowstone to clean up its act, to compensate the district, and to monitor its sewer lines; it's also requesting a jury trial. A yellowstone rep said only that interior department lawyers are \" looking into it. \" ( meanwhile, one of our largest water sources is contaminated. )",
         "split": "test",
         "cleansed_document": [
-            "Share this post billings, mont. ( cn ) – in the picturesque mountains near the nation's first national park, a small water and sewer district is taking on the national park service in a dispute over arsenic in wastewater coming from yellowstone national park that's treated by the sewer district. In a lawsuit filed this week in federal court in montana, the gardiner water and sewer treatment district says that for the past few years, they've been trying to work with the national park service to resolve the matter before the district takes on an estimated $ 2 million sludge treatment pond replacement as part of its routine maintenance. But with no timely response from the park service, and under pressure from the state to replace the ponds, the district said it had no choice but to sue. \"given that the district has been directed by the montana department of environmental quality to dispose of the sludge and replace the liners in its treatment ponds and cannot await the park service's responses any longer, it has been compelled to file suit, \" the district said in its lawsuit. The district's attorney todd shea didn't return a telephone call seeking additional information. Arsenic can occur naturally in geothermal areas, and it's not uncommon for it to be detected in montana's water. In february 2015, the district's engineer reported high levels of arsenic in sewage coming from the town of mammoth, which is home to park employees and sits just inside yellowstone's northern border. The engineer noted that it wasn't coming from the park's wastewater, but appeared to be flowing into the system from manholes or holes in underground pipes. It needed to be addressed since the yellowstone wastewater was contributing 95 percent of the arsenic to the treatment system. \"the engineer recommended that the district address this infiltration problem with the park prior to beginning any sludge removal project, \" the lawsuit states. \"otherwise, the high level of arsenic in the district's sewage treatment plant would return after the sludge removal project. \" the engineer also stated the arsenic levels comply with federal drinking water standards in both the town of gardiner, at yellowstone's northern entrance, and in the park itself. In march 2015, the district wrote a letter to the park",
-            "Close get email notifications on michael wright daily! your notification has been saved. There was a problem saving your notification. Whenever michael wright posts new content, you ' ll get an email delivered to your inbox with a link. Email notifications are only sent once a day, and only if there are new matching items."
+            "Share this post billings, mont. ( cn ) – in the picturesque mountains near the nation's first national park, a small water and sewer district is taking on the national park service in a dispute over arsenic in wastewater coming from yellowstone national park that's treated by the sewer district. In a lawsuit filed this week in federal court in montana, the gardiner water and sewer treatment district says that for the past few years, they've been trying to work with the national park service to resolve the matter before the district takes on an estimated $ 2 million sludge treatment pond replacement as part of its routine maintenance. But with no timely response from the park service, and under pressure from the state to replace the ponds, the district said it had no choice but to sue. \"given that the district has been directed by the montana department of environmental quality to dispose of the sludge and replace the liners in its treatment ponds and cannot await the park service's responses any longer, it has been compelled to file suit, \" the district said in its lawsuit. The district's attorney todd shea didn't return a telephone call seeking additional information. Arsenic can occur naturally in geothermal areas, and it's not uncommon for it to be detected in montana's water. In february 2015, the district's engineer reported high levels of arsenic in sewage coming from the town of mammoth, which is home to park employees and sits just inside yellowstone's northern border. The engineer noted that it wasn't coming from the park's wastewater, but appeared to be flowing into the system from manholes or holes in underground pipes. It needed to be addressed since the yellowstone wastewater was contributing 95 percent of the arsenic to the treatment system. \"the engineer recommended that the district address this infiltration problem with the park prior to beginning any sludge removal project, \" the lawsuit states. \"otherwise, the high level of arsenic in the district's sewage treatment plant would return after the sludge removal project. \" the engineer also stated the arsenic levels comply with federal drinking water standards in both the town of gardiner, at yellowstone's northern entrance, and in the park itself. In march 2015, the district wrote a letter to the park"
         ],
         "raw_document": [
             "Share this post billings, mont. ( cn ) – in the picturesque mountains near the nation's first national park, a small water and sewer district is taking on the national park service in a dispute over arsenic in wastewater coming from yellowstone national park that's treated by the sewer district. In a lawsuit filed this week in federal court in montana, the gardiner water and sewer treatment district says that for the past few years, they've been trying to work with the national park service to resolve the matter before the district takes on an estimated $ 2 million sludge treatment pond replacement as part of its routine maintenance. But with no timely response from the park service, and under pressure from the state to replace the ponds, the district said it had no choice but to sue. \"given that the district has been directed by the montana department of environmental quality to dispose of the sludge and replace the liners in its treatment ponds and cannot await the park service's responses any longer, it has been compelled to file suit, \" the district said in its lawsuit. The district's attorney todd shea didn't return a telephone call seeking additional information. Arsenic can occur naturally in geothermal areas, and it's not uncommon for it to be detected in montana's water. In february 2015, the district's engineer reported high levels of arsenic in sewage coming from the town of mammoth, which is home to park employees and sits just inside yellowstone's northern border. The engineer noted that it wasn't coming from the park's wastewater, but appeared to be flowing into the system from manholes or holes in underground pipes. It needed to be addressed since the yellowstone wastewater was contributing 95 percent of the arsenic to the treatment system. \"the engineer recommended that the district address this infiltration problem with the park prior to beginning any sludge removal project, \" the lawsuit states. \"otherwise, the high level of arsenic in the district's sewage treatment plant would return after the sludge removal project. \" the engineer also stated the arsenic levels comply with federal drinking water standards in both the town of gardiner, at yellowstone's northern entrance, and in the park itself. In march 2015, the district wrote a letter to the park",
@@ -731,7 +725,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -763,13 +757,12 @@
     },
     {
         "idx": 51028,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The new release flight, starring denzel washington as drug- and alcohol-addicted pilot, gets a solid 78 % on rotten tomatoes. Most critics seem to think the acting and directing are superb, but at some point, the movie takes a bit of a nosedive: flight starts out with a thrilling plane crash, and after that \" takes a surprising turn into a drama of addiction and moral exploration, \" writes joe morgenstern at the wall street journal. Unfortunately, the latter parts feel \" shopworn \" and \" instead of hurtling to a climax, the story moves in fits and starts, loses momentum. \" rick groen at the globe and mail praises director robert zemeckis ' ability to deliver a good crash scene, but thinks his sentimentality hurts the movie. \" this movie is captivating until it gets uplifting — flight soars when it crashes and crashes when it soars, \" he writes. Good music, strong supporting actors, and great special effects are flight's strong suits, but the \" downward addiction and denial spiral \" is all too familiar, writes tom long for the detroit news. \" it's that movie, done well, but done again. \" peter travers, writing for rolling stone, disagrees. He says those complaining are \" missing the point of an exceptional entertainment that zemeckis shades into something quietly devastating — not an addiction drama, but the deeper spectacle of a man facing the truth about himself. \"",
         "split": "test",
         "cleansed_document": [
             "Director robert zemeckis gives good plane crash. He did it well in the early frames of castaway, and the one here is even better. A short commercial flight, in heavy rain, from orlando to atlanta. Sudden mechanical breakdown, the uncontrolled dive, one engine fails, a calculated roll to stall the plunge, second engine fails, the eerie silence of a plane shorn of power, then the deadly quiet glide to a patch of open field. Crash. However, of the 102 souls on board, only 6 died, and the reason is clear. Skilled, decisive, with ice-water in his veins, the pilot was indisputably heroic. But this too is indisputable. Those same veins contained high levels of alcohol and traces of cocaine: the hero was also legally intoxicated. Screen grab from online trailer for \" flight \" movies flight: the official trailer but",
-            "First lesson learned from flight: never take denzel washington for granted. After making his bones with glory, malcolm x and the hurricane, and winning a best actor oscar for 2001's training day, washington settled into a groove of action films ( safe house, unstoppable ). With the exception of 2007's incisive american gangster, they relied more on his star power than his acting skills. Flight reminds us of what washington can do when a role hits him with a challenge that would floor a lesser actor. He's a ball of fire, and his detailed, depth-charged, bruisingly true performance will be talked about for years. Washington, 57, plays capt. Whip whitaker, a commercial pilot with a jones for hooch and blow, on the job as well as off. His marriage is a casualty, along with his relationship with his only",
-            "Paramount pictures denzel washington as whip whitaker in ' flight. ' four years after charles lindbergh crossed the atlantic and became a global hero, the humorist james thurber published a new yorker magazine piece, \" the greatest man in the world, \" about a fictional pilot named jack \" pal \" smurch. Mr. Thurber's aviator flew around the world nonstop in a rickety airplane he had built, then revealed himself to be a braggart, a fool and a generally despicable human being. The airline pilot played by denzel washington, whip whitaker, is far from despicable — he is, after all, played by denzel washington — but he's no chesley sullenberger, either. \" flight, \" which was directed by robert zemeckis, soars when whip is at the controls, struggling to save a seemingly doomed airplane. When he's back on the ground and struggling"
+            "First lesson learned from flight: never take denzel washington for granted. After making his bones with glory, malcolm x and the hurricane, and winning a best actor oscar for 2001's training day, washington settled into a groove of action films ( safe house, unstoppable ). With the exception of 2007's incisive american gangster, they relied more on his star power than his acting skills. Flight reminds us of what washington can do when a role hits him with a challenge that would floor a lesser actor. He's a ball of fire, and his detailed, depth-charged, bruisingly true performance will be talked about for years. Washington, 57, plays capt. Whip whitaker, a commercial pilot with a jones for hooch and blow, on the job as well as off. His marriage is a casualty, along with his relationship with his only"
         ],
         "raw_document": [
             "Director robert zemeckis gives good plane crash. He did it well in the early frames of castaway, and the one here is even better. A short commercial flight, in heavy rain, from orlando to atlanta. Sudden mechanical breakdown, the uncontrolled dive, one engine fails, a calculated roll to stall the plunge, second engine fails, the eerie silence of a plane shorn of power, then the deadly quiet glide to a patch of open field. Crash. However, of the 102 souls on board, only 6 died, and the reason is clear. Skilled, decisive, with ice-water in his veins, the pilot was indisputably heroic. But this too is indisputable. Those same veins contained high levels of alcohol and traces of cocaine: the hero was also legally intoxicated. Screen grab from online trailer for \" flight \" movies flight: the official trailer but",
@@ -786,7 +779,7 @@
         "vote_count": {
             "0": 2,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -846,12 +839,10 @@
     },
     {
         "idx": 51031,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Dennis rodman certainly thinks he's influential, but gq disagrees. The basketball star and self-styled north korea ambassador is the no. 1 entry on the magazine's annual list of the 25 least influential people. Rodman \" was the first prominent american celebrity invited inside the nation-sized prison that is north korea, and he did literally the least interesting thing possible with it, \" writes drew magary. The rest of the top ( bottom? ) 10: paula deen: she's proved herself to be exactly like what you probably always thought she was like. Anthony weiner: all that public humiliation, and he didn't even have any actual, real-life sex. Justin bieber: he's now officially too old to be peeing in buckets and making light of anne frank. Pope benedict: the new pope is just way better, and nobody misses this guy. Miley cyrus: she \" spent the entire year foam-finger-blasting herself, licking sledgehammers, and basically trying every inane strategy she could think of to rile up america's few remaining pearl clutchers. \" aaron hernandez: uh, star athletes who came from tough backgrounds are supposed to act like thugs, not actually be thugs. Prince george: the royal baby got a lot of attention, but when you look at him, he's pretty much just a normal baby. Angela corey: the prosecutor in the george zimmerman case failed us all. The smith family: as in will, jada, and the kids. \" in just a few years, will smith has gone from one of america's most beloved stars to one of its most despicable. \" click for the complete list.",
         "split": "test",
-        "cleansed_document": [
-            "Time once again for the list no one wants to be on: gq's third annual collection of people who've overstayed their turns in the spotlight and used their fame for not a good goddamn thing. The hardest part for us was keeping it to twenty-five. So this year, a bonus wrinkle: an additional mini-list of sorry souls who have been so un-influential for so long that we're retiring their jerseys forever."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "20. Zack snyder whenever a studio ecutive needs a reboot of something and his sole creative direction is \" make it grittier! \" snyder is the dude they call. He ' ll totally bro up your superman by sucking all the joy out of every frame and adding muscles. Big, ripply, 300-style muscles. Oh, did you want superman to be a shining light of morality in a harsh and cruel world? screw that candy-ass shit. Superbro is gonna crush some buildings and give zero fucks about collateral damage. Grittiness: unlocked. _zack snyder's signature recipe: take one happy-go-lucky superhero, blast him with a fire hose of muck, then order him to brood or he gets the kryptonite. _",
             "Time once again for the list no one wants to be on: gq's third annual collection of people who've overstayed their turns in the spotlight and used their fame for not a good goddamn thing. The hardest part for us was keeping it to twenty-five. So this year, a bonus wrinkle: an additional mini-list of sorry souls who have been so un-influential for so long that we're retiring their jerseys forever."
@@ -865,7 +856,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -890,7 +881,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -923,13 +914,12 @@
     },
     {
         "idx": 51034,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Donald trump's transition team sent a memo with 74 questions to the energy department this week, among them a request for the names of people who have worked on climate change issues recently. Specifically, it requested a list of all employees and contractors who attended the un's annual global climate talks during the past five years, reuters reports. The energy department responded tuesday with a refusal. \" we are going to respect the professional and scientific integrity and independence of our employees at our labs and across our department, \" says a department spokesperson, who added that the trump team's request \" left many in our workforce unsettled. \" many media outlets are framing the trump team's request as an attempt to \" purge \" the energy department of certain workers. \" we will be forthcoming with all publicly available information with the transition team. We will not be providing any individual names to the transition team, \" the energy department spokesperson continued. An official at the union of concerned scientists applauded the energy department's response, calling the trump team's request \" absurd and dangerous, \" and an anonymous department of energy employee called the trump memo \" the first draft of an eventual political enemies list. \" white house spokesperson josh earnest said the request for a list of names \" could have been an attempt to target civil servants... Who are critical to the success of the federal government's ability to make policy, \" and a civil service expert tells the washington post that even if named employees weren't fired, they could be \" marginalized \" in other ways. ( trump has made an interesting choice for the head of the energy department. )",
         "split": "test",
         "cleansed_document": [
             "President-elect donald trump is interviewed saturday by chris wallace of \"fox news sunday \" in trump tower in new york. ( richard drew/ap ) global warming — \"it's a hoax. \" donald trump has said that more than once. So it's understandable that the request by the president-elect's transition team for the names of individual energy department employees and contractors who worked on the issue makes them worry that the trick could be on them. \"there is major concern amongst my members, \" said jeff eagan, president of the national treasury employees union ( nteu ) chapter at the department's headquarters building in washington. He's also a 17-year energy employee but was speaking in his union capacity. \"i have received lots of calls, emails, messages expressing shock and dismay. \" the scientists and their colleagues at energy know global warming is real. What they don't know is what trump might do to those whose work has been in line with the science and the obama administration, which has spoken about \"the real and urgent threat of climate change. \" perhaps trump's crew will do nothing. Trump more recently has said he has an open mind about global warming, so maybe he's discarding his flat-earth approach to the subject. Nonetheless, the transition team's request",
-            "Washington ( reuters ) - the u.s. Energy department said on tuesday it will not comply with a request from president-elect donald trump's energy department transition team for the names of people who have worked on climate change and the professional society memberships of lab workers. A child embraces a globe shaped balloon ahead of the start of the 2015 paris world climate change conference, known as the cop21 summit, in rome, italy, november 29, 2015. Reuters/alessandro bianchi the energy department's response could signal a rocky transition for the president-elect's energy team and potential friction between the new leadership and the staffers who remain in place. The memo sent to the energy department on tuesday and reviewed by reuters last week contains 74 questions, including a request for a list of all department employees and contractors who attended the annual global climate talks hosted by the united nations within the last five years. Energy department spokesman eben burnham-snyder said tuesday the department will not comply. \"our career workforce, including our contractors and employees at our labs, comprise the backbone of ( the energy department ) and the important work our department does to benefit the american people, \" burnham-snyder said. \"we are going to respect the professional and scientific integrity and independence of our employees at our labs and across our department, \" he added",
-            "There are no items to show."
+            "Washington ( reuters ) - the u.s. Energy department said on tuesday it will not comply with a request from president-elect donald trump's energy department transition team for the names of people who have worked on climate change and the professional society memberships of lab workers. A child embraces a globe shaped balloon ahead of the start of the 2015 paris world climate change conference, known as the cop21 summit, in rome, italy, november 29, 2015. Reuters/alessandro bianchi the energy department's response could signal a rocky transition for the president-elect's energy team and potential friction between the new leadership and the staffers who remain in place. The memo sent to the energy department on tuesday and reviewed by reuters last week contains 74 questions, including a request for a list of all department employees and contractors who attended the annual global climate talks hosted by the united nations within the last five years. Energy department spokesman eben burnham-snyder said tuesday the department will not comply. \"our career workforce, including our contractors and employees at our labs, comprise the backbone of ( the energy department ) and the important work our department does to benefit the american people, \" burnham-snyder said. \"we are going to respect the professional and scientific integrity and independence of our employees at our labs and across our department, \" he added"
         ],
         "raw_document": [
             "President-elect donald trump is interviewed saturday by chris wallace of \"fox news sunday \" in trump tower in new york. ( richard drew/ap ) global warming — \"it's a hoax. \" donald trump has said that more than once. So it's understandable that the request by the president-elect's transition team for the names of individual energy department employees and contractors who worked on the issue makes them worry that the trick could be on them. \"there is major concern amongst my members, \" said jeff eagan, president of the national treasury employees union ( nteu ) chapter at the department's headquarters building in washington. He's also a 17-year energy employee but was speaking in his union capacity. \"i have received lots of calls, emails, messages expressing shock and dismay. \" the scientists and their colleagues at energy know global warming is real. What they don't know is what trump might do to those whose work has been in line with the science and the obama administration, which has spoken about \"the real and urgent threat of climate change. \" perhaps trump's crew will do nothing. Trump more recently has said he has an open mind about global warming, so maybe he's discarding his flat-earth approach to the subject. Nonetheless, the transition team's request",
@@ -946,17 +936,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
         "idx": 51035,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Marco rubio may have been one of the driving forces behind the gang of eight's immigration reform bill, but that doesn't mean he's planning to vote for it. He told radio host hugh hewitt yesterday that the parts of the bill related to border security need to be strengthened before the bill heads to final senate consideration, because he doesn't want the bill to \" give overwhelming discretion to the department of homeland security. \" and if those amendments aren't made, \" then i think we've got a bill that isn't going to become law, and i think we're wasting our time, \" and he wouldn't support it, rubio said. The washington examiner says such a move would be \" an extraordinary turn of events, \" since rubio has been the public face of the legislation. Byron york doesn't understand rubio's change of heart, since the senate judiciary committee actually did strengthen and expand the security measures when it approved the bill. But rubio could simply be concerned the bill won't pass: he also told hewitt there aren't 60 votes in the senate for the bill, and there won't be unless the bill is strengthened, because \" the majority of our colleagues are prepared to do immigration reform, [ but ] they're only prepared to do it if we ensure that this illegal immigration problem never happens again. \"",
         "split": "test",
         "cleansed_document": [
-            "Sen. Marco rubio, the leading republican behind the gang of eight comprehensive immigration reform bill, says he will not vote for the legislation he helped write and has staked his political future on, unless substantial changes are made before final senate consideration. Speaking with radio host hugh hewitt tuesday, rubio said the senate should \"strengthen the border security parts of this bill so that they're stronger, so that they don't give overwhelming discretion to the department of homeland security. \" he said he was working with other senators on amendments to do just that. Then hewitt asked: \"if those amendments don't pass, will you yourself support the bill that emerged from judiciary, senator rubio? \" rubio answered, \"well, i think if those amendments don't pass, then i think we've got a bill that isn't going to become law, and i think we're wasting our time. So the answer is no. \" more from the washington examiner benghazi bust incremental advances — nuggets of information — don't make for dramatic hearings. Rubio's turning on his own bill would be an extraordinary turn of events. After playing a major role in drafting the legislation, rubio has been its public face since then, making countless appearances on television, radio, and in print to",
-            "Hh: i begin with united states senator marco rubio from the great state of florida. Senator, welcome back, it's good to speak with you. Mr: hugh, thanks for having me back. Hh: earlier today on fox, you told the audience that there aren't 60 votes in the senate for immigration reform. That's big news. The second news, though, is are you going to offer amendments that you think will gather in enough votes? mr: well, let me first say that the news of what i said today on fox about there not being the 60 votes, actually, senator menendez of new jersey, a democrat, said the same thing last week. And that's a fact. And the reason why is because while there's a group, well, the majority of our colleagues are prepared to do immigration reform, they're only prepared to do it if we ensure that this illegal immigration problem never happens again. And so there's a handful of democrats, and a sizeable number of republicans that are saying to us we're prepared to do immigration reform, but we have to make sure there isn't another wave of illegal immigration. So for those who want immigration reform, the task is very"
+            "Sen. Marco rubio, the leading republican behind the gang of eight comprehensive immigration reform bill, says he will not vote for the legislation he helped write and has staked his political future on, unless substantial changes are made before final senate consideration. Speaking with radio host hugh hewitt tuesday, rubio said the senate should \"strengthen the border security parts of this bill so that they're stronger, so that they don't give overwhelming discretion to the department of homeland security. \" he said he was working with other senators on amendments to do just that. Then hewitt asked: \"if those amendments don't pass, will you yourself support the bill that emerged from judiciary, senator rubio? \" rubio answered, \"well, i think if those amendments don't pass, then i think we've got a bill that isn't going to become law, and i think we're wasting our time. So the answer is no. \" more from the washington examiner benghazi bust incremental advances — nuggets of information — don't make for dramatic hearings. Rubio's turning on his own bill would be an extraordinary turn of events. After playing a major role in drafting the legislation, rubio has been its public face since then, making countless appearances on television, radio, and in print to"
         ],
         "raw_document": [
             "Sen. Marco rubio, the leading republican behind the gang of eight comprehensive immigration reform bill, says he will not vote for the legislation he helped write and has staked his political future on, unless substantial changes are made before final senate consideration. Speaking with radio host hugh hewitt tuesday, rubio said the senate should \"strengthen the border security parts of this bill so that they're stronger, so that they don't give overwhelming discretion to the department of homeland security. \" he said he was working with other senators on amendments to do just that. Then hewitt asked: \"if those amendments don't pass, will you yourself support the bill that emerged from judiciary, senator rubio? \" rubio answered, \"well, i think if those amendments don't pass, then i think we've got a bill that isn't going to become law, and i think we're wasting our time. So the answer is no. \" more from the washington examiner benghazi bust incremental advances — nuggets of information — don't make for dramatic hearings. Rubio's turning on his own bill would be an extraordinary turn of events. After playing a major role in drafting the legislation, rubio has been its public face since then, making countless appearances on television, radio, and in print to",
@@ -971,17 +960,16 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 3
         }
     },
     {
         "idx": 51036,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Two newly released members of pussy riot tell the new york times that they're kicking around the idea of running for political office in russia. Maria alyokhina and nadezhda tolokonnikova, currently visiting the us as part of an international tour, also made clear that they have no intentions of tamping down their outspoken ways. \"this is certainly not the time for us to be afraid, \" says tolokonnikova. \" the situation in russia has gotten so much worse. And if we couldn't keep quiet about it then, then we certainly won't keep quiet about it now. \" alyokhina adds that the support they received from around the world made them feel free even while imprisoned. \"in light of that, it's kind of silly to talk about having to go through that a second time as something that would instill fear in us. \" the interview is fairly routine stuff, but not-so-routine was their visit to the colbert report, where stephen colbert \" met his quick-witted match, \" observes mediaite. Sample response when asked about vladimir putin: \" we have different ideas about a bright future, and we don't want a shirtless man on a horse leading us \" into that future. Watch it here.",
         "split": "test",
         "cleansed_document": [
-            "The interview segments on the colbert report are usually little more than an excuse for host stephen colbert to show off his virtuoso in-character improvisational skills, while the guests play along with varying degrees of success. On tuesday night's report, however, colbert met his quick-witted match in pussy riot, the punk band whose members were imprisoned, then released, for insulting russian president vladmir putin. Their feat was all the more impressive for the fact that they conducted the interview through a translator, which at first seemed like it might become drag on the interview. Instead, the responses from pussy riot members nadya tolokonnikova and masha alyokhina were so sharp, funny, and at times poignant, that the presence of the translator only served to hang the viewer on every word. They talked about their imprisonment and release, took shots at putin, daring him to put them back in jail, and provided alternately hilarious and sobering commentary on the state of russia's anti-gay laws. Sometimes, it seems, humor isn't lost in translation, it is revealed. Here's the video of colbert's interview with pussy riot, in two parts, from comedy central: part two: have a tip we should know? tips@mediaite.com",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "The interview segments on the colbert report are usually little more than an excuse for host stephen colbert to show off his virtuoso in-character improvisational skills, while the guests play along with varying degrees of success. On tuesday night's report, however, colbert met his quick-witted match in pussy riot, the punk band whose members were imprisoned, then released, for insulting russian president vladmir putin. Their feat was all the more impressive for the fact that they conducted the interview through a translator, which at first seemed like it might become drag on the interview. Instead, the responses from pussy riot members nadya tolokonnikova and masha alyokhina were so sharp, funny, and at times poignant, that the presence of the translator only served to hang the viewer on every word. They talked about their imprisonment and release, took shots at putin, daring him to put them back in jail, and provided alternately hilarious and sobering commentary on the state of russia's anti-gay laws. Sometimes, it seems, humor isn't lost in translation, it is revealed. Here's the video of colbert's interview with pussy riot, in two parts, from comedy central: part two: have a tip we should know? tips@mediaite.com"
         ],
         "raw_document": [
             "The interview segments on the colbert report are usually little more than an excuse for host stephen colbert to show off his virtuoso in-character improvisational skills, while the guests play along with varying degrees of success. On tuesday night's report, however, colbert met his quick-witted match in pussy riot, the punk band whose members were imprisoned, then released, for insulting russian president vladmir putin. Their feat was all the more impressive for the fact that they conducted the interview through a translator, which at first seemed like it might become drag on the interview. Instead, the responses from pussy riot members nadya tolokonnikova and masha alyokhina were so sharp, funny, and at times poignant, that the presence of the translator only served to hang the viewer on every word. They talked about their imprisonment and release, took shots at putin, daring him to put them back in jail, and provided alternately hilarious and sobering commentary on the state of russia's anti-gay laws. Sometimes, it seems, humor isn't lost in translation, it is revealed. Here's the video of colbert's interview with pussy riot, in two parts, from comedy central: part two: have a tip we should know? tips@mediaite.com",
@@ -996,18 +984,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 51037,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It's going to take decades to completely decommission the fukushima nuclear power plant, but a critical step in that process began in earnest today, reports nbc news. One of the six 136-foot covers draped over one of the plant's nuclear reactors to keep radioactive materials from seeping out is being painstakingly removed. Tepco officials say it will take till the end of 2016 to pry all six covers off, and till at least 2020 to remove the nearly 300 spent fuel rods lurking underneath. The project, which was supposed to commence last july, was previously postponed because of fears of radiation escaping. \" for the safety of fukushima's residents, we would like the work to proceed with extra care, \" says the chief of a group of monitors overseeing the project. The total cost and time for the entire decommissioning assignment: tens of billions of dollars over 30 years or so, nbc notes. Meanwhile, the japanese government today approved an increase in compensation payments to tepco to a total of $ 57.2 billion, reuters reports. That's $ 7.7 billion added onto the $ 49.5 billion in taxpayer-funded aid that tepco had previously been approved to receive. ( check out more details about the decommissioning project on tepco's dedicated website. )",
         "split": "test",
         "cleansed_document": [
             "Tokyo — a crucial stage in the decades-long job of decommissioning japan's crippled fukushima nuclear plant began tuesday, with operators starting to dismantle huge protective covers from one of the reactors. The fukushima daiichi nuclear power station suffered meltdowns in three of its six reactors after a devastating earthquake and tsunami hit the country in march 2011. The disaster killed around 16,000 people, forced some 300,000 to evacuate their homes, and left a huge area of land unusable for decades. The plant's operator, the tokyo electric power company, or tepco, installed six 136-foot covers over one of the reactors in october that year to stop radioactive materials escaping. Related: thousands of fukushima nuke refugees to be allowed home the operator began on tuesday to remove the first of these covers, an essential stage before they can extract the 292 spent fuel rods inside. They hope to remove all the covers by the end of next year, and begin extracting the fuel rods in 2020.",
-            "Tokyo ( reuters ) - japan on tuesday approved an increase in compensation payments for the fukushima crisis to 7.07 trillion yen ( $ 57.18 billion ), as tens of thousands of evacuees remain in temporary housing more than four years after the disaster. Tokyo electric power co ( tepco ), the operator of the wrecked fukushima daiichi nuclear station, will receive 950 billion yen more in public funds on top of the 6.125 trillion agreed earlier, the utility and the government said. The increase, agreed after a request by tepco, adds to the bill for taxpayers for the disaster in march 2011, when three reactors melted down after an earthquake and tsunami, in the worst nuclear crisis since chernobyl in 1986, destroying businesses and livelihoods. Tepco has face a stream of legal cases seeking compensation over the disaster. Electricity bills for japanese households have also risen 25 percent since the catastrophe as the country resorted to importing more fossils fuels with the gradual shutdown of all nuclear reactors for safety checks and upgrades. Prime minister shinzo abe's government and tepco, which was bailed out by taxpayers in 2012, are undertaking an unprecedented cleanup to lower radiation levels in towns closest to the plant, although some areas will likely remain off limits for",
-            "This video shows various measures against dust dispersion during the dismantling work of cover panels over unit 1 reactor building. At unit 1, rubble from the damaged building caused by the hydrogen explosion is still scattered and needs to be removed. Cover panels were placed over the rubble to prevent the dispersion of radioactive materials, but dismantling of the panels started in july 2015 to remove the rubble. Wall pannels will be taken down around september 2016. Watch the video here"
+            "Tokyo ( reuters ) - japan on tuesday approved an increase in compensation payments for the fukushima crisis to 7.07 trillion yen ( $ 57.18 billion ), as tens of thousands of evacuees remain in temporary housing more than four years after the disaster. Tokyo electric power co ( tepco ), the operator of the wrecked fukushima daiichi nuclear station, will receive 950 billion yen more in public funds on top of the 6.125 trillion agreed earlier, the utility and the government said. The increase, agreed after a request by tepco, adds to the bill for taxpayers for the disaster in march 2011, when three reactors melted down after an earthquake and tsunami, in the worst nuclear crisis since chernobyl in 1986, destroying businesses and livelihoods. Tepco has face a stream of legal cases seeking compensation over the disaster. Electricity bills for japanese households have also risen 25 percent since the catastrophe as the country resorted to importing more fossils fuels with the gradual shutdown of all nuclear reactors for safety checks and upgrades. Prime minister shinzo abe's government and tepco, which was bailed out by taxpayers in 2012, are undertaking an unprecedented cleanup to lower radiation levels in towns closest to the plant, although some areas will likely remain off limits for"
         ],
         "raw_document": [
             "Tokyo — a crucial stage in the decades-long job of decommissioning japan's crippled fukushima nuclear plant began tuesday, with operators starting to dismantle huge protective covers from one of the reactors. The fukushima daiichi nuclear power station suffered meltdowns in three of its six reactors after a devastating earthquake and tsunami hit the country in march 2011. The disaster killed around 16,000 people, forced some 300,000 to evacuate their homes, and left a huge area of land unusable for decades. The plant's operator, the tokyo electric power company, or tepco, installed six 136-foot covers over one of the reactors in october that year to stop radioactive materials escaping. Related: thousands of fukushima nuke refugees to be allowed home the operator began on tuesday to remove the first of these covers, an essential stage before they can extract the 292 spent fuel rods inside. They hope to remove all the covers by the end of next year, and begin extracting the fuel rods in 2020.",
@@ -1024,7 +1011,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1074,7 +1061,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1099,7 +1086,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1153,7 +1140,7 @@
             "0": 5,
             "1": 3,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1222,7 +1209,7 @@
             "5": 1,
             "6": 1,
             "7": 0,
-            "8": 0
+            "8": 1
         }
     },
     {
@@ -1335,7 +1322,7 @@
             "0": 4,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1424,13 +1411,12 @@
     },
     {
         "idx": 51052,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "President trump's social media chief had to post a retraction sunday after sharing a video that he wrongly believed showed the impact of hurricane irma. \" here is miami international airport. Stay safe!! \" tweeted white house social media director dan scavino, posting a video of flooding at an airport. He was swiftly corrected by miami international airport itself, which pointed out that the video was not from the airport, cnn reports. The real location and date of the video has not been verified, though it was posted on youtube on aug. 31 with a title suggesting that it is mexico city's airport. It resurfaced on twitter sunday mislabeled as miami. \" it was among 100s of videos/pix i am receiving, \" scavino tweeted after being corrected. \" in trying to notify all, i shared - have deleted. \" the error was noteworthy because when scavino shared the video, it was an example of the tweets he said he was sharing with trump and vice president mike pence hourly, raising questions about the accuracy of his information, the washington post reports. The white house declined to comment on how scavino was verifying posts that he shared with trump and pence. Miami international airport, meanwhile, says it will be closed until at least tuesday while damage assessment is carried out. ( irma made landfall in florida for a second time sunday. )",
         "split": "test",
         "cleansed_document": [
             "Story highlights scavino took down the post the airport replied, \" thanks, dan. \" washington ( cnn ) as hurricane irma began pelting southern florida with roaring winds and heavy rains on sunday, white house social media director dan scavino tweeted a video of what he said was a waterlogged miami international airport, only to be corrected by the airport itself. Scavino then deleted the erroneous post, one of many ostensible hurricane irma tweets that he said he was sharing with president donald trump and vice president mike pence. \" sharing #hurricaneirma on social media with president @realdonaldtrump &amp; @vp pence hourly. Here is miami international airport. Stay safe!! \" scavino wrote, adding a video of an airport covered in water. Miami international airport responded to the tweet: \" this video is not from miami international airport. \" this video is not from miami international airport. — miami int ' l airport ( @iflymia ) september 10, 2017 scavino, in turn, acknowledged the mistake and replied to the airport after deleting the tweet. Read more",
-            "White house social media director dan scavino in march. ( jabin botsford/the washington post ) president trump's social media director, dan scavino, spent most of sunday sharing with the world videos of hurricane irma's fury in florida — of a spinning stop sign and streets becoming rivers. He posted a photo of trump and vice president pence in a briefing room, too: hands folded, faces somber as they studied the storm. And in a late-afternoon tweet, scavino wrote that he was regularly sharing his tweets with both men — offering as apparent example a video of miami's flooded airport: which raised a host of questions almost immediately, after miami international airport informed scavino, pence and the president that the video was fake. This video is not from miami international airport. — miami int ' l airport ( @iflymia ) september 10, 2017 or, more accurately, that it's not a video of miami — or even of hurricane irma, apparently. The white house did not respond to questions about why scavino thought it was, or how he was verifying posts he shared with trump — or how and whether trump was using that information. But the video appeared on youtube and other sites more than a week ago, when what is now called hurricane irma was still far out at sea, as rains from hurricane harvey pummeled the gulf region. The flooded runway in scavino's tweet was not in miami, but in mexico city, according to the video titles — though the washington post has",
-            "Go to the legal help page to request content changes for legal reasons."
+            "White house social media director dan scavino in march. ( jabin botsford/the washington post ) president trump's social media director, dan scavino, spent most of sunday sharing with the world videos of hurricane irma's fury in florida — of a spinning stop sign and streets becoming rivers. He posted a photo of trump and vice president pence in a briefing room, too: hands folded, faces somber as they studied the storm. And in a late-afternoon tweet, scavino wrote that he was regularly sharing his tweets with both men — offering as apparent example a video of miami's flooded airport: which raised a host of questions almost immediately, after miami international airport informed scavino, pence and the president that the video was fake. This video is not from miami international airport. — miami int ' l airport ( @iflymia ) september 10, 2017 or, more accurately, that it's not a video of miami — or even of hurricane irma, apparently. The white house did not respond to questions about why scavino thought it was, or how he was verifying posts he shared with trump — or how and whether trump was using that information. But the video appeared on youtube and other sites more than a week ago, when what is now called hurricane irma was still far out at sea, as rains from hurricane harvey pummeled the gulf region. The flooded runway in scavino's tweet was not in miami, but in mexico city, according to the video titles — though the washington post has"
         ],
         "raw_document": [
             "Story highlights scavino took down the post the airport replied, \" thanks, dan. \" washington ( cnn ) as hurricane irma began pelting southern florida with roaring winds and heavy rains on sunday, white house social media director dan scavino tweeted a video of what he said was a waterlogged miami international airport, only to be corrected by the airport itself. Scavino then deleted the erroneous post, one of many ostensible hurricane irma tweets that he said he was sharing with president donald trump and vice president mike pence. \" sharing #hurricaneirma on social media with president @realdonaldtrump &amp; @vp pence hourly. Here is miami international airport. Stay safe!! \" scavino wrote, adding a video of an airport covered in water. Miami international airport responded to the tweet: \" this video is not from miami international airport. \" this video is not from miami international airport. — miami int ' l airport ( @iflymia ) september 10, 2017 scavino, in turn, acknowledged the mistake and replied to the airport after deleting the tweet. Read more",
@@ -1447,7 +1433,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1497,7 +1483,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1525,7 +1511,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1589,17 +1575,16 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 51058,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Residents of the world cup host city of samara are being urged to take showers in pairs because the influx of fans is putting a strain on water supplies, the ap reports. The samara communal systems utility company says the combination of a heat wave and \" thousands of guests \" have meant it's providing 10 % more cold water than normal, causing water pressure to drop in some neighborhoods. The company advises locals to \" save water — take showers in pairs, \" adding a smiley face to its message, which came via a press release, per the moscow times. Samara is due to host england's quarterfinal game against sweden on saturday.",
         "split": "test",
         "cleansed_document": [
-            "The hospitality of russian residents in this world cup season is now expected to extend to public utilities, as residents in host city samara were asked to shower in pairs to save water for use by visiting fans. Water system authorities in samara said they ramped up supplies in the last few days to accommodate increased water use during the football tournament and a recent heat wave. \"thousands of the city's visitors, who also consume water, are contributing to the increase, \" the utility company, samarskiye kommunalniye systemy, wrote in a press release on wednesday.",
-            "This will appear next to all of your comments this will not appear anywhere on newser"
+            "The hospitality of russian residents in this world cup season is now expected to extend to public utilities, as residents in host city samara were asked to shower in pairs to save water for use by visiting fans. Water system authorities in samara said they ramped up supplies in the last few days to accommodate increased water use during the football tournament and a recent heat wave. \"thousands of the city's visitors, who also consume water, are contributing to the increase, \" the utility company, samarskiye kommunalniye systemy, wrote in a press release on wednesday."
         ],
         "raw_document": [
             "The hospitality of russian residents in this world cup season is now expected to extend to public utilities, as residents in host city samara were asked to shower in pairs to save water for use by visiting fans. Water system authorities in samara said they ramped up supplies in the last few days to accommodate increased water use during the football tournament and a recent heat wave. \"thousands of the city's visitors, who also consume water, are contributing to the increase, \" the utility company, samarskiye kommunalniye systemy, wrote in a press release on wednesday.",
@@ -1614,7 +1599,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -1649,13 +1634,12 @@
     },
     {
         "idx": 51060,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A twitter photo of a dog held upside-down over a beer keg has a pair of college students in western new york facing animal cruelty charges. The young labrador retriever, mya, was apparently being forced to drink, officials say ( though another twitter user says the dog didn't actually have any beer ). Shane oliver and robert yates, both 20-year-olds at suny brockport, have been charged with torturing and injuring an animal. Oliver held the dog while yates took and posted the picture, police say, per the democrat and chronicle. The picture, which featured a person wearing a college t-shirt, was posted on a twitter account called sunypartystories before making the rounds online. It was captioned \" keg stands n bits, \" syracuse.com reports. Mya, whose owner wasn't home during the incident, is in good condition with the local dog warden.",
         "split": "test",
         "cleansed_document": [
             "A man has been arrested after a recent photo from a college at brockport: state university of new york off-campus party went viral. The picture showed a dog doing a keg stand, being held by an unidentified male with a suny brockport sweatshirt on. It was shared on twitter sunday by @sunypartystory with the caption \" keg stands n bits! \" the account, unaffiliated with the state university of new york system, shares photos from recent parties at suny schools with its 68,000-plus followers. Recent posts show college students drinking alcohol, passed out, playing flip cup, dancing in various states of undress or simply vomiting. But the image of a black labrador retriever, being held by its hind legs with the beer keg's nozzle in its mouth, prompted an investigation into concerns of animal abuse. \" we were alarmed to learn of this disturbing photo, \" the college at brockport told time warner cable news in a statement. \" the college will investigate this matter and take appropriate action once the details surrounding the photo are learned. \" brockport police arrested robert yates of brockport over the incident, twc news reported monday. Yates was charged with torturing and injuring animals, and issued a ticket for",
-            "Close ' mya ', a black lab, was held above beer keg and forced to drink from a tap, according to officials. Neeti upadhye this photo posted online led police to arrest two college at brockport students, one accused of taking the photo and the other of holding the dog. ( photo: photo provided by brockport police department ) two college at brockport students have been charged with torturing and injuring an animal after a photo was posted online of a dog being held upside down above a beer keg, appearing to drink from the tap. Shane oliver of bergen and robert yates of west seneca, both 20 were issued appearance tickets and will be back in sweden town court at noon on april 2. Brockport police said oliver is the person pictured holding the dog, a black labrador retriever named mya; yates is the person who took the photo and posted it. The event occurred off the brockport campus. \" through a joint investigation between the suny brockport police, the brockport police department and the sweden dog warden, it was learned that a dog was held upside down, and apparently forced to consume beer from a keg during a party that occurred on saturday march 8, 2014 at a",
-            "Tweet with a location you can add location information to your tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your tweet location history. Learn more"
+            "Close ' mya ', a black lab, was held above beer keg and forced to drink from a tap, according to officials. Neeti upadhye this photo posted online led police to arrest two college at brockport students, one accused of taking the photo and the other of holding the dog. ( photo: photo provided by brockport police department ) two college at brockport students have been charged with torturing and injuring an animal after a photo was posted online of a dog being held upside down above a beer keg, appearing to drink from the tap. Shane oliver of bergen and robert yates of west seneca, both 20 were issued appearance tickets and will be back in sweden town court at noon on april 2. Brockport police said oliver is the person pictured holding the dog, a black labrador retriever named mya; yates is the person who took the photo and posted it. The event occurred off the brockport campus. \" through a joint investigation between the suny brockport police, the brockport police department and the sweden dog warden, it was learned that a dog was held upside down, and apparently forced to consume beer from a keg during a party that occurred on saturday march 8, 2014 at a"
         ],
         "raw_document": [
             "A man has been arrested after a recent photo from a college at brockport: state university of new york off-campus party went viral. The picture showed a dog doing a keg stand, being held by an unidentified male with a suny brockport sweatshirt on. It was shared on twitter sunday by @sunypartystory with the caption \" keg stands n bits! \" the account, unaffiliated with the state university of new york system, shares photos from recent parties at suny schools with its 68,000-plus followers. Recent posts show college students drinking alcohol, passed out, playing flip cup, dancing in various states of undress or simply vomiting. But the image of a black labrador retriever, being held by its hind legs with the beer keg's nozzle in its mouth, prompted an investigation into concerns of animal abuse. \" we were alarmed to learn of this disturbing photo, \" the college at brockport told time warner cable news in a statement. \" the college will investigate this matter and take appropriate action once the details surrounding the photo are learned. \" brockport police arrested robert yates of brockport over the incident, twc news reported monday. Yates was charged with torturing and injuring animals, and issued a ticket for",
@@ -1672,7 +1656,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -2008,7 +1992,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2156,7 +2140,7 @@
             "1": 2,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -2184,7 +2168,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2209,7 +2193,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2378,13 +2362,12 @@
     },
     {
         "idx": 51087,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Time to face facts, ladies: the tea party express appears to be fueled by estrogen. A new film on the ferociously reactionary \" mama grizzlies \" examines candidates like sharron angle and nikki haley ( and now christine o'donnell ) rattling political races — as well as grassroots organizers of the \" reborn \" conservative movement stretching back to phyllis schafly ( who wouldn't, of course, want to be associated with anything as unladylike as a hairy bear ). The momentum, ironically, makes the republican party the current champion for number of women running for the senate, due in large part to sarah palin's \" king-making \" endorsements, notes the washington post. \"i don't know if it's that mama grizzly instinct being awakened, if women are feeling threatened, or if it's because women are feeling neglected — or empowered — but you can't deny that there's something happening today, \" conservative commentator se cupp says on the film fire from the heartland: the reawakening of the conservative woman by the right-wing citizens united. A gop pollster says no one says \" political outsider \" like a republican woman because \" so few of them \" have made it to the inner sanctums of washington. ( for more on the newest grizzly, click here. )",
         "split": "test",
         "cleansed_document": [
             "Democrats used to own the field of women running for higher office. Not anymore. Nearly two years after an anticipated gender bounce - with predictions that women in both parties would rush into politics inspired by hillary rodham clinton and sarah palin - it turns out that the momentum is on the republican side. If there is a palin effect, it is not being matched by any clinton effect at the other end of the ideological spectrum. Primaries this week accelerated the shift. Two high-profile senate races, in delaware and new hampshire, yielded female republican nominees. That makes a total of five republican women nominated for senate this cycle. Excluding incumbent senators, democrats have nominated four, and one of them was martha coakley of massachusetts, who already lost. Democratic pollster celinda lake said it is \" very fair \" to argue that the energy for female candidates is trending republican, a view several other democratic strategists shared. \" i've been struck by it, \" said dee dee myers, a former white house press secretary and author of \" why women should rule the world. \" \" all the momentum is on the tea party side, so why wouldn",
-            "The timing couldn't be sweeter for the makers of \"fire from the heartland: the reawakening of the conservative woman. \" just days after the tea party favorite christine o'donnell pulled off a stunning upset against gop establishment pick mike castle, citizens united will premiere a documentary in washington next week that they say is the first \"to tell the story of the awakening of a new generation of women that are at the forefront of today's reborn conservative movement. \" text size - + reset politico 44 the film capitalizes on what political observers and activists have already noted of this election cycle — the riders on this year's political storm are women, a sagebrush set well-positioned to help the gop reclaim the congress. Following in the bootsteps of history-making 2008 republican vice presidential nominee sarah palin — an alaskan with an affinity for \" mama grizzlies \" – a number of women candidates, including o'donnell, nevada's sharron angle, and south carolina's nikki haley, are reshaping and reenergizing the face of the gop. While women are filling in on the top of the party ticket, the documentary explores the flip side of the equation — looking",
-            "This is a set of web collections curated by mark graham using the archive-it service of the internet archive. They include web captures of the iskme.org website as well as captures from sites hosted by igc.org.these web captures are available to the general public.for more information about this collection please feel free to contact mark via send mail"
+            "The timing couldn't be sweeter for the makers of \"fire from the heartland: the reawakening of the conservative woman. \" just days after the tea party favorite christine o'donnell pulled off a stunning upset against gop establishment pick mike castle, citizens united will premiere a documentary in washington next week that they say is the first \"to tell the story of the awakening of a new generation of women that are at the forefront of today's reborn conservative movement. \" text size - + reset politico 44 the film capitalizes on what political observers and activists have already noted of this election cycle — the riders on this year's political storm are women, a sagebrush set well-positioned to help the gop reclaim the congress. Following in the bootsteps of history-making 2008 republican vice presidential nominee sarah palin — an alaskan with an affinity for \" mama grizzlies \" – a number of women candidates, including o'donnell, nevada's sharron angle, and south carolina's nikki haley, are reshaping and reenergizing the face of the gop. While women are filling in on the top of the party ticket, the documentary explores the flip side of the equation — looking"
         ],
         "raw_document": [
             "Democrats used to own the field of women running for higher office. Not anymore. Nearly two years after an anticipated gender bounce - with predictions that women in both parties would rush into politics inspired by hillary rodham clinton and sarah palin - it turns out that the momentum is on the republican side. If there is a palin effect, it is not being matched by any clinton effect at the other end of the ideological spectrum. Primaries this week accelerated the shift. Two high-profile senate races, in delaware and new hampshire, yielded female republican nominees. That makes a total of five republican women nominated for senate this cycle. Excluding incumbent senators, democrats have nominated four, and one of them was martha coakley of massachusetts, who already lost. Democratic pollster celinda lake said it is \" very fair \" to argue that the energy for female candidates is trending republican, a view several other democratic strategists shared. \" i've been struck by it, \" said dee dee myers, a former white house press secretary and author of \" why women should rule the world. \" \" all the momentum is on the tea party side, so why wouldn",
@@ -2401,7 +2384,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2457,14 +2440,13 @@
     },
     {
         "idx": 51090,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Amazon ceo jeff bezos sent out his annual letter to shareholders this week, and business insider takes note of one part in particular about the company's \" pay to quit \" program. Amazon offers some employees up to $ 5,000 to leave, and bezos explains that the principle is \" pretty simple \": \" once a year, we offer to pay our associates to quit. The first year the offer is made, it's for $ 2,000. Then it goes up one thousand dollars a year until it reaches $ 5,000. The headline on the offer is ' please don't take this offer. ' we hope they don't take the offer; we want them to stay. Why do we make this offer? the goal is to encourage folks to take a moment and think about what they really want. In the long-run, an employee staying somewhere they don't want to be isn't healthy for the employee or the company. \" the tennessean fills in some gaps: the offer is good only for employees in the company's \" fulfillment centers \" — the warehouses where all those online orders get packed and shipped. A spokeswoman tells the paper that only a \" small percentage of employees take the offer. \" the huffington post, meanwhile, notes that many of those warehouse workers are part-timers, and it's unclear whether they would qualify for the deal. Still, it's an interesting idea, writes max nisen at quartz, and it shows how bezos isn't afraid to experiment to improve his workforce.",
         "split": "test",
         "cleansed_document": [
             "Buy photo amazon received $ 30 million in property tax breaks from three counties for 20 years, and $ 14.9 million in state grants for infrastructure or job training at its five tennessee distribution facilities, state records show. ( photo: file / the tennessean ) buy photo amazon.com hopes its fulfillment center workers are happy in their jobs. But if they're not, and perhaps would rather be doing something else, amazon has a deal: the company will pay them a bonus – up to $ 5,000 – to leave. In a program that amazon aptly calls \" pay to quit, \" those who aren't committed to their jobs are urged to",
             "Here's our favorite part of amazon ceo jeff bezos ' annual letter to shareholders. He describes how the company will pay amazon's warehouse workers up to $ 5,000 to quit their jobs. The intent of the program is to ensure that amazon only retains people who really, really want to work at amazon: the second program is called pay to quit. It was invented by the clever people at zappos, and the amazon fulfillment centers have been iterating on it. Pay to quit is pretty simple. Once a year, we offer to pay our associates to quit. The first year the offer is made, it's for $ 2,000",
-            "An employee pushes a cart past rows of storage aisles as he processes customer orders ahead of shipping at one of amazon.com inc.'s fulfillment centers in rugeley, u.k., on monday, dec. 2, 2013. Online retailers in the u.k. Are anticipating their busiest day as shoppers flush with end-of-month pay-checks seek christmas deals on the web. Photographer: simon dawson/bloomberg via getty images &#124; bloomberg via getty images hate your job? then quit. In fact, we ' ll pay you to quit. That's the philosophy at amazon's warehouses, according to a new letter by company ceo jeff bezos. Here's a snippet from bezos ' letter written to",
-            "Ex-99.1 exhibit 99.1 to our shareowners: im so proud of what all the teams here at amazon have accomplished on behalf of customers this past year. Amazonians around the world are polishing products and services to a degree that is beyond whats expected or required, taking the long view, reinventing normal, and getting customers to say wow. id like to take you on a tour that samples a small subset of our various initiatives, ranging from prime to amazon smile to mayday. The goal is to give you a sense for how much is going on across amazon and how exciting it is to work on these programs. This broad array of initiatives is only possible because"
+            "An employee pushes a cart past rows of storage aisles as he processes customer orders ahead of shipping at one of amazon.com inc.'s fulfillment centers in rugeley, u.k., on monday, dec. 2, 2013. Online retailers in the u.k. Are anticipating their busiest day as shoppers flush with end-of-month pay-checks seek christmas deals on the web. Photographer: simon dawson/bloomberg via getty images &#124; bloomberg via getty images hate your job? then quit. In fact, we ' ll pay you to quit. That's the philosophy at amazon's warehouses, according to a new letter by company ceo jeff bezos. Here's a snippet from bezos ' letter written to"
         ],
         "raw_document": [
             "Buy photo amazon received $ 30 million in property tax breaks from three counties for 20 years, and $ 14.9 million in state grants for infrastructure or job training at its five tennessee distribution facilities, state records show. ( photo: file / the tennessean ) buy photo amazon.com hopes its fulfillment center workers are happy in their jobs. But if they're not, and perhaps would rather be doing something else, amazon has a deal: the company will pay them a bonus – up to $ 5,000 – to leave. In a program that amazon aptly calls \" pay to quit, \" those who aren't committed to their jobs are urged to",
@@ -2483,7 +2465,7 @@
             "0": 0,
             "1": 0,
             "2": 2,
-            "3": 0
+            "3": 3
         }
     },
     {
@@ -2541,13 +2523,12 @@
     },
     {
         "idx": 51093,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Tiger woods'second round of the us open is over, and you will currently find his name second from the bottom on the leaderboard. Which means that out of 156 golfers, he is tied for 154th place. Some are still playing, and it's possible one or two more might end up behind him, but no matter what, his 16-over-par means that he will miss the cut by a mile, reports usa today. What's more, this is pretty much business as usual for woods these days. \" at a certain point, all of the stragglers are going to let it go — the hangers-on who still believe that tiger woods has a chance to regain at least some of his past glory and start playing excellent golf once again, winning a tournament here or there and maybe even another major, \" writes steve silverman at cbs. Those looking for a new phenom might pay attention to 15-year-old cole hammer, who is about to start his second round. It's a long shot, but if he finished at 4-under today, he'd probably make the cut.",
         "split": "test",
         "cleansed_document": [
             "By steve silverman » more columns at a certain point, all of the stragglers are going to let it go — the hangers-on who still believe that tiger woods has a chance to regain at least some of his past glory and start playing excellent golf once again, winning a tournament here or there and maybe even another major. But based on what happened in the first round thursday at the u.s. Open and the third round of the memorial tournament earlier this month, those of us still holding onto tiger confidence and tiger hope are going to give it up in short order. Tiger opened with an 80 in the first round at chambers bay, and the look on his face was a familiar one when he topped his 3-wood and saw it roll up the fairway and into the hazard. The look was familiar because when i play with my buddies bobbo, junior ( aka muscles ) and ron, i often see that look on their faces when they hit a worm burner up the fairway. And they see that same expression on my face when i do it. Bobbo is always the one with the quick remark. When i hit that shot,",
-            "Woods prepares to tee off on the 12th hole friday. ( photo: michael madrid, usa today sports ) university place, wash. – tiger woods won't be heading to the weekend of the u.s. Open at chambers bay. He ' ll be heading home to florida. Woods shot 76 in the second round to go along with thursday's 80 to finish 16-over par. Masters champion jordan spieth was the leader from the early groups, coming in with a 68-67 for 5-under. Dustin johnson and henrik stenson, the co-leaders after the first round, had later tee times friday afternoon. Despite starting his second round friday with a bogey – the 10th time he's done that in his last 11 rounds – woods looked more relaxed and was more in control of his game. On his first nine holes, he shot 2-over-par 36. But he wasn't even close as the top 60 and ties will make the cut starting on the 10th, woods hit his second shot into hay near the green and had to slash out his third onto the green. On his way down the hill, he slipped and fell on his backside before",
-            "All in a day's work check out this review of the best of sports from july 31, 2016 -- including jon lester's safety squeeze to lift cubs to a walk-off win, the indians ' acquisition of andrew miller, j.j. Watts ' will to play week 1, and jimmy walker's pga championship win."
+            "Woods prepares to tee off on the 12th hole friday. ( photo: michael madrid, usa today sports ) university place, wash. – tiger woods won't be heading to the weekend of the u.s. Open at chambers bay. He ' ll be heading home to florida. Woods shot 76 in the second round to go along with thursday's 80 to finish 16-over par. Masters champion jordan spieth was the leader from the early groups, coming in with a 68-67 for 5-under. Dustin johnson and henrik stenson, the co-leaders after the first round, had later tee times friday afternoon. Despite starting his second round friday with a bogey – the 10th time he's done that in his last 11 rounds – woods looked more relaxed and was more in control of his game. On his first nine holes, he shot 2-over-par 36. But he wasn't even close as the top 60 and ties will make the cut starting on the 10th, woods hit his second shot into hay near the green and had to slash out his third onto the green. On his way down the hill, he slipped and fell on his backside before"
         ],
         "raw_document": [
             "By steve silverman » more columns at a certain point, all of the stragglers are going to let it go — the hangers-on who still believe that tiger woods has a chance to regain at least some of his past glory and start playing excellent golf once again, winning a tournament here or there and maybe even another major. But based on what happened in the first round thursday at the u.s. Open and the third round of the memorial tournament earlier this month, those of us still holding onto tiger confidence and tiger hope are going to give it up in short order. Tiger opened with an 80 in the first round at chambers bay, and the look on his face was a familiar one when he topped his 3-wood and saw it roll up the fairway and into the hazard. The look was familiar because when i play with my buddies bobbo, junior ( aka muscles ) and ron, i often see that look on their faces when they hit a worm burner up the fairway. And they see that same expression on my face when i do it. Bobbo is always the one with the quick remark. When i hit that shot,",
@@ -2564,7 +2545,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2613,7 +2594,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2696,7 +2677,7 @@
             "1": 3,
             "2": 1,
             "3": 1,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -2721,7 +2702,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     }
 ]

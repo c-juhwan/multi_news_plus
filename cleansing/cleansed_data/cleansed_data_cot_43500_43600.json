@@ -57,7 +57,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -288,7 +288,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -369,7 +369,7 @@
         "vote_count": {
             "0": 1,
             "1": 2,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -508,13 +508,12 @@
     },
     {
         "idx": 43519,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "After almost 15 hours of filibustering, democratic sen. Chris murphy declared victory early thursday morning, saying he had secured a senate vote on gun control measures. The connecticut senator, who cited the sandy hook massacre when he launched the filibuster wednesday morning, called it a day at 2: 11am, the guardian reports. He told reporters that republican leaders had agreed to vote on measures to expand background checks and ban gun sales to suspected terrorists, which will be introduced as amendments to a spending bill, reports the washington post. Murphy noted that while he had secured a vote, there's no guarantee that any republicans will actually vote in favor of the measures. During the talkathon, murphy said the orlando mass shooting was a \" devastating \" event, and that the senate \" has done absolutely nothing \" after other mass shootings. Sources from both parties tell politico that during a difficult day of negotiations on capitol hill, very little progress was made in bringing the sides together, even on such a seemingly simple measure as denying guns to suspected terrorists. ( donald trump reportedly favors a ban on such sales and plans to meet with the nra on the issue. )",
         "split": "train",
         "cleansed_document": [
             "Chris murphy, who led democrats in holding floor for more than 14 hours, says deal was struck with republicans for vote on background checks and terror watchlist a marathon democratic filibuster in the wake of the orlando nightclub massacre came to an end in the us senate on thursday morning after republicans apparently agreed to hold votes on tighter gun control measures. Chris murphy, a connecticut democrat, led the filibuster which lasted for more than 14 hours along with several colleagues. In the early hours of thursday morning in washington, murphy said a deal had been struck with republican leaders to hold votes on key measures. Murphy yielded the floor at 2.11am, saying he had won commitments from republican leaders that they would hold votes on amendments to expand background checks and ban gun sales to suspected terrorists. Chris murphy ( @chrismurphyct ) i am proud to announce that after 14+ hours on the floor,",
-            "Poster= \" http://v.politico.com/images/1155968404/201606/778/1155968404_4944693672001_4944665893001-vs.jpg?pubid=1155968404 \" true democrats end filibuster, announce gop to hold gun votes a deal on legislation to ban gun sales to suspected terrorists still looks unlikely. Sen. Chris murphy ( d-conn. ) and fellow senate democrats officially relinquished the floor early thursday morning after spending nearly 15 hours straight talking about gun control, paving the way for high-profile congressional votes on restricting firearms just days after the worst mass shooting in modern u.s. History. Despite the flurry of activity, though, the two sides appeared no closer to an agreement on gun legislation that can pass the senate. Story continued below still, the chamber is likely to vote on two democratic-backed gun measures: a proposal from sen. Dianne feinstein ( d-calif. ) meant to bar those on federal terror watch lists from obtaining firearms, and a plan from murphy and sens. Cory booker ( d-n.j. ) and chuck schumer ( d-n.y. ) mandating background",
-            "Sen. Chris murphy ( d-conn. ) ended a 14-hour filibuster to force republicans to vote on two gun control measures on june 16. He told the emotional story of a sandy hook victim before he left the floor. ( ap ) the senate is expected to vote monday on a series of competing gun-control measures that will highlight the continuing divide between democrats and republicans over how congress should respond to mass shootings. All are likely to fail as the two parties largely retreat to their respective corners on gun control after attempts to craft a compromise frayed almost as soon as they began. Senators are expected to vote on four proposals, according to senate majority whip john cornyn ( r-texas ). Two of them, backed by democrats, would seek to prevent suspected terrorists from acquiring guns and explosives and impose mandatory background checks for firearms sold at gun shows and through online dealers. Republicans are expected to"
+            "Poster= \" http://v.politico.com/images/1155968404/201606/778/1155968404_4944693672001_4944665893001-vs.jpg?pubid=1155968404 \" true democrats end filibuster, announce gop to hold gun votes a deal on legislation to ban gun sales to suspected terrorists still looks unlikely. Sen. Chris murphy ( d-conn. ) and fellow senate democrats officially relinquished the floor early thursday morning after spending nearly 15 hours straight talking about gun control, paving the way for high-profile congressional votes on restricting firearms just days after the worst mass shooting in modern u.s. History. Despite the flurry of activity, though, the two sides appeared no closer to an agreement on gun legislation that can pass the senate. Story continued below still, the chamber is likely to vote on two democratic-backed gun measures: a proposal from sen. Dianne feinstein ( d-calif. ) meant to bar those on federal terror watch lists from obtaining firearms, and a plan from murphy and sens. Cory booker ( d-n.j. ) and chuck schumer ( d-n.y. ) mandating background"
         ],
         "raw_document": [
             "Chris murphy, who led democrats in holding floor for more than 14 hours, says deal was struck with republicans for vote on background checks and terror watchlist a marathon democratic filibuster in the wake of the orlando nightclub massacre came to an end in the us senate on thursday morning after republicans apparently agreed to hold votes on tighter gun control measures. Chris murphy, a connecticut democrat, led the filibuster which lasted for more than 14 hours along with several colleagues. In the early hours of thursday morning in washington, murphy said a deal had been struck with republican leaders to hold votes on key measures. Murphy yielded the floor at 2.11am, saying he had won commitments from republican leaders that they would hold votes on amendments to expand background checks and ban gun sales to suspected terrorists. Chris murphy ( @chrismurphyct ) i am proud to announce that after 14+ hours on the floor,",
@@ -531,17 +530,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 43520,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The ebola outbreak is spreading so fast that governments are putting into place \" cordon sanitaire \" — a tactic once used to contain the black death, the new york times reports. The idea is to draw a boundary around the infected area and not allow anybody out. In this case, it's a triangular area that overlaps guinea, sierra leone, and liberia and that has seen 70 % of the ebola cases. A group encompassing all three nations set the controversial plan in motion earlier this month, reports afp. Troops reportedly began closing roads last week. Who officials aren't against it, and cdc officials say it could work if used wisely. However, there is concern that those left behind the line could be abandoned. \" it has a lot of potential to go poorly if it's not done with an ethical approach, \" says a cdc quarantine expert. Meanwhile, public opinion of ebola is rife with misunderstanding — one sign is the case of guinean medical student kadiatou fanta, an ebola survivor. Though now free of the disease, she has been shunned from school, her boyfriend has left her, and family members avoid her. \" ebola has ruined my life even though i am cured, \" she tells the ap. ( the outbreak has been traced back to a 2-year-old boy. )",
         "split": "train",
         "cleansed_document": [
-            "Conakry ( afp ) - west africa's ebola-hit nations have agreed to impose a cross-border isolation zone at the epicentre of the world's worst-ever outbreak, amid warnings that the deadly epidemic is spiralling out of control. The announcement came at an emergency summit in the guinean capital on friday to discuss the outbreak, which has killed more than 700 people, with the world health organization warning ebola could cause \" catastrophic \" loss of life and severe economic disruption if it continued to spread. View photo. \" these areas will be isolated by police and military. The people in these areas being isolated will be provided with material support, \" she said at the meeting in conakry. Opening the summit, who chief margaret chan told leaders that the response of the three countries to the epidemic had been \" woefully inadequate \", revealing that the outbreak was \" moving faster than our efforts to control it \". \" if the situation continues to deteriorate, the consequences can be catastrophic in terms of lost lives but also severe socio-economic disruption and a high risk of spread to other countries, \" chan said. She described the outbreak as \" by far the largest ever in the nearly four-decade history of this disease \". \" it is taking place in areas with fluid population movements over porous borders, and it has demonstrated",
-            "Conakry, guinea ( ap ) — the medical school professors no longer want kadiatou fanta in the classroom. Her boyfriend has broken up with her. Each day the 26-year-old eats alone and sleeps alone. Even her own family members are afraid to touch her months after she survived ebola. A healthcare worker walks near a ebola isolation unit wearing protective gear against the virus at kenema government hospital, in kenema that is in the eastern province around 300km, ( 186 miles ), from... ( associated press ) in this photo taken monday, aug. 11, 2014, sulaiman kemokai a ebola virus survivor near his house in the heigbema village in kenema situated in the eastern province around 300km, ( 186 miles ), from the... ( associated press ) in this photo taken monday, aug. 11, 2014, sulaiman kemokai a ebola virus survivor stretches in front of his house in the heigbema village in kenema situated in the eastern province around 300km, ( 186... ( associated press ) long gone are the days when she was vomiting blood and wracked by fever. And even with a certificate of health declaring her as having recovered, she says it's still as though \" ebola survivor \" is burned on her flesh. \" ebola has ruined my life even though i am cured, \" she says. \" no"
+            "Conakry ( afp ) - west africa's ebola-hit nations have agreed to impose a cross-border isolation zone at the epicentre of the world's worst-ever outbreak, amid warnings that the deadly epidemic is spiralling out of control. The announcement came at an emergency summit in the guinean capital on friday to discuss the outbreak, which has killed more than 700 people, with the world health organization warning ebola could cause \" catastrophic \" loss of life and severe economic disruption if it continued to spread. View photo. \" these areas will be isolated by police and military. The people in these areas being isolated will be provided with material support, \" she said at the meeting in conakry. Opening the summit, who chief margaret chan told leaders that the response of the three countries to the epidemic had been \" woefully inadequate \", revealing that the outbreak was \" moving faster than our efforts to control it \". \" if the situation continues to deteriorate, the consequences can be catastrophic in terms of lost lives but also severe socio-economic disruption and a high risk of spread to other countries, \" chan said. She described the outbreak as \" by far the largest ever in the nearly four-decade history of this disease \". \" it is taking place in areas with fluid population movements over porous borders, and it has demonstrated"
         ],
         "raw_document": [
             "Conakry ( afp ) - west africa's ebola-hit nations have agreed to impose a cross-border isolation zone at the epicentre of the world's worst-ever outbreak, amid warnings that the deadly epidemic is spiralling out of control. The announcement came at an emergency summit in the guinean capital on friday to discuss the outbreak, which has killed more than 700 people, with the world health organization warning ebola could cause \" catastrophic \" loss of life and severe economic disruption if it continued to spread. View photo. \" these areas will be isolated by police and military. The people in these areas being isolated will be provided with material support, \" she said at the meeting in conakry. Opening the summit, who chief margaret chan told leaders that the response of the three countries to the epidemic had been \" woefully inadequate \", revealing that the outbreak was \" moving faster than our efforts to control it \". \" if the situation continues to deteriorate, the consequences can be catastrophic in terms of lost lives but also severe socio-economic disruption and a high risk of spread to other countries, \" chan said. She described the outbreak as \" by far the largest ever in the nearly four-decade history of this disease \". \" it is taking place in areas with fluid population movements over porous borders, and it has demonstrated",
@@ -556,7 +554,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -622,12 +620,11 @@
     },
     {
         "idx": 43523,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "President obama kept his advice for gulf residents short and sweet in a press conference today, which came complete with one line that nearly all media outlets are seizing on: \" now is not the time to tempt fate. \" he made that along with a few other comments at the white house, following a briefing by janet napolitano and fema administrator craig fugate. \" i encourage all residents of the gulf coat to listen to local officials and follow their directions, including if they tell you to evacuate. We're dealing with a big storm. Now is not the time to tempt fate, and now is not the time to dismiss official warnings. You need to take this seriously. \" obama had earlier declared a state of emergency in louisiana. Meanwhile, isaac gets nearer to hurricane status, per the national hurricane center's twitter feed. Its latest tweet reads: \" tropical storm # isaac intermediate advisory 29a issued. Reconnaissance aircraft find isaac nearly a hurricane \"",
         "split": "train",
         "cleansed_document": [
-            "Aug. 28, 2012 in a brief press conference tuesday morning, president barack obama said it is imperative for citizens to listen to their local governments as tropical storm isaac approaches and nears hurricane strength. The washington post correction: clarification:",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "Aug. 28, 2012 in a brief press conference tuesday morning, president barack obama said it is imperative for citizens to listen to their local governments as tropical storm isaac approaches and nears hurricane strength. The washington post correction: clarification:"
         ],
         "raw_document": [
             "Aug. 28, 2012 in a brief press conference tuesday morning, president barack obama said it is imperative for citizens to listen to their local governments as tropical storm isaac approaches and nears hurricane strength. The washington post correction: clarification:",
@@ -642,7 +639,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -804,7 +801,7 @@
         "vote_count": {
             "0": 2,
             "1": 1,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -834,13 +831,12 @@
     },
     {
         "idx": 43531,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Teresa giudice is apparently unhappy that she's headed to prison for 15 months — so unhappy that the reality star is suing her former attorney for $ 5 million, claiming it's his fault. The new jersey real housewife says james kridel, who handled the family's original 2010 bankruptcy filing, botched that filing and then \" prepared faulty amendments \" to it, the new york daily news reports. She also says kridel didn't adequately prepare her for her hearing before a bankruptcy court trustee and creditors to whom the family owed money; the trustee objected to the giudices ' bankruptcy filing, which led to them being hit with fraud charges and ultimately convictions. Specifically, giudice claims kridel did not meet with her prior to filing the documents, and did not list assets including her cars, rental property income, and even some bank accounts, tmz reports. In october, kridel told people he \" did not believe that teresa was all that knowledgeable about any of the finances of her family until ultimately she became the breadwinner. Everyone seems to blame her that she knew or should have known, \" he said. \" i don't find that to be true in real life, though. People come in and sign tax returns quite often, and the spouse who is not in charge of the finances has no information. They just do what the accountant tells them. \" ( click to see pictures of the $ 4 million mansion the giudices were forced to put on the market. )",
         "split": "train",
         "cleansed_document": [
             "Teresa giudice didn't understand anything about finances, says former attorney want more stories like this? sign up for our newsletter and other special offers: sign me up thank you for signing up! while teresa giudice may have pleaded guilty to bank and wire fraud charges in connection to a long-running financial conspiracy with husband joe giudice, her former attorney jim kridel – who represented the couple back in 2010 in their original bankruptcy case – says it's possible she may have committed the crimes unknowingly. \" i did not believe that teresa was all that knowledgeable about any of the finances of her family until ultimately she became the breadwinner, \" kridel tells people. \" everyone seems to blame her that she knew or should have known. I don't find that to be true in real life, though, \" he says. \" people come in and sign tax",
-            "Teresa giudice sues lawyer he's the reason i ' m going to prison teresa giudice sues lawyer... He's the reason i ' m going to prison exclusive can't even do bankruptcy right... And she blames it on her lawyer whom she is now suing.teresa claims in her new lawsuit -- obtained by tmz -- he was a slacker who never even met with her prior to filing bankruptcy docs.she also says he was sloppy as hell, not bothering to list key assets such as her cars, her rental property income and various bank accounts.giudice claims he's the reason she got nailed with bankruptcy fraud and that's why she's going to prison for 15 months.teresa says it's a classic case of malpractice, and she wants minimum 5 mil. By the way... If you see any stories later today saying she's suing for $ 15",
-            "Real housewives of new jersey star teresa giudice and her husband joe are awaiting possible prison time after pleading guilty to a multimillion-dollar fraud scheme. But they might lose something other than freedom: their house. The couple put their $ 4 million mansion up for sale, and you can now peek inside, drooling at the opulence or scoffing at the ostentatious display of wealth. It's not exactly kid-friendly, though. How the heck did tre and joe live there with four young daughters? sidebar: but how gorg is the girl's bedroom? the pair could go from this big house to the big house after joe was accused of hiding assets and income -- which would have been easy to stash away in this six-bedroom, six-bathroom manse on three acres of land! so without further ado, let's take a look at the home that fabellini and fraud built"
+            "Teresa giudice sues lawyer he's the reason i ' m going to prison teresa giudice sues lawyer... He's the reason i ' m going to prison exclusive can't even do bankruptcy right... And she blames it on her lawyer whom she is now suing.teresa claims in her new lawsuit -- obtained by tmz -- he was a slacker who never even met with her prior to filing bankruptcy docs.she also says he was sloppy as hell, not bothering to list key assets such as her cars, her rental property income and various bank accounts.giudice claims he's the reason she got nailed with bankruptcy fraud and that's why she's going to prison for 15 months.teresa says it's a classic case of malpractice, and she wants minimum 5 mil. By the way... If you see any stories later today saying she's suing for $ 15"
         ],
         "raw_document": [
             "Teresa giudice didn't understand anything about finances, says former attorney want more stories like this? sign up for our newsletter and other special offers: sign me up thank you for signing up! while teresa giudice may have pleaded guilty to bank and wire fraud charges in connection to a long-running financial conspiracy with husband joe giudice, her former attorney jim kridel – who represented the couple back in 2010 in their original bankruptcy case – says it's possible she may have committed the crimes unknowingly. \" i did not believe that teresa was all that knowledgeable about any of the finances of her family until ultimately she became the breadwinner, \" kridel tells people. \" everyone seems to blame her that she knew or should have known. I don't find that to be true in real life, though, \" he says. \" people come in and sign tax",
@@ -857,19 +853,18 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
         "idx": 43532,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Washington state is suing motel 6 for selling out its guests, accusing the budget motel chain of voluntarily giving ice officials daily lists with guests'driver's license numbers, dobs, and room numbers, reports kiro 7. \" the scale of what motel 6 was doing is deeply disturbing to me, \" says state ag bob ferguson, per the wall street journal. Ferguson says motel 6 flouted the state's consumer protection act more than 9,000 times at at least six hotels over more than two years, and ice agents would scour the lists for \" latino-sounding names, \" among others, per a release. Ferguson notes motel 6, which says at least six people were detained, even trained new hires on giving data to ice. The complaint, which seeks $ 2,000 per violation, is just one step the state has taken against president trump's immigration crackdown, with other suits already filed on daca and deportations. A spokeswoman from ice, which wasn't listed as a defendant in the suit, noted to the journal that \" viable enforcement tips \" were received \" from a host of sources \" on \" highly dangerous illegal enterprises \" she says take place at hotels and motels; she didn't name motel 6 itself. The company, however, has conceded it gave away guest information, issuing a statement last year saying it happened \" at the local level without the knowledge of senior management. \" ferguson rebuts that, noting the chain has done the same in arizona. The company says it's now revamping its guidelines and will instruct all of its 1,400-plus locations not to hand over guest info without legal papers. \" a guest's activities in their property, particularly their hotel room, is expected to be kept private, \" a hospitality law attorney tells the journal. \" that's one of the basic understandings. \"",
         "split": "train",
         "cleansed_document": [
             "The state of washington is suing motel 6, alleging the low-cost hotel chain repeatedly provided detailed information about guests to federal immigration authorities for at least two years in violation of a state consumer protection law. Washington attorney general bob ferguson said wednesday that at least six corporate-owned hotels provided u.s. Immigration and customs enforcement officials daily lists of guests, including their names, driver's license numbers, dates of birth and room numbers....",
             "0 washington state sues motel 6 for sharing guest lists with ice washington state attorney general bob ferguson has sued motel 6, charging the company with sharing its guest lists with the u.s. Immigration and customs enforcement agency. He says the company violated privacy rights and discriminated against thousands of washingtonians. The motel company voluntarily gave the guest lists to ice on a routine basis for at least two years, according to ferguson. Each time motel 6 released a guest list, it included the name and private information of every guest at the hotel, the lawsuit says. Personal information released included customers'driver's license numbers, room numbers, names, guest identification numbers, dates of birth and license plate numbers, according to the lawsuit.",
-            "Motel 6 provided guests ' personal information to law enforcement without warrant seattle — attorney general bob ferguson today announced a lawsuit against national hotel chain motel 6 for voluntarily providing guest lists to agents of u.s. Immigration and customs enforcement ( ice ) on a routine basis for at least two years. Each time motel 6 released a guest list, it included the name and private information of every guest at the hotel. The attorney general's office began to investigate motel 6 locations in washington after two motel 6 locations in arizona made national news for voluntarily providing guests ' personal information to ice. Motel 6 admits that at least six of its washington state locations shared personal information of its guests with ice. This lead to significant consequences including the",
-            "Contact: email consumer resource center available monday - friday, 10 a.m. - 3 p.m. 1-800-551-4636 ( washington only ) 206-464-6684 file a consumer complaint file an online complaint here mail paper complaint forms to: attorney general's office consumer resource center 800 fifth avenue, suite 2000 seattle, wa 98104 overview the consumer protection division is composed of attorneys and professional staff. The division enforces the consumer protection act ( rcw 19.86 ) and other statutes to help keep the washington marketplace free of unfair and deceptive practices. The division investigates and files legal actions to stop unfair and deceptive practices, recovers refunds for consumers, seeks penalties against offending entities, and recovers costs and fees to ensure that wrongdoers pay for their actions. Division staff participate in the"
+            "Motel 6 provided guests ' personal information to law enforcement without warrant seattle — attorney general bob ferguson today announced a lawsuit against national hotel chain motel 6 for voluntarily providing guest lists to agents of u.s. Immigration and customs enforcement ( ice ) on a routine basis for at least two years. Each time motel 6 released a guest list, it included the name and private information of every guest at the hotel. The attorney general's office began to investigate motel 6 locations in washington after two motel 6 locations in arizona made national news for voluntarily providing guests ' personal information to ice. Motel 6 admits that at least six of its washington state locations shared personal information of its guests with ice. This lead to significant consequences including the"
         ],
         "raw_document": [
             "The state of washington is suing motel 6, alleging the low-cost hotel chain repeatedly provided detailed information about guests to federal immigration authorities for at least two years in violation of a state consumer protection law. Washington attorney general bob ferguson said wednesday that at least six corporate-owned hotels provided u.s. Immigration and customs enforcement officials daily lists of guests, including their names, driver's license numbers, dates of birth and room numbers....",
@@ -888,7 +883,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 4
         }
     },
     {
@@ -923,13 +918,12 @@
     },
     {
         "idx": 43534,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "To snoop dogg, roots, 12 years a slave, underground, and other depictions of slavery apparently aren't important history lessons, but attempts to rub black people's faces in the oppression they suffered centuries ago. In an expletive-filled instagram video, the rapper urges fans to steer clear of the history channel's roots remake, people reports. \" they gonna just keep beating that [ expletive ] in our heads of how they did us, huh? \" he says. \" they just want to keep showing the abuse that we took hundreds and hundreds of years ago. But, guess what? we taking the same abuse. \" he then wonders: \" when you all going to make a [ expletive ] series about the success black folks is having? \" many instagram commenters strongly disagreed with snoop. \" if the main theme one gets out of roots is people getting beat then they may be viewing the series with tunnel vision and miss the resilience, strength, and humanity of a people in the face of unimaginable conditions, \" wrote \" monecho1. \" before snoop's comments, roots remake co-producer levar burton, who starred in the original series, told usa today that the new series should be part of the national conversation. \" if you are living in america right now, then the story of slavery is relevant to you, because it's shaped the country and the culture in which you live, whether you want to admit that or not, \" he said. The guardian notes that snoop said black people should create works based on \" how we inspire people today \" and is walking it like he talks it: he's starring in the coach snoop reality series about the snoop youth football league, which he set up to help inner-city children.",
         "split": "train",
         "cleansed_document": [
             "Close skip in skip x embed x share the california rapper posted a rant on instagram saying the \" roots \" remake by history channel that debuted on memorial day is offensive. He says he wishes more positive films and tv shows would be made about african-americans. Usa today snoop dogg performs in new york on may 3, 2016. ( photo: jamie mccarthy, getty images for aol ) rapper and actor snoop dogg is calling for a boycott of the new roots miniseries in an expletive-filled social media post. In the video on instagram and twitter, snoop dogg rails about the remake of roots, which premieres monday as a four-night series on history, a&e and lifetime channels. The remake is based on abc's landmark 1977 miniseries of the same name, taken from author alex haley's 1976 novel, which explored the horrors of american slavery. \" i ' m sick of this.... How the ( expletive ) they gonna put roots on memorial day? \" a subdued snoop dogg asks in the selfie video. \" they just going to keep beating that ( expletive ) into our heads as to how they did us, huh? \" warning: video contains extensive profanity. Message 💫👍🏾🕊🕊 a video posted by",
-            "Snoop dogg snoop dogg lambasts roots remake: ' i can't watch it ' rapper says he is sick of films and tv shows that depict historical racial abuse against african americans when they are still 'taking the same abuse'snoop dogg arrives at the premiere of coach snoop. Photograph: jerod harris/getty images the remake of roots has gained widespread critical acclaim – but not from snoop dogg, who posted a short video on instagram on monday criticising the show, and suggesting that african americans should not watch it. In the video, the rapper said that he was fed up with watching films and tv shows that depicted the abuse of black americans. \"12 years a slave, roots, underground, i can't watch none of that shit, \" snoop dogg said, also taking aim at the steve mcqueen-directed oscar-winning film and the wgn tv series about slaves in georgia escaping via an underground railroad, which was recently renewed for a second season. Roots remake: seminal slavery narrative still resonates in revamped miniseries read more \"they just want to keep showing us the abuse that we took hundreds and hundreds of years ago, \" said snoop dogg. \"but guess what – we're taking the same abuse. Think about that",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Snoop dogg snoop dogg lambasts roots remake: ' i can't watch it ' rapper says he is sick of films and tv shows that depict historical racial abuse against african americans when they are still 'taking the same abuse'snoop dogg arrives at the premiere of coach snoop. Photograph: jerod harris/getty images the remake of roots has gained widespread critical acclaim – but not from snoop dogg, who posted a short video on instagram on monday criticising the show, and suggesting that african americans should not watch it. In the video, the rapper said that he was fed up with watching films and tv shows that depicted the abuse of black americans. \"12 years a slave, roots, underground, i can't watch none of that shit, \" snoop dogg said, also taking aim at the steve mcqueen-directed oscar-winning film and the wgn tv series about slaves in georgia escaping via an underground railroad, which was recently renewed for a second season. Roots remake: seminal slavery narrative still resonates in revamped miniseries read more \"they just want to keep showing us the abuse that we took hundreds and hundreds of years ago, \" said snoop dogg. \"but guess what – we're taking the same abuse. Think about that"
         ],
         "raw_document": [
             "Close skip in skip x embed x share the california rapper posted a rant on instagram saying the \" roots \" remake by history channel that debuted on memorial day is offensive. He says he wishes more positive films and tv shows would be made about african-americans. Usa today snoop dogg performs in new york on may 3, 2016. ( photo: jamie mccarthy, getty images for aol ) rapper and actor snoop dogg is calling for a boycott of the new roots miniseries in an expletive-filled social media post. In the video on instagram and twitter, snoop dogg rails about the remake of roots, which premieres monday as a four-night series on history, a&e and lifetime channels. The remake is based on abc's landmark 1977 miniseries of the same name, taken from author alex haley's 1976 novel, which explored the horrors of american slavery. \" i ' m sick of this.... How the ( expletive ) they gonna put roots on memorial day? \" a subdued snoop dogg asks in the selfie video. \" they just going to keep beating that ( expletive ) into our heads as to how they did us, huh? \" warning: video contains extensive profanity. Message 💫👍🏾🕊🕊 a video posted by",
@@ -946,7 +940,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1111,12 +1105,11 @@
     },
     {
         "idx": 43541,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When he woke up yesterday, tyrannosaurus rex's name was tyler gold. But after a court hearing, the 23-year-old nebraska man can legally call himself the king of the lizards, the york news times reports, in a story spotted by npr. Gold told the court he was changing his name \" because the ( t-rex designation ) is cooler. Also, as an entrepreneur, name recognition is important, and the new name is more recognizable. \" the court deemed that sensible, and now his legal name is tyrannosaurus rex joseph gold. Maybe he can hang out with beezow doo-doo zopittybop-bop-bop?",
         "split": "train",
         "cleansed_document": [
-            "Must reads nebraska man changes his name to'tyrannosaurus rex ' i itoggle caption oli scarff/getty images oli scarff/getty images he made this decision before scientists told us that, back in the prehistoric day, dinosaur farts likely contributed to climate change: tyler gold of york, neb., is now officially named tyrannosaurus rex joseph gold, the local york news times reports. But there's no sign that tyler... Er, tyrannosaurus rex... Is rethinking his choice because of any breaking news about breaking wind. According to the news times: \" in gold's official filing with the court, he said he wanted to change his name ' because the ( t-rex designation ) is cooler. Also, as an entrepreneur, name recognition is important and the new name is more recognizable. ' he verbally repeated his reasoning during the court proceedings, while on the witness stand [ monday ]. \" of course, he probably isn't even in first place on the two-way's list of guys with unusual names. Who's going to top beezow doo-doo zopittybop-bop-bop? one last note: here's another reason why this old hack/new blogger still loves local newspapers. Back in march, between notes about child support and divorce cases, the news times slipped in a notice that the local court would be considering \" the matter of the name change of tyler joseph gold, york,... Seeking change to tyrannosaurus rex joseph gold. \" that's news you can use.",
-            "Sorry, this zipcode is not in our deliverable area for this subscription service. Re-enter zip code or sign up for digital access. Get digital access"
+            "Must reads nebraska man changes his name to'tyrannosaurus rex ' i itoggle caption oli scarff/getty images oli scarff/getty images he made this decision before scientists told us that, back in the prehistoric day, dinosaur farts likely contributed to climate change: tyler gold of york, neb., is now officially named tyrannosaurus rex joseph gold, the local york news times reports. But there's no sign that tyler... Er, tyrannosaurus rex... Is rethinking his choice because of any breaking news about breaking wind. According to the news times: \" in gold's official filing with the court, he said he wanted to change his name ' because the ( t-rex designation ) is cooler. Also, as an entrepreneur, name recognition is important and the new name is more recognizable. ' he verbally repeated his reasoning during the court proceedings, while on the witness stand [ monday ]. \" of course, he probably isn't even in first place on the two-way's list of guys with unusual names. Who's going to top beezow doo-doo zopittybop-bop-bop? one last note: here's another reason why this old hack/new blogger still loves local newspapers. Back in march, between notes about child support and divorce cases, the news times slipped in a notice that the local court would be considering \" the matter of the name change of tyler joseph gold, york,... Seeking change to tyrannosaurus rex joseph gold. \" that's news you can use."
         ],
         "raw_document": [
             "Must reads nebraska man changes his name to'tyrannosaurus rex ' i itoggle caption oli scarff/getty images oli scarff/getty images he made this decision before scientists told us that, back in the prehistoric day, dinosaur farts likely contributed to climate change: tyler gold of york, neb., is now officially named tyrannosaurus rex joseph gold, the local york news times reports. But there's no sign that tyler... Er, tyrannosaurus rex... Is rethinking his choice because of any breaking news about breaking wind. According to the news times: \" in gold's official filing with the court, he said he wanted to change his name ' because the ( t-rex designation ) is cooler. Also, as an entrepreneur, name recognition is important and the new name is more recognizable. ' he verbally repeated his reasoning during the court proceedings, while on the witness stand [ monday ]. \" of course, he probably isn't even in first place on the two-way's list of guys with unusual names. Who's going to top beezow doo-doo zopittybop-bop-bop? one last note: here's another reason why this old hack/new blogger still loves local newspapers. Back in march, between notes about child support and divorce cases, the news times slipped in a notice that the local court would be considering \" the matter of the name change of tyler joseph gold, york,... Seeking change to tyrannosaurus rex joseph gold. \" that's news you can use.",
@@ -1131,7 +1124,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1245,19 +1238,18 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 43546,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The world health organization delivered bad news to bacon lovers monday morning, declaring that the breakfast staple causes cancer. In fact, the report by a who research arm found that all processed meats, including sausages, ham, and hot dogs, are carcinogens, reports the guardian. Specifically, the report says that 50 grams a day — about two slices of bacon — raises the risk of colorectal cancer by 18 %, reports the bbc. The report also declared that red meat itself is \" probably \" carcinogenic, not going quite as far as its warning over processed meats. Still, the controversial assertions go further than those of other health groups such as the american cancer society, which have merely warned of possible links between the consumption of such foods and a heightened risk of cancer, reports the washington post. \" for an individual, the risk of developing colorectal cancer because of their consumption of processed meat remains small, but this risk increases with the amount of meat consumed, \" says a who doctor. Expect a furious pushback from the global meat industry, reports the financial times. Already, the north american meat institute has accused the who of \" dramatic and alarmist over-reach. \" most coverage cites coverage from medical experts on both sides of the debate, and the guardian quotes a general practitioner who strikes a middle ground. \" i think we have to take it within reason in that if you are stuffing in burgers and sausages and bacon every day, yes, you are at risk, \" she says. \"if you have some healthy, locally made high-protein sausage once a fortnight, well, i personally don't consider that a risk. \" ( you could also eat this instead of bacon. )",
         "split": "train",
         "cleansed_document": [
             "Image copyright thinkstock processed meats - such as bacon, sausages and ham - do cause cancer, according to the world health organization ( who ). Its report said 50g of processed meat a day - less than two slices of bacon - increased the chance of developing colorectal cancer by 18 %. Meanwhile, it said red meats were \" probably carcinogenic \" but there was limited evidence. The who did stress that meat also had health benefits. Cancer research uk said this was a reason to cut down rather than give up red and processed meats. And added that an occasional bacon sandwich would do little harm. What is processed meat? processed meat has been",
             "Who expected to highlight dangers of bacon, sausages, ham and burgers – and even fresh red meat is to be listed as unhealthy the world health organisation is expected to issue new guidelines warning that processed meat products such as bacon and sausages are a cancer risk on the scale of smoking and asbestos. Reports have claimed the un's health body will highlight the dangers of eating processed meats by putting bacon, burgers, ham and sausages on its list of cancer-causing substances. Even fresh red meat is expected to be listed on monday as unhealthy. According to the latest survey of the british diet, the average adult eats around 71g of red meat a day",
-            "A new world health organization study found that processed meat like bacon and hot dogs cause cancer. It is the most prominent group to declare it a cause of the disease, and the u.s. Beef industry isn't happy about it. ( jenny starrs/the washington post ) a research division of the world health organization announced monday that bacon, sausage and other processed meats cause cancer and that red meat probably does, too. The report by the influential group stakes out one of the most aggressive stances against meat taken by a major health organization, and it is expected to face stiff criticism in the united states. The who findings were drafted by a panel of",
-            "If you like bacon, you ' ll love this. And if you don't like bacon, wtf? researchers at oregon state have patented a new strain of seaweed. But if you're thinking, \"yes! i love seaweed salad, \" you've got it all wrong. This new strain of seaweed actually tastes like bacon when it's cooked. No, this is not a drill. The seaweed is a form of red marine algae and looks like a translucent red lettuce. It has twice the nutritional value of kale — and yes, it still tastes like bacon. Oregon state researcher chris langdon told business insider that his"
+            "A new world health organization study found that processed meat like bacon and hot dogs cause cancer. It is the most prominent group to declare it a cause of the disease, and the u.s. Beef industry isn't happy about it. ( jenny starrs/the washington post ) a research division of the world health organization announced monday that bacon, sausage and other processed meats cause cancer and that red meat probably does, too. The report by the influential group stakes out one of the most aggressive stances against meat taken by a major health organization, and it is expected to face stiff criticism in the united states. The who findings were drafted by a panel of"
         ],
         "raw_document": [
             "Image copyright thinkstock processed meats - such as bacon, sausages and ham - do cause cancer, according to the world health organization ( who ). Its report said 50g of processed meat a day - less than two slices of bacon - increased the chance of developing colorectal cancer by 18 %. Meanwhile, it said red meats were \" probably carcinogenic \" but there was limited evidence. The who did stress that meat also had health benefits. Cancer research uk said this was a reason to cut down rather than give up red and processed meats. And added that an occasional bacon sandwich would do little harm. What is processed meat? processed meat has been",
@@ -1276,7 +1268,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1305,12 +1297,11 @@
     },
     {
         "idx": 43548,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Every dog owner knows the \" guilty dog \" look that has made sites like dogshaming.com a hit, but animal behavior experts say the pooches don't really feel ashamed at all, the ap finds. Researchers have found that the droopy-eyed, cowering look dogs give angry owners is a reaction to the anger, not any expression of guilt over shoe-chewing or food-stealing that happened hours earlier. \" i don't think dogs actually feel shame, \" says pascal lemire, creator of dogshaming.com and author of the book the same name. \" i think they know how to placate us with this sad puppy-dog look that makes us think they're ashamed of what they've done. \" a psychologist who researched the \" guilty dog look \" says \" the ' look ' appeared most often when owners scolded their dogs, regardless of whether the dog had disobeyed or did something for which they might or should feel guilty. It wasn't ' guilt ' but a reaction to the owner that prompted the look. \" she adds that while it's possible that dogs may feel guilt, there is a difference between that and shame, and the \" guilty look \" is no sign of either. In tulsa, okla., meanwhile, two dogs are presumably feeling no shame after going for a joyride in their owner's pickup, fox 23 reports. Their owner says he briefly left them alone in the truck and one of them put it into gear, sending it three blocks down a hill. It came to a stop in a riverbed and while the dogs were fine, the truck was badly damaged.",
         "split": "train",
         "cleansed_document": [
-            "Tulsa, okla. -- a runaway pickup with two dogs at the wheel. It happened tuesday in tulsa near 25th and riverside drive. No one was injured, but thanks to the two canines traffic was backed up and their owner's truck is badly damaged. The dogs, roscoe and luna, were inside their owner's truck at the top of the hill on 25th street. In a matter of minutes, they were barreling across riverside drive and into the arkansas river river bed. \" it's an expensive joy ride, \" the dogs ' owner, scott said. Scott told fox 23 he left his dogs inside his truck for about 15 minutes while he went inside a home. \" i got around to the front of the house where the truck was, and it's like not there, \" he said. \" and i was like'did i get towed? ' and i just thought no it didn't. \" one of the dogs put the car into gear and they took off. \" approximately three blocks down a hill, \" tulsa firefighter clay ayers said. The dogs missed drivers on riverside drive, runners on the trail and narrowly missed landing in the arkansas river. \" two boys on skateboards seen the vehicle leave in front of the residence and they did try to catch up with it with no luck, \" said ayers. Police decided to let roscoe and luna off scot-free.",
-            "Alice likes vegetables, but the ones she harvests herself are probably the best to her way of thinking. We always make sure she doesn't overdo eating salads, but sometimes when no one is paying attention …."
+            "Tulsa, okla. -- a runaway pickup with two dogs at the wheel. It happened tuesday in tulsa near 25th and riverside drive. No one was injured, but thanks to the two canines traffic was backed up and their owner's truck is badly damaged. The dogs, roscoe and luna, were inside their owner's truck at the top of the hill on 25th street. In a matter of minutes, they were barreling across riverside drive and into the arkansas river river bed. \" it's an expensive joy ride, \" the dogs ' owner, scott said. Scott told fox 23 he left his dogs inside his truck for about 15 minutes while he went inside a home. \" i got around to the front of the house where the truck was, and it's like not there, \" he said. \" and i was like'did i get towed? ' and i just thought no it didn't. \" one of the dogs put the car into gear and they took off. \" approximately three blocks down a hill, \" tulsa firefighter clay ayers said. The dogs missed drivers on riverside drive, runners on the trail and narrowly missed landing in the arkansas river. \" two boys on skateboards seen the vehicle leave in front of the residence and they did try to catch up with it with no luck, \" said ayers. Police decided to let roscoe and luna off scot-free."
         ],
         "raw_document": [
             "Tulsa, okla. -- a runaway pickup with two dogs at the wheel. It happened tuesday in tulsa near 25th and riverside drive. No one was injured, but thanks to the two canines traffic was backed up and their owner's truck is badly damaged. The dogs, roscoe and luna, were inside their owner's truck at the top of the hill on 25th street. In a matter of minutes, they were barreling across riverside drive and into the arkansas river river bed. \" it's an expensive joy ride, \" the dogs ' owner, scott said. Scott told fox 23 he left his dogs inside his truck for about 15 minutes while he went inside a home. \" i got around to the front of the house where the truck was, and it's like not there, \" he said. \" and i was like'did i get towed? ' and i just thought no it didn't. \" one of the dogs put the car into gear and they took off. \" approximately three blocks down a hill, \" tulsa firefighter clay ayers said. The dogs missed drivers on riverside drive, runners on the trail and narrowly missed landing in the arkansas river. \" two boys on skateboards seen the vehicle leave in front of the residence and they did try to catch up with it with no luck, \" said ayers. Police decided to let roscoe and luna off scot-free.",
@@ -1325,7 +1316,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1355,14 +1346,13 @@
     },
     {
         "idx": 43550,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Pretty much anything having to do with guy fieri and his insane restaurant menu items is sure to be entertaining, and the latest story is no exception: eater published the full menu from fieri's newly-opened vegas kitchen &amp; bar in sin city, and it led both slate and gawker to compare it to poetry. In fact, on slate, lv anderson actually makes a poem out of the menu simply by removing the rampant exclamation points. Sample lines: \" we have built this salad in a crown of prosciutto-wrapped smoked provolone: / go big or go home. \" on gawker, caity weaver makes a similar observation, calling the above \" crown of prosciutto \" line \" eerie \" and \" evocative. \" weaver calls out some of the craziest menu items, the best of which could very well be, as weaver puts it: \" a burger ('the mayor of flavortown burger, ' $ 17 ) arrives violently smothered under a blanket made of meat ( ' meat blanket ' ). \" ca pinkham goes a step further on jezebel, mocking nearly every menu item: \" ' wow-sabi? ' is that like wasabi, but with added essence of douchebag? \" as for dessert, the week's roundup of the best items describes guy's cheesecake challenge as \" a dessert topped with two snacks and another dessert. \"",
         "split": "train",
         "cleansed_document": [
             "It takes a truly special human being to combine pretension and douchebro-ed-ness into something that, when you take a step back, starts to look like elaborate, brilliant performance art. Guy fieri is that human, except that nothing he does is intended as satire. As of monday, we have the menu for fieri's new las vegas restaurant, guy fieri's vegas kitchen and bar, and we're going to mock damn near every single thing on it in excruciating detail. You remember guy fieri, don't you? of course you do. How could you forget him? he looks like the end result of a hedgehog having sex with kevin smith and he sounds like every unbelievably irritating \" class clown \" you had to put up with in middle school. Remember teddy, the kid who",
             "Earlier this week guy fieri, the demon barber of flavortown, flung open the doors to his newest foodatorium, guy fieri's vegas kitchen &amp; bar. There were no survivors. Eater published the full menu ( with prices ) on monday. The bill of fare is packed with eerie, evocative lines ( \" we have built this salad in a crown of prosciutto-wrapped smoked provolone \" ) and sprinkled with a liberal dusting of exclamation points ( \" we have built this salad in a crown of prosciutto-wrapped smoked provolone! \" ). At times, the menu appears to be warning prospective customers about itself. \" these wings are certainly not for the faint of heart &amp; should probably be illegal, \" it cautions of \" fireball whiskey wings, \" which it continues to advertise despite the fact they should probably be illegal",
-            "Photo by jason merritt/getty images eater unveiled the menu for guy fieri's vegas kitchen &amp; bar earlier this week, and it is chockablock with \"'wow-sabi ' cream, \" \"gnarly greek salad, \" and \"guy's famous donkey sauce. \" it's also chockablock with exclamation points — 21 of them, by my count, starting with the very first item on the menu. ( sashimi won-tacos are allegedly \"everyone's fave 'cuz they're wicked tasty! \" ) l.v. Anderson l.v. Anderson is a slate associate editor. But would fieri's menu sound quite as jocular without all those excitable punctuation marks? when i started taking the exclamation points out, i discovered that some of fieri's descriptions of greasy bar food convey a powerful poignancy. Advertisement the following poem is comprised of 10 of",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Photo by jason merritt/getty images eater unveiled the menu for guy fieri's vegas kitchen &amp; bar earlier this week, and it is chockablock with \"'wow-sabi ' cream, \" \"gnarly greek salad, \" and \"guy's famous donkey sauce. \" it's also chockablock with exclamation points — 21 of them, by my count, starting with the very first item on the menu. ( sashimi won-tacos are allegedly \"everyone's fave 'cuz they're wicked tasty! \" ) l.v. Anderson l.v. Anderson is a slate associate editor. But would fieri's menu sound quite as jocular without all those excitable punctuation marks? when i started taking the exclamation points out, i discovered that some of fieri's descriptions of greasy bar food convey a powerful poignancy. Advertisement the following poem is comprised of 10 of"
         ],
         "raw_document": [
             "It takes a truly special human being to combine pretension and douchebro-ed-ness into something that, when you take a step back, starts to look like elaborate, brilliant performance art. Guy fieri is that human, except that nothing he does is intended as satire. As of monday, we have the menu for fieri's new las vegas restaurant, guy fieri's vegas kitchen and bar, and we're going to mock damn near every single thing on it in excruciating detail. You remember guy fieri, don't you? of course you do. How could you forget him? he looks like the end result of a hedgehog having sex with kevin smith and he sounds like every unbelievably irritating \" class clown \" you had to put up with in middle school. Remember teddy, the kid who",
@@ -1381,7 +1371,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1467,12 +1457,11 @@
     },
     {
         "idx": 43554,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Nicole kidman \"desperately \" wanted another baby, she told australia's 60 minutes last night. \"anyone that's been in the place of wanting another child, or wanting a child, knows the disappointment, the pain and the loss that you go through trying and struggling with fertility … i couldn't get pregnant, \" she said, explaining why she and husband keith urban chose to have daughter faith via a gestational carrier. \" she was the most wonderful woman to do this for us.... I ' m so grateful to her, \" said kidman of their carrier. The actress was in the room for faith's birth, and said it was a \"deeply emotional and moving \" moment. ( click to read why jennifer aniston is jealous of nicole kidman. )",
         "split": "train",
         "cleansed_document": [
-            "What makes jennifer aniston jealous? nicole kidman's fab abs email this cultivates an easygoing, no-worries persona that might be summed up by the name of her latest rom-com, ' just go with it. ' but that doesn't mean she isn't starstruck by certain hollywood hard bodies. On friday, her 42nd birthday, the famously fit actress called into aniston said, \" i walked up to [ kidman ] and i said, ' i ' m sorry, can i touch them? i have to touch them.... Is that spray-painted? what is that? ' i think it's an eight-pack. \" jennifer aniston cultivates an easygoing, no-worries persona that might be summed up by the name of her latest rom-com, ' just go with it. ' but that doesn't mean she isn't starstruck by certain hollywood hard bodies.on friday, her 42nd birthday, the famously fit actress called into ryan seacrest's radio show and claimed that her own six-pack can't compete with the enviable midriff of nicole kidman. The two compared abs when kidman visited the ' just go with it'set to film a cameo.aniston said, \" i walked up to [ kidman ] and i said, ' i ' m sorry, can i touch them? i have to touch them.... Is that spray-painted? what is that? ' i think it's an eight-pack. \" http://xml.channel.aol.com/xmlpublisher/fetch.v2.xml?option=expand_relative_urls&dataurlnodes=uiconfig, feedconfig, entry&id=832877&pid=832876&uts=1286548961 http://www.popeater.com/mm_track/popeater/music/?s_channel=us.musicpop&s_account=aolpopeater, aolsvc&omni=1&ke=1 http://cdn.channel.aol.com/cs_feed_v1_6/csfeedwrapper.swf stars working out kellan lutz leaves the gym looking ripped on september 30th. X17online x17online celebrities working out kidman, 43, shared yoga tips with aniston on the hawaiian set last year ( kidman was actually born in hawaii before her family emigrated to australia ). And in 2011, she's surely been aiming to look her best on the red carpets this season: an academy award winner for 2002's'the hours, ' new mom kidman is nominated for another best actress oscar this month, thanks to her performance in the searing drama ' rabbit hole, ' which she also produced.",
-            "Date 7 hrs ago 1: 03 tooltip information: kim kardashain and sisters kendall and kylie jenner pick up a teen choice award video by: description: what do you get a 17 year old that has everything? a teen choice awards surfboard of course! that's what kylie jenner got anyway. After celebrating her birthday with friends and family the brunette beauty and her sisters kendall jenner and kim kardashian... Rating: 1"
+            "What makes jennifer aniston jealous? nicole kidman's fab abs email this cultivates an easygoing, no-worries persona that might be summed up by the name of her latest rom-com, ' just go with it. ' but that doesn't mean she isn't starstruck by certain hollywood hard bodies. On friday, her 42nd birthday, the famously fit actress called into aniston said, \" i walked up to [ kidman ] and i said, ' i ' m sorry, can i touch them? i have to touch them.... Is that spray-painted? what is that? ' i think it's an eight-pack. \" jennifer aniston cultivates an easygoing, no-worries persona that might be summed up by the name of her latest rom-com, ' just go with it. ' but that doesn't mean she isn't starstruck by certain hollywood hard bodies.on friday, her 42nd birthday, the famously fit actress called into ryan seacrest's radio show and claimed that her own six-pack can't compete with the enviable midriff of nicole kidman. The two compared abs when kidman visited the ' just go with it'set to film a cameo.aniston said, \" i walked up to [ kidman ] and i said, ' i ' m sorry, can i touch them? i have to touch them.... Is that spray-painted? what is that? ' i think it's an eight-pack. \" http://xml.channel.aol.com/xmlpublisher/fetch.v2.xml?option=expand_relative_urls&dataurlnodes=uiconfig, feedconfig, entry&id=832877&pid=832876&uts=1286548961 http://www.popeater.com/mm_track/popeater/music/?s_channel=us.musicpop&s_account=aolpopeater, aolsvc&omni=1&ke=1 http://cdn.channel.aol.com/cs_feed_v1_6/csfeedwrapper.swf stars working out kellan lutz leaves the gym looking ripped on september 30th. X17online x17online celebrities working out kidman, 43, shared yoga tips with aniston on the hawaiian set last year ( kidman was actually born in hawaii before her family emigrated to australia ). And in 2011, she's surely been aiming to look her best on the red carpets this season: an academy award winner for 2002's'the hours, ' new mom kidman is nominated for another best actress oscar this month, thanks to her performance in the searing drama ' rabbit hole, ' which she also produced."
         ],
         "raw_document": [
             "What makes jennifer aniston jealous? nicole kidman's fab abs email this cultivates an easygoing, no-worries persona that might be summed up by the name of her latest rom-com, ' just go with it. ' but that doesn't mean she isn't starstruck by certain hollywood hard bodies. On friday, her 42nd birthday, the famously fit actress called into aniston said, \" i walked up to [ kidman ] and i said, ' i ' m sorry, can i touch them? i have to touch them.... Is that spray-painted? what is that? ' i think it's an eight-pack. \" jennifer aniston cultivates an easygoing, no-worries persona that might be summed up by the name of her latest rom-com, ' just go with it. ' but that doesn't mean she isn't starstruck by certain hollywood hard bodies.on friday, her 42nd birthday, the famously fit actress called into ryan seacrest's radio show and claimed that her own six-pack can't compete with the enviable midriff of nicole kidman. The two compared abs when kidman visited the ' just go with it'set to film a cameo.aniston said, \" i walked up to [ kidman ] and i said, ' i ' m sorry, can i touch them? i have to touch them.... Is that spray-painted? what is that? ' i think it's an eight-pack. \" http://xml.channel.aol.com/xmlpublisher/fetch.v2.xml?option=expand_relative_urls&dataurlnodes=uiconfig, feedconfig, entry&id=832877&pid=832876&uts=1286548961 http://www.popeater.com/mm_track/popeater/music/?s_channel=us.musicpop&s_account=aolpopeater, aolsvc&omni=1&ke=1 http://cdn.channel.aol.com/cs_feed_v1_6/csfeedwrapper.swf stars working out kellan lutz leaves the gym looking ripped on september 30th. X17online x17online celebrities working out kidman, 43, shared yoga tips with aniston on the hawaiian set last year ( kidman was actually born in hawaii before her family emigrated to australia ). And in 2011, she's surely been aiming to look her best on the red carpets this season: an academy award winner for 2002's'the hours, ' new mom kidman is nominated for another best actress oscar this month, thanks to her performance in the searing drama ' rabbit hole, ' which she also produced.",
@@ -1487,7 +1476,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1543,7 +1532,7 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1575,13 +1564,12 @@
     },
     {
         "idx": 43558,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Keith king says no amount of money could make up for his busted marriage. Nonetheless, a north carolina judge has ordered his wife's lover to pay him $ 8.8 million. The decision revolves around an obscure law on the books in six states called \" alienation of affection, \" reports wsoc. In this case, the 48-year-old king claims he was in a happy marriage with 33-year-old danielle, whom he wed in 2010, until she began an affair with a man she met on a business trip, reports wral and inside edition. \" i've compared it to like a nuclear bomb going on around my surroundings, \" says king, who first got wind of the affair thanks to phone records. That led to a confrontation between king and francisco huizar that was recorded, followed by king learning that he could actually sue his romantic rival over all this. \" my marriage was murdered, \" says king. Last week, a durham county judge agreed, ordering huizar to pay $ 2.2 million in compensatory damages and $ 6.6 million in punitive damages. The result is unusual, with most of the 200 alienation of affection claims filed in north carolina each year settled out of court. But this was \" a very classic case that just happened to have all of the factors, \" king's attorney tells wral. Still, some argue there should be no alienation of affection law at all as it's based on the outdated view that a married woman is her husband's property. It's \" archaic … and should be stricken, \" says huizar's lawyer, who claims king was controlling of his unhappy wife. \" verdicts like these … remove personal responsibility for a person's own marriage. \" huizar plans to appeal. ( a controversial entertainer is familiar with this kind of mess. )",
         "split": "train",
         "cleansed_document": [
             "A judge has awarded a north carolina man nearly $ 9 million from a man who had an affair with his wife. Keith king, 48, who runs bmx stunt shows sued his wife's lover and was just awarded $ 8.8 million from the judge after citing an obscure law. \" to me that was the most important thing, the most sacred thing — my family, \" he said. \" every time he knew i was out of town, he would come into town. \" north carolina is one of only six states that allows a jilted spouse to sue for \" alienation of affection. \" king claimed his marriage to his wife danielle, 33, was in great shape until his her boyfriend came along and ruined everything. The husband said he found out his wife was cheating on him with francisco huizar in 2015 after viewing phone records. \" i called him from her phone and i said,'she's a married woman, leave her alone. Don't you ever contact her again, ' \" king told inside edition. He says the affair continued for months in secret. Then last year, she moved out of their home. Soon after, he went to her new apartment and was shocked to find the lover there. \" she's my wife man — she's my wife! \" king says in footage of",
-            "Published on jul 30, 2018 it was a harrowing confrontation between a man, his wife and her lover. Forty-eight-year old keith king is seen confronting the man his wife is now seeing, shouting, \"that is my wife, man! why are you taking my wife? \" the bitter love triangle is making headlines around the world. King recently sued the other man, and has been awarded nearly $ 9 million. He says the award is a hollow victory, and that he'd give anything to have his old life back.",
-            "Sign in using you account with: { * loginwidget * } sign in using your wsoc profile welcome back. Please sign in why are we asking this? by submitting your registration information, you agree to our terms of service and privacy policy. Already have an account? we have sent a confirmation email to { * data_emailaddress * }. Please check your email and click on the link to activate your account. Thank you for registering! thank you for registering! we look forward to seeing you on [ website ] frequently. Visit us and sign in to update your profile, receive the latest news and keep up to date with mobile alerts. Click here to return to the page you were visiting."
+            "Published on jul 30, 2018 it was a harrowing confrontation between a man, his wife and her lover. Forty-eight-year old keith king is seen confronting the man his wife is now seeing, shouting, \"that is my wife, man! why are you taking my wife? \" the bitter love triangle is making headlines around the world. King recently sued the other man, and has been awarded nearly $ 9 million. He says the award is a hollow victory, and that he'd give anything to have his old life back."
         ],
         "raw_document": [
             "A judge has awarded a north carolina man nearly $ 9 million from a man who had an affair with his wife. Keith king, 48, who runs bmx stunt shows sued his wife's lover and was just awarded $ 8.8 million from the judge after citing an obscure law. \" to me that was the most important thing, the most sacred thing — my family, \" he said. \" every time he knew i was out of town, he would come into town. \" north carolina is one of only six states that allows a jilted spouse to sue for \" alienation of affection. \" king claimed his marriage to his wife danielle, 33, was in great shape until his her boyfriend came along and ruined everything. The husband said he found out his wife was cheating on him with francisco huizar in 2015 after viewing phone records. \" i called him from her phone and i said,'she's a married woman, leave her alone. Don't you ever contact her again, ' \" king told inside edition. He says the affair continued for months in secret. Then last year, she moved out of their home. Soon after, he went to her new apartment and was shocked to find the lover there. \" she's my wife man — she's my wife! \" king says in footage of",
@@ -1598,7 +1586,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1625,7 +1613,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -1650,7 +1638,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1730,20 +1718,19 @@
             "0": 0,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 43564,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Cam newton has apologized for his sexist remarks to female reporter jourdan rodrigue, and to women in general, but the hype hasn't yet died down. \" i ' m a man who tries to be a positive role model in my community and tries to use my platform to inspire others, \" newton said in a video posted on twitter thursday. He added that he's been thinking of his two young daughters and how he's trying to raise them knowing \" they can do and be anything that they want to be, \" and that he \" takes ownership \" for his \" extremely unacceptable \" remarks. \" don't be like me, \" he tells young people listening. \" be better than me. \" meanwhile, ex-la clipper glen davis tells tmz he thinks newton's apology was \" sincere \" and that he \" just made a mistake, \" adding, \" he's probably got woman problems or something. \" more takes making the rounds: one of the first people to stick up for rodrigue: scott fowler, a fellow sportswriter at the charlotte observer. Fowler calls newton's remarks \" inexcusable \" and \" ill-informed, \" documenting rodrigue's sports journalism background — including a degree from arizona state's walter cronkite school of journalism — and instincts on the sidelines. \" i've been covering the panthers for the past 23 seasons, and rodrigue knows more about the subtle intricacies of football than i do, \" he writes. \" in short, jourdan rodrigue knew exactly what she was talking about wednesday. Cam newton, on the other hand, had no idea. \" sally jenkins picks up on that theme for a sarcasm-infused washington post op-ed in which she suggests a \" gender-culture exchange \" with the quarterback. \" in the name of gender diplomacy, i will help cam newton with certain feminine concepts if he will help me understand how to use the twist-top on a bottle of beer, and why some men act like football strategy is more complicated than a space flight guidance system, \" she writes. She doesn't try so hard to mask her anger in the next barb: \" we women who cover the nfl have spent years hiding our impatience dealing with average quarterbacks with below-average verbal skills. \" over at the new york daily news, kristie ackert says newton \" should have known better \" than to make his \" infuriating \" comment, but adding it can be a valuablelesson for everyone. She accepts his apology and says we can all \" learn to be better. We can listen to someone else's point of view,",
         "split": "train",
         "cleansed_document": [
             "Glen davis mocks cam newton ' probably has woman problems ' glen davis mocks cam newton: ' probably has woman problems ' exclusive ex-nba star glen \" big baby \" davis says he believes cam newton was sincere in his apology -- but that didn't stop him from clowning on the qb last night. \" i think he was sincere. I think he just made a mistake, \" davis said on his way out of poppy in l.a.... \" he's probably got woman problems or something. \" davis also said cam shouldn't sweat losing his greek yogurt sponsor because he thinks it tastes like \"",
             "Cam newton laughed at and belittled one of my sportswriting colleagues at the observer wednesday, and that is inexcusable. Jourdan rodrigue, for the past year one of two beat writers assigned by the observer to cover the carolina panthers, asked newton during his weekly press conference about wide receiver devin funchess's routes. \"it's funny to hear a female talk about routes, \" newton said, laughing to himself and then repeating, \"it's funny. \" he punctuated the remark with a couple of exaggerated smiles. Only then did he answer the question. I was in that room, which held about 30 media",
             "Sportspulse: trysta krick provides insight into cam newton's sexist comments. Usa today sports carolina panthers quarterback cam newton lost a sponsor in dannon on thursday as a result of his comments to a female reporter. ( photo: jasen vinlove, usa today sports ) cam newton is only 28, but he appears to be beholden to another time, an era when he wasn't alive but must wish he had been, a time when if you were a man who told a joke to demean a woman in a nontraditional role, the world laughed with you. How shocked newton must have been then by the",
-            "Cam newton should have known better. When he smirked and laughed at a woman trying to do her job wednesday afternoon and said it's \"funny to hear a female talk about routes, \" he should have known better. Newton should have know that he was fueling the same stupid bias and prejudice that blacks in the nfl have had to fight against to become quarterbacks. He should have known better wednesday afternoon, but the 28-year-old put his foot in his mouth and belittled and degraded charlotte observer reporter jourdan rodrigue and a lot of other women whose only offense was to dare to cover sports. Thursday, however,",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Cam newton should have known better. When he smirked and laughed at a woman trying to do her job wednesday afternoon and said it's \"funny to hear a female talk about routes, \" he should have known better. Newton should have know that he was fueling the same stupid bias and prejudice that blacks in the nfl have had to fight against to become quarterbacks. He should have known better wednesday afternoon, but the 28-year-old put his foot in his mouth and belittled and degraded charlotte observer reporter jourdan rodrigue and a lot of other women whose only offense was to dare to cover sports. Thursday, however,"
         ],
         "raw_document": [
             "Glen davis mocks cam newton ' probably has woman problems ' glen davis mocks cam newton: ' probably has woman problems ' exclusive ex-nba star glen \" big baby \" davis says he believes cam newton was sincere in his apology -- but that didn't stop him from clowning on the qb last night. \" i think he was sincere. I think he just made a mistake, \" davis said on his way out of poppy in l.a.... \" he's probably got woman problems or something. \" davis also said cam shouldn't sweat losing his greek yogurt sponsor because he thinks it tastes like \"",
@@ -1764,7 +1751,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 5
         }
     },
     {
@@ -1856,7 +1843,7 @@
             "2": 4,
             "3": 0,
             "4": 3,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -2018,12 +2005,11 @@
     },
     {
         "idx": 43574,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Austerity measures announced by governments across europe this year sparked a surge in civil unrest, and a surge in people trying to find out exactly what the word means. Merriam-webster says that, based on search trends, the noun — meaning \" enforced or extreme economy \" — is its word of 2010. Ap reports that the word was searched for on the dictionary's free online tool more than a quarter of a million times. The runners-up, all of which the dictionary has traced back to news stories, include \" pragmatic, \" \" moratorium, \" \" socialism, \" and \" bigot. \" searches for \" doppelganger \" spiked after george stephanopoulos called eat, pray, love author elizabeth gilbert \" julia roberts'doppelganger \" on good morning america, and there were thousands of searches for \" shellacking \" after president obama used the word to describe how his party fared in the midterm elections. Click for the complete list of runners-up.",
         "split": "train",
         "cleansed_document": [
-            "In this tuesday, dec. 14, 2010 photo, peter sokolowski, editor at large for merriam-webster inc., thumbs through the index card files at the dictionary publisher, in springfield, mass. Merriam-webster... ( associated press ) in this tuesday, dec. 14, 2010 photo, peter sokolowski, editor at large for merriam-webster inc., holds up reference index card files showing the word \" pragmatic \" at the dictionary publisher, in springfield,... ( associated press ) in this tuesday, dec. 14, 2010 photo, the word \" austerity \" is shown on an index card file at dictionary publisher merriam-webster inc. In springfield, mass. Merriam-webster has chosen \" austerity \" as its... ( associated press ) the move sparked angry protests, strikes and riots across the country as unemployment skyrocketed and the crisis spread to other european nations. The move also incited a rush to online dictionaries from those searching for a definition. Austerity, the 14th century noun defined as \" the quality or state of being austere \" and \" enforced or extreme economy, \" set off enough searches that merriam-webster named it as its word of the year for 2010, the dictionary's editors announced monday. John morse, president and publisher of the springfield, mass.-based dictionary, said \" austerity \" saw more than 250,000 searches on the dictionary's free",
-            "The runners-up to merriam-webster's 2010 word of the year _ austerity _ with definitions from the publisher's collegiate dictionary and, when applicable, the news event or story that generated the interest in the word: _ pragmatic ( adj. ): relating to matters of fact or practical affairs often to the exclusion of intellectual or artistic matters; practical as opposed to idealistic. U.s. Elected officials began to talk about more \" pragmatic \" solutions to the nation's problems after the nov. Midterm elections. _ moratorium ( noun ): a legally authorized period of delay in the performance of a legal obligation or the payment of a debt. The obama administration issued a \" moratorium \" on deepwater oil drilling following the oil spill in the gulf of mexico. _ socialism ( noun ): any of various economic and political theories advocating collective or governmental ownership and administration of the means of production and distribution of goods. Socialism was in the news on and off around a number news stories, including those concerning federal bailouts and democratic-backed federal health care legislation. _ bigot ( noun ): a person who is obstinately or intolerantly devoted to his or her own opinions and prejudices; especially one who regards or treats the members of a group ( as a racial or ethnic group ) with hatred and intolerance. Former british prime"
+            "In this tuesday, dec. 14, 2010 photo, peter sokolowski, editor at large for merriam-webster inc., thumbs through the index card files at the dictionary publisher, in springfield, mass. Merriam-webster... ( associated press ) in this tuesday, dec. 14, 2010 photo, peter sokolowski, editor at large for merriam-webster inc., holds up reference index card files showing the word \" pragmatic \" at the dictionary publisher, in springfield,... ( associated press ) in this tuesday, dec. 14, 2010 photo, the word \" austerity \" is shown on an index card file at dictionary publisher merriam-webster inc. In springfield, mass. Merriam-webster has chosen \" austerity \" as its... ( associated press ) the move sparked angry protests, strikes and riots across the country as unemployment skyrocketed and the crisis spread to other european nations. The move also incited a rush to online dictionaries from those searching for a definition. Austerity, the 14th century noun defined as \" the quality or state of being austere \" and \" enforced or extreme economy, \" set off enough searches that merriam-webster named it as its word of the year for 2010, the dictionary's editors announced monday. John morse, president and publisher of the springfield, mass.-based dictionary, said \" austerity \" saw more than 250,000 searches on the dictionary's free"
         ],
         "raw_document": [
             "In this tuesday, dec. 14, 2010 photo, peter sokolowski, editor at large for merriam-webster inc., thumbs through the index card files at the dictionary publisher, in springfield, mass. Merriam-webster... ( associated press ) in this tuesday, dec. 14, 2010 photo, peter sokolowski, editor at large for merriam-webster inc., holds up reference index card files showing the word \" pragmatic \" at the dictionary publisher, in springfield,... ( associated press ) in this tuesday, dec. 14, 2010 photo, the word \" austerity \" is shown on an index card file at dictionary publisher merriam-webster inc. In springfield, mass. Merriam-webster has chosen \" austerity \" as its... ( associated press ) the move sparked angry protests, strikes and riots across the country as unemployment skyrocketed and the crisis spread to other european nations. The move also incited a rush to online dictionaries from those searching for a definition. Austerity, the 14th century noun defined as \" the quality or state of being austere \" and \" enforced or extreme economy, \" set off enough searches that merriam-webster named it as its word of the year for 2010, the dictionary's editors announced monday. John morse, president and publisher of the springfield, mass.-based dictionary, said \" austerity \" saw more than 250,000 searches on the dictionary's free",
@@ -2038,7 +2024,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2066,18 +2052,17 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 43576,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "There have been more than 1,300 reported cases of zika reported in the us so far, per the cdc, but a new case in florida is especially worrisome: the florida department of health says it's looking into what may be the first non-travel-related infection in the continental us, meaning the virus could be harbored by local mosquitoes, cnn reports. Florida health officials have teamed up with the cdc to look into the infection in miami-dade county, which claims the highest number of zika cases in the state ( 88 to date this year, including seven reported this week ), per the miami herald. The affected neighborhood, which hasn't been named, has already been sprayed down, and zika prevention kits and bug repellent are being distributed and made available for pickup in the county. \" it was only a matter of time before the right circumstances aligned in florida, \" a doctor at the university of pittsburgh medical center's center for health security tells nbc news. But although there's the possibility the disease may be flying around in local bugs, it's still a big \" may \": the state doh is exploring every transmission possibility, including the fact that the infection may somehow be tied to travel outside the country, a rep tells cnn; cases of those who have sex with individuals who traveled to zika hot spots are still considered travel-related cases. The virus has not only been linked to microcephaly and other birth defects in babies, but also to guillain-barre syndrome, a rare disorder in which the body's immune system attacks the nervous system, sometimes leading to paralysis. The cdc and health officials are also checking out a puzzling case in utah, the site of the first zika-related death on the us mainland, per the herald; a \" family contact \" of the deceased, who had traveled outside the us, also contracted the disease. ( a \" startling \" first in zika transmission happened in nyc. )",
         "split": "train",
         "cleansed_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. / updated by maggie fox florida health officials said tuesday they were investigating a possible case of zika that wasn't carried back by a traveler. If it's confirmed, it would be the first evidence that zika has spread to mosquitoes in the continental u.s. All cases up to now have been in people who traveled to zika-affected regions or their sexual partners. Small, local outbreaks of zika virus are fully",
-            "Story highlights zika can cause birth defects and neurological issues florida has been closely monitoring the spread of the virus ( cnn ) the florida department of health said it is investigating a possible non-travel related case of zika virus in miami-dade county. As of july 13, there have been 1,306 cases of zika reported in the continental united states and hawaii, the centers for disease control and prevention said. None of those has been the result of local spread by mosquitoes. The cdc said it is closely coordinating with florida officials leading the investigation",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the"
+            "Story highlights zika can cause birth defects and neurological issues florida has been closely monitoring the spread of the virus ( cnn ) the florida department of health said it is investigating a possible non-travel related case of zika virus in miami-dade county. As of july 13, there have been 1,306 cases of zika reported in the continental united states and hawaii, the centers for disease control and prevention said. None of those has been the result of local spread by mosquitoes. The cdc said it is closely coordinating with florida officials leading the investigation"
         ],
         "raw_document": [
             "Guillain-barré syndrome fact sheet see a list of all ninds disorders get web page suited for printing email this to a friend or colleague request free mailed brochure síndrome de guillain-barré pdf version ( 113 kb ) epub version ( 144 kb ) mobi version ( 259 kb ) table of contents ( click to jump to sections ) what is guillain-barré syndrome? guillain-barré syndrome ( gbs ) is a disorder in which the body's immune system attacks part of the peripheral nervous system. The first symptoms of this disorder include varying degrees of weakness or",
@@ -2098,7 +2083,7 @@
             "1": 5,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 5
         }
     },
     {
@@ -2148,17 +2133,15 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 43579,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "A coroner calls it \" probably the most blatant disregard for human life \" he's ever seen, but no charges will be filed against two indiana men seen in a video playing with the limp body of their friend hours before he died, the times of northwest indiana reports. On sunday morning, one of the men posted the video to facebook; it showed an unresponsive kyle kearby, 21, slumped forward as the second man tied cord to kearby's wrists to make him look like a puppet and then moved him around, including opening and closing his mouth, as both men sang \" you've got a friend in me. \" the man is also shown slapping kearby, shaking his head, and pumping his chest. A facebook friend of the man who posted the video tells the times he captioned it, \" one of my close friends passed away this morning. Please stop doing drugs. #fentanyl. \" kearby died at a hospital sunday afternoon. Kearby's father says his son walked into their residence around 5: 30am sunday, some length of time after the video was filmed, but about seven hours later he was found covered in vomit and unresponsive in bed. He could not be revived and was pronounced dead at a local hospital. Meanwhile, around 7am, the facebook friend had asked the man who posted the video whether kearby was really dead and the man said he was alive and home and that the video had been posted as a wake-up call for him. Authorities say that even if kearby's friends knew he was in danger of dying, there is no law requiring them to report his condition to authorities. The men told authorities they were \" horseplaying \" with kearby as they have done before, and had dropped him off at home after the video was filmed. \" there was no foul play whatsoever, \" the county sheriff says. An autopsy will be done to determine what substances kearby may have taken and what caused his death.",
         "split": "train",
-        "cleansed_document": [
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites.",
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
@@ -2172,7 +2155,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2202,12 +2185,11 @@
     },
     {
         "idx": 43581,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Forget botox: if you want to look young as you grow older, just gain a few pounds, according to heidi klum. \" the ultimate beauty secret for a woman getting older is, don't be too thin! \" she tells self. \" when you are just muscle, you end up being gaunt in the face, and that makes you look older by five or 10 years. \" she also recommends — especially for new moms — lots of sleep and perhaps a spray tan to stay looking fresh. For more, including how she feels about her own wrinkles, click here.",
         "split": "train",
         "cleansed_document": [
-            "Heidi klum's beauty secret:'don't be too thin! ' email this supermodel \" the ultimate beauty secret for a woman getting older is, don't be too thin! it is always better to have a little meat on your bones. When you are just muscle, you end up being gaunt in the face, and that makes you look older by five or 10 years, \" klum tells the mag. But that doesn't mean getting lazy and avoiding workouts. \" one of the best parts about season eight of ' project runway ' being taped in new york city was that i went running every morning. I had a watch that counts the miles and the little thing you put on your shoe that measures each step. Over seven weeks, i ran 120 miles! i don't love running, but i do like to see everything getting tighter and toned. \" supermodel heidi klum reveals in the december issue of self that the secret to keeping wrinkles at bay isn't botox -- it's a few extra pounds. \" the ultimate beauty secret for a woman getting older is, don't be too thin! it is always better to have a little meat on your bones. When you are just muscle, you end up being gaunt in the face, and that makes you look older by five or 10 years, \" klum tells the mag.but that doesn't mean getting lazy and avoiding workouts. \" one of the best parts about season eight of ' project runway ' being taped in new york city was that i went running every morning. I had a watch that counts the miles and the little thing you put on your shoe that measures each step. Over seven weeks, i ran 120 miles! i don't love running, but i do like to see everything getting tighter and toned. \" the supermom of four says",
-            "How do you do it all without losing your mind? — laura, 38, new york city \" i ' m a big believer in to-do lists. I think of five things in the shower. I set goals and get my work done, but i have to plan for fun things, too. I ' m always thinking about what will make my family happier. So i set up playdates and trips. I ' m planning for a safari we can all go on together. What can i do with my husband? can we steal away to vegas for the weekend? you shouldn't wait for other people to make special things happen. You have to create your own memories. \""
+            "Heidi klum's beauty secret:'don't be too thin! ' email this supermodel \" the ultimate beauty secret for a woman getting older is, don't be too thin! it is always better to have a little meat on your bones. When you are just muscle, you end up being gaunt in the face, and that makes you look older by five or 10 years, \" klum tells the mag. But that doesn't mean getting lazy and avoiding workouts. \" one of the best parts about season eight of ' project runway ' being taped in new york city was that i went running every morning. I had a watch that counts the miles and the little thing you put on your shoe that measures each step. Over seven weeks, i ran 120 miles! i don't love running, but i do like to see everything getting tighter and toned. \" supermodel heidi klum reveals in the december issue of self that the secret to keeping wrinkles at bay isn't botox -- it's a few extra pounds. \" the ultimate beauty secret for a woman getting older is, don't be too thin! it is always better to have a little meat on your bones. When you are just muscle, you end up being gaunt in the face, and that makes you look older by five or 10 years, \" klum tells the mag.but that doesn't mean getting lazy and avoiding workouts. \" one of the best parts about season eight of ' project runway ' being taped in new york city was that i went running every morning. I had a watch that counts the miles and the little thing you put on your shoe that measures each step. Over seven weeks, i ran 120 miles! i don't love running, but i do like to see everything getting tighter and toned. \" the supermom of four says"
         ],
         "raw_document": [
             "Heidi klum's beauty secret:'don't be too thin! ' email this supermodel \" the ultimate beauty secret for a woman getting older is, don't be too thin! it is always better to have a little meat on your bones. When you are just muscle, you end up being gaunt in the face, and that makes you look older by five or 10 years, \" klum tells the mag. But that doesn't mean getting lazy and avoiding workouts. \" one of the best parts about season eight of ' project runway ' being taped in new york city was that i went running every morning. I had a watch that counts the miles and the little thing you put on your shoe that measures each step. Over seven weeks, i ran 120 miles! i don't love running, but i do like to see everything getting tighter and toned. \" supermodel heidi klum reveals in the december issue of self that the secret to keeping wrinkles at bay isn't botox -- it's a few extra pounds. \" the ultimate beauty secret for a woman getting older is, don't be too thin! it is always better to have a little meat on your bones. When you are just muscle, you end up being gaunt in the face, and that makes you look older by five or 10 years, \" klum tells the mag.but that doesn't mean getting lazy and avoiding workouts. \" one of the best parts about season eight of ' project runway ' being taped in new york city was that i went running every morning. I had a watch that counts the miles and the little thing you put on your shoe that measures each step. Over seven weeks, i ran 120 miles! i don't love running, but i do like to see everything getting tighter and toned. \" the supermom of four says",
@@ -2222,7 +2204,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2250,7 +2232,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2344,14 +2326,13 @@
     },
     {
         "idx": 43586,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "It's hard to make money if you don't have any. That's the lesson from catherine hettinger, who is credited with inventing the original fidget spinner about three decades ago. In 2004, she says she could not afford the $ 400 patent renewal fee and thereby had to surrender it. \" i just didn't have the money, \" she tells the guardian. \" it's that simple. \" now, fidget spinners are all the rage — they brought in revenue of $ 2.6 million in april, reports the wall street journal — but hettinger hasn't made a dime. She says she's not bitter, however, and is hoping to cash in on a \" classic \" version of her design via kickstarter. \"several people have asked me: 'aren't you really mad? ' \" she says. \" but for me i ' m just pleased that something i designed is something that people understand and really works for them. \" hettinger, now 62, says she concocted the device in the early 1990s to occupy her toddler daughter. She tells time she was also inspired while on a trip to israel when she saw young boys throwing rocks and wanted to give them an alternative. In any event, she got a patent in the 1990s and had a small measure of success at toy fairs. But toy-makers passed, including hasbro, which now makes them today. \" maybe if it was some kind of exploitative product — like a new style of cigarettes — and my only motivation was to make money, i'd have a different attitude, \" says hettinger of the gizmo's popularity. \"but i am just thrilled. \"",
         "split": "train",
         "cleansed_document": [
             "Well-meaning adults decided a good prescription for schoolchildren with attention issues was a toy that promised to divert nervous energy. They called it the \"fidget spinner. \" what they never imagined is that these spinners would become hot items in american classrooms, and that all the fidgeting with them would someday create an epidemic of mass distraction. Bill...",
             "Florida-based creator catherine hettinger couldn't afford the patent on the ubiquitous playground toy but insists she's 'pleased ' about its sudden popularity as the inventor of the original fidget spinner – the ubiquitous new toy that has quickly become a craze in playgrounds around the world – catherine hettinger should be enjoying the high life. Secret teacher: fidget cubes need kicking out of class read more but the florida-based creator is not making a penny off her genius invention, even as global sales of the gadget she envisioned two decades ago as a way to entertain her seven-year-old daughter soar into the tens of millions and suppliers struggle to meet massive demand. Hettinger held the patent on finger spinners for eight years, but surrendered it",
-            "Catherine hettinger has an inventor's mind: when she notices a problem, she tries to imagine a toy or device that can remedy it. So when she heard about young boys throwing rocks at police officers and people walking past them while visiting her sister in israel, her wheels started turning. She started brainstorming devices that could distract young children and provide them with a soothing toy to play with. First, she thought of a soft rock that kids could throw. But then she tossed that idea aside, still thinking about other options when she returned to her home in orlando, fla. It was there that she eventually developed the idea that would become the original fidget spinner — more than two decades",
-            "A prototype is a preliminary model of something. Projects that offer physical products need to show backers documentation of a working prototype. This gallery features photos, videos, and other visual documentation that will give backers a sense of what's been accomplished so far and what's left to do. Though the development process can vary for each project, these are the stages we typically see: about wikipedia credits catherine hettinger as the original inventor. This makes it a classic. This has been a collaborative project with a three dimensional artist and an engineer. The first spinner is ready for primetime. The photo of the prototype becomes the original classic fidget spinner, fellow techies understand the need for movement."
+            "Catherine hettinger has an inventor's mind: when she notices a problem, she tries to imagine a toy or device that can remedy it. So when she heard about young boys throwing rocks at police officers and people walking past them while visiting her sister in israel, her wheels started turning. She started brainstorming devices that could distract young children and provide them with a soothing toy to play with. First, she thought of a soft rock that kids could throw. But then she tossed that idea aside, still thinking about other options when she returned to her home in orlando, fla. It was there that she eventually developed the idea that would become the original fidget spinner — more than two decades"
         ],
         "raw_document": [
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period.",
@@ -2372,7 +2353,7 @@
             "1": 1,
             "2": 1,
             "3": 0,
-            "4": 0
+            "4": 3
         }
     },
     {
@@ -2421,7 +2402,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2499,7 +2480,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2564,7 +2545,7 @@
             "2": 2,
             "3": 1,
             "4": 1,
-            "5": 0
+            "5": 1
         }
     },
     {

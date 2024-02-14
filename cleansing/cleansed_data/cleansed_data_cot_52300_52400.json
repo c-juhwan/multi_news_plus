@@ -124,7 +124,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -149,7 +149,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -224,7 +224,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -365,17 +365,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 52314,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Us district court judge ann donnelly issued an injunction barring the government from deporting anyone during an emergency hearing saturday night in brooklyn, and her court was not the only one to do so. Reuters reports that judges in three additional states — massachusetts, virginia, and washington state — have since followed suit. Reuters points out that these legal moves are curbs that do not eradicate president trump's executive order that severely limits immigration, but observes \" the growing number... Could complicate the administration's effort to enforce it. \" the former is exactly what an unnamed senior white house official pointed out, reportedly telling nbc's kelly o'donnell such rulings do \" not undercut the president's executive order. \" the official continues, \" all stopped visas will remain stopped. All halted admissions will remain halted. All restricted travel will remain prohibited.... The order remains in place. \" but the pressure shows no sign of easing: the ap reports that the attorneys general of 15 states and the district of columbia will issue a joint statement branding trump's ban as unconstitutional and at odds with \" a bedrock principle \" of the us: religious liberty. The states: washington, california, new york, pennsylvania, massachusetts, hawaii, virginia, oregon, connecticut, vermont, illinois, new mexico, iowa, maine, and maryland. What trump had to say sunday morning on twitter: \" our country needs strong borders and extreme vetting, now. Look what is happening all over europe and, indeed, the world - a horrible mess! \"",
         "split": "test",
         "cleansed_document": [
-            "( reuters ) - u.s. Judges in at least five states blocked federal authorities from enforcing president donald trump's executive order restricting immigration from seven muslim-majority countries. However, lawyers representing people covered by the order said some authorities were unwilling on sunday to follow the judges ' rulings. Judges in california, massachusetts, virginia and washington state, each home to international airports, issued their rulings after a similar order was issued on saturday night by u.s. District judge ann donnelly in new york's brooklyn borough. Donnelly had ruled in a lawsuit by two men from iraq being held at john f. Kennedy international airport. While none of the rulings struck down friday's executive order by the new republican president, the growing number of them could complicate the administration's effort to enforce it. The rulings add to questions about the constitutionality of the order, said andrew pincus, a mayer brown partner representing two yemeni men who were denied u.s. Entry from an overseas flight despite being legal permanent residents. \"people have gone through processes to obtain legal permanent resident status, or visas, \" pincus said. \"there are serious questions about whether those rights, which were created by statute, can be unilaterally taken away without process. \" trump's order halted travel by people with passports from iran, iraq, libya, somalia,",
-            "Protesters rally against president trump's refugee ban at miami international airport on sunday, jan. 29, 2017.b president donald trump's immigration order sowed more confusion and outrage across the... ( associated press ) protesters rally against president trump's refugee ban at miami international airport on sunday, jan. 29, 2017.b president donald trump's immigration order sowed more confusion and outrage across the country sunday, with travelers detained at airports, panicked families searching for relatives and protesters... ( associated press ) london ( ap ) — the latest on president donald trump, his travel ban on seven muslim-majority countries and other immigration actions ( all times local ): 8: 35 p.m. New york gov. Andrew cuomo says six people barred from entering the u.s. Because of president donald trump's travel ban remained in detention at kennedy airport on sunday afternoon. Immigration lawyers worked through the day to try and gain the release of several people being held at the airport, with some success. Aclu attorney andre segura said at least seven detainees were released saturday morning, with more people expected to be freed in the afternoon. Some people who were initially told they would be deported were allowed to enter the u.s. They included a 21-year-old woman with dual iraqi and jordanian citizenship who had come to the u.s. To be with her fiance and a"
+            "( reuters ) - u.s. Judges in at least five states blocked federal authorities from enforcing president donald trump's executive order restricting immigration from seven muslim-majority countries. However, lawyers representing people covered by the order said some authorities were unwilling on sunday to follow the judges ' rulings. Judges in california, massachusetts, virginia and washington state, each home to international airports, issued their rulings after a similar order was issued on saturday night by u.s. District judge ann donnelly in new york's brooklyn borough. Donnelly had ruled in a lawsuit by two men from iraq being held at john f. Kennedy international airport. While none of the rulings struck down friday's executive order by the new republican president, the growing number of them could complicate the administration's effort to enforce it. The rulings add to questions about the constitutionality of the order, said andrew pincus, a mayer brown partner representing two yemeni men who were denied u.s. Entry from an overseas flight despite being legal permanent residents. \"people have gone through processes to obtain legal permanent resident status, or visas, \" pincus said. \"there are serious questions about whether those rights, which were created by statute, can be unilaterally taken away without process. \" trump's order halted travel by people with passports from iran, iraq, libya, somalia,"
         ],
         "raw_document": [
             "( reuters ) - u.s. Judges in at least five states blocked federal authorities from enforcing president donald trump's executive order restricting immigration from seven muslim-majority countries. However, lawyers representing people covered by the order said some authorities were unwilling on sunday to follow the judges ' rulings. Judges in california, massachusetts, virginia and washington state, each home to international airports, issued their rulings after a similar order was issued on saturday night by u.s. District judge ann donnelly in new york's brooklyn borough. Donnelly had ruled in a lawsuit by two men from iraq being held at john f. Kennedy international airport. While none of the rulings struck down friday's executive order by the new republican president, the growing number of them could complicate the administration's effort to enforce it. The rulings add to questions about the constitutionality of the order, said andrew pincus, a mayer brown partner representing two yemeni men who were denied u.s. Entry from an overseas flight despite being legal permanent residents. \"people have gone through processes to obtain legal permanent resident status, or visas, \" pincus said. \"there are serious questions about whether those rights, which were created by statute, can be unilaterally taken away without process. \" trump's order halted travel by people with passports from iran, iraq, libya, somalia,",
@@ -390,7 +389,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -423,17 +422,16 @@
             "1": 2,
             "2": 3,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
         "idx": 52316,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "David petraeus will indeed testify on capitol hill about the benghazi attack, reports ap. The former cia chief will appear before the house intelligence committee on friday, though the hearing will be closed to the public. Petraeus visited libya secretly last month, and lawmakers are antsy to hear his own report about the trip. Cnn, meanwhile, quotes one of the general's former aides as saying petraeus is largely avoiding the media coverage of his affair and resignation, and instead focusing on his family. \" he describes it as putting one foot in front of the other, and then repeating the process, \" says retired col. Peter mansoor. \" so it's going to be a long, long road of healing for them. He understands that and he's focusing on it. \"",
         "split": "test",
         "cleansed_document": [
-            "Story highlights source says broadwell is unlikely to be prosecuted for release of classified info \" he wants to maintain a distance and focus on his family, \" ex-aide says petraeus to testify friday before the house intelligence committee, says aide contact continued between petraeus and broadwell after they split 4 months ago, says ex-aide former cia director david petraeus has not been following the media firestorm that erupted in the wake of his resignation last week after admitting to having had an affair, a former aide said wednesday. \" he wants to maintain a distance and focus on his family at this time, \" said retired col. Peter mansoor, who added that he had spoken earlier in the day with petraeus. \" he realizes it was a severe and morally reprehensible action, but he violated no laws, \" mansoor said. The affair between the married former military man and his married biographer, paula broadwell, ended about four months ago, mansoor said, though the two remained in contact afterward. \" mostly in a professional capacity, where she's still trying to get her dissertation done and he was still trying to help her with that, \" he said. Asked how petraeus, 60, was holding up, mansoor said, \" he describes it as putting one foot in front of the other, and then repeating the process. So it's going to be a long, long road of healing for them. He understands that and he's focusing",
-            "File pool - in this july 9, 2011 file photo, usmc gen. John allen, left, and army gen. David petraeus, top u.s. Commander in afghanistan and incoming cia director, greet former cia director and new u.s.... ( associated press ) file pool - in this july 9, 2011 file photo, usmc gen. John allen, left, and army gen. David petraeus, top u.s. Commander in afghanistan and incoming cia director, greet former cia director and new u.s.... ( associated press ) former cia director david petraeus will testify before the house intelligence committee friday on events that led to the death of the u.s. Ambassador and three other americans in an attack on the u.s. Consulate at benghazi, libya, on sept. 11. Spokesmen for the committee say the hearing will be closed to the public. Petraeus resigned from the cia last week after acknowledging an extramarital affair. The liaison was discovered during an fbi investigation of harassing emails allegedly sent by petraeus ' biographer and mistress, paula broadwell, to tampa socialite jill kelley. Broadwell allegedly saw kelley as a rival. The probe expanded to include kelley's copious communications with the top u.s. Commander in afghanistan, marine gen. John allen."
+            "Story highlights source says broadwell is unlikely to be prosecuted for release of classified info \" he wants to maintain a distance and focus on his family, \" ex-aide says petraeus to testify friday before the house intelligence committee, says aide contact continued between petraeus and broadwell after they split 4 months ago, says ex-aide former cia director david petraeus has not been following the media firestorm that erupted in the wake of his resignation last week after admitting to having had an affair, a former aide said wednesday. \" he wants to maintain a distance and focus on his family at this time, \" said retired col. Peter mansoor, who added that he had spoken earlier in the day with petraeus. \" he realizes it was a severe and morally reprehensible action, but he violated no laws, \" mansoor said. The affair between the married former military man and his married biographer, paula broadwell, ended about four months ago, mansoor said, though the two remained in contact afterward. \" mostly in a professional capacity, where she's still trying to get her dissertation done and he was still trying to help her with that, \" he said. Asked how petraeus, 60, was holding up, mansoor said, \" he describes it as putting one foot in front of the other, and then repeating the process. So it's going to be a long, long road of healing for them. He understands that and he's focusing"
         ],
         "raw_document": [
             "Story highlights source says broadwell is unlikely to be prosecuted for release of classified info \" he wants to maintain a distance and focus on his family, \" ex-aide says petraeus to testify friday before the house intelligence committee, says aide contact continued between petraeus and broadwell after they split 4 months ago, says ex-aide former cia director david petraeus has not been following the media firestorm that erupted in the wake of his resignation last week after admitting to having had an affair, a former aide said wednesday. \" he wants to maintain a distance and focus on his family at this time, \" said retired col. Peter mansoor, who added that he had spoken earlier in the day with petraeus. \" he realizes it was a severe and morally reprehensible action, but he violated no laws, \" mansoor said. The affair between the married former military man and his married biographer, paula broadwell, ended about four months ago, mansoor said, though the two remained in contact afterward. \" mostly in a professional capacity, where she's still trying to get her dissertation done and he was still trying to help her with that, \" he said. Asked how petraeus, 60, was holding up, mansoor said, \" he describes it as putting one foot in front of the other, and then repeating the process. So it's going to be a long, long road of healing for them. He understands that and he's focusing",
@@ -448,7 +446,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -523,7 +521,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -745,13 +743,12 @@
     },
     {
         "idx": 52328,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Victims of the target hack were hit as they slid their payment cards through point-of-sale terminals, says the company's ceo: that's where hackers placed their malware, gregg steinhafel tells cnbc. On sunday, dec. 15, the company recognized \" we had an issue, \" and \" by six o ' clock at night, our environment was safe and secure. We eliminated the malware in the access point. \" steinhafel explained why it still took a few days to alert customers, cnet reports: \" day two was really about initiating the investigation work and the forensic work, \" while \" day three was about preparation \" of stores and call centers. After neiman marcus revealed that it, too, was hit with a data breach, reuters reports that three other top us retailers were also victimized, though on a smaller scale. Insiders say the people behind the scam may have been the same ones who hit target. Details remain hazy, but reuters'sources say the other retailers had mall outlets. Earlier attacks may have worked as trials ahead of the target hack, notes a security expert. One technique hackers may have used is called ram scraping, during which hackers collect encrypted data when it's in plain-text form in a computer's memory.",
         "split": "test",
         "cleansed_document": [
             "During an interview with cnbc, retailer's ceo defends four-day delay in notifying customers of security breach as necessary for the investigation and preparation for consumer reaction. Hackers infected target's point-of-sale terminals with malware to steal the payment card information from millions of customers, the retailer's chief executive has confirmed. The security breach, which yielded the personal information of as many as 110 million customers, was first identified on december 15, four days before the breach was publicly revealed, ceo gregg steinhafel told cnbc during an interview. Target revealed friday that the security breach it suffered between november 27 and december 15 was larger than originally believed, yielding the names, mailing addresses, phone numbers, and e-mail addresses for near three times its original estimate of 40 million customers. \" sunday [ december 15 ] was really day 1. That was the day we confirmed we had an",
-            "Since target's original announcement that up to 40 million customer credit and debit card accounts had been hacked, critics have questioned why it took the retailer four days to come clean on the data breach. Now, for the first time since the security breach was announced on dec. 19, target chairman and ceo gregg steinhafel is speaking out. While four days may seem like a long time for consumers to learn their sensitive account information was at risk, steinhafel argued that it was lightning speed from target's perspective. He laid out what happened from the moment he knew there was a problem. ( read more: ' i ' m still shaken ' by target data breach, says ceo ) \" sunday ( dec. 15 ) was really day one. That was the day we confirmed we had an issue and so our number one priority was... Making our environment safe",
-            "Boston/new york ( reuters ) - target corp began a major public relations effort on monday to apologize to customers for an unprecedented cyber attack on its network, but the no. 3 u.s. Retailer was vague in providing details about what it knew and when. The company has so far disclosed that the breach started in late november and lasted 19 days over the peak holiday shopping season, resulting in the theft of about 40 million credit card records and 70 million other records containing customer data. Target is trying to woo back customers after sales dropped off at the end of the holiday season. Its campaign included full-page newspaper advertisements on monday apologizing for the attack and the first interview since the breach by chief executive gregg steinhafel. He told cnbc tv business network that target wanted to lead the retail industry's move to adopt payment card technology that stores customer information on computer chips and"
+            "Since target's original announcement that up to 40 million customer credit and debit card accounts had been hacked, critics have questioned why it took the retailer four days to come clean on the data breach. Now, for the first time since the security breach was announced on dec. 19, target chairman and ceo gregg steinhafel is speaking out. While four days may seem like a long time for consumers to learn their sensitive account information was at risk, steinhafel argued that it was lightning speed from target's perspective. He laid out what happened from the moment he knew there was a problem. ( read more: ' i ' m still shaken ' by target data breach, says ceo ) \" sunday ( dec. 15 ) was really day one. That was the day we confirmed we had an issue and so our number one priority was... Making our environment safe"
         ],
         "raw_document": [
             "During an interview with cnbc, retailer's ceo defends four-day delay in notifying customers of security breach as necessary for the investigation and preparation for consumer reaction. Hackers infected target's point-of-sale terminals with malware to steal the payment card information from millions of customers, the retailer's chief executive has confirmed. The security breach, which yielded the personal information of as many as 110 million customers, was first identified on december 15, four days before the breach was publicly revealed, ceo gregg steinhafel told cnbc during an interview. Target revealed friday that the security breach it suffered between november 27 and december 15 was larger than originally believed, yielding the names, mailing addresses, phone numbers, and e-mail addresses for near three times its original estimate of 40 million customers. \" sunday [ december 15 ] was really day 1. That was the day we confirmed we had an",
@@ -768,7 +765,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -876,13 +873,12 @@
     },
     {
         "idx": 52333,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Legal marijuana is taking tourism in colorado to new highs, if a new study is to be believed. The denver post reports a study commissioned by the colorado tourism office found nearly 49 % of colorado visitors between april and september came at least in part because of pot. \" i think it is rearing its head as a significant travel and tourism amenity for visitors coming to colorado, \" a former tourism office head says. The survey also showed 20 % of potential tourists were more likely to visit colorado because of legal weed compared to 15 % who were less likely. Somewhat surprisingly, only 8 % of tourists surveyed admitted to actually visiting a marijuana dispensary while in the state. A smaller study out of fort lewis college found most tourists come to colorado for other reasons, but legal marijuana is \" the icing on the cake, \" the durango herald reports. According to the post, colorado has welcomed a record number of tourists in the past two years. Prior to the study, tourism officials had been crediting that increase solely to \" savvy marketing. \" the colorado tourism office spent more than $ 5.3 million on a new advertising campaign, which doesn't mention pot at all, colorado public radio reports. But it shouldn't be that way, the owner of one pot tourism company tells the post: \" the state of colorado has had an amazing opportunity to embrace this industry. It is a complete advantage for colorado to become the napa valley and sonoma county of cannabis. \"",
         "split": "test",
         "cleansed_document": [
             "A recent colorado tourism office survey of summer travelers shows 48 percent were influenced by legal recreational pot marijuana businesses have long proclaimed that cannabis is drawing visitors to colorado. Now they have proof. A study commissioned by the colorado tourism office and presented to the office's board of directors on wednesday shows legal weed as a growing motivator for trips to colorado — conflicting with the mantra of tourism officials statewide that savvy marketing alone is responsible for record visitation and spending in the past two years. While the state's \" come to life \" ad campaign is certainly successful, surveys in october and november of potential summertime visitors who were exposed to the state's tourism ads revealed that the marijuana laws influenced vacation decisions nearly 49 percent of the time. Budtender kate evans, behind counter, helps a customer at native roots dispensary at 1550 champa street in denver on december 9",
-            "Tourists stopping in at pot shops are not coming to colorado specifically for marijuana, a recent survey by a fort lewis college professor found. Shortly after marijuana was legalized, the survey garnered answers from 325 people exiting five marijuana shops across three southwest colorado counties, said lorraine taylor, assistant professor of management at flc. The survey is part of taylor's larger study on the effect of marijuana on the tourism industry that has not been completed. But the early findings are positive for those who feared marijuana would damage colorado's reputation as a family-friendly destination, she said. \"i think a couple years ago, we were really worried – we as in the tourism community – that just hoards of people were going to come and get stoned and sit on main street. That's not what's happening, \" she said. Instead, most tourists are coming",
-            "Partygoers listen to music and smoke marijuana on one of several days of the annual 4/20 marijuana festival, in denver's downtown civic center park, saturday april 18, 2015. ( ap photo/brennan linsley ) the colorado tourism office has spent more than $ 5.3 million on its campaign enticing visitors to the state, all without mentioning marijuana. Yet a new survey by the office finds that potential summertime tourists were influenced by marijuana laws about 49 percent of the time, reports the denver post. Former colorado tourism office head al white has previously called marijuana's effect on tourism \" mariginal. \" he now calls it \" extremely influential \" and serves on the board of a cannabis tourism company, the paper reports. Over in southwest colorado, a survey of tourists leaving pot shops found that visitors weren't coming specifically for marijuana. Fort lewis college professor lorraine taylor told"
+            "Tourists stopping in at pot shops are not coming to colorado specifically for marijuana, a recent survey by a fort lewis college professor found. Shortly after marijuana was legalized, the survey garnered answers from 325 people exiting five marijuana shops across three southwest colorado counties, said lorraine taylor, assistant professor of management at flc. The survey is part of taylor's larger study on the effect of marijuana on the tourism industry that has not been completed. But the early findings are positive for those who feared marijuana would damage colorado's reputation as a family-friendly destination, she said. \"i think a couple years ago, we were really worried – we as in the tourism community – that just hoards of people were going to come and get stoned and sit on main street. That's not what's happening, \" she said. Instead, most tourists are coming"
         ],
         "raw_document": [
             "A recent colorado tourism office survey of summer travelers shows 48 percent were influenced by legal recreational pot marijuana businesses have long proclaimed that cannabis is drawing visitors to colorado. Now they have proof. A study commissioned by the colorado tourism office and presented to the office's board of directors on wednesday shows legal weed as a growing motivator for trips to colorado — conflicting with the mantra of tourism officials statewide that savvy marketing alone is responsible for record visitation and spending in the past two years. While the state's \" come to life \" ad campaign is certainly successful, surveys in october and november of potential summertime visitors who were exposed to the state's tourism ads revealed that the marijuana laws influenced vacation decisions nearly 49 percent of the time. Budtender kate evans, behind counter, helps a customer at native roots dispensary at 1550 champa street in denver on december 9",
@@ -899,7 +895,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -932,7 +928,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1039,12 +1035,11 @@
     },
     {
         "idx": 52339,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The messiness continues between goldie hawn's oldest children and their father, bill hudson. As previously reported, oliver hudson lashed out at his dad via instagram on father's day — posting a throwback photo of himself, sister kate, and their father with the caption \" happy abandonment day. \" bill hudson broke his silence yesterday, saying that he was disowning his famous children. \" i would ask them to stop using the hudson name, \" he says in what the daily mail calls a \" searingly raw interview. \" \" they are no longer a part of my life. Oliver's instagram post was a malicious, vicious, premeditated attack. He is dead to me now. As is kate. I am mourning their loss even though they are still walking this earth. \" the 65-year-old blames his ex-wife for \" willfully alienating \" oliver, 38, and kate, 36, from him, saying hawn was motivated to present a \" perfect family \" when she began dating kurt russell. \" when kurt came on the scene, the narrative changed and i became the big, bad wolf, \" he claims. The musician and actor also called out hawn for allegedly cheating on him during their four-year marriage and using her money and fame to shirk custody agreements. In response to the father's day insult, the elder hudson threw out decades-old photos and mementos. \" if what he wanted was me out of their lives, then he's succeeded, \" he says of his firstborn. \" i don't want to see either of my eldest children ever again. It's over. \" ( they're far from the only celebs who are estranged from a parent. )",
         "split": "test",
         "cleansed_document": [
-            "It had been the perfect father's day... A trip to the beach with his nine-year-old daughter, the youngest of his five children. So when bill hudson settled down with his laptop after dinner, he was looking forward to nothing more than a peaceful evening at home. Then he sat bolt upright. There, flashing up on the screen, was an instagram photograph posted by his eldest son, the actor oliver hudson – his first-born child with ex-wife goldie hawn and brother of bill's older daughter kate. Scroll down for video ex: in a searingly raw interview with the mail on sunday last night, bill hudson ( pictured ) veering between tears of sadness and flashes of anger, vowed to 'break all ties ' with his eldest children, actors kate and oliver children: goldie hawn pictured with her daughter, kate hudson, ( left ) and son oliver hudson, ( right ) taken more than 30 years ago, it showed a smiling oliver and kate as happy children, posing with their father. It was the caption beneath the photograph that cut bill's heart to the quick. Addressing his message to his sister, oliver wrote: 'happy abandonment day.... @katehudson.'the post went viral, spawning thousands of comments as social media seethed with debate about absent fathers and whether being a biological",
-            "Photo: via tumblr room \" when legally i didn't have to have visitation with him anymore, i jumped on it, \" larson said. \" as a kid i tried to understand him and understand the situation. But he didn't do himself any favors. I don't think he ever really wanted to be a parent. It wasn't until truly recently that i realized that's why so much of my work was so volatile. \" brie larson burst onto the scene with her critically acclaimed performance in. In an interview with elle in 2016, the actress divulged that she drew on her own tough childhood for her work. Larson's parents divorced when she was ten years old, and by the time she was 26, she hadn't seen or spoken to her dad in more than ten years. More about age: 27 birthplace: sacramento, california, united states of america profession: poet, musician, singer-songwriter, screenwriter, actor, + more credits: room, 21 jump street, short term 12, the spectacular now also ranked #82 on the best american actresses working today #81 on the best actresses to ever win oscars for best actress #71 on who is america's girlfriend in 2017? #27 on the most annoying celebrity couples"
+            "It had been the perfect father's day... A trip to the beach with his nine-year-old daughter, the youngest of his five children. So when bill hudson settled down with his laptop after dinner, he was looking forward to nothing more than a peaceful evening at home. Then he sat bolt upright. There, flashing up on the screen, was an instagram photograph posted by his eldest son, the actor oliver hudson – his first-born child with ex-wife goldie hawn and brother of bill's older daughter kate. Scroll down for video ex: in a searingly raw interview with the mail on sunday last night, bill hudson ( pictured ) veering between tears of sadness and flashes of anger, vowed to 'break all ties ' with his eldest children, actors kate and oliver children: goldie hawn pictured with her daughter, kate hudson, ( left ) and son oliver hudson, ( right ) taken more than 30 years ago, it showed a smiling oliver and kate as happy children, posing with their father. It was the caption beneath the photograph that cut bill's heart to the quick. Addressing his message to his sister, oliver wrote: 'happy abandonment day.... @katehudson.'the post went viral, spawning thousands of comments as social media seethed with debate about absent fathers and whether being a biological"
         ],
         "raw_document": [
             "It had been the perfect father's day... A trip to the beach with his nine-year-old daughter, the youngest of his five children. So when bill hudson settled down with his laptop after dinner, he was looking forward to nothing more than a peaceful evening at home. Then he sat bolt upright. There, flashing up on the screen, was an instagram photograph posted by his eldest son, the actor oliver hudson – his first-born child with ex-wife goldie hawn and brother of bill's older daughter kate. Scroll down for video ex: in a searingly raw interview with the mail on sunday last night, bill hudson ( pictured ) veering between tears of sadness and flashes of anger, vowed to 'break all ties ' with his eldest children, actors kate and oliver children: goldie hawn pictured with her daughter, kate hudson, ( left ) and son oliver hudson, ( right ) taken more than 30 years ago, it showed a smiling oliver and kate as happy children, posing with their father. It was the caption beneath the photograph that cut bill's heart to the quick. Addressing his message to his sister, oliver wrote: 'happy abandonment day.... @katehudson.'the post went viral, spawning thousands of comments as social media seethed with debate about absent fathers and whether being a biological",
@@ -1059,7 +1054,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1167,7 +1162,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1386,7 +1381,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1419,12 +1414,11 @@
     },
     {
         "idx": 52353,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "An american gored two times already while running with the bulls in spain is willing to risk a third time, people reports. Author bill hillmann was living his ernest hemingway fantasy in northern spain on saturday when a bull gored his buttocks and tossed him in the air. The chicago man hit the ground, looked back, \" and he was just on me, \" hillmann tells people. \" at the last second, he shot me straight up in the air. The horns just went in in a really weird way. \" as the 1,200-pound beast named sentido stormed away along the narrow streets of pamplona, hillmann says he didn't feel \" piercing pain \" and managed to pick himself up and walk to find help. He didn't realize he'd been gored until \" the medics pulled my pants down and there was blood everywhere. \" hillmann, 35, spent 36 hours in the hospital but vowed to run with the bulls again on monday. \" i ' m a daredevil at heart. It's just who i am, \" he says. The last time hillmann, who has run with the bulls at the annual san fermin festival for 12 years, caught the wrong end of a horn was in 2014. That goring badly tore up a leg. \" the first time, i wasn't walking for a week, \" he tells the ap. There have been five gorings and other minor injuries since the festival began on friday. One victim, a 22-year-old california man, had his left arm impaled and was dragged for several yards, per the ap. ( hillmann is also the author of a book on how to survive the running of the bulls. )",
         "split": "test",
         "cleansed_document": [
-            "A chicago man who was gored by a bull three years ago while running with the bulls in pamplona, spain, was gored again on saturday — but he still plans to run again on monday. Bill hillmann, an author who has been participating in the annual tradition for 12 years, tells people the 1,200-lbs. Bull named sentido jabbed one of its horn into his buttocks and then tossed him up a few feet. However, he says he managed to land on the ground with a relatively soft thud. \"i looked back again, and he was just on me, \" hillmann said in a phone call from pamplona. \"at the last second, he shot me straight up in the air. The horns just went in in a really weird way, and he gored me. \" hillmann, 35, explains he immediately went into shock, which blunted the pain. \"i",
-            "A reveller falls in front of jose escolar fighting bulls during the second running of the bulls at the san fermin festival, in pamplona, northern spain, saturday, july 8, 2017. Revellers from around the... ( associated press ) a reveller falls in front of jose escolar fighting bulls during the second running of the bulls at the san fermin festival, in pamplona, northern spain, saturday, july 8, 2017. Revellers from around the world flock to pamplona every year to take part in the eight days of the running of the bulls. ( ap... ( associated press ) barcelona, spain ( ap ) — one of the two americans gored saturday during this year's second running of the bulls in the spanish city of pamplona is swearing that he will run again before the festival is over. Bill hillmann, a 35-year-old writer who also was gored three years ago"
+            "A chicago man who was gored by a bull three years ago while running with the bulls in pamplona, spain, was gored again on saturday — but he still plans to run again on monday. Bill hillmann, an author who has been participating in the annual tradition for 12 years, tells people the 1,200-lbs. Bull named sentido jabbed one of its horn into his buttocks and then tossed him up a few feet. However, he says he managed to land on the ground with a relatively soft thud. \"i looked back again, and he was just on me, \" hillmann said in a phone call from pamplona. \"at the last second, he shot me straight up in the air. The horns just went in in a really weird way, and he gored me. \" hillmann, 35, explains he immediately went into shock, which blunted the pain. \"i"
         ],
         "raw_document": [
             "Revellers run with a puerto de san lorenzo fighting bull during the third running of the bulls at the san fermin festival, in pamplona, northern spain, sunday, july 9, 2017. Revellers from around the... ( associated press ) revellers run with a puerto de san lorenzo fighting bull during the third running of the bulls at the san fermin festival, in pamplona, northern spain, sunday, july 9, 2017. Revellers from around the world flock to pamplona every year to take part in the eight days of the running of the bulls. ( ap photo/alvaro... ( associated press ) pamplona, spain ( ap ) — after five gorings on the first two days of this year's san fermin festival, officials in the northern spanish city of pamplona said sunday's third running of the bulls was quick and resulted in only minor injuries. The regional government of navarra",
@@ -1441,7 +1435,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1473,12 +1467,11 @@
     },
     {
         "idx": 52355,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The man who murdered john lennon will remain behind bars after his 10th unsuccessful parole hearing, reports the daily news. Mark david chapman, now 63, was turned down again this week. No reasons have yet been made public, but the newspaper reports that yoko ono sent the parole board a letter asking that chapman remain in the wende correctional facility in upstate new york — not only for the safety of her and her family, but for his own safety. Chapman, who shot lennon in new york city in 1980, is up again for parole in about two years. Chapman's wife recently told the uk mirror that he talked of killing lennon two months before actually doing so.",
         "split": "test",
         "cleansed_document": [
-            "Get daily news updates directly to your inbox subscribe thank you for subscribing we have more newsletters show me see our privacy notice could not subscribe, try again later invalid email gloria hiroko chapman has revealed husband mark told her he was going to murder john lennon two months before he shot dead the beatle on his new york doorstep. But she claimed he never carried out the threat at the time because of his love for her and insisted he had dumped the gun he was going to use. Yet as soon as news came through that lennon had been killed, gloria said she knew chapman was the assassin. Now she is hoping that after 38 years behind bars, her husband may soon be free as he faces a parole hearing for the 10th time. Gloria, 67, said: \"it didn't matter how long mark was in prison. I would wait for him. \" video loading video unavailable click to play tap to play the video will start in 8 cancel play now ( image: jeff rayner/coleman-rayner ) ( image: getty ) she has had to wait nearly four decades so far, after chapman, 63, was given 20 years to life for murdering lennon on december 8, 1980. But she told how she has still been allowed to have sex with him during prison visits in a caravan on the grounds. Gloria was 5,000 miles away at home in kailua, hawaii, when the devastating news came in that the 40-year-old was dead. She said: \"i knew it was mark. How did i know? two months earlier, mark had travelled to new york. \"he came home scared, telling me that to make a name for himself he had planned to kill lennon. But he said my love had saved him. \" ( image: getty ) gloria knew ­chapman was ­planning to return to new york but she had no idea he was on a murder mission for real this time. She added: \"the only reason i was ok with mark making another trip was because i had",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Get daily news updates directly to your inbox subscribe thank you for subscribing we have more newsletters show me see our privacy notice could not subscribe, try again later invalid email gloria hiroko chapman has revealed husband mark told her he was going to murder john lennon two months before he shot dead the beatle on his new york doorstep. But she claimed he never carried out the threat at the time because of his love for her and insisted he had dumped the gun he was going to use. Yet as soon as news came through that lennon had been killed, gloria said she knew chapman was the assassin. Now she is hoping that after 38 years behind bars, her husband may soon be free as he faces a parole hearing for the 10th time. Gloria, 67, said: \"it didn't matter how long mark was in prison. I would wait for him. \" video loading video unavailable click to play tap to play the video will start in 8 cancel play now ( image: jeff rayner/coleman-rayner ) ( image: getty ) she has had to wait nearly four decades so far, after chapman, 63, was given 20 years to life for murdering lennon on december 8, 1980. But she told how she has still been allowed to have sex with him during prison visits in a caravan on the grounds. Gloria was 5,000 miles away at home in kailua, hawaii, when the devastating news came in that the 40-year-old was dead. She said: \"i knew it was mark. How did i know? two months earlier, mark had travelled to new york. \"he came home scared, telling me that to make a name for himself he had planned to kill lennon. But he said my love had saved him. \" ( image: getty ) gloria knew ­chapman was ­planning to return to new york but she had no idea he was on a murder mission for real this time. She added: \"the only reason i was ok with mark making another trip was because i had"
         ],
         "raw_document": [
             "Get daily news updates directly to your inbox subscribe thank you for subscribing we have more newsletters show me see our privacy notice could not subscribe, try again later invalid email gloria hiroko chapman has revealed husband mark told her he was going to murder john lennon two months before he shot dead the beatle on his new york doorstep. But she claimed he never carried out the threat at the time because of his love for her and insisted he had dumped the gun he was going to use. Yet as soon as news came through that lennon had been killed, gloria said she knew chapman was the assassin. Now she is hoping that after 38 years behind bars, her husband may soon be free as he faces a parole hearing for the 10th time. Gloria, 67, said: \"it didn't matter how long mark was in prison. I would wait for him. \" video loading video unavailable click to play tap to play the video will start in 8 cancel play now ( image: jeff rayner/coleman-rayner ) ( image: getty ) she has had to wait nearly four decades so far, after chapman, 63, was given 20 years to life for murdering lennon on december 8, 1980. But she told how she has still been allowed to have sex with him during prison visits in a caravan on the grounds. Gloria was 5,000 miles away at home in kailua, hawaii, when the devastating news came in that the 40-year-old was dead. She said: \"i knew it was mark. How did i know? two months earlier, mark had travelled to new york. \"he came home scared, telling me that to make a name for himself he had planned to kill lennon. But he said my love had saved him. \" ( image: getty ) gloria knew ­chapman was ­planning to return to new york but she had no idea he was on a murder mission for real this time. She added: \"the only reason i was ok with mark making another trip was because i had",
@@ -1493,7 +1486,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1551,13 +1544,12 @@
     },
     {
         "idx": 52358,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Calvin and hobbes fans have a little something to celebrate: a rare, new drawing by bill watterson, creator of the retired but still beloved cartoon. Watterson agreed to make the poster for a new documentary about the cartoon industry called stripped, reports the washington post. \" it sounded like fun, \" says watterson, who is among those interviewed in the film, though his appearance is brief and in voice only. As for the resulting image: \"given the movie's title and the fact that there are few things funnier than human nudity, the idea popped into my head largely intact, \" he explains. \"the film is a big valentine to comics, so i tried to do something really cartoon-y. \" watterson did a painting for charity in 2011, and this new drawing is being breathlessly hailed as his \" first cartoon \" since the end of calvin and hobbes. At sploid, jesus diaz wonders if the adult in the movie poster might be a grown-up calvin.",
         "split": "test",
         "cleansed_document": [
             "Strippedfilm.com calvin and hobbes fans, rejoice! bill watterson, the creator of the beloved comic strip, which ended in 1995, has debuted his first cartoon in nearly 20 years — in the form of the cover art for the upcoming documentary stripped. Described as a \"love-letter to comic strips \" and a meditation on the state of the newspaper industry, stripped is the brainchild of cartoonist dave kellett and filmmaker frederick schroeder. The pair used kickstarter to fund the doc, which features interviews with more than 60 cartoonists — including watterson, who provided a brief voice-over. Perhaps even more exciting than that interview, however, is the fact that watterson also agreed to create the film's movie poster. \"aside from supplying a few sentences to the documentary, i ' m not involved with the film, so dave's request to draw the poster came completely out of the blue",
-            "After almost two decades retired, bill watterson — the genius who crafted the universally beloved calvin &amp; hobbes from 1985 to 1995 — has published a new cartoon: a movie poster for dave kellett and fred schroeder's stripped. ( wait, is that calvin 20 years later? ) advertisement he appears in the movie too, in his first-ever recorded interview. Some of his words: in the right hands, a comic strip attains a beauty and an elegance that really i would put against any other art. The new york times reports that the reclusive artist \" was so pleased with the documentary that he also supplied the artwork for the poster of the film. \" in other words, you can't miss this. I just realized that, rather than a generic cartoonist this could be calvin himself, 20 years later. The blonde hair, the haircut, those",
-            "Original art by bill watterson for team cul de sac ( for richard thompson of \" cul de sac \" ). 6 \" x 8 \" oil on board. ( bill watterson ) this painting — by \"calvin and hobbes \" creator bill watterson — is the first new art from him that his syndicate has seen in the 16 subsequent years, say executives with universal uclick and its parent company, andrews mcmeel. The artwork is of the character petey otterloop from richard thompson's comic strip \"cul de sac. \" \"the strip depicts all sorts of moments that ring true with regard to childhood, \" the long-reclusive watterson tells comic riffs, \"but i'd say petey is a truly original insight. \" the artwork — 6 \" -by-8 \" oil on board — is watterson's contribution to the team cul de sac fundraising project for parkinson's research. \"let's just"
+            "After almost two decades retired, bill watterson — the genius who crafted the universally beloved calvin &amp; hobbes from 1985 to 1995 — has published a new cartoon: a movie poster for dave kellett and fred schroeder's stripped. ( wait, is that calvin 20 years later? ) advertisement he appears in the movie too, in his first-ever recorded interview. Some of his words: in the right hands, a comic strip attains a beauty and an elegance that really i would put against any other art. The new york times reports that the reclusive artist \" was so pleased with the documentary that he also supplied the artwork for the poster of the film. \" in other words, you can't miss this. I just realized that, rather than a generic cartoonist this could be calvin himself, 20 years later. The blonde hair, the haircut, those"
         ],
         "raw_document": [
             "Strippedfilm.com calvin and hobbes fans, rejoice! bill watterson, the creator of the beloved comic strip, which ended in 1995, has debuted his first cartoon in nearly 20 years — in the form of the cover art for the upcoming documentary stripped. Described as a \"love-letter to comic strips \" and a meditation on the state of the newspaper industry, stripped is the brainchild of cartoonist dave kellett and filmmaker frederick schroeder. The pair used kickstarter to fund the doc, which features interviews with more than 60 cartoonists — including watterson, who provided a brief voice-over. Perhaps even more exciting than that interview, however, is the fact that watterson also agreed to create the film's movie poster. \"aside from supplying a few sentences to the documentary, i ' m not involved with the film, so dave's request to draw the poster came completely out of the blue",
@@ -1574,7 +1566,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1758,12 +1750,11 @@
     },
     {
         "idx": 52366,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The name of apple's new tablet is already inspiring jokes, eye-rolling, and fretting among the business class, reminding many of a certain, umm, feminine product. Business insider immediately declared the name \"terrible, \" and the internet soon filled with snark. \"how will it stand up to other tablets if i pour a test tube full of blue water on it? \" asked one blogger. \"are there no women in the marketing or biz dev department of mac? \" wondered one user, and indeed, no women were present at the tablet's unveiling, the washington post notes. Madtv even coined the term ipad in a 2007 parody about — you guessed it — an apple brand maxi pad ( see story ). Then again, people bought something called the \"wii \" in droves, so maybe all bets are off.",
         "split": "test",
         "cleansed_document": [
-            "After months of speculation over what apple would call its latest sacred touch-screen device ( islate? itablet? ), the company revealed tuesday that it had opted to go with ipad. Boyfriends everywhere promptly refuse to purchase it unless they could simultaneously buy some really manly products, like shaving cream and batteries. Are you there god? it's me, steve jobs. Business insider declared the name \" terrible, \" with one columnist writing that he'd heard rumors of the name \" but dismissed it immediately, \" thinking that apple would have the foresight to predict a landslide of menstruation mockery. ( did they not see \" madtv's \" ipad parody in 2007? ) meanwhile, the blogosphere found the name debate totally absorbing -- \" how will it stand up to other tablets if i pour a test tube full of blue water on it? \" one lemondrop blogger wondered -- and a heavy flow of ipad-related twitter traffic led \" itampon \" to become a top trending topic. \" are there no women in the marketing or biz dev department of mac? \" wrote one user, speculating that \" ipad \" would pass muster only with a man. No women were present on apple's panel at the san francisco announcement. Apple, for its part, heralded the ipad as \" a magical and revolutionary device \" on its web site, and did not return a phone call for comment. This is not the first time that a widely anticipated product launch was met with ridicule. Nintendo's wii was referred to as \" wee \" by disparaging gamers who could not get stoked about a console that sounded like a potty-training term. The wii went on to break retail records, selling 600,000 units in its first eight days. However, apple has yet to address what women everywhere anticipate will obviously be the ipad's biggest problem: you can't use one while swimming.",
-            "We heard apple might call the tablet the ipad. But we dismissed it immediately, because really, no way apple would go that route. Why? ask any female. Or glance at twitter. For example, asks @soniamoghe: but does it have wings?"
+            "After months of speculation over what apple would call its latest sacred touch-screen device ( islate? itablet? ), the company revealed tuesday that it had opted to go with ipad. Boyfriends everywhere promptly refuse to purchase it unless they could simultaneously buy some really manly products, like shaving cream and batteries. Are you there god? it's me, steve jobs. Business insider declared the name \" terrible, \" with one columnist writing that he'd heard rumors of the name \" but dismissed it immediately, \" thinking that apple would have the foresight to predict a landslide of menstruation mockery. ( did they not see \" madtv's \" ipad parody in 2007? ) meanwhile, the blogosphere found the name debate totally absorbing -- \" how will it stand up to other tablets if i pour a test tube full of blue water on it? \" one lemondrop blogger wondered -- and a heavy flow of ipad-related twitter traffic led \" itampon \" to become a top trending topic. \" are there no women in the marketing or biz dev department of mac? \" wrote one user, speculating that \" ipad \" would pass muster only with a man. No women were present on apple's panel at the san francisco announcement. Apple, for its part, heralded the ipad as \" a magical and revolutionary device \" on its web site, and did not return a phone call for comment. This is not the first time that a widely anticipated product launch was met with ridicule. Nintendo's wii was referred to as \" wee \" by disparaging gamers who could not get stoked about a console that sounded like a potty-training term. The wii went on to break retail records, selling 600,000 units in its first eight days. However, apple has yet to address what women everywhere anticipate will obviously be the ipad's biggest problem: you can't use one while swimming."
         ],
         "raw_document": [
             "This will appear next to all of your comments this will not appear anywhere on newser",
@@ -1780,7 +1771,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -1864,7 +1855,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1928,12 +1919,11 @@
     },
     {
         "idx": 52372,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Researchers experimented with lsd in psychiatric treatment until such research was effectively banned in the us in 1966 — but now a swiss psychiatrist has conducted the first controlled trial of the hallucinogenic drug in more than four decades, with us fda approval. Dr. Peter gasser's study involved 12 people who were dying, most of terminal cancer, and suffering from \" deep anxiety, \" the seattle times reports. After undergoing talk therapy, eight of the patients were given a 200-microgram dose of lsd designed to \" produce the full spectrum of a typical lsd experience \" on two occasions; the other four received a 20-microgram \" active placebo \" that wasn't expected to have an impact. They took their 10-hour \" trips \" in gasser's office, and, he says, \" their anxiety went down and stayed down. \" specifically, subjects who received full doses of lsd saw a 20 % improvement in their anxiety symptoms, and for those who were still alive a year later, the improvement had lasted, the new york times reports. Those who took the placebo reported increased anxiety. It doesn't sound like a comforting experience at first: the verge says the purpose of administering the psychedelic drug was to \" facilitate discussions about the patients ' fears of dying, \" and one patient reports that \" the major part was pure distress at all these memories i had successfully forgotten for decades. These painful feelings, regrets, this fear of death. \" but he talked about all that with gasser, something he'd found difficult prior to the trip; the times refers to such distress as \" therapeutically valuable, \" and many subjects had similar experiences. Other than that, no serious side effects were seen.",
         "split": "test",
         "cleansed_document": [
-            "Swiss scientists broke a four-decade-long informal ban on lsd research yesterday when they announced the results of a study in which cancer patients received the drug to curb their anxiety about death. The study, which was published in the journal of nervous and mental disease, looked at the safety and efficacy of lsd when used in combination with talk therapy. The researchers used the semisynthetic psychedelic drug to facilitate discussions about the cancer patients ' fears of dying. The patients who took lsd, most of whom were terminally ill, experienced 10-hour-long supervised \" trips. \" one patient described the trips to the new york times as a \" mystical experience, \" where \" the major part was pure distress at all the memories i had successfully forgotten for decades. \" these periods of distress are regarded as therapeutically valuable because they allow patients to address their memories and the emotions they evoke. The patients underwent 30 such trips over the course of two months. A year after the sessions ceased, the patients who had received a full dose of lsd — 200 micrograms — experienced a 20 percent improvement in their anxiety levels. That was not the case for the group who received a lower dose, however, as their anxiety symptoms actually increased. They were later allowed to try the full dose after the trial had ended. \" we want to break",
-            "Login login with your lww journals username and password. Login with your lww journals username and password. Username or email: password: remember me forgot password? forgot your password? enter and submit the email address you registered with. An email with instructions to reset your password will be sent to that address. Email: password sent link to reset your password has been sent to specified email address. Remember me what does \" remember me \" mean? by checking this box, you ' ll stay logged in for 14 days or until you logout. You ' ll get easier access to your articles, collections, media, and all your other content, even if you close your browser or shut down your computer. To protect your most sensitive data and activities ( like changing your password ), we ' ll ask you to re-enter your password when you access these services. What if i ' m on a computer that i share with others? if you're using a public computer or you share this computer with others, we recommend that you uncheck the \" remember me \" box. Export to. End note procite reference manager save my selection keyword highlighting highlight selected keywords in the article text. Lsd psychedelic psycholytic therapy hallucinogen anxiety disorder search for similar articles you may search for similar articles that contain these"
+            "Swiss scientists broke a four-decade-long informal ban on lsd research yesterday when they announced the results of a study in which cancer patients received the drug to curb their anxiety about death. The study, which was published in the journal of nervous and mental disease, looked at the safety and efficacy of lsd when used in combination with talk therapy. The researchers used the semisynthetic psychedelic drug to facilitate discussions about the cancer patients ' fears of dying. The patients who took lsd, most of whom were terminally ill, experienced 10-hour-long supervised \" trips. \" one patient described the trips to the new york times as a \" mystical experience, \" where \" the major part was pure distress at all the memories i had successfully forgotten for decades. \" these periods of distress are regarded as therapeutically valuable because they allow patients to address their memories and the emotions they evoke. The patients underwent 30 such trips over the course of two months. A year after the sessions ceased, the patients who had received a full dose of lsd — 200 micrograms — experienced a 20 percent improvement in their anxiety levels. That was not the case for the group who received a lower dose, however, as their anxiety symptoms actually increased. They were later allowed to try the full dose after the trial had ended. \" we want to break"
         ],
         "raw_document": [
             "Swiss scientists broke a four-decade-long informal ban on lsd research yesterday when they announced the results of a study in which cancer patients received the drug to curb their anxiety about death. The study, which was published in the journal of nervous and mental disease, looked at the safety and efficacy of lsd when used in combination with talk therapy. The researchers used the semisynthetic psychedelic drug to facilitate discussions about the cancer patients ' fears of dying. The patients who took lsd, most of whom were terminally ill, experienced 10-hour-long supervised \" trips. \" one patient described the trips to the new york times as a \" mystical experience, \" where \" the major part was pure distress at all the memories i had successfully forgotten for decades. \" these periods of distress are regarded as therapeutically valuable because they allow patients to address their memories and the emotions they evoke. The patients underwent 30 such trips over the course of two months. A year after the sessions ceased, the patients who had received a full dose of lsd — 200 micrograms — experienced a 20 percent improvement in their anxiety levels. That was not the case for the group who received a lower dose, however, as their anxiety symptoms actually increased. They were later allowed to try the full dose after the trial had ended. \" we want to break",
@@ -1948,7 +1938,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2104,7 +2094,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2156,7 +2146,7 @@
         ],
         "vote_count": {
             "0": 2,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2318,12 +2308,11 @@
     },
     {
         "idx": 52387,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "We can thank thomas edison for plenty of things, but the world had little use for one of his inventions. Edison's talking dolls were among the first of their kind, npr reports. But even in the 1890s, they scared kids — and were expensive — and only about 500 of them were built and sold. ( edison reportedly later referred to the failed dolls as \" little monsters. \" ) some still exist, but they've been silent for years. Robin and joan rolfs, owners of two dolls, feared that operating the cranks on their backs could break them, the new york times reports. Their voices came from recordings on wax cylinders, but if a doll's phonograph needle hit the cylinder again today, it could ruin it. The good news, at least for fans of extremely creepy 19th-century recordings, is that we can finally hear them again. That's thanks to the work of a physicist and an engineer, who developed a technology that uses a microscope to study the grooves on the cylinders before they are re-created as computer images and, ultimately, extremely accurate sounds. The cylinders don't have to be touched at all, the times notes. \" we are now hearing sounds from history that i did not expect to hear in my lifetime, \" the curator of the thomas edison national historical park tells the paper. The recordings feature what are supposed to be the voices of little girls reading nursery rhymes. But the curator tells npr that they more likely contain recordings of factory workers mimicking little kids. \" edison himself thought they were unpleasant, \" he notes. Pbs newshour calls them \" nightmare fuel. \" ( but is it enough to knock edison off the list of the 10 most popular americans? )",
         "split": "test",
         "cleansed_document": [
-            "America edison's talking dolls can now provide the soundtrack to your nightmares i itoggle caption collection of robin and joan rolfs/courtesy of thomas edison national historical park collection of robin and joan rolfs/courtesy of thomas edison national historical park back in 1890, thomas edison gave us some of the world's first talking dolls. Today, the glassy-eyed cherubs that are still around stand about 2 feet tall; they have wooden limbs and a metal body; and they sound supercreepy. ( if you're looking for a soundtrack to your nightmares, listen to the audio story above. ) edison built and sold about 500 of them back in 1890. Now, new technology has made hearing them possible for the first time in decades. Jerry fabris, who curates sound recordings at the thomas edison national historical park, says part of what makes the recordings so unsettling is that they were most likely read by a female factory worker imitating a little girl. ( for example: here's a shrieking recitation of \" a child's prayer \" that you will never unhear. ) fabris says edison was, for the first time, trying to market the then-brand-new wax cylinder phonograph for people to use at home, and he thought the best vehicle would be a doll. Its metal body held a miniature phonograph that was spring-activated by a crank sticking out of the doll's back. Edison knew the sound quality was raw, so he had the dolls recite recognizable verses like \" hickory dickory dock. \" i itoggle caption john reed/national park service john reed/national park service the recordings didn't sound much better in 1890 than they do today. Fabris says, \" edison himself thought they were unpleasant. \" and so did everyone else. The dolls flopped in the market, not because people thought they were creepy but because they were expensive — about $ 200 in today's money. People also thought the dolls weren't lifelike enough; they wanted moving mouths and for the dolls ' voices to be understandable. Edison stopped making the dolls after about a month. \" after the business failed, he referred to them as ' little monsters, ' \" fabris says. And that raises a larger question: why do we find talking dolls so scary? talking toys occupy a horror subgenre so established that it's led to parodies. According to georgetown university horror scholar caetlin benson-allott, a talking toy belongs in an unsettling middle space:",
-            "Published on may 5, 2015 thomas edison's talking dolls contain some of the oldest surviving voice recordings. A government laboratory was able to scan the fragile recordings and make them available to the general public."
+            "America edison's talking dolls can now provide the soundtrack to your nightmares i itoggle caption collection of robin and joan rolfs/courtesy of thomas edison national historical park collection of robin and joan rolfs/courtesy of thomas edison national historical park back in 1890, thomas edison gave us some of the world's first talking dolls. Today, the glassy-eyed cherubs that are still around stand about 2 feet tall; they have wooden limbs and a metal body; and they sound supercreepy. ( if you're looking for a soundtrack to your nightmares, listen to the audio story above. ) edison built and sold about 500 of them back in 1890. Now, new technology has made hearing them possible for the first time in decades. Jerry fabris, who curates sound recordings at the thomas edison national historical park, says part of what makes the recordings so unsettling is that they were most likely read by a female factory worker imitating a little girl. ( for example: here's a shrieking recitation of \" a child's prayer \" that you will never unhear. ) fabris says edison was, for the first time, trying to market the then-brand-new wax cylinder phonograph for people to use at home, and he thought the best vehicle would be a doll. Its metal body held a miniature phonograph that was spring-activated by a crank sticking out of the doll's back. Edison knew the sound quality was raw, so he had the dolls recite recognizable verses like \" hickory dickory dock. \" i itoggle caption john reed/national park service john reed/national park service the recordings didn't sound much better in 1890 than they do today. Fabris says, \" edison himself thought they were unpleasant. \" and so did everyone else. The dolls flopped in the market, not because people thought they were creepy but because they were expensive — about $ 200 in today's money. People also thought the dolls weren't lifelike enough; they wanted moving mouths and for the dolls ' voices to be understandable. Edison stopped making the dolls after about a month. \" after the business failed, he referred to them as ' little monsters, ' \" fabris says. And that raises a larger question: why do we find talking dolls so scary? talking toys occupy a horror subgenre so established that it's led to parodies. According to georgetown university horror scholar caetlin benson-allott, a talking toy belongs in an unsettling middle space:"
         ],
         "raw_document": [
             "America edison's talking dolls can now provide the soundtrack to your nightmares i itoggle caption collection of robin and joan rolfs/courtesy of thomas edison national historical park collection of robin and joan rolfs/courtesy of thomas edison national historical park back in 1890, thomas edison gave us some of the world's first talking dolls. Today, the glassy-eyed cherubs that are still around stand about 2 feet tall; they have wooden limbs and a metal body; and they sound supercreepy. ( if you're looking for a soundtrack to your nightmares, listen to the audio story above. ) edison built and sold about 500 of them back in 1890. Now, new technology has made hearing them possible for the first time in decades. Jerry fabris, who curates sound recordings at the thomas edison national historical park, says part of what makes the recordings so unsettling is that they were most likely read by a female factory worker imitating a little girl. ( for example: here's a shrieking recitation of \" a child's prayer \" that you will never unhear. ) fabris says edison was, for the first time, trying to market the then-brand-new wax cylinder phonograph for people to use at home, and he thought the best vehicle would be a doll. Its metal body held a miniature phonograph that was spring-activated by a crank sticking out of the doll's back. Edison knew the sound quality was raw, so he had the dolls recite recognizable verses like \" hickory dickory dock. \" i itoggle caption john reed/national park service john reed/national park service the recordings didn't sound much better in 1890 than they do today. Fabris says, \" edison himself thought they were unpleasant. \" and so did everyone else. The dolls flopped in the market, not because people thought they were creepy but because they were expensive — about $ 200 in today's money. People also thought the dolls weren't lifelike enough; they wanted moving mouths and for the dolls ' voices to be understandable. Edison stopped making the dolls after about a month. \" after the business failed, he referred to them as ' little monsters, ' \" fabris says. And that raises a larger question: why do we find talking dolls so scary? talking toys occupy a horror subgenre so established that it's led to parodies. According to georgetown university horror scholar caetlin benson-allott, a talking toy belongs in an unsettling middle space:",
@@ -2338,7 +2327,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 3
         }
     },
     {
@@ -2366,7 +2355,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2446,7 +2435,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -2556,7 +2545,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {

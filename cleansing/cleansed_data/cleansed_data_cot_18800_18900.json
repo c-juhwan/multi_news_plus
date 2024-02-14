@@ -23,7 +23,7 @@
         "vote_count": {
             "0": 3,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -98,7 +98,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -193,13 +193,12 @@
     },
     {
         "idx": 18807,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The bernie sanders campaign is threatening to sue the democratic national committee in federal court for restricting its access to voter information, the ap reports. The campaign was cut off from its voter database after accusations it accessed similar data belonging to the clinton campaign. But sanders campaign manager jeff weaver says that was an \" inappropriate overreaction \" on the part of the dnc, according to cnn. The ap reports weaver claims the dnc is \" actively attempting to undermine \" the sanders campaign. \" individual leaders of the dnc can support hillary clinton in any way they want, but they are not going to sabotage our campaign, \" politico quotes weaver, who also described the voter data as being \" stolen \" and held \" hostage \" by the dnc. The clinton voter data was available to the sanders campaign because of a software error, politico reports. The fired staffer who accessed the data claims he was only trying to find out how badly the glitch had compromised the sanders campaign's own data, according to cnn. Without access to its database, the sanders campaign could have a hard time reaching out to voters a day before the third democratic presidential debate and weeks before the iowa caucuses. Weaver called the voter database the campaign's \" lifeblood, \" politico reports. The dnc has said it will consider whether or not to restore the campaign's access to its data after it gets a report on how the clinton data was used and confirmation all copies have been destroyed.",
         "split": "train",
         "cleansed_document": [
             "Washington ( cnn ) bernie sanders ' campaign on friday sued the democratic national committee in federal court after the party organization withheld the campaign's access to a crucial voter database. The internal warfare exploded after the dnc cut off sanders from the database and said the vermont senator's presidential campaign exploited a software error to improperly access confidential voter information collected by hillary clinton's team. The revelation poses a setback for sanders, who is mounting a liberal challenge to the former secretary of state. The dnc database is a goldmine of information about voters and being blocked from it could complicate sanders ' outreach efforts. The timing is also challenging, just weeks before clinton and sanders are slated to compete in the iowa caucuses. And coming the day before a democratic debate, the developments fueled a long-held belief in the sanders camp and among his allies that the dnc has stacked the deck in favor of clinton. At a press conference in washington on friday, sanders campaign manager jeff weaver accused the dnc of trying to sabotage the campaign. \" the dnc, in an inappropriate overreaction, has denied us access to our",
-            "Poster= \" http://v.politico.com/images/1155968404/201512/2683/1155968404_4667436167001_bernie.jpg?pubid=1155968404 \" true chaos in the democratic presidential primary clinton accuses sanders of theft and the underdog alleges sabotage. A civil war erupted within the democratic party on friday after news that bernie sanders ' campaign took advantage of a technological glitch to access, search and save one of hillary clinton's most valuable campaign assets — her voter files. Tension rapidly escalated throughout the day as the democratic national committee cut off sanders ' access to his own voter files, effectively crippling his field operation, and the senator retaliated by suing the party and accusing its leaders of plotting to hand the presidential nomination to the democratic frontrunner. Story continued below by early saturday morning, however, after discussions with the dnc and a federal judge late friday, the sanders campaign said that the dnc had \" capitulated \" and agreed to restore access to the data. \"we are extremely pleased that the dnc has reversed its outrageous decision to take sen. Sanders'data. The information we provided tonight is essentially the same information we already sent them by email on thursday, \" said jeff weaver, sanders ' campaign manager. In a statement issued",
-            "Sign up and get access to special features connect to your facebook or twitter account and we ' ll fill in your registration information. Or simply fill in the form and continue this will appear next to all of your comments this will not appear anywhere on newser i am at least 13 years of age, and have read and agree to the terms of use. Already have an account? login here"
+            "Poster= \" http://v.politico.com/images/1155968404/201512/2683/1155968404_4667436167001_bernie.jpg?pubid=1155968404 \" true chaos in the democratic presidential primary clinton accuses sanders of theft and the underdog alleges sabotage. A civil war erupted within the democratic party on friday after news that bernie sanders ' campaign took advantage of a technological glitch to access, search and save one of hillary clinton's most valuable campaign assets — her voter files. Tension rapidly escalated throughout the day as the democratic national committee cut off sanders ' access to his own voter files, effectively crippling his field operation, and the senator retaliated by suing the party and accusing its leaders of plotting to hand the presidential nomination to the democratic frontrunner. Story continued below by early saturday morning, however, after discussions with the dnc and a federal judge late friday, the sanders campaign said that the dnc had \" capitulated \" and agreed to restore access to the data. \"we are extremely pleased that the dnc has reversed its outrageous decision to take sen. Sanders'data. The information we provided tonight is essentially the same information we already sent them by email on thursday, \" said jeff weaver, sanders ' campaign manager. In a statement issued"
         ],
         "raw_document": [
             "Washington ( cnn ) bernie sanders ' campaign on friday sued the democratic national committee in federal court after the party organization withheld the campaign's access to a crucial voter database. The internal warfare exploded after the dnc cut off sanders from the database and said the vermont senator's presidential campaign exploited a software error to improperly access confidential voter information collected by hillary clinton's team. The revelation poses a setback for sanders, who is mounting a liberal challenge to the former secretary of state. The dnc database is a goldmine of information about voters and being blocked from it could complicate sanders ' outreach efforts. The timing is also challenging, just weeks before clinton and sanders are slated to compete in the iowa caucuses. And coming the day before a democratic debate, the developments fueled a long-held belief in the sanders camp and among his allies that the dnc has stacked the deck in favor of clinton. At a press conference in washington on friday, sanders campaign manager jeff weaver accused the dnc of trying to sabotage the campaign. \" the dnc, in an inappropriate overreaction, has denied us access to our",
@@ -216,7 +215,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -270,7 +269,7 @@
         "vote_count": {
             "0": 4,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -298,7 +297,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -328,12 +327,10 @@
     },
     {
         "idx": 18812,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "A would-be thief in a rio de janeiro suburb apparently chose the wrong gym to rob, the ap reports. Surveillance camera footage shared widely on social media shows the man entering the gym and jumping a turnstile after arguing with the receptionist. Several seconds later, the man is seen jumping back over the turnstile and fleeing outside. He is chased by several jiujitsu students dressed in uniforms. Jiujitsu teacher edgar neto said the incident happened monday night and he reported it to police. The man managed to escape. Police said wednesday he hasn't been arrested, but they have recovered one of his sandals that fell off during the chase.",
         "split": "train",
-        "cleansed_document": [
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "This will appear next to all of your comments this will not appear anywhere on newser",
             "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
@@ -347,18 +344,17 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 18813,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "\" there are lots of guys more hated than me now. But i was the guy everyone hated first. \" so writes jian ghomeshi in the new york review of books about the sexual-assault scandal that ruined his career, the guardian reports. In a 3,500-word essay, the former canadian radio personality veers between defensiveness, self-pity, and contrition as he chronicles his professional and financial collapse. More than 20 women made allegations of being choked, smothered, bitten, slapped, and punched by him, yet he doesn't apologize: \" even as i feel deep remorse... I cannot confess to the accusations that are inaccurate, \" writes the former cbc radio host, who was acquitted in 2016 after apologizing to one woman to avoid another trial. \" what i do confess is that i was emotionally thoughtless in the way i treated those i dated and tried to date. \" that confession — along with his concession that he was \" probably a sexual bully \" — is ringing hollow for many readers, the toronto star reports. \" accountability for me would be reaching out to the people that you harmed and being accountable to them, \" says farrah khan, an expert on sexual violence. New york-based writer moira donegan tweets that \" being a man credibly accused of sexual harassment or assault is one of the more surefire ways for an aspiring writer to find magazine work. \" review editor ian burama then defended his publication's decision to run an article by the widely reviled #metoo figure: \" i am not going to defend his behavior, and i don't know if what all these women are saying is true, \" the 66-year-old tells slate. \" perhaps it is. Perhaps it isn't. \" among the many reactions is a tweet from literary critic parul sehgal that starts simply: \" my god. \"",
         "split": "train",
         "cleansed_document": [
             "Former canadian radio star maintained accusations were 'inaccurate ' in a personal essay for the new york review of books former canadian radio star jian ghomeshi has pointed to a \"systemic culture of unhealthy masculinity \" to explain his behaviour with women, in a personal essay whose publication by a prestigious american magazine has fuelled a broader debate over the lasting consequences for those felled by allegations of sexual misconduct. Ghomeshi was acquitted in march 2016 of four counts of sexual assault and one count of choking involving three complainants. Months later he apologised to a former colleague as part of a deal to drop another count of sexual assault he was facing. In an essay published by the new york review of books, ghomeshi maintained that the accusations against him were \"inaccurate \". He reflected on a fall from grace that saw him go from one of the country's best-known broadcasters to what he described as a",
-            "It's the first time ghomsehi has spoken out on the aftermath of sexual assault accusations against him that first surfaced in 2014. In the hours after it was posted, the piece drew a chorus of negative reaction on social media. Disgraced cbc radio host jian ghomeshi has penned a personal essay in the prestigious new york review of books, bemoaning that he's \"become a hashtag \" and confessing to being \"emotionally thoughtless \" to women he dated. The former cbc radio host was acquitted of sexually assaulting three women in march 2016, following a high-profile criminal trial. \"there are lots of guys more hated than me now. But i was the guy everyone hated first, \" ghomeshi writes in \"reflections from a hashtag, \" which was posted friday, adding that a female friend quipped to him he \"should get some kind of public recognition as a #metoo pioneer. \" \"there was a",
-            "Jian ghomeshi and the new york review of books cover with the \"fall of men \" cover package. Photo illustration by slate. Photos by sonia recchia/getty images for grey goose vodka and the new york review of books. Well before the world associated the phrase \"me too \" with sexual assault, jian ghomeshi was a popular canadian radio host and musician. In 2014 and 2015, however, he became the subject of numerous allegations of sexual assault, which included biting, choking, and punching women in the head. In 2016, he was acquitted on a number of criminal counts when the judge said that the three women who testified in court against him had changed aspects of their story or had failed to reveal information to law enforcement. But these were only a few of the accusations against ghomeshi, which eventually were made by more than 20 women. He also avoided criminal charges"
+            "It's the first time ghomsehi has spoken out on the aftermath of sexual assault accusations against him that first surfaced in 2014. In the hours after it was posted, the piece drew a chorus of negative reaction on social media. Disgraced cbc radio host jian ghomeshi has penned a personal essay in the prestigious new york review of books, bemoaning that he's \"become a hashtag \" and confessing to being \"emotionally thoughtless \" to women he dated. The former cbc radio host was acquitted of sexually assaulting three women in march 2016, following a high-profile criminal trial. \"there are lots of guys more hated than me now. But i was the guy everyone hated first, \" ghomeshi writes in \"reflections from a hashtag, \" which was posted friday, adding that a female friend quipped to him he \"should get some kind of public recognition as a #metoo pioneer. \" \"there was a"
         ],
         "raw_document": [
             "Former canadian radio star maintained accusations were 'inaccurate ' in a personal essay for the new york review of books former canadian radio star jian ghomeshi has pointed to a \"systemic culture of unhealthy masculinity \" to explain his behaviour with women, in a personal essay whose publication by a prestigious american magazine has fuelled a broader debate over the lasting consequences for those felled by allegations of sexual misconduct. Ghomeshi was acquitted in march 2016 of four counts of sexual assault and one count of choking involving three complainants. Months later he apologised to a former colleague as part of a deal to drop another count of sexual assault he was facing. In an essay published by the new york review of books, ghomeshi maintained that the accusations against him were \"inaccurate \". He reflected on a fall from grace that saw him go from one of the country's best-known broadcasters to what he described as a",
@@ -375,7 +371,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -406,17 +402,16 @@
             "1": 5,
             "2": 5,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     },
     {
         "idx": 18815,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A 24-year-old man has been charged with first-degree murder after he allegedly killed a college student who was trying to sell his car for $ 11,000 on craigslist. Taylor clark, who had just taken his last exam at southern illinois university edwardsville, brought a soda to his girlfriend at work monday morning, then drove to a truck driver training center in hazelwood, missouri, to meet a prospective buyer. Emails show michael gordon, an employee of the facility, wanted to discuss clark's 2007 nissan 350zx and perhaps take a test drive. But clark, 19, never returned home. After family reported him missing, police found his car in the center's parking lot and his body in a nearby wooded area. \" there was an attempt to cover him, \" officer tim fagan tells the belleville news-democrat. Police tell ktvi that gordon met clark on his lunch break, shot him once, moved his body, then returned to work. Police believe gordon, who is being held at the st. Louis county jail on a $ 1 million bond, acted alone, though they're exploring the idea that clark had company. \" we're looking at the possibility that there was someone with him, \" fagan says. Authorities are still searching for the murder weapon and gordon's car, a red 1990 bmw 325i. Workers at an illinois convenience store where clark worked say he was adored. \" he would dance behind the counter, \" the manager says. \" the customers loved him. His co-workers loved him. You won't find anyone to say a bad thing about him. \" a police department in fairview heights has since introduced a \" safe exchange zone \" for transactions with strangers in its parking lot, monitored by cameras. \" you never know who it is you're contacting, \" fagan tells the ap. \" precautions should be taken. \"",
         "split": "train",
         "cleansed_document": [
-            "Hazelwood, mo. ( ap ) — a st. Louis man has been arrested and charged with murder in the slaying of a 19-year-old illinois college student who went missing while trying to sell his sports car on craigslist, authorities said. Capt. Tim fagan of the florissant, missouri, police department said at a news conference wednesday night that 24-year-old michael gordon was taken into custody tuesday and was being held at the st. Louis county jail in lieu of $ 1 million bond. Gordon has been charged with first-degree murder and armed criminal action in the death of taylor clark, a sophomore engineering student at southern illinois university-edwardsville. Fagan, the deputy commander of the major case squad of greater st. Louis and lead investigator in the case, said police arrested gordon after his name was found in emails gordon traded with clark about the car clark was trying to sell. Investigators said the two did not know one another before they met. Police say gordon is an employee of a truck driver training center in the st. Louis suburb of hazelwood, missouri, not far from where clark's 2007 nissan 350zx and body were found tuesday. It was not immediately clear whether gordon has an attorney. Clark, who is from the southwestern illinois town of st. Jacob, was reported missing by family members on monday. Authorities say he was last seen by his girlfriend. \" our hearts and minds are with taylor clark's family and friends as they cope with this tragic loss, \" siu-e chancellor julie furst-bowe said in a statement issued wednesday. \" at a time of the year when the new spring season brings the promise of brighter days ahead, and commencement provides unending potential for so many of our students, it is truly sad that taylor had his bright future taken away. \" the belleville ( illinois ) news-democrat reported that clark worked at a convenience store in troy, where a candlelight vigil was scheduled for wednesday night. A similar vigil was held tuesday night on campus. Clark's death comes during",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Hazelwood, mo. ( ap ) — a st. Louis man has been arrested and charged with murder in the slaying of a 19-year-old illinois college student who went missing while trying to sell his sports car on craigslist, authorities said. Capt. Tim fagan of the florissant, missouri, police department said at a news conference wednesday night that 24-year-old michael gordon was taken into custody tuesday and was being held at the st. Louis county jail in lieu of $ 1 million bond. Gordon has been charged with first-degree murder and armed criminal action in the death of taylor clark, a sophomore engineering student at southern illinois university-edwardsville. Fagan, the deputy commander of the major case squad of greater st. Louis and lead investigator in the case, said police arrested gordon after his name was found in emails gordon traded with clark about the car clark was trying to sell. Investigators said the two did not know one another before they met. Police say gordon is an employee of a truck driver training center in the st. Louis suburb of hazelwood, missouri, not far from where clark's 2007 nissan 350zx and body were found tuesday. It was not immediately clear whether gordon has an attorney. Clark, who is from the southwestern illinois town of st. Jacob, was reported missing by family members on monday. Authorities say he was last seen by his girlfriend. \" our hearts and minds are with taylor clark's family and friends as they cope with this tragic loss, \" siu-e chancellor julie furst-bowe said in a statement issued wednesday. \" at a time of the year when the new spring season brings the promise of brighter days ahead, and commencement provides unending potential for so many of our students, it is truly sad that taylor had his bright future taken away. \" the belleville ( illinois ) news-democrat reported that clark worked at a convenience store in troy, where a candlelight vigil was scheduled for wednesday night. A similar vigil was held tuesday night on campus. Clark's death comes during"
         ],
         "raw_document": [
             "Hazelwood, mo. ( ap ) — a st. Louis man has been arrested and charged with murder in the slaying of a 19-year-old illinois college student who went missing while trying to sell his sports car on craigslist, authorities said. Capt. Tim fagan of the florissant, missouri, police department said at a news conference wednesday night that 24-year-old michael gordon was taken into custody tuesday and was being held at the st. Louis county jail in lieu of $ 1 million bond. Gordon has been charged with first-degree murder and armed criminal action in the death of taylor clark, a sophomore engineering student at southern illinois university-edwardsville. Fagan, the deputy commander of the major case squad of greater st. Louis and lead investigator in the case, said police arrested gordon after his name was found in emails gordon traded with clark about the car clark was trying to sell. Investigators said the two did not know one another before they met. Police say gordon is an employee of a truck driver training center in the st. Louis suburb of hazelwood, missouri, not far from where clark's 2007 nissan 350zx and body were found tuesday. It was not immediately clear whether gordon has an attorney. Clark, who is from the southwestern illinois town of st. Jacob, was reported missing by family members on monday. Authorities say he was last seen by his girlfriend. \" our hearts and minds are with taylor clark's family and friends as they cope with this tragic loss, \" siu-e chancellor julie furst-bowe said in a statement issued wednesday. \" at a time of the year when the new spring season brings the promise of brighter days ahead, and commencement provides unending potential for so many of our students, it is truly sad that taylor had his bright future taken away. \" the belleville ( illinois ) news-democrat reported that clark worked at a convenience store in troy, where a candlelight vigil was scheduled for wednesday night. A similar vigil was held tuesday night on campus. Clark's death comes during",
@@ -431,7 +426,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -459,7 +454,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 2
         }
     },
     {
@@ -564,7 +559,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -616,17 +611,16 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 2
         }
     },
     {
         "idx": 18823,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A furious jon stewart gave the obama administration a piece of his mind last night, mediaite reports. Just as he was discussing the groundless nature of the right's benghazi accusations, the daily show played a clip describing the irs tea party-targeting scandal, prompting the host to explode in a flurry of profanity. As for the agency's apology, stewart scoffs: \" i didn't realize apologies were sufficient in irs-related issues. \" he added: \" congratulations, barack obama. Conspiracy theorists, who generally can survive in anaerobic environments, have just had an algae bloom dropped on their f --- ing heads... This has in one seismic moment shifted the burden of proof from the tin-foil-behatted to the government. \" the host then relented, noting that \" this storm will pass \" — right before getting news of the justice department's reported ap snooping.",
         "split": "train",
         "cleansed_document": [
-            "Jon stewart mercilessly tore into the obama administration tonight over the revelation that the internal revenue service specifically targeted tea party groups for scrutiny. Stewart slammed the government's lack of \"managerial competence \" and said that thanks to this scandal, conspiracy theorists how have a level of vindication they've never had before. After briefly responding to bill o'reilly going after him, stewart mockingly opined that there is no possible justification for all the wild claims conservatives have made about government overreach, only to be caught up with the irs scandal. Stewart said the whole tax-exempt status thing is \"bullshit, \" but it's bullshit that should be granted equally. Stewart slammed the irs director who not only thought an apology was good enough for an irs-related matter, but admitted she's not good at math. Stewart snarkily replied, \"that's a good one, lady who works at the place that calculate people's taxes! \" stewart explained exactly why this scandal has changed the dynamic between the white house and its conservative opponents. \"well, congratulations, president barack obama, conspiracy theorists who generally can survive in anaerobic environments have just had an algae bloom dropped on their fucking heads, thus removing the last arrow in your pro-governance quiver: skepticism about your opponents. \" stewart argued that this scandal has now \"shifted the burden of proof from the tin foil-behatted to the government, \" saying that the government lacks any real \"managerial competence \" when it wants to do good, but when it wants to flex some malevolent muscles, \"you're fucking iron man! \" watch the video below, courtesy of comedy central: — – follow josh feldman on twitter: @feldmaniac have a tip we should know? tips@mediaite.com",
-            "Focused crawls are collections of frequently-updated webcrawl data from narrow ( as opposed to broad or wide ) web crawls, often focused on a single domain or subdomain."
+            "Jon stewart mercilessly tore into the obama administration tonight over the revelation that the internal revenue service specifically targeted tea party groups for scrutiny. Stewart slammed the government's lack of \"managerial competence \" and said that thanks to this scandal, conspiracy theorists how have a level of vindication they've never had before. After briefly responding to bill o'reilly going after him, stewart mockingly opined that there is no possible justification for all the wild claims conservatives have made about government overreach, only to be caught up with the irs scandal. Stewart said the whole tax-exempt status thing is \"bullshit, \" but it's bullshit that should be granted equally. Stewart slammed the irs director who not only thought an apology was good enough for an irs-related matter, but admitted she's not good at math. Stewart snarkily replied, \"that's a good one, lady who works at the place that calculate people's taxes! \" stewart explained exactly why this scandal has changed the dynamic between the white house and its conservative opponents. \"well, congratulations, president barack obama, conspiracy theorists who generally can survive in anaerobic environments have just had an algae bloom dropped on their fucking heads, thus removing the last arrow in your pro-governance quiver: skepticism about your opponents. \" stewart argued that this scandal has now \"shifted the burden of proof from the tin foil-behatted to the government, \" saying that the government lacks any real \"managerial competence \" when it wants to do good, but when it wants to flex some malevolent muscles, \"you're fucking iron man! \" watch the video below, courtesy of comedy central: — – follow josh feldman on twitter: @feldmaniac have a tip we should know? tips@mediaite.com"
         ],
         "raw_document": [
             "Jon stewart mercilessly tore into the obama administration tonight over the revelation that the internal revenue service specifically targeted tea party groups for scrutiny. Stewart slammed the government's lack of \"managerial competence \" and said that thanks to this scandal, conspiracy theorists how have a level of vindication they've never had before. After briefly responding to bill o'reilly going after him, stewart mockingly opined that there is no possible justification for all the wild claims conservatives have made about government overreach, only to be caught up with the irs scandal. Stewart said the whole tax-exempt status thing is \"bullshit, \" but it's bullshit that should be granted equally. Stewart slammed the irs director who not only thought an apology was good enough for an irs-related matter, but admitted she's not good at math. Stewart snarkily replied, \"that's a good one, lady who works at the place that calculate people's taxes! \" stewart explained exactly why this scandal has changed the dynamic between the white house and its conservative opponents. \"well, congratulations, president barack obama, conspiracy theorists who generally can survive in anaerobic environments have just had an algae bloom dropped on their fucking heads, thus removing the last arrow in your pro-governance quiver: skepticism about your opponents. \" stewart argued that this scandal has now \"shifted the burden of proof from the tin foil-behatted to the government, \" saying that the government lacks any real \"managerial competence \" when it wants to do good, but when it wants to flex some malevolent muscles, \"you're fucking iron man! \" watch the video below, courtesy of comedy central: — – follow josh feldman on twitter: @feldmaniac have a tip we should know? tips@mediaite.com",
@@ -641,7 +635,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -799,7 +793,7 @@
         "vote_count": {
             "0": 0,
             "1": 5,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -851,7 +845,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -881,12 +875,10 @@
     },
     {
         "idx": 18833,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Relatives are mourning an entire family wiped out in a horrific crash early sunday on interstate 75 in northern florida. Police say parents nathan and lynda russell and children la ' nyah 15, and natayah, 10, were pronounced dead at the scene after their suv veered off the road and hit the back of a disabled tractor-trailer, 11alive reports. Nathan jr., natayah's twin brother, was pronounced dead in a gainesville hospital on monday. The russells were on their way back to their fort lauderdale-area home from georgia, according to a gofundme page set up to help lynda russell's parents with funeral expenses. \" this one hurts. From the bahamas to haiti to south florida... Our hearts are broken, \" nathan russell's cousin said in a facebook post, per the miami herald. Police say the father was at the wheel of the rented 2016 chrysler 200, in which natayah was the only one wearing a seatbelt. \" what we believe is that it was possibly driver fatigue. That's what the thinking is right now, \" a florida highway patrol spokesman tells the gainesville sun. \" a lot of people are taking road trips now with spring breaks. Maybe that's what they were doing. \"",
         "split": "train",
-        "cleansed_document": [
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites.",
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
@@ -900,7 +892,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -960,7 +952,7 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -1229,17 +1221,15 @@
             "0": 0,
             "1": 1,
             "2": 3,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 18846,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "A civil lawsuit is inching forward against the jordan-based arab bank for allegedly facilitating payments to the families of suicide bombers — but there's also a us connection to the scheme, writes adam penenberg at pando daily. New york attorney gary osen, who filed the suit 10 years ago, says the bank's us-dollar transactions are cleared in new york, and federal officials haven't done a darn thing about it. The bank has apparently shuttled \" massive amounts of terror financing from madison avenue, \" writes penenberg. As for osen's $ 2 billion suit, representing 235 plaintiffs, he filed it because of how terror is financed in palestine. Typically hamas visits the families of suicide bombers and has them fill out mundane forms to receive financing through the arab bank, according to the lawsuit. The money comes from sources such as iran, iraq, and saudi charities, and families find it hard to refuse. As one palestinian father told der spiegel after israel leveled his house, \" we needed the money. We suddenly no longer had a house. \" in dealing with osen, the arab bank has denied some document requests and postponed a trial date, but barring a late reprieve from the supreme court, the suit is headed for a trial or costly settlement. But osen says he's doing it for his clients, not the money: \" they did it and do it... Because it gave them an opportunity to not be victims. \" click for penenberg's full article, or see msn-nz's report on how hamas is getting into the film business.",
         "split": "train",
-        "cleansed_document": [
-            "Reuters palestinian suicide bomber bassam takruri killed seven people when he blew himself up on a jersualem bus on may 18, 2003. His family then received $ 200 a month for over a year, after opening an arab bank account. On the morning of the day before he planned to blow himself up, bassam takruri wore a freshly ironed shirt, a blazer and polished shoes. At 10 a.m., the student said goodbye to his father, who gave him ten shekels in pocket money. It was a beautiful saturday in may in the palestinian town of hebron. Everything seemed normal, at least for the rest of the family. The 18-year-old bassam, a boy with dark, earnest eyes, was ambitious. He wanted to become an engineer. His father called him his best son. But he spent the last night of his life away from this family -- something many suicide bombers do so as not to lose their nerve at the last moment. On the sunday morning of the day bassam picked for his terror attack, steve averbach strapped on his pistol in a jerusalem suburb just as he had been doing for years. Averbach was a police officer. It was early, not even 6 a.m. And his two small sons sean and adam and his wife julie were still sleeping. At a stop in the northern part"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "The day before he blew himself up, bassam jamal darwish al-takruri wore a freshly ironed white shirt, blazer, and shiny shoes, as if he were on his way to a job interview. As he was about to leave home for the last time, his father gave him 10 shekels in pocket money, apparently unaware of his son's plans. Takruri, who lived in hebron, was 18, boyish, thin, and studious — he dreamed of becoming an engineer — with doleful eyes, scratchy eyebrows, and a high, arcing forehead. He traveled to a secret location to record a video announcing his intent to become a \"martyr \" and offering glory to allah. \"my dear father, my affectionate mother, my dear brothers and sisters, do not say we lost that who is gone, \" he said. \"if immortality means loss, it is better that you lose me. \" he called his death \"a cheap price \" to pay \"for the sake of allah and islam, \" and begged his family to view it as a day of celebration. Afterward takruri met his handler, an operative for hamas, in abu dis, a town bordering jerusalem and governed by the palestinian national authority. It was brushing up against 5 p.m. On may 17, 2003, during the second palestinian intifada, a",
             "Reuters palestinian suicide bomber bassam takruri killed seven people when he blew himself up on a jersualem bus on may 18, 2003. His family then received $ 200 a month for over a year, after opening an arab bank account. On the morning of the day before he planned to blow himself up, bassam takruri wore a freshly ironed shirt, a blazer and polished shoes. At 10 a.m., the student said goodbye to his father, who gave him ten shekels in pocket money. It was a beautiful saturday in may in the palestinian town of hebron. Everything seemed normal, at least for the rest of the family. The 18-year-old bassam, a boy with dark, earnest eyes, was ambitious. He wanted to become an engineer. His father called him his best son. But he spent the last night of his life away from this family -- something many suicide bombers do so as not to lose their nerve at the last moment. On the sunday morning of the day bassam picked for his terror attack, steve averbach strapped on his pistol in a jerusalem suburb just as he had been doing for years. Averbach was a police officer. It was early, not even 6 a.m. And his two small sons sean and adam and his wife julie were still sleeping. At a stop in the northern part"
@@ -1253,7 +1243,7 @@
         ],
         "vote_count": {
             "0": 4,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1278,7 +1268,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1303,18 +1293,17 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 18849,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A pregnant food network star and her husband have disappeared, and a man has been charged with their murders. Cristie schoen codd, 38, and joseph codd, 45, were reported missing by family members sunday, according to the hollywood reporter; deputies found their pets and their vehicles still at their north carolina home. Fellow north carolinian robert jason owens, 36, was arrested and charged with two counts of first-degree murder and a count of murder of an unborn child, plus charges related to breaking or entering and stealing a laptop, jewelry, and a gun. Authorities believe the codds died on thursday, but won't comment on the couple's remains. Owens was a contractor the codds hired to work on their home. \" he had done some odd jobs for them, \" the local sheriff tells the asheville citizen-times, but he notes that investigators are still working to determine a motive. Owens was also a \" primary suspect \" in the disappearance of another local 18-year-old in 2000, though he was never charged; authorities won't comment on his connection to that case. As cristie schoen, codd was a finalist on the food network star competition in its eighth season in 2012. She had also worked as a stunt performer, a location chef, and head caterer for some big movies, and in minor acting roles, nbc news reports; her husband was a hollywood grip. ( click to read about 13 more bizarre hollywood deaths. )",
         "split": "train",
         "cleansed_document": [
             "Play facebook twitter embed food network star contestant murdered 1: 37 a north carolina man was charged tuesday with three counts of murder in the disappearances of food network star cristie schoen, her husband and their unborn child, authorities confirmed. Robert jason owens, 36, of leicester, near asheville in western north carolina, was arrested monday and was ordered held without bond tuesday in buncombe county district court, the buncombe sheriff's office said. Investigators wouldn't say whether the bodies of the couple — who were identified under their married names of cristie codd, 38, and joseph t. Codd, 45 — had been found. But they said their investigation led them to charge owens — a contractor whom the codds had hired to work on their home — with two counts of felony first-degree murder, felony murder of an unborn child, breaking and entering and larceny. A",
-            "Cristie schoen codd appeared on the cooking-competition show in 2012 and was a stunt performer in this summer's'terminator genisys. ' a north carolina man has been charged with the deaths of a pregnant food network star contestant and her husband, the hollywood reporter has confirmed. Robert jason owens, 36, has been arrested for the murders of cristie schoen codd, 38, and husband joseph codd, 45, according to the buncombe county sheriff's office. All three are residents of leicester, n.c. The suspect has been charged with two counts of felony first-degree murder, one felony count of breaking or entering, larceny after breaking and entering and free text felony. He currently is in custody at the buncombe county detention facility. The couple had been reported missing by family on sunday. Deputies responded and found the couple's vehicles and pets at their home. Cristie",
-            "From michael jackson to natalie wood to sharon tate, radaronline.com has a gallery of 13 bizarre hollywood deaths that are more tragic, mysterious and too weird for words. Advertisement g michael jackson: the king of pop, 50, suffered a death as bizarre as his flamboyant life. Jackson -- desperate to sleep while getting ready for a series of comeback concerts -- was treated by dr. Conrad murray, who gave him the anesthetic propofol, causing the singer's death on june 25, 2009. Murray was convicted of involuntary manslaughter in 2011. Michael's kids and his mother are currently fighting jackson's concert promoter, aeg live, in a wrongful-death case, contending the company was responsible for murray's treatment of the star. G whitney houston: it shocked the world when the pop singer, 48, was found dead in the bathtub of the beverly hilton hotel on"
+            "Cristie schoen codd appeared on the cooking-competition show in 2012 and was a stunt performer in this summer's'terminator genisys. ' a north carolina man has been charged with the deaths of a pregnant food network star contestant and her husband, the hollywood reporter has confirmed. Robert jason owens, 36, has been arrested for the murders of cristie schoen codd, 38, and husband joseph codd, 45, according to the buncombe county sheriff's office. All three are residents of leicester, n.c. The suspect has been charged with two counts of felony first-degree murder, one felony count of breaking or entering, larceny after breaking and entering and free text felony. He currently is in custody at the buncombe county detention facility. The couple had been reported missing by family on sunday. Deputies responded and found the couple's vehicles and pets at their home. Cristie"
         ],
         "raw_document": [
             "Play facebook twitter embed food network star contestant murdered 1: 37 a north carolina man was charged tuesday with three counts of murder in the disappearances of food network star cristie schoen, her husband and their unborn child, authorities confirmed. Robert jason owens, 36, of leicester, near asheville in western north carolina, was arrested monday and was ordered held without bond tuesday in buncombe county district court, the buncombe sheriff's office said. Investigators wouldn't say whether the bodies of the couple — who were identified under their married names of cristie codd, 38, and joseph t. Codd, 45 — had been found. But they said their investigation led them to charge owens — a contractor whom the codds had hired to work on their home — with two counts of felony first-degree murder, felony murder of an unborn child, breaking and entering and larceny. A",
@@ -1331,7 +1320,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -1588,7 +1577,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1719,7 +1708,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1744,7 +1733,7 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1823,14 +1812,13 @@
     },
     {
         "idx": 18869,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "A civil suit against bill cosby is now all systems go after california's supreme court rejected the comedian's request to review the case, nbc news reports. What this means in the short term: the lawyer for the woman who's suing cosby for allegedly sexually assaulting her in the playboy mansion in 1974 wants to grill him. \" we are looking forward to mr. Cosby answering questions under oath at his deposition and we will continue to seek justice for our courageous client, judy huth, \" gloria allred said yesterday, per nbc. Allred says the supreme court's decision was \" a huge, huge victory \" for huth and added that she hoped to get cosby in a room for questioning within 30 days, cnn reports. And if cosby hems and haws about availability? \" we are willing to even go to massachusetts where allegedly he resides and take [ the deposition ], \" allred said, per cbs los angeles. Huth says she was 15 when she went to the playboy mansion with the comedian and he molested her in a bedroom. Cosby's legal team had sought in june to have the state supreme court review huth's case based on what they say were \" procedural errors \" in its filing, notes nbc. They claim, per cnn, that cosby should never have been named in the suit based on california child sex-abuse law, and that the statute of limitations had long since expired because she tried to sell this story to a tabloid a decade ago. The curt posting on the supreme court's website simply reads: \" petition for review denied, \" per the press-enterprise. This comes just days after cosby's 2005 deposition in the case of andrea constand started circulating. ( cosby wants constand to pay. )",
         "split": "train",
         "cleansed_document": [
             "Cosby case: court won't throw out canyon lake woman's molestation claim share pin it 1 of 2 more galleries advertisement judy huth is suing bill cosby, alleging the comedian sexually abused her when she was 15 years old. Anthony mccartney, anthony mccartney/ap file photo related article » an attorney for a canyon lake woman alleging bill cosby molested her declared \"a major victory \" in the case after the california supreme court denied a request by the comedian's legal team to have the case thrown out. Judy huth, 57, said in the lawsuit filed in december in los angeles superior court that cosby had forced her to perform a sex act on",
             "Bill cosby could face a new deposition in a lawsuit by a woman who claims the actor molested her at the playboy mansion in 1974, when she was 15 years old. The california supreme court without comment wednesday rejected cosby's petition to review earlier rulings in the suit filed by judy huth, which cosby's lawyers argued were based on procedural errors. A deposition scheduled for last month has been on hold pending cosby's petition. With that out of the way, huth's attorney, gloria allred, said wednesday that she would seek to question cosby \" as soon as possible within the next 30 days. \" the alleged irregularities occurred",
-            "Los angeles ( cbsla.com ) — the california supreme court on wednesday declined to hear bill cosby's legal challenge to a lawsuit filed by one of his accusers. A petition by the comedian sought review of the lawsuit brought by judy huth, who claims cosby sexually assaulted her in 1974 at the playboy mansion when she was 15. The 78-year-old cosby tried to block the case from moving forward, citing \"procedural irregularities. \" but on wednesday, the high court denied cosby's petition seeking review of huth's case. Gloria allred, huth's attorney, says cosby can now be deposed under oath. She says she wants to depose him within 30 days",
-            "Photos: who are cosby's accusers? more than 50 women have spoken out to various media outlets about allegations of sexual misconduct by bill cosby. Here are 25, in chronological order, who have spoken with cnn, spoken on camera about their allegations or been the subject of responses from cosby's attorneys. Read more on the allegations and cosby's denials. Hide caption 1 of 26 photos: who are cosby's accusers? in january 2004, andrea constand, then a 31-year-old staffer for the women's basketball team at temple university -- cosby's alma mater -- was at the comedian's cheltenham, pennsylvania, home"
+            "Los angeles ( cbsla.com ) — the california supreme court on wednesday declined to hear bill cosby's legal challenge to a lawsuit filed by one of his accusers. A petition by the comedian sought review of the lawsuit brought by judy huth, who claims cosby sexually assaulted her in 1974 at the playboy mansion when she was 15. The 78-year-old cosby tried to block the case from moving forward, citing \"procedural irregularities. \" but on wednesday, the high court denied cosby's petition seeking review of huth's case. Gloria allred, huth's attorney, says cosby can now be deposed under oath. She says she wants to depose him within 30 days"
         ],
         "raw_document": [
             "Cosby case: court won't throw out canyon lake woman's molestation claim share pin it 1 of 2 more galleries advertisement judy huth is suing bill cosby, alleging the comedian sexually abused her when she was 15 years old. Anthony mccartney, anthony mccartney/ap file photo related article » an attorney for a canyon lake woman alleging bill cosby molested her declared \"a major victory \" in the case after the california supreme court denied a request by the comedian's legal team to have the case thrown out. Judy huth, 57, said in the lawsuit filed in december in los angeles superior court that cosby had forced her to perform a sex act on",
@@ -1849,7 +1837,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -1979,7 +1967,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -2012,13 +2000,12 @@
     },
     {
         "idx": 18876,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The ili pika seems almost too cute to be real — but a newly released photo proves it does indeed still exist. Scientist li weidong and his team were lucky enough to spot one last july in china's tianshan mountains during a search, national geographic reports. It was the first time in more than 20 years one had been seen. \" they found it hiding behind a rock, and they realized they had found the pika, \" one of li's colleagues says. Li discovered the roughly 8-inch-long creature in 1983 when he was studying infectious diseases near a xinjiang province mountain; he tells cnn the name he gave it is a nod to his hometown: ili. \" i sat down next to some rocks, and suddenly two bunny ears emerged from the crack of one of the rocks, \" he tells the bbc of that first discovery. \" the little thing was staring at me, blinking at me, \" he continues. \" i thought it was the most beautiful and bizarre creature i'd ever seen. \" fellow researchers noted that the species hadn't previously been identified, and even now, only 29 of the live animals have ever been seen; china classifies it as an endangered species. Indeed, over 37 days spent looking in 2002 and 2003, li and his team were unable to find a single pika. Today, it faces challenges to its survival thanks to human encroachment on its habitat as well as air pollution, but as carrie arnold notes at national geographic, \" there are no concerted efforts under way to help the ili pika. \" but li hopes he can parlay the rediscovery into the creation of protected areas for it. And as arnold quips, \" how could anyone turn down a face like that? \" ( another recently spotted rare find: a fanged deer. )",
         "split": "train",
         "cleansed_document": [
             "Media playback is unsupported on your device media caption a rare glimpse of the ili pika everyone on social media is talking about china's \" magic bunny \", the cutest endangered animal that you have never heard of. Sixty-year-old retired conservationist li weidong has been on a mission for over 30 years to document and protect the highly-endangered ili pika - a mysterious rabbit-like mammal only found in china. With less than 1,000 left they are now rarer than pandas. Mr li first spotted the \" magic bunny \" in 1983. He remembers his first encounter vividly. \" i had been climbing a mountain for four hours, and was just catching my breath, when suddenly, i saw the shadow of a small creature running by. \" \" i sat down next to some rocks, and suddenly two bunny ears emerged from the crack of one of the rocks. The little thing was staring at me, blinking at me. I thought it was the most beautiful and bizarre creature i'd ever seen. I couldn't believe my eyes. \" image caption mr li first spotted the animal in 1983 in the mountains of the ili prefecture at the time mr li was working on disease prevention. He was not looking to discover",
-            "Beijing ( cnn ) native to a remote region of china, this tiny mammal, known as the ili pika, doesn't know it's a member of an endangered species -- and neither do most people. Li discovered the pika, formally known as ochotona iliensis, in 1983 and named it after his hometown, ili. Last july, li spotted and photographed the elusive creature for the first time since the early 1990s. He estimates its numbers have declined by almost 70 % since its discovery. \" i discovered the species, and i watched as it became endangered, \" he told cnn. \" if it becomes extinct in front of me, i ' ll feel so guilty. \" in 2008, the animal was listed as endangered by the international union for conservation of nature but there's no official organization or team dedicated studying or protecting it, according to li. Shrinking habitat the ili pika photographed by li weidong in july 2014. The mammal, only 20 centimeters long, lives on sloping bare rock faces and feeds on grasses at high elevations. Li says the pika's habitat has been affected by global warming. Due to rising temperatures, glaciers have receded and the altitude of permanent snow",
-            "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period."
+            "Beijing ( cnn ) native to a remote region of china, this tiny mammal, known as the ili pika, doesn't know it's a member of an endangered species -- and neither do most people. Li discovered the pika, formally known as ochotona iliensis, in 1983 and named it after his hometown, ili. Last july, li spotted and photographed the elusive creature for the first time since the early 1990s. He estimates its numbers have declined by almost 70 % since its discovery. \" i discovered the species, and i watched as it became endangered, \" he told cnn. \" if it becomes extinct in front of me, i ' ll feel so guilty. \" in 2008, the animal was listed as endangered by the international union for conservation of nature but there's no official organization or team dedicated studying or protecting it, according to li. Shrinking habitat the ili pika photographed by li weidong in july 2014. The mammal, only 20 centimeters long, lives on sloping bare rock faces and feeds on grasses at high elevations. Li says the pika's habitat has been affected by global warming. Due to rising temperatures, glaciers have receded and the altitude of permanent snow"
         ],
         "raw_document": [
             "Media playback is unsupported on your device media caption a rare glimpse of the ili pika everyone on social media is talking about china's \" magic bunny \", the cutest endangered animal that you have never heard of. Sixty-year-old retired conservationist li weidong has been on a mission for over 30 years to document and protect the highly-endangered ili pika - a mysterious rabbit-like mammal only found in china. With less than 1,000 left they are now rarer than pandas. Mr li first spotted the \" magic bunny \" in 1983. He remembers his first encounter vividly. \" i had been climbing a mountain for four hours, and was just catching my breath, when suddenly, i saw the shadow of a small creature running by. \" \" i sat down next to some rocks, and suddenly two bunny ears emerged from the crack of one of the rocks. The little thing was staring at me, blinking at me. I thought it was the most beautiful and bizarre creature i'd ever seen. I couldn't believe my eyes. \" image caption mr li first spotted the animal in 1983 in the mountains of the ili prefecture at the time mr li was working on disease prevention. He was not looking to discover",
@@ -2035,7 +2022,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2060,7 +2047,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2118,18 +2105,17 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 1
         }
     },
     {
         "idx": 18880,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Alan alda revealed on cbs this morning tuesday that he was diagnosed with parkinson's disease three and a half years ago — and it's important to him that people know he's still been able to live a full life since then. \" i've acted, i've given talks, i help at the alda center for communicating science at stony brook, i started this new podcast, \" the 82-year-old says. He adds that he doesn't want to diminish the experience of people suffering from severe symptoms in the later stages of the disease, but \" in the very beginning, to be immobilized by fear and think the worst thing has happened to you — it hasn't happened to you, you still have things you can do. \" he says he boxes three times a week, plays tennis every week, and marches to sousa music because marching is good for parkinson's, a progressive nervous system disorder that affects movement. He says that while some symptoms are common, the disease is different for everyone, and every day is different, too. \" you know how i look at it, it's like a puzzle to be solved: what do i have to adapt to to carry on a normal life? \" he says, adding that he's \" not angry \" about his diagnosis. He hopes that by speaking out he may help others. \" you can learn about things, and not follow quackery, but find out what real science is coming up with that helps, \" he says. \" it helps to keep moving. It helps to move rhythmically. \" he adds that he sometimes worried, if his thumb twitched during an interview, that \" it's probably only a matter of time before somebody does a story about this from a sad point of view, but that's not where i am \" — and now he can stop worrying about that.",
         "split": "train",
         "cleansed_document": [
             "Alan alda has parkinson's disease. In an appearance on \" cbs this morning \" tuesday, the award-winning actor, best known for his relatable portrayal of army capt. \" hawkeye \" pierce in the tv series \" m*a*s*h, \" revealed he was diagnosed three-and-a-half years ago. \" i've had a full life since then, \" he said. \" i've acted, i've given talks, i help at the alda center for communicating science at stony brook. I started this new podcast. And i noticed that – i had been on television a lot in the last couple of weeks talking about the new podcast – and i could see my thumb twitch in some shots and i thought, it's probably only a matter of time before somebody does a story about this from a sad point of view, but that's not where",
-            "Overview parkinson's disease is a progressive nervous system disorder that affects movement. Symptoms start gradually, sometimes starting with a barely noticeable tremor in just one hand. Tremors are common, but the disorder also commonly causes stiffness or slowing of movement. In the early stages of parkinson's disease, your face may show little or no expression. Your arms may not swing when you walk. Your speech may become soft or slurred. Parkinson's disease symptoms worsen as your condition progresses over time. Although parkinson's disease can't be cured, medications might significantly improve your symptoms. Occasionally, your doctor may suggest surgery to regulate certain regions of your brain and improve your symptoms. Symptoms parkinson's disease signs and symptoms can be different for everyone. Early signs may be mild and go unnoticed. Symptoms often begin on one side of your body and",
-            "1 clean rachael ray on communicating through the medium of food rachael ray and alan alda sit down at the kitchen table for a conversation about connecting and relating over food, just in time for the holidays! free view in itunes 2 clean w. Kamau bell on how he communicates with racists w. Kamau bell, the host of cnn's \" united shades of america, \" speaks with alan alda about how to communicate with racists. Free view in itunes 3 clean how the alda center teaches empathy in science, and medicine ( part 3 ) in this last episode in our 3-part series on medical communication we speak with dr. Susmita pati and dr. Laura lindenfeld who are pioneering the medical communication program at the alan alda center for communicating science at stony brook university. Free view in itunes 4 clean dr. Karl vandevender: empathy and the doctor-patient relationship ( part 2 ) alan alda speaks"
+            "Overview parkinson's disease is a progressive nervous system disorder that affects movement. Symptoms start gradually, sometimes starting with a barely noticeable tremor in just one hand. Tremors are common, but the disorder also commonly causes stiffness or slowing of movement. In the early stages of parkinson's disease, your face may show little or no expression. Your arms may not swing when you walk. Your speech may become soft or slurred. Parkinson's disease symptoms worsen as your condition progresses over time. Although parkinson's disease can't be cured, medications might significantly improve your symptoms. Occasionally, your doctor may suggest surgery to regulate certain regions of your brain and improve your symptoms. Symptoms parkinson's disease signs and symptoms can be different for everyone. Early signs may be mild and go unnoticed. Symptoms often begin on one side of your body and"
         ],
         "raw_document": [
             "Alan alda has parkinson's disease. In an appearance on \" cbs this morning \" tuesday, the award-winning actor, best known for his relatable portrayal of army capt. \" hawkeye \" pierce in the tv series \" m*a*s*h, \" revealed he was diagnosed three-and-a-half years ago. \" i've had a full life since then, \" he said. \" i've acted, i've given talks, i help at the alda center for communicating science at stony brook. I started this new podcast. And i noticed that – i had been on television a lot in the last couple of weeks talking about the new podcast – and i could see my thumb twitch in some shots and i thought, it's probably only a matter of time before somebody does a story about this from a sad point of view, but that's not where",
@@ -2146,17 +2132,16 @@
         "vote_count": {
             "0": 0,
             "1": 1,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 18881,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Yes, local issues played a role in democrat kathy hochul's upset win in the buffalo-area congressional race last night, but republicans would be foolish to take solace in that. The results deliver a clear message: \" the backlash against tea party governance is real, \" writes steve kornacki at salon. Hochul used the best example of that governance — the gop plan to turn medicare into a voucher system — to win a district no democrat had any business winning. \" the fact that they could win in a solidly republican district just a few months after their worst defeats in decades has got to be an enormous boost for democrats, \" writes kornacki. They'd need another two dozen similar victories to retake the house, no easy feat. But the victory is \" a reminder to everyone that, just like it changed dramatically after obama's win 2008, the political climate has again shifted in the wake of the gop's 2010 landslide. Suddenly, swing voters have something else to vote against besides president obama. \" for more on hochul's upset victory, click here.",
         "split": "train",
         "cleansed_document": [
-            "Washington -- the 2012 election found its defining issue on tuesday night, with an insurgent democrat upsetting a well-financed republican in a deeply red district in new york state. The gop paved the way for the democrat's victory by voting earlier this year to end the current medicare program that guarantees health coverage to seniors and replace it with a voucher system that provides premium support for the elderly to purchase private health insurance. The republican in the race, jane corwin, fully endorsed the gop plan to alter medicare, while the democrat, kathy hochul, defended the social safety net. The race's polling trends point to medicare as the defining issue, while the conversation has played out on a national level. Former house speaker nancy pelosi ( d-calif. ) summed up the democratic position: \" we have a plan -- it's called medicare. \" with some exceptions, democrats have ranged from reluctant defenders of government spending to outright hawkish assailants of social funds. But nothing focuses the mind like political calculation, and the upset in upstate new york has sent a message so clear that not even the highest priced democratic consultant could miss it. \" kathy hochul's victory tonight is a tribute to democrats ' commitment to preserve and strengthen medicare, create jobs and grow our economy. And it sends a clear message",
-            "Michele bachmann likes to call herself a \" constitutional conservative. \" as her campaign wears on, she owes the country a clearer understanding of precisely what this means. Now comes texas gov. Rick perry, the new leader in the republican nomination race polls, with a record of similar publicly uttered impulses that seems to want to use the 10th amendment of the u.s. Constitution to repeal most of the 20th century. It's not really new for \" tenthers \" like bachmann and perry to enlist the 10th amendment as an argument against programs they dislike, although their tentherist utterances exceed similar impulses by yesterday's righties. Don't get your hopes up, but wouldn't it be great if this campaign, especially the bachmann and perry campaigns, led the country to face the fundamental question of tentherism? for those of you coming late to the discussion, the tenth amendment, written by james madison to fulfill a bargain even though he thought it unnecessary, states: \" the powers not delegated to the united states by the constitution, nor prohibited by it to the states, are reserved to the states respectively, or to the people. \" in a piece yesterday about perry's tentherism, new york times reporter manny fernandez made a pretty serious mistake. He said, in his own voice,"
+            "Washington -- the 2012 election found its defining issue on tuesday night, with an insurgent democrat upsetting a well-financed republican in a deeply red district in new york state. The gop paved the way for the democrat's victory by voting earlier this year to end the current medicare program that guarantees health coverage to seniors and replace it with a voucher system that provides premium support for the elderly to purchase private health insurance. The republican in the race, jane corwin, fully endorsed the gop plan to alter medicare, while the democrat, kathy hochul, defended the social safety net. The race's polling trends point to medicare as the defining issue, while the conversation has played out on a national level. Former house speaker nancy pelosi ( d-calif. ) summed up the democratic position: \" we have a plan -- it's called medicare. \" with some exceptions, democrats have ranged from reluctant defenders of government spending to outright hawkish assailants of social funds. But nothing focuses the mind like political calculation, and the upset in upstate new york has sent a message so clear that not even the highest priced democratic consultant could miss it. \" kathy hochul's victory tonight is a tribute to democrats ' commitment to preserve and strengthen medicare, create jobs and grow our economy. And it sends a clear message"
         ],
         "raw_document": [
             "Washington -- the 2012 election found its defining issue on tuesday night, with an insurgent democrat upsetting a well-financed republican in a deeply red district in new york state. The gop paved the way for the democrat's victory by voting earlier this year to end the current medicare program that guarantees health coverage to seniors and replace it with a voucher system that provides premium support for the elderly to purchase private health insurance. The republican in the race, jane corwin, fully endorsed the gop plan to alter medicare, while the democrat, kathy hochul, defended the social safety net. The race's polling trends point to medicare as the defining issue, while the conversation has played out on a national level. Former house speaker nancy pelosi ( d-calif. ) summed up the democratic position: \" we have a plan -- it's called medicare. \" with some exceptions, democrats have ranged from reluctant defenders of government spending to outright hawkish assailants of social funds. But nothing focuses the mind like political calculation, and the upset in upstate new york has sent a message so clear that not even the highest priced democratic consultant could miss it. \" kathy hochul's victory tonight is a tribute to democrats ' commitment to preserve and strengthen medicare, create jobs and grow our economy. And it sends a clear message",
@@ -2171,18 +2156,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 18882,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The supreme court heard a high-profile case wednesday about colleges ' use of affirmative action, and antonin scalia in particular was drawing attention over his comments about black students. Scalia raised an argument made by others that affirmative action might actually hurt african-americans in some cases, reports the dallas morning news. If, for example, black students got into a top school by virtue of their race instead of their grades, they might suffer academically — and thus might be better off going to a lesser school. A snippet, via mother jones: \" there are those who contend that it does not benefit african americans to get them into the university of texas where they do not do well, as opposed to having them go to a less-advanced school, a slower-track school where they do well. One of the briefs pointed out that most of the black scientists in this country don't come from schools like the university of texas. They come from lesser schools where they do not feel that they're being pushed ahead in classes that are too fast for them. \" the general idea of scalia's argument is known as the \" mismatch theory, \" reports the wall street journal, and it has been put forth by advocates including ucla professor richard sander, who wrote this amicus brief for the court case, notes talking points memo. Scalia himself sounded sympathetic to the reasoning. \" maybe it ought to have fewer \" black students, he said of ut. \" i don't think it stands to reason that it's a good thing for the university of texas to admit as many blacks as possible. \" his line of questioning wasn't sitting well with all: one of the spectators in court was al sharpton, who said afterward, \" i did not know if i was sitting in the supreme court or at a donald trump rally. \"",
         "split": "train",
         "cleansed_document": [
             "Looking for news you can trust? subscribe to our free newsletters. During oral arguments in a pivotal affirmative action case on wednesday morning, supreme court justice antonin scalia raised the suggestion that african american students might belong at less rigorous schools than their white peers, and that perhaps the university of texas should have fewer black students in its ranks. Scalia's comments came during arguments in fisher v. University of texas, a case over whether the university's use of race in a sliver of its admissions decisions is constitutional. The university of texas-austin is being challenged over its use of race in admissions decisions for about 25 percent of its freshman class. About 75 percent of the students at ut-austin are admitted through what's known as the top ten percent program, in which any student graduating within the top 10 percent of his or her class is guaranteed admission, regardless of race. The other 25 percent are admitted via a \"holistic \" process that takes race, and other factors, into account. It's the \"holistic \" program that abigail fisher — who was denied admission for the university in 2008 — is challenging. The university of texas has determined that if it excluded race as a factor, that remaining",
-            "Washington — the university of texas was once again in front of the supreme court defending its use of race as a factor in a small portion of admissions decisions when justice antonin scalia made an observation. \"there are those who contend that it does not benefit african-americans to get them into the university of texas where they do not do well, as opposed to having them go to a less­-advanced school … ­­ a slower-­track school where they do well, \" scalia said wednesday. \"most of the black scientists in this country don't come from schools like the university of texas, \" he said, attributing the statement to a friend-of-the-court brief filed in the case. \"they come from lesser schools where they do not feel that they're … being pushed ahead in classes that are too fast for them. \" those comments alarmed some who were on hand to watch the arguments in the case, the second time in two years that the high court has scrutinized ut's unique admissions process. Supporters of affirmative action and of more diverse student populations worry that this time, the court could end the use of race in campus settings altogether. Those worries found plenty of grounding in the comments by scalia and colleagues, including chief justice",
-            "The u.s. Supreme court hears arguments on a challenge to admissions programs at the university of texas designed to promote racial diversity among the student body. Here is our live coverage of the hearing."
+            "Washington — the university of texas was once again in front of the supreme court defending its use of race as a factor in a small portion of admissions decisions when justice antonin scalia made an observation. \"there are those who contend that it does not benefit african-americans to get them into the university of texas where they do not do well, as opposed to having them go to a less­-advanced school … ­­ a slower-­track school where they do well, \" scalia said wednesday. \"most of the black scientists in this country don't come from schools like the university of texas, \" he said, attributing the statement to a friend-of-the-court brief filed in the case. \"they come from lesser schools where they do not feel that they're … being pushed ahead in classes that are too fast for them. \" those comments alarmed some who were on hand to watch the arguments in the case, the second time in two years that the high court has scrutinized ut's unique admissions process. Supporters of affirmative action and of more diverse student populations worry that this time, the court could end the use of race in campus settings altogether. Those worries found plenty of grounding in the comments by scalia and colleagues, including chief justice"
         ],
         "raw_document": [
             "Looking for news you can trust? subscribe to our free newsletters. During oral arguments in a pivotal affirmative action case on wednesday morning, supreme court justice antonin scalia raised the suggestion that african american students might belong at less rigorous schools than their white peers, and that perhaps the university of texas should have fewer black students in its ranks. Scalia's comments came during arguments in fisher v. University of texas, a case over whether the university's use of race in a sliver of its admissions decisions is constitutional. The university of texas-austin is being challenged over its use of race in admissions decisions for about 25 percent of its freshman class. About 75 percent of the students at ut-austin are admitted through what's known as the top ten percent program, in which any student graduating within the top 10 percent of his or her class is guaranteed admission, regardless of race. The other 25 percent are admitted via a \"holistic \" process that takes race, and other factors, into account. It's the \"holistic \" program that abigail fisher — who was denied admission for the university in 2008 — is challenging. The university of texas has determined that if it excluded race as a factor, that remaining",
@@ -2199,7 +2183,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2263,12 +2247,11 @@
     },
     {
         "idx": 18885,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The mega millions jackpot has inspired much media babble about lottery winners, losers, and what to do if you actually win. But how about the effect of lotteries on the poor? apparently, it's a killer \" hidden tax \" — because households banking less than $ 13,000 a year spend 9 % of their annual income on lottery tickets. Business insider found the shocking statistic in a pbs interview, and says it raises serious questions — like, are the poor too dumb to avoid odds 17 times worse than the chance of being hit by falling airplane parts? the likely answer: no, they're just grabbing at any chance to improve their circumstances. Looking behind the numbers, business insider poses more questions: with the poor receiving tax breaks, welfare, etc, is that money going straight into lottery tickets? wouldn't it be better just to tax them? or, in this tax-averse nation, is it better to raise all tax revenue through lotteries? while chewing on that, consider that some experts disagree with the 9 % estimate, and say the poor throw away only 2 % to 3 % of their income on lottery tickets.",
         "split": "train",
         "cleansed_document": [
-            "*update: the statistic above, which has been cited repeatedly including by pbs, may be wrong. Or at least it does not appear to be in the academic study that pbs referred to. Our readers and others have said that the correct percentage is ~2 % -3 %, not 9 %. Original: it has often been said that lotteries are a tax on the poor. And that's a fair description. Joe weisenthal pointed out yesterday that poor people regularly buy lottery tickets, while rich people only buy them when the jackpots have gotten huge. What's less commonly realized is just how much money poor people spend on lottery tickets. According to a 2008 study, reported by pbs, households that earn less than $ 13,000 a year spend a staggering 9 % of their income on lottery tickets. ( via scott heiferman ). That's 9 % of an income that is presumably extraordinarily hard to live on to begin with. Rich, educated people tend to ridicule lottery players because the odds against winning are so astronomical. As pbs points out, you are 17-times more likely to get hit by falling airplane parts than you are to win the lottery. And you're 50-times more likely to get hit by lightning. But poor people keep on buying lottery tickets. Why? because",
-            "Jeffrey brown: finally tonight, a dollar and a dream for millions of americans. Lotto fever, it seems, is sweeping the country. Man: that's it. Guys, you are all invited to my island after i win this. Thanks. Man: which one is it with the most money? woman: the mega millions. Man: give me one of those. Woman: one sucker's going to win. Somebody's going to be a rich one, okay? ( laughter ) jeffrey brown: the biggest jackpot in history, $ 640 million, is at stake in tonight's mega millions multistate lottery -- 42 states, washington, d.c., and the virgin islands participate, 85 percent of the country. Lines swelled today with hopefuls ready to plunk down a dollar for a chance at millions. Woman: one, two, three, and good luck. Woman: thank you. Jeffrey brown: lottery officials said one million tickets an hour sold in the 48 hours after tuesday's drawing failed to produce a winner. Gary grief, executive director, texas state lottery commission: we have people coming out that have never bought a ticket before because they see this number and they think, gee, for just a dollar, i have a chance at a"
+            "*update: the statistic above, which has been cited repeatedly including by pbs, may be wrong. Or at least it does not appear to be in the academic study that pbs referred to. Our readers and others have said that the correct percentage is ~2 % -3 %, not 9 %. Original: it has often been said that lotteries are a tax on the poor. And that's a fair description. Joe weisenthal pointed out yesterday that poor people regularly buy lottery tickets, while rich people only buy them when the jackpots have gotten huge. What's less commonly realized is just how much money poor people spend on lottery tickets. According to a 2008 study, reported by pbs, households that earn less than $ 13,000 a year spend a staggering 9 % of their income on lottery tickets. ( via scott heiferman ). That's 9 % of an income that is presumably extraordinarily hard to live on to begin with. Rich, educated people tend to ridicule lottery players because the odds against winning are so astronomical. As pbs points out, you are 17-times more likely to get hit by falling airplane parts than you are to win the lottery. And you're 50-times more likely to get hit by lightning. But poor people keep on buying lottery tickets. Why? because"
         ],
         "raw_document": [
             "*update: the statistic above, which has been cited repeatedly including by pbs, may be wrong. Or at least it does not appear to be in the academic study that pbs referred to. Our readers and others have said that the correct percentage is ~2 % -3 %, not 9 %. Original: it has often been said that lotteries are a tax on the poor. And that's a fair description. Joe weisenthal pointed out yesterday that poor people regularly buy lottery tickets, while rich people only buy them when the jackpots have gotten huge. What's less commonly realized is just how much money poor people spend on lottery tickets. According to a 2008 study, reported by pbs, households that earn less than $ 13,000 a year spend a staggering 9 % of their income on lottery tickets. ( via scott heiferman ). That's 9 % of an income that is presumably extraordinarily hard to live on to begin with. Rich, educated people tend to ridicule lottery players because the odds against winning are so astronomical. As pbs points out, you are 17-times more likely to get hit by falling airplane parts than you are to win the lottery. And you're 50-times more likely to get hit by lightning. But poor people keep on buying lottery tickets. Why? because",
@@ -2283,7 +2266,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2338,7 +2321,7 @@
             "0": 0,
             "1": 2,
             "2": 3,
-            "3": 0
+            "3": 1
         }
     },
     {
@@ -2373,12 +2356,11 @@
     },
     {
         "idx": 18889,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Whether it's an honest complaint, a joke, an attempt to start a discussion about larger issues, or some combination, one thing is clear: max geller's protest of french impressionist pierre-auguste renoir's work is gaining traction. After a petition to remove renoir's work \" from our national museums \" on the white house's website in april failed to gain more than 15 votes and was thus archived for lack of support, geller's anti-renoir instagram account now has more than 4,000 followers and his eight-or-so-person protest outside boston's museum of fine arts on monday is getting some publicity — much to the dismay of one genevieve renoir, who says she is the painter's great-great-granddaughter, reports the guardian. She even took to instagram to contest geller's assertion that renoir sucks at painting, saying with a smattering of emojis that the free market has spoken. On its face, the movement is about aesthetics. One sign at the protest claiming \" aesthetic terrorism \" said as much. \" if you took his word for it, trees would be a collection of disgusting, green squiggly lines and eyeballs would be jet black as if they were colored by sharpies, \" geller tells npr in its three-question interview. \" in real life trees are beautiful; renoir just sucks at painting. \" but wbur reports that the self-described political organizer is doing this as more of a hobby to \" blow off steam \" and that he means it as a joke, albeit \" a pointed one. \" in using phrases such as \" god hates renoir, \" \" empty calories, and \" infantile green scribbles that look like crayon, \" geller is also posing provocative questions about who sets a museum's standards for what is displayed and what the public should find beautiful or compelling. ( see how this renoir went for just $ 7. )",
         "split": "train",
         "cleansed_document": [
-            "The group has protested at boston's museum of fine arts, while its instagram account has drawn the ire of the artist's great-great-granddaughter a new movement born of an instagram account has one central complaint: pierre-auguste renoir - the french impressionist – was a terrible artist, and his paintings should be removed from museums. Holding signs that said \"renoir \", \"take ' em down! renoir sucks \" and \"god hates renoir \", members of the renoir sucks at painting movement protested outside the museum of fine arts in boston on monday. The group, led by organizer max geller, demanded the museum remove renoir paintings – of which there are many, including the famous dance at boufival, 1883 – from its walls. When the guardian asked why he dislikes renoir so much, geller countered: \"why do so many people think he's good? have you looked at his paintings? \"in real life, trees are beautiful. If you take renoir's word for it, you'd think trees are just a collection of green squiggles, \" geller said. Renoir is considered a good painter because his work is featured in museums, geller added. But upon further inspections of his paintings, that line of argument \"seems pretty fallacious \". Geller hates renoir so much, he started an instagram account also called renoir sucks at painting, which shows closeups of certain renoir paintings with criticism in the comments, as well as photos of geller and others gesturing angrily in front of various renoir works. The renoir sucks at painting movement was inspired after geller visited the barnes foundation in philadelphia, which houses a large collection of renoir paintings, or, as geller called them, \"empty calorie-laden steaming piles \". The instagram account has more than 2,400 followers, and has even received the wrath of genevieve renoir, who says she is the painter's great-great-granddaughter. On one photo, genevieve commented: \"when your great-great-grandfather paints anything worth $ 78.1m dollars … then you can criticize. In the meantime",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "The group has protested at boston's museum of fine arts, while its instagram account has drawn the ire of the artist's great-great-granddaughter a new movement born of an instagram account has one central complaint: pierre-auguste renoir - the french impressionist – was a terrible artist, and his paintings should be removed from museums. Holding signs that said \"renoir \", \"take ' em down! renoir sucks \" and \"god hates renoir \", members of the renoir sucks at painting movement protested outside the museum of fine arts in boston on monday. The group, led by organizer max geller, demanded the museum remove renoir paintings – of which there are many, including the famous dance at boufival, 1883 – from its walls. When the guardian asked why he dislikes renoir so much, geller countered: \"why do so many people think he's good? have you looked at his paintings? \"in real life, trees are beautiful. If you take renoir's word for it, you'd think trees are just a collection of green squiggles, \" geller said. Renoir is considered a good painter because his work is featured in museums, geller added. But upon further inspections of his paintings, that line of argument \"seems pretty fallacious \". Geller hates renoir so much, he started an instagram account also called renoir sucks at painting, which shows closeups of certain renoir paintings with criticism in the comments, as well as photos of geller and others gesturing angrily in front of various renoir works. The renoir sucks at painting movement was inspired after geller visited the barnes foundation in philadelphia, which houses a large collection of renoir paintings, or, as geller called them, \"empty calorie-laden steaming piles \". The instagram account has more than 2,400 followers, and has even received the wrath of genevieve renoir, who says she is the painter's great-great-granddaughter. On one photo, genevieve commented: \"when your great-great-grandfather paints anything worth $ 78.1m dollars … then you can criticize. In the meantime"
         ],
         "raw_document": [
             "The group has protested at boston's museum of fine arts, while its instagram account has drawn the ire of the artist's great-great-granddaughter a new movement born of an instagram account has one central complaint: pierre-auguste renoir - the french impressionist – was a terrible artist, and his paintings should be removed from museums. Holding signs that said \"renoir \", \"take ' em down! renoir sucks \" and \"god hates renoir \", members of the renoir sucks at painting movement protested outside the museum of fine arts in boston on monday. The group, led by organizer max geller, demanded the museum remove renoir paintings – of which there are many, including the famous dance at boufival, 1883 – from its walls. When the guardian asked why he dislikes renoir so much, geller countered: \"why do so many people think he's good? have you looked at his paintings? \"in real life, trees are beautiful. If you take renoir's word for it, you'd think trees are just a collection of green squiggles, \" geller said. Renoir is considered a good painter because his work is featured in museums, geller added. But upon further inspections of his paintings, that line of argument \"seems pretty fallacious \". Geller hates renoir so much, he started an instagram account also called renoir sucks at painting, which shows closeups of certain renoir paintings with criticism in the comments, as well as photos of geller and others gesturing angrily in front of various renoir works. The renoir sucks at painting movement was inspired after geller visited the barnes foundation in philadelphia, which houses a large collection of renoir paintings, or, as geller called them, \"empty calorie-laden steaming piles \". The instagram account has more than 2,400 followers, and has even received the wrath of genevieve renoir, who says she is the painter's great-great-granddaughter. On one photo, genevieve commented: \"when your great-great-grandfather paints anything worth $ 78.1m dollars … then you can criticize. In the meantime",
@@ -2393,18 +2375,17 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 18890,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "By now you've probably seen some snarky jokes about romney's \" binders full of women \" comment, but that wasn't the only thing making feminists cringe in last night's debate. Romney's entire answer on pay equity \" was pretty amazingly retrograde, \" writes matthew yglesias at slate. \" if you're going to have women in the workforce … sometimes they need to be more flexible, \" romney said, explaining that female staffers had to be home early to make dinner for their kids. Here's a novel idea: \" maybe dad should cook dinner! \" equality demands that some moms be able to take jobs with inflexible schedules. Janice d ' arcy at the washington post, meanwhile, is fuming over romney's gun violence response, in which he said having more married parents would solve the problem. Obama said he agreed. But research shows that education and income level are a heck of a lot more important than your parents ' marital status. Unmarried mothers, d ' arcy writes \" are not a monolithic voting bloc and neither are they a monolithic punching bag. \" then there was the treatment of candy crowley, who was often ignored or talked over. \" since both candidates are trying to convince voters that they respect women, they might start by respecting candy crowley, \" tweeted nicholas kristof. One romney adviser today confirmed that romney would not have signed the lilly ledbetter fair pay act. \" he was opposed to it at the time, \" ed gillespie said, according to the huffington post. But he added that romney wouldn't repeal the law, either.",
         "split": "train",
         "cleansed_document": [
             "Let's put aside the \"binder of women \" for the time being, and look at one of the other peculiar turns in last night's presidential debate. That would be when a question about ak-47 assault rifles led republican presidential candidate mitt romney to wax romantic about marriage. Here was the exchange: candy crowley: governor romney, the question is about [ limiting the availability of ] assault weapons, ak-47s. Romney:... What i believe is we have to do, as the president mentioned towards the end of his remarks there, which is to make enormous efforts to enforce the gun laws that we have, and to change the culture of violence that we have. And you ask how — how are we going to do that? and there are a number of things. He mentioned good schools. I totally agree. We were able to drive our schools to be number one in the nation in my state. And i believe if we do a better job in education, we ' ll — we ' ll give people the, the hope and opportunity they deserve and perhaps less violence from that. But let me mention another thing. And that is parents. We need moms and",
-            "Photo by saul loeb/afp/getty images to reenforce what my colleague amanda marcotte wrote at double x it's worth emphasizing that jokes about \" binders full of women \" aside, mitt romney's answer on women's pay equity last night was pretty amazingly retrograde. The basic issue is that romney doesn't believe in pay equity regulation for the general reason that he's skeptical of business regulation as a whole. He thinks america will be a richer society over the long run if business owners and managers are free to run their companies as they see fit. What romney would like to say is that this view of his stems from a generally libertarian approach to economic policy and doesn't reflect any kind of special hostility to women or women's economic opportunity. That's why he goes on about the semi-accurate fact that as governor of massachusetts he made a special effort to recruit women into high office. The problem is that when he discusses the things that — unlike pay equity legislation — he does think will help women, it turns out that he really does have a retrograde view of women's role in the economy: now, one of the reasons i was able to get",
-            "Add a location to your tweets when you tweet with a location, twitter stores that location. You can switch location on/off before each tweet and always have the option to delete your location history. Learn more"
+            "Photo by saul loeb/afp/getty images to reenforce what my colleague amanda marcotte wrote at double x it's worth emphasizing that jokes about \" binders full of women \" aside, mitt romney's answer on women's pay equity last night was pretty amazingly retrograde. The basic issue is that romney doesn't believe in pay equity regulation for the general reason that he's skeptical of business regulation as a whole. He thinks america will be a richer society over the long run if business owners and managers are free to run their companies as they see fit. What romney would like to say is that this view of his stems from a generally libertarian approach to economic policy and doesn't reflect any kind of special hostility to women or women's economic opportunity. That's why he goes on about the semi-accurate fact that as governor of massachusetts he made a special effort to recruit women into high office. The problem is that when he discusses the things that — unlike pay equity legislation — he does think will help women, it turns out that he really does have a retrograde view of women's role in the economy: now, one of the reasons i was able to get"
         ],
         "raw_document": [
             "Let's put aside the \"binder of women \" for the time being, and look at one of the other peculiar turns in last night's presidential debate. That would be when a question about ak-47 assault rifles led republican presidential candidate mitt romney to wax romantic about marriage. Here was the exchange: candy crowley: governor romney, the question is about [ limiting the availability of ] assault weapons, ak-47s. Romney:... What i believe is we have to do, as the president mentioned towards the end of his remarks there, which is to make enormous efforts to enforce the gun laws that we have, and to change the culture of violence that we have. And you ask how — how are we going to do that? and there are a number of things. He mentioned good schools. I totally agree. We were able to drive our schools to be number one in the nation in my state. And i believe if we do a better job in education, we ' ll — we ' ll give people the, the hope and opportunity they deserve and perhaps less violence from that. But let me mention another thing. And that is parents. We need moms and",
@@ -2421,7 +2402,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -2446,7 +2427,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -2677,7 +2658,7 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 0
+            "4": 2
         }
     }
 ]

@@ -48,7 +48,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -181,7 +181,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -344,13 +344,12 @@
     },
     {
         "idx": 14813,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "A chimp would never be able to throw a fastball, or anything even close to a fastball, and that seemingly weird fact helps explain why humans came to rule the animal kingdom, says a new study in nature. Researchers say that early humans — homo erectus, to be exact — developed the ability to throw about 2 million years ago, thanks to a handful of anatomical changes, reports the washington post. Among other things, we got longer waists, lower shoulders, and the ability to cock an arm way behind our back for extra power. ( the researchers studied the motions of college pitchers to zero in on key factors. ) these changes allowed humans to become great hunters, providing the ability to take down big game with a well-aimed spear. Hunting \"really did have a tremendously profound effect on who we are, \" says the lead researcher. The study shows how the anatomical changes dovetailed with a fossil record that shows how hunting intensified about the same time, reports the boston globe. ( \" i throw, therefore i am, \" is how globe writer carolyn johnson sums things up. ) both stories also quote sports experts who say the findings could help them determine which pitchers are destined for greatness and which for the injured reserve.",
         "split": "train",
         "cleansed_document": [
             "Sporting feats such as baseball's 100-mile-per-hour fastball are made possible by a suite of anatomical features that appeared in our hominin ancestors about 2 million years ago, a video study of college athletes suggests. And this ability to throw projectiles may have been crucial for human hunting, which in turn may have had a vital role in our evolution. \"throwing projectiles probably enabled our ancestors to effectively and safely kill big game, \" says neil roach, a biological anthropologist at george washington university in washington dc, who led the work while at harvard university. Eating more calorie-rich meat and fat would have helped early hominins ' brains and bodies to grow, enabling our ancestors to expand into new regions of the world, he suggests. The study is published today in nature1. Although some primates occasionally throw objects, and with a fair degree of accuracy, only humans can routinely hurl projectiles",
-            "The anatomical differences that make chimps poor throwers are the ones that might make some people better or worse at throwing. Jon lester is one beneficiary of the evolution. Next time you watch a baseball game, cast your mind back a few million years. A man steps back, cocks his arm behind his shoulder, then twists. His arm swings forward like a catapult, unleashing the fastest rotation in the human body. Is it just a pitcher's windup, or an echo of a pivotal moment in evolution? in modern life, throwing has been largely relegated to america's favorite pastime, but scientists at harvard and george washington universities argue in a study published wednesday that throwing has had a profound influence on the development of human bodies and behaviors. Based on an analysis of the harvard baseball team, chimpanzee anatomy, and fossils of early human ancestors, the",
-            "In most respects, chimpanzees are physically superior to humans. Pound for pound, they are perhaps four times stronger. They are faster. They can run straight up a tree, climb and swing with an agility that is the envy of an olympic gymnast. But ask a chimp to throw a 90-mph fastball over a 17-inch-wide home plate — something even the average major leaguer can do — and the chimp is a chump. Chimps can throw only about 20 mph, a speed your little leaguer would laugh at, and their accuracy is pathetic. The reason for the difference is anatomical — the result of critical physical changes in the shoulder, arm and torso of the species homo erectus that first appeared 2 million years ago, a team of scientists suggested wednesday in the journal nature. These adaptations allow the storage and rapid release of the elastic energy that powers the arms of flamethrowing"
+            "The anatomical differences that make chimps poor throwers are the ones that might make some people better or worse at throwing. Jon lester is one beneficiary of the evolution. Next time you watch a baseball game, cast your mind back a few million years. A man steps back, cocks his arm behind his shoulder, then twists. His arm swings forward like a catapult, unleashing the fastest rotation in the human body. Is it just a pitcher's windup, or an echo of a pivotal moment in evolution? in modern life, throwing has been largely relegated to america's favorite pastime, but scientists at harvard and george washington universities argue in a study published wednesday that throwing has had a profound influence on the development of human bodies and behaviors. Based on an analysis of the harvard baseball team, chimpanzee anatomy, and fossils of early human ancestors, the"
         ],
         "raw_document": [
             "Sporting feats such as baseball's 100-mile-per-hour fastball are made possible by a suite of anatomical features that appeared in our hominin ancestors about 2 million years ago, a video study of college athletes suggests. And this ability to throw projectiles may have been crucial for human hunting, which in turn may have had a vital role in our evolution. \"throwing projectiles probably enabled our ancestors to effectively and safely kill big game, \" says neil roach, a biological anthropologist at george washington university in washington dc, who led the work while at harvard university. Eating more calorie-rich meat and fat would have helped early hominins ' brains and bodies to grow, enabling our ancestors to expand into new regions of the world, he suggests. The study is published today in nature1. Although some primates occasionally throw objects, and with a fair degree of accuracy, only humans can routinely hurl projectiles",
@@ -367,7 +366,7 @@
         "vote_count": {
             "0": 0,
             "1": 2,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -424,12 +423,11 @@
     },
     {
         "idx": 14816,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Could tribal marijuana be as big a moneymaker as tribal casinos? the federal government has cleared the way for native american tribes across the country to grow and sell marijuana on their land, reports the ap. The justice department says growing and selling will be allowed on reservations — even in states where the drug remains illegal — as long as the tribes follow the same federal guidelines in place in states that have legalized marijuana, including not selling it to minors and not transporting it to areas where it's outlawed. \" the tribes have the sovereign right to set the code on their reservations, \" the us attorney for north dakota tells the los angeles times. Pot grown on reservations won't be subject to federal or state taxes, but it's not clear how many tribes will go into the marijuana business: many oppose legalization, and the yakama nation in washington state, where pot is legal, has banned it on the reservation. The us attorney for oregon says that so far, only three tribes of the 566 across the country have shown any interest.",
         "split": "train",
         "cleansed_document": [
-            "File- in this nov. 5, 2014, file photo, a sample of cannabis appears on display at shango premium cannabis dispensary in portland, ore. The u.s. Justice department said thursday, dec. 11, 2014, that indian... ( associated press ) file- in this nov. 5, 2014, file photo, a sample of cannabis appears on display at shango premium cannabis dispensary in portland, ore. The u.s. Justice department said thursday, dec. 11, 2014, that indian... ( associated press ) grants pass, ore. ( ap ) — indian tribes can grow and sell marijuana on their lands as long as they follow the same federal conditions laid out for states that have legalized the drug, the u.s. Justice department said thursday. Some advocates said the announcement could open new markets across the country and give rise to a rich new business on reservations, not unlike the advent of casino gambling. Others said it was too early to tell; many tribes oppose legalization, and only a handful of tribes have expressed any interest in the marijuana business. Oregon u.s. Attorney amanda marshall said that the justice department policy addresses questions raised by tribes about how legalization of pot in states like oregon, washington and colorado would apply to indian lands. \" that's been the primary message tribes are getting to us as u.s. Attorneys, \" marshall said from portland. \" what will the u.s. As federal partners do to assist tribes in protecting our children and families, our tribal businesses, our tribal housing? how will you help us combat marijuana abuse in indian country when states are no longer there to partner with us? \" whether tribal pot could become a major bonanza rivaling tribal casinos is a big question. Marshall said only three tribes — one each in california, washington state and the midwest — have voiced any interest. She did not identify them. Seattle attorney anthony broadman, whose firm represents tribal governments throughout the west, said the economic potential is vast. \" if tribes can balance all the potential social issues, it could be a really huge opportunity, \" broadman said. But many in indian country are wary of compounding existing drug and alcohol problems by growing and selling pot. The yakama nation in washington state recently banned marijuana on the reservation and is trying to halt state regulated pot sales and grows on lands off the",
-            "The policy comes on the heels of the 2013 justice department decision to stop most federal marijuana prosecutions in states that have legalized the possession or sale of pot. Colorado, washington, oregon, alaska and the district of columbia have all moved to legalize the drug, though the d.c. Law may be scaled back by congress."
+            "File- in this nov. 5, 2014, file photo, a sample of cannabis appears on display at shango premium cannabis dispensary in portland, ore. The u.s. Justice department said thursday, dec. 11, 2014, that indian... ( associated press ) file- in this nov. 5, 2014, file photo, a sample of cannabis appears on display at shango premium cannabis dispensary in portland, ore. The u.s. Justice department said thursday, dec. 11, 2014, that indian... ( associated press ) grants pass, ore. ( ap ) — indian tribes can grow and sell marijuana on their lands as long as they follow the same federal conditions laid out for states that have legalized the drug, the u.s. Justice department said thursday. Some advocates said the announcement could open new markets across the country and give rise to a rich new business on reservations, not unlike the advent of casino gambling. Others said it was too early to tell; many tribes oppose legalization, and only a handful of tribes have expressed any interest in the marijuana business. Oregon u.s. Attorney amanda marshall said that the justice department policy addresses questions raised by tribes about how legalization of pot in states like oregon, washington and colorado would apply to indian lands. \" that's been the primary message tribes are getting to us as u.s. Attorneys, \" marshall said from portland. \" what will the u.s. As federal partners do to assist tribes in protecting our children and families, our tribal businesses, our tribal housing? how will you help us combat marijuana abuse in indian country when states are no longer there to partner with us? \" whether tribal pot could become a major bonanza rivaling tribal casinos is a big question. Marshall said only three tribes — one each in california, washington state and the midwest — have voiced any interest. She did not identify them. Seattle attorney anthony broadman, whose firm represents tribal governments throughout the west, said the economic potential is vast. \" if tribes can balance all the potential social issues, it could be a really huge opportunity, \" broadman said. But many in indian country are wary of compounding existing drug and alcohol problems by growing and selling pot. The yakama nation in washington state recently banned marijuana on the reservation and is trying to halt state regulated pot sales and grows on lands off the"
         ],
         "raw_document": [
             "File- in this nov. 5, 2014, file photo, a sample of cannabis appears on display at shango premium cannabis dispensary in portland, ore. The u.s. Justice department said thursday, dec. 11, 2014, that indian... ( associated press ) file- in this nov. 5, 2014, file photo, a sample of cannabis appears on display at shango premium cannabis dispensary in portland, ore. The u.s. Justice department said thursday, dec. 11, 2014, that indian... ( associated press ) grants pass, ore. ( ap ) — indian tribes can grow and sell marijuana on their lands as long as they follow the same federal conditions laid out for states that have legalized the drug, the u.s. Justice department said thursday. Some advocates said the announcement could open new markets across the country and give rise to a rich new business on reservations, not unlike the advent of casino gambling. Others said it was too early to tell; many tribes oppose legalization, and only a handful of tribes have expressed any interest in the marijuana business. Oregon u.s. Attorney amanda marshall said that the justice department policy addresses questions raised by tribes about how legalization of pot in states like oregon, washington and colorado would apply to indian lands. \" that's been the primary message tribes are getting to us as u.s. Attorneys, \" marshall said from portland. \" what will the u.s. As federal partners do to assist tribes in protecting our children and families, our tribal businesses, our tribal housing? how will you help us combat marijuana abuse in indian country when states are no longer there to partner with us? \" whether tribal pot could become a major bonanza rivaling tribal casinos is a big question. Marshall said only three tribes — one each in california, washington state and the midwest — have voiced any interest. She did not identify them. Seattle attorney anthony broadman, whose firm represents tribal governments throughout the west, said the economic potential is vast. \" if tribes can balance all the potential social issues, it could be a really huge opportunity, \" broadman said. But many in indian country are wary of compounding existing drug and alcohol problems by growing and selling pot. The yakama nation in washington state recently banned marijuana on the reservation and is trying to halt state regulated pot sales and grows on lands off the",
@@ -444,7 +442,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -469,7 +467,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -494,7 +492,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -524,13 +522,12 @@
     },
     {
         "idx": 14820,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The 77-year-old retiree who committed suicide in an athens square teeming with commuters yesterday morning did indeed leave a note, in which the former pharmacist explained that he could not face a future that could involve \" scavenging through garbage bins for food and becoming a burden to my child. \" but dimitris christoulas, in death, has emerged not as a burden, but as a rallying point. More than 1,500 people flocked to the spot where he shot himself, posting letters on a tree, holding a vigil, chanting — and tussling with riot police, reports the ap. The bbc notes that as day turned to night, activists hurled rocks and gas bombs at police, who tossed tear gas and flash grenades back at them. Groups ranging from anti-austerity activists to schoolkids plan to gather again today in protest. And, according to the new york times, that's in line with what christoulas wanted. In the note, as reported by local media, he wrote that, \" i believe that young people with no future will one day take up arms and hang the traitors of this country at syntagma square, just like the italians did to mussolini in 1945. \"",
         "split": "train",
         "cleansed_document": [
             "Photo athens — a 77-year-old greek pensioner distraught over his financial state shot himself in the head in the capital's busy main square near parliament on wednesday morning. \"i don't want to leave debts to my children, \" he shouted before pulling the trigger, witnesses said. The location, syntagma square, is a focal point for frequent public demonstrations and protests. It was full of commuters using the nearby metro station when the man killed himself, around 9 a.m. Shocked witnesses told state television that the man positioned himself under a tree, cried out and fired. The local news media identified the man as dimitris christoulas, a retired pharmacist, and said he left a note saying he could not face the prospect \"of scavenging through garbage bins for food and becoming a burden to my child. \" the police did not immediately confirm the existence of a note, but identical",
-            "Media playback is unsupported on your device media caption the bbc's mark lowen: \" as you walk around the streets of athens and beyond you can see the social fabric tearing \" protesters have clashed with riot police in the greek capital, athens, hours after a pensioner shot himself dead outside parliament. The 77-year-old man killed himself in the city's busy syntagma square on wednesday morning. Greek media reported he had left a suicide note accusing the government of cutting his pension to nothing. Flowers have been laid at the spot where he died and tributes have been paid online. I see no other solution than this dignified end to my life, so i don't find myself fishing through garbage cans for my sustenance extract from reputed suicide letter hundreds of demonstrators gathered in the square outside parliament on wednesday evening, the scene of many large protests in recent months.",
-            "A note and a wooden cross pinned on the trunk of a tree under which an elderly man fatally shot himself at athens ' main syntagma square on thursday, april 5, 2012. The note reads \" no elections, revolution. \"... ( associated press ) anti-austerity activists are planning new protests in athens ' main square, where a retiree publicly killed himself leaving a note that blasted politicians over the country's financial crisis. More than 1,500 people gathered at the spot wednesday hours after the suicide, chanting slogans and clashing with riot police. Groups ranging from social media activists to schoolchildren have said they will join in the protests later thursday. The 77-year-old retired pharmacist chose the morning rush hour to shoot himself in the head near a subway exit on syntagma square _ a focal point for protests and a stone's throw from parliament. In the note published by local"
+            "Media playback is unsupported on your device media caption the bbc's mark lowen: \" as you walk around the streets of athens and beyond you can see the social fabric tearing \" protesters have clashed with riot police in the greek capital, athens, hours after a pensioner shot himself dead outside parliament. The 77-year-old man killed himself in the city's busy syntagma square on wednesday morning. Greek media reported he had left a suicide note accusing the government of cutting his pension to nothing. Flowers have been laid at the spot where he died and tributes have been paid online. I see no other solution than this dignified end to my life, so i don't find myself fishing through garbage cans for my sustenance extract from reputed suicide letter hundreds of demonstrators gathered in the square outside parliament on wednesday evening, the scene of many large protests in recent months."
         ],
         "raw_document": [
             "Photo athens — a 77-year-old greek pensioner distraught over his financial state shot himself in the head in the capital's busy main square near parliament on wednesday morning. \"i don't want to leave debts to my children, \" he shouted before pulling the trigger, witnesses said. The location, syntagma square, is a focal point for frequent public demonstrations and protests. It was full of commuters using the nearby metro station when the man killed himself, around 9 a.m. Shocked witnesses told state television that the man positioned himself under a tree, cried out and fired. The local news media identified the man as dimitris christoulas, a retired pharmacist, and said he left a note saying he could not face the prospect \"of scavenging through garbage bins for food and becoming a burden to my child. \" the police did not immediately confirm the existence of a note, but identical",
@@ -547,7 +544,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 3
         }
     },
     {
@@ -608,13 +605,12 @@
     },
     {
         "idx": 14823,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "It's beginning to seem the zika virus is spread sexually more frequently than previously believed. The cdc announced 14 new possible cases of the virus in the us — all of which are women, some pregnant, infected by male sexual partners who have traveled to zika-affected areas, nbc news reports. According to the new york times, the sexual transmission of zika was thought to be rare. \"we were surprised that there was this number, \" the cdc's deputy director says. \"that's much more than i was expecting. \" only two of the 14 cases have been confirmed so far. The virus is believed to cause serious birth defects and possibly a syndrome that causes temporary paralysis. Still, it's \" relatively harmless to most people, \" as nbc puts it. The first known case of sexually transmitted zika in the us was reported earlier this month in dallas. The cdc is advising pregnant women to avoid sex or use a condom if their partners have been traveling to areas affected by the virus. Zika has been found in semen, and there is so far no evidence that infected women can pass it along to their sexual partners. Zika is most commonly spread by mosquitoes, though experts say a big outbreak of the virus is unlikely in the us. Meanwhile, the puerto rican government has outlawed \" condom price-gouging, \" meaning stores aren't allowed to raise the price of condoms, npr reports. The government wants to slow the spread of zika without allowing people to profit off the virus. \" now is not the time to raise prices, \" one official says.",
         "split": "train",
         "cleansed_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. Feb. 23, 2016, 7: 27 pm gmt / updated feb. 23, 2016, 7: 55 pm gmt by maggie fox fourteen more people may have caught the zika virus in the u.s. Without traveling to affected zones, federal health officials said tuesday — strong evidence that the virus is sexually transmitted fairly often. Some of those suspected of having been infected sexually have been pregnant women, the centers for disease control and prevention says. \" cdc and state public health departments are now investigating 14 new reports of possible sexual transmission of zika virus, including several involving pregnant women, \" the cdc said in a statement. \" in two of the new suspected sexual transmission events, zika virus infection has been confirmed in women whose only known risk factor was sexual",
-            "Photo advertisement continue reading the main story health authorities in the united states said they were investigating 14 new reports of the zika virus possibly being transmitted by sex, including to pregnant women. If confirmed, the unexpectedly high number would have major implications for controlling the virus, which is usually spread by mosquito bites. Scientists had believed sexual transmission of zika to be extremely rare. Only a few cases have ever been documented. But if all the women in the cases the centers for disease control and prevention is examining test positive for the virus — as two women already have, and four others have done in preliminary lab tests — officials believe there is no way other than sex that they could have contracted it. The specter of so many cases — all in the continental united states — brings fresh complexity to the medical mystery of zika. The virus is suspected to cause birth",
-            "Puerto rico freezes condom prices to prevent zika profiteering enlarge this image toggle caption rolando arrieta/npr rolando arrieta/npr to help prevent the spread of the zika virus in puerto rico, government officials on the island have declared condom price-gouging illegal. In early february, during a media briefing at the governor's mansion, puerto rico's secretary of the department of consumer affairs nery adames soto announced that his agency has added prophylactics to the price-freeze list. Stores on the island also aren't allowed by daco to raise the price on mosquito repellent, window screens, larvicides and other mosquito-killing products. U.s. Centers for disease control and prevention data showed that as of feb. 19 there were nine cases of zika reported in puerto rico, a u.s. Territory. Eight of them were locally acquired and one was associated with travel. Public health officials have reported more than 60 zika cases in puerto rico"
+            "Photo advertisement continue reading the main story health authorities in the united states said they were investigating 14 new reports of the zika virus possibly being transmitted by sex, including to pregnant women. If confirmed, the unexpectedly high number would have major implications for controlling the virus, which is usually spread by mosquito bites. Scientists had believed sexual transmission of zika to be extremely rare. Only a few cases have ever been documented. But if all the women in the cases the centers for disease control and prevention is examining test positive for the virus — as two women already have, and four others have done in preliminary lab tests — officials believe there is no way other than sex that they could have contracted it. The specter of so many cases — all in the continental united states — brings fresh complexity to the medical mystery of zika. The virus is suspected to cause birth"
         ],
         "raw_document": [
             "Breaking news emails get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. Feb. 23, 2016, 7: 27 pm gmt / updated feb. 23, 2016, 7: 55 pm gmt by maggie fox fourteen more people may have caught the zika virus in the u.s. Without traveling to affected zones, federal health officials said tuesday — strong evidence that the virus is sexually transmitted fairly often. Some of those suspected of having been infected sexually have been pregnant women, the centers for disease control and prevention says. \" cdc and state public health departments are now investigating 14 new reports of possible sexual transmission of zika virus, including several involving pregnant women, \" the cdc said in a statement. \" in two of the new suspected sexual transmission events, zika virus infection has been confirmed in women whose only known risk factor was sexual",
@@ -631,7 +627,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 5
         }
     },
     {
@@ -686,13 +682,12 @@
     },
     {
         "idx": 14826,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "The bbc, among others, has called it: the uk has voted to leave the european union, sending shock waves through the eu and world economies. With almost all results in, the vote stands at 52 % for \" leave \" and 48 % for \" remain, \" the guardian reports. Signaling discord ahead for the uk, different regions voted differently, with remain winning easily in scotland, northern ireland, and london, and leave sweeping much of england and wales. \" let june 23 go down in history as our independence day, \" jubilant uk independence party leader nigel farage told reporters. The british pound, meanwhile, tumbled to its lowest level against the dollar in more than 30 years. Britain is the first nation ever to vote to leave the eu, which will now shrink from 28 nations to 27. As the rest of the europe woke up to the news, anti-immigration parties in countries such as the netherlands called for their own countries to hold votes on leaving the bloc, while a senior german lawmaker warned that britain will receive \" no special treatment \" and exit negotiations must be concluded within two years, reports the telegraph, which calls the brexit vote the biggest crisis in eu history. In scotland, meanwhile, scottish national party leaders are already calling for a second referendum on leaving the uk.",
         "split": "train",
         "cleansed_document": [
             "Mr cameron said it would be up to the new prime minister – expected in office by october – to decide when to trigger the clause. \"we are determined to keep our unity as twenty seven, \" said donald tusk, the polish president of the european council. \"uncertainty is the opposite of what we need, \" said martin schulz, the president of the european parliament said, saying he could not accept \"a whole continent is taken hostage because of an internal fight in the tory party \". Activating article 50 begins a two-year negotiation period, during which all current rules apply. While that provides stability, it also bars britain from agreeing simultaneous trade deals. Angela merkel, the german chancellor, appealed for calm, saying that leaders must avoid \"quick and simple conclusions \" and must instead \"calmly and prudently analyse and evaluate the situation. \" she will host talks with francois hollande, the french president, matteo renzi, the italian prime minister, and donald tusk, the european council president, on monday.",
-            "Media playback is unsupported on your device media caption eu vote: david cameron says the uk \" needs fresh leadership \" prime minister david cameron is to step down by october after the uk voted to leave the european union. Speaking outside 10 downing street, he said \" fresh leadership \" was needed. The pm had urged the country to vote remain but was defeated by 52 % to 48 % despite london, scotland and northern ireland backing staying in. Ukip leader nigel farage hailed it as the uk's \" independence day \", while boris johnson said the result would not mean \" pulling up the drawbridge \". Scottish first minister nicola sturgeon said she was \" absolutely determined \" to keep scotland in the eu so a second scottish independence referendum was now \" highly likely \". German chancellor angela merkel expressed \" great regret \" at the outcome, and eu chiefs said they expected the uk to begin negotiations to leave \" as soon as possible, however painful that process may be \". But boris johnson, the ex-london mayor and public face of vote leave who is now a front-runner to be next prime minister, said there was \" no need for haste \" about severing the uk's ties. Media playback is unsupported on your device media caption boris johnson: \" there is no need for haste \" he said voters had \" searched in their hearts \" and the uk now had a \" glorious opportunity \" to pass its own laws, set its own taxes and control its own borders. Another leading leave campaigner, labour's gisela stuart, said",
-            "What term do you want to search? search with google"
+            "Media playback is unsupported on your device media caption eu vote: david cameron says the uk \" needs fresh leadership \" prime minister david cameron is to step down by october after the uk voted to leave the european union. Speaking outside 10 downing street, he said \" fresh leadership \" was needed. The pm had urged the country to vote remain but was defeated by 52 % to 48 % despite london, scotland and northern ireland backing staying in. Ukip leader nigel farage hailed it as the uk's \" independence day \", while boris johnson said the result would not mean \" pulling up the drawbridge \". Scottish first minister nicola sturgeon said she was \" absolutely determined \" to keep scotland in the eu so a second scottish independence referendum was now \" highly likely \". German chancellor angela merkel expressed \" great regret \" at the outcome, and eu chiefs said they expected the uk to begin negotiations to leave \" as soon as possible, however painful that process may be \". But boris johnson, the ex-london mayor and public face of vote leave who is now a front-runner to be next prime minister, said there was \" no need for haste \" about severing the uk's ties. Media playback is unsupported on your device media caption boris johnson: \" there is no need for haste \" he said voters had \" searched in their hearts \" and the uk now had a \" glorious opportunity \" to pass its own laws, set its own taxes and control its own borders. Another leading leave campaigner, labour's gisela stuart, said"
         ],
         "raw_document": [
             "Mr cameron said it would be up to the new prime minister – expected in office by october – to decide when to trigger the clause. \"we are determined to keep our unity as twenty seven, \" said donald tusk, the polish president of the european council. \"uncertainty is the opposite of what we need, \" said martin schulz, the president of the european parliament said, saying he could not accept \"a whole continent is taken hostage because of an internal fight in the tory party \". Activating article 50 begins a two-year negotiation period, during which all current rules apply. While that provides stability, it also bars britain from agreeing simultaneous trade deals. Angela merkel, the german chancellor, appealed for calm, saying that leaders must avoid \"quick and simple conclusions \" and must instead \"calmly and prudently analyse and evaluate the situation. \" she will host talks with francois hollande, the french president, matteo renzi, the italian prime minister, and donald tusk, the european council president, on monday.",
@@ -709,7 +704,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
@@ -745,7 +740,7 @@
             "2": 0,
             "3": 0,
             "4": 0,
-            "5": 0
+            "5": 2
         }
     },
     {
@@ -906,12 +901,11 @@
     },
     {
         "idx": 14834,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Interpol has issued an arrest warrant for whale wars reality star paul watson after the conservationist skipped bail in germany. He vanished as costa rica was attempting to extradite him on charges of endangering a fishing vessel off guatemala in 2002, cnn reports. Watson, known for boat maneuvers interfering with whale hunts, is charged with damaging the guatemalan boat as he attempted to protect sharks who were being killed for their fins. A spokesmen for the sea shepherd conservation society said the organization's boat, the ocean warrior, used water cannons on the fishing vessel, but \"there were no injuries and no physical damage. \" the confrontation was part of a 2007 documentary, sharkwater. Sea shepherd is refusing to divulge watson's whereabouts.",
         "split": "train",
         "cleansed_document": [
-            "Interpol has issued an international wanted notice for conservationist and \"whale wars \" tv star paul watson, days after he skipped bail in germany as costa rica tried to have him extradited. Watson was arrested at germany's frankfurt airport on may 13 on an arrest warrant issued by costa rica, which accuses him of endangering a fishing vessel off the coast of guatemala in 2002. He posted roughly $ 302,000 bail and was ordered to remain in germany as it considered costa rica's extradition request, but he stopped reporting to authorities on july 22, a german court said. Watson left germany and forfeited his bail, according to his sea shepherd conservation society, which isn't revealing his location. \"following confirmation from german authorities that paul watson had failed to satisfy the bail conditions established by the german courts and had fled the country, costa rican authorities renewed their request \" for interpol to issue an international wanted notice for watson, which interpol did tuesday, interpol said. Costa rican authorities allege that watson – whose attempts to disrupt japanese whalers at sea gained him fame on animal planet's \"whale wars \" tv show – and his crew aboard sea shepherd's ocean warrior ship endangered a costa rican fishing vessel during a confrontation off guatemala's coast. The u.s.-based sea shepherd denies the allegations, arguing that the charges have less to do with law than with watson's anti-conservationist enemies. In the 2002 incident, according to sea shepherd ship operations officer peter hammarstedt, the ocean warrior found a costa rican crew killing sharks for their fins in guatemalan waters. The ocean warrior initially had permission from guatemalan authorities to stop it and tow the vessel into port, he said. The ocean warrior used water cannons on the fishing vessel, but \"there were no injuries and no physical damage to any ship, \" hammarstedt said in may. The ocean warrior did stop the ship, but guatemalan authorities eventually asked watson to release it, hammarstedt said. The confrontation is detailed in part of a 2007 documentary, \"sharkwater, \" hammarstedt said. Shark finning is the practice of cutting the fins off sharks and throwing the sharks back into the sea, where they die. The fins are used for expensive soup, mostly in china. The current charge, according to interpol, is \"causing a danger of drowning",
-            "Whale wars: it's not about whales. It's about 42 crazy die-hards with a mission. Follow the sea shepherd conservation society's ongoing struggle to end japanese whaling on our website, featuring deleted scenes, crew profiles, behind-the-scenes interviews, articles about whaling and much, much more! season 5 episode guide »"
+            "Interpol has issued an international wanted notice for conservationist and \"whale wars \" tv star paul watson, days after he skipped bail in germany as costa rica tried to have him extradited. Watson was arrested at germany's frankfurt airport on may 13 on an arrest warrant issued by costa rica, which accuses him of endangering a fishing vessel off the coast of guatemala in 2002. He posted roughly $ 302,000 bail and was ordered to remain in germany as it considered costa rica's extradition request, but he stopped reporting to authorities on july 22, a german court said. Watson left germany and forfeited his bail, according to his sea shepherd conservation society, which isn't revealing his location. \"following confirmation from german authorities that paul watson had failed to satisfy the bail conditions established by the german courts and had fled the country, costa rican authorities renewed their request \" for interpol to issue an international wanted notice for watson, which interpol did tuesday, interpol said. Costa rican authorities allege that watson – whose attempts to disrupt japanese whalers at sea gained him fame on animal planet's \"whale wars \" tv show – and his crew aboard sea shepherd's ocean warrior ship endangered a costa rican fishing vessel during a confrontation off guatemala's coast. The u.s.-based sea shepherd denies the allegations, arguing that the charges have less to do with law than with watson's anti-conservationist enemies. In the 2002 incident, according to sea shepherd ship operations officer peter hammarstedt, the ocean warrior found a costa rican crew killing sharks for their fins in guatemalan waters. The ocean warrior initially had permission from guatemalan authorities to stop it and tow the vessel into port, he said. The ocean warrior used water cannons on the fishing vessel, but \"there were no injuries and no physical damage to any ship, \" hammarstedt said in may. The ocean warrior did stop the ship, but guatemalan authorities eventually asked watson to release it, hammarstedt said. The confrontation is detailed in part of a 2007 documentary, \"sharkwater, \" hammarstedt said. Shark finning is the practice of cutting the fins off sharks and throwing the sharks back into the sea, where they die. The fins are used for expensive soup, mostly in china. The current charge, according to interpol, is \"causing a danger of drowning"
         ],
         "raw_document": [
             "Interpol has issued an international wanted notice for conservationist and \"whale wars \" tv star paul watson, days after he skipped bail in germany as costa rica tried to have him extradited. Watson was arrested at germany's frankfurt airport on may 13 on an arrest warrant issued by costa rica, which accuses him of endangering a fishing vessel off the coast of guatemala in 2002. He posted roughly $ 302,000 bail and was ordered to remain in germany as it considered costa rica's extradition request, but he stopped reporting to authorities on july 22, a german court said. Watson left germany and forfeited his bail, according to his sea shepherd conservation society, which isn't revealing his location. \"following confirmation from german authorities that paul watson had failed to satisfy the bail conditions established by the german courts and had fled the country, costa rican authorities renewed their request \" for interpol to issue an international wanted notice for watson, which interpol did tuesday, interpol said. Costa rican authorities allege that watson – whose attempts to disrupt japanese whalers at sea gained him fame on animal planet's \"whale wars \" tv show – and his crew aboard sea shepherd's ocean warrior ship endangered a costa rican fishing vessel during a confrontation off guatemala's coast. The u.s.-based sea shepherd denies the allegations, arguing that the charges have less to do with law than with watson's anti-conservationist enemies. In the 2002 incident, according to sea shepherd ship operations officer peter hammarstedt, the ocean warrior found a costa rican crew killing sharks for their fins in guatemalan waters. The ocean warrior initially had permission from guatemalan authorities to stop it and tow the vessel into port, he said. The ocean warrior used water cannons on the fishing vessel, but \"there were no injuries and no physical damage to any ship, \" hammarstedt said in may. The ocean warrior did stop the ship, but guatemalan authorities eventually asked watson to release it, hammarstedt said. The confrontation is detailed in part of a 2007 documentary, \"sharkwater, \" hammarstedt said. Shark finning is the practice of cutting the fins off sharks and throwing the sharks back into the sea, where they die. The fins are used for expensive soup, mostly in china. The current charge, according to interpol, is \"causing a danger of drowning",
@@ -926,7 +920,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -1007,12 +1001,11 @@
     },
     {
         "idx": 14838,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Police looking for a delaware man suspected of stabbing his girlfriend to death eventually found him in a new york city hospital, where he was recovering from an apparent suicide attempt. Police say rondell veal, 36, slashed his throat and jumped onto the tracks at grand central station early sunday, but officers were able to grab him before a train arrived, the new york daily news reports. The newark, del., police department says it contacted the nypd after discovering the body of sherrie campbell, 34, in the home she shared with veal, the newark post reports. Police say he ' ll be charged with first-degree murder.",
         "split": "train",
         "cleansed_document": [
-            "A delaware man on the run after stabbing his girlfriend to death tried to kill himself in midtown early sunday by jumping onto the subway tracks at grand central station, cops said.",
-            "Newark, de ( 19711 ) today cloudy with rain developing this afternoon. High 46f. Winds light and variable. Chance of rain 90 %. Rainfall around a quarter of an inch.. Tonight cloudy with periods of rain. Low near 45f. Winds light and variable. Chance of rain 100 %. 1 to 2 inches of rain expected."
+            "A delaware man on the run after stabbing his girlfriend to death tried to kill himself in midtown early sunday by jumping onto the subway tracks at grand central station, cops said."
         ],
         "raw_document": [
             "A delaware man on the run after stabbing his girlfriend to death tried to kill himself in midtown early sunday by jumping onto the subway tracks at grand central station, cops said.",
@@ -1027,7 +1020,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1060,13 +1053,12 @@
     },
     {
         "idx": 14840,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Rumors have been flying that kim kardashian and kanye west secretly wed this week, but kardashian took to twitter yesterday to set the record straight. \" 1. We are not married yet! \" she tweeted, before getting to the real shocker: \" 2. We are not filming our wedding for keeping up with the kardashians. You will see everything leading up til and after! as much as we would love to share these memories on camera, we've decided to keep this close to our heart &amp; share thru photos. \" as far as when the blessed event is taking place, tmz reports that it won't happen until their prenup is signed, which won't be until next week at the earliest. Kardashian followed her tweets, last night, with an essay posted to her website that has a lot of people shaking their heads. In it, she explains that before she and kanye had baby north, \" i never really gave racism or discrimination a lot of thought. \" but west is \" obviously... Passionate about \" it, and lately it's been on her mind. \" i've read and personally experienced some incidents that have sickened me and made me take notice. I realize that racism and discrimination are still alive, \" she writes, before promising to do something about it ( though it's not clear exactly what ). In other kardashian news, the hamptons do not want kourtney and khloe.",
         "split": "train",
         "cleansed_document": [
             "Kim kardashian and kanye west are married! the couple wed this week in california in advance of their lavish paris celebration, a source told life &amp; style. As radar reported, kimye obtained their marriage license last week. The craziest &amp; most outrageous celebrity rumors — what's true, what's not? the bride and groom will host an estimated 200 friends and relatives at their wedding bash later this month in paris. This is the third marriage for the keeping up with the kardashians star. Read: you're clean? prove it! humphries ' former fling asks a judge to force him to get tested for herpes photos: 26 extravagant celebrity weddings — were these nuptials worth the millions?",
-            "The hamptons are the one of the east coast's foremost enclaves of the stars, boasting a-list residents such as howard stern, matt lauer and alec baldwin, but there's at least two famous faces the area's well-heeled locals aren't welcoming with open arms: kourtney and khloé kardashian. The celebrity sisters this summer are set to commence filming on their new spinoff kourtney &amp; khloé take the hamptons, and the ny post reports that hamptonites \"are up in arms about it. \"they have been looking at property on little plains road in southampton, and already the neighbors … don't want the hassle of the entourage, the cameras, the paparazzi and all the fanfare that comes with this attention-seeking family. \" photos: always in fashion with the season, kourtney kardashian keeps things light in calabasas the oldest and youngest of the kardashian sisters are also planning to set up one of their dash stores in the swanky new york area, according to the paper. Southampton village mayor mark epley confirmed the tumult to the post, saying, \"we have had some reaction from some residents … the",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "The hamptons are the one of the east coast's foremost enclaves of the stars, boasting a-list residents such as howard stern, matt lauer and alec baldwin, but there's at least two famous faces the area's well-heeled locals aren't welcoming with open arms: kourtney and khloé kardashian. The celebrity sisters this summer are set to commence filming on their new spinoff kourtney &amp; khloé take the hamptons, and the ny post reports that hamptonites \"are up in arms about it. \"they have been looking at property on little plains road in southampton, and already the neighbors … don't want the hassle of the entourage, the cameras, the paparazzi and all the fanfare that comes with this attention-seeking family. \" photos: always in fashion with the season, kourtney kardashian keeps things light in calabasas the oldest and youngest of the kardashian sisters are also planning to set up one of their dash stores in the swanky new york area, according to the paper. Southampton village mayor mark epley confirmed the tumult to the post, saying, \"we have had some reaction from some residents … the"
         ],
         "raw_document": [
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period.",
@@ -1085,17 +1077,16 @@
             "0": 5,
             "1": 0,
             "2": 1,
-            "3": 0
+            "3": 5
         }
     },
     {
         "idx": 14841,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "The usa women's basketball team won olympic gold for a historically impressive sixth time in a row saturday, defeating spain 101-72 in rio, usa today reports. The team has now won 49 games in a row. And only once has an opponent come within 10 points of team usa during that streak. The americans posted an average margin of victory of 38.5 points in rio and \" simply had no peers in these olympics. \" the ap states team usa played \" nearly flawless \" basketball. Diana taurasi and lindsay whalen led the way against spain with 17 points each. A 16-3 team usa run in the second quarter effectively ended any hope spain had for the upset. It's the fourth gold medal for taurasi, sue bird, and tamika catchings.",
         "split": "train",
         "cleansed_document": [
-            "Close usa today sports ' rachel axon tells you the 5 things to watch for during the final day of competition at the rio olympics on sunday, august 21st. Usa today sports aug 20, 2016; rio de janeiro, brazil; usa celebrates after beating spain in the women's basketball gold medal match during the rio 2016 summer olympic games at carioca arena 1. Mandatory credit: rvr photos-usa today sports org xmit: usatsi-322390 orig file id: 20160820_pjc_su1_267.jpg ( photo: bob rosato, rvr photos-usa today sports ) rio de janeiro — two days before the u.s. Women's basketball team would win its sixth consecutive gold medal, downing spain 101-72, diana taurasi was asked about its unprecedented dominance and whether there was enough mainstream recognition. \"hey, we ' ll see after saturday, \" the 34-year-old guard had quipped after a semifinal win over france. \"run around naked. We ' ll all get attention, win or lose. \" instead, they undressed yet another would-be opponent and showed yet again why they're so deserving of global attention. The win brought its eight-game margin of victory average to a whopping 37.2 points in what was a 49th consecutive win by the time their latest dominant deed was done, taurasi wasn't quite as consumed with the notion of how many people had tuned in. She was too",
-            "Cuba's arlen lopez, left, fights uzbekistan's bektemir melikuziev during a men's middleweight 75-kg final boxing match at the 2016 summer olympics in rio de janeiro, brazil, saturday, aug. 20, 2016. ( ap... ( associated press ) cuba's arlen lopez, left, fights uzbekistan's bektemir melikuziev during a men's middleweight 75-kg final boxing match at the 2016 summer olympics in rio de janeiro, brazil, saturday, aug. 20, 2016. ( ap photo/vincent thian ) ( associated press ) rio de janeiro ( ap ) — the latest on the olympics in rio de janeiro ( all times local ): 5: 10 p.m. The dominant u.s. Women's basketball team won a sixth consecutive olympic gold medal in impressive fashion, routing spain 101-72 on saturday. Diana taurasi and the americans played nearly flawless basketball in rio, and were never challenged. They have won 49 consecutive games in the olympics with only one of those decided by single digits. They won by nearly 40 points a game, but fell short of the record 102.4 points the 1996 team averaged. The u.s., which beat spain by 40 in a preliminary round game, got off to a slow start and only led 21-17 after the first quarter. Then the americans got going with a 16-3 run in"
+            "Close usa today sports ' rachel axon tells you the 5 things to watch for during the final day of competition at the rio olympics on sunday, august 21st. Usa today sports aug 20, 2016; rio de janeiro, brazil; usa celebrates after beating spain in the women's basketball gold medal match during the rio 2016 summer olympic games at carioca arena 1. Mandatory credit: rvr photos-usa today sports org xmit: usatsi-322390 orig file id: 20160820_pjc_su1_267.jpg ( photo: bob rosato, rvr photos-usa today sports ) rio de janeiro — two days before the u.s. Women's basketball team would win its sixth consecutive gold medal, downing spain 101-72, diana taurasi was asked about its unprecedented dominance and whether there was enough mainstream recognition. \"hey, we ' ll see after saturday, \" the 34-year-old guard had quipped after a semifinal win over france. \"run around naked. We ' ll all get attention, win or lose. \" instead, they undressed yet another would-be opponent and showed yet again why they're so deserving of global attention. The win brought its eight-game margin of victory average to a whopping 37.2 points in what was a 49th consecutive win by the time their latest dominant deed was done, taurasi wasn't quite as consumed with the notion of how many people had tuned in. She was too"
         ],
         "raw_document": [
             "Close usa today sports ' rachel axon tells you the 5 things to watch for during the final day of competition at the rio olympics on sunday, august 21st. Usa today sports aug 20, 2016; rio de janeiro, brazil; usa celebrates after beating spain in the women's basketball gold medal match during the rio 2016 summer olympic games at carioca arena 1. Mandatory credit: rvr photos-usa today sports org xmit: usatsi-322390 orig file id: 20160820_pjc_su1_267.jpg ( photo: bob rosato, rvr photos-usa today sports ) rio de janeiro — two days before the u.s. Women's basketball team would win its sixth consecutive gold medal, downing spain 101-72, diana taurasi was asked about its unprecedented dominance and whether there was enough mainstream recognition. \"hey, we ' ll see after saturday, \" the 34-year-old guard had quipped after a semifinal win over france. \"run around naked. We ' ll all get attention, win or lose. \" instead, they undressed yet another would-be opponent and showed yet again why they're so deserving of global attention. The win brought its eight-game margin of victory average to a whopping 37.2 points in what was a 49th consecutive win by the time their latest dominant deed was done, taurasi wasn't quite as consumed with the notion of how many people had tuned in. She was too",
@@ -1110,7 +1101,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1267,7 +1258,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 1
         }
     },
     {
@@ -1343,7 +1334,7 @@
         "vote_count": {
             "0": 5,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1489,7 +1480,7 @@
             "1": 0,
             "2": 0,
             "3": 5,
-            "4": 0
+            "4": 1
         }
     },
     {
@@ -1608,7 +1599,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1638,13 +1629,12 @@
     },
     {
         "idx": 14861,
-        "document_num": 3,
+        "document_num": 2,
         "summary": "Faced with the savage murder of two young british tourists on one of his country's most popular beaches, thai pm prayuth chan-ocha elected to address the topic of tourist safety. Unfortunately, he wasn't entirely reassuring, reports the independent: \" there are always problems with tourist safety. They think our country is beautiful and is safe so they can do whatever they want, they can wear bikinis and walk everywhere. \" and then he got downright repugnant: \" can they be safe in bikinis... Unless they are not beautiful? \" the implication that david miller, 24, and hannah witheridge, 23, had no reasonable expectation of safety because they were attractive is not going over well, adds the daily mirror, which further quotes chan-ocha as saying, \" we have to look into the behavior of ( the victims ), too. \" some 800,000 british tourists visit thailand every year. Autopsies have shown that witheridge suffered fatal head wounds, while miller also suffered head wounds and defensive wounds, but drowned in the ocean, reports the ap. And while a bloody hoe was found nearby, police are now saying that they believe there was more than one murderer and more than one weapon. Dna matches have thus far proven elusive, though dna on witheridge's body did match a cigarette butt found on the beach. Cops are currently questioning a brit and three burmese migrants, notes the independent.",
         "split": "train",
         "cleansed_document": [
             "View gallery the prime minister of thailand has caused outrage today by appearing to criticise the behaviour of two britons brutally murdered on an idyllic island. Prime minister prayuth chan-ochas questioned whether ' beautiful bikini-wearing tourists ' are safe in his country - remarks which are likely to infuriate the relatives of david miller, 24, and hannah witheridge, 23. As reported by channel news asia, in a live tv broadcast, the pm said about tourists: \" they think our country is beautiful and is safe so they can do whatever they want, they can wear bikinis and walk everywhere. \" he then added: \".... Can they be safe in bikinis... Unless they are not beautiful? \". Click here for updates of the police investigation it follows previous comments thailand's pm made in which he said \" we have to look into the behaviour of the other party ( miss witheridge",
-            "Prime minister prayuth chan-ocha made the comments as the investigation into the death of two britons intensifies. David miller, 24, and hannah witheridge, 23, were killed earlier this week after they attended a beach party on the island of koh tao in the gulf of thailand. Negative attention on the country – to which 800,000 britons visit each year – appears to have left its leader attempting to offer explanations for why young travellers may run into trouble there. Speaking in a live broadcast on wednesday discussing tourist safety, he said: \"there are always problems with tourist safety. They think our country is beautiful and is safe so they can do whatever they want, they can wear bikinis and walk everywhere, \" according to the afp news agency. He added: \"can they be safe in bikinis... Unless they are not beautiful? \" the prime minister has since apologised for his",
-            "Bangkok ( ap ) — police in thailand said wednesday that dna samples from the bodies of two british tourists found bludgeoned on a resort island did not match any collected from 12 people who were among those in the area. British embassy officials arrive at the forensic police institute to examine the condition of the bodies of two murdered british tourists in bangkok, thailand, wednesday, sept. 17, 2014. Police on a scenic... ( associated press ) chief of the forensic police institute pornchai suteerakune updates reporters on the deaths of two british tourists who were found dead on a beach in koh tao, a popular diving destination in the gulf... ( associated press ) a thai police officer stands outside a ceremony room as british embassy officials are inside to examine the condition of the bodies of two murdered british tourists and to report it to their families... ( associated press ) police also conducted autopsies"
+            "Prime minister prayuth chan-ocha made the comments as the investigation into the death of two britons intensifies. David miller, 24, and hannah witheridge, 23, were killed earlier this week after they attended a beach party on the island of koh tao in the gulf of thailand. Negative attention on the country – to which 800,000 britons visit each year – appears to have left its leader attempting to offer explanations for why young travellers may run into trouble there. Speaking in a live broadcast on wednesday discussing tourist safety, he said: \"there are always problems with tourist safety. They think our country is beautiful and is safe so they can do whatever they want, they can wear bikinis and walk everywhere, \" according to the afp news agency. He added: \"can they be safe in bikinis... Unless they are not beautiful? \" the prime minister has since apologised for his"
         ],
         "raw_document": [
             "View gallery the prime minister of thailand has caused outrage today by appearing to criticise the behaviour of two britons brutally murdered on an idyllic island. Prime minister prayuth chan-ochas questioned whether ' beautiful bikini-wearing tourists ' are safe in his country - remarks which are likely to infuriate the relatives of david miller, 24, and hannah witheridge, 23. As reported by channel news asia, in a live tv broadcast, the pm said about tourists: \" they think our country is beautiful and is safe so they can do whatever they want, they can wear bikinis and walk everywhere. \" he then added: \".... Can they be safe in bikinis... Unless they are not beautiful? \". Click here for updates of the police investigation it follows previous comments thailand's pm made in which he said \" we have to look into the behaviour of the other party ( miss witheridge",
@@ -1661,19 +1651,18 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 4
         }
     },
     {
         "idx": 14862,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "Police have found a body in an israeli forest where a young american hiker went missing about a week ago, reports the jerusalem post. The body hasn't been identified yet, but authorities are working on the \" strong possibility \" that it is that of 23-year-old aharon sofer, a new jersey resident studying in israel, reports haaretz. Sofer went for a hike with a friend in the jerusalem forest on friday, but the pair got separated and sofer never emerged from the woods. Sofer's parents traveled from lakewood, nj, to israel to help with the search and offered a reward of about $ 30,000, reports cnn. Their son had left the us to study at a rabbinical college and was to be gone three years, a family friend tells the star-ledger. He went hiking while on a break from classes. Police have not offered any details on whether they think foul play was involved.",
         "split": "train",
         "cleansed_document": [
             "The area where the body was found in the jerusalem forest, august 28, 2014. The area where the body was found in the jerusalem forest, august 28, 2014. Photo by emil salman israeli police said thursday they have found the body of an american seminary student who disappeared while hiking in jerusalem last week, adding that the youth's death was apparently not a result of a crime. Police spokesman micky rosenfeld said the body was found in the same area where aaron soffer disappeared. Soffer, 23, of lakewood, new jersey, had been hiking with a friend in a hilly, forested area on the outskirts of jerusalem. In a statement issued",
             "Lakewood — like so many of his fellow students in lakewood's orthodox jewish community, aharon sofer left his family to study at a rabbinical college in israel. But while on a break before classes resumed this week at rabbi tzvi kaplan's yeshiva in jerusalem, the 23-year-old student vanished while on a hike in the woods with a friend. His disappearance, now stretching to five days, has touched off an international effort at finding him and has rallied an already close-knit community behind the return of a young man searching for the deeper meaning of his faith's holy texts. \"it affects everyone. It could be anyone's brother, their father",
-            "Story highlights new jersey official says death of aaron sofer, 23, may have been accidental search for missing american in israel ends with discovery of his body in jerusalem-area forest the yeshiva student was reported missing last friday while hiking, police say a body found in a jerusalem-area forest is that of missing american aaron sofer, israeli police spokesman micky rosenfeld said thursday. Forensics investigators were working to determine the cause of death, rosenfeld said. Sofer, 23, was reported missing friday by a friend who was hiking with him. The young man was a yeshiva student, studying in israel. Meir lichtenstein, a lakewood, new jersey, committeeman who is a friend",
-            "Dear reader, as you can imagine, more people are reading the jerusalem post than ever before. Nevertheless, traditional business models are no longer sustainable and high-quality publications, like ours, are being forced to look for new ways to keep going. Unlike many other news organizations, we have not put up a paywall. We want to keep our journalism open and accessible and be able to keep providing you with news and analyses from the frontlines of israel, the middle east and the jewish world. An intensive six-day search scouring the jerusalem forrest and surrounding neighborhoods for missing american yeshiva student aaron sofer came to an end thursday afternoon, when a united hatzalah volunteer"
+            "Story highlights new jersey official says death of aaron sofer, 23, may have been accidental search for missing american in israel ends with discovery of his body in jerusalem-area forest the yeshiva student was reported missing last friday while hiking, police say a body found in a jerusalem-area forest is that of missing american aaron sofer, israeli police spokesman micky rosenfeld said thursday. Forensics investigators were working to determine the cause of death, rosenfeld said. Sofer, 23, was reported missing friday by a friend who was hiking with him. The young man was a yeshiva student, studying in israel. Meir lichtenstein, a lakewood, new jersey, committeeman who is a friend"
         ],
         "raw_document": [
             "The area where the body was found in the jerusalem forest, august 28, 2014. The area where the body was found in the jerusalem forest, august 28, 2014. Photo by emil salman israeli police said thursday they have found the body of an american seminary student who disappeared while hiking in jerusalem last week, adding that the youth's death was apparently not a result of a crime. Police spokesman micky rosenfeld said the body was found in the same area where aaron soffer disappeared. Soffer, 23, of lakewood, new jersey, had been hiking with a friend in a hilly, forested area on the outskirts of jerusalem. In a statement issued",
@@ -1692,20 +1681,19 @@
             "0": 0,
             "1": 1,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
         "idx": 14863,
-        "document_num": 5,
+        "document_num": 4,
         "summary": "Ken burns ' latest mega-documentary, prohibition, starts a three-night run tomorrow on pbs. Reviewers are praising the 5 1/2-hour survey of america's war on booze, but warn that it's a bit slow and may reveal its best stuff in the first episode: \" it's a great subject with many present-day echoes, as the war on drugs ever more loudly raises questions of legislated morality, \" writes robert lloyd in the los angeles times. \" the drama might flag or grow diffuse, but there is still a lot here to learn. \" \" from my barstool, the best night of prohibition — if you watch only one — is the first, on sunday, which looks at how prohibition became law... Namely: america was drunk off its ass, \" james poniewozik writes in time. In slate, troy patterson raised a glass to prohibition despite \" certain burnsian tics of style. \" praising the first episode, \" a nation of drunkards, \" he writes that \" an early segment speeds through the back story of american drinking — the booze in the hold of the mayflower, the daily ration of rum at valley forge, john adams ' hard-cider eye-openers. \" dorothy rabinowitz is all praise in the wall street journal: \" how, in the united states of america, the land of the free, could prohibition ever have come to be? for answering that question alone... The series would have to be considered a triumph. \" despite \" long stretches of sober boredom in the middle of prohibition, \" writes hank stuever writes in the washington post, \" the epic scope of it eventually takes hold and you become far more absorbed in the subject than you ever thought possible. \"",
         "split": "train",
         "cleansed_document": [
             "Tv weekend: the bootleg empire of ken burns ' prohibition there may be nothing more gratifying and unifying for people than coming together in disdain for a past idea, now universally agreed on to be stupid. One of the greatest of these in american history is alcohol prohibition, not merely the impetus for the criminal events of boardwalk empire, but the case study for the idea that the best way to encourage a personal vice is to forbid it. So for fans of boardwalk ( though its viewership was down from its season 1",
             "In the 91 years since the 18th amendment went into effect, the wonderment surrounding this event has never faded. How, in the united states of america, the land of the free, could prohibition ever have come to be? for answering that question alone — which ken burns and lynn novick's \" prohibition \" do in a remarkable first episode — the series would have to be considered a triumph. The story begins with a look at 19th-century america, and at the lives of the obscure, often desperate, americans",
             "It's a great subject with many present-day echoes, as the war on drugs ever more loudly raises questions of legislated morality, missed tax revenues and business opportunities created for bad people. As television, it also dovetails, historically, with \" boardwalk empire, \" whose second season has just begun and, analogously, with \" breaking bad, \" which is, after all, the story of a bootlegger.with co-director lynn novick, his collaborator on \" the war, \" burns tells his story in three chapters, \" a",
-            "Honoring the volstead act's ultimate lesson, i now forbid you to watch \"prohibition, \" ken burns and lynn novick's latest epic historical documentary. Which will, of course, have the reverse effect of making you want to watch it even more. That's \"prohibition's \" lone and oft-repeated take-away: americans don't like being told what to do. The 18th amendment, which banned the sale of alcoholic beverages between 1920 and 1933, was a disastrous experiment in government attempting to enforce morals,",
-            "What should a pbs viewer pour himself to enhance his enjoyment of prohibition ( pbs, sunday through tuesday at 8 p.m. Et )? in posing the question, i don't mean to suggest that this documentary, directed by ken burns and lynn novick, needs any help to go down easy. But it seems correct to celebrate the freedom to get one's buzz on. The freedom is, of course, vastly more important than the buzz itself, as prohibition notes in its closing words. Here, the writer"
+            "Honoring the volstead act's ultimate lesson, i now forbid you to watch \"prohibition, \" ken burns and lynn novick's latest epic historical documentary. Which will, of course, have the reverse effect of making you want to watch it even more. That's \"prohibition's \" lone and oft-repeated take-away: americans don't like being told what to do. The 18th amendment, which banned the sale of alcoholic beverages between 1920 and 1933, was a disastrous experiment in government attempting to enforce morals,"
         ],
         "raw_document": [
             "Tv weekend: the bootleg empire of ken burns ' prohibition there may be nothing more gratifying and unifying for people than coming together in disdain for a past idea, now universally agreed on to be stupid. One of the greatest of these in american history is alcohol prohibition, not merely the impetus for the criminal events of boardwalk empire, but the case study for the idea that the best way to encourage a personal vice is to forbid it. So for fans of boardwalk ( though its viewership was down from its season 1",
@@ -1726,17 +1714,16 @@
             "1": 0,
             "2": 0,
             "3": 1,
-            "4": 0
+            "4": 4
         }
     },
     {
         "idx": 14864,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "A tourist from new zealand was killed by a jet blast wednesday at a caribbean beach famous for being under low-flying aircraft. According to 721news, the 57-year-old woman was holding on to the fence separating st. Maarten's maho beach from princess juliana international airport when the blast from a departing boeing 737 threw her to the ground, causing a fatal head injury. The beach is popular with thrill-seekers and plane-spotters, and warning signs reading, \" do not stand. Danger. Jet blast \" urge tourists to stay away from the fence, the new york daily news reports. This is the first death at the site, though a woman was seriously injured in a similar incident in 2012.",
         "split": "train",
         "cleansed_document": [
-            "Update: princess juliana international airport simpson bay, st. Maarten – the supervisory board of directors, management, and staff of pjiae are saddened to have learned of the passing of a female tourist yesterday evening, as a result of injuries sustained during an unfortunate accident while an aircraft took off. Further investigation by the local authorities will have to show what exactly took place; for now we cannot express enough, our deepest sympathy to the family and friends of the deceased. 721news went on maho beach to bring you the experience and show you the danger of st maarten jet blast. Police report: beacon hill, sint maarten — on wednesday july 12th at approximately 06.00 p.m. The emergency central dispatch received the first of several phone calls reporting an incident which took place on the beacon hill road in the vicinity of the airport runway of the princess juliana international airport. From the reports the central dispatch learnt that several persons were holding on to the airport fence during the take off of a large jet aircraft. During the take off this aircraft a 57 year old female tourist from new zealand was blown away by the jet blast and was seriously injured. Immediately several police patrols and paramedics were directed to the scene to investigate what had taken place. On the scene paramedics encountered a female victim who was not responding very well and she was immediately taken to the sint maarten medical center for further treatment. Unfortunately the victim died shortly after as a result of the injuries she sustained. The landing and taking off of all types and size of aircrafts at the international airport of sint maarten is well known world wide as major tourist attraction. Many tourists come to the island to experience the thrills of the landing of approaching aircrafts flying low above their heads and the holding on to the airport fence and standing in the jet blast of large aircrafts taking off. Doing this is however extremely dangerous. The airport authorities and other local authorities have taken all necessary measures such as the placing of signs to warn the general public",
-            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
+            "Update: princess juliana international airport simpson bay, st. Maarten – the supervisory board of directors, management, and staff of pjiae are saddened to have learned of the passing of a female tourist yesterday evening, as a result of injuries sustained during an unfortunate accident while an aircraft took off. Further investigation by the local authorities will have to show what exactly took place; for now we cannot express enough, our deepest sympathy to the family and friends of the deceased. 721news went on maho beach to bring you the experience and show you the danger of st maarten jet blast. Police report: beacon hill, sint maarten — on wednesday july 12th at approximately 06.00 p.m. The emergency central dispatch received the first of several phone calls reporting an incident which took place on the beacon hill road in the vicinity of the airport runway of the princess juliana international airport. From the reports the central dispatch learnt that several persons were holding on to the airport fence during the take off of a large jet aircraft. During the take off this aircraft a 57 year old female tourist from new zealand was blown away by the jet blast and was seriously injured. Immediately several police patrols and paramedics were directed to the scene to investigate what had taken place. On the scene paramedics encountered a female victim who was not responding very well and she was immediately taken to the sint maarten medical center for further treatment. Unfortunately the victim died shortly after as a result of the injuries she sustained. The landing and taking off of all types and size of aircrafts at the international airport of sint maarten is well known world wide as major tourist attraction. Many tourists come to the island to experience the thrills of the landing of approaching aircrafts flying low above their heads and the holding on to the airport fence and standing in the jet blast of large aircrafts taking off. Doing this is however extremely dangerous. The airport authorities and other local authorities have taken all necessary measures such as the placing of signs to warn the general public"
         ],
         "raw_document": [
             "Update: princess juliana international airport simpson bay, st. Maarten – the supervisory board of directors, management, and staff of pjiae are saddened to have learned of the passing of a female tourist yesterday evening, as a result of injuries sustained during an unfortunate accident while an aircraft took off. Further investigation by the local authorities will have to show what exactly took place; for now we cannot express enough, our deepest sympathy to the family and friends of the deceased. 721news went on maho beach to bring you the experience and show you the danger of st maarten jet blast. Police report: beacon hill, sint maarten — on wednesday july 12th at approximately 06.00 p.m. The emergency central dispatch received the first of several phone calls reporting an incident which took place on the beacon hill road in the vicinity of the airport runway of the princess juliana international airport. From the reports the central dispatch learnt that several persons were holding on to the airport fence during the take off of a large jet aircraft. During the take off this aircraft a 57 year old female tourist from new zealand was blown away by the jet blast and was seriously injured. Immediately several police patrols and paramedics were directed to the scene to investigate what had taken place. On the scene paramedics encountered a female victim who was not responding very well and she was immediately taken to the sint maarten medical center for further treatment. Unfortunately the victim died shortly after as a result of the injuries she sustained. The landing and taking off of all types and size of aircrafts at the international airport of sint maarten is well known world wide as major tourist attraction. Many tourists come to the island to experience the thrills of the landing of approaching aircrafts flying low above their heads and the holding on to the airport fence and standing in the jet blast of large aircrafts taking off. Doing this is however extremely dangerous. The airport authorities and other local authorities have taken all necessary measures such as the placing of signs to warn the general public",
@@ -1751,7 +1738,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -1779,7 +1766,7 @@
         "vote_count": {
             "0": 0,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1859,7 +1846,7 @@
         ],
         "vote_count": {
             "0": 5,
-            "1": 0
+            "1": 2
         }
     },
     {
@@ -1912,7 +1899,7 @@
         "vote_count": {
             "0": 1,
             "1": 0,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -1940,15 +1927,16 @@
         "vote_count": {
             "0": 1,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
         "idx": 14872,
-        "document_num": 2,
+        "document_num": 3,
         "summary": "It's seemingly simple supply and demand that has led us to this point: we now live in a world where a 10-pound salmon is worth more than a barrel of crude oil, a norwegian seafood-industry site reports, via bloomberg. This \" collapse \" in the cost of crude, as bloomberg puts it, in conjunction with non-ample salmon supplies from norway, have led to the odd switch in commodity coveting. To illustrate, alaska dispatch news points out that a 10-pound winter king salmon would currently go for about $ 7.34 a pound, or $ 73 per fish, while a barrel of crude oil is running about $ 30. ( good thing pricey salmon isn't addictive. )",
         "split": "train",
         "cleansed_document": [
+            "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites.",
             "Starting in 1996, alexa internet has been donating their crawl data to the internet archive. Flowing in every day, these data are added to the wayback machine after an embargo period.",
             "These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.then the internet archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.the goal is to fix all broken links on the web. Crawls of supported \" no more 404 \" sites."
         ],
@@ -1965,21 +1953,20 @@
             "None"
         ],
         "vote_count": {
-            "0": 3,
-            "1": 1,
-            "2": 0
+            "0": 2,
+            "1": 0,
+            "2": 2
         }
     },
     {
         "idx": 14873,
-        "document_num": 4,
+        "document_num": 3,
         "summary": "The new starbucks logo is here: is it a disaster of gap logo proportions? not quite, but critics are still a bit baffled: why did they remove \"those pesky words that say starbucks coffee? \" wonders meg marco on the consumerist. \"coffee, we assume, was the primary problem. Why? because starbucks is a fast food joint. \" maybe that's true — but more importantly, starbucks doesn't want to be seen as a chain, alissa walker reminds us on good. The company went so far as to open stores with completely different names that masquerade as independent coffee shops, after all. But will consumers really forget the name — \"and all the baggage that comes along with it \" — even though that green siren is so well-known? this may look like a simple \"tweaking \" of the original logo, but it actually reveals \"starbucks ' abandonment of its core equity, \" writes jim edwards on bnet. Forget diversification, this is \"brand worsification. It's what happens when a perfectly good brand with a solid record in selling, say, coffee, suddenly decides it can sell anything 'with our name on it and no coffee in it. ' \" the logo is fine and all, but sarah walker just doesn't see the point, she writes on best week ever. \"were the starbucks execs sitting around and said, 'we have too much money. Let's pay a branding firm an exorbitant amount to slightly tweak our image and maybe try and make us less recognizable. If such a thing is possible!!! ' \" want more? click to read about what the logo actually means — or to see a slightly more risqué version of the starbucks siren.",
         "split": "train",
         "cleansed_document": [
             "Hold onto your cups! starbucks revealed a refreshed version of its logo today to celebrate its 40th anniversary, notably, with all text denoting this as \" starbucks coffee \" dropped from the image. As ceo howard schultz explains in this video, the siren has been at the heart of the brand for four decades, so it was time to give her a promotion: we've given her a small but meaningful update to ensure that the starbucks brand continues to embrace our heritage in ways that are true to our core values and that also ensure we remain relevant and poised for future growth. He also hints at more changes like \" other products \" and an \" evolution \" coming this spring. The move is not too surprising since starbucks has spent the last two years trying to de-emphasize the starbucks brand from its stores. Instead of the one-starbucks-fits-all look that appeared in",
             "If corporate logos reflect the priorities — or anxieties — of management, then the new starbucks ( sbux ) logo exhibits all those and more. It appears to be a mere evolution of the chain's existing identity but is actually a representative of starbucks ' abandonment of its core equity. On its face, the new logo is yet another tweaking, or simplification, of the original. ( the images, top to bottom, represent starbucks ' logos since 1971. The company merged with il giornale in 1986. ) this time the circle has been removed and the words \"starbucks coffee \" are gone. The new marque appears in only one color: green. ( and yes, the \"siren \" mermaid still has no nipples. Go figure. ) the gap, seattle's best coffee and tropicana all recently learned to their cost that giving your brand icon a whole-scale makeover invites",
-            "Starbucks has a new logo! it's basically just the same one they currently have, minus those pesky words that say starbucks coffee. Coffee, we assume, was the primary problem. Why? because starbucks is a fast food joint. We ' ll let howard schultz, chairman, president and chief executive officer, take it from here: starbucks will continue to offer the highest-quality coffee, but we will offer other products as well - and while the integrity, quality and consistency of these products must remain true to who we are, our new brand identity will give us the freedom and flexibility to explore innovations and new channels of distribution that will keep us in step with our current customers and build strong connections with new customers. What say you, consumer?",
-            "© 2019 viacom international inc. All rights reserved. Vh1 and all related titles and logos are trademarks of viacom international inc."
+            "Starbucks has a new logo! it's basically just the same one they currently have, minus those pesky words that say starbucks coffee. Coffee, we assume, was the primary problem. Why? because starbucks is a fast food joint. We ' ll let howard schultz, chairman, president and chief executive officer, take it from here: starbucks will continue to offer the highest-quality coffee, but we will offer other products as well - and while the integrity, quality and consistency of these products must remain true to who we are, our new brand identity will give us the freedom and flexibility to explore innovations and new channels of distribution that will keep us in step with our current customers and build strong connections with new customers. What say you, consumer?"
         ],
         "raw_document": [
             "Hold onto your cups! starbucks revealed a refreshed version of its logo today to celebrate its 40th anniversary, notably, with all text denoting this as \" starbucks coffee \" dropped from the image. As ceo howard schultz explains in this video, the siren has been at the heart of the brand for four decades, so it was time to give her a promotion: we've given her a small but meaningful update to ensure that the starbucks brand continues to embrace our heritage in ways that are true to our core values and that also ensure we remain relevant and poised for future growth. He also hints at more changes like \" other products \" and an \" evolution \" coming this spring. The move is not too surprising since starbucks has spent the last two years trying to de-emphasize the starbucks brand from its stores. Instead of the one-starbucks-fits-all look that appeared in",
@@ -1998,7 +1985,7 @@
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "3": 5
         }
     },
     {
@@ -2033,7 +2020,7 @@
             "2": 0,
             "3": 0,
             "4": 5,
-            "5": 0
+            "5": 1
         }
     },
     {
@@ -2197,17 +2184,16 @@
             "0": 0,
             "1": 5,
             "2": 0,
-            "3": 0
+            "3": 2
         }
     },
     {
         "idx": 14880,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "When you're an artist, it's considered customary to sign your work. When you're a surgeon, it's considered bizarre and illegal. Renowned british surgeon simon bramhall, who branded his initials on the livers of at least two transplant patients in 2013, pleaded guilty to assault wednesday, the bbc reports. The liver, spleen, and pancreas surgeon used an argon beam — normally used to stop livers from bleeding or to sketch out areas to be operated on — to brand \" sb \" on the patients ' organs. Such marks usually disappear on their own, but bramhall's handiwork was discovered when a colleague operated on a patient whose liver had failed to heal normally, the guardian reports. Bramhall was suspended from birmingham's queen elizabeth hospital and resigned after a disciplinary hearing in 2014. At wednesday's hearing, prosecutor tony badenoch said the \" highly complex and unusual case \" was \" without legal precedent in criminal law. \" he added that the branding of initials required \" some skill and concentration \" — and was carried out in the presence of colleagues. The prosecutor said the guilty plea shows bramhall accepts what he did to unconscious patients \" was not just ethically wrong but criminally wrong. \" bramhall will be sentenced next month. Npr notes that while the case was apparently without precedent in britain, there have been similar incidents in the us, including a 2010 case in which a california gynecologist was sued for branding a patient's name on a uterus he had removed.",
         "split": "train",
         "cleansed_document": [
-            "Simon bramhall pleads guilty to two counts of assault after using argon gas to sign 'sb ' on patients ' organs a surgeon has pleaded guilty to marking his initials on the livers of two patients while performing transplant surgery. In a hearing at birmingham crown court on wednesday, simon bramhall admitted two counts of assault by beating relating to incidents on 9 february and 21 august 2013. He pleaded not guilty to the more serious charges of assault occasioning actual bodily harm. The renowned liver, spleen and pancreas surgeon used an argon beam, used to stop livers bleeding during operations and to highlight an area due to be worked on, to sign his initials into the patients ' organs. The marks left by argon are not thought to impair the organ's function and usually disappear by themselves. The 53-year-old was first suspended from his post as a consultant surgeon at birmingham's queen elizabeth hospital in 2013 after a colleague spotted the initials \"sb \" on an organ during follow-up surgery on one of bramhall's patients. The following summer, while an internal disciplinary investigation into his conduct was ongoing, bramhall tendered his resignation. Speaking to the press at the time, he said marking his initials on to his patients ' livers had been a mistake. \"i had a disciplinary meeting on 15 may. I was not dismissed, \"",
-            "We regret to inform you that a british surgeon was branding his initials on livers enlarge this image toggle caption jim watson/afp/getty images jim watson/afp/getty images the liver is a fascinating thing. If you want to read a thought-provoking story about the liver, you might like to learn about the challenges of building a fairer system for allocating access to liver transplants. Or the history of efforts to grow \" liverettes \" in petri dishes. Interested in an international, culinary angle? what about turkey's annual liver festival? how about a heartwarming story from member station wbur about a 6-year-old boy who had a bright idea for helping his friend with a rare liver disease? the new york times ran a strange and beautiful essay this summer, about the history of the human liver ( the \" seat of the human soul \" to mesopotamians ) and its strange \" inventory of talents. \" the liver \" sprawls like a beached sea lion, \" natalie angier writes, \" likes its bloodlines leaky, \" keeps track of time through mysterious oscillations. It's a great essay. You could go read it now, if you like. Or — if you must — you can read about the british surgeon who repeatedly burned his initials into human livers during organ transplants. Simon bramhall, 53, has pleaded guilty to assault of two"
+            "Simon bramhall pleads guilty to two counts of assault after using argon gas to sign 'sb ' on patients ' organs a surgeon has pleaded guilty to marking his initials on the livers of two patients while performing transplant surgery. In a hearing at birmingham crown court on wednesday, simon bramhall admitted two counts of assault by beating relating to incidents on 9 february and 21 august 2013. He pleaded not guilty to the more serious charges of assault occasioning actual bodily harm. The renowned liver, spleen and pancreas surgeon used an argon beam, used to stop livers bleeding during operations and to highlight an area due to be worked on, to sign his initials into the patients ' organs. The marks left by argon are not thought to impair the organ's function and usually disappear by themselves. The 53-year-old was first suspended from his post as a consultant surgeon at birmingham's queen elizabeth hospital in 2013 after a colleague spotted the initials \"sb \" on an organ during follow-up surgery on one of bramhall's patients. The following summer, while an internal disciplinary investigation into his conduct was ongoing, bramhall tendered his resignation. Speaking to the press at the time, he said marking his initials on to his patients ' livers had been a mistake. \"i had a disciplinary meeting on 15 may. I was not dismissed, \""
         ],
         "raw_document": [
             "Simon bramhall pleads guilty to two counts of assault after using argon gas to sign 'sb ' on patients ' organs a surgeon has pleaded guilty to marking his initials on the livers of two patients while performing transplant surgery. In a hearing at birmingham crown court on wednesday, simon bramhall admitted two counts of assault by beating relating to incidents on 9 february and 21 august 2013. He pleaded not guilty to the more serious charges of assault occasioning actual bodily harm. The renowned liver, spleen and pancreas surgeon used an argon beam, used to stop livers bleeding during operations and to highlight an area due to be worked on, to sign his initials into the patients ' organs. The marks left by argon are not thought to impair the organ's function and usually disappear by themselves. The 53-year-old was first suspended from his post as a consultant surgeon at birmingham's queen elizabeth hospital in 2013 after a colleague spotted the initials \"sb \" on an organ during follow-up surgery on one of bramhall's patients. The following summer, while an internal disciplinary investigation into his conduct was ongoing, bramhall tendered his resignation. Speaking to the press at the time, he said marking his initials on to his patients ' livers had been a mistake. \"i had a disciplinary meeting on 15 may. I was not dismissed, \"",
@@ -2222,7 +2208,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2289,7 +2275,7 @@
             "4": 0,
             "5": 1,
             "6": 0,
-            "7": 0
+            "7": 1
         }
     },
     {
@@ -2350,12 +2336,10 @@
     },
     {
         "idx": 14885,
-        "document_num": 1,
+        "document_num": 0,
         "summary": "Deputies in north carolina say they're seeking a teenager who robbed a 9-year-old's lemonade stand at gunpoint, per the ap. The union county sheriff's office said sunday that the stickup happened near a traffic roundabout in monroe, about 30 miles southeast of charlotte. Deputies say the young drink vendor reported that a male teenager with a camouflage hat and black shirt placed a black handgun to the boy's stomach saturday, demanded money and then fled on foot. Sheriff's spokesman tony underwood tells the charlotte observer less than $ 20 in cash was stolen. According to a statement the sheriff's office posted to facebook, authorities found a camouflage hat, a black bb handgun and a stolen metal tin along a trail in some nearby woods. Deputies believe the suspect left a bicycle in the brush for his getaway. Authorities said they're unsure if the bb gun they found is the same weapon used in the holdup, but that is appears to likely to be the case because of where it was recovered along with the other items.",
         "split": "train",
-        "cleansed_document": [
-            "What kind of pathetic, coward shoots and kills a family dog? the kind that work here it seems. Never mind the fact the officer was at t about 7 months ago 1 star"
-        ],
+        "cleansed_document": [],
         "raw_document": [
             "This will appear next to all of your comments this will not appear anywhere on newser",
             "What kind of pathetic, coward shoots and kills a family dog? the kind that work here it seems. Never mind the fact the officer was at t about 7 months ago 1 star"
@@ -2369,7 +2353,7 @@
         ],
         "vote_count": {
             "0": 3,
-            "1": 0
+            "1": 4
         }
     },
     {
@@ -2446,7 +2430,7 @@
         "vote_count": {
             "0": 3,
             "1": 1,
-            "2": 0
+            "2": 1
         }
     },
     {
@@ -2471,17 +2455,16 @@
         ],
         "vote_count": {
             "0": 1,
-            "1": 0
+            "1": 1
         }
     },
     {
         "idx": 14890,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Go ahead and let out that breath you've been holding: elin nordegren is a-ok with the tiger woods-lindsey vonn publicity stunt — er, relationship — at least according to the sources who dished to the new york post. Nordegren \" really likes lindsey and thinks she is a very good influence on tiger, \" says one. Plus, vonn gets along with tiger and elin's kids, and woods \" seems happy. \" so does vonn: in the latest issue of vogue, she says she and tiger \" immediately clicked, you know? it was just one of those things. \" but she has no plans to get married for a second time, she adds, \" to anyone. \"",
         "split": "train",
         "cleansed_document": [
-            "Elin nordegren has given her golf-great ex-husband tiger woods'relationship with olympic skier lindsey vonn her blessing, sources exclusively tell page six. We're told swedish stunner nordegren \"really likes lindsey and thinks she is a very good influence on tiger. \" nordegren, who had two children with woods, famously dumped him after his affairs with dozens of women, including new york hospitality maven rachel uchitel, were revealed. Woods is now dating pro skier vonn, after meeting her at a charity event in 2012. Now, nordegren has given their relationship a thumbs-up. Sources tell us the former model believes her ex \"seems happy with lindsey, and she gets on well with their children. \" nordegren — who reportedly received a $ 100 million divorce settlement from woods — is happily dating billionaire coal-mining entrepreneur chris cline, and constructing a $ 12 million home in north palm beach, fla. Meanwhile, vonn opened up about her relationship with woods in vogue's august issue, admitting: \"we immediately clicked, you know? it was just one of those things. \" though they've been inseparable since meeting, lindsey, who divorced her skiing coach thomas vonn in 2012, says she ' ll never wed again. \"no, thanks! i am definitely not getting married. To anyone, \" she said. Vonn explained: \"it's",
-            "Photographed by annie leibovitz with her injury behind her, and tiger woods on her team, olympic skier lindsey vonn has finally found balance in a life spent constantly on the move. One of the most surprising images in the press all spring was that of an injured lindsey vonn — still recovering from a horrifying crash at the world championships in february — in a floppy kentucky derby hat or giant sunglasses and a sundress, following her boyfriend, tiger woods, around the storied golf courses of america. ( is this a great country, or what? ) seeing vonn being chauffeured around in a golf cart to watch woods as he made ( or missed ) a putt, one was reminded that this world-class skier has chosen a mate whose sport could not be more different from her own — though it may be the only one that is more difficult to spectate. \"i ' m lucky to see one shot a hole! \" says vonn, laughing. \"when he comes to watch me ski, he's just gonna be cold. But he ' ll be able to see because of the jumbotrons. Plus, my sport is over in a matter of minutes. His is a marathon that lasts forever. This round last weekend was over five hours! but i ' m getting used to it. \" it is 7"
+            "Elin nordegren has given her golf-great ex-husband tiger woods'relationship with olympic skier lindsey vonn her blessing, sources exclusively tell page six. We're told swedish stunner nordegren \"really likes lindsey and thinks she is a very good influence on tiger. \" nordegren, who had two children with woods, famously dumped him after his affairs with dozens of women, including new york hospitality maven rachel uchitel, were revealed. Woods is now dating pro skier vonn, after meeting her at a charity event in 2012. Now, nordegren has given their relationship a thumbs-up. Sources tell us the former model believes her ex \"seems happy with lindsey, and she gets on well with their children. \" nordegren — who reportedly received a $ 100 million divorce settlement from woods — is happily dating billionaire coal-mining entrepreneur chris cline, and constructing a $ 12 million home in north palm beach, fla. Meanwhile, vonn opened up about her relationship with woods in vogue's august issue, admitting: \"we immediately clicked, you know? it was just one of those things. \" though they've been inseparable since meeting, lindsey, who divorced her skiing coach thomas vonn in 2012, says she ' ll never wed again. \"no, thanks! i am definitely not getting married. To anyone, \" she said. Vonn explained: \"it's"
         ],
         "raw_document": [
             "Elin nordegren has given her golf-great ex-husband tiger woods'relationship with olympic skier lindsey vonn her blessing, sources exclusively tell page six. We're told swedish stunner nordegren \"really likes lindsey and thinks she is a very good influence on tiger. \" nordegren, who had two children with woods, famously dumped him after his affairs with dozens of women, including new york hospitality maven rachel uchitel, were revealed. Woods is now dating pro skier vonn, after meeting her at a charity event in 2012. Now, nordegren has given their relationship a thumbs-up. Sources tell us the former model believes her ex \"seems happy with lindsey, and she gets on well with their children. \" nordegren — who reportedly received a $ 100 million divorce settlement from woods — is happily dating billionaire coal-mining entrepreneur chris cline, and constructing a $ 12 million home in north palm beach, fla. Meanwhile, vonn opened up about her relationship with woods in vogue's august issue, admitting: \"we immediately clicked, you know? it was just one of those things. \" though they've been inseparable since meeting, lindsey, who divorced her skiing coach thomas vonn in 2012, says she ' ll never wed again. \"no, thanks! i am definitely not getting married. To anyone, \" she said. Vonn explained: \"it's",
@@ -2496,7 +2479,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2537,12 +2520,11 @@
     },
     {
         "idx": 14892,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Bad news for iranians wanting small families: the country plans to ban vasectomies and other permanent forms of birth control and punish all violators as criminals, the washington post reports. In fact any advertising of birth control will become illegal, reuters notes, a stark turnaround for a nation that once promoted birth control and gave away condoms for free. So why is the ayatollah khamenei supporting the new bill and urging young iranians to resist \" undesirable aspects of western lifestyles \" by having bigger families? because of iran's low birthrate, which has sunk to 1.8 children per woman, a full 0.3 children less than is needed to keep up the present population, irna reports. Iran had the opposite problem in the 1980s, when its population was growing too fast for the economy — so the government promoted birth control and required couples to have family-planning counseling before marriage. Women indeed had fewer babies, got more involved in the workforce, and eventually outnumbered men in higher education. \" government officials were wrong on this matter, and i, too, had a part, \" khamenei said in 2012. \" may god and history forgive us. \" now critics say the new plan could cause a rise in abortions ( which are only legal when a mother's life is at risk ), and may force women out of the workplace into \" traditional roles, \" reports the post. Before taking effect, the bill needs approval from a council to ensure that it jibes with islamic law.",
         "split": "train",
         "cleansed_document": [
-            "Dubai ( reuters ) - iran's parliament has voted to ban permanent forms of contraception, the state news agency irna reported, endorsing the supreme leader ayatollah ali khamenei's call for measures to increase the population. Iraqi women walk past a poster depicting images of shi ' ite iran's supreme leader ayatollah ali khamenei at al-firdous square in baghdad february 12, 2014. Reuters/ahmed saad the bill, banning vasectomies and similar procedures in women, is parliament's response to a decree khamenei issued in may calling for more babies to \"strengthen national identity \" and counter \"undesirable aspects of western lifestyles \". Doctors who violate the ban will be punishable by law, the isna news agency reported. The bill, approved by 143 out of 231 members present in parliament, according to irna, also bans the advertising of birth control in a country where condoms had been widely available and family planning considered entirely normal. The law now goes to the guardian council - a panel of theologians and jurists appointed by the supreme leader who examine whether legislation complies with islam. It aims to reverse iran's declining population, but reformists see the law as part of a drive by conservatives keep iran's highly educated female population in traditional roles as wives and mothers. It also worries health advocates who fear an increase in illegal abortions",
-            "Khalil ali-mohammadzadeh said the current fertility rate determines the future population of the country, and if the rate prevails, it will have a negative impact on the lives of people. Replacement fertility level is the total fertility rate at which women give birth to enough babies to sustain population levels. Ali-mohammadzadeh said iran ranked 23rd among 26 regional countries and 146th among 209 countries in terms of population growth. Based on family planning policies, launched in 1981, the country's tfr was expected to drop from 6.4 to 4 in 2006, but in practice the figure reached 3.6 in 1992 which was 14 years earlier than projected, iran daily wrote in its sunday issue. The official said various socioeconomic factors have caused the problem, adding that other countries also faced a decline in population growth during the period. Tfr of turkey dropped from 3.6 to 2, saudi arabia's from 5.5 to 2.9, and pakistan's from 6.1 to 3.6 respectively in the past three decades. Ali-mohammadzadeh noted that high prevalence of singlehood among youth and the rising trend of having one-child families are among the main factors leading to a decline in the world's tfr by 33 percent in the past 30 years. \"having proper management is the main prerequisite for the correct implementation of any plan, \" he said. He believes that although the population"
+            "Dubai ( reuters ) - iran's parliament has voted to ban permanent forms of contraception, the state news agency irna reported, endorsing the supreme leader ayatollah ali khamenei's call for measures to increase the population. Iraqi women walk past a poster depicting images of shi ' ite iran's supreme leader ayatollah ali khamenei at al-firdous square in baghdad february 12, 2014. Reuters/ahmed saad the bill, banning vasectomies and similar procedures in women, is parliament's response to a decree khamenei issued in may calling for more babies to \"strengthen national identity \" and counter \"undesirable aspects of western lifestyles \". Doctors who violate the ban will be punishable by law, the isna news agency reported. The bill, approved by 143 out of 231 members present in parliament, according to irna, also bans the advertising of birth control in a country where condoms had been widely available and family planning considered entirely normal. The law now goes to the guardian council - a panel of theologians and jurists appointed by the supreme leader who examine whether legislation complies with islam. It aims to reverse iran's declining population, but reformists see the law as part of a drive by conservatives keep iran's highly educated female population in traditional roles as wives and mothers. It also worries health advocates who fear an increase in illegal abortions"
         ],
         "raw_document": [
             "Dubai ( reuters ) - iran's parliament has voted to ban permanent forms of contraception, the state news agency irna reported, endorsing the supreme leader ayatollah ali khamenei's call for measures to increase the population. Iraqi women walk past a poster depicting images of shi ' ite iran's supreme leader ayatollah ali khamenei at al-firdous square in baghdad february 12, 2014. Reuters/ahmed saad the bill, banning vasectomies and similar procedures in women, is parliament's response to a decree khamenei issued in may calling for more babies to \"strengthen national identity \" and counter \"undesirable aspects of western lifestyles \". Doctors who violate the ban will be punishable by law, the isna news agency reported. The bill, approved by 143 out of 231 members present in parliament, according to irna, also bans the advertising of birth control in a country where condoms had been widely available and family planning considered entirely normal. The law now goes to the guardian council - a panel of theologians and jurists appointed by the supreme leader who examine whether legislation complies with islam. It aims to reverse iran's declining population, but reformists see the law as part of a drive by conservatives keep iran's highly educated female population in traditional roles as wives and mothers. It also worries health advocates who fear an increase in illegal abortions",
@@ -2557,17 +2539,16 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
         "idx": 14893,
-        "document_num": 2,
+        "document_num": 1,
         "summary": "Come june,.porn and.adult web urls will be available to the general public, just like.xxx sites went live in 2011. But certain people and companies with trademarks were allowed to snap up.porn or.adult domain names early, and taylor swift registered both taylorswift.porn and taylorswift.adult. \" it is unclear what she plans to do with them, if anything, \" notes the hollywood reporter. But no, the singer's probably not considering expanding into the adult film business; cnn money notes that she likely bought the urls to avoid someone else starting up a taylor swift-themed porn website. Swift also recently got the last laugh at hackers over their nude pic claims. Back in 2011, the nonprofit internet corporation for assigned names and numbers offered just 22 \" generic top-level domains \" for sale ( think.com,.net, and the like ); today, new web suffixes are released each month, and there are currently more than 547 available. Also taking advantage of the early so-called \" sunrise period \": microsoft, which registered office.porn and office.adult. Come june 1, \" it's first to the buzzer, \" explains the ceo of icm registry, which operates the new x-rated domains. Also up for grabs june 1:.sucks urls, which will be operated by a different registry company — and it may cost a trademarked entity up to $ 2,499 per year to register and thus safeguard its own.sucks domain, marketing land reports. ( meanwhile, one domain that didn't get registered by the famous person of the same name? tedcruz.com. )",
         "split": "train",
         "cleansed_document": [
-            "You can't take taylorswift.adult either. Taylor swift knew these domain names were trouble when they walked in. The singer's team has purchased the web addresses taylorswift.porn and taylorswift.adult, prior to them becoming available to the public on june 1, according to cnn. It is unclear what she plans to do with them, if anything. The move was prompted by nonprofit group internet corporation for assigned names and numbers continuing to expand the number of generic top-level domains, beyond such popular ones as.com and.net. A number of controversial domain names will be available in june, but public figures and companies are currently being given a window of time in which to register them before anyone else can. This means that, in addition to swift preemptively snatching up the sexy-sounding addresses, microsoft office has also registered office.porn and office.adult. By the way, another web suffix becoming available is.sucks, with domains costing up to $ 2,500 to register, ad week reports. This is good news if you've been recently wishing that the internet would offer a little more negativity. Email: ryan.gajewski@thr.com twitter: @_ryangajewski",
-            "Among the 500+ new, generic top-level domains ( gtlds ) that have been approved, few have generated as much concern and consternation as.sucks. Before he left office, us senator jay rockefeller told icann — the international organization that manages the internet's domain name system — that the domain has \"little or no public interest value \" and called it \"little more than a predatory shakedown scheme \" aimed at getting businesses to spend big money on defensive domain registrations. When early reports spread about what it might cost a trademark holder to protect itself with a.sucks domain, domain industry insiders called it shocking and.crap. Controversy or not,.sucks is almost here. A company called momentous won icann's auction last november via its subsidiary, vox populi, giving it the right to operate the.sucks gtld. The early registration period — \"sunrise \" is the official term — starts on march 30th and general availability begins on june 1st. What are brands to do? and what will the impact be on trademark protection and reputation management? we turned to some experts for thoughts on that. First, a look at the controversy surrounding this new domain. Conversation or consternation? vox populi is positioning the new gtld as a platform for conversation. Its website declares that the domain \"is designed to help consumers find their voices and allow companies to find the value in criticism. \" in a phone interview with marketing land, vox populi ceo john berard repeated that mantra, saying that the company sees \"an opportunity for an increased back and forth between"
+            "You can't take taylorswift.adult either. Taylor swift knew these domain names were trouble when they walked in. The singer's team has purchased the web addresses taylorswift.porn and taylorswift.adult, prior to them becoming available to the public on june 1, according to cnn. It is unclear what she plans to do with them, if anything. The move was prompted by nonprofit group internet corporation for assigned names and numbers continuing to expand the number of generic top-level domains, beyond such popular ones as.com and.net. A number of controversial domain names will be available in june, but public figures and companies are currently being given a window of time in which to register them before anyone else can. This means that, in addition to swift preemptively snatching up the sexy-sounding addresses, microsoft office has also registered office.porn and office.adult. By the way, another web suffix becoming available is.sucks, with domains costing up to $ 2,500 to register, ad week reports. This is good news if you've been recently wishing that the internet would offer a little more negativity. Email: ryan.gajewski@thr.com twitter: @_ryangajewski"
         ],
         "raw_document": [
             "You can't take taylorswift.adult either. Taylor swift knew these domain names were trouble when they walked in. The singer's team has purchased the web addresses taylorswift.porn and taylorswift.adult, prior to them becoming available to the public on june 1, according to cnn. It is unclear what she plans to do with them, if anything. The move was prompted by nonprofit group internet corporation for assigned names and numbers continuing to expand the number of generic top-level domains, beyond such popular ones as.com and.net. A number of controversial domain names will be available in june, but public figures and companies are currently being given a window of time in which to register them before anyone else can. This means that, in addition to swift preemptively snatching up the sexy-sounding addresses, microsoft office has also registered office.porn and office.adult. By the way, another web suffix becoming available is.sucks, with domains costing up to $ 2,500 to register, ad week reports. This is good news if you've been recently wishing that the internet would offer a little more negativity. Email: ryan.gajewski@thr.com twitter: @_ryangajewski",
@@ -2582,7 +2563,7 @@
         ],
         "vote_count": {
             "0": 0,
-            "1": 0
+            "1": 5
         }
     },
     {
@@ -2752,7 +2733,7 @@
             "The summary revolves around the meeting between Canadian Prime Minister Justin Trudeau and former U.S. President Barack Obama in Montreal and their discussion on developing the next generation of leaders. Documents 1, 2, 3, 4, and 5 are all related to this topic of the meeting between Trudeau and Obama in Montreal. Document 6 is a tweet that echoes Trudeau's gratitude towards Obama for his insights, which aligns with the summary. Therefore, the irrelevant document is: None"
         ],
         "vote_count": {
-            "0": 3,
+            "0": 4,
             "1": 0,
             "2": 0,
             "3": 0,
