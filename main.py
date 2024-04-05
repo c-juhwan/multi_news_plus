@@ -26,7 +26,10 @@ def main(args: argparse.Namespace) -> None:
             elif args.job in ['training', 'resume_training']:
                 from task.summarization.train import training as job
             elif args.job == 'testing':
-                from task.summarization.test import testing as job
+                if args.model_type in ['bart', 't5']:
+                    from task.summarization.test import testing as job
+                elif args.model_type in ['gemma', 'mistral', 'llama2']:
+                    from task.summarization.llm_test import testing as job
             else:
                 raise ValueError(f'Invalid job: {args.job}')
         else:

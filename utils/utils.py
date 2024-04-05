@@ -160,7 +160,12 @@ def get_huggingface_model_name(model_type: str) -> str:
         return 'facebook/opt-2.7b'
     elif name == 'bloom':
         return 'bigscience/bloom-560m'
-
+    elif name == 'gemma':
+        return 'google/gemma-7b-it'
+    elif name == 'mistral':
+        return 'mistralai/Mistral-7B-Instruct-v0.2'
+    elif name == 'llama2':
+        return 'meta-llama/Llama-2-7b-chat-hf'
     else:
         raise NotImplementedError
 

@@ -17,9 +17,12 @@ class ArgParser():
         job_list = ['preprocessing', 'training', 'resume_training', 'testing']
         self.parser.add_argument('--job', type=str, choices=job_list, default='training',
                                  help='Job to do; Must be given.')
-        dataset_list = ['multi_news', 'multi_news_plus']
+        dataset_list = ['multi_news', 'multi_news_plus',
+                        'multi_news_llm_noise0', 'multi_news_llm_noise1', 'multi_news_llm_noise2']
         self.parser.add_argument('--task_dataset', type=str, choices=dataset_list, default='multi_news',
                                  help='Dataset for the task; Must be given.')
+        self.parser.add_argument('--test_dataset', type=str, choices=dataset_list, default='multi_news_plus',
+                                 help='Dataset for testing; Must be given.')
         self.parser.add_argument('--description', type=str, default='default',
                                  help='Description of the experiment; Default is "default"')
 
@@ -39,7 +42,7 @@ class ArgParser():
         # Model - Basic arguments
         self.parser.add_argument('--proj_name', type=str, default=self.proj_name,
                                  help='Name of the project.')
-        model_type_list = ['bart', 't5']
+        model_type_list = ['bart', 't5', 'gemma', 'mistral', 'llama2']
         self.parser.add_argument('--model_type', type=str, choices=model_type_list, default='bart',
                                  help='Type of the classification model to use.')
         self.parser.add_argument('--model_ispretrained', type=parse_bool, default=True,
@@ -86,8 +89,8 @@ class ArgParser():
                                  help='Objective to optimize; Default is loss')
 
         # Testing/Inference arguments
-        self.parser.add_argument('--test_batch_size', default=4, type=int,
-                                 help='Batch size for test; Default is 4')
+        self.parser.add_argument('--test_batch_size', default=1, type=int,
+                                 help='Batch size for test; Default is 1')
 
         # Other arguments - Device, Seed, Logging, etc.
         self.parser.add_argument('--device', type=str, default='cuda',

@@ -45,7 +45,7 @@ def testing(args: argparse.Namespace) -> None:
 
     # Load dataset and define dataloader
     write_log(logger, "Loading dataset...")
-    dataset_test = SummarizationDataset(args, os.path.join(args.preprocess_path, args.task, 'multi_news_plus', 'test.pkl'), 'test') # For fair comparison, share multi_news_plus test data for all models
+    dataset_test = SummarizationDataset(args, os.path.join(args.preprocess_path, args.task, args.test_dataset, 'test.pkl'), 'test') # For fair comparison, share multi_news_plus test data for all models
     dataloader_test = DataLoader(dataset_test, batch_size=args.test_batch_size, num_workers=args.num_workers,
                                  shuffle=False, pin_memory=True, drop_last=False, collate_fn=collate_fn)
 
@@ -221,6 +221,7 @@ def testing(args: argparse.Namespace) -> None:
     if args.use_wandb:
         wandb_df = pd.DataFrame({
             'Dataset': [args.task_dataset],
+            'Test_Dataset': [args.test_dataset],
             'Model': [args.model_type],
             'Bleu_1': [metrics_dict['Bleu_1']],
             'Bleu_2': [metrics_dict['Bleu_2']],
